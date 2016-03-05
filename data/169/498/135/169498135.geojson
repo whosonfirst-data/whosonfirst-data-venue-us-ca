@@ -2,8 +2,8 @@
   "id": 169498135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.261155,38.603304,-121.261155,38.603304",
     "geom:latitude":38.603304,
@@ -29,11 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082889,
-        85633793,
         85688637,
-        85802629
+        85633793,
+        85802629,
+        102082889
     ],
+    "wof:brand_id":420575939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h6jvFHeU6YKalyjUtAxVT_38.603304_-121.261155@1294081369"
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169498135,
-    "wof:lastmodified":1449035161,
+    "wof:lastmodified":1457219092,
     "wof:name":"SBC",
     "wof:parent_id":85802629,
     "wof:placetype":"venue",
@@ -58,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.261155,38.603304,-121.261155,38.603304],
+  "bbox": [
+    -121.261155,
+    38.603304,
+    -121.261155,
+    38.603304
+],
   "geometry": {"coordinates":[-121.261155,38.603304],"type":"Point"}
 }
