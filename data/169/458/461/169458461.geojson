@@ -2,8 +2,8 @@
   "id": 169458461,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.877875,38.626178,-122.877875,38.626178",
     "geom:latitude":38.626178,
@@ -25,11 +25,12 @@
     "sg:website":"www.winecountrytravelodge.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85810907
+        85633793,
+        85810907,
+        102081671
     ],
+    "wof:brand_id":420575219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TTIsfQZuXuDpD82VgxsOK_38.626178_-122.877875@1294081369"
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":169458461,
-    "wof:lastmodified":1449035028,
+    "wof:lastmodified":1457218911,
     "wof:name":"Travelodge",
     "wof:parent_id":85810907,
     "wof:placetype":"venue",
@@ -54,6 +55,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.877875,38.626178,-122.877875,38.626178],
+  "bbox": [
+    -122.877875,
+    38.626178,
+    -122.877875,
+    38.626178
+],
   "geometry": {"coordinates":[-122.877875,38.626178],"type":"Point"}
 }

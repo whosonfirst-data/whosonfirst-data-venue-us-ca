@@ -2,8 +2,8 @@
   "id": 169564465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.138537,36.205015,-121.138537,36.205015",
     "geom:latitude":36.205015,
@@ -27,11 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
+    "wof:brand_id":420574153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ds0iOD77JqSZed7wBd3hZ_36.205015_-121.138537@1294081369"
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":169564465,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1457218486,
     "wof:name":"Best Western Inn",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
@@ -56,6 +57,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.138537,36.205015,-121.138537,36.205015],
+  "bbox": [
+    -121.138537,
+    36.205015,
+    -121.138537,
+    36.205015
+],
   "geometry": {"coordinates":[-121.138537,36.205015],"type":"Point"}
 }

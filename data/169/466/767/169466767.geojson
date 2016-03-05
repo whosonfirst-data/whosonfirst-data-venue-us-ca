@@ -2,8 +2,8 @@
   "id": 169466767,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.568859,37.029868,-121.568859,37.029868",
     "geom:latitude":37.029868,
@@ -28,11 +28,12 @@
     "sg:website":"www.homedepot.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85885991
+        85633793,
+        85885991,
+        102081673
     ],
+    "wof:brand_id":420574013,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DBycYSJhh7a6OVkWbmXtv_37.029868_-121.568859@1294081369"
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169466767,
-    "wof:lastmodified":1449033669,
+    "wof:lastmodified":1457218360,
     "wof:name":"Home Depot",
     "wof:parent_id":85885991,
     "wof:placetype":"venue",
@@ -57,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.568859,37.029868,-121.568859,37.029868],
+  "bbox": [
+    -121.568859,
+    37.029868,
+    -121.568859,
+    37.029868
+],
   "geometry": {"coordinates":[-121.568859,37.029868],"type":"Point"}
 }

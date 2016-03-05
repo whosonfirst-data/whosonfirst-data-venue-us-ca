@@ -2,8 +2,8 @@
   "id": 169508897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.253832,32.995629,-117.253832,32.995629",
     "geom:latitude":32.995629,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85868399
+        85633793,
+        85868399,
+        102083569
     ],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IQ1RQRfL1stQI7U64VPHz_32.995629_-117.253832@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169508897,
-    "wof:lastmodified":1449034542,
+    "wof:lastmodified":1457218215,
     "wof:name":"Great Clips",
     "wof:parent_id":85868399,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.253832,32.995629,-117.253832,32.995629],
+  "bbox": [
+    -117.253832,
+    32.995629,
+    -117.253832,
+    32.995629
+],
   "geometry": {"coordinates":[-117.253832,32.995629],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169485751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.871429,37.491728,-120.871429,37.491728",
     "geom:latitude":37.491728,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
+    "wof:brand_id":420574233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AXTZdRP9Mr2SGe9ENJClo_37.491728_-120.871429@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169485751,
-    "wof:lastmodified":1449034695,
+    "wof:lastmodified":1457218537,
     "wof:name":"Motel 6",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.871429,37.491728,-120.871429,37.491728],
-  "geometry": {"coordinates":[-120.871429,37.491728],"type":"Point"}
+  "bbox": [
+    -120.871429,
+    37.491728,
+    -120.871429,
+    37.491728
+],
+  "geometry": {"coordinates":[-120.87142900000001,37.491728],"type":"Point"}
 }

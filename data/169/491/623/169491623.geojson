@@ -2,8 +2,8 @@
   "id": 169491623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.484384,39.085955,-123.484384,39.085955",
     "geom:latitude":39.085955,
@@ -27,11 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082885,
-        85633793,
         85688637,
-        85888157
+        85633793,
+        85888157,
+        102082885
     ],
+    "wof:brand_id":420575269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mcLPXfm8UtwgHJwEFP9ui_39.085955_-123.484384@1294081369"
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":169491623,
-    "wof:lastmodified":1449032627,
+    "wof:lastmodified":1457218923,
     "wof:name":"Parks & Recreation Dept",
     "wof:parent_id":85888157,
     "wof:placetype":"venue",
@@ -56,6 +57,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.484384,39.085955,-123.484384,39.085955],
-  "geometry": {"coordinates":[-123.484384,39.085955],"type":"Point"}
+  "bbox": [
+    -123.484384,
+    39.085955,
+    -123.484384,
+    39.085955
+],
+  "geometry": {"coordinates":[-123.48438400000001,39.085955],"type":"Point"}
 }

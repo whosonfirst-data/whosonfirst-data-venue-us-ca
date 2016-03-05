@@ -2,8 +2,8 @@
   "id": 169425841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.531853,37.893843,-122.531853,37.893843",
     "geom:latitude":37.893843,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85802885
+        85633793,
+        85802885,
+        102084353
     ],
+    "wof:brand_id":420573867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Xl6yfMOHu0NrEkvTl4prw_37.893843_-122.531853@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169425841,
-    "wof:lastmodified":1449033852,
+    "wof:lastmodified":1457218168,
     "wof:name":"Wells Fargo Bank",
     "wof:parent_id":85802885,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.531853,37.893843,-122.531853,37.893843],
+  "bbox": [
+    -122.531853,
+    37.893843,
+    -122.531853,
+    37.893843
+],
   "geometry": {"coordinates":[-122.531853,37.893843],"type":"Point"}
 }

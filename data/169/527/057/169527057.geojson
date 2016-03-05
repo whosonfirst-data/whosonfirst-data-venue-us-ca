@@ -2,8 +2,8 @@
   "id": 169527057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.193701,39.136026,-123.193701,39.136026",
     "geom:latitude":39.136026,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082885,
-        85633793,
         85688637,
-        85803833
+        85633793,
+        85803833,
+        102082885
     ],
+    "wof:brand_id":420574769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mqYKFVqQ2XlI7Fc7BwCwx_39.136026_-123.193701@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169527057,
-    "wof:lastmodified":1449035278,
+    "wof:lastmodified":1457218767,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85803833,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.193701,39.136026,-123.193701,39.136026],
+  "bbox": [
+    -123.193701,
+    39.136026,
+    -123.193701,
+    39.136026
+],
   "geometry": {"coordinates":[-123.193701,39.136026],"type":"Point"}
 }

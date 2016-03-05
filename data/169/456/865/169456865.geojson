@@ -2,8 +2,8 @@
   "id": 169456865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.677394,38.549535,-121.677394,38.549535",
     "geom:latitude":38.549535,
@@ -27,11 +27,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082309,
-        85633793,
         85688637,
-        85885873
+        85633793,
+        85885873,
+        102082309
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZhijAy2CizWxy50MyAmeO_38.549535_-121.677394@1294081369"
@@ -48,7 +49,7 @@
         }
     ],
     "wof:id":169456865,
-    "wof:lastmodified":1449033667,
+    "wof:lastmodified":1457218926,
     "wof:name":"Dennys",
     "wof:parent_id":85885873,
     "wof:placetype":"venue",
@@ -56,6 +57,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.677394,38.549535,-121.677394,38.549535],
-  "geometry": {"coordinates":[-121.677394,38.549535],"type":"Point"}
+  "bbox": [
+    -121.677394,
+    38.549535,
+    -121.677394,
+    38.549535
+],
+  "geometry": {"coordinates":[-121.67739400000001,38.549535],"type":"Point"}
 }

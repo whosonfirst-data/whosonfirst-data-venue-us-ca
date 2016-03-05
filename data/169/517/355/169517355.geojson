@@ -2,8 +2,8 @@
   "id": 169517355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.877373,38.626267,-122.877373,38.626267",
     "geom:latitude":38.626267,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85810907
+        85633793,
+        85810907,
+        102081671
     ],
+    "wof:brand_id":420574153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bIizH5yqE9kV2zGEXQ9dx_38.626267_-122.877373@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169517355,
-    "wof:lastmodified":1449034571,
+    "wof:lastmodified":1457218486,
     "wof:name":"Best Western Inn",
     "wof:parent_id":85810907,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.877373,38.626267,-122.877373,38.626267],
-  "geometry": {"coordinates":[-122.877373,38.626267],"type":"Point"}
+  "bbox": [
+    -122.877373,
+    38.626267,
+    -122.877373,
+    38.626267
+],
+  "geometry": {"coordinates":[-122.87737300000001,38.626267],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169426977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.067228,38.254766,-122.067228,38.254766",
     "geom:latitude":38.254766,
@@ -28,11 +28,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087589,
-        85633793,
         85688637,
-        85810315
+        85633793,
+        85810315,
+        102087589
     ],
+    "wof:brand_id":420574713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QymqdHyLGZapcTm6pyGqA_38.254766_-122.067228@1294081369"
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":169426977,
-    "wof:lastmodified":1449033391,
+    "wof:lastmodified":1457218749,
     "wof:name":"Hertz",
     "wof:parent_id":85810315,
     "wof:placetype":"venue",
@@ -57,6 +58,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.067228,38.254766,-122.067228,38.254766],
+  "bbox": [
+    -122.067228,
+    38.254766,
+    -122.067228,
+    38.254766
+],
   "geometry": {"coordinates":[-122.067228,38.254766],"type":"Point"}
 }

@@ -2,8 +2,8 @@
   "id": 169450009,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.280501,34.104669,-117.280501,34.104669",
     "geom:latitude":34.104669,
@@ -29,11 +29,12 @@
     "sg:website":"www.calguard.ca.gov",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85854505
+        85633793,
+        85854505,
+        102085395
     ],
+    "wof:brand_id":420575603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38HCi68oXXCNZsbAVuZ9dH_34.104669_-117.280501@1294081369"
@@ -50,7 +51,7 @@
         }
     ],
     "wof:id":169450009,
-    "wof:lastmodified":1449035460,
+    "wof:lastmodified":1457219004,
     "wof:name":"Army National Guard",
     "wof:parent_id":85854505,
     "wof:placetype":"venue",
@@ -58,6 +59,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.280501,34.104669,-117.280501,34.104669],
+  "bbox": [
+    -117.280501,
+    34.104669,
+    -117.280501,
+    34.104669
+],
   "geometry": {"coordinates":[-117.280501,34.104669],"type":"Point"}
 }

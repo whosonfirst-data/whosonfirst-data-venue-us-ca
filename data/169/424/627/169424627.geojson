@@ -2,8 +2,8 @@
   "id": 169424627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.656877,36.658315,-121.656877,36.658315",
     "geom:latitude":36.658315,
@@ -24,11 +24,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
+    "wof:brand_id":420573917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ay6xfcrCp0uCv3c7UmR80_36.658315_-121.656877@1294081369"
@@ -45,7 +46,7 @@
         }
     ],
     "wof:id":169424627,
-    "wof:lastmodified":1449035755,
+    "wof:lastmodified":1457218251,
     "wof:name":"AFLAC",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
@@ -53,6 +54,11 @@
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.656877,36.658315,-121.656877,36.658315],
-  "geometry": {"coordinates":[-121.656877,36.658315],"type":"Point"}
+  "bbox": [
+    -121.656877,
+    36.658315,
+    -121.656877,
+    36.658315
+],
+  "geometry": {"coordinates":[-121.65687699999999,36.658315],"type":"Point"}
 }
