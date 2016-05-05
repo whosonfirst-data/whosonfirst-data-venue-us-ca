@@ -5,6 +5,9 @@
 WHOAMI = $(shell basename `pwd`)
 YMD = $(shell date "+%Y%m%d")
 
+# https://github.com/whosonfirst/go-whosonfirst-utils/blob/master/cmd/wof-expand.go
+WOF_EXPAND = $(shell which wof-expand)
+
 archive:
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
@@ -25,6 +28,10 @@ concordances:
 count:
 	find ./data -name '*.geojson' -print | wc -l
 
+docs:
+	curl -s -o LICENSE.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/LICENSE-SHORT.md
+	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
+
 gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
@@ -40,15 +47,22 @@ internetarchive:
 	$(MAKE) src=$(src) ia
 	rm $(src)/$(WHOAMI)-$(YMD).tar.bz2
 
+list-empty:
+	find data -type d -empty -print
+
 makefile:
 	mv Makefile Makefile.$(YMD)
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
 
-list-empty:
-	find data -type d -empty -print
-
 postbuffer:
 	git config http.postBuffer 104857600
+
+# As in this: https://github.com/whosonfirst/git-whosonfirst-data
+
+post-pull:
+	./.git/hooks/pre-commit --start-commit $(commit)
+	./.git/hooks/post-commit --start-commit $(commit)
+	./.git/hooks/post-push-async --start-commit $(commit)
 
 prune:
 	git gc --aggressive --prune
@@ -81,3 +95,12 @@ sync-es:
 
 sync-s3:
 	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix data -processes 64
+
+wof-less:
+	less `$(WOF_EXPAND) -prefix data $(id)`
+
+wof-open:
+	$(EDITOR) `$(WOF_EXPAND) -prefix data $(id)`
+
+wof-path:
+	$(WOF_EXPAND) -prefix data $(id)
