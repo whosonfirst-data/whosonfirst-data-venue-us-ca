@@ -36,6 +36,17 @@ gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
 
+gitlf:
+	if ! test -f .gitattributes; then touch .gitattributes; fi
+ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
+	cp .gitattributes .gitattributes.tmp
+	perl -pe 'chomp if eof' .gitattributes.tmp
+	echo "*.geojson text eol=lf" >> .gitattributes.tmp
+	mv .gitattributes.tmp .gitattributes
+else
+	@echo "Git linefeed hoohah already set"
+endif
+
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
@@ -51,7 +62,6 @@ list-empty:
 	find data -type d -empty -print
 
 makefile:
-	mv Makefile Makefile.$(YMD)
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
 
 postbuffer:
