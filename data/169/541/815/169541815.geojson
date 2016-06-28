@@ -2,13 +2,14 @@
   "id": 169541815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.968338,37.847225,-121.968338,37.847225",
     "geom:latitude":37.847225,
     "geom:longitude":-121.968338,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1817 Lackland Dr",
     "sg:city":"Alamo",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85888185
+        85633793,
+        85888185,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169541815,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466342842,
     "wof:name":"Rfc Wireless Inc",
     "wof:parent_id":85888185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.968338,37.847225,-121.968338,37.847225],
+  "bbox": [
+    -121.968338,
+    37.847225,
+    -121.968338,
+    37.847225
+],
   "geometry": {"coordinates":[-121.968338,37.847225],"type":"Point"}
 }

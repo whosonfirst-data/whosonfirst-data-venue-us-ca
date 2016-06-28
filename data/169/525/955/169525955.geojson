@@ -2,13 +2,14 @@
   "id": 169525955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.197931,34.246669,-119.197931,34.246669",
     "geom:latitude":34.246669,
     "geom:longitude":-119.197931,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2878 Sherwin Ave",
     "sg:city":"Ventura",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85828315
+        85633793,
+        85828315,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169525955,
-    "wof:lastmodified":1449035275,
+    "wof:lastmodified":1466342072,
     "wof:name":"R & D Truck Repair",
     "wof:parent_id":85828315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.197931,34.246669,-119.197931,34.246669],
+  "bbox": [
+    -119.197931,
+    34.246669,
+    -119.197931,
+    34.246669
+],
   "geometry": {"coordinates":[-119.197931,34.246669],"type":"Point"}
 }

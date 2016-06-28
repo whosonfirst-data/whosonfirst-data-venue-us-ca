@@ -2,13 +2,14 @@
   "id": 169557371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.393388,33.864806,-118.393388,33.864806",
     "geom:latitude":33.864806,
     "geom:longitude":-118.393388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"703 Pier Ave",
     "sg:city":"Hermosa Beach",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886363
+        85633793,
+        85886363,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169557371,
-    "wof:lastmodified":1449035037,
+    "wof:lastmodified":1466343629,
     "wof:name":"Devine J Travers",
     "wof:parent_id":85886363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.393388,33.864806,-118.393388,33.864806],
+  "bbox": [
+    -118.393388,
+    33.864806,
+    -118.393388,
+    33.864806
+],
   "geometry": {"coordinates":[-118.393388,33.864806],"type":"Point"}
 }

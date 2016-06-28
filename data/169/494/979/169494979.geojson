@@ -2,13 +2,14 @@
   "id": 169494979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.101725,38.009192,-122.101725,38.009192",
     "geom:latitude":38.009192,
     "geom:longitude":-122.101725,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"68 Morello Ave",
     "sg:city":"Martinez",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85853909
+        85633793,
+        85853909,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169494979,
-    "wof:lastmodified":1449035590,
+    "wof:lastmodified":1466338549,
     "wof:name":"Morello Avenue Baptist Church",
     "wof:parent_id":85853909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.101725,38.009192,-122.101725,38.009192],
+  "bbox": [
+    -122.101725,
+    38.009192,
+    -122.101725,
+    38.009192
+],
   "geometry": {"coordinates":[-122.101725,38.009192],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169472669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.316363,38.345775,-122.316363,38.345775",
     "geom:latitude":38.345775,
     "geom:longitude":-122.316363,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4473 Meadowlark Dr",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85846841
+        85633793,
+        85846841,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169472669,
-    "wof:lastmodified":1449032934,
+    "wof:lastmodified":1466335988,
     "wof:name":"J&J Advertising Specialties",
     "wof:parent_id":85846841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.316363,38.345775,-122.316363,38.345775],
+  "bbox": [
+    -122.316363,
+    38.345775,
+    -122.316363,
+    38.345775
+],
   "geometry": {"coordinates":[-122.316363,38.345775],"type":"Point"}
 }

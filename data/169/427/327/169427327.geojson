@@ -2,13 +2,14 @@
   "id": 169427327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.43694,36.499623,-121.43694,36.499623",
     "geom:latitude":36.499623,
     "geom:longitude":-121.43694,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 S Alta St",
     "sg:city":"Gonzales",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.dole.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169427327,
-    "wof:lastmodified":1449033676,
+    "wof:lastmodified":1466334420,
     "wof:name":"Dole Carrot Co",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.43694,36.499623,-121.43694,36.499623],
-  "geometry": {"coordinates":[-121.43694,36.499623],"type":"Point"}
+  "bbox": [
+    -121.43694,
+    36.499623,
+    -121.43694,
+    36.499623
+],
+  "geometry": {"coordinates":[-121.43694000000001,36.499623],"type":"Point"}
 }

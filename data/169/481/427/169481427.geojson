@@ -2,13 +2,14 @@
   "id": 169481427,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.495003,34.0297,-118.495003,34.0297",
     "geom:latitude":34.0297,
     "geom:longitude":-118.495003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1201 Idaho Ave",
     "sg:city":"Santa Monica",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85887943
+        85633793,
+        85887943,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169481427,
-    "wof:lastmodified":1449035531,
+    "wof:lastmodified":1466336985,
     "wof:name":"Westside Crane Svc",
     "wof:parent_id":85887943,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.495003,34.0297,-118.495003,34.0297],
+  "bbox": [
+    -118.495003,
+    34.0297,
+    -118.495003,
+    34.0297
+],
   "geometry": {"coordinates":[-118.495003,34.0297],"type":"Point"}
 }

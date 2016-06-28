@@ -2,13 +2,14 @@
   "id": 169493343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.781247,33.850241,-117.781247,33.850241",
     "geom:latitude":33.850241,
     "geom:longitude":-117.781247,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"114 Francisco St",
     "sg:city":"Anaheim",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85867357
+        85633793,
+        85867357,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169493343,
-    "wof:lastmodified":1449033738,
+    "wof:lastmodified":1466338359,
     "wof:name":"Anaheim Hills Manor",
     "wof:parent_id":85867357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.781247,33.850241,-117.781247,33.850241],
-  "geometry": {"coordinates":[-117.781247,33.850241],"type":"Point"}
+  "bbox": [
+    -117.781247,
+    33.850241,
+    -117.781247,
+    33.850241
+],
+  "geometry": {"coordinates":[-117.78124699999999,33.850241],"type":"Point"}
 }

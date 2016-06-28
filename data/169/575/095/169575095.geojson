@@ -2,13 +2,14 @@
   "id": 169575095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.102424,38.936923,-121.102424,38.936923",
     "geom:latitude":38.936923,
     "geom:longitude":-121.102424,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11569 F Ave",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169575095,
-    "wof:lastmodified":1449033641,
+    "wof:lastmodified":1466343958,
     "wof:name":"Placer Visual Svc Ctr",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.102424,38.936923,-121.102424,38.936923],
+  "bbox": [
+    -121.102424,
+    38.936923,
+    -121.102424,
+    38.936923
+],
   "geometry": {"coordinates":[-121.102424,38.936923],"type":"Point"}
 }

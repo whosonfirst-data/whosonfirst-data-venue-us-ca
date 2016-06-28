@@ -2,13 +2,14 @@
   "id": 169463497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.976359,35.350744,-118.976359,35.350744",
     "geom:latitude":35.350744,
     "geom:longitude":-118.976359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"335 Washington St",
     "sg:city":"Bakersfield",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081727,
-        85633793,
         85688637,
-        85867327
+        85633793,
+        85867327,
+        102081727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169463497,
-    "wof:lastmodified":1449034983,
+    "wof:lastmodified":1466334950,
     "wof:name":"Bakersfield Uniform & Towel Co",
     "wof:parent_id":85867327,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.976359,35.350744,-118.976359,35.350744],
+  "bbox": [
+    -118.976359,
+    35.350744,
+    -118.976359,
+    35.350744
+],
   "geometry": {"coordinates":[-118.976359,35.350744],"type":"Point"}
 }

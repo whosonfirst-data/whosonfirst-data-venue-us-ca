@@ -2,13 +2,14 @@
   "id": 169527281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.25043,38.138037,-121.25043,38.138037",
     "geom:latitude":38.138037,
     "geom:longitude":-121.25043,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1301 E Lockeford St",
     "sg:city":"Lodi",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085393,
-        85633793,
         85688637,
-        85841025
+        85633793,
+        85841025,
+        102085393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169527281,
-    "wof:lastmodified":1449035279,
+    "wof:lastmodified":1466342138,
     "wof:name":"Calpine Containers Inc",
     "wof:parent_id":85841025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.25043,38.138037,-121.25043,38.138037],
-  "geometry": {"coordinates":[-121.25043,38.138037],"type":"Point"}
+  "bbox": [
+    -121.25043,
+    38.138037,
+    -121.25043,
+    38.138037
+],
+  "geometry": {"coordinates":[-121.25042999999999,38.138037],"type":"Point"}
 }

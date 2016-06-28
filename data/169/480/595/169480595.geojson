@@ -2,13 +2,14 @@
   "id": 169480595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.244921,36.328777,-121.244921,36.328777",
     "geom:latitude":36.328777,
     "geom:longitude":-121.244921,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"610 Walnut Ave",
     "sg:city":"Greenfield",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169480595,
-    "wof:lastmodified":1449033766,
+    "wof:lastmodified":1466336893,
     "wof:name":"Daniel's Hair Design",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.244921,36.328777,-121.244921,36.328777],
-  "geometry": {"coordinates":[-121.244921,36.328777],"type":"Point"}
+  "bbox": [
+    -121.244921,
+    36.328777,
+    -121.244921,
+    36.328777
+],
+  "geometry": {"coordinates":[-121.24492100000001,36.328777],"type":"Point"}
 }

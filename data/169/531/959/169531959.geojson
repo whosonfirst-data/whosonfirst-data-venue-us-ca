@@ -2,13 +2,14 @@
   "id": 169531959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.099827,34.906859,-117.099827,34.906859",
     "geom:latitude":34.906859,
     "geom:longitude":-117.099827,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25749 Community Blvd",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169531959,
-    "wof:lastmodified":1449033476,
+    "wof:lastmodified":1466342353,
     "wof:name":"Hills Ranch Inc",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.099827,34.906859,-117.099827,34.906859],
+  "bbox": [
+    -117.099827,
+    34.906859,
+    -117.099827,
+    34.906859
+],
   "geometry": {"coordinates":[-117.099827,34.906859],"type":"Point"}
 }

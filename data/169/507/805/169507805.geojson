@@ -2,13 +2,14 @@
   "id": 169507805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.288282,38.307445,-122.288282,38.307445",
     "geom:latitude":38.307445,
     "geom:longitude":-122.288282,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"849 Jackson St",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886543
+        85633793,
+        85886543,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169507805,
-    "wof:lastmodified":1449034377,
+    "wof:lastmodified":1466340009,
     "wof:name":"Fun With Fusion",
     "wof:parent_id":85886543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.288282,38.307445,-122.288282,38.307445],
+  "bbox": [
+    -122.288282,
+    38.307445,
+    -122.288282,
+    38.307445
+],
   "geometry": {"coordinates":[-122.288282,38.307445],"type":"Point"}
 }

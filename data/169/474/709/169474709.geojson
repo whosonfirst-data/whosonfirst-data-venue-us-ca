@@ -2,13 +2,14 @@
   "id": 169474709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.531111,37.893273,-122.531111,37.893273",
     "geom:latitude":37.893273,
     "geom:longitude":-122.531111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"524 Miller Ave",
     "sg:city":"Mill Valley",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85802885
+        85633793,
+        85802885,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169474709,
-    "wof:lastmodified":1449032826,
+    "wof:lastmodified":1466336220,
     "wof:name":"Symmetry of Movement",
     "wof:parent_id":85802885,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.531111,37.893273,-122.531111,37.893273],
+  "bbox": [
+    -122.531111,
+    37.893273,
+    -122.531111,
+    37.893273
+],
   "geometry": {"coordinates":[-122.531111,37.893273],"type":"Point"}
 }

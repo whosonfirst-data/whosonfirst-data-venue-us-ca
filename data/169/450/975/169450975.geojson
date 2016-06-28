@@ -2,13 +2,14 @@
   "id": 169450975,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.05741,38.259358,-122.05741,38.259358",
     "geom:latitude":38.259358,
     "geom:longitude":-122.05741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1580 Gateway Blvd",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087589,
-        85633793,
         85688637,
-        85810315
+        85633793,
+        85810315,
+        102087589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169450975,
-    "wof:lastmodified":1449035459,
+    "wof:lastmodified":1466353423,
     "wof:name":"Thomasville Of Fairfield",
     "wof:parent_id":85810315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.05741,38.259358,-122.05741,38.259358],
+  "bbox": [
+    -122.05741,
+    38.259358,
+    -122.05741,
+    38.259358
+],
   "geometry": {"coordinates":[-122.05741,38.259358],"type":"Point"}
 }

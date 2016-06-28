@@ -2,13 +2,14 @@
   "id": 169425289,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.925178,38.407975,-122.925178,38.407975",
     "geom:latitude":38.407975,
     "geom:longitude":-122.925178,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13340 Frati Ln",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169425289,
-    "wof:lastmodified":1449033854,
+    "wof:lastmodified":1466334242,
     "wof:name":"Harris Builders",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.925178,38.407975,-122.925178,38.407975],
+  "bbox": [
+    -122.925178,
+    38.407975,
+    -122.925178,
+    38.407975
+],
   "geometry": {"coordinates":[-122.925178,38.407975],"type":"Point"}
 }

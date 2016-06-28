@@ -2,13 +2,14 @@
   "id": 169424465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.130802,33.758622,-118.130802,33.758622",
     "geom:latitude":33.758622,
     "geom:longitude":-118.130802,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5353 E 2nd St",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -24,12 +25,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
+        85633793,
         85805639,
-        85836293,
-        85923525
+        102086957,
+        85923525,
+        85836293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169424465,
-    "wof:lastmodified":1449035752,
+    "wof:lastmodified":1466346557,
     "wof:name":"Enchantment Salon & Spa",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.130802,33.758622,-118.130802,33.758622],
+  "bbox": [
+    -118.130802,
+    33.758622,
+    -118.130802,
+    33.758622
+],
   "geometry": {"coordinates":[-118.130802,33.758622],"type":"Point"}
 }

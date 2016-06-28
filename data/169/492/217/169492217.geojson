@@ -2,13 +2,14 @@
   "id": 169492217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.326631,36.42521,-121.326631,36.42521",
     "geom:latitude":36.42521,
     "geom:longitude":-121.326631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"757 Front St",
     "sg:city":"Soledad",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169492217,
-    "wof:lastmodified":1449032687,
+    "wof:lastmodified":1466338227,
     "wof:name":"Social Vocational Svc Inc",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.326631,36.42521,-121.326631,36.42521],
-  "geometry": {"coordinates":[-121.326631,36.42521],"type":"Point"}
+  "bbox": [
+    -121.326631,
+    36.42521,
+    -121.326631,
+    36.42521
+],
+  "geometry": {"coordinates":[-121.32663100000001,36.42521],"type":"Point"}
 }

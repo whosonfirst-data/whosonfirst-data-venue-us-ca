@@ -2,13 +2,14 @@
   "id": 169463219,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.17982,37.909973,-122.17982,37.909973",
     "geom:latitude":37.909973,
     "geom:longitude":-122.17982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Coachwood Ter",
     "sg:city":"Orinda",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     "sg:website":"www.karlas-antiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85886795
+        85633793,
+        85886795,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169463219,
-    "wof:lastmodified":1449034984,
+    "wof:lastmodified":1466334919,
     "wof:name":"Karla's Antiques",
     "wof:parent_id":85886795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.17982,37.909973,-122.17982,37.909973],
-  "geometry": {"coordinates":[-122.17982,37.909973],"type":"Point"}
+  "bbox": [
+    -122.17982,
+    37.909973,
+    -122.17982,
+    37.909973
+],
+  "geometry": {"coordinates":[-122.17982000000001,37.909973],"type":"Point"}
 }

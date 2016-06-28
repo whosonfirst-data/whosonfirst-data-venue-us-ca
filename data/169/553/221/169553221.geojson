@@ -2,13 +2,14 @@
   "id": 169553221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.857776,37.513978,-120.857776,37.513978",
     "geom:latitude":37.513978,
     "geom:longitude":-120.857776,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"745 Berea Ct",
     "sg:city":"Turlock",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169553221,
-    "wof:lastmodified":1449032708,
+    "wof:lastmodified":1466343425,
     "wof:name":"Sterling Pools",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.857776,37.513978,-120.857776,37.513978],
+  "bbox": [
+    -120.857776,
+    37.513978,
+    -120.857776,
+    37.513978
+],
   "geometry": {"coordinates":[-120.857776,37.513978],"type":"Point"}
 }

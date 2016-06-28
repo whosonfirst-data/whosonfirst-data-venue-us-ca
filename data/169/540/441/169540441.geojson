@@ -2,13 +2,14 @@
   "id": 169540441,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.278787,34.104599,-117.278787,34.104599",
     "geom:latitude":34.104599,
     "geom:longitude":-117.278787,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 E 3rd St",
     "sg:city":"San Bernardino",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85854505
+        85633793,
+        85854505,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169540441,
-    "wof:lastmodified":1449033973,
+    "wof:lastmodified":1466342774,
     "wof:name":"Bob's Radiator Shop",
     "wof:parent_id":85854505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.278787,34.104599,-117.278787,34.104599],
-  "geometry": {"coordinates":[-117.278787,34.104599],"type":"Point"}
+  "bbox": [
+    -117.278787,
+    34.104599,
+    -117.278787,
+    34.104599
+],
+  "geometry": {"coordinates":[-117.27878699999999,34.104599],"type":"Point"}
 }

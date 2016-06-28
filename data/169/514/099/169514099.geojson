@@ -2,13 +2,14 @@
   "id": 169514099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.096859,34.174428,-118.096859,34.174428",
     "geom:latitude":34.174428,
     "geom:longitude":-118.096859,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2750 New York Dr",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85879757
+        85633793,
+        85879757,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169514099,
-    "wof:lastmodified":1449034341,
+    "wof:lastmodified":1466340724,
     "wof:name":"Club Aspire",
     "wof:parent_id":85879757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.096859,34.174428,-118.096859,34.174428],
-  "geometry": {"coordinates":[-118.096859,34.174428],"type":"Point"}
+  "bbox": [
+    -118.096859,
+    34.174428,
+    -118.096859,
+    34.174428
+],
+  "geometry": {"coordinates":[-118.09685899999999,34.174428],"type":"Point"}
 }

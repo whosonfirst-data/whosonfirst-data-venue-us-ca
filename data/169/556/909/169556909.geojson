@@ -2,13 +2,14 @@
   "id": 169556909,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.814145,38.351112,-122.814145,38.351112",
     "geom:latitude":38.351112,
     "geom:longitude":-122.814145,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2401 Schaeffer Rd",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.picalily.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169556909,
-    "wof:lastmodified":1449033508,
+    "wof:lastmodified":1466343608,
     "wof:name":"Pic-A-Lily Gardens",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.814145,38.351112,-122.814145,38.351112],
+  "bbox": [
+    -122.814145,
+    38.351112,
+    -122.814145,
+    38.351112
+],
   "geometry": {"coordinates":[-122.814145,38.351112],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169552225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.839664,39.205816,-120.839664,39.205816",
     "geom:latitude":39.205816,
     "geom:longitude":-120.839664,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"32775 Main St",
     "sg:city":"Dutch Flat",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169552225,
-    "wof:lastmodified":1449034054,
+    "wof:lastmodified":1466343369,
     "wof:name":"Olive Lodge IOOF",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.839664,39.205816,-120.839664,39.205816],
+  "bbox": [
+    -120.839664,
+    39.205816,
+    -120.839664,
+    39.205816
+],
   "geometry": {"coordinates":[-120.839664,39.205816],"type":"Point"}
 }

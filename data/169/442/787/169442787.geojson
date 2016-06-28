@@ -2,13 +2,14 @@
   "id": 169442787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.585947,34.431526,-118.585947,34.431526",
     "geom:latitude":34.431526,
     "geom:longitude":-118.585947,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25358 W Ave Stanford",
     "sg:city":"Valencia",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     "sg:website":"www.tri-tekelectronics.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85880653
+        85633793,
+        85880653,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169442787,
-    "wof:lastmodified":1449034121,
+    "wof:lastmodified":1466350154,
     "wof:name":"Tri Tek Electronics",
     "wof:parent_id":85880653,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.585947,34.431526,-118.585947,34.431526],
+  "bbox": [
+    -118.585947,
+    34.431526,
+    -118.585947,
+    34.431526
+],
   "geometry": {"coordinates":[-118.585947,34.431526],"type":"Point"}
 }

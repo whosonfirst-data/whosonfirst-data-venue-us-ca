@@ -2,13 +2,14 @@
   "id": 169435891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.813075,38.387049,-122.813075,38.387049",
     "geom:latitude":38.387049,
     "geom:longitude":-122.813075,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1365 Gravenstein Hwy S",
     "sg:city":"Sebastopol",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169435891,
-    "wof:lastmodified":1449035655,
+    "wof:lastmodified":1466343489,
     "wof:name":"Sonoma West Holdings Inc",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.813075,38.387049,-122.813075,38.387049],
+  "bbox": [
+    -122.813075,
+    38.387049,
+    -122.813075,
+    38.387049
+],
   "geometry": {"coordinates":[-122.813075,38.387049],"type":"Point"}
 }

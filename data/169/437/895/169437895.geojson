@@ -2,13 +2,14 @@
   "id": 169437895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.666373,36.638243,-121.666373,36.638243",
     "geom:latitude":36.638243,
     "geom:longitude":-121.666373,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Monterey Salinas Hwy",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169437895,
-    "wof:lastmodified":1449035064,
+    "wof:lastmodified":1466345701,
     "wof:name":"M & M West Coast Produce",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.666373,36.638243,-121.666373,36.638243],
-  "geometry": {"coordinates":[-121.666373,36.638243],"type":"Point"}
+  "bbox": [
+    -121.666373,
+    36.638243,
+    -121.666373,
+    36.638243
+],
+  "geometry": {"coordinates":[-121.66637299999999,36.638243],"type":"Point"}
 }

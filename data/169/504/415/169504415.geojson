@@ -2,13 +2,14 @@
   "id": 169504415,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.273758,37.52231,-122.273758,37.52231",
     "geom:latitude":37.52231,
     "geom:longitude":-122.273758,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"572 Ralston Ave",
     "sg:city":"Belmont",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085387,
-        85633793,
         85688637,
-        85885637
+        85633793,
+        85885637,
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169504415,
-    "wof:lastmodified":1449033272,
+    "wof:lastmodified":1466339626,
     "wof:name":"Cole Painting",
     "wof:parent_id":85885637,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.273758,37.52231,-122.273758,37.52231],
+  "bbox": [
+    -122.273758,
+    37.52231,
+    -122.273758,
+    37.52231
+],
   "geometry": {"coordinates":[-122.273758,37.52231],"type":"Point"}
 }

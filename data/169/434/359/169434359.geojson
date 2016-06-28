@@ -2,13 +2,14 @@
   "id": 169434359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.519825,34.448195,-118.519825,34.448195",
     "geom:latitude":34.448195,
     "geom:longitude":-118.519825,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27640 Open Crest Dr",
     "sg:city":"Santa Clarita",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85847201
+        85633793,
+        85847201,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169434359,
-    "wof:lastmodified":1449033399,
+    "wof:lastmodified":1466343126,
     "wof:name":"Perma Glaze of Valley",
     "wof:parent_id":85847201,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.519825,34.448195,-118.519825,34.448195],
+  "bbox": [
+    -118.519825,
+    34.448195,
+    -118.519825,
+    34.448195
+],
   "geometry": {"coordinates":[-118.519825,34.448195],"type":"Point"}
 }

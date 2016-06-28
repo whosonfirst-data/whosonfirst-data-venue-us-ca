@@ -2,13 +2,14 @@
   "id": 169470613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.264678,33.17517,-117.264678,33.17517",
     "geom:latitude":33.17517,
     "geom:longitude":-117.264678,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4648 Merrick Ct",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85879345
+        85633793,
+        85879345,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169470613,
-    "wof:lastmodified":1449033489,
+    "wof:lastmodified":1466335754,
     "wof:name":"Amawave LLC",
     "wof:parent_id":85879345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.264678,33.17517,-117.264678,33.17517],
+  "bbox": [
+    -117.264678,
+    33.17517,
+    -117.264678,
+    33.17517
+],
   "geometry": {"coordinates":[-117.264678,33.17517],"type":"Point"}
 }

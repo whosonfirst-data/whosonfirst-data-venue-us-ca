@@ -2,13 +2,14 @@
   "id": 169490373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.329309,38.033967,-121.329309,38.033967",
     "geom:latitude":38.033967,
     "geom:longitude":-121.329309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1315 Woodcreek Way",
     "sg:city":"Stockton",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085393,
-        85633793,
         85688637,
-        85895917
+        85633793,
+        85895917,
+        102085393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169490373,
-    "wof:lastmodified":1449035619,
+    "wof:lastmodified":1466338012,
     "wof:name":"Head Start Child Development",
     "wof:parent_id":85895917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.329309,38.033967,-121.329309,38.033967],
-  "geometry": {"coordinates":[-121.329309,38.033967],"type":"Point"}
+  "bbox": [
+    -121.329309,
+    38.033967,
+    -121.329309,
+    38.033967
+],
+  "geometry": {"coordinates":[-121.32930899999999,38.033967],"type":"Point"}
 }

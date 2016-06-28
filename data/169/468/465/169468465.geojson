@@ -2,13 +2,14 @@
   "id": 169468465,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.397022,33.854835,-118.397022,33.854835",
     "geom:latitude":33.854835,
     "geom:longitude":-118.397022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"122 Manhattan Ave",
     "sg:city":"Hermosa Beach",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886363
+        85633793,
+        85886363,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169468465,
-    "wof:lastmodified":1449035047,
+    "wof:lastmodified":1466335516,
     "wof:name":"M C Brazilian Jiu-Jitsu",
     "wof:parent_id":85886363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.397022,33.854835,-118.397022,33.854835],
-  "geometry": {"coordinates":[-118.397022,33.854835],"type":"Point"}
+  "bbox": [
+    -118.397022,
+    33.854835,
+    -118.397022,
+    33.854835
+],
+  "geometry": {"coordinates":[-118.39702200000001,33.854835],"type":"Point"}
 }

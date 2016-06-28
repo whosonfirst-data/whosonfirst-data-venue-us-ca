@@ -2,13 +2,14 @@
   "id": 169545227,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.133914,33.759948,-118.133914,33.759948",
     "geom:latitude":33.759948,
     "geom:longitude":-118.133914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5227 E 2nd St",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -24,12 +25,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
+        85633793,
         85805639,
-        85836293,
-        85923525
+        102086957,
+        85923525,
+        85836293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,20 @@
         }
     ],
     "wof:id":169545227,
-    "wof:lastmodified":1449033484,
+    "wof:lastmodified":1466343008,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.133914,33.759948,-118.133914,33.759948],
+  "bbox": [
+    -118.133914,
+    33.759948,
+    -118.133914,
+    33.759948
+],
   "geometry": {"coordinates":[-118.133914,33.759948],"type":"Point"}
 }

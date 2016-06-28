@@ -2,13 +2,14 @@
   "id": 169432297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.214407,37.420572,-122.214407,37.420572",
     "geom:latitude":37.420572,
     "geom:longitude":-122.214407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2884 Sand Hill Rd",
     "sg:city":"Menlo Park",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085387,
-        85633793,
         85688637,
-        85886399
+        85633793,
+        85886399,
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169432297,
-    "wof:lastmodified":1449032623,
+    "wof:lastmodified":1466340253,
     "wof:name":"Mathias A Masem MD",
     "wof:parent_id":85886399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.214407,37.420572,-122.214407,37.420572],
-  "geometry": {"coordinates":[-122.214407,37.420572],"type":"Point"}
+  "bbox": [
+    -122.214407,
+    37.420572,
+    -122.214407,
+    37.420572
+],
+  "geometry": {"coordinates":[-122.21440699999999,37.420572],"type":"Point"}
 }

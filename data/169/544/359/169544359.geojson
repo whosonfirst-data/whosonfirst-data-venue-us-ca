@@ -2,13 +2,14 @@
   "id": 169544359,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.048535,38.936477,-121.048535,38.936477",
     "geom:latitude":38.936477,
     "geom:longitude":-121.048535,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"350 Bridgeview Dr",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169544359,
-    "wof:lastmodified":1449035963,
+    "wof:lastmodified":1466342964,
     "wof:name":"Helga White Law Offices",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.048535,38.936477,-121.048535,38.936477],
+  "bbox": [
+    -121.048535,
+    38.936477,
+    -121.048535,
+    38.936477
+],
   "geometry": {"coordinates":[-121.048535,38.936477],"type":"Point"}
 }

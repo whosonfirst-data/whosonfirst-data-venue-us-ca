@@ -2,13 +2,14 @@
   "id": 169439135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.697256,36.604389,-121.697256,36.604389",
     "geom:latitude":36.604389,
     "geom:longitude":-121.697256,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22742 Portola Dr",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169439135,
-    "wof:lastmodified":1449033597,
+    "wof:lastmodified":1466346038,
     "wof:name":"It's All About You",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.697256,36.604389,-121.697256,36.604389],
+  "bbox": [
+    -121.697256,
+    36.604389,
+    -121.697256,
+    36.604389
+],
   "geometry": {"coordinates":[-121.697256,36.604389],"type":"Point"}
 }

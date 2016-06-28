@@ -2,13 +2,14 @@
   "id": 169468897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.059765,34.16443,-118.059765,34.16443",
     "geom:latitude":34.16443,
     "geom:longitude":-118.059765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"198 N Lima St",
     "sg:city":"Sierra Madre",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85887991
+        85633793,
+        85887991,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169468897,
-    "wof:lastmodified":1449035051,
+    "wof:lastmodified":1466335562,
     "wof:name":"Bio Arts",
     "wof:parent_id":85887991,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.059765,34.16443,-118.059765,34.16443],
+  "bbox": [
+    -118.059765,
+    34.16443,
+    -118.059765,
+    34.16443
+],
   "geometry": {"coordinates":[-118.059765,34.16443],"type":"Point"}
 }

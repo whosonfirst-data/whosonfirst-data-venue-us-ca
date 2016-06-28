@@ -2,13 +2,14 @@
   "id": 169516353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.022978,34.893546,-117.022978,34.893546",
     "geom:latitude":34.893546,
     "geom:longitude":-117.022978,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"309 E Mountain View St",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169516353,
-    "wof:lastmodified":1449033321,
+    "wof:lastmodified":1466340981,
     "wof:name":"Dermatology Professionals",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.022978,34.893546,-117.022978,34.893546],
-  "geometry": {"coordinates":[-117.022978,34.893546],"type":"Point"}
+  "bbox": [
+    -117.022978,
+    34.893546,
+    -117.022978,
+    34.893546
+],
+  "geometry": {"coordinates":[-117.02297799999999,34.893546],"type":"Point"}
 }

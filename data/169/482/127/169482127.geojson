@@ -2,13 +2,14 @@
   "id": 169482127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.120756,36.221519,-121.120756,36.221519",
     "geom:latitude":36.221519,
     "geom:longitude":-121.120756,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"300 E San Antonio Dr",
     "sg:city":"King City",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169482127,
-    "wof:lastmodified":1449033862,
+    "wof:lastmodified":1466337064,
     "wof:name":"Heritage Cabinets Inc",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.120756,36.221519,-121.120756,36.221519],
+  "bbox": [
+    -121.120756,
+    36.221519,
+    -121.120756,
+    36.221519
+],
   "geometry": {"coordinates":[-121.120756,36.221519],"type":"Point"}
 }

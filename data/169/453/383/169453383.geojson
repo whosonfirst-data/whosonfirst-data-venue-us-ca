@@ -2,13 +2,14 @@
   "id": 169453383,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.479527,34.421547,-118.479527,34.421547",
     "geom:latitude":34.421547,
     "geom:longitude":-118.479527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19636 Drycliff St",
     "sg:city":"Canyon Country",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85880667
+        85633793,
+        85880667,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169453383,
-    "wof:lastmodified":1449035148,
+    "wof:lastmodified":1466360042,
     "wof:name":"Globe Satellite Inc",
     "wof:parent_id":85880667,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.479527,34.421547,-118.479527,34.421547],
+  "bbox": [
+    -118.479527,
+    34.421547,
+    -118.479527,
+    34.421547
+],
   "geometry": {"coordinates":[-118.479527,34.421547],"type":"Point"}
 }

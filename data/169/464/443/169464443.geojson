@@ -2,13 +2,14 @@
   "id": 169464443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.385927,33.817284,-118.385927,33.817284",
     "geom:latitude":33.817284,
     "geom:longitude":-118.385927,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 S Elena Ave",
     "sg:city":"Redondo Beach",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85826049
+        85633793,
+        85826049,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169464443,
-    "wof:lastmodified":1449033575,
+    "wof:lastmodified":1466335059,
     "wof:name":"Archway Marketing Svc",
     "wof:parent_id":85826049,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.385927,33.817284,-118.385927,33.817284],
+  "bbox": [
+    -118.385927,
+    33.817284,
+    -118.385927,
+    33.817284
+],
   "geometry": {"coordinates":[-118.385927,33.817284],"type":"Point"}
 }

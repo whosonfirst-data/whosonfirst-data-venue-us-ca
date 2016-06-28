@@ -2,13 +2,14 @@
   "id": 169449891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.26697,34.115849,-117.26697,34.115849",
     "geom:latitude":34.115849,
     "geom:longitude":-117.26697,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"844 E 9th St",
     "sg:city":"San Bernardino",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85854505
+        85633793,
+        85854505,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169449891,
-    "wof:lastmodified":1449035716,
+    "wof:lastmodified":1466352662,
     "wof:name":"Laidlaw Transit Inc",
     "wof:parent_id":85854505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.26697,34.115849,-117.26697,34.115849],
+  "bbox": [
+    -117.26697,
+    34.115849,
+    -117.26697,
+    34.115849
+],
   "geometry": {"coordinates":[-117.26697,34.115849],"type":"Point"}
 }

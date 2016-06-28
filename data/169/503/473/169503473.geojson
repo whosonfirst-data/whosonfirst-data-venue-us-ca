@@ -2,13 +2,14 @@
   "id": 169503473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.144429,34.189659,-119.144429,34.189659",
     "geom:latitude":34.189659,
     "geom:longitude":-119.144429,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1900 E Wooley Rd",
     "sg:city":"Oxnard",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85879625
+        85633793,
+        85879625,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169503473,
-    "wof:lastmodified":1449035976,
+    "wof:lastmodified":1466339517,
     "wof:name":"Donlon Ranch",
     "wof:parent_id":85879625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.144429,34.189659,-119.144429,34.189659],
+  "bbox": [
+    -119.144429,
+    34.189659,
+    -119.144429,
+    34.189659
+],
   "geometry": {"coordinates":[-119.144429,34.189659],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169470353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.101727,38.942638,-121.101727,38.942638",
     "geom:latitude":38.942638,
     "geom:longitude":-121.101727,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3250 Fortune Ct",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169470353,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466335723,
     "wof:name":"Full Circle Health",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.101727,38.942638,-121.101727,38.942638],
+  "bbox": [
+    -121.101727,
+    38.942638,
+    -121.101727,
+    38.942638
+],
   "geometry": {"coordinates":[-121.101727,38.942638],"type":"Point"}
 }

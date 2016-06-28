@@ -2,13 +2,14 @@
   "id": 169546847,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.4065,33.87628,-118.4065,33.87628",
     "geom:latitude":33.87628,
     "geom:longitude":-118.4065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3217 Manhattan Ave",
     "sg:city":"Hermosa Beach",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886363
+        85633793,
+        85886363,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169546847,
-    "wof:lastmodified":1449032678,
+    "wof:lastmodified":1466343093,
     "wof:name":"Chug Salon",
     "wof:parent_id":85886363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.4065,33.87628,-118.4065,33.87628],
-  "geometry": {"coordinates":[-118.4065,33.87628],"type":"Point"}
+  "bbox": [
+    -118.4065,
+    33.87628,
+    -118.4065,
+    33.87628
+],
+  "geometry": {"coordinates":[-118.40649999999999,33.87628],"type":"Point"}
 }

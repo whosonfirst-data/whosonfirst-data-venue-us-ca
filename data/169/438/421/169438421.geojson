@@ -2,13 +2,14 @@
   "id": 169438421,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.55898,38.001951,-122.55898,38.001951",
     "geom:latitude":38.001951,
     "geom:longitude":-122.55898,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"77 Esmeyer Dr",
     "sg:city":"San Rafael",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85887933
+        85633793,
+        85887933,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169438421,
-    "wof:lastmodified":1449033804,
+    "wof:lastmodified":1466345926,
     "wof:name":"25th Hour Ventures",
     "wof:parent_id":85887933,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.55898,38.001951,-122.55898,38.001951],
-  "geometry": {"coordinates":[-122.55898,38.001951],"type":"Point"}
+  "bbox": [
+    -122.55898,
+    38.001951,
+    -122.55898,
+    38.001951
+],
+  "geometry": {"coordinates":[-122.55898000000001,38.001951],"type":"Point"}
 }

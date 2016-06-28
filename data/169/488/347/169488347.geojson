@@ -2,13 +2,14 @@
   "id": 169488347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.253092,32.724682,-117.253092,32.724682",
     "geom:latitude":32.724682,
     "geom:longitude":-117.253092,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"955 Cornish Dr",
     "sg:city":"San Diego",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85804141
+        85633793,
+        85804141,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169488347,
-    "wof:lastmodified":1449035883,
+    "wof:lastmodified":1466337776,
     "wof:name":"Leslie Perlis Stained Glass",
     "wof:parent_id":85804141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.253092,32.724682,-117.253092,32.724682],
+  "bbox": [
+    -117.253092,
+    32.724682,
+    -117.253092,
+    32.724682
+],
   "geometry": {"coordinates":[-117.253092,32.724682],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169443519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.205326,34.22027,-119.205326,34.22027",
     "geom:latitude":34.22027,
     "geom:longitude":-119.205326,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1941 Spyglass Trl W",
     "sg:city":"Oxnard",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85879661
+        85633793,
+        85879661,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169443519,
-    "wof:lastmodified":1449035353,
+    "wof:lastmodified":1466350854,
     "wof:name":"J M Farming",
     "wof:parent_id":85879661,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.205326,34.22027,-119.205326,34.22027],
+  "bbox": [
+    -119.205326,
+    34.22027,
+    -119.205326,
+    34.22027
+],
   "geometry": {"coordinates":[-119.205326,34.22027],"type":"Point"}
 }

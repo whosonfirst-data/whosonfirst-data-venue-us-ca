@@ -2,13 +2,14 @@
   "id": 169482961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.44644,34.324474,-118.44644,34.324474",
     "geom:latitude":34.324474,
     "geom:longitude":-118.44644,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"14445 Olive View Dr",
     "sg:city":"Sylmar",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85839549
+        85633793,
+        85839549,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169482961,
-    "wof:lastmodified":1449033863,
+    "wof:lastmodified":1466337160,
     "wof:name":"Coroners Office",
     "wof:parent_id":85839549,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.44644,34.324474,-118.44644,34.324474],
+  "bbox": [
+    -118.44644,
+    34.324474,
+    -118.44644,
+    34.324474
+],
   "geometry": {"coordinates":[-118.44644,34.324474],"type":"Point"}
 }

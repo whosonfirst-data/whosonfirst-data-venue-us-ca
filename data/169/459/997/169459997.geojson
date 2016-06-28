@@ -2,13 +2,14 @@
   "id": 169459997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.919848,36.619128,-121.919848,36.619128",
     "geom:latitude":36.619128,
     "geom:longitude":-121.919848,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"600 Pine Ave",
     "sg:city":"Pacific Grove",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85840141
+        85633793,
+        85840141,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169459997,
-    "wof:lastmodified":1449034025,
+    "wof:lastmodified":1466334550,
     "wof:name":"Fire Dept",
     "wof:parent_id":85840141,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.919848,36.619128,-121.919848,36.619128],
+  "bbox": [
+    -121.919848,
+    36.619128,
+    -121.919848,
+    36.619128
+],
   "geometry": {"coordinates":[-121.919848,36.619128],"type":"Point"}
 }

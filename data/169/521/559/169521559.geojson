@@ -2,13 +2,14 @@
   "id": 169521559,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.876283,37.660667,-121.876283,37.660667",
     "geom:latitude":37.660667,
     "geom:longitude":-121.876283,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Rose Ave",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169521559,
-    "wof:lastmodified":1449035797,
+    "wof:lastmodified":1466341576,
     "wof:name":"Interior Warehouse",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.876283,37.660667,-121.876283,37.660667],
+  "bbox": [
+    -121.876283,
+    37.660667,
+    -121.876283,
+    37.660667
+],
   "geometry": {"coordinates":[-121.876283,37.660667],"type":"Point"}
 }

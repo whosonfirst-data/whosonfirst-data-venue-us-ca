@@ -2,13 +2,14 @@
   "id": 169515475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.867207,37.656916,-121.867207,37.656916",
     "geom:latitude":37.656916,
     "geom:longitude":-121.867207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Neal St",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169515475,
-    "wof:lastmodified":1449033455,
+    "wof:lastmodified":1466340882,
     "wof:name":"Hillcrest Printing & Packaging",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.867207,37.656916,-121.867207,37.656916],
-  "geometry": {"coordinates":[-121.867207,37.656916],"type":"Point"}
+  "bbox": [
+    -121.867207,
+    37.656916,
+    -121.867207,
+    37.656916
+],
+  "geometry": {"coordinates":[-121.86720699999999,37.656916],"type":"Point"}
 }

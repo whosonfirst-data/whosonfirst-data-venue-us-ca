@@ -2,13 +2,14 @@
   "id": 169480409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.309103,38.449292,-121.309103,38.449292",
     "geom:latitude":38.449292,
     "geom:longitude":-121.309103,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10241 Corfu Dr",
     "sg:city":"Elk Grove",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082889,
-        85633793,
         85688637,
-        85848175
+        85633793,
+        85848175,
+        102082889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169480409,
-    "wof:lastmodified":1449033766,
+    "wof:lastmodified":1466336872,
     "wof:name":"Spinella Heer Construction",
     "wof:parent_id":85848175,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.309103,38.449292,-121.309103,38.449292],
-  "geometry": {"coordinates":[-121.309103,38.449292],"type":"Point"}
+  "bbox": [
+    -121.309103,
+    38.449292,
+    -121.309103,
+    38.449292
+],
+  "geometry": {"coordinates":[-121.30910299999999,38.449292],"type":"Point"}
 }

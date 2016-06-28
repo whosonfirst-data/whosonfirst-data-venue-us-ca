@@ -2,13 +2,14 @@
   "id": 169490649,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.787271,38.550769,-121.787271,38.550769",
     "geom:latitude":38.550769,
     "geom:longitude":-121.787271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"808 Lake Blvd",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082309,
-        85633793,
         85688637,
-        85876971
+        85633793,
+        85876971,
+        102082309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169490649,
-    "wof:lastmodified":1449035622,
+    "wof:lastmodified":1466338044,
     "wof:name":"Antique Blade Collector",
     "wof:parent_id":85876971,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.787271,38.550769,-121.787271,38.550769],
+  "bbox": [
+    -121.787271,
+    38.550769,
+    -121.787271,
+    38.550769
+],
   "geometry": {"coordinates":[-121.787271,38.550769],"type":"Point"}
 }

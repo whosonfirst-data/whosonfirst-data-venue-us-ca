@@ -2,13 +2,14 @@
   "id": 169477593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.12191,36.212216,-121.12191,36.212216",
     "geom:latitude":36.212216,
     "geom:longitude":-121.12191,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"316 S 1st St",
     "sg:city":"King City",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880615
+        85633793,
+        85880615,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169477593,
-    "wof:lastmodified":1449033257,
+    "wof:lastmodified":1466336553,
     "wof:name":"King City Radiator Svc",
     "wof:parent_id":85880615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.12191,36.212216,-121.12191,36.212216],
+  "bbox": [
+    -121.12191,
+    36.212216,
+    -121.12191,
+    36.212216
+],
   "geometry": {"coordinates":[-121.12191,36.212216],"type":"Point"}
 }

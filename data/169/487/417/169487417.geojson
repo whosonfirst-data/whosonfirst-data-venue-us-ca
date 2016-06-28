@@ -2,13 +2,14 @@
   "id": 169487417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.256177,37.98055,-121.256177,37.98055",
     "geom:latitude":37.98055,
     "geom:longitude":-121.256177,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3012 Waterloo Rd",
     "sg:city":"Stockton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085393,
-        85633793,
         85688637,
-        85865151
+        85633793,
+        85865151,
+        102085393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169487417,
-    "wof:lastmodified":1449033768,
+    "wof:lastmodified":1466337674,
     "wof:name":"Arroyo's Smog & Repair",
     "wof:parent_id":85865151,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.256177,37.98055,-121.256177,37.98055],
-  "geometry": {"coordinates":[-121.256177,37.98055],"type":"Point"}
+  "bbox": [
+    -121.256177,
+    37.98055,
+    -121.256177,
+    37.98055
+],
+  "geometry": {"coordinates":[-121.25617699999999,37.98055],"type":"Point"}
 }

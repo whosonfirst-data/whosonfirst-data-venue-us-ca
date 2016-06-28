@@ -2,13 +2,14 @@
   "id": 169473901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.403274,33.87428,-118.403274,33.87428",
     "geom:latitude":33.87428,
     "geom:longitude":-118.403274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"230 28th St",
     "sg:city":"Hermosa Beach",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886363
+        85633793,
+        85886363,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169473901,
-    "wof:lastmodified":1449033374,
+    "wof:lastmodified":1466336129,
     "wof:name":"Autocon",
     "wof:parent_id":85886363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.403274,33.87428,-118.403274,33.87428],
+  "bbox": [
+    -118.403274,
+    33.87428,
+    -118.403274,
+    33.87428
+],
   "geometry": {"coordinates":[-118.403274,33.87428],"type":"Point"}
 }

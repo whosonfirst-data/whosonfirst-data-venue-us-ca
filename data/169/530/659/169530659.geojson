@@ -2,13 +2,14 @@
   "id": 169530659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.059541,33.723589,-118.059541,33.723589",
     "geom:latitude":33.723589,
     "geom:longitude":-118.059541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3906 Humboldt Dr",
     "sg:city":"Huntington Beach",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85826551
+        85633793,
+        85826551,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169530659,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466342294,
     "wof:name":"Angela Hartfelder",
     "wof:parent_id":85826551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.059541,33.723589,-118.059541,33.723589],
+  "bbox": [
+    -118.059541,
+    33.723589,
+    -118.059541,
+    33.723589
+],
   "geometry": {"coordinates":[-118.059541,33.723589],"type":"Point"}
 }

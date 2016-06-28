@@ -2,13 +2,14 @@
   "id": 169526849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.756888,32.714103,-116.756888,32.714103",
     "geom:latitude":32.714103,
     "geom:longitude":-116.756888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"17939 Lyons Valley Rd",
     "sg:city":"Jamul",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85876787
+        85633793,
+        85876787,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169526849,
-    "wof:lastmodified":1449033700,
+    "wof:lastmodified":1466342118,
     "wof:name":"Ray's Pool & Spa Svc",
     "wof:parent_id":85876787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.756888,32.714103,-116.756888,32.714103],
+  "bbox": [
+    -116.756888,
+    32.714103,
+    -116.756888,
+    32.714103
+],
   "geometry": {"coordinates":[-116.756888,32.714103],"type":"Point"}
 }

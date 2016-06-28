@@ -2,13 +2,14 @@
   "id": 169479491,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.249356,32.992712,-117.249356,32.992712",
     "geom:latitude":32.992712,
     "geom:longitude":-117.249356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 San Andres Dr",
     "sg:city":"Solana Beach",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85868399
+        85633793,
+        85868399,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169479491,
-    "wof:lastmodified":1449034949,
+    "wof:lastmodified":1466336769,
     "wof:name":"Choice Services",
     "wof:parent_id":85868399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.249356,32.992712,-117.249356,32.992712],
-  "geometry": {"coordinates":[-117.249356,32.992712],"type":"Point"}
+  "bbox": [
+    -117.249356,
+    32.992712,
+    -117.249356,
+    32.992712
+],
+  "geometry": {"coordinates":[-117.24935600000001,32.992712],"type":"Point"}
 }

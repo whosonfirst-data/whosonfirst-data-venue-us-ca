@@ -2,13 +2,14 @@
   "id": 169428541,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.577808,37.016065,-121.577808,37.016065",
     "geom:latitude":37.016065,
     "geom:longitude":-121.577808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8126 Oak Ct",
     "sg:city":"Gilroy",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85831375
+        85633793,
+        85831375,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169428541,
-    "wof:lastmodified":1449035736,
+    "wof:lastmodified":1466334689,
     "wof:name":"Extreme Backhoe Svc",
     "wof:parent_id":85831375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.577808,37.016065,-121.577808,37.016065],
+  "bbox": [
+    -121.577808,
+    37.016065,
+    -121.577808,
+    37.016065
+],
   "geometry": {"coordinates":[-121.577808,37.016065],"type":"Point"}
 }

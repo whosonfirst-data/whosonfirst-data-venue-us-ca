@@ -2,13 +2,14 @@
   "id": 169443245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.04087,39.238869,-120.04087,39.238869",
     "geom:latitude":39.238869,
     "geom:longitude":-120.04087,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6834 N Lake Blvd",
     "sg:city":"Tahoe Vista",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.mourelatosresort.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85888131
+        85633793,
+        85888131,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169443245,
-    "wof:lastmodified":1449035352,
+    "wof:lastmodified":1466350823,
     "wof:name":"Mourelatos Lakeshore Resort",
     "wof:parent_id":85888131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.04087,39.238869,-120.04087,39.238869],
+  "bbox": [
+    -120.04087,
+    39.238869,
+    -120.04087,
+    39.238869
+],
   "geometry": {"coordinates":[-120.04087,39.238869],"type":"Point"}
 }

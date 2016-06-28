@@ -2,13 +2,14 @@
   "id": 169545981,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.673412,36.776726,-121.673412,36.776726",
     "geom:latitude":36.776726,
     "geom:longitude":-121.673412,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9797 Borromeo Dr",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85847129
+        85633793,
+        85847129,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169545981,
-    "wof:lastmodified":1449033488,
+    "wof:lastmodified":1466343047,
     "wof:name":"Coffman Construction",
     "wof:parent_id":85847129,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.673412,36.776726,-121.673412,36.776726],
+  "bbox": [
+    -121.673412,
+    36.776726,
+    -121.673412,
+    36.776726
+],
   "geometry": {"coordinates":[-121.673412,36.776726],"type":"Point"}
 }

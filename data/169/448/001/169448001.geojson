@@ -2,13 +2,14 @@
   "id": 169448001,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.684223,38.543705,-121.684223,38.543705",
     "geom:latitude":38.543705,
     "geom:longitude":-121.684223,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44571 Clubhouse Dr",
     "sg:city":"Davis",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082309,
-        85633793,
         85688637,
-        85817681
+        85633793,
+        85817681,
+        102082309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169448001,
-    "wof:lastmodified":1449035799,
+    "wof:lastmodified":1466361329,
     "wof:name":"El Macero Country Club",
     "wof:parent_id":85817681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.684223,38.543705,-121.684223,38.543705],
+  "bbox": [
+    -121.684223,
+    38.543705,
+    -121.684223,
+    38.543705
+],
   "geometry": {"coordinates":[-121.684223,38.543705],"type":"Point"}
 }

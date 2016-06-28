@@ -2,13 +2,14 @@
   "id": 169440079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.984949,33.658412,-117.984949,33.658412",
     "geom:latitude":33.658412,
     "geom:longitude":-117.984949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8122 Snowbird Dr",
     "sg:city":"Huntington Beach",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85878217
+        85633793,
+        85878217,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169440079,
-    "wof:lastmodified":1449033859,
+    "wof:lastmodified":1466346260,
     "wof:name":"Solutions TV Magzine",
     "wof:parent_id":85878217,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.984949,33.658412,-117.984949,33.658412],
+  "bbox": [
+    -117.984949,
+    33.658412,
+    -117.984949,
+    33.658412
+],
   "geometry": {"coordinates":[-117.984949,33.658412],"type":"Point"}
 }

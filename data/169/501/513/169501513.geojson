@@ -2,13 +2,14 @@
   "id": 169501513,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.034188,37.650938,-121.034188,37.650938",
     "geom:latitude":37.650938,
     "geom:longitude":-121.034188,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Shasta Ct",
     "sg:city":"Modesto",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85834691
+        85633793,
+        85834691,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169501513,
-    "wof:lastmodified":1449036000,
+    "wof:lastmodified":1466339287,
     "wof:name":"Central Valley Heat & Air",
     "wof:parent_id":85834691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.034188,37.650938,-121.034188,37.650938],
+  "bbox": [
+    -121.034188,
+    37.650938,
+    -121.034188,
+    37.650938
+],
   "geometry": {"coordinates":[-121.034188,37.650938],"type":"Point"}
 }

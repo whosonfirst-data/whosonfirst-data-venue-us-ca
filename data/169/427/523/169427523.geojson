@@ -2,13 +2,14 @@
   "id": 169427523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.142003,39.170185,-120.142003,39.170185",
     "geom:latitude":39.170185,
     "geom:longitude":-120.142003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"475 N Lake Blvd",
     "sg:city":"Tahoe City",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85888131
+        85633793,
+        85888131,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169427523,
-    "wof:lastmodified":1449033677,
+    "wof:lastmodified":1466334441,
     "wof:name":"Gundy Of Scandinavia",
     "wof:parent_id":85888131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.142003,39.170185,-120.142003,39.170185],
+  "bbox": [
+    -120.142003,
+    39.170185,
+    -120.142003,
+    39.170185
+],
   "geometry": {"coordinates":[-120.142003,39.170185],"type":"Point"}
 }

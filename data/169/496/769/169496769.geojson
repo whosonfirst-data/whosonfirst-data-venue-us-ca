@@ -2,13 +2,14 @@
   "id": 169496769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.417731,33.898333,-118.417731,33.898333",
     "geom:latitude":33.898333,
     "geom:longitude":-118.417731,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3312 N Manhattan Ave",
     "sg:city":"Manhattan Beach",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886371
+        85633793,
+        85886371,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169496769,
-    "wof:lastmodified":1449035466,
+    "wof:lastmodified":1466338751,
     "wof:name":"P Daniels Corporation",
     "wof:parent_id":85886371,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.417731,33.898333,-118.417731,33.898333],
+  "bbox": [
+    -118.417731,
+    33.898333,
+    -118.417731,
+    33.898333
+],
   "geometry": {"coordinates":[-118.417731,33.898333],"type":"Point"}
 }

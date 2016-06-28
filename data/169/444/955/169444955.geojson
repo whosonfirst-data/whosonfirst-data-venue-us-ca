@@ -2,13 +2,14 @@
   "id": 169444955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.297793,38.306691,-122.297793,38.306691",
     "geom:latitude":38.306691,
     "geom:longitude":-122.297793,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1532 H St",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886543
+        85633793,
+        85886543,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169444955,
-    "wof:lastmodified":1449035511,
+    "wof:lastmodified":1466351325,
     "wof:name":"Protech General Contg Svcs",
     "wof:parent_id":85886543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.297793,38.306691,-122.297793,38.306691],
+  "bbox": [
+    -122.297793,
+    38.306691,
+    -122.297793,
+    38.306691
+],
   "geometry": {"coordinates":[-122.297793,38.306691],"type":"Point"}
 }

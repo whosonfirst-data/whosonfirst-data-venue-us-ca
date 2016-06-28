@@ -2,13 +2,14 @@
   "id": 169430181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.319078,38.390763,-122.319078,38.390763",
     "geom:latitude":38.390763,
     "geom:longitude":-122.319078,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5350 Silverado Trl",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.chimneyrock.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85846841
+        85633793,
+        85846841,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169430181,
-    "wof:lastmodified":1449034792,
+    "wof:lastmodified":1466337048,
     "wof:name":"Chimney Rock Winery",
     "wof:parent_id":85846841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.319078,38.390763,-122.319078,38.390763],
+  "bbox": [
+    -122.319078,
+    38.390763,
+    -122.319078,
+    38.390763
+],
   "geometry": {"coordinates":[-122.319078,38.390763],"type":"Point"}
 }

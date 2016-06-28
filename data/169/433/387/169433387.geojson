@@ -2,13 +2,14 @@
   "id": 169433387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.285051,38.305154,-122.285051,38.305154",
     "geom:latitude":38.305154,
     "geom:longitude":-122.285051,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 Soscol Ave",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -33,10 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886543
+        85633793,
+        85886543,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,14 +55,20 @@
         }
     ],
     "wof:id":169433387,
-    "wof:lastmodified":1449033064,
+    "wof:lastmodified":1466341334,
     "wof:name":"North Bay Bancorp",
     "wof:parent_id":85886543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.285051,38.305154,-122.285051,38.305154],
+  "bbox": [
+    -122.285051,
+    38.305154,
+    -122.285051,
+    38.305154
+],
   "geometry": {"coordinates":[-122.285051,38.305154],"type":"Point"}
 }

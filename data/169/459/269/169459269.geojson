@@ -2,13 +2,14 @@
   "id": 169459269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.12263,34.16913,-118.12263,34.16913",
     "geom:latitude":34.16913,
     "geom:longitude":-118.12263,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1395 E Washington Blvd",
     "sg:city":"Pasadena",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.mitchellbooks.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85879757
+        85633793,
+        85879757,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169459269,
-    "wof:lastmodified":1449034024,
+    "wof:lastmodified":1466334468,
     "wof:name":"Mitchell Books",
     "wof:parent_id":85879757,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.12263,34.16913,-118.12263,34.16913],
+  "bbox": [
+    -118.12263,
+    34.16913,
+    -118.12263,
+    34.16913
+],
   "geometry": {"coordinates":[-118.12263,34.16913],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169523795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.892721,37.57854,-120.892721,37.57854",
     "geom:latitude":37.57854,
     "geom:longitude":-120.892721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4149 Pioneer Rd",
     "sg:city":"Hughson",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169523795,
-    "wof:lastmodified":1449034590,
+    "wof:lastmodified":1466341826,
     "wof:name":"David Milhous",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.892721,37.57854,-120.892721,37.57854],
-  "geometry": {"coordinates":[-120.892721,37.57854],"type":"Point"}
+  "bbox": [
+    -120.892721,
+    37.57854,
+    -120.892721,
+    37.57854
+],
+  "geometry": {"coordinates":[-120.89272099999999,37.57854],"type":"Point"}
 }

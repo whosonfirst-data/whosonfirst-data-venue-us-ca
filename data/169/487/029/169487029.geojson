@@ -2,13 +2,14 @@
   "id": 169487029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.029489,34.896588,-117.029489,34.896588",
     "geom:latitude":34.896588,
     "geom:longitude":-117.029489,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"126 W Fredricks St",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169487029,
-    "wof:lastmodified":1449033768,
+    "wof:lastmodified":1466337628,
     "wof:name":"Sherwood Capital Enterprises",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.029489,34.896588,-117.029489,34.896588],
+  "bbox": [
+    -117.029489,
+    34.896588,
+    -117.029489,
+    34.896588
+],
   "geometry": {"coordinates":[-117.029489,34.896588],"type":"Point"}
 }

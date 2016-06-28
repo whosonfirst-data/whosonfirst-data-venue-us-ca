@@ -2,13 +2,14 @@
   "id": 169511639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.118643,37.99251,-122.118643,37.99251",
     "geom:latitude":37.99251,
     "geom:longitude":-122.118643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"588 Center Ave",
     "sg:city":"Martinez",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85835939
+        85633793,
+        85835939,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169511639,
-    "wof:lastmodified":1449034198,
+    "wof:lastmodified":1466340440,
     "wof:name":"Nails 2002",
     "wof:parent_id":85835939,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.118643,37.99251,-122.118643,37.99251],
-  "geometry": {"coordinates":[-122.118643,37.99251],"type":"Point"}
+  "bbox": [
+    -122.118643,
+    37.99251,
+    -122.118643,
+    37.99251
+],
+  "geometry": {"coordinates":[-122.11864300000001,37.99251],"type":"Point"}
 }

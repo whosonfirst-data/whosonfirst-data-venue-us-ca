@@ -2,13 +2,14 @@
   "id": 169523921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.095334,38.008134,-122.095334,38.008134",
     "geom:latitude":38.008134,
     "geom:longitude":-122.095334,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4036 Pacheco Blvd",
     "sg:city":"Martinez",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.emminger.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85853909
+        85633793,
+        85853909,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169523921,
-    "wof:lastmodified":1449034591,
+    "wof:lastmodified":1466341842,
     "wof:name":"Emminger Corp",
     "wof:parent_id":85853909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.095334,38.008134,-122.095334,38.008134],
-  "geometry": {"coordinates":[-122.095334,38.008134],"type":"Point"}
+  "bbox": [
+    -122.095334,
+    38.008134,
+    -122.095334,
+    38.008134
+],
+  "geometry": {"coordinates":[-122.09533399999999,38.008134],"type":"Point"}
 }

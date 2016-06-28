@@ -2,13 +2,14 @@
   "id": 169448657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.576495,37.017551,-121.576495,37.017551",
     "geom:latitude":37.017551,
     "geom:longitude":-121.576495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8401 Church St",
     "sg:city":"Gilroy",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85831375
+        85633793,
+        85831375,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169448657,
-    "wof:lastmodified":1449035799,
+    "wof:lastmodified":1466352128,
     "wof:name":"Ellite Barbers &Stylists",
     "wof:parent_id":85831375,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.576495,37.017551,-121.576495,37.017551],
-  "geometry": {"coordinates":[-121.576495,37.017551],"type":"Point"}
+  "bbox": [
+    -121.576495,
+    37.017551,
+    -121.576495,
+    37.017551
+],
+  "geometry": {"coordinates":[-121.57649499999999,37.017551],"type":"Point"}
 }

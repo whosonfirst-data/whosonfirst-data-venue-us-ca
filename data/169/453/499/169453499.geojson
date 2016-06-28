@@ -2,13 +2,14 @@
   "id": 169453499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.777643,33.876385,-117.777643,33.876385",
     "geom:latitude":33.876385,
     "geom:longitude":-117.777643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20470 Via Canarias",
     "sg:city":"Yorba Linda",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85867357
+        85633793,
+        85867357,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169453499,
-    "wof:lastmodified":1449035147,
+    "wof:lastmodified":1466360055,
     "wof:name":"Sushma Rampal",
     "wof:parent_id":85867357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.777643,33.876385,-117.777643,33.876385],
+  "bbox": [
+    -117.777643,
+    33.876385,
+    -117.777643,
+    33.876385
+],
   "geometry": {"coordinates":[-117.777643,33.876385],"type":"Point"}
 }

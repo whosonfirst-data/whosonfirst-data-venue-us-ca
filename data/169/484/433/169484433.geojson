@@ -2,13 +2,14 @@
   "id": 169484433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.8914,38.721964,-122.8914,38.721964",
     "geom:latitude":38.721964,
     "geom:longitude":-122.8914,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1300 Moody Ln",
     "sg:city":"Geyserville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85848799
+        85633793,
+        85848799,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169484433,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466337333,
     "wof:name":"Geyserville Childrens Comm Ctr",
     "wof:parent_id":85848799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.8914,38.721964,-122.8914,38.721964],
+  "bbox": [
+    -122.8914,
+    38.721964,
+    -122.8914,
+    38.721964
+],
   "geometry": {"coordinates":[-122.8914,38.721964],"type":"Point"}
 }

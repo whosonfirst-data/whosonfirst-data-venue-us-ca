@@ -2,13 +2,14 @@
   "id": 169524033,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.846856,39.026216,-120.846856,39.026216",
     "geom:latitude":39.026216,
     "geom:longitude":-120.846856,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4560 Yankee Jims Rd",
     "sg:city":"Foresthill",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169524033,
-    "wof:lastmodified":1449032649,
+    "wof:lastmodified":1466341857,
     "wof:name":"Hatfield Co",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.846856,39.026216,-120.846856,39.026216],
+  "bbox": [
+    -120.846856,
+    39.026216,
+    -120.846856,
+    39.026216
+],
   "geometry": {"coordinates":[-120.846856,39.026216],"type":"Point"}
 }

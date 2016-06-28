@@ -2,13 +2,14 @@
   "id": 169449631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.319925,38.332772,-122.319925,38.332772",
     "geom:latitude":38.332772,
     "geom:longitude":-122.319925,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4075 Solano Ave",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.evanstransportation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886547
+        85633793,
+        85886547,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169449631,
-    "wof:lastmodified":1449035715,
+    "wof:lastmodified":1466352633,
     "wof:name":"Evans Airport Svc",
     "wof:parent_id":85886547,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.319925,38.332772,-122.319925,38.332772],
+  "bbox": [
+    -122.319925,
+    38.332772,
+    -122.319925,
+    38.332772
+],
   "geometry": {"coordinates":[-122.319925,38.332772],"type":"Point"}
 }

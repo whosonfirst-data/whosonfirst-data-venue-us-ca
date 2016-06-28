@@ -2,13 +2,14 @@
   "id": 169439539,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.543073,37.99991,-122.543073,37.99991",
     "geom:latitude":37.99991,
     "geom:longitude":-122.543073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"33 Pine Tree Ct",
     "sg:city":"San Rafael",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85869011
+        85633793,
+        85869011,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169439539,
-    "wof:lastmodified":1449033597,
+    "wof:lastmodified":1466346086,
     "wof:name":"Aurora Landscapes",
     "wof:parent_id":85869011,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.543073,37.99991,-122.543073,37.99991],
-  "geometry": {"coordinates":[-122.543073,37.99991],"type":"Point"}
+  "bbox": [
+    -122.543073,
+    37.99991,
+    -122.543073,
+    37.99991
+],
+  "geometry": {"coordinates":[-122.54307300000001,37.99991],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169458235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.230557,38.306081,-122.230557,38.306081",
     "geom:latitude":38.306081,
     "geom:longitude":-122.230557,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1035 Barrow Ln",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.citypass.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85826759
+        85633793,
+        85826759,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169458235,
-    "wof:lastmodified":1449035027,
+    "wof:lastmodified":1466334355,
     "wof:name":"City Pass",
     "wof:parent_id":85826759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.230557,38.306081,-122.230557,38.306081],
+  "bbox": [
+    -122.230557,
+    38.306081,
+    -122.230557,
+    38.306081
+],
   "geometry": {"coordinates":[-122.230557,38.306081],"type":"Point"}
 }

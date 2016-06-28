@@ -2,13 +2,14 @@
   "id": 169511747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.590652,35.242848,-119.590652,35.242848",
     "geom:latitude":35.242848,
     "geom:longitude":-119.590652,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25090 State Rte 33",
     "sg:city":"Fellows",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081727,
-        85633793,
         85688637,
-        85851755
+        85633793,
+        85851755,
+        102081727
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169511747,
-    "wof:lastmodified":1449034195,
+    "wof:lastmodified":1466340453,
     "wof:name":"Pacific Perforating",
     "wof:parent_id":85851755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.590652,35.242848,-119.590652,35.242848],
-  "geometry": {"coordinates":[-119.590652,35.242848],"type":"Point"}
+  "bbox": [
+    -119.590652,
+    35.242848,
+    -119.590652,
+    35.242848
+],
+  "geometry": {"coordinates":[-119.59065200000001,35.242848],"type":"Point"}
 }

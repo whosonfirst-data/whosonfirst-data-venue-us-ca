@@ -2,13 +2,14 @@
   "id": 169503307,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.818166,34.90703,-116.818166,34.90703",
     "geom:latitude":34.90703,
     "geom:longitude":-116.818166,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"338 3rd St",
     "sg:city":"Yermo",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169503307,
-    "wof:lastmodified":1449035977,
+    "wof:lastmodified":1466339498,
     "wof:name":"Ramon V Salisbury",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.818166,34.90703,-116.818166,34.90703],
-  "geometry": {"coordinates":[-116.818166,34.90703],"type":"Point"}
+  "bbox": [
+    -116.818166,
+    34.90703,
+    -116.818166,
+    34.90703
+],
+  "geometry": {"coordinates":[-116.81816600000001,34.90703],"type":"Point"}
 }

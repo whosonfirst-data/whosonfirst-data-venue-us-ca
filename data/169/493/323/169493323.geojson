@@ -2,13 +2,14 @@
   "id": 169493323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.758864,34.111318,-117.758864,34.111318",
     "geom:latitude":34.111318,
     "geom:longitude":-117.758864,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2497 Foothill Blvd",
     "sg:city":"La Verne",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886119
+        85633793,
+        85886119,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169493323,
-    "wof:lastmodified":1449033736,
+    "wof:lastmodified":1466338356,
     "wof:name":"Kopy Kat Printing",
     "wof:parent_id":85886119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.758864,34.111318,-117.758864,34.111318],
+  "bbox": [
+    -117.758864,
+    34.111318,
+    -117.758864,
+    34.111318
+],
   "geometry": {"coordinates":[-117.758864,34.111318],"type":"Point"}
 }

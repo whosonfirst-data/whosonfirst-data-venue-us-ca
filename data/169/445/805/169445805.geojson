@@ -2,13 +2,14 @@
   "id": 169445805,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.848911,37.488149,-120.848911,37.488149",
     "geom:latitude":37.488149,
     "geom:longitude":-120.848911,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Lander Ave",
     "sg:city":"Turlock",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169445805,
-    "wof:lastmodified":1449033127,
+    "wof:lastmodified":1466351567,
     "wof:name":"Central Valley Insurance Svc",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.848911,37.488149,-120.848911,37.488149],
+  "bbox": [
+    -120.848911,
+    37.488149,
+    -120.848911,
+    37.488149
+],
   "geometry": {"coordinates":[-120.848911,37.488149],"type":"Point"}
 }

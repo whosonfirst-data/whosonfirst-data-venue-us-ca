@@ -2,13 +2,14 @@
   "id": 169477827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.757943,38.745816,-120.757943,38.745816",
     "geom:latitude":38.745816,
     "geom:longitude":-120.757943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2160 Carson Rd",
     "sg:city":"Placerville",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086953,
-        85633793,
         85688637,
-        85886903
+        85633793,
+        85886903,
+        102086953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169477827,
-    "wof:lastmodified":1449033256,
+    "wof:lastmodified":1466336579,
     "wof:name":"Smokey Ridge Ranch",
     "wof:parent_id":85886903,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.757943,38.745816,-120.757943,38.745816],
+  "bbox": [
+    -120.757943,
+    38.745816,
+    -120.757943,
+    38.745816
+],
   "geometry": {"coordinates":[-120.757943,38.745816],"type":"Point"}
 }

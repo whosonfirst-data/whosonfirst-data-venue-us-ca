@@ -2,13 +2,14 @@
   "id": 169489379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.061382,36.61209,-120.061382,36.61209",
     "geom:latitude":36.61209,
     "geom:longitude":-120.061382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8225 S Madera Ave",
     "sg:city":"Kerman",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084347,
-        85633793,
         85688637,
-        85871909
+        85633793,
+        85871909,
+        102084347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169489379,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1466337897,
     "wof:name":"Lowerys Hay Service Inc",
     "wof:parent_id":85871909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.061382,36.61209,-120.061382,36.61209],
-  "geometry": {"coordinates":[-120.061382,36.61209],"type":"Point"}
+  "bbox": [
+    -120.061382,
+    36.61209,
+    -120.061382,
+    36.61209
+],
+  "geometry": {"coordinates":[-120.06138199999999,36.61209],"type":"Point"}
 }

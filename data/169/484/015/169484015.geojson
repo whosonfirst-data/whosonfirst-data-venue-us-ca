@@ -2,13 +2,14 @@
   "id": 169484015,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.010808,34.889172,-117.010808,34.889172",
     "geom:latitude":34.889172,
     "geom:longitude":-117.010808,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1149 Elizabeth St",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169484015,
-    "wof:lastmodified":1449035766,
+    "wof:lastmodified":1466337285,
     "wof:name":"Custom Leather By Lhamon",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.010808,34.889172,-117.010808,34.889172],
+  "bbox": [
+    -117.010808,
+    34.889172,
+    -117.010808,
+    34.889172
+],
   "geometry": {"coordinates":[-117.010808,34.889172],"type":"Point"}
 }

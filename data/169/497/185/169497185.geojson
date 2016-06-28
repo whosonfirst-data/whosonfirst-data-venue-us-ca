@@ -2,13 +2,14 @@
   "id": 169497185,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.620612,33.660525,-117.620612,33.660525",
     "geom:latitude":33.660525,
     "geom:longitude":-117.620612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28815 Los Alisos Blvd",
     "sg:city":"Mission Viejo",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85869035
+        85633793,
+        85869035,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169497185,
-    "wof:lastmodified":1449035916,
+    "wof:lastmodified":1466338800,
     "wof:name":"5th Avenue Hair Studio",
     "wof:parent_id":85869035,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.620612,33.660525,-117.620612,33.660525],
-  "geometry": {"coordinates":[-117.620612,33.660525],"type":"Point"}
+  "bbox": [
+    -117.620612,
+    33.660525,
+    -117.620612,
+    33.660525
+],
+  "geometry": {"coordinates":[-117.62061199999999,33.660525],"type":"Point"}
 }

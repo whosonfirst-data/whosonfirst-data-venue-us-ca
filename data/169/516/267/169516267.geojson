@@ -2,13 +2,14 @@
   "id": 169516267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.903216,39.817486,-121.903216,39.817486",
     "geom:latitude":39.817486,
     "geom:longitude":-121.903216,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"19 Rain Tree Ln",
     "sg:city":"Chico",
     "sg:classifiers":[
@@ -28,12 +29,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086941,
-        85633793,
         85688637,
+        85633793,
         85803161,
-        85804431,
-        85923179
+        102086941,
+        85923179,
+        85804431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,20 @@
         }
     ],
     "wof:id":169516267,
-    "wof:lastmodified":1449033324,
+    "wof:lastmodified":1466340971,
     "wof:name":"Surminsky Office Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.903216,39.817486,-121.903216,39.817486],
+  "bbox": [
+    -121.903216,
+    39.817486,
+    -121.903216,
+    39.817486
+],
   "geometry": {"coordinates":[-121.903216,39.817486],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169506871,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.874592,38.611109,-122.874592,38.611109",
     "geom:latitude":38.611109,
     "geom:longitude":-122.874592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"70 W North St",
     "sg:city":"Healdsburg",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85810907
+        85633793,
+        85810907,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169506871,
-    "wof:lastmodified":1449032758,
+    "wof:lastmodified":1466339903,
     "wof:name":"Import Motorworks",
     "wof:parent_id":85810907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.874592,38.611109,-122.874592,38.611109],
-  "geometry": {"coordinates":[-122.874592,38.611109],"type":"Point"}
+  "bbox": [
+    -122.874592,
+    38.611109,
+    -122.874592,
+    38.611109
+],
+  "geometry": {"coordinates":[-122.87459200000001,38.611109],"type":"Point"}
 }

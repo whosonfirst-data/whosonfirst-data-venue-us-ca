@@ -2,13 +2,14 @@
   "id": 169557593,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.189127,34.288025,-119.189127,34.288025",
     "geom:latitude":34.288025,
     "geom:longitude":-119.189127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"358 N San Mateo Ave",
     "sg:city":"Ventura",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85828315
+        85633793,
+        85828315,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169557593,
-    "wof:lastmodified":1449035036,
+    "wof:lastmodified":1466343640,
     "wof:name":"Apple Graphics",
     "wof:parent_id":85828315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.189127,34.288025,-119.189127,34.288025],
+  "bbox": [
+    -119.189127,
+    34.288025,
+    -119.189127,
+    34.288025
+],
   "geometry": {"coordinates":[-119.189127,34.288025],"type":"Point"}
 }

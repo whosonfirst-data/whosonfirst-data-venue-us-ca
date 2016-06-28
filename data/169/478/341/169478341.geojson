@@ -2,13 +2,14 @@
   "id": 169478341,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.26387,33.173452,-117.26387,33.173452",
     "geom:latitude":33.173452,
     "geom:longitude":-117.26387,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4914 Colusa Dr",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85879345
+        85633793,
+        85879345,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169478341,
-    "wof:lastmodified":1449032798,
+    "wof:lastmodified":1466336636,
     "wof:name":"San Diego Custom Converting",
     "wof:parent_id":85879345,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.26387,33.173452,-117.26387,33.173452],
+  "bbox": [
+    -117.26387,
+    33.173452,
+    -117.26387,
+    33.173452
+],
   "geometry": {"coordinates":[-117.26387,33.173452],"type":"Point"}
 }

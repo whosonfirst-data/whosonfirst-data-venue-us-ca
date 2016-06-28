@@ -2,13 +2,14 @@
   "id": 169547459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.573382,38.029706,-122.573382,38.029706",
     "geom:latitude":38.029706,
     "geom:longitude":-122.573382,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 Idylberry Rd",
     "sg:city":"San Rafael",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.st-architecture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85865149
+        85633793,
+        85865149,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169547459,
-    "wof:lastmodified":1449033008,
+    "wof:lastmodified":1466343123,
     "wof:name":"Scheidegger & Tobias",
     "wof:parent_id":85865149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.573382,38.029706,-122.573382,38.029706],
+  "bbox": [
+    -122.573382,
+    38.029706,
+    -122.573382,
+    38.029706
+],
   "geometry": {"coordinates":[-122.573382,38.029706],"type":"Point"}
 }

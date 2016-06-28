@@ -2,13 +2,14 @@
   "id": 169466099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.268097,38.282022,-122.268097,38.282022",
     "geom:latitude":38.282022,
     "geom:longitude":-122.268097,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2139 Coronado Ave",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85826759
+        85633793,
+        85826759,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169466099,
-    "wof:lastmodified":1449033670,
+    "wof:lastmodified":1466335247,
     "wof:name":"Pillow Talk",
     "wof:parent_id":85826759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.268097,38.282022,-122.268097,38.282022],
+  "bbox": [
+    -122.268097,
+    38.282022,
+    -122.268097,
+    38.282022
+],
   "geometry": {"coordinates":[-122.268097,38.282022],"type":"Point"}
 }

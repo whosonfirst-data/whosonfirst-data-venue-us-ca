@@ -2,13 +2,14 @@
   "id": 169445967,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.658765,36.65709,-121.658765,36.65709",
     "geom:latitude":36.65709,
     "geom:longitude":-121.658765,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"44 Plaza Cir",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169445967,
-    "wof:lastmodified":1449033129,
+    "wof:lastmodified":1466351585,
     "wof:name":"Oscars Touch Massage",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.658765,36.65709,-121.658765,36.65709],
+  "bbox": [
+    -121.658765,
+    36.65709,
+    -121.658765,
+    36.65709
+],
   "geometry": {"coordinates":[-121.658765,36.65709],"type":"Point"}
 }

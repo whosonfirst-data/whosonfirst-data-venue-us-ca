@@ -2,13 +2,14 @@
   "id": 169483283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.71656,38.32635,-122.71656,38.32635",
     "geom:latitude":38.32635,
     "geom:longitude":-122.71656,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"530 W School St",
     "sg:city":"Cotati",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85887143
+        85633793,
+        85887143,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169483283,
-    "wof:lastmodified":1449035257,
+    "wof:lastmodified":1466337196,
     "wof:name":"Dietlin Painting & Decorating",
     "wof:parent_id":85887143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.71656,38.32635,-122.71656,38.32635],
+  "bbox": [
+    -122.71656,
+    38.32635,
+    -122.71656,
+    38.32635
+],
   "geometry": {"coordinates":[-122.71656,38.32635],"type":"Point"}
 }

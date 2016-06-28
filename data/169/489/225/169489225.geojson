@@ -2,13 +2,14 @@
   "id": 169489225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.021747,39.235693,-120.021747,39.235693",
     "geom:latitude":39.235693,
     "geom:longitude":-120.021747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8658 N Lake Blvd",
     "sg:city":"Kings Beach",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85888131
+        85633793,
+        85888131,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169489225,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1466337878,
     "wof:name":"Chuck's Bait Tackle & Guide",
     "wof:parent_id":85888131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.021747,39.235693,-120.021747,39.235693],
+  "bbox": [
+    -120.021747,
+    39.235693,
+    -120.021747,
+    39.235693
+],
   "geometry": {"coordinates":[-120.021747,39.235693],"type":"Point"}
 }

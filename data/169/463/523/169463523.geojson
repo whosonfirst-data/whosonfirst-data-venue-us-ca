@@ -2,13 +2,14 @@
   "id": 169463523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.257049,38.617721,-121.257049,38.617721",
     "geom:latitude":38.617721,
     "geom:longitude":-121.257049,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11340 Sabalo Way",
     "sg:city":"Gold River",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082889,
-        85633793,
         85688637,
-        85802629
+        85633793,
+        85802629,
+        102082889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169463523,
-    "wof:lastmodified":1449034982,
+    "wof:lastmodified":1466334954,
     "wof:name":"Flashpoint Racing Series",
     "wof:parent_id":85802629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.257049,38.617721,-121.257049,38.617721],
-  "geometry": {"coordinates":[-121.257049,38.617721],"type":"Point"}
+  "bbox": [
+    -121.257049,
+    38.617721,
+    -121.257049,
+    38.617721
+],
+  "geometry": {"coordinates":[-121.25704899999999,38.617721],"type":"Point"}
 }

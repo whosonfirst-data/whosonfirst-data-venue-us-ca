@@ -2,13 +2,14 @@
   "id": 169520719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-119.875932,36.634001,-119.875932,36.634001",
     "geom:latitude":36.634001,
     "geom:longitude":-119.875932,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4800 W Adams Ave",
     "sg:city":"Fresno",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084347,
-        85633793,
         85688637,
-        85871909
+        85633793,
+        85871909,
+        102084347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169520719,
-    "wof:lastmodified":1449033773,
+    "wof:lastmodified":1466341478,
     "wof:name":"Leroy Futrell Leasor",
     "wof:parent_id":85871909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-119.875932,36.634001,-119.875932,36.634001],
-  "geometry": {"coordinates":[-119.875932,36.634001],"type":"Point"}
+  "bbox": [
+    -119.875932,
+    36.634001,
+    -119.875932,
+    36.634001
+],
+  "geometry": {"coordinates":[-119.87593200000001,36.634001],"type":"Point"}
 }

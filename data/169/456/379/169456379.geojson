@@ -2,13 +2,14 @@
   "id": 169456379,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.550639,36.985782,-121.550639,36.985782",
     "geom:latitude":36.985782,
     "geom:longitude":-121.550639,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5810 Obata Way",
     "sg:city":"Gilroy",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85885997
+        85633793,
+        85885997,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169456379,
-    "wof:lastmodified":1449033665,
+    "wof:lastmodified":1466360890,
     "wof:name":"Chemdry Wataham",
     "wof:parent_id":85885997,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.550639,36.985782,-121.550639,36.985782],
+  "bbox": [
+    -121.550639,
+    36.985782,
+    -121.550639,
+    36.985782
+],
   "geometry": {"coordinates":[-121.550639,36.985782],"type":"Point"}
 }

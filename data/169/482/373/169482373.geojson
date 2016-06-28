@@ -2,13 +2,14 @@
   "id": 169482373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.879152,37.656653,-121.879152,37.656653",
     "geom:latitude":37.656653,
     "geom:longitude":-121.879152,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4820 Bernal Ave",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169482373,
-    "wof:lastmodified":1449033862,
+    "wof:lastmodified":1466337091,
     "wof:name":"Charles Kim Insurance",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.879152,37.656653,-121.879152,37.656653],
+  "bbox": [
+    -121.879152,
+    37.656653,
+    -121.879152,
+    37.656653
+],
   "geometry": {"coordinates":[-121.879152,37.656653],"type":"Point"}
 }

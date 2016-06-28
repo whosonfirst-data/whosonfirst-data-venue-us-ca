@@ -2,13 +2,14 @@
   "id": 169473431,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.104441,34.874555,-117.104441,34.874555",
     "geom:latitude":34.874555,
     "geom:longitude":-117.104441,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25471 Dayton Ave",
     "sg:city":"Barstow",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85836453
+        85633793,
+        85836453,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169473431,
-    "wof:lastmodified":1449033371,
+    "wof:lastmodified":1466336077,
     "wof:name":"Victoria R Rios",
     "wof:parent_id":85836453,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.104441,34.874555,-117.104441,34.874555],
-  "geometry": {"coordinates":[-117.104441,34.874555],"type":"Point"}
+  "bbox": [
+    -117.104441,
+    34.874555,
+    -117.104441,
+    34.874555
+],
+  "geometry": {"coordinates":[-117.10444099999999,34.874555],"type":"Point"}
 }

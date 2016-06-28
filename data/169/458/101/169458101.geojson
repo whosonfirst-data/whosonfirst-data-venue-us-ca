@@ -2,13 +2,14 @@
   "id": 169458101,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.136121,33.760739,-118.136121,33.760739",
     "geom:latitude":33.760739,
     "geom:longitude":-118.136121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5030 E 2nd St",
     "sg:city":"Long Beach",
     "sg:classifiers":[
@@ -29,12 +30,12 @@
     "sg:website":"www.ppmco.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
+        85633793,
         85805639,
-        85871771,
-        85923525
+        102086957,
+        85923525,
+        85871771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,14 +61,20 @@
         }
     ],
     "wof:id":169458101,
-    "wof:lastmodified":1449035027,
+    "wof:lastmodified":1466334338,
     "wof:name":"Precision Property Measurement",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.136121,33.760739,-118.136121,33.760739],
+  "bbox": [
+    -118.136121,
+    33.760739,
+    -118.136121,
+    33.760739
+],
   "geometry": {"coordinates":[-118.136121,33.760739],"type":"Point"}
 }

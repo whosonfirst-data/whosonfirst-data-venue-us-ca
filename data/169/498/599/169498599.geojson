@@ -2,13 +2,14 @@
   "id": 169498599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.879885,38.463986,-122.879885,38.463986",
     "geom:latitude":38.463986,
     "geom:longitude":-122.879885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5630 Gravenstein Hwy N",
     "sg:city":"Forestville",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85888239
+        85633793,
+        85888239,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169498599,
-    "wof:lastmodified":1449035162,
+    "wof:lastmodified":1466338962,
     "wof:name":"Glovers Score Books",
     "wof:parent_id":85888239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.879885,38.463986,-122.879885,38.463986],
+  "bbox": [
+    -122.879885,
+    38.463986,
+    -122.879885,
+    38.463986
+],
   "geometry": {"coordinates":[-122.879885,38.463986],"type":"Point"}
 }

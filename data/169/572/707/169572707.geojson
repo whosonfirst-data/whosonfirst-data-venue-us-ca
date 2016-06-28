@@ -2,13 +2,14 @@
   "id": 169572707,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.66003,36.656094,-121.66003,36.656094",
     "geom:latitude":36.656094,
     "geom:longitude":-121.66003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1275 S Main St",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -25,10 +26,10 @@
     "sg:website":"www.starmkt.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":169572707,
-    "wof:lastmodified":1449034706,
+    "wof:lastmodified":1466343926,
     "wof:name":"Star Market",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.66003,36.656094,-121.66003,36.656094],
-  "geometry": {"coordinates":[-121.66003,36.656094],"type":"Point"}
+  "bbox": [
+    -121.66003,
+    36.656094,
+    -121.66003,
+    36.656094
+],
+  "geometry": {"coordinates":[-121.66003000000001,36.656094],"type":"Point"}
 }

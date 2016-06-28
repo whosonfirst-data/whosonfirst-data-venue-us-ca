@@ -2,13 +2,14 @@
   "id": 169499865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.847646,37.665658,-121.847646,37.665658",
     "geom:latitude":37.665658,
     "geom:longitude":-121.847646,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2881 Whitney Dr",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169499865,
-    "wof:lastmodified":1449033318,
+    "wof:lastmodified":1466339104,
     "wof:name":"Ace Restorations",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.847646,37.665658,-121.847646,37.665658],
+  "bbox": [
+    -121.847646,
+    37.665658,
+    -121.847646,
+    37.665658
+],
   "geometry": {"coordinates":[-121.847646,37.665658],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169456195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.588667,37.989152,-122.588667,37.989152",
     "geom:latitude":37.989152,
     "geom:longitude":-122.588667,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"65 Taylor Dr",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85832149
+        85633793,
+        85832149,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169456195,
-    "wof:lastmodified":1449033667,
+    "wof:lastmodified":1466360870,
     "wof:name":"Quiet Pleasures",
     "wof:parent_id":85832149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.588667,37.989152,-122.588667,37.989152],
+  "bbox": [
+    -122.588667,
+    37.989152,
+    -122.588667,
+    37.989152
+],
   "geometry": {"coordinates":[-122.588667,37.989152],"type":"Point"}
 }

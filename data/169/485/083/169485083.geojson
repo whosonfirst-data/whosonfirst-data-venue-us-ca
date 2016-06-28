@@ -2,13 +2,14 @@
   "id": 169485083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.291841,34.110058,-117.291841,34.110058",
     "geom:latitude":34.110058,
     "geom:longitude":-117.291841,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"577 N D St",
     "sg:city":"San Bernardino",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85854505
+        85633793,
+        85854505,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169485083,
-    "wof:lastmodified":1449034697,
+    "wof:lastmodified":1466337409,
     "wof:name":"Progressive Solutions Nigeria",
     "wof:parent_id":85854505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.291841,34.110058,-117.291841,34.110058],
-  "geometry": {"coordinates":[-117.291841,34.110058],"type":"Point"}
+  "bbox": [
+    -117.291841,
+    34.110058,
+    -117.291841,
+    34.110058
+],
+  "geometry": {"coordinates":[-117.29184100000001,34.110058],"type":"Point"}
 }

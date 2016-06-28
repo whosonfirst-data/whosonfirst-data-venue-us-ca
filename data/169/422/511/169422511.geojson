@@ -2,13 +2,14 @@
   "id": 169422511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.461819,34.025309,-118.461819,34.025309",
     "geom:latitude":34.025309,
     "geom:longitude":-118.461819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2140 Stewart St",
     "sg:city":"Santa Monica",
     "sg:classifiers":[
@@ -28,13 +29,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85841527,
+        85688637,
         85633793,
         85923817,
         102086957,
-        85688637,
-        85847231,
-        85923517
+        85841527,
+        85923517,
+        85847231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,14 +62,20 @@
         }
     ],
     "wof:id":169422511,
-    "wof:lastmodified":1449032909,
+    "wof:lastmodified":1466334233,
     "wof:name":"First Guardian Mortgage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.461819,34.025309,-118.461819,34.025309],
-  "geometry": {"coordinates":[-118.461819,34.025309],"type":"Point"}
+  "bbox": [
+    -118.461819,
+    34.025309,
+    -118.461819,
+    34.025309
+],
+  "geometry": {"coordinates":[-118.46181900000001,34.025309],"type":"Point"}
 }

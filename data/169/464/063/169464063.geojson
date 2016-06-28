@@ -2,13 +2,14 @@
   "id": 169464063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.86492,37.223221,-121.86492,37.223221",
     "geom:latitude":37.223221,
     "geom:longitude":-121.86492,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6477 Almaden Rd",
     "sg:city":"San Jose",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85869071
+        85633793,
+        85869071,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169464063,
-    "wof:lastmodified":1449033572,
+    "wof:lastmodified":1466335015,
     "wof:name":"Country Club Barber Styles",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.86492,37.223221,-121.86492,37.223221],
+  "bbox": [
+    -121.86492,
+    37.223221,
+    -121.86492,
+    37.223221
+],
   "geometry": {"coordinates":[-121.86492,37.223221],"type":"Point"}
 }

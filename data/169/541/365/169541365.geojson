@@ -2,13 +2,14 @@
   "id": 169541365,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.628738,38.521892,-122.628738,38.521892",
     "geom:latitude":38.521892,
     "geom:longitude":-122.628738,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6550 Saint Helena Rd",
     "sg:city":"Santa Rosa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85880883
+        85633793,
+        85880883,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169541365,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466342820,
     "wof:name":"Lufkin Landscape Architects",
     "wof:parent_id":85880883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.628738,38.521892,-122.628738,38.521892],
+  "bbox": [
+    -122.628738,
+    38.521892,
+    -122.628738,
+    38.521892
+],
   "geometry": {"coordinates":[-122.628738,38.521892],"type":"Point"}
 }

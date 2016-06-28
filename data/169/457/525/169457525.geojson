@@ -2,13 +2,14 @@
   "id": 169457525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.252963,34.14455,-117.252963,34.14455",
     "geom:latitude":34.14455,
     "geom:longitude":-117.252963,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1537 Carpenter St",
     "sg:city":"San Bernardino",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85814149
+        85633793,
+        85814149,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169457525,
-    "wof:lastmodified":1449034906,
+    "wof:lastmodified":1466334273,
     "wof:name":"I R Automotive",
     "wof:parent_id":85814149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.252963,34.14455,-117.252963,34.14455],
-  "geometry": {"coordinates":[-117.252963,34.14455],"type":"Point"}
+  "bbox": [
+    -117.252963,
+    34.14455,
+    -117.252963,
+    34.14455
+],
+  "geometry": {"coordinates":[-117.25296299999999,34.14455],"type":"Point"}
 }

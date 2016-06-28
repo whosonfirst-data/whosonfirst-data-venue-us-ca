@@ -2,13 +2,14 @@
   "id": 169521261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.836918,38.306424,-122.836918,38.306424",
     "geom:latitude":38.306424,
     "geom:longitude":-122.836918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8980 Roblar Rd",
     "sg:city":"Petaluma",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169521261,
-    "wof:lastmodified":1449035795,
+    "wof:lastmodified":1466341543,
     "wof:name":"Ramiro Avila",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.836918,38.306424,-122.836918,38.306424],
+  "bbox": [
+    -122.836918,
+    38.306424,
+    -122.836918,
+    38.306424
+],
   "geometry": {"coordinates":[-122.836918,38.306424],"type":"Point"}
 }

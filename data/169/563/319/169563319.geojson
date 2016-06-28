@@ -2,13 +2,14 @@
   "id": 169563319,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.812574,37.388893,-121.812574,37.388893",
     "geom:latitude":37.388893,
     "geom:longitude":-121.812574,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15840 Alta Vista Way",
     "sg:city":"San Jose",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85865159
+        85633793,
+        85865159,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169563319,
-    "wof:lastmodified":1449032731,
+    "wof:lastmodified":1466343759,
     "wof:name":"Mineralogical Research Co",
     "wof:parent_id":85865159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.812574,37.388893,-121.812574,37.388893],
+  "bbox": [
+    -121.812574,
+    37.388893,
+    -121.812574,
+    37.388893
+],
   "geometry": {"coordinates":[-121.812574,37.388893],"type":"Point"}
 }

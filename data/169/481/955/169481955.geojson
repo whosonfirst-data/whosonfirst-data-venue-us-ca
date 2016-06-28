@@ -2,13 +2,14 @@
   "id": 169481955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.040559,38.264267,-122.040559,38.264267",
     "geom:latitude":38.264267,
     "geom:longitude":-122.040559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1953 Union Ave",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087589,
-        85633793,
         85688637,
-        85810315
+        85633793,
+        85810315,
+        102087589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169481955,
-    "wof:lastmodified":1449035531,
+    "wof:lastmodified":1466337043,
     "wof:name":"Tillotson's Lawnmower Hospital",
     "wof:parent_id":85810315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.040559,38.264267,-122.040559,38.264267],
+  "bbox": [
+    -122.040559,
+    38.264267,
+    -122.040559,
+    38.264267
+],
   "geometry": {"coordinates":[-122.040559,38.264267],"type":"Point"}
 }

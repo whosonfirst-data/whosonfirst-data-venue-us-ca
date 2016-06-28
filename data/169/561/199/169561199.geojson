@@ -2,13 +2,14 @@
   "id": 169561199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.880271,37.648429,-121.880271,37.648429",
     "geom:latitude":37.648429,
     "geom:longitude":-121.880271,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5674 Sonoma Dr",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.gsmanagement.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169561199,
-    "wof:lastmodified":1449035019,
+    "wof:lastmodified":1466343712,
     "wof:name":"G S Management Co",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.880271,37.648429,-121.880271,37.648429],
-  "geometry": {"coordinates":[-121.880271,37.648429],"type":"Point"}
+  "bbox": [
+    -121.880271,
+    37.648429,
+    -121.880271,
+    37.648429
+],
+  "geometry": {"coordinates":[-121.88027099999999,37.648429],"type":"Point"}
 }

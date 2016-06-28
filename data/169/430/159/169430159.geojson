@@ -2,13 +2,14 @@
   "id": 169430159,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.350121,33.157148,-117.350121,33.157148",
     "geom:latitude":33.157148,
     "geom:longitude":-117.350121,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"390 Oak Ave",
     "sg:city":"Carlsbad",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.religioussciencecarlsbad.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85885759
+        85633793,
+        85885759,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169430159,
-    "wof:lastmodified":1449034790,
+    "wof:lastmodified":1466337045,
     "wof:name":"Center For Positive Living",
     "wof:parent_id":85885759,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.350121,33.157148,-117.350121,33.157148],
+  "bbox": [
+    -117.350121,
+    33.157148,
+    -117.350121,
+    33.157148
+],
   "geometry": {"coordinates":[-117.350121,33.157148],"type":"Point"}
 }

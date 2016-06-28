@@ -2,13 +2,14 @@
   "id": 169435663,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.944304,37.638068,-120.944304,37.638068",
     "geom:latitude":37.638068,
     "geom:longitude":-120.944304,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2640 Yosemite Blvd",
     "sg:city":"Modesto",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169435663,
-    "wof:lastmodified":1449035654,
+    "wof:lastmodified":1466343462,
     "wof:name":"Guiney Delivery Service Inc",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.944304,37.638068,-120.944304,37.638068],
+  "bbox": [
+    -120.944304,
+    37.638068,
+    -120.944304,
+    37.638068
+],
   "geometry": {"coordinates":[-120.944304,37.638068],"type":"Point"}
 }

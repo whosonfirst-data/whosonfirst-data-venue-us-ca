@@ -2,13 +2,14 @@
   "id": 169508477,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.025968,34.031416,-118.025968,34.031416",
     "geom:latitude":34.031416,
     "geom:longitude":-118.025968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2225 Workman Mill Rd",
     "sg:city":"Whittier",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85888227
+        85633793,
+        85888227,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169508477,
-    "wof:lastmodified":1449034540,
+    "wof:lastmodified":1466340083,
     "wof:name":"Rutland Tool & Supply Inc",
     "wof:parent_id":85888227,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.025968,34.031416,-118.025968,34.031416],
-  "geometry": {"coordinates":[-118.025968,34.031416],"type":"Point"}
+  "bbox": [
+    -118.025968,
+    34.031416,
+    -118.025968,
+    34.031416
+],
+  "geometry": {"coordinates":[-118.02596800000001,34.031416],"type":"Point"}
 }

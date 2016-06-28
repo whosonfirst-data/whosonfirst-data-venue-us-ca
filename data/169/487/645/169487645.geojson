@@ -2,13 +2,14 @@
   "id": 169487645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.817423,33.768231,-117.817423,33.768231",
     "geom:latitude":33.768231,
     "geom:longitude":-117.817423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"18041 Blue Ridge Dr",
     "sg:city":"Santa Ana",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85840387
+        85633793,
+        85840387,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169487645,
-    "wof:lastmodified":1449033768,
+    "wof:lastmodified":1466337698,
     "wof:name":"Soil & Plant Laboratory",
     "wof:parent_id":85840387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.817423,33.768231,-117.817423,33.768231],
-  "geometry": {"coordinates":[-117.817423,33.768231],"type":"Point"}
+  "bbox": [
+    -117.817423,
+    33.768231,
+    -117.817423,
+    33.768231
+],
+  "geometry": {"coordinates":[-117.81742300000001,33.768231],"type":"Point"}
 }

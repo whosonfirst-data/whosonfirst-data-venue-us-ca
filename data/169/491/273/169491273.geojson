@@ -2,13 +2,14 @@
   "id": 169491273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.266638,38.238573,-122.266638,38.238573",
     "geom:latitude":38.238573,
     "geom:longitude":-122.266638,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"477 Devlin Rd",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -32,10 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85848459
+        85633793,
+        85848459,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":169491273,
-    "wof:lastmodified":1449032628,
+    "wof:lastmodified":1466338117,
     "wof:name":"J S Paluch Co Inc",
     "wof:parent_id":85848459,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.266638,38.238573,-122.266638,38.238573],
+  "bbox": [
+    -122.266638,
+    38.238573,
+    -122.266638,
+    38.238573
+],
   "geometry": {"coordinates":[-122.266638,38.238573],"type":"Point"}
 }

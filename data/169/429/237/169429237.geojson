@@ -2,13 +2,14 @@
   "id": 169429237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.127799,37.018866,-122.127799,37.018866",
     "geom:latitude":37.018866,
     "geom:longitude":-122.127799,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2514 Smith Grade",
     "sg:city":"Santa Cruz",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087581,
-        85633793,
         85688637,
-        85880767
+        85633793,
+        85880767,
+        102087581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169429237,
-    "wof:lastmodified":1449035783,
+    "wof:lastmodified":1466335139,
     "wof:name":"Tom's Well Svc",
     "wof:parent_id":85880767,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.127799,37.018866,-122.127799,37.018866],
+  "bbox": [
+    -122.127799,
+    37.018866,
+    -122.127799,
+    37.018866
+],
   "geometry": {"coordinates":[-122.127799,37.018866],"type":"Point"}
 }

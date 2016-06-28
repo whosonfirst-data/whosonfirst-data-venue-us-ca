@@ -2,13 +2,14 @@
   "id": 169460385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.260356,38.606932,-121.260356,38.606932",
     "geom:latitude":38.606932,
     "geom:longitude":-121.260356,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2702 Mercantile Dr",
     "sg:city":"Rancho Cordova",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082889,
-        85633793,
         85688637,
-        85802629
+        85633793,
+        85802629,
+        102082889
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169460385,
-    "wof:lastmodified":1449035771,
+    "wof:lastmodified":1466334592,
     "wof:name":"Captive Products Inc",
     "wof:parent_id":85802629,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.260356,38.606932,-121.260356,38.606932],
+  "bbox": [
+    -121.260356,
+    38.606932,
+    -121.260356,
+    38.606932
+],
   "geometry": {"coordinates":[-121.260356,38.606932],"type":"Point"}
 }

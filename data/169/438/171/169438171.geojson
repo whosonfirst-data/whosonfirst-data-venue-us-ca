@@ -2,13 +2,14 @@
   "id": 169438171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.062012,38.927929,-121.062012,38.927929",
     "geom:latitude":38.927929,
     "geom:longitude":-121.062012,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13340 Luther Rd",
     "sg:city":"Auburn",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169438171,
-    "wof:lastmodified":1449033806,
+    "wof:lastmodified":1466345899,
     "wof:name":"Rebel Ink Tattoos",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.062012,38.927929,-121.062012,38.927929],
+  "bbox": [
+    -121.062012,
+    38.927929,
+    -121.062012,
+    38.927929
+],
   "geometry": {"coordinates":[-121.062012,38.927929],"type":"Point"}
 }

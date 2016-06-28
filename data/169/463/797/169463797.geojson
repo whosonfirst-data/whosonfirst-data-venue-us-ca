@@ -2,13 +2,14 @@
   "id": 169463797,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.129146,37.502394,-121.129146,37.502394",
     "geom:latitude":37.502394,
     "geom:longitude":-121.129146,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"13513 Sycamore Ave",
     "sg:city":"Patterson",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85834691
+        85633793,
+        85834691,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169463797,
-    "wof:lastmodified":1449034984,
+    "wof:lastmodified":1466334984,
     "wof:name":"Neil Phillips Ag Consultant",
     "wof:parent_id":85834691,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.129146,37.502394,-121.129146,37.502394],
-  "geometry": {"coordinates":[-121.129146,37.502394],"type":"Point"}
+  "bbox": [
+    -121.129146,
+    37.502394,
+    -121.129146,
+    37.502394
+],
+  "geometry": {"coordinates":[-121.12914600000001,37.502394],"type":"Point"}
 }

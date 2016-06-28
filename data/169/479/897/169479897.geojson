@@ -2,13 +2,14 @@
   "id": 169479897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.182502,34.094464,-117.182502,34.094464",
     "geom:latitude":34.094464,
     "geom:longitude":-117.182502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2565 Orange St",
     "sg:city":"Highland",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85813075
+        85633793,
+        85813075,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169479897,
-    "wof:lastmodified":1449034952,
+    "wof:lastmodified":1466336817,
     "wof:name":"Baskets Coast To Coast",
     "wof:parent_id":85813075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.182502,34.094464,-117.182502,34.094464],
+  "bbox": [
+    -117.182502,
+    34.094464,
+    -117.182502,
+    34.094464
+],
   "geometry": {"coordinates":[-117.182502,34.094464],"type":"Point"}
 }

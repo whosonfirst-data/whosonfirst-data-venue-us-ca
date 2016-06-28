@@ -2,13 +2,14 @@
   "id": 169424623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.08343,40.874784,-124.08343,40.874784",
     "geom:latitude":40.874784,
     "geom:longitude":-124.08343,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1644 G St",
     "sg:city":"Arcata",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087587,
-        85633793,
         85688637,
-        85802847
+        85633793,
+        85802847,
+        102087587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169424623,
-    "wof:lastmodified":1449035752,
+    "wof:lastmodified":1466350795,
     "wof:name":"Hutchins Grocery",
     "wof:parent_id":85802847,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.08343,40.874784,-124.08343,40.874784],
-  "geometry": {"coordinates":[-124.08343,40.874784],"type":"Point"}
+  "bbox": [
+    -124.08343,
+    40.874784,
+    -124.08343,
+    40.874784
+],
+  "geometry": {"coordinates":[-124.08343000000001,40.874784],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169464745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.596285,37.99387,-122.596285,37.99387",
     "geom:latitude":37.99387,
     "geom:longitude":-122.596285,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"155 Olema Rd",
     "sg:city":"Fairfax",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85832149
+        85633793,
+        85832149,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169464745,
-    "wof:lastmodified":1449033574,
+    "wof:lastmodified":1466335093,
     "wof:name":"Cloudy Minds Production & Pubg",
     "wof:parent_id":85832149,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.596285,37.99387,-122.596285,37.99387],
-  "geometry": {"coordinates":[-122.596285,37.99387],"type":"Point"}
+  "bbox": [
+    -122.596285,
+    37.99387,
+    -122.596285,
+    37.99387
+],
+  "geometry": {"coordinates":[-122.59628499999999,37.99387],"type":"Point"}
 }

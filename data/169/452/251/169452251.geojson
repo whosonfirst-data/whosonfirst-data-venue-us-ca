@@ -2,13 +2,14 @@
   "id": 169452251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.024534,36.77613,-120.024534,36.77613",
     "geom:latitude":36.77613,
     "geom:longitude":-120.024534,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2835 N Howard Ave",
     "sg:city":"Kerman",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084347,
-        85633793,
         85688637,
-        85871909
+        85633793,
+        85871909,
+        102084347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169452251,
-    "wof:lastmodified":1449033469,
+    "wof:lastmodified":1466357722,
     "wof:name":"Hansen Ranches",
     "wof:parent_id":85871909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.024534,36.77613,-120.024534,36.77613],
+  "bbox": [
+    -120.024534,
+    36.77613,
+    -120.024534,
+    36.77613
+],
   "geometry": {"coordinates":[-120.024534,36.77613],"type":"Point"}
 }

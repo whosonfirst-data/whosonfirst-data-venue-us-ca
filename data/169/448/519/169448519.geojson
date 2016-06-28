@@ -2,13 +2,14 @@
   "id": 169448519,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.218347,38.04751,-122.218347,38.04751",
     "geom:latitude":38.04751,
     "geom:longitude":-122.218347,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 Stephens Ct",
     "sg:city":"Orinda",
     "sg:classifiers":[
@@ -24,13 +25,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
+        85633793,
         85881593,
-        85821811,
+        102086225,
         85922643,
-        102087589
+        102087589,
+        85821811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,20 @@
         }
     ],
     "wof:id":169448519,
-    "wof:lastmodified":1449035802,
+    "wof:lastmodified":1466352112,
     "wof:name":"J M Wallace Architects",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.218347,38.04751,-122.218347,38.04751],
-  "geometry": {"coordinates":[-122.218347,38.04751],"type":"Point"}
+  "bbox": [
+    -122.218347,
+    38.04751,
+    -122.218347,
+    38.04751
+],
+  "geometry": {"coordinates":[-122.21834699999999,38.04751],"type":"Point"}
 }

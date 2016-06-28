@@ -2,13 +2,14 @@
   "id": 169450161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.980405,38.35543,-122.980405,38.35543",
     "geom:latitude":38.35543,
     "geom:longitude":-122.980405,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1109 Tannery Creek Rd",
     "sg:city":"Bodega",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169450161,
-    "wof:lastmodified":1449035459,
+    "wof:lastmodified":1466353330,
     "wof:name":"Lipoprotein Technologies",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.980405,38.35543,-122.980405,38.35543],
+  "bbox": [
+    -122.980405,
+    38.35543,
+    -122.980405,
+    38.35543
+],
   "geometry": {"coordinates":[-122.980405,38.35543],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169466941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.060348,36.722969,-120.060348,36.722969",
     "geom:latitude":36.722969,
     "geom:longitude":-120.060348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"785 S Madera Ave",
     "sg:city":"Kerman",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084347,
-        85633793,
         85688637,
-        85871909
+        85633793,
+        85871909,
+        102084347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169466941,
-    "wof:lastmodified":1449033670,
+    "wof:lastmodified":1466335341,
     "wof:name":"Kertel Communications Inc",
     "wof:parent_id":85871909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.060348,36.722969,-120.060348,36.722969],
+  "bbox": [
+    -120.060348,
+    36.722969,
+    -120.060348,
+    36.722969
+],
   "geometry": {"coordinates":[-120.060348,36.722969],"type":"Point"}
 }

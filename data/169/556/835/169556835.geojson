@@ -2,13 +2,14 @@
   "id": 169556835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.08881,37.335651,-122.08881,37.335651",
     "geom:latitude":37.335651,
     "geom:longitude":-122.08881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10859 Sycamore Dr",
     "sg:city":"Cupertino",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081673,
-        85633793,
         85688637,
-        85886313
+        85633793,
+        85886313,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169556835,
-    "wof:lastmodified":1449033506,
+    "wof:lastmodified":1466343604,
     "wof:name":"Apollo Travel",
     "wof:parent_id":85886313,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.08881,37.335651,-122.08881,37.335651],
+  "bbox": [
+    -122.08881,
+    37.335651,
+    -122.08881,
+    37.335651
+],
   "geometry": {"coordinates":[-122.08881,37.335651],"type":"Point"}
 }

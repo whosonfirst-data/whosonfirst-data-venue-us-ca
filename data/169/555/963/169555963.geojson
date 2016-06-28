@@ -2,13 +2,14 @@
   "id": 169555963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.060595,38.243087,-122.060595,38.243087",
     "geom:latitude":38.243087,
     "geom:longitude":-122.060595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1702 Enterprise Dr",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087589,
-        85633793,
         85688637,
-        85810315
+        85633793,
+        85810315,
+        102087589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":169555963,
-    "wof:lastmodified":1449035494,
+    "wof:lastmodified":1466343568,
     "wof:name":"Component Finishing",
     "wof:parent_id":85810315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.060595,38.243087,-122.060595,38.243087],
-  "geometry": {"coordinates":[-122.060595,38.243087],"type":"Point"}
+  "bbox": [
+    -122.060595,
+    38.243087,
+    -122.060595,
+    38.243087
+],
+  "geometry": {"coordinates":[-122.06059500000001,38.243087],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169466169,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.223762,38.049714,-122.223762,38.049714",
     "geom:latitude":38.049714,
     "geom:longitude":-122.223762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1122 2nd Ave",
     "sg:city":"Crockett",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85881593
+        85633793,
+        85881593,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169466169,
-    "wof:lastmodified":1449033669,
+    "wof:lastmodified":1466335255,
     "wof:name":"Hair Nouveau",
     "wof:parent_id":85881593,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.223762,38.049714,-122.223762,38.049714],
-  "geometry": {"coordinates":[-122.223762,38.049714],"type":"Point"}
+  "bbox": [
+    -122.223762,
+    38.049714,
+    -122.223762,
+    38.049714
+],
+  "geometry": {"coordinates":[-122.22376199999999,38.049714],"type":"Point"}
 }

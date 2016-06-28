@@ -2,13 +2,14 @@
   "id": 169541949,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.203876,39.202534,-123.203876,39.202534",
     "geom:latitude":39.202534,
     "geom:longitude":-123.203876,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3903 N State St",
     "sg:city":"Ukiah",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102082885,
-        85633793,
         85688637,
-        85852027
+        85633793,
+        85852027,
+        102082885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169541949,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466342848,
     "wof:name":"Antonio's Body Shop",
     "wof:parent_id":85852027,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.203876,39.202534,-123.203876,39.202534],
-  "geometry": {"coordinates":[-123.203876,39.202534],"type":"Point"}
+  "bbox": [
+    -123.203876,
+    39.202534,
+    -123.203876,
+    39.202534
+],
+  "geometry": {"coordinates":[-123.20387599999999,39.202534],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169513879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.042108,39.23853,-120.042108,39.23853",
     "geom:latitude":39.23853,
     "geom:longitude":-120.042108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7252 N Lake Blvd",
     "sg:city":"Tahoe Vista",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85888131
+        85633793,
+        85888131,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169513879,
-    "wof:lastmodified":1449034871,
+    "wof:lastmodified":1466340698,
     "wof:name":"Munsterman Group",
     "wof:parent_id":85888131,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.042108,39.23853,-120.042108,39.23853],
+  "bbox": [
+    -120.042108,
+    39.23853,
+    -120.042108,
+    39.23853
+],
   "geometry": {"coordinates":[-120.042108,39.23853],"type":"Point"}
 }

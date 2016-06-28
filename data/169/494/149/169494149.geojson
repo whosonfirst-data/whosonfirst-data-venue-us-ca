@@ -2,13 +2,14 @@
   "id": 169494149,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.349111,38.340032,-122.349111,38.340032",
     "geom:latitude":38.340032,
     "geom:longitude":-122.349111,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3164 Dry Creek Rd",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85846841
+        85633793,
+        85846841,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169494149,
-    "wof:lastmodified":1449035588,
+    "wof:lastmodified":1466338451,
     "wof:name":"Catherine Cornejo Dvm",
     "wof:parent_id":85846841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.349111,38.340032,-122.349111,38.340032],
-  "geometry": {"coordinates":[-122.349111,38.340032],"type":"Point"}
+  "bbox": [
+    -122.349111,
+    38.340032,
+    -122.349111,
+    38.340032
+],
+  "geometry": {"coordinates":[-122.34911099999999,38.340032],"type":"Point"}
 }

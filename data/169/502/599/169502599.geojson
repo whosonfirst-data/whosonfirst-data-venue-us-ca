@@ -2,13 +2,14 @@
   "id": 169502599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.619108,36.725751,-121.619108,36.725751",
     "geom:latitude":36.725751,
     "geom:longitude":-121.619108,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"301 Natividad Rd",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -31,10 +32,10 @@
     "sg:website":"www.takii.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880621
+        85633793,
+        85880621,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,14 +53,20 @@
         }
     ],
     "wof:id":169502599,
-    "wof:lastmodified":1449034185,
+    "wof:lastmodified":1466339416,
     "wof:name":"American Takii Inc",
     "wof:parent_id":85880621,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.619108,36.725751,-121.619108,36.725751],
+  "bbox": [
+    -121.619108,
+    36.725751,
+    -121.619108,
+    36.725751
+],
   "geometry": {"coordinates":[-121.619108,36.725751],"type":"Point"}
 }

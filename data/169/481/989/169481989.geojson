@@ -2,13 +2,14 @@
   "id": 169481989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.288197,34.115733,-117.288197,34.115733",
     "geom:latitude":34.115733,
     "geom:longitude":-117.288197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 W 9th St",
     "sg:city":"San Bernardino",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85854505
+        85633793,
+        85854505,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169481989,
-    "wof:lastmodified":1449035532,
+    "wof:lastmodified":1466337047,
     "wof:name":"Pizza Party",
     "wof:parent_id":85854505,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.288197,34.115733,-117.288197,34.115733],
+  "bbox": [
+    -117.288197,
+    34.115733,
+    -117.288197,
+    34.115733
+],
   "geometry": {"coordinates":[-117.288197,34.115733],"type":"Point"}
 }

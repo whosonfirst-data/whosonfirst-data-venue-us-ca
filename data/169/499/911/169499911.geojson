@@ -2,13 +2,14 @@
   "id": 169499911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.904023,38.999864,-120.904023,38.999864",
     "geom:latitude":38.999864,
     "geom:longitude":-120.904023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5035 Red Rock Dr",
     "sg:city":"Foresthill",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85841911
+        85633793,
+        85841911,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169499911,
-    "wof:lastmodified":1449033319,
+    "wof:lastmodified":1466339109,
     "wof:name":"Esthetics By Shawn-Marie",
     "wof:parent_id":85841911,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.904023,38.999864,-120.904023,38.999864],
+  "bbox": [
+    -120.904023,
+    38.999864,
+    -120.904023,
+    38.999864
+],
   "geometry": {"coordinates":[-120.904023,38.999864],"type":"Point"}
 }

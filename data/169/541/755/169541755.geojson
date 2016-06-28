@@ -2,13 +2,14 @@
   "id": 169541755,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.78229,34.119156,-117.78229,34.119156",
     "geom:latitude":34.119156,
     "geom:longitude":-117.78229,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1175 Foothill Blvd",
     "sg:city":"La Verne",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886119
+        85633793,
+        85886119,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169541755,
-    "wof:lastmodified":1449033042,
+    "wof:lastmodified":1466342839,
     "wof:name":"Al & Ed's Autosound",
     "wof:parent_id":85886119,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.78229,34.119156,-117.78229,34.119156],
+  "bbox": [
+    -117.78229,
+    34.119156,
+    -117.78229,
+    34.119156
+],
   "geometry": {"coordinates":[-117.78229,34.119156],"type":"Point"}
 }

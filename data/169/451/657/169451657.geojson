@@ -2,13 +2,14 @@
   "id": 169451657,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.973482,37.853802,-121.973482,37.853802",
     "geom:latitude":37.853802,
     "geom:longitude":-121.973482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"145 Virginia Ln",
     "sg:city":"Alamo",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85888185
+        85633793,
+        85888185,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169451657,
-    "wof:lastmodified":1449034111,
+    "wof:lastmodified":1466357198,
     "wof:name":"Tom Thurow Real Est Appraiser",
     "wof:parent_id":85888185,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.973482,37.853802,-121.973482,37.853802],
+  "bbox": [
+    -121.973482,
+    37.853802,
+    -121.973482,
+    37.853802
+],
   "geometry": {"coordinates":[-121.973482,37.853802],"type":"Point"}
 }

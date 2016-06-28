@@ -2,13 +2,14 @@
   "id": 169454273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.256505,38.356324,-122.256505,38.356324",
     "geom:latitude":38.356324,
     "geom:longitude":-122.256505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1150 Castle Oaks Dr",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85846841
+        85633793,
+        85846841,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169454273,
-    "wof:lastmodified":1449035645,
+    "wof:lastmodified":1466360163,
     "wof:name":"Le Cadeau",
     "wof:parent_id":85846841,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.256505,38.356324,-122.256505,38.356324],
+  "bbox": [
+    -122.256505,
+    38.356324,
+    -122.256505,
+    38.356324
+],
   "geometry": {"coordinates":[-122.256505,38.356324],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169542543,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-123.053009,38.473464,-123.053009,38.473464",
     "geom:latitude":38.473464,
     "geom:longitude":-123.053009,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"60 Magic Mountain Rd",
     "sg:city":"Cazadero",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85888239
+        85633793,
+        85888239,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169542543,
-    "wof:lastmodified":1449035219,
+    "wof:lastmodified":1466342876,
     "wof:name":"Mr Checkout",
     "wof:parent_id":85888239,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-123.053009,38.473464,-123.053009,38.473464],
+  "bbox": [
+    -123.053009,
+    38.473464,
+    -123.053009,
+    38.473464
+],
   "geometry": {"coordinates":[-123.053009,38.473464],"type":"Point"}
 }

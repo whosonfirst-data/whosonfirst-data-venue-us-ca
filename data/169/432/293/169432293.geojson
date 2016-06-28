@@ -2,13 +2,14 @@
   "id": 169432293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.315498,38.726841,-121.315498,38.726841",
     "geom:latitude":38.726841,
     "geom:longitude":-121.315498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 March Rd",
     "sg:city":"Roseville",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080863,
-        85633793,
         85688637,
-        85880477
+        85633793,
+        85880477,
+        102080863
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169432293,
-    "wof:lastmodified":1449032623,
+    "wof:lastmodified":1466340253,
     "wof:name":"Phil Reome Inc",
     "wof:parent_id":85880477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.315498,38.726841,-121.315498,38.726841],
-  "geometry": {"coordinates":[-121.315498,38.726841],"type":"Point"}
+  "bbox": [
+    -121.315498,
+    38.726841,
+    -121.315498,
+    38.726841
+],
+  "geometry": {"coordinates":[-121.31549800000001,38.726841],"type":"Point"}
 }

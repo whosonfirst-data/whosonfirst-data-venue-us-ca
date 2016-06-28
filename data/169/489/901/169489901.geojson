@@ -2,13 +2,14 @@
   "id": 169489901,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.272654,38.305613,-122.272654,38.305613",
     "geom:latitude":38.305613,
     "geom:longitude":-122.272654,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"113 E Spring St",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886543
+        85633793,
+        85886543,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169489901,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1466337958,
     "wof:name":"Carrie Markham Consulting",
     "wof:parent_id":85886543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.272654,38.305613,-122.272654,38.305613],
+  "bbox": [
+    -122.272654,
+    38.305613,
+    -122.272654,
+    38.305613
+],
   "geometry": {"coordinates":[-122.272654,38.305613],"type":"Point"}
 }

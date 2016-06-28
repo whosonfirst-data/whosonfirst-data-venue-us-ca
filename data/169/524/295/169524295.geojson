@@ -2,13 +2,14 @@
   "id": 169524295,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.864134,38.630763,-122.864134,38.630763",
     "geom:latitude":38.630763,
     "geom:longitude":-122.864134,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1540 Poppy Hill Dr",
     "sg:city":"Healdsburg",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85848799
+        85633793,
+        85848799,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169524295,
-    "wof:lastmodified":1449032650,
+    "wof:lastmodified":1466341887,
     "wof:name":"Chapman Home Design",
     "wof:parent_id":85848799,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.864134,38.630763,-122.864134,38.630763],
-  "geometry": {"coordinates":[-122.864134,38.630763],"type":"Point"}
+  "bbox": [
+    -122.864134,
+    38.630763,
+    -122.864134,
+    38.630763
+],
+  "geometry": {"coordinates":[-122.86413400000001,38.630763],"type":"Point"}
 }

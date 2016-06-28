@@ -2,13 +2,14 @@
   "id": 169432935,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.878745,33.940714,-117.878745,33.940714",
     "geom:latitude":33.940714,
     "geom:longitude":-117.878745,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1120 Brea Blvd",
     "sg:city":"Brea",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85807155
+        85633793,
+        85807155,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169432935,
-    "wof:lastmodified":1449032625,
+    "wof:lastmodified":1466340325,
     "wof:name":"Best Nails",
     "wof:parent_id":85807155,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.878745,33.940714,-117.878745,33.940714],
+  "bbox": [
+    -117.878745,
+    33.940714,
+    -117.878745,
+    33.940714
+],
   "geometry": {"coordinates":[-117.878745,33.940714],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169512709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.93576,34.238457,-116.93576,34.238457",
     "geom:latitude":34.238457,
     "geom:longitude":-116.93576,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39767 Big Bear Blvd",
     "sg:city":"Big Bear Lake",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85806779
+        85633793,
+        85806779,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169512709,
-    "wof:lastmodified":1449035074,
+    "wof:lastmodified":1466340564,
     "wof:name":"Johnny's Ski & Board House",
     "wof:parent_id":85806779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.93576,34.238457,-116.93576,34.238457],
+  "bbox": [
+    -116.93576,
+    34.238457,
+    -116.93576,
+    34.238457
+],
   "geometry": {"coordinates":[-116.93576,34.238457],"type":"Point"}
 }

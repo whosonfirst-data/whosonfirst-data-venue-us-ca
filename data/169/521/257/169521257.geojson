@@ -2,13 +2,14 @@
   "id": 169521257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-120.848949,37.518951,-120.848949,37.518951",
     "geom:latitude":37.518951,
     "geom:longitude":-120.848949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2853 Geer Rd",
     "sg:city":"Turlock",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083579,
-        85633793,
         85688637,
-        85869025
+        85633793,
+        85869025,
+        102083579
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169521257,
-    "wof:lastmodified":1449035796,
+    "wof:lastmodified":1466341542,
     "wof:name":"Devon Trading",
     "wof:parent_id":85869025,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-120.848949,37.518951,-120.848949,37.518951],
+  "bbox": [
+    -120.848949,
+    37.518951,
+    -120.848949,
+    37.518951
+],
   "geometry": {"coordinates":[-120.848949,37.518951],"type":"Point"}
 }

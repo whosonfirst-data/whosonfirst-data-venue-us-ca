@@ -2,13 +2,14 @@
   "id": 169495585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.271956,33.028627,-117.271956,33.028627",
     "geom:latitude":33.028627,
     "geom:longitude":-117.271956,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"909 Nolbey St",
     "sg:city":"Cardiff By The Sea",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85868399
+        85633793,
+        85868399,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169495585,
-    "wof:lastmodified":1449034128,
+    "wof:lastmodified":1466338618,
     "wof:name":"Seaside Gardens Soap",
     "wof:parent_id":85868399,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.271956,33.028627,-117.271956,33.028627],
+  "bbox": [
+    -117.271956,
+    33.028627,
+    -117.271956,
+    33.028627
+],
   "geometry": {"coordinates":[-117.271956,33.028627],"type":"Point"}
 }

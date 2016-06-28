@@ -2,13 +2,14 @@
   "id": 169524409,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-124.190674,40.774225,-124.190674,40.774225",
     "geom:latitude":40.774225,
     "geom:longitude":-124.190674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1742 McCullens Ave",
     "sg:city":"Eureka",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087587,
-        85633793,
         85688637,
-        85808321
+        85633793,
+        85808321,
+        102087587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169524409,
-    "wof:lastmodified":1449032650,
+    "wof:lastmodified":1466341902,
     "wof:name":"Broadway Trailer Court",
     "wof:parent_id":85808321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-124.190674,40.774225,-124.190674,40.774225],
+  "bbox": [
+    -124.190674,
+    40.774225,
+    -124.190674,
+    40.774225
+],
   "geometry": {"coordinates":[-124.190674,40.774225],"type":"Point"}
 }

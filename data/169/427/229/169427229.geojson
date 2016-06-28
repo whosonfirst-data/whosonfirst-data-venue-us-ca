@@ -2,13 +2,14 @@
   "id": 169427229,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.78572,33.883091,-117.78572,33.883091",
     "geom:latitude":33.883091,
     "geom:longitude":-117.78572,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5589 Pso Gilberto",
     "sg:city":"Yorba Linda",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85867357
+        85633793,
+        85867357,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169427229,
-    "wof:lastmodified":1449033678,
+    "wof:lastmodified":1466334408,
     "wof:name":"Theresa Degrassi Appraiser",
     "wof:parent_id":85867357,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.78572,33.883091,-117.78572,33.883091],
+  "bbox": [
+    -117.78572,
+    33.883091,
+    -117.78572,
+    33.883091
+],
   "geometry": {"coordinates":[-117.78572,33.883091],"type":"Point"}
 }

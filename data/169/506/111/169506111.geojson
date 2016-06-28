@@ -2,13 +2,14 @@
   "id": 169506111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.318084,33.254697,-117.318084,33.254697",
     "geom:latitude":33.254697,
     "geom:longitude":-117.318084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"949 Goleta St",
     "sg:city":"Oceanside",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102083569,
-        85633793,
         85688637,
-        85879343
+        85633793,
+        85879343,
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169506111,
-    "wof:lastmodified":1449032759,
+    "wof:lastmodified":1466339816,
     "wof:name":"Pacific I Limousine Svc",
     "wof:parent_id":85879343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.318084,33.254697,-117.318084,33.254697],
+  "bbox": [
+    -117.318084,
+    33.254697,
+    -117.318084,
+    33.254697
+],
   "geometry": {"coordinates":[-117.318084,33.254697],"type":"Point"}
 }

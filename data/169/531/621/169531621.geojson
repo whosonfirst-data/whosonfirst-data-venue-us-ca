@@ -2,13 +2,14 @@
   "id": 169531621,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.535789,37.890657,-122.535789,37.890657",
     "geom:latitude":37.890657,
     "geom:longitude":-122.535789,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"911 Greenhill Rd",
     "sg:city":"Mill Valley",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102084353,
-        85633793,
         85688637,
-        85851781
+        85633793,
+        85851781,
+        102084353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169531621,
-    "wof:lastmodified":1449033475,
+    "wof:lastmodified":1466342339,
     "wof:name":"Tea Lovers & More",
     "wof:parent_id":85851781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.535789,37.890657,-122.535789,37.890657],
-  "geometry": {"coordinates":[-122.535789,37.890657],"type":"Point"}
+  "bbox": [
+    -122.535789,
+    37.890657,
+    -122.535789,
+    37.890657
+],
+  "geometry": {"coordinates":[-122.53578899999999,37.890657],"type":"Point"}
 }

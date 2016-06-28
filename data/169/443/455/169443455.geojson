@@ -2,13 +2,14 @@
   "id": 169443455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.261897,38.336857,-122.261897,38.336857",
     "geom:latitude":38.336857,
     "geom:longitude":-122.261897,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1820 Monticello Rd",
     "sg:city":"Napa",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085383,
-        85633793,
         85688637,
-        85886543
+        85633793,
+        85886543,
+        102085383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169443455,
-    "wof:lastmodified":1449035351,
+    "wof:lastmodified":1466350847,
     "wof:name":"Napa County Fire Dept",
     "wof:parent_id":85886543,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.261897,38.336857,-122.261897,38.336857],
+  "bbox": [
+    -122.261897,
+    38.336857,
+    -122.261897,
+    38.336857
+],
   "geometry": {"coordinates":[-122.261897,38.336857],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169441493,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.640312,36.66435,-121.640312,36.66435",
     "geom:latitude":36.66435,
     "geom:longitude":-121.640312,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"541 Brunken Ave",
     "sg:city":"Salinas",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080859,
-        85633793,
         85688637,
-        85880625
+        85633793,
+        85880625,
+        102080859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":169441493,
-    "wof:lastmodified":1449032930,
+    "wof:lastmodified":1466349925,
     "wof:name":"Commercial Service Co",
     "wof:parent_id":85880625,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.640312,36.66435,-121.640312,36.66435],
-  "geometry": {"coordinates":[-121.640312,36.66435],"type":"Point"}
+  "bbox": [
+    -121.640312,
+    36.66435,
+    -121.640312,
+    36.66435
+],
+  "geometry": {"coordinates":[-121.64031199999999,36.66435],"type":"Point"}
 }

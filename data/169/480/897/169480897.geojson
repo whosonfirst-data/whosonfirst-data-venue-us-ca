@@ -2,13 +2,14 @@
   "id": 169480897,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-116.944525,34.238483,-116.944525,34.238483",
     "geom:latitude":34.238483,
     "geom:longitude":-116.944525,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"39297 Big Bear Blvd",
     "sg:city":"Big Bear Lake",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085395,
-        85633793,
         85688637,
-        85806779
+        85633793,
+        85806779,
+        102085395
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":169480897,
-    "wof:lastmodified":1449033765,
+    "wof:lastmodified":1466336926,
     "wof:name":"Bear Valley Vacation Rentals",
     "wof:parent_id":85806779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-116.944525,34.238483,-116.944525,34.238483],
+  "bbox": [
+    -116.944525,
+    34.238483,
+    -116.944525,
+    34.238483
+],
   "geometry": {"coordinates":[-116.944525,34.238483],"type":"Point"}
 }

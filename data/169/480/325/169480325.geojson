@@ -2,13 +2,14 @@
   "id": 169480325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.04277,38.249301,-122.04277,38.249301",
     "geom:latitude":38.249301,
     "geom:longitude":-122.04277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"744 Texas St",
     "sg:city":"Fairfield",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102087589,
-        85633793,
         85688637,
-        85810315
+        85633793,
+        85810315,
+        102087589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169480325,
-    "wof:lastmodified":1449033765,
+    "wof:lastmodified":1466336862,
     "wof:name":"Kristina's Boutique",
     "wof:parent_id":85810315,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.04277,38.249301,-122.04277,38.249301],
+  "bbox": [
+    -122.04277,
+    38.249301,
+    -122.04277,
+    38.249301
+],
   "geometry": {"coordinates":[-122.04277,38.249301],"type":"Point"}
 }

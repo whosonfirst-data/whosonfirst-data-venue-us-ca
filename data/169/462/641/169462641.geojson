@@ -2,13 +2,14 @@
   "id": 169462641,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.161733,37.856169,-122.161733,37.856169",
     "geom:latitude":37.856169,
     "geom:longitude":-122.161733,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"20 Crestview Dr",
     "sg:city":"Orinda",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     "sg:website":"www.ordinal.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85872291
+        85633793,
+        85872291,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169462641,
-    "wof:lastmodified":1449035836,
+    "wof:lastmodified":1466334853,
     "wof:name":"Ordinal Technology Corp",
     "wof:parent_id":85872291,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.161733,37.856169,-122.161733,37.856169],
+  "bbox": [
+    -122.161733,
+    37.856169,
+    -122.161733,
+    37.856169
+],
   "geometry": {"coordinates":[-122.161733,37.856169],"type":"Point"}
 }

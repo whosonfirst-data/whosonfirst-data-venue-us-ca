@@ -2,13 +2,14 @@
   "id": 169530459,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-121.865737,37.67349,-121.865737,37.67349",
     "geom:latitude":37.67349,
     "geom:longitude":-121.865737,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1258 Quarry Ln",
     "sg:city":"Pleasanton",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     "sg:website":"www.questarinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086959,
-        85633793,
         85688637,
-        85843615
+        85633793,
+        85843615,
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169530459,
-    "wof:lastmodified":1449034442,
+    "wof:lastmodified":1466342285,
     "wof:name":"Questar Products Intl Inc",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-121.865737,37.67349,-121.865737,37.67349],
+  "bbox": [
+    -121.865737,
+    37.67349,
+    -121.865737,
+    37.67349
+],
   "geometry": {"coordinates":[-121.865737,37.67349],"type":"Point"}
 }

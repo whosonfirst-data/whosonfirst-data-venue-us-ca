@@ -2,13 +2,14 @@
   "id": 169489973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.491551,37.654705,-122.491551,37.654705",
     "geom:latitude":37.654705,
     "geom:longitude":-122.491551,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Esplanade Ave",
     "sg:city":"Pacifica",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085387,
-        85633793,
         85688637,
-        85886825
+        85633793,
+        85886825,
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169489973,
-    "wof:lastmodified":1449034497,
+    "wof:lastmodified":1466337967,
     "wof:name":"Beldon Company",
     "wof:parent_id":85886825,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.491551,37.654705,-122.491551,37.654705],
+  "bbox": [
+    -122.491551,
+    37.654705,
+    -122.491551,
+    37.654705
+],
   "geometry": {"coordinates":[-122.491551,37.654705],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169479527,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-122.095138,38.007881,-122.095138,38.007881",
     "geom:latitude":38.007881,
     "geom:longitude":-122.095138,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4014 Pacheco Blvd",
     "sg:city":"Martinez",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086225,
-        85633793,
         85688637,
-        85853909
+        85633793,
+        85853909,
+        102086225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":169479527,
-    "wof:lastmodified":1449034951,
+    "wof:lastmodified":1466336774,
     "wof:name":"Seven Bridges Moving",
     "wof:parent_id":85853909,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-122.095138,38.007881,-122.095138,38.007881],
-  "geometry": {"coordinates":[-122.095138,38.007881],"type":"Point"}
+  "bbox": [
+    -122.095138,
+    38.007881,
+    -122.095138,
+    38.007881
+],
+  "geometry": {"coordinates":[-122.09513800000001,38.007881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 169441633,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.922251,34.175436,-118.922251,34.175436",
     "geom:latitude":34.175436,
     "geom:longitude":-118.922251,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2220 Lynn Rd",
     "sg:city":"Thousand Oaks",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086933,
-        85633793,
         85688637,
-        85881499
+        85633793,
+        85881499,
+        102086933
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169441633,
-    "wof:lastmodified":1449032934,
+    "wof:lastmodified":1466349941,
     "wof:name":"Regional Heart Ctr",
     "wof:parent_id":85881499,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.922251,34.175436,-118.922251,34.175436],
+  "bbox": [
+    -118.922251,
+    34.175436,
+    -118.922251,
+    34.175436
+],
   "geometry": {"coordinates":[-118.922251,34.175436],"type":"Point"}
 }

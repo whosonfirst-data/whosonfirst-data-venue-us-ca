@@ -2,13 +2,14 @@
   "id": 169437039,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-118.398688,33.86064,-118.398688,33.86064",
     "geom:latitude":33.86064,
     "geom:longitude":-118.398688,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"821 Manhattan Ave",
     "sg:city":"Hermosa Beach",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086957,
-        85633793,
         85688637,
-        85886363
+        85633793,
+        85886363,
+        102086957
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169437039,
-    "wof:lastmodified":1449035065,
+    "wof:lastmodified":1466345600,
     "wof:name":"Fresh Tours",
     "wof:parent_id":85886363,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-118.398688,33.86064,-118.398688,33.86064],
-  "geometry": {"coordinates":[-118.398688,33.86064],"type":"Point"}
+  "bbox": [
+    -118.398688,
+    33.86064,
+    -118.398688,
+    33.86064
+],
+  "geometry": {"coordinates":[-118.39868800000001,33.86064],"type":"Point"}
 }

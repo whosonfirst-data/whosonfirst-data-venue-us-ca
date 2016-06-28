@@ -2,13 +2,14 @@
   "id": 169496529,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-117.772686,33.530068,-117.772686,33.530068",
     "geom:latitude":33.530068,
     "geom:longitude":-117.772686,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1506 S Coast Hwy",
     "sg:city":"Laguna Beach",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102080847,
-        85633793,
         85688637,
-        85886183
+        85633793,
+        85886183,
+        102080847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":169496529,
-    "wof:lastmodified":1449035466,
+    "wof:lastmodified":1466338725,
     "wof:name":"L A Studio",
     "wof:parent_id":85886183,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-117.772686,33.530068,-117.772686,33.530068],
-  "geometry": {"coordinates":[-117.772686,33.530068],"type":"Point"}
+  "bbox": [
+    -117.772686,
+    33.530068,
+    -117.772686,
+    33.530068
+],
+  "geometry": {"coordinates":[-117.77268599999999,33.530068],"type":"Point"}
 }
