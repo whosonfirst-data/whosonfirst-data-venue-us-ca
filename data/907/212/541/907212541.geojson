@@ -1,18 +1,24 @@
 {
-  "id": 890290279,
+  "id": 907212541,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Spear, San Francisco, CA, USA",
+    "addr:housenumber":201,
+    "addr:street":"Spear Street",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"2000",
-    "geom:area":0,
-    "geom:bbox":"-122.390745,37.791081,-122.390745,37.791081",
-    "geom:latitude":37.791081,
-    "geom:longitude":-122.390745,
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-122.391977,37.79124,-122.391977,37.79124",
+    "geom:latitude":37.79124,
+    "geom:longitude":-122.391977,
     "iso:country":"",
     "mz:categories":[
-        "do_and_see:attraction=sculpture"
+        "other:industry=computers"
     ],
     "mz:is_current":1,
+    "name:eng_x_variant":[
+        "Mapzen West"
+    ],
     "src:geom":"mapzen",
     "wof:belongsto":[
         85688637,
@@ -23,12 +29,9 @@
         85865937
     ],
     "wof:breaches":[],
-    "wof:concordances":{
-        "4sq:id":"4e173ea4d4c062b044dc0f16"
-    },
     "wof:country":"",
-    "wof:created":1468959068,
-    "wof:geomhash":"bb397972a4f6fae26290182d598b372a",
+    "wof:created":1470868087,
+    "wof:geomhash":"d0af3a9156a3e9f8e0a8141e88c288be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -37,27 +40,23 @@
             "locality_id":85922583,
             "neighbourhood_id":85865937,
             "region_id":85688637,
-            "venue_id":890290279
+            "venue_id":907212541
         }
     ],
-    "wof:id":890290279,
-    "wof:lastmodified":1470867934,
-    "wof:name":"Charlie Brown",
+    "wof:id":907212541,
+    "wof:lastmodified":1470868101,
+    "wof:name":"Mapzen",
     "wof:parent_id":85865937,
     "wof:placetype":"venue",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[
-        "serra",
-        "sculture",
-        "publicart"
-    ]
+    "wof:tags":[]
 },
   "bbox": [
-    -122.390745,
-    37.791081,
-    -122.390745,
-    37.791081
+    -122.391977,
+    37.79124,
+    -122.391977,
+    37.79124
 ],
-  "geometry": {"coordinates":[-122.390745,37.791081],"type":"Point"}
+  "geometry": {"coordinates":[-122.391977,37.79124],"type":"Point"}
 }
