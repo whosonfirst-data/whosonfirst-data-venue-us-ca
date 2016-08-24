@@ -2,17 +2,30 @@
 # 1. Variables at the top of the Makefile.
 # 2. Targets are listed alphabetically. No, really.
 
-WHOAMI = $(shell basename `pwd`)
+WHEREAMI = $(shell pwd)
+WHOAMI = $(shell basename $(WHEREAMI))
+WHATAMI = $(shell echo $(WHOAMI) | awk -F '-' '{print $$3}')
+
 YMD = $(shell date "+%Y%m%d")
 
 # https://github.com/whosonfirst/go-whosonfirst-utils/blob/master/cmd/wof-expand.go
 WOF_EXPAND = $(shell which wof-expand)
 
-archive:
+WOF_BUNDLE_PLACETYPES = $(shell which wof-bundle-placetypes)
+WOF_CLONE_METAFILES = $(shell which wof-clone-metafiles)
+WOF_PLACETYPE_TO_CSV = $(shell which wof-placetype-to-csv)
+
+archive: meta-scrub
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
 bundles:
-	echo "please write me"
+	if test -z "$$BUNDLES"; then echo "missing BUNDLES arg"; exit 1; fi
+	if test -z "$$BUCKET"; then echo "missing BUCKET arg"; exit 1; fi
+ifeq ($(WHATAMI),)
+	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -i address,building,metroarea,postalcode,venue -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES)
+else
+	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -p $(WHATAMI) -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES)
+endif
 
 # https://github.com/whosonfirst/go-whosonfirst-concordances
 # Note: this does not bother to check whether the newly minted
@@ -52,9 +65,6 @@ endif
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
-git-lfs-meta:
-	git lfs track meta
-
 ia:
 	ia upload $(WHOAMI)-$(YMD) $(src)/$(WHOAMI)-$(YMD).tar.bz2 --metadata="title:$(WHOAMI)-$(YMD)" --metadata="licenseurl:http://creativecommons.org/licenses/by/4.0/" --metadata="date:$(YMD)" --metadata="subject:geo;mapzen;whosonfirst" --metadata="creator:Who's On First (Mapzen)"
 
@@ -68,6 +78,21 @@ list-empty:
 
 makefile:
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
+ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI);then  echo "\n# appending Makefile.$(WHATAMI)\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI) >> Makefile; fi
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
+endif
+	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
+
+metafiles:
+ifeq ($(WHATAMI),)
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -i address,building,metroarea,postalcode,venue
+else
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p $(WHATAMI)
+endif
+
+meta-scrub:
+	ls -a meta/*.csv | grep -v latest | xargs rm
 
 postbuffer:
 	git config http.postBuffer 104857600
@@ -103,6 +128,15 @@ setup:
 sync-es:
 	wof-es-index --source data --bulk --host $(host)
 
+sync-fs:
+	if test ! -d $(dest); then echo "$(dest) does not exist!"; exit 1; fi
+	rsync -az data/ $(dest)
+
+# https://github.com/whosonfirst/py-mapzen-whosonfirst-spatial
+
+sync-pg:
+	wof-spatial-index --source data --config $(config)
+
 # https://github.com/whosonfirst/go-whosonfirst-s3
 # Note that this does not try to be especially intelligent. It is a 
 # straight clone with only minimal HEAD/lastmodified checks
@@ -124,3 +158,18 @@ wof-open:
 
 wof-path:
 	$(WOF_EXPAND) -prefix data $(id)
+
+# appending Makefile.local
+
+
+WOF_BUNDLE_PLACETYPES = $(shell which wof-bundle-placetypes)
+WOF_CLONE_METAFILES = $(shell which wof-clone-metafiles)
+WOF_PLACETYPE_TO_CSV = $(shell which wof-placetype-to-csv)
+
+bundles:
+	if test -z "$$BUNDLES"; then echo "missing BUNDLES arg"; exit 1; fi
+	if test -z "$$BUCKET"; then echo "missing BUCKET arg"; exit 1; fi
+	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -p venue -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES) 
+
+metafiles:	
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p venue
