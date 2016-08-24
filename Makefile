@@ -37,8 +37,13 @@ endif
 
 concordances:
 	wof-concordances-write -processes 100 -source ./data > meta/wof-concordances-tmp.csv
+ifeq ($(WHATAMI),)
 	mv meta/wof-concordances-tmp.csv meta/wof-concordances-$(YMD).csv
 	cp meta/wof-concordances-$(YMD).csv meta/wof-concordances-latest.csv
+else
+	mv meta/wof-concordances-tmp.csv meta/wof-$(WHATAMI)-concordances-$(YMD).csv
+	cp meta/wof-$(WHATAMI)-concordances-$(YMD).csv meta/wof-$(WHATAMI)-concordances-latest.csv
+endif
 
 count:
 	find ./data -name '*.geojson' -print | wc -l
@@ -48,8 +53,8 @@ docs:
 	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
 
 gitignore:
-	mv .gitignore .gitignore.$(YMD)
-	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
+	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
+	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
 
 gitlf:
 	if ! test -f .gitattributes; then touch .gitattributes; fi
@@ -61,6 +66,9 @@ ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
 else
 	@echo "Git linefeed hoohah already set"
 endif
+
+gitlfs-track-meta:
+	git-lfs track meta/*-latest.csv
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
@@ -158,18 +166,3 @@ wof-open:
 
 wof-path:
 	$(WOF_EXPAND) -prefix data $(id)
-
-# appending Makefile.local
-
-
-WOF_BUNDLE_PLACETYPES = $(shell which wof-bundle-placetypes)
-WOF_CLONE_METAFILES = $(shell which wof-clone-metafiles)
-WOF_PLACETYPE_TO_CSV = $(shell which wof-placetype-to-csv)
-
-bundles:
-	if test -z "$$BUNDLES"; then echo "missing BUNDLES arg"; exit 1; fi
-	if test -z "$$BUCKET"; then echo "missing BUCKET arg"; exit 1; fi
-	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -p venue -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES) 
-
-metafiles:	
-	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p venue
