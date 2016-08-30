@@ -2,9 +2,13 @@
   "id": 890290279,
   "type": "Feature",
   "properties": {
+    "addr:full":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2000",
-    "geom:area":0,
+    "geom:area":0.0,
     "geom:bbox":"-122.390745,37.791081,-122.390745,37.791081",
     "geom:latitude":37.791081,
     "geom:longitude":-122.390745,
@@ -12,6 +16,7 @@
     "mz:categories":[
         "do_and_see:attraction=sculpture"
     ],
+    "mz:hierarchy_label":1,
     "mz:is_current":1,
     "src:geom":"mapzen",
     "wof:belongsto":[
@@ -41,10 +46,11 @@
         }
     ],
     "wof:id":890290279,
-    "wof:lastmodified":1470867934,
+    "wof:lastmodified":1472337000,
     "wof:name":"Charlie Brown",
     "wof:parent_id":85865937,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
