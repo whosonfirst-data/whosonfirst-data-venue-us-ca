@@ -3,17 +3,23 @@
   "type": "Feature",
   "properties": {
     "addr:full":"2501 Mariposa St San Francisco CA 94110",
-    "addr:housenumber":"2501",
+    "addr:housenumber":2501,
     "addr:postcode":"94110",
     "addr:street":"Mariposa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "edtf:cessation":"2015-08-30",
+    "edtf:inception":"1991",
+    "geom:area":0,
     "geom:bbox":"-122.408408,37.763204,-122.408408,37.763204",
     "geom:latitude":37.763204,
     "geom:longitude":-122.408408,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=american"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":0,
     "sg:address":"2501 Mariposa St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -58,12 +64,14 @@
         }
     ],
     "wof:id":572190245,
-    "wof:lastmodified":1472343211,
+    "wof:lastmodified":1477280283,
     "wof:name":"Slow Club",
     "wof:parent_id":85887443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "1108724889"
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"
