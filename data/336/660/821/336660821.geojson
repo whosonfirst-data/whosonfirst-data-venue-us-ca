@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.405936,37.786612,-122.405936,37.786612",
     "geom:latitude":37.786612,
     "geom:longitude":-122.405936,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102147429,
+        85866851,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85866851
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +54,20 @@
     "wof:geomhash":"52ff4be26e9626391e62598e8ce5716c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":102147429,
             "neighbourhood_id":85866851,
             "region_id":85688637,
             "venue_id":336660821
         }
     ],
     "wof:id":336660821,
-    "wof:lastmodified":1472331372,
+    "wof:lastmodified":1481072811,
     "wof:name":"San Francisco Tailors",
-    "wof:parent_id":85866851,
+    "wof:parent_id":102147429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

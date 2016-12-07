@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.40581,37.746838,-122.40581,37.746838",
     "geom:latitude":37.746838,
     "geom:longitude":-122.40581,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420780701,
+        420552241,
+        102191575,
         85633793,
+        85922583,
+        102087579,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"af73ec9b267d117cfe8299353b0cd6a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780701,
+            "neighbourhood_id":420552241,
             "region_id":85688637,
             "venue_id":303112831
         }
     ],
     "wof:id":303112831,
-    "wof:lastmodified":1472331619,
+    "wof:lastmodified":1481073721,
     "wof:name":"Filtafry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420780701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

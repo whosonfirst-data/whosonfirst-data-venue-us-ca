@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.418966,37.732208,-122.418966,37.732208",
     "geom:latitude":37.732208,
     "geom:longitude":-122.418966,
@@ -33,8 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        420552245,
+        85869597
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,28 @@
     "wof:geomhash":"c88a2cbee4e77153410ae01384452f40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":420552245,
+            "region_id":85688637,
+            "venue_id":320151433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85869597,
             "region_id":85688637,
             "venue_id":320151433
         }
     ],
     "wof:id":320151433,
-    "wof:lastmodified":1472332702,
+    "wof:lastmodified":1481073912,
     "wof:name":"S F Housing Authority Site Ofc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

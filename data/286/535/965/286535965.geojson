@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.415559,37.785392,-122.415559,37.785392",
     "geom:latitude":37.785392,
     "geom:longitude":-122.415559,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102147475,
+        85865903,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85865903
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"9481404fb6bb42989ff193145da55d1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":102147475,
             "neighbourhood_id":85865903,
             "region_id":85688637,
             "venue_id":286535965
         }
     ],
     "wof:id":286535965,
-    "wof:lastmodified":1472334284,
+    "wof:lastmodified":1481072559,
     "wof:name":"Cafe'Tol'Edo",
-    "wof:parent_id":85865903,
+    "wof:parent_id":102147475,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

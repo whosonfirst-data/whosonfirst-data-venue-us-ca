@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.406453,37.748089,-122.406453,37.748089",
     "geom:latitude":37.748089,
     "geom:longitude":-122.406453,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420780701,
+        420552241,
+        102191575,
         85633793,
+        85922583,
+        102087579,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"3e023a347add8cf78a8f8bd731429198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780701,
+            "neighbourhood_id":420552241,
             "region_id":85688637,
             "venue_id":353587525
         }
     ],
     "wof:id":353587525,
-    "wof:lastmodified":1472333152,
+    "wof:lastmodified":1481072507,
     "wof:name":"Acme Hardware",
-    "wof:parent_id":-1,
+    "wof:parent_id":420780701,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

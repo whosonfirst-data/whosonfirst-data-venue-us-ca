@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.447352,37.780152,-122.447352,37.780152",
     "geom:latitude":37.780152,
     "geom:longitude":-122.447352,
@@ -34,8 +35,13 @@
     "sg:website":"www.msjse.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85869079,
+        85865921
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,28 @@
     "wof:geomhash":"dd1d7b0d447c592a230a60a3b121d8c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85869079,
+            "region_id":85688637,
+            "venue_id":370207931
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85865921,
             "region_id":85688637,
             "venue_id":370207931
         }
     ],
     "wof:id":370207931,
-    "wof:lastmodified":1472338323,
+    "wof:lastmodified":1481073804,
     "wof:name":"Mt St Joseph St Elizabeth's",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

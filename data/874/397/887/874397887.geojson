@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.407296073,37.7184219827,-122.407296073,37.7184219827",
     "geom:latitude":37.718422,
     "geom:longitude":-122.407296,
@@ -19,7 +20,13 @@
     "sfgov:facility_i":"0000003268",
     "sfgov:school_typ":"Elementary",
     "src:geom":"sfgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
     "wof:breaches":[],
     "wof:categories":[
         "education_and_religion:education=school"
@@ -27,9 +34,18 @@
     "wof:country":"",
     "wof:created":1467240626,
     "wof:geomhash":"007130f8d63b4561b98ab9804a7aab15",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "region_id":85688637,
+            "venue_id":874397887
+        }
+    ],
     "wof:id":874397887,
-    "wof:lastmodified":1472336829,
+    "wof:lastmodified":1481073753,
     "wof:name":"El Dorado Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

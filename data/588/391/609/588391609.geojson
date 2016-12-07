@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.421913,37.742136,-122.421913,37.742136",
     "geom:latitude":37.742136,
     "geom:longitude":-122.421913,
@@ -48,12 +49,17 @@
     "sg:website":"www.KidspaceTherapy.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420780721,
+        85865945,
         102191575,
         85633793,
         85922583,
         102087579,
-        85887469
+        85688637,
+        420780729,
+        102112179,
+        85887469,
+        420780693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,15 +73,46 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":420780721,
+            "neighbourhood_id":85865945,
+            "region_id":85688637,
+            "venue_id":588391609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780729,
+            "neighbourhood_id":102112179,
+            "region_id":85688637,
+            "venue_id":588391609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780729,
             "neighbourhood_id":85887469,
+            "region_id":85688637,
+            "venue_id":588391609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780693,
+            "neighbourhood_id":85865945,
             "region_id":85688637,
             "venue_id":588391609
         }
     ],
     "wof:id":588391609,
-    "wof:lastmodified":1472349289,
+    "wof:lastmodified":1481073711,
     "wof:name":"Kidspace",
-    "wof:parent_id":85887469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

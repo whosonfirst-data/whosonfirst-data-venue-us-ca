@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.408941,37.786296,-122.408941,37.786296",
     "geom:latitude":37.786296,
     "geom:longitude":-122.408941,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102147429,
+        85866851,
+        102191575,
         85633793,
+        85922583,
+        102087579,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"aa7ea8a71965ce568e0d1d9baddfb56d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":102147429,
+            "neighbourhood_id":85866851,
             "region_id":85688637,
             "venue_id":269618835
         }
     ],
     "wof:id":269618835,
-    "wof:lastmodified":1472332054,
+    "wof:lastmodified":1481072754,
     "wof:name":"I Z Skin Image",
-    "wof:parent_id":-1,
+    "wof:parent_id":102147429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
