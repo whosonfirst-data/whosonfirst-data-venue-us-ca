@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.40531,37.717281,-122.40531,37.717281",
     "geom:latitude":37.717281,
     "geom:longitude":-122.40531,
@@ -33,16 +34,31 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EJqYQgXZhitFGpivi3yq2_37.717281_-122.405310@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9e188db2b8f7f6effadf8780d18ad9a4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "region_id":85688637,
+            "venue_id":555641321
+        }
+    ],
     "wof:id":555641321,
-    "wof:lastmodified":1472352121,
+    "wof:lastmodified":1481073039,
     "wof:name":"Sum One Studio",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.410274977,37.7125250015,-122.410274977,37.7125250015",
     "geom:latitude":37.712525,
     "geom:longitude":-122.410275,
@@ -19,7 +20,13 @@
     "sfgov:facility_i":"0000003273",
     "sfgov:school_typ":"Elementary",
     "src:geom":"sfgov",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
     "wof:breaches":[],
     "wof:categories":[
         "education_and_religion:education=school"
@@ -27,9 +34,18 @@
     "wof:country":"",
     "wof:created":1467240626,
     "wof:geomhash":"cb111e66c2da78045f8951fbc1689b39",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "region_id":85688637,
+            "venue_id":874397893
+        }
+    ],
     "wof:id":874397893,
-    "wof:lastmodified":1472336820,
+    "wof:lastmodified":1481072590,
     "wof:name":"Visitacion Valley Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

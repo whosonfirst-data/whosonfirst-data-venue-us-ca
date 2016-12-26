@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.385713,37.736601,-122.385713,37.736601",
     "geom:latitude":37.736601,
     "geom:longitude":-122.385713,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85865995
+        85865995,
+        85882189,
+        85804963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,37 @@
     "wof:geomhash":"9bb55b89b7afcff459d32342fc6fa56c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
             "neighbourhood_id":85865995,
             "region_id":85688637,
             "venue_id":270309129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85882189,
+            "region_id":85688637,
+            "venue_id":270309129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85804963,
+            "region_id":85688637,
+            "venue_id":270309129
         }
     ],
     "wof:id":270309129,
-    "wof:lastmodified":1472334181,
+    "wof:lastmodified":1481073151,
     "wof:name":"Martin Luther King Child Care",
-    "wof:parent_id":85865995,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

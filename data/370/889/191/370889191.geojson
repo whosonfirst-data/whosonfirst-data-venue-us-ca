@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.420645,37.744358,-122.420645,37.744358",
     "geom:latitude":37.744358,
     "geom:longitude":-122.420645,
@@ -29,11 +30,17 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420780727,
+        85887469,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85887469
+        85688637,
+        420780729,
+        102112179,
+        420780693,
+        85865945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +50,50 @@
     "wof:geomhash":"5c64b20835f10b655c5e485e2f5e5519",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":420780727,
             "neighbourhood_id":85887469,
+            "region_id":85688637,
+            "venue_id":370889191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780729,
+            "neighbourhood_id":102112179,
+            "region_id":85688637,
+            "venue_id":370889191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780729,
+            "neighbourhood_id":85887469,
+            "region_id":85688637,
+            "venue_id":370889191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780693,
+            "neighbourhood_id":85865945,
             "region_id":85688637,
             "venue_id":370889191
         }
     ],
     "wof:id":370889191,
-    "wof:lastmodified":1472344706,
+    "wof:lastmodified":1481073565,
     "wof:name":"Luis Estrada Real Estate",
-    "wof:parent_id":85887469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

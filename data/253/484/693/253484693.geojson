@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387917,37.764379,-122.387917,37.764379",
     "geom:latitude":37.764379,
     "geom:longitude":-122.387917,
@@ -29,8 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85865941,
+        85882179,
+        85865943
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,37 @@
     "wof:geomhash":"224e8db3a6531744065395420c3390f9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85865941,
+            "region_id":85688637,
+            "venue_id":253484693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85882179,
+            "region_id":85688637,
+            "venue_id":253484693
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85865943,
             "region_id":85688637,
             "venue_id":253484693
         }
     ],
     "wof:id":253484693,
-    "wof:lastmodified":1472334052,
+    "wof:lastmodified":1481072890,
     "wof:name":"Statewide Auto",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.410574,37.747924,-122.410574,37.747924",
     "geom:latitude":37.747924,
     "geom:longitude":-122.410574,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        420780691,
+        420552241,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85688637,
+        420780725
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,30 @@
     "wof:geomhash":"97719ee5a969a8bb2b398a107223a953",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780691,
+            "neighbourhood_id":420552241,
+            "region_id":85688637,
+            "venue_id":303732169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780725,
+            "neighbourhood_id":420552241,
             "region_id":85688637,
             "venue_id":303732169
         }
     ],
     "wof:id":303732169,
-    "wof:lastmodified":1472335692,
+    "wof:lastmodified":1481072960,
     "wof:name":"Aiden Nugent Plastering",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

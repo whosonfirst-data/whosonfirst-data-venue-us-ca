@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.45562,37.716539,-122.45562,37.716539",
     "geom:latitude":37.716539,
     "geom:longitude":-122.45562,
@@ -38,16 +39,31 @@
         "contract"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dQjhKO3YhERA7g7C2YmAK_37.716539_-122.455620@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"243c34d2a7cdd136cb08b0abb9cb5be6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "region_id":85688637,
+            "venue_id":555214593
+        }
+    ],
     "wof:id":555214593,
-    "wof:lastmodified":1472343015,
+    "wof:lastmodified":1481072908,
     "wof:name":"S & C Import Exports Intl",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

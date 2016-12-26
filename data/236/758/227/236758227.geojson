@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.421941,37.773036,-122.421941,37.773036",
     "geom:latitude":37.773036,
     "geom:longitude":-122.421941,
@@ -29,8 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85887425,
+        85887415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +46,28 @@
     "wof:geomhash":"f996a7b536743cbd189ed72325aad0f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85887425,
+            "region_id":85688637,
+            "venue_id":236758227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85887415,
             "region_id":85688637,
             "venue_id":236758227
         }
     ],
     "wof:id":236758227,
-    "wof:lastmodified":1472334911,
+    "wof:lastmodified":1481072492,
     "wof:name":"Bedroom & More Mattress Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

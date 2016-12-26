@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.432706,37.783293,-122.432706,37.783293",
     "geom:latitude":37.783293,
     "geom:longitude":-122.432706,
@@ -38,7 +39,9 @@
         85633793,
         85922583,
         102087579,
-        85832413
+        85832413,
+        85856855,
+        85866845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,30 @@
             "neighbourhood_id":85832413,
             "region_id":85688637,
             "venue_id":571553085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85856855,
+            "region_id":85688637,
+            "venue_id":571553085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85866845,
+            "region_id":85688637,
+            "venue_id":571553085
         }
     ],
     "wof:id":571553085,
-    "wof:lastmodified":1472340195,
+    "wof:lastmodified":1481073903,
     "wof:name":"Buglers Bag",
-    "wof:parent_id":85832413,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

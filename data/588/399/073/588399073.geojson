@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.441778,37.715039,-122.441778,37.715039",
     "geom:latitude":37.715039,
     "geom:longitude":-122.441778,
@@ -36,16 +37,31 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G5G6sn3vX3eD9ksgtt5Rh_37.715039_-122.441778@1303263318"
     },
     "wof:country":"US",
     "wof:geomhash":"31ace997c28d3c100f22abc352e39653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "region_id":85688637,
+            "venue_id":588399073
+        }
+    ],
     "wof:id":588399073,
-    "wof:lastmodified":1472349032,
+    "wof:lastmodified":1481073657,
     "wof:name":"Wireless Wizards Authorized Sprint Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

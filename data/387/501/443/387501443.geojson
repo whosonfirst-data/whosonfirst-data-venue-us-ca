@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.412485,37.788843,-122.412485,37.788843",
     "geom:latitude":37.788843,
     "geom:longitude":-122.412485,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102147465,
+        85865905,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85887435
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"8b857a3d82d52e8963b1bd3f29bb6e3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85887435,
+            "microhood_id":102147465,
+            "neighbourhood_id":85865905,
             "region_id":85688637,
             "venue_id":387501443
         }
     ],
     "wof:id":387501443,
-    "wof:lastmodified":1472343849,
+    "wof:lastmodified":1481073069,
     "wof:name":"Brand Fury",
-    "wof:parent_id":85887435,
+    "wof:parent_id":102147465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

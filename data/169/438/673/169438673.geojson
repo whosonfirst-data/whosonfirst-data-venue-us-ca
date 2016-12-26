@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.424447,37.735844,-122.424447,37.735844",
     "geom:latitude":37.735844,
     "geom:longitude":-122.424447,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420780709,
+        85887411,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85887411
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     "wof:geomhash":"f394d0b0ffc0a284019010f19baf5a7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":420780709,
             "neighbourhood_id":85887411,
             "region_id":85688637,
             "venue_id":169438673
         }
     ],
     "wof:id":169438673,
-    "wof:lastmodified":1472331122,
+    "wof:lastmodified":1481073240,
     "wof:name":"Rinconcito Salvadoreno",
-    "wof:parent_id":85887411,
+    "wof:parent_id":420780709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

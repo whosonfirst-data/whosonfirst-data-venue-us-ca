@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.388191,37.755858,-122.388191,37.755858",
     "geom:latitude":37.755858,
     "geom:longitude":-122.388191,
@@ -29,8 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        420552255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,19 @@
     "wof:geomhash":"92c85b3bf27b685c827811d2f96b0b1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":420552255,
             "region_id":85688637,
             "venue_id":336787721
         }
     ],
     "wof:id":336787721,
-    "wof:lastmodified":1472332329,
+    "wof:lastmodified":1481073197,
     "wof:name":"Scott Jenerik",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
