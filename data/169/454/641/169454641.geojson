@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.209599,37.826907,-122.209599,37.826907",
     "geom:latitude":37.826907,
     "geom:longitude":-122.209599,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
+        1108794133,
+        102191575,
+        1108794085,
         85633793,
-        85688637,
-        102086959
+        85921881,
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,20 @@
     "wof:geomhash":"70fc4ef32e731a61ca6df066965c77f6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794133,
             "region_id":85688637,
             "venue_id":169454641
         }
     ],
     "wof:id":169454641,
-    "wof:lastmodified":1472331381,
+    "wof:lastmodified":1485217989,
     "wof:name":"Catherine Mc Kenzie",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.21914,37.860119,-122.21914,37.860119",
     "geom:latitude":37.860119,
     "geom:longitude":-122.21914,
@@ -31,18 +32,37 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794137,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WPEYN1uoaejc1dQLXZtq2_37.860119_-122.219140@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"c564fe928a2bdcfb4e6d1aa3b98197bb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794137,
+            "region_id":85688637,
+            "venue_id":588501723
+        }
+    ],
     "wof:id":588501723,
-    "wof:lastmodified":1472350868,
+    "wof:lastmodified":1485218049,
     "wof:name":"Tuttidare Foundation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794137,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

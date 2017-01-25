@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.226606,37.833365,-122.226606,37.833365",
     "geom:latitude":37.833365,
     "geom:longitude":-122.226606,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872237,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"48ea81bb8b69937bcd8e8dabeec785dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872237,
             "region_id":85688637,
             "venue_id":219276161
         }
     ],
     "wof:id":219276161,
-    "wof:lastmodified":1472331413,
+    "wof:lastmodified":1485213365,
     "wof:name":"Terre Forte LLC",
     "wof:parent_id":85872237,
     "wof:placetype":"venue",

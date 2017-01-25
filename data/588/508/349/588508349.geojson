@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.188004,37.7827,-122.188004,37.7827",
     "geom:latitude":37.7827,
     "geom:longitude":-122.188004,
@@ -38,12 +39,15 @@
     "sg:website":"http://www.mills.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872401,
         102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872401
+        85688637,
+        1108794129,
+        1108794089
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,15 +61,26 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872401,
+            "region_id":85688637,
+            "venue_id":588508349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":1108794129,
             "region_id":85688637,
             "venue_id":588508349
         }
     ],
     "wof:id":588508349,
-    "wof:lastmodified":1472350882,
+    "wof:lastmodified":1485217978,
     "wof:name":"Mills College",
-    "wof:parent_id":85872401,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

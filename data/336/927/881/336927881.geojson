@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26695,37.805444,-122.26695,37.805444",
     "geom:latitude":37.805444,
     "geom:longitude":-122.26695,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872277,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872277
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a4ec028624e0b3fb14a7e26ae07d3090",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872277,
             "region_id":85688637,
             "venue_id":336927881
         }
     ],
     "wof:id":336927881,
-    "wof:lastmodified":1472333529,
+    "wof:lastmodified":1485213880,
     "wof:name":"China Health Ctr",
     "wof:parent_id":85872277,
     "wof:placetype":"venue",

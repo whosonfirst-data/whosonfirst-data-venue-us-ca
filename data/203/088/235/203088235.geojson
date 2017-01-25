@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.178257,37.724883,-122.178257,37.724883",
     "geom:latitude":37.724883,
     "geom:longitude":-122.178257,
@@ -33,10 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921881,
+        85921867,
         102086959,
-        85887787
+        85887787,
+        1108794147,
+        1108794079,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,29 @@
     "wof:geomhash":"393b1e41c9fc6d312e41eeea24b7dc1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":85887787,
+            "region_id":85688637,
+            "venue_id":203088235
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85887787,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794147,
             "region_id":85688637,
             "venue_id":203088235
         }
     ],
     "wof:id":203088235,
-    "wof:lastmodified":1472331113,
+    "wof:lastmodified":1485218082,
     "wof:name":"Mojica's Janitorial Svc",
-    "wof:parent_id":85887787,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12443,37.755151,-122.12443,37.755151",
     "geom:latitude":37.755151,
     "geom:longitude":-122.12443,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794101,
+        102191575,
+        1108794085,
         85633793,
-        85872379,
-        102086959
+        85921881,
+        102086959,
+        85688637,
+        85872379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,30 @@
     "wof:geomhash":"74c7b21d1aaa3c37335be6c28e8c87e3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":588484761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872379,
             "region_id":85688637,
             "venue_id":588484761
         }
     ],
     "wof:id":588484761,
-    "wof:lastmodified":1472350692,
+    "wof:lastmodified":1485217929,
     "wof:name":"D & L Brewer Enterprises",
-    "wof:parent_id":85872379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

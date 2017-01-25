@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.206293,37.780738,-122.206293,37.780738",
     "geom:latitude":37.780738,
     "geom:longitude":-122.206293,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550369,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"b41733ab252d2b11da497f84b2f73b5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":420550369,
             "region_id":85688637,
             "venue_id":403769401
         }
     ],
     "wof:id":403769401,
-    "wof:lastmodified":1472339902,
+    "wof:lastmodified":1485213092,
     "wof:name":"Christians Resident Care Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

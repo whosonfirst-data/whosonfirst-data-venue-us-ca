@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261881,37.819198,-122.261881,37.819198",
     "geom:latitude":37.819198,
     "geom:longitude":-122.261881,
@@ -34,12 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785883,
         102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872343
+        85688637,
+        85872343,
+        1108794093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,26 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108785883,
+            "region_id":85688637,
+            "venue_id":588501257
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872343,
             "region_id":85688637,
             "venue_id":588501257
         }
     ],
     "wof:id":588501257,
-    "wof:lastmodified":1472350794,
+    "wof:lastmodified":1485223093,
     "wof:name":"Lewis & Finberg Attorneys At Law",
-    "wof:parent_id":85872343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

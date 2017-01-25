@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.267616,37.80751,-122.267616,37.80751",
     "geom:latitude":37.80751,
     "geom:longitude":-122.267616,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872277,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872277
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"33e6a12d375431286febb9b30bf2c2db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872277,
             "region_id":85688637,
             "venue_id":219453499
         }
     ],
     "wof:id":219453499,
-    "wof:lastmodified":1472332223,
+    "wof:lastmodified":1485214215,
     "wof:name":"OTG Enviroengineering Sltns",
     "wof:parent_id":85872277,
     "wof:placetype":"venue",

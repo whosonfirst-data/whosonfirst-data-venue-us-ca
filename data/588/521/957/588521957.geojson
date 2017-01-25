@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.232115,37.859508,-122.232115,37.859508",
     "geom:latitude":37.859508,
     "geom:longitude":-122.232115,
@@ -43,18 +44,37 @@
         "plan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qvs1Mo53hnc5Ax92QbqjE_37.859508_-122.232115@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"457df11299f51c8d35a746e6d2fd1e77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":588521957
+        }
+    ],
     "wof:id":588521957,
-    "wof:lastmodified":1472351305,
+    "wof:lastmodified":1485217934,
     "wof:name":"Ernesto Tanjuatco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

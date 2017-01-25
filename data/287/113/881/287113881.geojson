@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.179452,37.75572,-122.179452,37.75572",
     "geom:latitude":37.75572,
     "geom:longitude":-122.179452,
@@ -30,10 +31,13 @@
     "sg:website":"www.walgreens.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550415,
+        102191575,
+        1108794079,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:brand_id":420573797,
     "wof:breaches":[],
@@ -44,19 +48,20 @@
     "wof:geomhash":"28c23b6408736580a2c6cb4bf665623a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":420550415,
             "region_id":85688637,
             "venue_id":287113881
         }
     ],
     "wof:id":287113881,
-    "wof:lastmodified":1472332061,
+    "wof:lastmodified":1485213027,
     "wof:name":"Walgreens",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

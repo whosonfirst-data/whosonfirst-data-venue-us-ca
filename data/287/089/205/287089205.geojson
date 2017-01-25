@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.270092,37.80118,-122.270092,37.80118",
     "geom:latitude":37.80118,
     "geom:longitude":-122.270092,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85810897,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85810897
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"01c329f0d4b34a43c4ea774f0aac2cbf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85810897,
             "region_id":85688637,
             "venue_id":287089205
         }
     ],
     "wof:id":287089205,
-    "wof:lastmodified":1472331600,
+    "wof:lastmodified":1485213747,
     "wof:name":"Impact Communication Svc",
     "wof:parent_id":85810897,
     "wof:placetype":"venue",

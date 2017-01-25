@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.238323,37.862736,-122.238323,37.862736",
     "geom:latitude":37.862736,
     "geom:longitude":-122.238323,
@@ -36,9 +37,12 @@
         85688637,
         102191575,
         85633793,
-        85921881,
+        85921915,
         102086959,
-        85872349
+        85872349,
+        1108794151,
+        1108794085,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,16 +55,26 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":85921881,
+            "locality_id":85921915,
             "neighbourhood_id":85872349,
+            "region_id":85688637,
+            "venue_id":588521559
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
             "region_id":85688637,
             "venue_id":588521559
         }
     ],
     "wof:id":588521559,
-    "wof:lastmodified":1472351198,
+    "wof:lastmodified":1485217934,
     "wof:name":"Leora Benioff, PHD",
-    "wof:parent_id":85872349,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

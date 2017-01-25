@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.184657,37.743247,-122.184657,37.743247",
     "geom:latitude":37.743247,
     "geom:longitude":-122.184657,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872409,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872409
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"a71b65f23aa567d587731d6540335068",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872409,
             "region_id":85688637,
             "venue_id":269679013
         }
     ],
     "wof:id":269679013,
-    "wof:lastmodified":1472332754,
+    "wof:lastmodified":1485213067,
     "wof:name":"Oakland Intermodal Terminals",
     "wof:parent_id":85872409,
     "wof:placetype":"venue",

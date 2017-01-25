@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185332,37.748292,-122.185332,37.748292",
     "geom:latitude":37.748292,
     "geom:longitude":-122.185332,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872409,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872409
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"0a0fb07667d272a20c9b5d6c07cc5674",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872409,
             "region_id":85688637,
             "venue_id":354300427
         }
     ],
     "wof:id":354300427,
-    "wof:lastmodified":1472335716,
+    "wof:lastmodified":1485212982,
     "wof:name":"Hyco Machine Works",
     "wof:parent_id":85872409,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.18267,37.798371,-122.18267,37.798371",
     "geom:latitude":37.798371,
     "geom:longitude":-122.18267,
@@ -36,16 +37,33 @@
         "local"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EIVC5OyquSjjpzVw5JxdC_37.798371_-122.182670@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"cf8a9fc95b006761e466d8a13a83154f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588510559
+        }
+    ],
     "wof:id":588510559,
-    "wof:lastmodified":1472350924,
+    "wof:lastmodified":1485213386,
     "wof:name":"Move Ahead, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

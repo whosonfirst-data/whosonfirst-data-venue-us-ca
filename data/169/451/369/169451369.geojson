@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.231775,37.811741,-122.231775,37.811741",
     "geom:latitude":37.811741,
     "geom:longitude":-122.231775,
@@ -34,10 +35,13 @@
     "sg:website":"www.headbob.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794107,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872397
     ],
     "wof:breaches":[],
@@ -48,18 +52,30 @@
     "wof:geomhash":"2f087d564740837709369a30802b7e21",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
+            "neighbourhood_id":1108794107,
+            "region_id":85688637,
+            "venue_id":169451369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872397,
             "region_id":85688637,
             "venue_id":169451369
         }
     ],
     "wof:id":169451369,
-    "wof:lastmodified":1472331331,
+    "wof:lastmodified":1485217940,
     "wof:name":"Headbob",
-    "wof:parent_id":85872397,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

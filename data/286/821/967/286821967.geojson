@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.267434,37.833374,-122.267434,37.833374",
     "geom:latitude":37.833374,
     "geom:longitude":-122.267434,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872325,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872325
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"ff1214e5f7cc9e46fee5fc7263e79aae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872325,
             "region_id":85688637,
             "venue_id":286821967
         }
     ],
     "wof:id":286821967,
-    "wof:lastmodified":1472335451,
+    "wof:lastmodified":1485212660,
     "wof:name":"Alpha Bookkeeping & Tax Svc",
     "wof:parent_id":85872325,
     "wof:placetype":"venue",

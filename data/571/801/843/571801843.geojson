@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.176011,37.796719,-122.176011,37.796719",
     "geom:latitude":37.796719,
     "geom:longitude":-122.176011,
@@ -32,16 +33,33 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_522OYfRIu1o8bg68Fe22Hn_37.796719_-122.176011@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"264c158ff84c0f2c01eeb3ed012853f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":571801843
+        }
+    ],
     "wof:id":571801843,
-    "wof:lastmodified":1472344958,
+    "wof:lastmodified":1485213424,
     "wof:name":"NMI Management & Training",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

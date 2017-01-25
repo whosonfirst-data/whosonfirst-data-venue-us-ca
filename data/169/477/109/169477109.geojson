@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.138067,37.73335,-122.138067,37.73335",
     "geom:latitude":37.73335,
     "geom:longitude":-122.138067,
@@ -29,10 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
-        85633793,
         85688637,
-        102086959
+        102191575,
+        85633793,
+        85921867,
+        102086959,
+        420550329,
+        1108794145,
+        1108794085,
+        85921881
     ],
     "wof:brand_id":420575143,
     "wof:breaches":[],
@@ -43,17 +49,29 @@
     "wof:geomhash":"663473cb45448c779e5bb8e2b09bcea1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":420550329,
+            "region_id":85688637,
+            "venue_id":169477109
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794145,
             "region_id":85688637,
             "venue_id":169477109
         }
     ],
     "wof:id":169477109,
-    "wof:lastmodified":1472331894,
+    "wof:lastmodified":1485218080,
     "wof:name":"Finishing Touch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

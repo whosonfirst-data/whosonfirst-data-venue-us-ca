@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.236953,37.794034,-122.236953,37.794034",
     "geom:latitude":37.794034,
     "geom:longitude":-122.236953,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550365,
+        102191575,
+        1108794083,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"bccf52046e286c677aa845ad21566f9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":420550365,
             "region_id":85688637,
             "venue_id":303879067
         }
     ],
     "wof:id":303879067,
-    "wof:lastmodified":1472336206,
+    "wof:lastmodified":1485213214,
     "wof:name":"H K Home & Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

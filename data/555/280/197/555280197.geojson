@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200782,37.822763,-122.200782,37.822763",
     "geom:latitude":37.822763,
     "geom:longitude":-122.200782,
@@ -32,16 +33,33 @@
         "exporter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49wkS2KlLGVoYypBReQc43_37.822763_-122.200782@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f9ae33173f84c907f7456a0e9da14c33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":555280197
+        }
+    ],
     "wof:id":555280197,
-    "wof:lastmodified":1472343836,
+    "wof:lastmodified":1485213348,
     "wof:name":"Lowden and Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

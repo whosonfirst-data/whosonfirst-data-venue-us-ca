@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.275169,37.798132,-122.275169,37.798132",
     "geom:latitude":37.798132,
     "geom:longitude":-122.275169,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872347,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872347
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"26e8dfd20419f67a13cab5c60aa692c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872347,
             "region_id":85688637,
             "venue_id":220075019
         }
     ],
     "wof:id":220075019,
-    "wof:lastmodified":1472331149,
+    "wof:lastmodified":1485213767,
     "wof:name":"Alameda County Health Care Svc",
     "wof:parent_id":85872347,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.263257,37.801267,-122.263257,37.801267",
     "geom:latitude":37.801267,
     "geom:longitude":-122.263257,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550393,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"e4b83c0143a93bc00501906d5e76073d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":420550393,
             "region_id":85688637,
             "venue_id":286681953
         }
     ],
     "wof:id":286681953,
-    "wof:lastmodified":1472334954,
+    "wof:lastmodified":1485214201,
     "wof:name":"Pizzarama",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550393,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

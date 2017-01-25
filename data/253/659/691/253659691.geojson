@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.209913,37.784957,-122.209913,37.784957",
     "geom:latitude":37.784957,
     "geom:longitude":-122.209913,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85873361,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85873361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"0bb1289dd252c4efb8ddf389c5b7cda2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85873361,
             "region_id":85688637,
             "venue_id":253659691
         }
     ],
     "wof:id":253659691,
-    "wof:lastmodified":1472334886,
+    "wof:lastmodified":1485213126,
     "wof:name":"Kimberly Sales",
     "wof:parent_id":85873361,
     "wof:placetype":"venue",

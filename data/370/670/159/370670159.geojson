@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.199544,37.79261,-122.199544,37.79261",
     "geom:latitude":37.79261,
     "geom:longitude":-122.199544,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872317,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872317
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"29f4fad4bb9640c5ee0a2590b4232f60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872317,
             "region_id":85688637,
             "venue_id":370670159
         }
     ],
     "wof:id":370670159,
-    "wof:lastmodified":1472343053,
+    "wof:lastmodified":1485213661,
     "wof:name":"East Bay Laser Ctr",
     "wof:parent_id":85872317,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.269851,37.80282,-122.269851,37.80282",
     "geom:latitude":37.80282,
     "geom:longitude":-122.269851,
@@ -31,10 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959,
-        85886705
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,19 @@
     "wof:geomhash":"56fc0e1c9c31445ab2c2cf6dbaa4b131",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85886705,
+            "macrohood_id":1108794093,
             "region_id":85688637,
             "venue_id":169471627
         }
     ],
     "wof:id":169471627,
-    "wof:lastmodified":1472332024,
+    "wof:lastmodified":1485213684,
     "wof:name":"Y H Lee Assoc",
-    "wof:parent_id":85886705,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

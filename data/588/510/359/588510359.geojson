@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.171109,37.799088,-122.171109,37.799088",
     "geom:latitude":37.799088,
     "geom:longitude":-122.171109,
@@ -33,16 +34,33 @@
         "seminar"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rg3PPVJSarPwDXdakH3yx_37.799088_-122.171109@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"ae72c89d4d0531c4f8c935e803340a26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588510359
+        }
+    ],
     "wof:id":588510359,
-    "wof:lastmodified":1472350888,
+    "wof:lastmodified":1485213447,
     "wof:name":"The Sterling Institue Of Relationship",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

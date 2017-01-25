@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.2603,37.851663,-122.2603,37.851663",
     "geom:latitude":37.851663,
     "geom:longitude":-122.2603,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
+        85921915,
         85849457
     ],
     "wof:breaches":[],
@@ -43,19 +48,29 @@
     "wof:geomhash":"cdea4a22f9966721aa8c69c67bd9b85d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":253069001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
             "neighbourhood_id":85849457,
             "region_id":85688637,
             "venue_id":253069001
         }
     ],
     "wof:id":253069001,
-    "wof:lastmodified":1472331171,
+    "wof:lastmodified":1485217953,
     "wof:name":"Unitarian Universalist Associa",
-    "wof:parent_id":85849457,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

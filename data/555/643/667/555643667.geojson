@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.235344,37.8608,-122.235344,37.8608",
     "geom:latitude":37.8608,
     "geom:longitude":-122.235344,
@@ -34,18 +35,37 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cKKbWDEVB4to5dXdPbv2X_37.860800_-122.235344@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"4c764ae8cfe9116bef75afead54ee986",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":555643667
+        }
+    ],
     "wof:id":555643667,
-    "wof:lastmodified":1472352134,
+    "wof:lastmodified":1485217935,
     "wof:name":"Galleria Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

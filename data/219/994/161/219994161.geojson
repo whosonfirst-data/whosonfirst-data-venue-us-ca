@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.210697,37.783221,-122.210697,37.783221",
     "geom:latitude":37.783221,
     "geom:longitude":-122.210697,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550369,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"8aabc4fcefaaecfa5ad3425b640824b7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":420550369,
             "region_id":85688637,
             "venue_id":219994161
         }
     ],
     "wof:id":219994161,
-    "wof:lastmodified":1472334810,
+    "wof:lastmodified":1485213101,
     "wof:name":"Maria's Income Tax Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

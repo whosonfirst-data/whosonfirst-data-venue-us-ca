@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.247382,37.812518,-122.247382,37.812518",
     "geom:latitude":37.812518,
     "geom:longitude":-122.247382,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872301,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872301
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"9d378a60bfdd5bce6e342102a3f7225e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872301,
             "region_id":85688637,
             "venue_id":387728185
         }
     ],
     "wof:id":387728185,
-    "wof:lastmodified":1472349017,
+    "wof:lastmodified":1485213552,
     "wof:name":"Audrey Daniels Beads",
     "wof:parent_id":85872301,
     "wof:placetype":"venue",

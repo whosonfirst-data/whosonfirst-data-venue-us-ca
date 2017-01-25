@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.279087,37.846746,-122.279087,37.846746",
     "geom:latitude":37.846746,
     "geom:longitude":-122.279087,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794143,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872241
     ],
     "wof:breaches":[],
@@ -43,19 +47,30 @@
     "wof:geomhash":"dd80d4e88371ca95a811ca4427550bfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794143,
+            "region_id":85688637,
+            "venue_id":202931857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872241,
             "region_id":85688637,
             "venue_id":202931857
         }
     ],
     "wof:id":202931857,
-    "wof:lastmodified":1472333844,
+    "wof:lastmodified":1485218078,
     "wof:name":"Face Plant",
-    "wof:parent_id":85872241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

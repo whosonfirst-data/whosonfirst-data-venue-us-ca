@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.205042,37.825371,-122.205042,37.825371",
     "geom:latitude":37.825371,
     "geom:longitude":-122.205042,
@@ -31,16 +32,33 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MuSqColaxmtr94OFSwIrX_37.825371_-122.205042@1303263344"
     },
     "wof:country":"US",
     "wof:geomhash":"b1a9f5d59bd12d146836976b0ab7d7e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588500695
+        }
+    ],
     "wof:id":588500695,
-    "wof:lastmodified":1472350758,
+    "wof:lastmodified":1485213380,
     "wof:name":"Sorensen Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

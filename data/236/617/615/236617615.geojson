@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.235898,37.779863,-122.235898,37.779863",
     "geom:latitude":37.779863,
     "geom:longitude":-122.235898,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872335,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872335
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"6557242ddafe20b47452d8133ff9c6fc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872335,
             "region_id":85688637,
             "venue_id":236617615
         }
     ],
     "wof:id":236617615,
-    "wof:lastmodified":1472334541,
+    "wof:lastmodified":1485213147,
     "wof:name":"Oakland Housing Auth Police",
     "wof:parent_id":85872335,
     "wof:placetype":"venue",

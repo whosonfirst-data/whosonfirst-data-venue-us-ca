@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.188539,37.767664,-122.188539,37.767664",
     "geom:latitude":37.767664,
     "geom:longitude":-122.188539,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550385,
+        102191575,
+        1108794089,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"df672a1598e69e4cbacfeb290f1f8510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":420550385,
             "region_id":85688637,
             "venue_id":387181851
         }
     ],
     "wof:id":387181851,
-    "wof:lastmodified":1472341313,
+    "wof:lastmodified":1485213500,
     "wof:name":"Agape Way Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

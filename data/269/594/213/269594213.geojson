@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.251454,37.837785,-122.251454,37.837785",
     "geom:latitude":37.837785,
     "geom:longitude":-122.251454,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872381,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872381
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"df3ec5f1d4761024569af7916d062d3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872381,
             "region_id":85688637,
             "venue_id":269594213
         }
     ],
     "wof:id":269594213,
-    "wof:lastmodified":1472331729,
+    "wof:lastmodified":1485212727,
     "wof:name":"Professional Bldg",
     "wof:parent_id":85872381,
     "wof:placetype":"venue",

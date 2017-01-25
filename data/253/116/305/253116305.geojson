@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.268593,37.82117,-122.268593,37.82117",
     "geom:latitude":37.82117,
     "geom:longitude":-122.268593,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872361,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"54e330e2c4c20e7ae019c371ed5382f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872361,
             "region_id":85688637,
             "venue_id":253116305
         }
     ],
     "wof:id":253116305,
-    "wof:lastmodified":1472331420,
+    "wof:lastmodified":1485213728,
     "wof:name":"African Scientific Institute",
     "wof:parent_id":85872361,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.285692,37.840333,-122.285692,37.840333",
     "geom:latitude":37.840333,
     "geom:longitude":-122.285692,
@@ -34,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794119,
+        102191575,
+        1108794075,
         85633793,
-        85921905,
+        85921881,
         102086959,
+        85688637,
+        85921905,
         85872239
     ],
     "wof:breaches":[],
@@ -48,7 +53,17 @@
     "wof:geomhash":"db2f3bca2f0ce0dd6bedbdd8d17c53f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794119,
+            "region_id":85688637,
+            "venue_id":370754805
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921905,
@@ -58,9 +73,9 @@
         }
     ],
     "wof:id":370754805,
-    "wof:lastmodified":1472343605,
+    "wof:lastmodified":1485217969,
     "wof:name":"Reppard's Landscaping & Grdnng",
-    "wof:parent_id":85872239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

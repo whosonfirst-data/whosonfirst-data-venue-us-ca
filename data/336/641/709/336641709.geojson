@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261869,37.819046,-122.261869,37.819046",
     "geom:latitude":37.819046,
     "geom:longitude":-122.261869,
@@ -34,11 +35,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785883,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872343
+        85688637,
+        85872343,
+        1108794093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,30 @@
     "wof:geomhash":"4ffa11b1d9e5e3983026e1193b605ba6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108785883,
+            "region_id":85688637,
+            "venue_id":336641709
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872343,
             "region_id":85688637,
             "venue_id":336641709
         }
     ],
     "wof:id":336641709,
-    "wof:lastmodified":1472331262,
+    "wof:lastmodified":1485223076,
     "wof:name":"Window Tinting Plus",
-    "wof:parent_id":85872343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

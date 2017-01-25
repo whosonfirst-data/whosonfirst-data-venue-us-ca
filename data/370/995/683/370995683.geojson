@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273979,37.807064,-122.273979,37.807064",
     "geom:latitude":37.807064,
     "geom:longitude":-122.273979,
@@ -39,10 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872373,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,20 @@
     "wof:geomhash":"9c68f3e994890fede5e8b5556af95c58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872373,
             "region_id":85688637,
             "venue_id":370995683
         }
     ],
     "wof:id":370995683,
-    "wof:lastmodified":1472349462,
+    "wof:lastmodified":1485213702,
     "wof:name":"Lending Hands Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872373,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

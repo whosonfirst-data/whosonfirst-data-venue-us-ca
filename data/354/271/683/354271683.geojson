@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.180727,37.728653,-122.180727,37.728653",
     "geom:latitude":37.728653,
     "geom:longitude":-122.180727,
@@ -33,10 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921881,
+        85921867,
         102086959,
-        85887787
+        85887787,
+        1108794147,
+        1108794079,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,29 @@
     "wof:geomhash":"bc89aea464ab3df617b5f99525f113c6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":85887787,
+            "region_id":85688637,
+            "venue_id":354271683
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85887787,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794147,
             "region_id":85688637,
             "venue_id":354271683
         }
     ],
     "wof:id":354271683,
-    "wof:lastmodified":1472335542,
+    "wof:lastmodified":1485218081,
     "wof:name":"General Concrete Landscaping",
-    "wof:parent_id":85887787,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

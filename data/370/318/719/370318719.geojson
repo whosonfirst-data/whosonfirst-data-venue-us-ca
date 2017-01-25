@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.258098,37.814069,-122.258098,37.814069",
     "geom:latitude":37.814069,
     "geom:longitude":-122.258098,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872245,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872245
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"6e1be9b484fb01909cd15d3d22febb5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872245,
             "region_id":85688637,
             "venue_id":370318719
         }
     ],
     "wof:id":370318719,
-    "wof:lastmodified":1472339631,
+    "wof:lastmodified":1485213810,
     "wof:name":"Arcade Publishers",
     "wof:parent_id":85872245,
     "wof:placetype":"venue",

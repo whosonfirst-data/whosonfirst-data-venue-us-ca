@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.199346,37.83841,-122.199346,37.83841",
     "geom:latitude":37.83841,
     "geom:longitude":-122.199346,
@@ -33,16 +34,33 @@
         "academic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ut3wquWPegahGOia8BXad_37.838410_-122.199346@1303263344"
     },
     "wof:country":"US",
     "wof:geomhash":"005799a7b67389570e649c7f8cf01d1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588499727
+        }
+    ],
     "wof:id":588499727,
-    "wof:lastmodified":1472350708,
+    "wof:lastmodified":1485213428,
     "wof:name":"Peggy Reynolds",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.177265,37.744023,-122.177265,37.744023",
     "geom:latitude":37.744023,
     "geom:longitude":-122.177265,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
+        420550363,
+        102191575,
+        1108794079,
         85633793,
+        85921881,
+        102086959,
         85688637,
-        102086959
+        1108794111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,30 @@
     "wof:geomhash":"5253340c780df86794b10ede962fbd40",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":420550363,
+            "region_id":85688637,
+            "venue_id":169494131
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794111,
             "region_id":85688637,
             "venue_id":169494131
         }
     ],
     "wof:id":169494131,
-    "wof:lastmodified":1472332245,
+    "wof:lastmodified":1485217945,
     "wof:name":"Ruiz Towing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

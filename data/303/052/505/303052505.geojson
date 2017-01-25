@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.204785,37.799334,-122.204785,37.799334",
     "geom:latitude":37.799334,
     "geom:longitude":-122.204785,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872415,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872415
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"369e9fc10d52eefae74e9d9f2577d2aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872415,
             "region_id":85688637,
             "venue_id":303052505
         }
     ],
     "wof:id":303052505,
-    "wof:lastmodified":1472331032,
+    "wof:lastmodified":1485213608,
     "wof:name":"Maloon Yard A Garden Svc",
     "wof:parent_id":85872415,
     "wof:placetype":"venue",

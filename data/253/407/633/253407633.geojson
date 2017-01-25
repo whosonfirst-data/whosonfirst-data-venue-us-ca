@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.212127,37.845223,-122.212127,37.845223",
     "geom:latitude":37.845223,
     "geom:longitude":-122.212127,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872329,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"4bb810c8178ca39c8903fc262587bb29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872329,
             "region_id":85688637,
             "venue_id":253407633
         }
     ],
     "wof:id":253407633,
-    "wof:lastmodified":1472333652,
+    "wof:lastmodified":1485213335,
     "wof:name":"Equi Tracker",
     "wof:parent_id":85872329,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.236521,37.849992,-122.236521,37.849992",
     "geom:latitude":37.849992,
     "geom:longitude":-122.236521,
@@ -34,16 +35,33 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H7eeHfQjs16c11rFaBDEz_37.850515_-122.236697@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"a77a9b035f60b379aa8496fc4ad0df26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":572051139
+        }
+    ],
     "wof:id":572051139,
-    "wof:lastmodified":1472339561,
+    "wof:lastmodified":1485213376,
     "wof:name":"Richard G Perry Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

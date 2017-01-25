@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.190677,37.826042,-122.190677,37.826042",
     "geom:latitude":37.826042,
     "geom:longitude":-122.190677,
@@ -31,16 +32,33 @@
         "health"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3heo9IuRpSYQeuZ6rJw1ep_37.826042_-122.190677@1303263344"
     },
     "wof:country":"US",
     "wof:geomhash":"1ee56e7888a69af769c49a889b066b34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588499743
+        }
+    ],
     "wof:id":588499743,
-    "wof:lastmodified":1472350710,
+    "wof:lastmodified":1485213432,
     "wof:name":"Figures In Motion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

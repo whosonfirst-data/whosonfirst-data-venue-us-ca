@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.282128,37.842285,-122.282128,37.842285",
     "geom:latitude":37.842285,
     "geom:longitude":-122.282128,
@@ -35,10 +36,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794143,
+        102191575,
+        1108794075,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85921905,
+        85872297,
+        85872239
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +55,38 @@
     "wof:geomhash":"77443117781ca03616daebf4b5881075",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794143,
+            "region_id":85688637,
+            "venue_id":387138265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921905,
+            "neighbourhood_id":85872297,
+            "region_id":85688637,
+            "venue_id":387138265
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921905,
+            "neighbourhood_id":85872239,
             "region_id":85688637,
             "venue_id":387138265
         }
     ],
     "wof:id":387138265,
-    "wof:lastmodified":1472340695,
+    "wof:lastmodified":1485218077,
     "wof:name":"Young Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

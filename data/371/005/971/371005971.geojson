@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.210507,37.828467,-122.210507,37.828467",
     "geom:latitude":37.828467,
     "geom:longitude":-122.210507,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794133,
+        102191575,
+        1108794085,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"6be2e26cf24c36a0c4e554feee9ad24e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794133,
             "region_id":85688637,
             "venue_id":371005971
         }
     ],
     "wof:id":371005971,
-    "wof:lastmodified":1472336854,
+    "wof:lastmodified":1485217995,
     "wof:name":"Skintonix",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

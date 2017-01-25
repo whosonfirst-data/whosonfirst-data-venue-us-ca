@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.206232,37.755775,-122.206232,37.755775",
     "geom:latitude":37.755775,
     "geom:longitude":-122.206232,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85867319,
+        102191575,
+        1108794089,
         85633793,
         85921881,
         102086959,
-        85867319
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"ba7e94bd89b700b12c47d235707f870b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
             "neighbourhood_id":85867319,
             "region_id":85688637,
             "venue_id":403911209
         }
     ],
     "wof:id":403911209,
-    "wof:lastmodified":1472341636,
+    "wof:lastmodified":1485219821,
     "wof:name":"Bayside Marine Svc",
     "wof:parent_id":85867319,
     "wof:placetype":"venue",

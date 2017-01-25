@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.256069,37.79962,-122.256069,37.79962",
     "geom:latitude":37.79962,
     "geom:longitude":-122.256069,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872327,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872327
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"eb633b6f357d109d21cb82d1f49d5f1c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872327,
             "region_id":85688637,
             "venue_id":354197303
         }
     ],
     "wof:id":354197303,
-    "wof:lastmodified":1472334616,
+    "wof:lastmodified":1485213171,
     "wof:name":"Lakeview Condominiums",
     "wof:parent_id":85872327,
     "wof:placetype":"venue",

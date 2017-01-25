@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.205879,37.81393,-122.205879,37.81393",
     "geom:latitude":37.81393,
     "geom:longitude":-122.205879,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872345,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872345
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"d2b494557b32f32008c9813b108882cf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872345,
             "region_id":85688637,
             "venue_id":320212475
         }
     ],
     "wof:id":320212475,
-    "wof:lastmodified":1472333231,
+    "wof:lastmodified":1485213357,
     "wof:name":"William Laird Surveying",
     "wof:parent_id":85872345,
     "wof:placetype":"venue",

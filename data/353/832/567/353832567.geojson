@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161585,37.755666,-122.161585,37.755666",
     "geom:latitude":37.755666,
     "geom:longitude":-122.161585,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550349,
+        102191575,
+        1108794079,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"b9c060709a119173edaeda6e9cf7ad3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":420550349,
             "region_id":85688637,
             "venue_id":353832567
         }
     ],
     "wof:id":353832567,
-    "wof:lastmodified":1472336018,
+    "wof:lastmodified":1485213018,
     "wof:name":"Jun Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

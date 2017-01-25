@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.280226,37.825771,-122.280226,37.825771",
     "geom:latitude":37.825771,
     "geom:longitude":-122.280226,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872261,
+        102191575,
+        1108794077,
         85633793,
         85921881,
         102086959,
-        85872261
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,17 +57,18 @@
     "wof:geomhash":"5697675b237a5cd7a210c0ad84b80629",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
             "neighbourhood_id":85872261,
             "region_id":85688637,
             "venue_id":270453653
         }
     ],
     "wof:id":270453653,
-    "wof:lastmodified":1472334774,
+    "wof:lastmodified":1485212893,
     "wof:name":"City Of Paris Studios",
     "wof:parent_id":85872261,
     "wof:placetype":"venue",

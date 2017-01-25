@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.178021,37.72946,-122.178021,37.72946",
     "geom:latitude":37.72946,
     "geom:longitude":-122.178021,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794147,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872387
     ],
     "wof:breaches":[],
@@ -46,19 +50,30 @@
     "wof:geomhash":"373c3be82439771339a0f41c3ce2c782",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794147,
+            "region_id":85688637,
+            "venue_id":387282385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872387,
             "region_id":85688637,
             "venue_id":387282385
         }
     ],
     "wof:id":387282385,
-    "wof:lastmodified":1472341919,
+    "wof:lastmodified":1485218080,
     "wof:name":"Premier Funding",
-    "wof:parent_id":85872387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

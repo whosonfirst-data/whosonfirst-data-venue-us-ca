@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.297741,37.804235,-122.297741,37.804235",
     "geom:latitude":37.804235,
     "geom:longitude":-122.297741,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872385,
+        102191575,
+        1108794077,
         85633793,
         85921881,
         102086959,
-        85872385
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"18d3a25fa6ca703f01d13ca33db5ae12",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
             "neighbourhood_id":85872385,
             "region_id":85688637,
             "venue_id":353600069
         }
     ],
     "wof:id":353600069,
-    "wof:lastmodified":1472333535,
+    "wof:lastmodified":1485212936,
     "wof:name":"Bright Moments",
     "wof:parent_id":85872385,
     "wof:placetype":"venue",

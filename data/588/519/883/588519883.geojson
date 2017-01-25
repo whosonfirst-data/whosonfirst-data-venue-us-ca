@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.231827,37.86134,-122.231827,37.86134",
     "geom:latitude":37.86134,
     "geom:longitude":-122.231827,
@@ -32,18 +33,37 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OaAXcHpYmhelI1tz5KdOY_37.861340_-122.231827@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"4332b8d8dd3c5548b59d01105b39b11e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":588519883
+        }
+    ],
     "wof:id":588519883,
-    "wof:lastmodified":1472351123,
+    "wof:lastmodified":1485217934,
     "wof:name":"Steel Springs",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

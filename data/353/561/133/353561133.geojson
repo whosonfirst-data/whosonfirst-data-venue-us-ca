@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.269242,37.802702,-122.269242,37.802702",
     "geom:latitude":37.802702,
     "geom:longitude":-122.269242,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872277,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85810897,
+        420550393
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,40 @@
     "wof:geomhash":"5dfbf53715bd74b7ad41cd7619104d45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872277,
+            "region_id":85688637,
+            "venue_id":353561133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85810897,
+            "region_id":85688637,
+            "venue_id":353561133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":420550393,
             "region_id":85688637,
             "venue_id":353561133
         }
     ],
     "wof:id":353561133,
-    "wof:lastmodified":1472332882,
+    "wof:lastmodified":1485213748,
     "wof:name":"Ko Hyang Restaurant",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

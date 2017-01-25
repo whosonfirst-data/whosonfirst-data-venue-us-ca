@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26807,37.802244,-122.26807,37.802244",
     "geom:latitude":37.802244,
     "geom:longitude":-122.26807,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85810897,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        420550393,
+        85872257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +52,40 @@
     "wof:geomhash":"28295c58ae76184b572af65ff8c16629",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85810897,
+            "region_id":85688637,
+            "venue_id":370990967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":420550393,
+            "region_id":85688637,
+            "venue_id":370990967
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872257,
             "region_id":85688637,
             "venue_id":370990967
         }
     ],
     "wof:id":370990967,
-    "wof:lastmodified":1472349459,
+    "wof:lastmodified":1485213714,
     "wof:name":"K & T Trading Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

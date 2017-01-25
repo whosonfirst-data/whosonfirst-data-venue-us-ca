@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.262241,37.811484,-122.262241,37.811484",
     "geom:latitude":37.811484,
     "geom:longitude":-122.262241,
@@ -30,10 +31,13 @@
     "sg:website":"www.mwmarchitects.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872407,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,20 @@
     "wof:geomhash":"5096e21c51bead028dd08af5f57c62c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872407,
             "region_id":85688637,
             "venue_id":387921631
         }
     ],
     "wof:id":387921631,
-    "wof:lastmodified":1472351072,
+    "wof:lastmodified":1485214289,
     "wof:name":"Mwm Architects",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

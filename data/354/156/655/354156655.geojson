@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.235755,37.798854,-122.235755,37.798854",
     "geom:latitude":37.798854,
     "geom:longitude":-122.235755,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872251,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872251
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a046545dbeb4ed470f45f7f07e79b11a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872251,
             "region_id":85688637,
             "venue_id":354156655
         }
     ],
     "wof:id":354156655,
-    "wof:lastmodified":1472333643,
+    "wof:lastmodified":1485213224,
     "wof:name":"N & M Market",
     "wof:parent_id":85872251,
     "wof:placetype":"venue",

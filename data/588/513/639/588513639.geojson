@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.197093,37.733991,-122.197093,37.733991",
     "geom:latitude":37.733991,
     "geom:longitude":-122.197093,
@@ -29,12 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872269,
         102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872269
+        85688637,
+        1108794109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,25 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872269,
+            "region_id":85688637,
+            "venue_id":588513639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":1108794109,
             "region_id":85688637,
             "venue_id":588513639
         }
     ],
     "wof:id":588513639,
-    "wof:lastmodified":1472350952,
+    "wof:lastmodified":1485218009,
     "wof:name":"KFTL TV Channel 64",
-    "wof:parent_id":85872269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

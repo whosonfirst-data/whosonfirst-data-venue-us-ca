@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.2793,37.797243,-122.2793,37.797243",
     "geom:latitude":37.797243,
     "geom:longitude":-122.2793,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785889,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85886709
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"bef6c1fde5c8e6d09f6f2e930204deb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85886709,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":1108785889,
             "region_id":85688637,
             "venue_id":253323673
         }
     ],
     "wof:id":253323673,
-    "wof:lastmodified":1472333253,
+    "wof:lastmodified":1485223128,
     "wof:name":"Wood Rodgers",
-    "wof:parent_id":85886709,
+    "wof:parent_id":1108785889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

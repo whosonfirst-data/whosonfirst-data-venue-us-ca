@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.137964,37.771529,-122.137964,37.771529",
     "geom:latitude":37.771529,
     "geom:longitude":-122.137964,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872379,
+        102191575,
+        1108794085,
         85633793,
+        85921881,
         102086959,
-        85872379
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"9812acf8be75abd857c81aa360d087e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":-1,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872379,
             "region_id":85688637,
             "venue_id":304070761
         }
     ],
     "wof:id":304070761,
-    "wof:lastmodified":1472331310,
+    "wof:lastmodified":1485213313,
     "wof:name":"Gnomon Systems",
     "wof:parent_id":85872379,
     "wof:placetype":"venue",

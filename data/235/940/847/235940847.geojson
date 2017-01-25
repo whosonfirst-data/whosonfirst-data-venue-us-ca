@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.275786,37.84264,-122.275786,37.84264",
     "geom:latitude":37.84264,
     "geom:longitude":-122.275786,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872241,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872241
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"0b697ef1e2fab5d719821a1267fdbc5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872241,
             "region_id":85688637,
             "venue_id":235940847
         }
     ],
     "wof:id":235940847,
-    "wof:lastmodified":1472331010,
+    "wof:lastmodified":1485212781,
     "wof:name":"Curios & Candles",
     "wof:parent_id":85872241,
     "wof:placetype":"venue",

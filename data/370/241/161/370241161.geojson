@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200601,37.734845,-122.200601,37.734845",
     "geom:latitude":37.734845,
     "geom:longitude":-122.200601,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921881,
         102086959,
-        85872269
+        1108794109,
+        85872269,
+        1108794079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,29 @@
     "wof:geomhash":"348ac9a71277d355ebf0e830683b0750",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "neighbourhood_id":1108794109,
+            "region_id":85688637,
+            "venue_id":370241161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872269,
             "region_id":85688637,
             "venue_id":370241161
         }
     ],
     "wof:id":370241161,
-    "wof:lastmodified":1472338585,
+    "wof:lastmodified":1485218022,
     "wof:name":"Contractor State License Schl",
-    "wof:parent_id":85872269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

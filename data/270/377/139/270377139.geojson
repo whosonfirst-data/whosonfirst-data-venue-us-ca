@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.227086,37.775258,-122.227086,37.775258",
     "geom:latitude":37.775258,
     "geom:longitude":-122.227086,
@@ -37,10 +38,14 @@
     "sg:website":"www.cscpails.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872383,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +55,30 @@
     "wof:geomhash":"d6275db7d685dde403c85c135502e5ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":85872383,
+            "region_id":85688637,
+            "venue_id":270377139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":85872305,
             "region_id":85688637,
             "venue_id":270377139
         }
     ],
     "wof:id":270377139,
-    "wof:lastmodified":1472334538,
+    "wof:lastmodified":1485213096,
     "wof:name":"Cleveland Steel Container Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

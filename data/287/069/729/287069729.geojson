@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.269232,37.800024,-122.269232,37.800024",
     "geom:latitude":37.800024,
     "geom:longitude":-122.269232,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85810897,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85810897
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"3ec2573c2f605dfc4d8dde425a343c7f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85810897,
             "region_id":85688637,
             "venue_id":287069729
         }
     ],
     "wof:id":287069729,
-    "wof:lastmodified":1472331379,
+    "wof:lastmodified":1485214116,
     "wof:name":"Wing Hing Sewing Machine",
     "wof:parent_id":85810897,
     "wof:placetype":"venue",

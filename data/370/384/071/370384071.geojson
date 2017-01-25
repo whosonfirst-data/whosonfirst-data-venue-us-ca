@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.208611,37.785405,-122.208611,37.785405",
     "geom:latitude":37.785405,
     "geom:longitude":-122.208611,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85873361,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85873361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"36fc4e34c57984713813ca924a1b3f28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85873361,
             "region_id":85688637,
             "venue_id":370384071
         }
     ],
     "wof:id":370384071,
-    "wof:lastmodified":1472340164,
+    "wof:lastmodified":1485213143,
     "wof:name":"Fret Not",
     "wof:parent_id":85873361,
     "wof:placetype":"venue",

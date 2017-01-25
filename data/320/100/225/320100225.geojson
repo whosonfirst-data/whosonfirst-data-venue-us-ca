@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.224181,37.78326,-122.224181,37.78326",
     "geom:latitude":37.78326,
     "geom:longitude":-122.224181,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872351,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872351
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"6db59fd07314ece1528153f28c28f3a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872351,
             "region_id":85688637,
             "venue_id":320100225
         }
     ],
     "wof:id":320100225,
-    "wof:lastmodified":1472331754,
+    "wof:lastmodified":1485213102,
     "wof:name":"Braids & Everything Else",
     "wof:parent_id":85872351,
     "wof:placetype":"venue",

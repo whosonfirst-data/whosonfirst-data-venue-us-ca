@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.187685,37.824238,-122.187685,37.824238",
     "geom:latitude":37.824238,
     "geom:longitude":-122.187685,
@@ -31,16 +32,33 @@
         "arbitration"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ieo1BD43thjAPmlUbp2Q7_37.824238_-122.187685@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"da7b2d7ce25cd6778ad1e01f32e0f267",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":555389173
+        }
+    ],
     "wof:id":555389173,
-    "wof:lastmodified":1472349317,
+    "wof:lastmodified":1485213456,
     "wof:name":"Marvin L Schwartz Mediator",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

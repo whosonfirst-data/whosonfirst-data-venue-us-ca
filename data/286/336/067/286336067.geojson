@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.203371,37.796096,-122.203371,37.796096",
     "geom:latitude":37.796096,
     "geom:longitude":-122.203371,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872317,
+        102191575,
+        1108794091,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        420550351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"6bd86c291eb6f6f68b8bed90b50cbe9d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794091,
+            "neighbourhood_id":85872317,
+            "region_id":85688637,
+            "venue_id":286336067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794091,
+            "neighbourhood_id":420550351,
             "region_id":85688637,
             "venue_id":286336067
         }
     ],
     "wof:id":286336067,
-    "wof:lastmodified":1472331731,
+    "wof:lastmodified":1485213604,
     "wof:name":"Jidy Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.259314,37.821837,-122.259314,37.821837",
     "geom:latitude":37.821837,
     "geom:longitude":-122.259314,
@@ -29,11 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785883,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872343
+        85688637,
+        85872343,
+        1108794093
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,30 @@
     "wof:geomhash":"bd726f380576f051b3bd92451688353c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108785883,
+            "region_id":85688637,
+            "venue_id":185916337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872343,
             "region_id":85688637,
             "venue_id":185916337
         }
     ],
     "wof:id":185916337,
-    "wof:lastmodified":1472333257,
+    "wof:lastmodified":1485223085,
     "wof:name":"Sherman Properties",
-    "wof:parent_id":85872343,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

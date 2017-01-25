@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.193354,37.840223,-122.193354,37.840223",
     "geom:latitude":37.840223,
     "geom:longitude":-122.193354,
@@ -32,16 +33,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QQbVMlQCJxoYiovM217de_37.840223_-122.193354@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"99066552a6ca6c3764bbaea116c14268",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":555575125
+        }
+    ],
     "wof:id":555575125,
-    "wof:lastmodified":1472351670,
+    "wof:lastmodified":1485213355,
     "wof:name":"Edward G Bennett Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

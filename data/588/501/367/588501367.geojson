@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.194909,37.81577,-122.194909,37.81577",
     "geom:latitude":37.81577,
     "geom:longitude":-122.194909,
@@ -47,16 +48,33 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KOsbo26EUbOoXqiGFZShP_37.815770_-122.194909@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"825133671ca642566b763120312b9e5d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588501367
+        }
+    ],
     "wof:id":588501367,
-    "wof:lastmodified":1472350797,
+    "wof:lastmodified":1485213382,
     "wof:name":"Summit Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

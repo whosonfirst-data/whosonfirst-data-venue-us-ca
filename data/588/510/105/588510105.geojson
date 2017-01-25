@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.18074,37.80441,-122.18074,37.80441",
     "geom:latitude":37.80441,
     "geom:longitude":-122.18074,
@@ -31,16 +32,33 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lPLA7nmRu4zOk7NRxDx7V_37.804410_-122.180740@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"ac2a9141230cd99531518488c8bffa1d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588510105
+        }
+    ],
     "wof:id":588510105,
-    "wof:lastmodified":1472350824,
+    "wof:lastmodified":1485213374,
     "wof:name":"Ab Medical Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

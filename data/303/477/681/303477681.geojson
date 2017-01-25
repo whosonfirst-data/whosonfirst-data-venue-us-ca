@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.253451,37.803363,-122.253451,37.803363",
     "geom:latitude":37.803363,
     "geom:longitude":-122.253451,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872327,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872327
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"79d3b8e4f767c51d94b8ef75f0557fb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872327,
             "region_id":85688637,
             "venue_id":303477681
         }
     ],
     "wof:id":303477681,
-    "wof:lastmodified":1472335058,
+    "wof:lastmodified":1485213208,
     "wof:name":"Professional Resource & Tech",
     "wof:parent_id":85872327,
     "wof:placetype":"venue",

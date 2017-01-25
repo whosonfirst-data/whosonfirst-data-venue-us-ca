@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.264305,37.841966,-122.264305,37.841966",
     "geom:latitude":37.841966,
     "geom:longitude":-122.264305,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872253,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872253
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"f980b8ecebe9418c3610c96dc74d2cbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872253,
             "region_id":85688637,
             "venue_id":370871915
         }
     ],
     "wof:id":370871915,
-    "wof:lastmodified":1472344597,
+    "wof:lastmodified":1485212762,
     "wof:name":"Hampton & Assoc",
     "wof:parent_id":85872253,
     "wof:placetype":"venue",

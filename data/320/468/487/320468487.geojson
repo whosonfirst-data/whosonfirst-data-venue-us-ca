@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.23492,37.772573,-122.23492,37.772573",
     "geom:latitude":37.772573,
     "geom:longitude":-122.23492,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872383,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"8dd4cc72ec89811042feb3e22a00f935",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872383,
             "region_id":85688637,
             "venue_id":320468487
         }
     ],
     "wof:id":320468487,
-    "wof:lastmodified":1472335529,
+    "wof:lastmodified":1485213143,
     "wof:name":"Institute For Global Listening",
     "wof:parent_id":85872383,
     "wof:placetype":"venue",

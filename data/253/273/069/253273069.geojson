@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261033,37.813267,-122.261033,37.813267",
     "geom:latitude":37.813267,
     "geom:longitude":-122.261033,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872407,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872407
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"12531320fe6317a77ebd83ae09ced658",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872407,
             "region_id":85688637,
             "venue_id":253273069
         }
     ],
     "wof:id":253273069,
-    "wof:lastmodified":1472332733,
+    "wof:lastmodified":1485213845,
     "wof:name":"Ginos Detail Svc",
     "wof:parent_id":85872407,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284876,37.803785,-122.284876,37.803785",
     "geom:latitude":37.803785,
     "geom:longitude":-122.284876,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108794077,
         85633793,
         85921881,
-        102086959,
-        85867321
+        102086959
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"e486e713a630f0b91cd270910149aaf6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85867321,
+            "macrohood_id":1108794077,
             "region_id":85688637,
             "venue_id":353405339
         }
     ],
     "wof:id":353405339,
-    "wof:lastmodified":1472331082,
+    "wof:lastmodified":1485212938,
     "wof:name":"MTA Assn",
-    "wof:parent_id":85867321,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

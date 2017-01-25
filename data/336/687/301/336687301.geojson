@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.176142,37.752267,-122.176142,37.752267",
     "geom:latitude":37.752267,
     "geom:longitude":-122.176142,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550381,
+        102191575,
+        1108794079,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"ab2897be30829d10f0f4388bc7d82bdc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":420550381,
             "region_id":85688637,
             "venue_id":336687301
         }
     ],
     "wof:id":336687301,
-    "wof:lastmodified":1472331572,
+    "wof:lastmodified":1485213017,
     "wof:name":"A-1 Mufflers & Custom Works",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550381,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

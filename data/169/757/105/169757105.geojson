@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.215798,37.789852,-122.215798,37.789852",
     "geom:latitude":37.789852,
     "geom:longitude":-122.215798,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85873361,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85873361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"872c9d14779f188a2da0d98815f078ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85873361,
             "region_id":85688637,
             "venue_id":169757105
         }
     ],
     "wof:id":169757105,
-    "wof:lastmodified":1472335289,
+    "wof:lastmodified":1485213140,
     "wof:name":"Zzz Imports",
     "wof:parent_id":85873361,
     "wof:placetype":"venue",

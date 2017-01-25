@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.178084,37.733373,-122.178084,37.733373",
     "geom:latitude":37.733373,
     "geom:longitude":-122.178084,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794147,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872387
     ],
     "wof:breaches":[],
@@ -43,19 +47,30 @@
     "wof:geomhash":"538fb620c284e485d26a4c47ae6c93b5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794147,
+            "region_id":85688637,
+            "venue_id":370780739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872387,
             "region_id":85688637,
             "venue_id":370780739
         }
     ],
     "wof:id":370780739,
-    "wof:lastmodified":1472343899,
+    "wof:lastmodified":1485218080,
     "wof:name":"California Bay Trading Inc",
-    "wof:parent_id":85872387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

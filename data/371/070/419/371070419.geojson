@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.185804,37.805735,-122.185804,37.805735",
     "geom:latitude":37.805735,
     "geom:longitude":-122.185804,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872413,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872413
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"bbfab8e2e452ae437c830a3b1cd0b06f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872413,
             "region_id":85688637,
             "venue_id":371070419
         }
     ],
     "wof:id":371070419,
-    "wof:lastmodified":1472338507,
+    "wof:lastmodified":1485213448,
     "wof:name":"Moree CTI-Web Consulting",
     "wof:parent_id":85872413,
     "wof:placetype":"venue",

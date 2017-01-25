@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.165539,37.763675,-122.165539,37.763675",
     "geom:latitude":37.763675,
     "geom:longitude":-122.165539,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85817047,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85817047
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"5604af737b94fe38b9f86f79f7481e97",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85817047,
             "region_id":85688637,
             "venue_id":404030459
         }
     ],
     "wof:id":404030459,
-    "wof:lastmodified":1472337879,
+    "wof:lastmodified":1485212994,
     "wof:name":"Our TV",
     "wof:parent_id":85817047,
     "wof:placetype":"venue",

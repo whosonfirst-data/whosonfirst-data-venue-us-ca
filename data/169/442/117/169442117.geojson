@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.154421,37.77915,-122.154421,37.77915",
     "geom:latitude":37.77915,
     "geom:longitude":-122.154421,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872255,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872255
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"4973ec0bb8d0f3a819e384c497abb081",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872255,
             "region_id":85688637,
             "venue_id":169442117
         }
     ],
     "wof:id":169442117,
-    "wof:lastmodified":1472331095,
+    "wof:lastmodified":1485213311,
     "wof:name":"Quick Systems Inc",
     "wof:parent_id":85872255,
     "wof:placetype":"venue",

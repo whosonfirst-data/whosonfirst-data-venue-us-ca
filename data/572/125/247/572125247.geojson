@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.195869,37.832119,-122.195869,37.832119",
     "geom:latitude":37.832119,
     "geom:longitude":-122.195869,
@@ -36,16 +37,33 @@
         "market"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lDot8xnlcTLzX0CrRuhos_37.832213_-122.195411@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"402dfa7841c225571c3c913e181c4cc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":572125247
+        }
+    ],
     "wof:id":572125247,
-    "wof:lastmodified":1472342203,
+    "wof:lastmodified":1485213317,
     "wof:name":"Mds Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

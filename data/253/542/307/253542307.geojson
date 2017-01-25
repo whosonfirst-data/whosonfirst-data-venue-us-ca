@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300225,37.806449,-122.300225,37.806449",
     "geom:latitude":37.806449,
     "geom:longitude":-122.300225,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872385,
+        102191575,
+        1108794077,
         85633793,
         85921881,
         102086959,
-        85872385
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"cfeb890394c26ee523164a5e20d6b777",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
             "neighbourhood_id":85872385,
             "region_id":85688637,
             "venue_id":253542307
         }
     ],
     "wof:id":253542307,
-    "wof:lastmodified":1472334435,
+    "wof:lastmodified":1485212920,
     "wof:name":"Fresh & Natural Restaurant",
     "wof:parent_id":85872385,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.148499,37.774435,-122.148499,37.774435",
     "geom:latitude":37.774435,
     "geom:longitude":-122.148499,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872283,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872283
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"37caa919de1bd87d62754b3350454427",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872283,
             "region_id":85688637,
             "venue_id":253307613
         }
     ],
     "wof:id":253307613,
-    "wof:lastmodified":1472333129,
+    "wof:lastmodified":1485213353,
     "wof:name":"Williams Companies Inc",
     "wof:parent_id":85872283,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.182743,37.79681,-122.182743,37.79681",
     "geom:latitude":37.79681,
     "geom:longitude":-122.182743,
@@ -31,16 +32,33 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XWBdTy2Yb9Wh2gU8IfQ6a_37.796810_-122.182743@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a426f94ca8c4d2c3f3e4b8d59ad1f0f2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":555301383
+        }
+    ],
     "wof:id":555301383,
-    "wof:lastmodified":1472344188,
+    "wof:lastmodified":1485213346,
     "wof:name":"Bay 1 Hour Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.125781,37.753963,-122.125781,37.753963",
     "geom:latitude":37.753963,
     "geom:longitude":-122.125781,
@@ -29,9 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794101,
+        102191575,
+        1108794085,
         85633793,
+        85921881,
         102086959,
+        85688637,
         85872379
     ],
     "wof:breaches":[],
@@ -42,19 +47,30 @@
     "wof:geomhash":"e1e166596f8f6fd963d2edc9c6d239f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":-1,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":403945007
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872379,
             "region_id":85688637,
             "venue_id":403945007
         }
     ],
     "wof:id":403945007,
-    "wof:lastmodified":1472341801,
+    "wof:lastmodified":1485217932,
     "wof:name":"V Davi Nino",
-    "wof:parent_id":85872379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

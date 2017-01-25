@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.245153,37.81805,-122.245153,37.81805",
     "geom:latitude":37.81805,
     "geom:longitude":-122.245153,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872301,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872301
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,18 @@
     "wof:geomhash":"f5657e6494b749986b0a6d22adeb7222",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872301,
             "region_id":85688637,
             "venue_id":169475761
         }
     ],
     "wof:id":169475761,
-    "wof:lastmodified":1472332075,
+    "wof:lastmodified":1485213628,
     "wof:name":"Country Home Furniture",
     "wof:parent_id":85872301,
     "wof:placetype":"venue",

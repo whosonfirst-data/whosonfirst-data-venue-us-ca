@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.271637,37.827619,-122.271637,37.827619",
     "geom:latitude":37.827619,
     "geom:longitude":-122.271637,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872325,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872325
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"df937ba286e97be5fb44e61d782153a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872325,
             "region_id":85688637,
             "venue_id":320065819
         }
     ],
     "wof:id":320065819,
-    "wof:lastmodified":1472331307,
+    "wof:lastmodified":1485212816,
     "wof:name":"Burley's Detail",
     "wof:parent_id":85872325,
     "wof:placetype":"venue",

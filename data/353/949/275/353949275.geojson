@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.264071,37.801572,-122.264071,37.801572",
     "geom:latitude":37.801572,
     "geom:longitude":-122.264071,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550393,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"8c46c839330d060e84eb4984e9b3c25c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":420550393,
+            "region_id":85688637,
+            "venue_id":353949275
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872257,
             "region_id":85688637,
             "venue_id":353949275
         }
     ],
     "wof:id":353949275,
-    "wof:lastmodified":1472338570,
+    "wof:lastmodified":1485214165,
     "wof:name":"Alameda Personnel & Labor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

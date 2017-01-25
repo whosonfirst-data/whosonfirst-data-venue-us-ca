@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.182944,37.796966,-122.182944,37.796966",
     "geom:latitude":37.796966,
     "geom:longitude":-122.182944,
@@ -31,18 +32,37 @@
         "resume"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85872369,
+        102191575,
+        1108794091,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Q4XvY2wCODQ64mAs6wdNY_37.796966_-122.182944@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a916b81b3b507c2c07c236336e44be4c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794091,
+            "neighbourhood_id":85872369,
+            "region_id":85688637,
+            "venue_id":571864713
+        }
+    ],
     "wof:id":571864713,
-    "wof:lastmodified":1472349220,
+    "wof:lastmodified":1485220219,
     "wof:name":"Iris Resumes",
-    "wof:parent_id":-1,
+    "wof:parent_id":85872369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

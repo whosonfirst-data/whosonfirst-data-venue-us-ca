@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.119103,37.754162,-122.119103,37.754162",
     "geom:latitude":37.754162,
     "geom:longitude":-122.119103,
@@ -32,18 +33,37 @@
     ],
     "sg:website":"www.theopener.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794101,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NByXKvZY9Uh3RcJxopS7K_37.754162_-122.119103@1303263340"
     },
     "wof:country":"US",
     "wof:geomhash":"34b1150e22d5616060fba84cc6d6a5da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":588484203
+        }
+    ],
     "wof:id":588484203,
-    "wof:lastmodified":1472350578,
+    "wof:lastmodified":1485217927,
     "wof:name":"The Opener",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

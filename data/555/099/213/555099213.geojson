@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.126477,37.753058,-122.126477,37.753058",
     "geom:latitude":37.753058,
     "geom:longitude":-122.126477,
@@ -34,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794101,
+        102191575,
+        1108794085,
         85633793,
-        85872379,
-        102086959
+        85921881,
+        102086959,
+        85688637,
+        85872379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +52,30 @@
     "wof:geomhash":"e9e06a5fa830039b81d1a3614ee957d1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":555099213
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872379,
             "region_id":85688637,
             "venue_id":555099213
         }
     ],
     "wof:id":555099213,
-    "wof:lastmodified":1472340864,
+    "wof:lastmodified":1485217930,
     "wof:name":"Mary L House Co",
-    "wof:parent_id":85872379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

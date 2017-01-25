@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.182077,37.769228,-122.182077,37.769228",
     "geom:latitude":37.769228,
     "geom:longitude":-122.182077,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
+        420550385,
+        102191575,
+        1108794089,
         85633793,
-        85688637,
-        102086959
+        85921881,
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,20 @@
     "wof:geomhash":"11c96295970d358e25cec9c075533b77",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":420550385,
             "region_id":85688637,
             "venue_id":169504535
         }
     ],
     "wof:id":169504535,
-    "wof:lastmodified":1472333249,
+    "wof:lastmodified":1485213490,
     "wof:name":"Redeemed Christian Chr Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.231003,37.8619,-122.231003,37.8619",
     "geom:latitude":37.8619,
     "geom:longitude":-122.231003,
@@ -28,18 +29,37 @@
     "sg:postcode":"94705",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r35SiWAmrF9dhkIpGFv5x_37.861900_-122.231003@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"0352202da8fbe2ad958b444e66baf37d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":588521895
+        }
+    ],
     "wof:id":588521895,
-    "wof:lastmodified":1472351297,
+    "wof:lastmodified":1485217933,
     "wof:name":"Odermatt Robert A Faia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

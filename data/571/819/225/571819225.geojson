@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.187973,37.828283,-122.187973,37.828283",
     "geom:latitude":37.828283,
     "geom:longitude":-122.187973,
@@ -32,16 +33,33 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6905AEJkpn7x5xsosgG2zA_37.828283_-122.187973@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"928368c57ae03d3d4e86e304fe3f5407",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":571819225
+        }
+    ],
     "wof:id":571819225,
-    "wof:lastmodified":1472345088,
+    "wof:lastmodified":1485213339,
     "wof:name":"Translux",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

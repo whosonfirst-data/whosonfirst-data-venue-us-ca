@@ -8,6 +8,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.197050939,37.7797205853,-122.197050939,37.7797205853",
     "geom:latitude":37.779721,
     "geom:longitude":-122.197051,
@@ -15,12 +16,14 @@
     "mz:hierarchy_label":1,
     "src:geom":"acgov",
     "wof:belongsto":[
-        85688637,
+        85872287,
         102191575,
+        1108794089,
         85633793,
         85921881,
         102086959,
-        85872287
+        85688637,
+        1108794129
     ],
     "wof:breaches":[],
     "wof:categories":[
@@ -28,22 +31,33 @@
     ],
     "wof:country":"",
     "wof:created":1467241091,
-    "wof:geomhash":"ef7ca63e6fb8c3a1b67fb197e8e903a2",
+    "wof:geomhash":"aa7f08b787ea98d7d09e2590ea122c7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
             "neighbourhood_id":85872287,
+            "region_id":85688637,
+            "venue_id":874398639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":1108794129,
             "region_id":85688637,
             "venue_id":874398639
         }
     ],
     "wof:id":874398639,
-    "wof:lastmodified":1467241091,
+    "wof:lastmodified":1485217981,
     "wof:name":"Maxwell Park Elementary",
-    "wof:parent_id":85872287,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
@@ -54,9 +68,9 @@
 },
   "bbox": [
     -122.19705093907272,
-    37.779720585326324,
+    37.77972058532632,
     -122.19705093907272,
-    37.779720585326324
+    37.77972058532632
 ],
   "geometry": {"coordinates":[-122.19705093907272,37.77972058532632],"type":"Point"}
 }

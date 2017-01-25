@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.208,37.823399,-122.208,37.823399",
     "geom:latitude":37.823399,
     "geom:longitude":-122.208,
@@ -52,16 +53,33 @@
     ],
     "sg:website":"casablancaflorist.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Ep1tX1m95t8rfdjxPoGam_37.823399_-122.208000@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"5323565b5b67dc919853550535495d2a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588501397
+        }
+    ],
     "wof:id":588501397,
-    "wof:lastmodified":1472350800,
+    "wof:lastmodified":1485213441,
     "wof:name":"Casablanca Florist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

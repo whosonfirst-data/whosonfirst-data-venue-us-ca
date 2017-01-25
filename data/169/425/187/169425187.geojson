@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284752,37.831371,-122.284752,37.831371",
     "geom:latitude":37.831371,
     "geom:longitude":-122.284752,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872261,
+        102191575,
+        1108794077,
         85633793,
         85921881,
         102086959,
-        85872261
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,18 @@
     "wof:geomhash":"18743dd890e6b30be41c8f20a42cf294",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
             "neighbourhood_id":85872261,
             "region_id":85688637,
             "venue_id":169425187
         }
     ],
     "wof:id":169425187,
-    "wof:lastmodified":1472330947,
+    "wof:lastmodified":1485219892,
     "wof:name":"Structures Co",
     "wof:parent_id":85872261,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.242029,37.85983,-122.242029,37.85983",
     "geom:latitude":37.85983,
     "geom:longitude":-122.242029,
@@ -34,18 +35,37 @@
     ],
     "sg:website":"http://www.foldingstory.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5f5CZkpTLZR3mpr1UmB5eF_37.859830_-122.242029@1308186500"
     },
     "wof:country":"US",
     "wof:geomhash":"d653f3c2981395395390981fb0becf2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":588735867
+        }
+    ],
     "wof:id":588735867,
-    "wof:lastmodified":1472353626,
+    "wof:lastmodified":1485217934,
     "wof:name":"Strong Street",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

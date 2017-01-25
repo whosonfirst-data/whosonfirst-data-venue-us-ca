@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200497,37.734698,-122.200497,37.734698",
     "geom:latitude":37.734698,
     "geom:longitude":-122.200497,
@@ -35,10 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921881,
         102086959,
-        85872269
+        1108794109,
+        85872269,
+        1108794079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,29 @@
     "wof:geomhash":"461379db7722d49d5f6e946837956dd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "neighbourhood_id":1108794109,
+            "region_id":85688637,
+            "venue_id":286738899
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872269,
             "region_id":85688637,
             "venue_id":286738899
         }
     ],
     "wof:id":286738899,
-    "wof:lastmodified":1472335310,
+    "wof:lastmodified":1485218045,
     "wof:name":"Occupational Health Svc Inc",
-    "wof:parent_id":85872269,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

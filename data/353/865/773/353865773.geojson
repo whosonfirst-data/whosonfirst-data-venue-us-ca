@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.221288,37.781766,-122.221288,37.781766",
     "geom:latitude":37.781766,
     "geom:longitude":-122.221288,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872389,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"f44519df7f6f9b57fec7aa5fa9aecb28",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872389,
             "region_id":85688637,
             "venue_id":353865773
         }
     ],
     "wof:id":353865773,
-    "wof:lastmodified":1472336255,
+    "wof:lastmodified":1485213126,
     "wof:name":"All N One Communications",
     "wof:parent_id":85872389,
     "wof:placetype":"venue",

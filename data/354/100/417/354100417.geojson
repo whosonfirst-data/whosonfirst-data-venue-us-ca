@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.286205,37.849055,-122.286205,37.849055",
     "geom:latitude":37.849055,
     "geom:longitude":-122.286205,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794119,
+        102191575,
+        1108794075,
         85633793,
-        85921905,
+        85921881,
         102086959,
+        85688637,
+        85921905,
         85872239
     ],
     "wof:breaches":[],
@@ -47,7 +52,17 @@
     "wof:geomhash":"3cf460ad6d6dfceed9e6576e3d5949e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794119,
+            "region_id":85688637,
+            "venue_id":354100417
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921905,
@@ -57,9 +72,9 @@
         }
     ],
     "wof:id":354100417,
-    "wof:lastmodified":1472332833,
+    "wof:lastmodified":1485217970,
     "wof:name":"A A Johnson & Son Inc",
-    "wof:parent_id":85872239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

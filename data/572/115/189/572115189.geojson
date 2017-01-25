@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200206,37.744355,-122.200206,37.744355",
     "geom:latitude":37.744355,
     "geom:longitude":-122.200206,
@@ -39,7 +40,9 @@
         85633793,
         85921881,
         102086959,
-        85872409
+        1108794109,
+        85872409,
+        1108794079
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,25 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "neighbourhood_id":1108794109,
+            "region_id":85688637,
+            "venue_id":572115189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872409,
             "region_id":85688637,
             "venue_id":572115189
         }
     ],
     "wof:id":572115189,
-    "wof:lastmodified":1472341931,
+    "wof:lastmodified":1485218043,
     "wof:name":"Cash Register And Computer Co",
-    "wof:parent_id":85872409,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

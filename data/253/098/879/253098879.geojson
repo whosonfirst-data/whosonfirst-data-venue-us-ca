@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.271789,37.8394,-122.271789,37.8394",
     "geom:latitude":37.8394,
     "geom:longitude":-122.271789,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872241,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872241
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"e93b192216eae1a0b3c5895148f7e829",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872241,
             "region_id":85688637,
             "venue_id":253098879
         }
     ],
     "wof:id":253098879,
-    "wof:lastmodified":1472331315,
+    "wof:lastmodified":1485212757,
     "wof:name":"Savage Foundation DRG Alcohol",
     "wof:parent_id":85872241,
     "wof:placetype":"venue",

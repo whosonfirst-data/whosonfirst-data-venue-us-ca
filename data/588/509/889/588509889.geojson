@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.226334,37.855289,-122.226334,37.855289",
     "geom:latitude":37.855289,
     "geom:longitude":-122.226334,
@@ -32,16 +33,33 @@
         "services-household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0n8S95wW9krlPazw180ARH_37.855289_-122.226334@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"b3e7945af9f7cd1765a56368692ae7f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588509889
+        }
+    ],
     "wof:id":588509889,
-    "wof:lastmodified":1472350980,
+    "wof:lastmodified":1485213385,
     "wof:name":"Creative Management Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

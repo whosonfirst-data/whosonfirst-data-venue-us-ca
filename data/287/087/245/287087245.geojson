@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.244155,37.829795,-122.244155,37.829795",
     "geom:latitude":37.829795,
     "geom:longitude":-122.244155,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872355,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872355
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"2c066c5d7e9568322bcd27268eaaaa3d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872355,
             "region_id":85688637,
             "venue_id":287087245
         }
     ],
     "wof:id":287087245,
-    "wof:lastmodified":1472331604,
+    "wof:lastmodified":1485212736,
     "wof:name":"Valiquette Realty",
     "wof:parent_id":85872355,
     "wof:placetype":"venue",

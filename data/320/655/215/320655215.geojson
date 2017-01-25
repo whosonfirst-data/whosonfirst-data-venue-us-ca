@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27946,37.829418,-122.27946,37.829418",
     "geom:latitude":37.829418,
     "geom:longitude":-122.27946,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872325,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872325
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"9ea3b95bce63873a6a5ed80052446b1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872325,
             "region_id":85688637,
             "venue_id":320655215
         }
     ],
     "wof:id":320655215,
-    "wof:lastmodified":1472336109,
+    "wof:lastmodified":1485220081,
     "wof:name":"Max Shields",
     "wof:parent_id":85872325,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.198711,37.777995,-122.198711,37.777995",
     "geom:latitude":37.777995,
     "geom:longitude":-122.198711,
@@ -34,12 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872287,
         102191575,
+        1108794089,
         85633793,
         85921881,
         102086959,
-        85872287
+        85688637,
+        1108794129
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,26 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
             "neighbourhood_id":85872287,
+            "region_id":85688637,
+            "venue_id":588510547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":1108794129,
             "region_id":85688637,
             "venue_id":588510547
         }
     ],
     "wof:id":588510547,
-    "wof:lastmodified":1472350924,
+    "wof:lastmodified":1485217981,
     "wof:name":"Kelleher Plumbing",
-    "wof:parent_id":85872287,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

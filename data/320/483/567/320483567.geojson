@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.239145,37.784199,-122.239145,37.784199",
     "geom:latitude":37.784199,
     "geom:longitude":-122.239145,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872367,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872367
+        85688637,
+        1108794113
     ],
     "wof:brand_id":420574043,
     "wof:breaches":[],
@@ -47,19 +51,30 @@
     "wof:geomhash":"8e6bd3d47a7e64811a0ec300cd776b5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872367,
+            "region_id":85688637,
+            "venue_id":320483567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":1108794113,
             "region_id":85688637,
             "venue_id":320483567
         }
     ],
     "wof:id":320483567,
-    "wof:lastmodified":1472335578,
+    "wof:lastmodified":1485218057,
     "wof:name":"Chevron",
-    "wof:parent_id":85872367,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

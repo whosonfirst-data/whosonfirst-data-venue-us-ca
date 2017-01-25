@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.131392,37.751173,-122.131392,37.751173",
     "geom:latitude":37.751173,
     "geom:longitude":-122.131392,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794101,
+        102191575,
+        1108794085,
         85633793,
-        85872379,
-        102086959
+        85921881,
+        102086959,
+        85688637,
+        85872379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +50,30 @@
     "wof:geomhash":"179a8a4fe068ff22cbb30667b332a5c7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":588484817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872379,
             "region_id":85688637,
             "venue_id":588484817
         }
     ],
     "wof:id":588484817,
-    "wof:lastmodified":1472350704,
+    "wof:lastmodified":1485217926,
     "wof:name":"St John Baptisit Associat",
-    "wof:parent_id":85872379,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

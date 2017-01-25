@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.229854,37.787305,-122.229854,37.787305",
     "geom:latitude":37.787305,
     "geom:longitude":-122.229854,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872341,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872341
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"fc923d29469e82eb160086aa363ef125",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872341,
             "region_id":85688637,
             "venue_id":287005567
         }
     ],
     "wof:id":287005567,
-    "wof:lastmodified":1472330997,
+    "wof:lastmodified":1485213214,
     "wof:name":"Pearson Carpet Cleaning",
     "wof:parent_id":85872341,
     "wof:placetype":"venue",

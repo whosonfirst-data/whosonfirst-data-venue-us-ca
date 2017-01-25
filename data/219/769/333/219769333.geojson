@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.275142,37.804033,-122.275142,37.804033",
     "geom:latitude":37.804033,
     "geom:longitude":-122.275142,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785885,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85886705
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"ba8961ecb66b3b39c82df4a015322325",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85886705,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":1108785885,
             "region_id":85688637,
             "venue_id":219769333
         }
     ],
     "wof:id":219769333,
-    "wof:lastmodified":1472334189,
+    "wof:lastmodified":1485223120,
     "wof:name":"Matson Navigation Company",
-    "wof:parent_id":85886705,
+    "wof:parent_id":1108785885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

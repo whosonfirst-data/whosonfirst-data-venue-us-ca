@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.206998,37.768783,-122.206998,37.768783",
     "geom:latitude":37.768783,
     "geom:longitude":-122.206998,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85833719,
+        102191575,
+        1108794089,
         85633793,
         85921881,
         102086959,
-        85833719
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"24156282e3fd2c0cb30e2900c88aa79d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
             "neighbourhood_id":85833719,
             "region_id":85688637,
             "venue_id":320759713
         }
     ],
     "wof:id":320759713,
-    "wof:lastmodified":1472336586,
+    "wof:lastmodified":1485213491,
     "wof:name":"Platinum Auto Stereo & Alarm",
     "wof:parent_id":85833719,
     "wof:placetype":"venue",

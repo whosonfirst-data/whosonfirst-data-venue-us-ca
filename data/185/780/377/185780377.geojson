@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261068,37.850018,-122.261068,37.850018",
     "geom:latitude":37.850018,
     "geom:longitude":-122.261068,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
+        85921915,
         85849457
     ],
     "wof:breaches":[],
@@ -43,19 +48,29 @@
     "wof:geomhash":"7a98fc6af7411b5326a3a4e6f73ca5b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":185780377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
             "neighbourhood_id":85849457,
             "region_id":85688637,
             "venue_id":185780377
         }
     ],
     "wof:id":185780377,
-    "wof:lastmodified":1472331938,
+    "wof:lastmodified":1485217962,
     "wof:name":"A La Folie LLC",
-    "wof:parent_id":85849457,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

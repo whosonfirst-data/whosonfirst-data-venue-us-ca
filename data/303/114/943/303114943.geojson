@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.211674,37.855763,-122.211674,37.855763",
     "geom:latitude":37.855763,
     "geom:longitude":-122.211674,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872329,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872329
+        85688637,
+        1108794137
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"e09f3ccaa6f69bc4396299b0f0c42dcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872329,
+            "region_id":85688637,
+            "venue_id":303114943
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794137,
             "region_id":85688637,
             "venue_id":303114943
         }
     ],
     "wof:id":303114943,
-    "wof:lastmodified":1472331676,
+    "wof:lastmodified":1485218049,
     "wof:name":"Gjerde Construction Company",
-    "wof:parent_id":85872329,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

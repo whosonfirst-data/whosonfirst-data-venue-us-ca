@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273641,37.805239,-122.273641,37.805239",
     "geom:latitude":37.805239,
     "geom:longitude":-122.273641,
@@ -30,11 +31,13 @@
     "sg:website":"www.dodig.osd.mil",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785885,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85886705
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"a83c37ef417ed8e4c4f0542f99f4e34d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":85886705,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":1108785885,
             "region_id":85688637,
             "venue_id":403775815
         }
     ],
     "wof:id":403775815,
-    "wof:lastmodified":1472340033,
+    "wof:lastmodified":1485223101,
     "wof:name":"Us Inspector General",
-    "wof:parent_id":85886705,
+    "wof:parent_id":1108785885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

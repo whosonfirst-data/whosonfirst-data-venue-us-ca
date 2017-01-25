@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.219042,37.793049,-122.219042,37.793049",
     "geom:latitude":37.793049,
     "geom:longitude":-122.219042,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550347,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"045e5adaee1c77a2744a99f969dfe769",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":420550347,
+            "region_id":85688637,
+            "venue_id":354160705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":85872377,
             "region_id":85688637,
             "venue_id":354160705
         }
     ],
     "wof:id":354160705,
-    "wof:lastmodified":1472333860,
+    "wof:lastmodified":1485213143,
     "wof:name":"Eric's Barber Shop",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

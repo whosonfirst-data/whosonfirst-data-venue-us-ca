@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.257832,37.850522,-122.257832,37.850522",
     "geom:latitude":37.850522,
     "geom:longitude":-122.257832,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
-        85921915,
+        85921881,
         102086959,
+        85688637,
+        85921915,
         85885639
     ],
     "wof:breaches":[],
@@ -43,7 +48,17 @@
     "wof:geomhash":"ff7741ba116324f471813eb9e2a2ef77",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":370364529
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921915,
@@ -53,9 +68,9 @@
         }
     ],
     "wof:id":370364529,
-    "wof:lastmodified":1472339928,
+    "wof:lastmodified":1485217961,
     "wof:name":"Diocese-Oakland Comm Drctr",
-    "wof:parent_id":85885639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.256617,37.823296,-122.256617,37.823296",
     "geom:latitude":37.823296,
     "geom:longitude":-122.256617,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872343,
+        102191575,
+        1108794093,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872355,
+        1108794075
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,30 @@
     "wof:geomhash":"340d6c5e3fe6b676d778a170edaa9f05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872343,
+            "region_id":85688637,
+            "venue_id":270308873
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":85872355,
             "region_id":85688637,
             "venue_id":270308873
         }
     ],
     "wof:id":270308873,
-    "wof:lastmodified":1472334231,
+    "wof:lastmodified":1485220135,
     "wof:name":"Food Mill Food Farmacy",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

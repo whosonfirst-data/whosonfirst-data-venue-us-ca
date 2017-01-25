@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.267359,37.839279,-122.267359,37.839279",
     "geom:latitude":37.839279,
     "geom:longitude":-122.267359,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872241,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872241
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ed0a79e2d5c508c05f6b9c4dce3da5d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872241,
             "region_id":85688637,
             "venue_id":319965195
         }
     ],
     "wof:id":319965195,
-    "wof:lastmodified":1472332544,
+    "wof:lastmodified":1485212757,
     "wof:name":"Emmanuel Temple Inc",
     "wof:parent_id":85872241,
     "wof:placetype":"venue",

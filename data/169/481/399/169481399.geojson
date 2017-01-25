@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.232281,37.791621,-122.232281,37.791621",
     "geom:latitude":37.791621,
     "geom:longitude":-122.232281,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
+        420550365,
+        102191575,
+        1108794083,
         85633793,
-        85688637,
-        102086959
+        85921881,
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,20 @@
     "wof:geomhash":"31c9b5a23206c1781dea1328b4a73890",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":420550365,
             "region_id":85688637,
             "venue_id":169481399
         }
     ],
     "wof:id":169481399,
-    "wof:lastmodified":1472332011,
+    "wof:lastmodified":1485213206,
     "wof:name":"23rd Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550365,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

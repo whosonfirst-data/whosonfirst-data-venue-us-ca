@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.218026,37.773842,-122.218026,37.773842",
     "geom:latitude":37.773842,
     "geom:longitude":-122.218026,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872295,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872295
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,18 @@
     "wof:geomhash":"80ab85c474e62291f3770c7a28f7a78f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872295,
             "region_id":85688637,
             "venue_id":169498075
         }
     ],
     "wof:id":169498075,
-    "wof:lastmodified":1472332707,
+    "wof:lastmodified":1485213152,
     "wof:name":"Trans-Matic Transmissions",
     "wof:parent_id":85872295,
     "wof:placetype":"venue",

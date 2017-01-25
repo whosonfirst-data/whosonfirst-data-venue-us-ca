@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.193259,37.729746,-122.193259,37.729746",
     "geom:latitude":37.729746,
     "geom:longitude":-122.193259,
@@ -41,12 +42,13 @@
     "sg:website":"www.wendys.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794103,
         102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        420558883
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,15 +62,16 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":420558883,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794103,
             "region_id":85688637,
             "venue_id":588483755
         }
     ],
     "wof:id":588483755,
-    "wof:lastmodified":1472350711,
+    "wof:lastmodified":1485217937,
     "wof:name":"Wendy's",
-    "wof:parent_id":420558883,
+    "wof:parent_id":1108794103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

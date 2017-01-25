@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.25796,37.792792,-122.25796,37.792792",
     "geom:latitude":37.792792,
     "geom:longitude":-122.25796,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872353,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872353
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"d3e72afd40ae0580397738ede38184ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872353,
             "region_id":85688637,
             "venue_id":202719671
         }
     ],
     "wof:id":202719671,
-    "wof:lastmodified":1472332782,
+    "wof:lastmodified":1485214165,
     "wof:name":"KSL Construction",
     "wof:parent_id":85872353,
     "wof:placetype":"venue",

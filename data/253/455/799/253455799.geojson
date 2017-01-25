@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.283451,37.817189,-122.283451,37.817189",
     "geom:latitude":37.817189,
     "geom:longitude":-122.283451,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550375,
+        102191575,
+        1108794077,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"d6e82f1e32705f5397455f3a71e33579",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794077,
+            "neighbourhood_id":420550375,
+            "region_id":85688637,
+            "venue_id":253455799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794077,
+            "neighbourhood_id":85872365,
             "region_id":85688637,
             "venue_id":253455799
         }
     ],
     "wof:id":253455799,
-    "wof:lastmodified":1472333783,
+    "wof:lastmodified":1485212851,
     "wof:name":"Building Services Technicians",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.265259,37.822204,-122.265259,37.822204",
     "geom:latitude":37.822204,
     "geom:longitude":-122.265259,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872361,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"ba9f27a6592e073fce5e98ee5a4c729f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872361,
             "region_id":85688637,
             "venue_id":253706745
         }
     ],
     "wof:id":253706745,
-    "wof:lastmodified":1472335101,
+    "wof:lastmodified":1485213845,
     "wof:name":"Healthy Babies Project",
     "wof:parent_id":85872361,
     "wof:placetype":"venue",

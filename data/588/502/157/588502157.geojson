@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.188148,37.830201,-122.188148,37.830201",
     "geom:latitude":37.830201,
     "geom:longitude":-122.188148,
@@ -33,16 +34,33 @@
         "entertainment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AMpqfprU0b846h2a1cN4W_37.830201_-122.188148@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"1c73771bc8651f1d6c4628b7d383a871",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588502157
+        }
+    ],
     "wof:id":588502157,
-    "wof:lastmodified":1472350811,
+    "wof:lastmodified":1485213340,
     "wof:name":"The Commander Actor Voice",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

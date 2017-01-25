@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.260797,37.849238,-122.260797,37.849238",
     "geom:latitude":37.849238,
     "geom:longitude":-122.260797,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872253
     ],
     "wof:breaches":[],
@@ -46,18 +50,30 @@
     "wof:geomhash":"6ca6cf140ee6e42f2f9a7069298c1677",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":169497323
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872253,
             "region_id":85688637,
             "venue_id":169497323
         }
     ],
     "wof:id":169497323,
-    "wof:lastmodified":1472332597,
+    "wof:lastmodified":1485217959,
     "wof:name":"Friends & Co Network",
-    "wof:parent_id":85872253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

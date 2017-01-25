@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.218004,37.780207,-122.218004,37.780207",
     "geom:latitude":37.780207,
     "geom:longitude":-122.218004,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550359,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872389
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"24bac2d2c18188c296b58138867497ff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":420550359,
+            "region_id":85688637,
+            "venue_id":320405633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":85872389,
             "region_id":85688637,
             "venue_id":320405633
         }
     ],
     "wof:id":320405633,
-    "wof:lastmodified":1472335205,
+    "wof:lastmodified":1485213160,
     "wof:name":"Lars Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

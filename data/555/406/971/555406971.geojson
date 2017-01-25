@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.190917,37.83445,-122.190917,37.83445",
     "geom:latitude":37.83445,
     "geom:longitude":-122.190917,
@@ -32,16 +33,33 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WxhT8cgrkYa6fULrEVREK_37.834450_-122.190917@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"00360954789b8bf0d38dbf71bb0a1144",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":555406971
+        }
+    ],
     "wof:id":555406971,
-    "wof:lastmodified":1472349658,
+    "wof:lastmodified":1485213403,
     "wof:name":"Novation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

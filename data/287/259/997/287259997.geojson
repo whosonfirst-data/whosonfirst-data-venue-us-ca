@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.203285,37.786935,-122.203285,37.786935",
     "geom:latitude":37.786935,
     "geom:longitude":-122.203285,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872247,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872247
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"ddaa92fad4e17a29543a2563dada632a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872247,
             "region_id":85688637,
             "venue_id":287259997
         }
     ],
     "wof:id":287259997,
-    "wof:lastmodified":1472333484,
+    "wof:lastmodified":1485213116,
     "wof:name":"Woman's Christian Temperance",
     "wof:parent_id":85872247,
     "wof:placetype":"venue",

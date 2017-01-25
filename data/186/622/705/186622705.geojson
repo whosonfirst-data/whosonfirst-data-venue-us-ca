@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.283921,37.825408,-122.283921,37.825408",
     "geom:latitude":37.825408,
     "geom:longitude":-122.283921,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872261,
+        102191575,
+        1108794077,
         85633793,
         85921881,
         102086959,
-        85872261
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"5fef3d5e2ea0f7394a18a51070ada725",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
             "neighbourhood_id":85872261,
             "region_id":85688637,
             "venue_id":186622705
         }
     ],
     "wof:id":186622705,
-    "wof:lastmodified":1472333425,
+    "wof:lastmodified":1485212955,
     "wof:name":"East Bay Machine",
     "wof:parent_id":85872261,
     "wof:placetype":"venue",

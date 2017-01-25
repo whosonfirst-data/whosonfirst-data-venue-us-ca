@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.245532,37.831575,-122.245532,37.831575",
     "geom:latitude":37.831575,
     "geom:longitude":-122.245532,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872355,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872355
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"03c80fa91d1d2e51a6bc0daddccb58e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872355,
             "region_id":85688637,
             "venue_id":185915191
         }
     ],
     "wof:id":185915191,
-    "wof:lastmodified":1472333253,
+    "wof:lastmodified":1485212777,
     "wof:name":"First Place Entertainment",
     "wof:parent_id":85872355,
     "wof:placetype":"venue",

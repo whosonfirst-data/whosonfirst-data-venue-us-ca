@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.210333,37.82731,-122.210333,37.82731",
     "geom:latitude":37.82731,
     "geom:longitude":-122.210333,
@@ -34,12 +35,14 @@
     "sg:website":"www.phytnessconnection.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872421,
         102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872421
+        85688637,
+        1108794133
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +56,26 @@
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872421,
+            "region_id":85688637,
+            "venue_id":555086471
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794133,
             "region_id":85688637,
             "venue_id":555086471
         }
     ],
     "wof:id":555086471,
-    "wof:lastmodified":1472340577,
+    "wof:lastmodified":1485217998,
     "wof:name":"Phytness Connection",
-    "wof:parent_id":85872421,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

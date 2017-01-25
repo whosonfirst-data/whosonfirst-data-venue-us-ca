@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.209165,37.826055,-122.209165,37.826055",
     "geom:latitude":37.826055,
     "geom:longitude":-122.209165,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794133,
+        102191575,
+        1108794085,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"a2e3301f732d6ec463988ffe0ed2767c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794133,
             "region_id":85688637,
             "venue_id":353900089
         }
     ],
     "wof:id":353900089,
-    "wof:lastmodified":1472336465,
+    "wof:lastmodified":1485217993,
     "wof:name":"Morgan Blair Interior Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794133,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

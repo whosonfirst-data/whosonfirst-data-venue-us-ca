@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.204476,37.797946,-122.204476,37.797946",
     "geom:latitude":37.797946,
     "geom:longitude":-122.204476,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872415,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872415
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"1487dbfcb9a4d5d7ad5d9f6c13ec4966",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872415,
             "region_id":85688637,
             "venue_id":185708935
         }
     ],
     "wof:id":185708935,
-    "wof:lastmodified":1472331216,
+    "wof:lastmodified":1485213626,
     "wof:name":"Christian Assembly Community",
     "wof:parent_id":85872415,
     "wof:placetype":"venue",

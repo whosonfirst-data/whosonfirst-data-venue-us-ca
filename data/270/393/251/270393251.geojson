@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.220839,37.842879,-122.220839,37.842879",
     "geom:latitude":37.842879,
     "geom:longitude":-122.220839,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872237,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"5060e4ef1a587a1c7c38a8160e0ef128",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872237,
             "region_id":85688637,
             "venue_id":270393251
         }
     ],
     "wof:id":270393251,
-    "wof:lastmodified":1472334595,
+    "wof:lastmodified":1485213362,
     "wof:name":"Frank Faiola Assoc",
     "wof:parent_id":85872237,
     "wof:placetype":"venue",

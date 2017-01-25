@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.23617,37.774409,-122.23617,37.774409",
     "geom:latitude":37.774409,
     "geom:longitude":-122.23617,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872335,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872335
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9fc8b1b5d6dc18196ec725c707d96ada",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872335,
             "region_id":85688637,
             "venue_id":353916589
         }
     ],
     "wof:id":353916589,
-    "wof:lastmodified":1472337093,
+    "wof:lastmodified":1485213132,
     "wof:name":"Medicine Agency Gallery",
     "wof:parent_id":85872335,
     "wof:placetype":"venue",

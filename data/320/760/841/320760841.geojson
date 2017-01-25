@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.275229,37.839149,-122.275229,37.839149",
     "geom:latitude":37.839149,
     "geom:longitude":-122.275229,
@@ -30,9 +31,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921881,
-        102086959
+        85921905,
+        102086959,
+        85872297,
+        85872241,
+        1108794075,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,29 @@
     "wof:geomhash":"dc86d2ea1f8be88c18d1ac4c59669197",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921905,
+            "neighbourhood_id":85872297,
+            "region_id":85688637,
+            "venue_id":320760841
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":85872241,
             "region_id":85688637,
             "venue_id":320760841
         }
     ],
     "wof:id":320760841,
-    "wof:lastmodified":1472336637,
+    "wof:lastmodified":1485212702,
     "wof:name":"Ebony Lady Salon Of Beauty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

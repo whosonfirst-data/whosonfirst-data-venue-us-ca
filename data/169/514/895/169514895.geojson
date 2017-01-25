@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290299,37.816074,-122.290299,37.816074",
     "geom:latitude":37.816074,
     "geom:longitude":-122.290299,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921881,
+        420550375,
+        102191575,
+        1108794077,
         85633793,
-        85688637,
-        102086959
+        85921881,
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,20 @@
     "wof:geomhash":"010871391a2486caac77c017c462d66a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794077,
+            "neighbourhood_id":420550375,
             "region_id":85688637,
             "venue_id":169514895
         }
     ],
     "wof:id":169514895,
-    "wof:lastmodified":1472333583,
+    "wof:lastmodified":1485212902,
     "wof:name":"Metropolitan Floors",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

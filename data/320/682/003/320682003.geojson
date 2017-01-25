@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.239806,37.788467,-122.239806,37.788467",
     "geom:latitude":37.788467,
     "geom:longitude":-122.239806,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872367,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872367
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"806a0d9acbdc08b11c3f9bc0dee02eb5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872367,
             "region_id":85688637,
             "venue_id":320682003
         }
     ],
     "wof:id":320682003,
-    "wof:lastmodified":1472336229,
+    "wof:lastmodified":1485213251,
     "wof:name":"Red Star Black Rose Printing",
     "wof:parent_id":85872367,
     "wof:placetype":"venue",

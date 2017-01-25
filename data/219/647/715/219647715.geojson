@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.22768,37.841234,-122.22768,37.841234",
     "geom:latitude":37.841234,
     "geom:longitude":-122.22768,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872405,
+        102191575,
+        1108794085,
         85633793,
         85921881,
         102086959,
-        85872405
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"add3e2a532c98cebd8d8cc2f61693c45",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794085,
             "neighbourhood_id":85872405,
             "region_id":85688637,
             "venue_id":219647715
         }
     ],
     "wof:id":219647715,
-    "wof:lastmodified":1472333442,
+    "wof:lastmodified":1485213279,
     "wof:name":"Bou-Kay",
     "wof:parent_id":85872405,
     "wof:placetype":"venue",

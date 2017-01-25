@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.157681,37.762851,-122.157681,37.762851",
     "geom:latitude":37.762851,
     "geom:longitude":-122.157681,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550357,
+        102191575,
+        1108794079,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"81b3b2f0e8189288dfdf62fed973ced4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":420550357,
             "region_id":85688637,
             "venue_id":236680789
         }
     ],
     "wof:id":236680789,
-    "wof:lastmodified":1472334627,
+    "wof:lastmodified":1485213039,
     "wof:name":"Kay & Ollie Carpet & Linoleum",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550357,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

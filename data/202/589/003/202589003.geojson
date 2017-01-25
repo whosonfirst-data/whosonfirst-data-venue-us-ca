@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.231841,37.786319,-122.231841,37.786319",
     "geom:latitude":37.786319,
     "geom:longitude":-122.231841,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872341,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872341
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a9497ed216df67dad3e45964fc57d025",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872341,
             "region_id":85688637,
             "venue_id":202589003
         }
     ],
     "wof:id":202589003,
-    "wof:lastmodified":1472331720,
+    "wof:lastmodified":1485213228,
     "wof:name":"Choi Wah Supermarket",
     "wof:parent_id":85872341,
     "wof:placetype":"venue",

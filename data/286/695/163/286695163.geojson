@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.265353,37.821484,-122.265353,37.821484",
     "geom:latitude":37.821484,
     "geom:longitude":-122.265353,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872361,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872361
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"77d0d7b274ecb1df7c1640b32a490d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872361,
             "region_id":85688637,
             "venue_id":286695163
         }
     ],
     "wof:id":286695163,
-    "wof:lastmodified":1472335072,
+    "wof:lastmodified":1485214072,
     "wof:name":"Youth Alive",
     "wof:parent_id":85872361,
     "wof:placetype":"venue",

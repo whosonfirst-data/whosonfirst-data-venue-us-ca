@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.193563,37.792643,-122.193563,37.792643",
     "geom:latitude":37.792643,
     "geom:longitude":-122.193563,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872401,
+        102191575,
+        1108794091,
         85633793,
         85921881,
         102086959,
-        85872401
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"71752c75f54237880f58b6dd98669db9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794091,
             "neighbourhood_id":85872401,
             "region_id":85688637,
             "venue_id":253204235
         }
     ],
     "wof:id":253204235,
-    "wof:lastmodified":1472332292,
+    "wof:lastmodified":1485213581,
     "wof:name":"De Smidt Builders",
     "wof:parent_id":85872401,
     "wof:placetype":"venue",

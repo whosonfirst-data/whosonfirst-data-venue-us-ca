@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.240511,37.8509,-122.240511,37.8509",
     "geom:latitude":37.8509,
     "geom:longitude":-122.240511,
@@ -28,16 +29,33 @@
     "sg:postcode":"94618",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rgO3IrQwDZ8syCFcbud3B_37.850900_-122.240511@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"067ffa98019645243a4fc4aded7abb56",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588509733
+        }
+    ],
     "wof:id":588509733,
-    "wof:lastmodified":1472350940,
+    "wof:lastmodified":1485213328,
     "wof:name":"Seneca Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

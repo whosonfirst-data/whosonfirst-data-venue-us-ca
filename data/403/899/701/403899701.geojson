@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.158891,37.767434,-122.158891,37.767434",
     "geom:latitude":37.767434,
     "geom:longitude":-122.158891,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872283,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872283
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"0fc31a1471192232c79463b3ae931468",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872283,
             "region_id":85688637,
             "venue_id":403899701
         }
     ],
     "wof:id":403899701,
-    "wof:lastmodified":1472341739,
+    "wof:lastmodified":1485212981,
     "wof:name":"Dave Olnes Inc",
     "wof:parent_id":85872283,
     "wof:placetype":"venue",

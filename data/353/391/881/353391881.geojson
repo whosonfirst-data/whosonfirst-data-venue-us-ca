@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273261,37.813599,-122.273261,37.813599",
     "geom:latitude":37.813599,
     "geom:longitude":-122.273261,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872373,
+        102191575,
+        1108794093,
         85633793,
         85921881,
         102086959,
-        85872373
+        85688637
     ],
     "wof:brand_id":420575767,
     "wof:breaches":[],
@@ -48,17 +51,18 @@
     "wof:geomhash":"65e128b8886e7911cf897e98c6ede4ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794093,
             "neighbourhood_id":85872373,
             "region_id":85688637,
             "venue_id":353391881
         }
     ],
     "wof:id":353391881,
-    "wof:lastmodified":1472331029,
+    "wof:lastmodified":1485213700,
     "wof:name":"St Vincent De Paul",
     "wof:parent_id":85872373,
     "wof:placetype":"venue",

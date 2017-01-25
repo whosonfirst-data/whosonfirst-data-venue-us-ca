@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.222805,37.783857,-122.222805,37.783857",
     "geom:latitude":37.783857,
     "geom:longitude":-122.222805,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872351,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872351
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"7da5e79daccd15e2082971c69abe6cbb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872351,
             "region_id":85688637,
             "venue_id":403782763
         }
     ],
     "wof:id":403782763,
-    "wof:lastmodified":1472340176,
+    "wof:lastmodified":1485213092,
     "wof:name":"Chapinlandia Restaurant",
     "wof:parent_id":85872351,
     "wof:placetype":"venue",

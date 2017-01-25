@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.252277,37.834594,-122.252277,37.834594",
     "geom:latitude":37.834594,
     "geom:longitude":-122.252277,
@@ -32,11 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872355,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872355
+        85688637,
+        1108794135,
+        1108794085,
+        1108785883
     ],
     "wof:brand_id":420575375,
     "wof:breaches":[],
@@ -47,19 +53,40 @@
     "wof:geomhash":"5f30bd756ab45cd483fdce1e6141df47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872355,
+            "region_id":85688637,
+            "venue_id":403824973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794135,
+            "region_id":85688637,
+            "venue_id":403824973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108785883,
             "region_id":85688637,
             "venue_id":403824973
         }
     ],
     "wof:id":403824973,
-    "wof:lastmodified":1472340840,
+    "wof:lastmodified":1485223096,
     "wof:name":"Ritz Camera Ctr",
-    "wof:parent_id":85872355,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261259,37.835428,-122.261259,37.835428",
     "geom:latitude":37.835428,
     "geom:longitude":-122.261259,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872391,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872391
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"45033e1e1f9881f7d4c9cd9a6f626e9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872391,
             "region_id":85688637,
             "venue_id":370790257
         }
     ],
     "wof:id":370790257,
-    "wof:lastmodified":1472343974,
+    "wof:lastmodified":1485212725,
     "wof:name":"Florenzo Design",
     "wof:parent_id":85872391,
     "wof:placetype":"venue",

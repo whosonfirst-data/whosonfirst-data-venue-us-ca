@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.253016,37.833557,-122.253016,37.833557",
     "geom:latitude":37.833557,
     "geom:longitude":-122.253016,
@@ -33,11 +34,14 @@
     "sg:website":"www.arie.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872391,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872391
+        85688637,
+        1108785883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"07d3fc34f69861cdaa1965862b4d1908",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872391,
+            "region_id":85688637,
+            "venue_id":353790827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108785883,
             "region_id":85688637,
             "venue_id":353790827
         }
     ],
     "wof:id":353790827,
-    "wof:lastmodified":1472335862,
+    "wof:lastmodified":1485223083,
     "wof:name":"Arie Associates Inc",
-    "wof:parent_id":85872391,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

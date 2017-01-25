@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.170486,37.797092,-122.170486,37.797092",
     "geom:latitude":37.797092,
     "geom:longitude":-122.170486,
@@ -32,16 +33,33 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vgzwpPshYVtjm3XYbv2dK_37.797092_-122.170486@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"b8adb32cb9b8f03c369e49ab3fae7d91",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588510391
+        }
+    ],
     "wof:id":588510391,
-    "wof:lastmodified":1472350881,
+    "wof:lastmodified":1485213278,
     "wof:name":"James W Thompson & Son",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

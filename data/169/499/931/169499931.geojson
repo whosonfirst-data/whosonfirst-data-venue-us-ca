@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.251533,37.841988,-122.251533,37.841988",
     "geom:latitude":37.841988,
     "geom:longitude":-122.251533,
@@ -36,11 +37,13 @@
     "sg:website":"www.saturnrecords.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872371,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872371
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +53,18 @@
     "wof:geomhash":"5301afcf58cf82b0a32eb6cb53d2d34f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872371,
             "region_id":85688637,
             "venue_id":169499931
         }
     ],
     "wof:id":169499931,
-    "wof:lastmodified":1472333034,
+    "wof:lastmodified":1485212805,
     "wof:name":"A Stas-Saturn Records",
     "wof:parent_id":85872371,
     "wof:placetype":"venue",

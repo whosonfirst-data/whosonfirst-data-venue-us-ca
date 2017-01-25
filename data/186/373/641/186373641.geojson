@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161734,37.768883,-122.161734,37.768883",
     "geom:latitude":37.768883,
     "geom:longitude":-122.161734,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872283,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872283
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"1cd8c705ff2718da46c21693f35520e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872283,
             "region_id":85688637,
             "venue_id":186373641
         }
     ],
     "wof:id":186373641,
-    "wof:lastmodified":1472331670,
+    "wof:lastmodified":1485213033,
     "wof:name":"Burke John",
     "wof:parent_id":85872283,
     "wof:placetype":"venue",

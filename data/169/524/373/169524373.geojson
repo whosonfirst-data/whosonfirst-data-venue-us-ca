@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.197759,37.755179,-122.197759,37.755179",
     "geom:latitude":37.755179,
     "geom:longitude":-122.197759,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872265,
+        102191575,
+        1108794089,
         85633793,
         85921881,
         102086959,
-        85872265
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"4aa6dd2bcf6c54a2c64df5ae5f7acb47",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794089,
             "neighbourhood_id":85872265,
             "region_id":85688637,
             "venue_id":169524373
         }
     ],
     "wof:id":169524373,
-    "wof:lastmodified":1472333916,
+    "wof:lastmodified":1485213467,
     "wof:name":"Stinson Scrap Metal",
     "wof:parent_id":85872265,
     "wof:placetype":"venue",

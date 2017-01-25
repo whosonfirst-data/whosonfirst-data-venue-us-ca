@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.189103,37.827205,-122.189103,37.827205",
     "geom:latitude":37.827205,
     "geom:longitude":-122.189103,
@@ -32,16 +33,33 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pObQoytnTOixHzlNM1SNi_37.827205_-122.189103@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"8b97e080f8699c0d4109714756883430",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588501193
+        }
+    ],
     "wof:id":588501193,
-    "wof:lastmodified":1472350793,
+    "wof:lastmodified":1485213340,
     "wof:name":"Tuesday Toys",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27984,37.820747,-122.27984,37.820747",
     "geom:latitude":37.820747,
     "geom:longitude":-122.27984,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550375,
+        102191575,
+        1108794077,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"e8734b5f2d04992e85e12c8bfcaade0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794077,
+            "neighbourhood_id":420550375,
             "region_id":85688637,
             "venue_id":370601065
         }
     ],
     "wof:id":370601065,
-    "wof:lastmodified":1472342633,
+    "wof:lastmodified":1485212942,
     "wof:name":"C & N Gardening Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

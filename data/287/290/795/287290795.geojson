@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.235388,37.768386,-122.235388,37.768386",
     "geom:latitude":37.768386,
     "geom:longitude":-122.235388,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872383,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a5bf101f43fd5970eaba1c5afc21d500",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872383,
             "region_id":85688637,
             "venue_id":287290795
         }
     ],
     "wof:id":287290795,
-    "wof:lastmodified":1472333883,
+    "wof:lastmodified":1485220274,
     "wof:name":"Centennial Real Estate",
     "wof:parent_id":85872383,
     "wof:placetype":"venue",

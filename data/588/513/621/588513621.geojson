@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.202836,37.733443,-122.202836,37.733443",
     "geom:latitude":37.733443,
     "geom:longitude":-122.202836,
@@ -34,12 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         102531041,
-        85804779,
+        1108794155,
         102191575,
         85633793,
-        85921923,
+        85921881,
         102086959,
-        85688637
+        85688637,
+        85804779,
+        85921923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,6 +56,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":1108794155,
+            "region_id":85688637,
+            "venue_id":588513621
+        },
+        {
+            "campus_id":102531041,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
             "locality_id":85921923,
             "neighbourhood_id":85804779,
             "region_id":85688637,
@@ -60,7 +73,7 @@
         }
     ],
     "wof:id":588513621,
-    "wof:lastmodified":1472350951,
+    "wof:lastmodified":1485218005,
     "wof:name":"UPS",
     "wof:parent_id":102531041,
     "wof:placetype":"venue",

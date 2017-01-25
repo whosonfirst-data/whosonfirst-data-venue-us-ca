@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.11808,37.750438,-122.11808,37.750438",
     "geom:latitude":37.750438,
     "geom:longitude":-122.11808,
@@ -32,18 +33,37 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794101,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ob800cHcSlm9Q2rTdezUR_37.750438_-122.118080@1303263340"
     },
     "wof:country":"US",
     "wof:geomhash":"d015348f6926fe849933f539085e9ddb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794101,
+            "region_id":85688637,
+            "venue_id":588484379
+        }
+    ],
     "wof:id":588484379,
-    "wof:lastmodified":1472350633,
+    "wof:lastmodified":1485217929,
     "wof:name":"Global Passenger Ships Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

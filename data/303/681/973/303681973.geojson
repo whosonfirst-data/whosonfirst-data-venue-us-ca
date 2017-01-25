@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26238,37.841325,-122.26238,37.841325",
     "geom:latitude":37.841325,
     "geom:longitude":-122.26238,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872381,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872381
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9a1560ed2831c934c05ae95ab378c415",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872381,
             "region_id":85688637,
             "venue_id":303681973
         }
     ],
     "wof:id":303681973,
-    "wof:lastmodified":1472335550,
+    "wof:lastmodified":1485212723,
     "wof:name":"Photo Place",
     "wof:parent_id":85872381,
     "wof:placetype":"venue",

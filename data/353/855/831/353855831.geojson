@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.182728,37.729557,-122.182728,37.729557",
     "geom:latitude":37.729557,
     "geom:longitude":-122.182728,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794099,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872387
     ],
     "wof:breaches":[],
@@ -43,19 +47,30 @@
     "wof:geomhash":"e191b1b02688315cf1bd9fafa60e39db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794099,
+            "region_id":85688637,
+            "venue_id":353855831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872387,
             "region_id":85688637,
             "venue_id":353855831
         }
     ],
     "wof:id":353855831,
-    "wof:lastmodified":1472336198,
+    "wof:lastmodified":1485217922,
     "wof:name":"Sunshine Angels",
-    "wof:parent_id":85872387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.260404,37.850966,-122.260404,37.850966",
     "geom:latitude":37.850966,
     "geom:longitude":-122.260404,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
+        85921915,
         85849457
     ],
     "wof:breaches":[],
@@ -46,19 +51,29 @@
     "wof:geomhash":"8b2da19277dec161e43c09db4ec81e8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":203043151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
             "neighbourhood_id":85849457,
             "region_id":85688637,
             "venue_id":203043151
         }
     ],
     "wof:id":203043151,
-    "wof:lastmodified":1472331014,
+    "wof:lastmodified":1485217962,
     "wof:name":"A-A Jewelry & Loan",
-    "wof:parent_id":85849457,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

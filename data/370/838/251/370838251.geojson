@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.218867,37.793656,-122.218867,37.793656",
     "geom:latitude":37.793656,
     "geom:longitude":-122.218867,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872377,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872377
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"1e909f88eebae31d47a292954d5b4f48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872377,
             "region_id":85688637,
             "venue_id":370838251
         }
     ],
     "wof:id":370838251,
-    "wof:lastmodified":1472344399,
+    "wof:lastmodified":1485213136,
     "wof:name":"Oakridge Care Ctr",
     "wof:parent_id":85872377,
     "wof:placetype":"venue",

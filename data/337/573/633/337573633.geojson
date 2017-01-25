@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.261623,37.847234,-122.261623,37.847234",
     "geom:latitude":37.847234,
     "geom:longitude":-122.261623,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872253
     ],
     "wof:breaches":[],
@@ -43,19 +47,30 @@
     "wof:geomhash":"cd16823659d99ecc8a02b34478c7480a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":337573633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872253,
             "region_id":85688637,
             "venue_id":337573633
         }
     ],
     "wof:id":337573633,
-    "wof:lastmodified":1472332575,
+    "wof:lastmodified":1485217948,
     "wof:name":"Simer Down Sound",
-    "wof:parent_id":85872253,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

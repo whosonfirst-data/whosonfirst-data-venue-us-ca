@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.188292,37.830991,-122.188292,37.830991",
     "geom:latitude":37.830991,
     "geom:longitude":-122.188292,
@@ -33,16 +34,33 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4d8TyW711VpVPXsJBMw8oe_37.830991_-122.188292@1303263345"
     },
     "wof:country":"US",
     "wof:geomhash":"e03db85eb3c36eb9e7004cfa075550d5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":588501217
+        }
+    ],
     "wof:id":588501217,
-    "wof:lastmodified":1472350794,
+    "wof:lastmodified":1485213433,
     "wof:name":"Archetype International, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

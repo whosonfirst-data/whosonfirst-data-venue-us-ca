@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26146,37.844055,-122.26146,37.844055",
     "geom:latitude":37.844055,
     "geom:longitude":-122.26146,
@@ -33,10 +34,13 @@
     "sg:website":"www.craftsmanantiques.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794115,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
+        85688637,
         85872381
     ],
     "wof:breaches":[],
@@ -47,19 +51,30 @@
     "wof:geomhash":"93228df563b40c97143c092832028b61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794115,
+            "region_id":85688637,
+            "venue_id":370927181
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872381,
             "region_id":85688637,
             "venue_id":370927181
         }
     ],
     "wof:id":370927181,
-    "wof:lastmodified":1472345361,
+    "wof:lastmodified":1485217953,
     "wof:name":"Craftsman Antiques",
-    "wof:parent_id":85872381,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

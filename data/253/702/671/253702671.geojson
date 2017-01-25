@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.229866,37.787288,-122.229866,37.787288",
     "geom:latitude":37.787288,
     "geom:longitude":-122.229866,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872341,
+        102191575,
+        1108794083,
         85633793,
         85921881,
         102086959,
-        85872341
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"68fff48d05e706105bf9bb827f88c82e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794083,
             "neighbourhood_id":85872341,
             "region_id":85688637,
             "venue_id":253702671
         }
     ],
     "wof:id":253702671,
-    "wof:lastmodified":1472335109,
+    "wof:lastmodified":1485213246,
     "wof:name":"24 7 Staffing Daa Nurse Svc",
     "wof:parent_id":85872341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.24315,37.783673,-122.24315,37.783673",
     "geom:latitude":37.783673,
     "geom:longitude":-122.24315,
@@ -34,10 +35,15 @@
     "sg:website":"www.condon-johnson.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872281,
+        102191575,
+        1108794083,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637,
+        85872367,
+        1108794113
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +53,40 @@
     "wof:geomhash":"5cdc8d1260e7b315971007bf9377c9cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":85872281,
+            "region_id":85688637,
+            "venue_id":287245599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":85872367,
+            "region_id":85688637,
+            "venue_id":287245599
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":1108794113,
             "region_id":85688637,
             "venue_id":287245599
         }
     ],
     "wof:id":287245599,
-    "wof:lastmodified":1472333405,
+    "wof:lastmodified":1485218058,
     "wof:name":"Condon Johnson Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

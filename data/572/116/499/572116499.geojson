@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.171763,37.799346,-122.171763,37.799346",
     "geom:latitude":37.799346,
     "geom:longitude":-122.171763,
@@ -33,16 +34,33 @@
         "animal"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68zcY5QDokNruRYov5Oaz0_37.799425_-122.171639@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"21074aed923b6e98e1a0bda6f69d51a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "region_id":85688637,
+            "venue_id":572116499
+        }
+    ],
     "wof:id":572116499,
-    "wof:lastmodified":1472342098,
+    "wof:lastmodified":1485213316,
     "wof:name":"Skyline Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

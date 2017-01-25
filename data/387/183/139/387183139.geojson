@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.215031,37.799533,-122.215031,37.799533",
     "geom:latitude":37.799533,
     "geom:longitude":-122.215031,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872377,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872377
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"3cf1811383653a6a0e2b5aaf6739d8ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872377,
             "region_id":85688637,
             "venue_id":387183139
         }
     ],
     "wof:id":387183139,
-    "wof:lastmodified":1472341293,
+    "wof:lastmodified":1485213626,
     "wof:name":"Amon's Auto Repair",
     "wof:parent_id":85872377,
     "wof:placetype":"venue",

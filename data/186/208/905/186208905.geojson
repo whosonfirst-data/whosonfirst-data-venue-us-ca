@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.20549,37.781231,-122.20549,37.781231",
     "geom:latitude":37.781231,
     "geom:longitude":-122.20549,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550369,
+        102191575,
+        1108794081,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"4cccb7e1cd6aedb1de069f0964938ecd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794081,
+            "neighbourhood_id":420550369,
             "region_id":85688637,
             "venue_id":186208905
         }
     ],
     "wof:id":186208905,
-    "wof:lastmodified":1472331070,
+    "wof:lastmodified":1485213123,
     "wof:name":"Discovery Center Recreation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550369,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.23074,37.856666,-122.23074,37.856666",
     "geom:latitude":37.856666,
     "geom:longitude":-122.23074,
@@ -32,18 +33,37 @@
         "specialty"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108794151,
+        102191575,
+        1108794085,
+        85633793,
+        85921881,
+        102086959,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XM9m6jubLwRNGRnCFJpkS_37.856666_-122.230740@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"65daabd34d634ce929c9d6e2001b8f5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794151,
+            "region_id":85688637,
+            "venue_id":588521375
+        }
+    ],
     "wof:id":588521375,
-    "wof:lastmodified":1472351113,
+    "wof:lastmodified":1485217933,
     "wof:name":"Lufrano Association",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108794151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

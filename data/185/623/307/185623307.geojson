@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196323,37.743379,-122.196323,37.743379",
     "geom:latitude":37.743379,
     "geom:longitude":-122.196323,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872387,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872387
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"f226aecf3190d56c70d104f6fd941a6c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872387,
             "region_id":85688637,
             "venue_id":185623307
         }
     ],
     "wof:id":185623307,
-    "wof:lastmodified":1472330982,
+    "wof:lastmodified":1485212971,
     "wof:name":"Payless Car Rental Inc",
     "wof:parent_id":85872387,
     "wof:placetype":"venue",

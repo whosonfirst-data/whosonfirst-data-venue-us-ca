@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.234884,37.773185,-122.234884,37.773185",
     "geom:latitude":37.773185,
     "geom:longitude":-122.234884,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872383,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"2a0ddd3e438d454126387811a8482bcc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872383,
             "region_id":85688637,
             "venue_id":354058399
         }
     ],
     "wof:id":354058399,
-    "wof:lastmodified":1472331574,
+    "wof:lastmodified":1485213087,
     "wof:name":"Cafe Andalus",
     "wof:parent_id":85872383,
     "wof:placetype":"venue",

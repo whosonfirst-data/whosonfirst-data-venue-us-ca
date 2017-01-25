@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.23966,37.781005,-122.23966,37.781005",
     "geom:latitude":37.781005,
     "geom:longitude":-122.23966,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872335,
+        102191575,
+        1108794081,
         85633793,
         85921881,
         102086959,
-        85872335
+        85688637,
+        1108794113,
+        1108794083
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,30 @@
     "wof:geomhash":"c25307149202308eba36c412b232104d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794081,
             "neighbourhood_id":85872335,
+            "region_id":85688637,
+            "venue_id":269723769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794083,
+            "neighbourhood_id":1108794113,
             "region_id":85688637,
             "venue_id":269723769
         }
     ],
     "wof:id":269723769,
-    "wof:lastmodified":1472333052,
+    "wof:lastmodified":1485218068,
     "wof:name":"Schoeneman & Cox",
-    "wof:parent_id":85872335,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

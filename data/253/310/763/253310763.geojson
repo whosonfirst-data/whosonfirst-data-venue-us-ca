@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.151871,37.741509,-122.151871,37.741509",
     "geom:latitude":37.741509,
     "geom:longitude":-122.151871,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872279,
+        102191575,
+        1108794079,
         85633793,
-        85921867,
+        85921881,
         102086959,
-        85872279
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"306f05a6d4d39bc66b3d4c2e1b89523d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":85921867,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872279,
             "region_id":85688637,
             "venue_id":253310763
         }
     ],
     "wof:id":253310763,
-    "wof:lastmodified":1472333152,
+    "wof:lastmodified":1485213030,
     "wof:name":"NBS Svc",
     "wof:parent_id":85872279,
     "wof:placetype":"venue",

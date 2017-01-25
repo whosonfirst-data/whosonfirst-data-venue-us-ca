@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.174324,37.7464,-122.174324,37.7464",
     "geom:latitude":37.7464,
     "geom:longitude":-122.174324,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872271,
+        102191575,
+        1108794079,
         85633793,
         85921881,
         102086959,
-        85872271
+        85688637,
+        1108794111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"64cbcf99db2270648ea8fef6b29bbdb6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794079,
             "neighbourhood_id":85872271,
+            "region_id":85688637,
+            "venue_id":387410127
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794079,
+            "neighbourhood_id":1108794111,
             "region_id":85688637,
             "venue_id":387410127
         }
     ],
     "wof:id":387410127,
-    "wof:lastmodified":1472342817,
+    "wof:lastmodified":1485217945,
     "wof:name":"Direct Staffing",
-    "wof:parent_id":85872271,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

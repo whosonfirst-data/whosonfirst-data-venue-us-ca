@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.198129,37.766011,-122.198129,37.766011",
     "geom:latitude":37.766011,
     "geom:longitude":-122.198129,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420550387,
+        102191575,
+        1108794089,
         85633793,
         85921881,
-        102086959
+        102086959,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"6285a94696ca49bc7ed4826d08822262",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108794089,
+            "neighbourhood_id":420550387,
             "region_id":85688637,
             "venue_id":370343751
         }
     ],
     "wof:id":370343751,
-    "wof:lastmodified":1472339604,
+    "wof:lastmodified":1485213524,
     "wof:name":"East Oakland Community Dev",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

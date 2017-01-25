@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.2474,37.837851,-122.2474,37.837851",
     "geom:latitude":37.837851,
     "geom:longitude":-122.2474,
@@ -29,11 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85872371,
+        102191575,
+        1108794075,
         85633793,
         85921881,
         102086959,
-        85872371
+        85688637,
+        1108794135,
+        1108794085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,30 @@
     "wof:geomhash":"389e1f486e370870d9cfab396ab056b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921881,
+            "macrohood_id":1108794075,
             "neighbourhood_id":85872371,
+            "region_id":85688637,
+            "venue_id":403966885
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794085,
+            "neighbourhood_id":1108794135,
             "region_id":85688637,
             "venue_id":403966885
         }
     ],
     "wof:id":403966885,
-    "wof:lastmodified":1472342020,
+    "wof:lastmodified":1485218052,
     "wof:name":"Constg Stuctural Eng",
-    "wof:parent_id":85872371,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

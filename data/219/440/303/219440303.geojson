@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.285191,37.845591,-122.285191,37.845591",
     "geom:latitude":37.845591,
     "geom:longitude":-122.285191,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108794119,
+        102191575,
+        1108794075,
         85633793,
-        85921905,
+        85921881,
         102086959,
+        85688637,
+        85921905,
         85872239
     ],
     "wof:breaches":[],
@@ -46,7 +51,17 @@
     "wof:geomhash":"7d950461a4539ca60156634c6999c0ee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":1108794119,
+            "region_id":85688637,
+            "venue_id":219440303
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921905,
@@ -56,9 +71,9 @@
         }
     ],
     "wof:id":219440303,
-    "wof:lastmodified":1472332228,
+    "wof:lastmodified":1485217968,
     "wof:name":"St Paul Primative Baptist",
-    "wof:parent_id":85872239,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
