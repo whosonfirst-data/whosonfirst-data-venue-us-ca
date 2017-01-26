@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.86375,37.220799,-121.86375,37.220799",
     "geom:latitude":37.220799,
     "geom:longitude":-121.86375,
@@ -43,10 +44,13 @@
     "sg:website":"www.studiogsalon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,15 +60,18 @@
     "wof:geomhash":"fd04366f7f7cd589b137491f051ff0e9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587875
         }
     ],
     "wof:id":588587875,
-    "wof:lastmodified":1472352451,
+    "wof:lastmodified":1485394898,
     "wof:name":"Studio G Salon & Day Spa",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

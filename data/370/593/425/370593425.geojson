@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.7917,37.332415,-121.7917,37.332415",
     "geom:latitude":37.332415,
     "geom:longitude":-121.7917,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85818341,
+        102191575,
+        1108782555,
         85633793,
+        85922347,
         102081673,
-        85818341
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"f69df016b47c05f57ae790f6a931e0cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85818341,
             "region_id":85688637,
             "venue_id":370593425
         }
     ],
     "wof:id":370593425,
-    "wof:lastmodified":1472342696,
+    "wof:lastmodified":1485395107,
     "wof:name":"Mobile Auto Diagnostic",
     "wof:parent_id":85818341,
     "wof:placetype":"venue",

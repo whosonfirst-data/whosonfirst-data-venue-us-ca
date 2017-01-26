@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.9544,37.309556,-121.9544,37.309556",
     "geom:latitude":37.309556,
     "geom:longitude":-121.9544,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552737,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"dd66c58ea0dfd48686d23905313c477e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":420552737,
             "region_id":85688637,
             "venue_id":354052037
         }
     ],
     "wof:id":354052037,
-    "wof:lastmodified":1472331465,
+    "wof:lastmodified":1485393759,
     "wof:name":"Shimada Brothers",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552737,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

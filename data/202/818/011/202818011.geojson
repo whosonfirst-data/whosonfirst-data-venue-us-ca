@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.979583,37.295432,-121.979583,37.295432",
     "geom:latitude":37.295432,
     "geom:longitude":-121.979583,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887613,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887613
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"cde27da3fc3443373b959cd4ce96f8c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887613,
             "region_id":85688637,
             "venue_id":202818011
         }
     ],
     "wof:id":202818011,
-    "wof:lastmodified":1472333283,
+    "wof:lastmodified":1485393860,
     "wof:name":"Jerry The Door Man",
     "wof:parent_id":85887613,
     "wof:placetype":"venue",

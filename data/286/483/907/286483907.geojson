@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.920498,37.264683,-121.920498,37.264683",
     "geom:latitude":37.264683,
     "geom:longitude":-121.920498,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887683,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887683
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"9a8c15e46cd2987ad28988d4b01150ac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887683,
             "region_id":85688637,
             "venue_id":286483907
         }
     ],
     "wof:id":286483907,
-    "wof:lastmodified":1472333899,
+    "wof:lastmodified":1485395978,
     "wof:name":"Century Billiard Svc",
     "wof:parent_id":85887683,
     "wof:placetype":"venue",

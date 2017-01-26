@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.943401,37.323257,-121.943401,37.323257",
     "geom:latitude":37.323257,
     "geom:longitude":-121.943401,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887753,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887753
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"28163411d0622e2b85c102715d9d53e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887753,
             "region_id":85688637,
             "venue_id":370583115
         }
     ],
     "wof:id":370583115,
-    "wof:lastmodified":1472342666,
+    "wof:lastmodified":1485396114,
     "wof:name":"Global Coffee Co",
     "wof:parent_id":85887753,
     "wof:placetype":"venue",

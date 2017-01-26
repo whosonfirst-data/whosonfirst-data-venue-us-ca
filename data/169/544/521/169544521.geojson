@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.903892,37.359474,-121.903892,37.359474",
     "geom:latitude":37.359474,
     "geom:longitude":-121.903892,
@@ -30,11 +31,10 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922347,
-        102081673,
-        85869195,
         85922341,
+        102081673,
         85869525
     ],
     "wof:breaches":[],
@@ -45,14 +45,7 @@
     "wof:geomhash":"4a2c5a73a0067187dba5315da56a9f15",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85869195,
-            "region_id":85688637,
-            "venue_id":169544521
-        },
-        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922341,
@@ -62,9 +55,9 @@
         }
     ],
     "wof:id":169544521,
-    "wof:lastmodified":1472333988,
+    "wof:lastmodified":1485389731,
     "wof:name":"Watch",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

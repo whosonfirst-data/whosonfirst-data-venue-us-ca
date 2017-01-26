@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.870558,37.313033,-121.870558,37.313033",
     "geom:latitude":37.313033,
     "geom:longitude":-121.870558,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673,
-        85887655
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +50,19 @@
     "wof:geomhash":"a03c167bdebe429f2d1943f8241e268b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887655,
+            "macrohood_id":1108782557,
             "region_id":85688637,
             "venue_id":320268323
         }
     ],
     "wof:id":320268323,
-    "wof:lastmodified":1472333660,
+    "wof:lastmodified":1485395825,
     "wof:name":"Bold Knight Of San Jose",
-    "wof:parent_id":85887655,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

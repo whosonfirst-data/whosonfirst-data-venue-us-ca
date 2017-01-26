@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.821669,37.2895,-121.821669,37.2895",
     "geom:latitude":37.2895,
     "geom:longitude":-121.821669,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865161,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        420552845
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"5ff4b75e1ceda2c74b83ae2b98d77ab1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85865161,
+            "region_id":85688637,
+            "venue_id":320540223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552845,
             "region_id":85688637,
             "venue_id":320540223
         }
     ],
     "wof:id":320540223,
-    "wof:lastmodified":1472335691,
+    "wof:lastmodified":1485394618,
     "wof:name":"Soon Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

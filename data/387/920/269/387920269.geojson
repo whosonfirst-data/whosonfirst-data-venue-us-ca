@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.872722,37.329443,-121.872722,37.329443",
     "geom:latitude":37.329443,
     "geom:longitude":-121.872722,
@@ -35,11 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922347,
         102081673,
-        85887733,
-        85887559
+        85887733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +50,19 @@
     "wof:geomhash":"9e09e1e20b12a12951ac304567e5eaa9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
             "neighbourhood_id":85887733,
             "region_id":85688637,
             "venue_id":387920269
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85887559,
-            "region_id":85688637,
-            "venue_id":387920269
         }
     ],
     "wof:id":387920269,
-    "wof:lastmodified":1472351048,
+    "wof:lastmodified":1485388786,
     "wof:name":"Mammoth Graphix",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

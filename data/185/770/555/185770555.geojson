@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.96853,37.308412,-121.96853,37.308412",
     "geom:latitude":37.308412,
     "geom:longitude":-121.96853,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552533,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"ef591e2ccbd39ef138aac0e34385d3f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":420552533,
             "region_id":85688637,
             "venue_id":185770555
         }
     ],
     "wof:id":185770555,
-    "wof:lastmodified":1472331884,
+    "wof:lastmodified":1485393732,
     "wof:name":"All World Trade Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

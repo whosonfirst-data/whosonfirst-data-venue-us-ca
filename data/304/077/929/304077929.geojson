@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.839301,37.284196,-121.839301,37.284196",
     "geom:latitude":37.284196,
     "geom:longitude":-121.839301,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865161,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85865161
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"56dfdd829bc6a24d391d4c563ec33b27",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85865161,
             "region_id":85688637,
             "venue_id":304077929
         }
     ],
     "wof:id":304077929,
-    "wof:lastmodified":1472331323,
+    "wof:lastmodified":1485395583,
     "wof:name":"Azteca Sweeping",
     "wof:parent_id":85865161,
     "wof:placetype":"venue",

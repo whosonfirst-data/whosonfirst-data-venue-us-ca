@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.87502,37.250901,-121.87502,37.250901",
     "geom:latitude":37.250901,
     "geom:longitude":-121.87502,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887599,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887599
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"f86d3638de0f50bbad8ea9343ca3efc2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887599,
             "region_id":85688637,
             "venue_id":287246031
         }
     ],
     "wof:id":287246031,
-    "wof:lastmodified":1472333402,
+    "wof:lastmodified":1485394607,
     "wof:name":"Dental Consulting Svc",
     "wof:parent_id":85887599,
     "wof:placetype":"venue",

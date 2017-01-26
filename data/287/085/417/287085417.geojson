@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.908844,37.245817,-121.908844,37.245817",
     "geom:latitude":37.245817,
     "geom:longitude":-121.908844,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887645,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887645
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"458671845f7405dccc58fb051ce0d773",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887645,
             "region_id":85688637,
             "venue_id":287085417
         }
     ],
     "wof:id":287085417,
-    "wof:lastmodified":1472331598,
+    "wof:lastmodified":1485394921,
     "wof:name":"Precision Pipeline",
     "wof:parent_id":85887645,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.899556,37.348196,-121.899556,37.348196",
     "geom:latitude":37.348196,
     "geom:longitude":-121.899556,
@@ -29,12 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869367,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85869195,
-        85869367
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +46,20 @@
     "wof:geomhash":"a356e2d6a72a3e429929c51b6c6963aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869195,
-            "region_id":85688637,
-            "venue_id":387359297
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85869367,
             "region_id":85688637,
             "venue_id":387359297
         }
     ],
     "wof:id":387359297,
-    "wof:lastmodified":1472342580,
+    "wof:lastmodified":1485396138,
     "wof:name":"El Camino Realty & Mortgage",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.902942,37.264658,-121.902942,37.264658",
     "geom:latitude":37.264658,
     "geom:longitude":-121.902942,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552889,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"a041471d0a4e306deb5206150ae2c0a1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552889,
             "region_id":85688637,
             "venue_id":252774465
         }
     ],
     "wof:id":252774465,
-    "wof:lastmodified":1472331166,
+    "wof:lastmodified":1485394865,
     "wof:name":"Rat Central",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552889,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

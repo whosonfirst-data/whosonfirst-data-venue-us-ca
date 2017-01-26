@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.800939,37.233727,-121.800939,37.233727",
     "geom:latitude":37.233727,
     "geom:longitude":-121.800939,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673,
-        85869641
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"b4a290142f83a241e03eb97550df6b91",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869641,
+            "macrohood_id":1108782545,
             "region_id":85688637,
             "venue_id":387553389
         }
     ],
     "wof:id":387553389,
-    "wof:lastmodified":1472344206,
+    "wof:lastmodified":1485394615,
     "wof:name":"White Eagle Maintenance",
-    "wof:parent_id":85869641,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

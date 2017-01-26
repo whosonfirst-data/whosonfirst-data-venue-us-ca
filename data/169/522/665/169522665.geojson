@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.911059,37.308135,-121.911059,37.308135",
     "geom:latitude":37.308135,
     "geom:longitude":-121.911059,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922347,
+        420552519,
+        102191575,
+        1108782557,
         85633793,
-        85688637,
-        102081673
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,20 @@
     "wof:geomhash":"d4ed0b620d2c0b7122b66ada3ed9c33a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":420552519,
             "region_id":85688637,
             "venue_id":169522665
         }
     ],
     "wof:id":169522665,
-    "wof:lastmodified":1472333947,
+    "wof:lastmodified":1485395560,
     "wof:name":"Aero Clean Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

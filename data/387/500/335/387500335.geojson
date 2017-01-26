@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.910045,37.302248,-121.910045,37.302248",
     "geom:latitude":37.302248,
     "geom:longitude":-121.910045,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552519,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        85857961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,30 @@
     "wof:geomhash":"750478ee969b0d2a3e105f5bb9b6ccf0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":420552519,
+            "region_id":85688637,
+            "venue_id":387500335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85857961,
             "region_id":85688637,
             "venue_id":387500335
         }
     ],
     "wof:id":387500335,
-    "wof:lastmodified":1472343799,
+    "wof:lastmodified":1485396029,
     "wof:name":"Holly Quittman Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

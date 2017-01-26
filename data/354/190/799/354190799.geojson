@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.823956,37.305842,-121.823956,37.305842",
     "geom:latitude":37.305842,
     "geom:longitude":-121.823956,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887735,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        85887643,
+        1108782557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +52,30 @@
     "wof:geomhash":"1d11b7a4b3a7c4d4389b538d22b3a76d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887735,
+            "region_id":85688637,
+            "venue_id":354190799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85887643,
             "region_id":85688637,
             "venue_id":354190799
         }
     ],
     "wof:id":354190799,
-    "wof:lastmodified":1472334456,
+    "wof:lastmodified":1485395530,
     "wof:name":"D B D Vocational Rehabilitatio",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

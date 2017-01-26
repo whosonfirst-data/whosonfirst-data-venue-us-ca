@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.773674,37.298841,-121.773674,37.298841",
     "geom:latitude":37.298841,
     "geom:longitude":-121.773674,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552599,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"5e13bdc2f33dbb0612c8387e2c548a20",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552599,
             "region_id":85688637,
             "venue_id":286870475
         }
     ],
     "wof:id":286870475,
-    "wof:lastmodified":1472335516,
+    "wof:lastmodified":1485395285,
     "wof:name":"Microdirect 2000 408",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.931779,37.309328,-121.931779,37.309328",
     "geom:latitude":37.309328,
     "geom:longitude":-121.931779,
@@ -37,9 +38,12 @@
         85688637,
         102191575,
         85633793,
-        85922347,
+        85925501,
         102081673,
-        420552617
+        85808443,
+        420552617,
+        1108782557,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +56,26 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85925501,
+            "neighbourhood_id":85808443,
+            "region_id":85688637,
+            "venue_id":555034979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":420552617,
             "region_id":85688637,
             "venue_id":555034979
         }
     ],
     "wof:id":555034979,
-    "wof:lastmodified":1472338952,
+    "wof:lastmodified":1485395629,
     "wof:name":"San Jose Surgical Supply Inc",
-    "wof:parent_id":420552617,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

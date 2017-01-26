@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.78354,37.257008,-121.78354,37.257008",
     "geom:latitude":37.257008,
     "geom:longitude":-121.78354,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673,
-        85869637
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +48,19 @@
     "wof:geomhash":"faf5283f8d4cd4f8ab43f527cb7e7ff2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869637,
+            "macrohood_id":1108782545,
             "region_id":85688637,
             "venue_id":588609637
         }
     ],
     "wof:id":588609637,
-    "wof:lastmodified":1472352603,
+    "wof:lastmodified":1485394540,
     "wof:name":"Kepler Learning Center",
-    "wof:parent_id":85869637,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

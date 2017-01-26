@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.892493,37.330813,-121.892493,37.330813",
     "geom:latitude":37.330813,
     "geom:longitude":-121.892493,
@@ -35,10 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552885,
+        102191575,
+        1108782551,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        85887637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,29 @@
     "wof:geomhash":"e49c1dc611d1f3c432d0972c28e9edac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":420552885,
+            "region_id":85688637,
+            "venue_id":236867197
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "neighbourhood_id":85887637,
             "region_id":85688637,
             "venue_id":236867197
         }
     ],
     "wof:id":236867197,
-    "wof:lastmodified":1472335125,
+    "wof:lastmodified":1485393881,
     "wof:name":"Mentor Graphics Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

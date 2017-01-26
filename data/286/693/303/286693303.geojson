@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.832465,37.201256,-121.832465,37.201256",
     "geom:latitude":37.201256,
     "geom:longitude":-121.832465,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552777,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"97bdaf70a0b861bb5a8d8cc9b9dd65b4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552777,
             "region_id":85688637,
             "venue_id":286693303
         }
     ],
     "wof:id":286693303,
-    "wof:lastmodified":1472335011,
+    "wof:lastmodified":1485394780,
     "wof:name":"Dear Things",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552777,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

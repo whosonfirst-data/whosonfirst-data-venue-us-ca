@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.775368,37.228631,-121.775368,37.228631",
     "geom:latitude":37.228631,
     "geom:longitude":-121.775368,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552573,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"d73b54ca3f4321a2d6355d0edd9a1385",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552573,
             "region_id":85688637,
             "venue_id":370776989
         }
     ],
     "wof:id":370776989,
-    "wof:lastmodified":1472343929,
+    "wof:lastmodified":1485394481,
     "wof:name":"Alan E Beer Lab For Reproducti",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

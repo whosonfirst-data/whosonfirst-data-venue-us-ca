@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.826763,37.375853,-121.826763,37.375853",
     "geom:latitude":37.375853,
     "geom:longitude":-121.826763,
@@ -33,12 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        420559909
+        85633793,
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +48,19 @@
     "wof:geomhash":"72a5bd9c13bdf54a4f8f6106ad282ea5",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":555275179
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":420559909,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":555275179
         }
     ],
     "wof:id":555275179,
-    "wof:lastmodified":1472343726,
+    "wof:lastmodified":1485389394,
     "wof:name":"R W Marketing",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.836998,37.361301,-121.836998,37.361301",
     "geom:latitude":37.361301,
     "geom:longitude":-121.836998,
@@ -38,14 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85925491,
-        102081673,
         85802961,
+        102191575,
+        1108782555,
+        85633793,
         85922347,
-        85882409
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,25 +58,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925491,
-            "neighbourhood_id":85802961,
-            "region_id":85688637,
-            "venue_id":572145235
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85882409,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85802961,
             "region_id":85688637,
             "venue_id":572145235
         }
     ],
     "wof:id":572145235,
-    "wof:lastmodified":1472342382,
+    "wof:lastmodified":1485395092,
     "wof:name":"Minit Mart & Junior Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

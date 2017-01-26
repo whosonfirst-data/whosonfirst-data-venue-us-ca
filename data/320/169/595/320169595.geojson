@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.838874,37.400127,-121.838874,37.400127",
     "geom:latitude":37.400127,
     "geom:longitude":-121.838874,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782555,
         85633793,
-        85925507,
-        102081673,
-        85922347
+        85922347,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,26 +45,17 @@
     "wof:geomhash":"77555b4017e01c06c3f0df90c8ca0ab2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85925507,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":320169595
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
             "region_id":85688637,
             "venue_id":320169595
         }
     ],
     "wof:id":320169595,
-    "wof:lastmodified":1472332825,
+    "wof:lastmodified":1485394968,
     "wof:name":"Stellarscript",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

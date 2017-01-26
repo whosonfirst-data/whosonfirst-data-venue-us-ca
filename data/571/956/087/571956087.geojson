@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.809596,37.227878,-121.809596,37.227878",
     "geom:latitude":37.227878,
     "geom:longitude":-121.809596,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"69b45858919b30d899146b8fb120ebf2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":571956087
         }
     ],
     "wof:id":571956087,
-    "wof:lastmodified":1472350123,
+    "wof:lastmodified":1485394896,
     "wof:name":"411 Home Repair",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

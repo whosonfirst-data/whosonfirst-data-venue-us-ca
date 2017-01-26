@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.899639,37.28862,-121.899639,37.28862",
     "geom:latitude":37.28862,
     "geom:longitude":-121.899639,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85857961,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85857961
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,18 @@
     "wof:geomhash":"fda8559ed3e66561fd9b3a7855a9f75f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85857961,
             "region_id":85688637,
             "venue_id":169521509
         }
     ],
     "wof:id":169521509,
-    "wof:lastmodified":1472333906,
+    "wof:lastmodified":1485395829,
     "wof:name":"Art Medium",
     "wof:parent_id":85857961,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.980799,37.310588,-121.980799,37.310588",
     "geom:latitude":37.310588,
     "geom:longitude":-121.980799,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673,
-        85869779
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"1397e56d6e00c911b21fd40b46636ab6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869779,
+            "macrohood_id":1108782547,
             "region_id":85688637,
             "venue_id":354176291
         }
     ],
     "wof:id":354176291,
-    "wof:lastmodified":1472334125,
+    "wof:lastmodified":1485393727,
     "wof:name":"Wellink Trading",
-    "wof:parent_id":85869779,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

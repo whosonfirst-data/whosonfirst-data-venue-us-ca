@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.875555,37.221266,-121.875555,37.221266",
     "geom:latitude":37.221266,
     "geom:longitude":-121.875555,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"63492a27b73b119408c0246829f1a99e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":555697365
         }
     ],
     "wof:id":555697365,
-    "wof:lastmodified":1472352614,
+    "wof:lastmodified":1485394815,
     "wof:name":"California Business Funding",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

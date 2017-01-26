@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.830978,37.236774,-121.830978,37.236774",
     "geom:latitude":37.236774,
     "geom:longitude":-121.830978,
@@ -33,10 +34,13 @@
     "sg:website":"lupessj.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"c4b69cce46c983d6bebb678956b49ab2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":588591875
         }
     ],
     "wof:id":588591875,
-    "wof:lastmodified":1472352427,
+    "wof:lastmodified":1485394728,
     "wof:name":"Lupe's Taqueria",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

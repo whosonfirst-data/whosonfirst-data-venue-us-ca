@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.968369,37.320184,-121.968369,37.320184",
     "geom:latitude":37.320184,
     "geom:longitude":-121.968369,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887669,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887669
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"6ecb9fbe94bb33a257681191ff6612bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887669,
             "region_id":85688637,
             "venue_id":202736137
         }
     ],
     "wof:id":202736137,
-    "wof:lastmodified":1472332816,
+    "wof:lastmodified":1485393873,
     "wof:name":"Denis Co LLC",
     "wof:parent_id":85887669,
     "wof:placetype":"venue",

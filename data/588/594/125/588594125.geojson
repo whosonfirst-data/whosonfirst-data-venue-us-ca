@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.932999,37.272598,-121.932999,37.272598",
     "geom:latitude":37.272598,
     "geom:longitude":-121.932999,
@@ -47,11 +48,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885741,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85885741
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,16 +64,18 @@
     "wof:geomhash":"b088603e5c956ca0bf4b6c8956858ec0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85885741,
             "region_id":85688637,
             "venue_id":588594125
         }
     ],
     "wof:id":588594125,
-    "wof:lastmodified":1472352220,
+    "wof:lastmodified":1485395880,
     "wof:name":"International Food Bazaar",
     "wof:parent_id":85885741,
     "wof:placetype":"venue",

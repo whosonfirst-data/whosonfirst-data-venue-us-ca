@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.773989,37.333404,-121.773989,37.333404",
     "geom:latitude":37.333404,
     "geom:longitude":-121.773989,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887703,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"1eac6b364019e4457d0b4a69a6726354",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887703,
             "region_id":85688637,
             "venue_id":555125839
         }
     ],
     "wof:id":555125839,
-    "wof:lastmodified":1472341294,
+    "wof:lastmodified":1485395238,
     "wof:name":"United Carriers",
     "wof:parent_id":85887703,
     "wof:placetype":"venue",

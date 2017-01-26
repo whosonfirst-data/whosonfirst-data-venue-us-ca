@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.865257,37.22086,-121.865257,37.22086",
     "geom:latitude":37.22086,
     "geom:longitude":-121.865257,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"d7da8077d1647a914873e6a458affca0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587659
         }
     ],
     "wof:id":588587659,
-    "wof:lastmodified":1472352402,
+    "wof:lastmodified":1485394851,
     "wof:name":"Country Inn Cafe",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

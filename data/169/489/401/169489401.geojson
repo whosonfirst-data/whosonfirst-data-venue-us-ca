@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.881143,37.224412,-121.881143,37.224412",
     "geom:latitude":37.224412,
     "geom:longitude":-121.881143,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887691,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"b173c410314a9ded982fb20fd486a5dd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887691,
             "region_id":85688637,
             "venue_id":169489401
         }
     ],
     "wof:id":169489401,
-    "wof:lastmodified":1472332091,
+    "wof:lastmodified":1485394843,
     "wof:name":"Almaden Valley Alarm",
     "wof:parent_id":85887691,
     "wof:placetype":"venue",

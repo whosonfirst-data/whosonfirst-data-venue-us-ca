@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.874977,37.273451,-121.874977,37.273451",
     "geom:latitude":37.273451,
     "geom:longitude":-121.874977,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887755,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887755
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"1e518a3354a8835cccb16f431d16a370",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887755,
             "region_id":85688637,
             "venue_id":370771657
         }
     ],
     "wof:id":370771657,
-    "wof:lastmodified":1472343801,
+    "wof:lastmodified":1485394629,
     "wof:name":"Forrest Interior Trim Instltn",
     "wof:parent_id":85887755,
     "wof:placetype":"venue",

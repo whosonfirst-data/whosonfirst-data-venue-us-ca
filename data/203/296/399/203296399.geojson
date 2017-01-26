@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.860413,37.364934,-121.860413,37.364934",
     "geom:latitude":37.364934,
     "geom:longitude":-121.860413,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887695,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887695,
+        85688637,
         85887569
     ],
     "wof:breaches":[],
@@ -44,28 +47,30 @@
     "wof:geomhash":"e7af2ac9570c56745b130d33044b43b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887695,
             "region_id":85688637,
             "venue_id":203296399
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":203296399
         }
     ],
     "wof:id":203296399,
-    "wof:lastmodified":1472332282,
+    "wof:lastmodified":1485395022,
     "wof:name":"Krinosa 58 Orchids",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

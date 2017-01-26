@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.868477,37.399095,-121.868477,37.399095",
     "geom:latitude":37.399095,
     "geom:longitude":-121.868477,
@@ -33,11 +34,13 @@
     "sg:website":"www.toyboat.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887553,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887553
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"b92c6e2ad41d694da4e2109e9859d9e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887553,
             "region_id":85688637,
             "venue_id":169577079
         }
     ],
     "wof:id":169577079,
-    "wof:lastmodified":1472334132,
+    "wof:lastmodified":1485394390,
     "wof:name":"Toyboat Web Design",
     "wof:parent_id":85887553,
     "wof:placetype":"venue",

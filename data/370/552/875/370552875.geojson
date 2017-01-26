@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.805594,37.366047,-121.805594,37.366047",
     "geom:latitude":37.366047,
     "geom:longitude":-121.805594,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552557,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        85887557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"d9e2bab59a4d9ca65f018ce6bb2fcbad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552557,
+            "region_id":85688637,
+            "venue_id":370552875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887557,
             "region_id":85688637,
             "venue_id":370552875
         }
     ],
     "wof:id":370552875,
-    "wof:lastmodified":1472342462,
+    "wof:lastmodified":1485395212,
     "wof:name":"Orthotec Laboratory",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

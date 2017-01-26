@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.849668,37.268781,-121.849668,37.268781",
     "geom:latitude":37.268781,
     "geom:longitude":-121.849668,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869123,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"cd907461b300b1b9940349eabe407eab",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869123,
             "region_id":85688637,
             "venue_id":588608995
         }
     ],
     "wof:id":588608995,
-    "wof:lastmodified":1472352605,
+    "wof:lastmodified":1485394903,
     "wof:name":"Jghellmuth Interior Design",
     "wof:parent_id":85869123,
     "wof:placetype":"venue",

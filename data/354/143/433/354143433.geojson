@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.867179,37.239664,-121.867179,37.239664",
     "geom:latitude":37.239664,
     "geom:longitude":-121.867179,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887485,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887485
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"e10302015bb6440fcd09eebcab3f23fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887485,
             "region_id":85688637,
             "venue_id":354143433
         }
     ],
     "wof:id":354143433,
-    "wof:lastmodified":1472333477,
+    "wof:lastmodified":1485394521,
     "wof:name":"Dream Dimensions",
     "wof:parent_id":85887485,
     "wof:placetype":"venue",

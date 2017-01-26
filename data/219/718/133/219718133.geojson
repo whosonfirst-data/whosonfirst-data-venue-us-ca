@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995899,37.309487,-121.995899,37.309487",
     "geom:latitude":37.309487,
     "geom:longitude":-121.995899,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673,
-        85869779
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"82ed9baaf6dc337c95d3ca6cc452eb47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869779,
+            "macrohood_id":1108782547,
             "region_id":85688637,
             "venue_id":219718133
         }
     ],
     "wof:id":219718133,
-    "wof:lastmodified":1472333756,
+    "wof:lastmodified":1485393872,
     "wof:name":"Moorpark Cleaners",
-    "wof:parent_id":85869779,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

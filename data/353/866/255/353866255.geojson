@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.923977,37.249495,-121.923977,37.249495",
     "geom:latitude":37.249495,
     "geom:longitude":-121.923977,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552713,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"80825fa22dd0978515837f77869d3a56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552713,
             "region_id":85688637,
             "venue_id":353866255
         }
     ],
     "wof:id":353866255,
-    "wof:lastmodified":1472336228,
+    "wof:lastmodified":1485394665,
     "wof:name":"Showroom Finish Auto Detailing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552713,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

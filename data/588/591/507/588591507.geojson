@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.80394,37.237124,-121.80394,37.237124",
     "geom:latitude":37.237124,
     "geom:longitude":-121.80394,
@@ -33,10 +34,13 @@
     "sg:website":"www.emperorofindiausa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"a910449aab627175138fcaee93aa5b03",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":588591507
         }
     ],
     "wof:id":588591507,
-    "wof:lastmodified":1472352322,
+    "wof:lastmodified":1485394928,
     "wof:name":"Emperor of India",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

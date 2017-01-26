@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.809688,37.358636,-121.809688,37.358636",
     "geom:latitude":37.358636,
     "geom:longitude":-121.809688,
@@ -40,9 +41,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85865159,
-        102081673
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
     "wof:geomhash":"fb41af5885b4f00f5dcf180bfbb5f1db",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":169519021
         }
     ],
     "wof:id":169519021,
-    "wof:lastmodified":1472333566,
+    "wof:lastmodified":1485395147,
     "wof:name":"Custom Line Financial Svcs",
     "wof:parent_id":85865159,
     "wof:placetype":"venue",

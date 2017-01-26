@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.874347,37.307298,-121.874347,37.307298",
     "geom:latitude":37.307298,
     "geom:longitude":-121.874347,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887661,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887661
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"c9931d35d6456d3e75b0c2785c6de164",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887661,
             "region_id":85688637,
             "venue_id":370784257
         }
     ],
     "wof:id":370784257,
-    "wof:lastmodified":1472343874,
+    "wof:lastmodified":1485395526,
     "wof:name":"A Pinck & Assoc",
     "wof:parent_id":85887661,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.915824,37.294416,-121.915824,37.294416",
     "geom:latitude":37.294416,
     "geom:longitude":-121.915824,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887607,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887607
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,16 +49,18 @@
     "wof:geomhash":"98d280b9b04fba11c48d0420d4c12ede",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887607,
             "region_id":85688637,
             "venue_id":169499743
         }
     ],
     "wof:id":169499743,
-    "wof:lastmodified":1472333022,
+    "wof:lastmodified":1485395594,
     "wof:name":"1600 Hamilton Place-Villages",
     "wof:parent_id":85887607,
     "wof:placetype":"venue",

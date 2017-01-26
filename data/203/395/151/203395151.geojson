@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.922386,37.398536,-121.922386,37.398536",
     "geom:latitude":37.398536,
     "geom:longitude":-121.922386,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887707,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887707
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"d615e0bffa03b8796f4dd205ca8fc1e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887707,
             "region_id":85688637,
             "venue_id":203395151
         }
     ],
     "wof:id":203395151,
-    "wof:lastmodified":1472333065,
+    "wof:lastmodified":1485394149,
     "wof:name":"Connective Microsystems",
     "wof:parent_id":85887707,
     "wof:placetype":"venue",

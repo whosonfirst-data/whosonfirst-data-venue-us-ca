@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.841401,37.245309,-121.841401,37.245309",
     "geom:latitude":37.245309,
     "geom:longitude":-121.841401,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922347,
+        420552847,
+        102191575,
+        1108782545,
         85633793,
-        85688637,
-        102081673
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,20 @@
     "wof:geomhash":"93ca4e4c9aad1c44bc844f25acc1dce7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552847,
             "region_id":85688637,
             "venue_id":169513113
         }
     ],
     "wof:id":169513113,
-    "wof:lastmodified":1472333368,
+    "wof:lastmodified":1485394835,
     "wof:name":"Universal Charter & Tours",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

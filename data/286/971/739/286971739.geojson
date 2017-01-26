@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.837578,37.335459,-121.837578,37.335459",
     "geom:latitude":37.335459,
     "geom:longitude":-121.837578,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869383,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85869383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b601a2bcb40acf537c273ee7fdf27261",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869383,
             "region_id":85688637,
             "venue_id":286971739
         }
     ],
     "wof:id":286971739,
-    "wof:lastmodified":1472335627,
+    "wof:lastmodified":1485395270,
     "wof:name":"Alvarez Landscaping",
     "wof:parent_id":85869383,
     "wof:placetype":"venue",

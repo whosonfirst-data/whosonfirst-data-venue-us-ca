@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.876665,37.275795,-121.876665,37.275795",
     "geom:latitude":37.275795,
     "geom:longitude":-121.876665,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887755,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887755
+        85688637
     ],
     "wof:brand_id":420574087,
     "wof:breaches":[],
@@ -48,17 +51,18 @@
     "wof:geomhash":"d91cab7b8b4aec180337e96ccb8c40ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887755,
             "region_id":85688637,
             "venue_id":186392435
         }
     ],
     "wof:id":186392435,
-    "wof:lastmodified":1472331743,
+    "wof:lastmodified":1485395609,
     "wof:name":"Hertz Rent A Car",
     "wof:parent_id":85887755,
     "wof:placetype":"venue",

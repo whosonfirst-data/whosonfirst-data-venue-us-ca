@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.792566,37.303272,-121.792566,37.303272",
     "geom:latitude":37.303272,
     "geom:longitude":-121.792566,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869653,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"7c0024a4cc5d948c8aef1b6e5a72fdbe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
             "region_id":85688637,
             "venue_id":571716457
         }
     ],
     "wof:id":571716457,
-    "wof:lastmodified":1472343449,
+    "wof:lastmodified":1485395037,
     "wof:name":"Dhaliwals Subway",
     "wof:parent_id":85869653,
     "wof:placetype":"venue",

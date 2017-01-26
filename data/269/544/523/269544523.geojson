@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.968853,37.306951,-121.968853,37.306951",
     "geom:latitude":37.306951,
     "geom:longitude":-121.968853,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552861,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:brand_id":420573795,
     "wof:breaches":[],
@@ -43,19 +47,20 @@
     "wof:geomhash":"2011e57962466564d124f9d83505d0d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":420552861,
             "region_id":85688637,
             "venue_id":269544523
         }
     ],
     "wof:id":269544523,
-    "wof:lastmodified":1472331312,
+    "wof:lastmodified":1485393791,
     "wof:name":"Farmers Insurance Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552861,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

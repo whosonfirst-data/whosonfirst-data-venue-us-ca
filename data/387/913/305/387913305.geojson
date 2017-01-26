@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894422,37.369747,-121.894422,37.369747",
     "geom:latitude":37.369747,
     "geom:longitude":-121.894422,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887673,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85869195,
-        85887673
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +49,20 @@
     "wof:geomhash":"7ad1e0a4ac5b8d6bc93bddad325dcb9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869195,
-            "region_id":85688637,
-            "venue_id":387913305
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887673,
             "region_id":85688637,
             "venue_id":387913305
         }
     ],
     "wof:id":387913305,
-    "wof:lastmodified":1472350993,
+    "wof:lastmodified":1485394222,
     "wof:name":"Neverez Machining",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.85753,37.227852,-121.85753,37.227852",
     "geom:latitude":37.227852,
     "geom:longitude":-121.85753,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552809,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"09b29439c455c2bd20cca0b3778ba9ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552809,
             "region_id":85688637,
             "venue_id":370976887
         }
     ],
     "wof:id":370976887,
-    "wof:lastmodified":1472349147,
+    "wof:lastmodified":1485394551,
     "wof:name":"Enterpreneur's Source",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

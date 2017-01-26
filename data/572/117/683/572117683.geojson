@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.788593,37.323603,-121.788593,37.323603",
     "geom:latitude":37.323603,
     "geom:longitude":-121.788593,
@@ -34,10 +35,13 @@
     "sg:website":"hoiland.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85818341,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"25971e7a26b43091a8458db0e8074506",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85818341,
             "region_id":85688637,
             "venue_id":572117683
         }
     ],
     "wof:id":572117683,
-    "wof:lastmodified":1472342129,
+    "wof:lastmodified":1485395247,
     "wof:name":"Hoiland Photography",
     "wof:parent_id":85818341,
     "wof:placetype":"venue",

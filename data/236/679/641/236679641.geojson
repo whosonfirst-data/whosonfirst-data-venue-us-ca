@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894229,37.36369,-121.894229,37.36369",
     "geom:latitude":37.36369,
     "geom:longitude":-121.894229,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85887581,
+        85887673,
+        1108782553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,29 @@
     "wof:geomhash":"b5b4d28b6fdf440a1cce3c024140c514",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887581,
+            "region_id":85688637,
+            "venue_id":236679641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
+            "neighbourhood_id":85887673,
             "region_id":85688637,
             "venue_id":236679641
         }
     ],
     "wof:id":236679641,
-    "wof:lastmodified":1472334603,
+    "wof:lastmodified":1485394221,
     "wof:name":"Jv Tools",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.933457,37.27503,-121.933457,37.27503",
     "geom:latitude":37.27503,
     "geom:longitude":-121.933457,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885741,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85885741
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"350962e643e787b8c507d052b1601939",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85885741,
             "region_id":85688637,
             "venue_id":353907475
         }
     ],
     "wof:id":353907475,
-    "wof:lastmodified":1472336618,
+    "wof:lastmodified":1485395383,
     "wof:name":"Mimosa Beauty Salon",
     "wof:parent_id":85885741,
     "wof:placetype":"venue",

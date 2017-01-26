@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.829147,37.349434,-121.829147,37.349434",
     "geom:latitude":37.349434,
     "geom:longitude":-121.829147,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869383,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85869383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"720f17834e5ed1452defb8489d50f855",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869383,
             "region_id":85688637,
             "venue_id":404016799
         }
     ],
     "wof:id":404016799,
-    "wof:lastmodified":1472337023,
+    "wof:lastmodified":1485395028,
     "wof:name":"Aguila Travel",
     "wof:parent_id":85869383,
     "wof:placetype":"venue",

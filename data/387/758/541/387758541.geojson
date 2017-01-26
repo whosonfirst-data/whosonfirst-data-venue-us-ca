@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.873127,37.226697,-121.873127,37.226697",
     "geom:latitude":37.226697,
     "geom:longitude":-121.873127,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552601,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"0f007b6f0b8c5126fd08cbca6b76748f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552601,
             "region_id":85688637,
             "venue_id":387758541
         }
     ],
     "wof:id":387758541,
-    "wof:lastmodified":1472349530,
+    "wof:lastmodified":1485394615,
     "wof:name":"Asset Assurance Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

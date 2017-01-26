@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.920751,37.381859,-121.920751,37.381859",
     "geom:latitude":37.381859,
     "geom:longitude":-121.920751,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887707,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887707
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"6240bd974d48226cd2d11907864f8a49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887707,
             "region_id":85688637,
             "venue_id":354027287
         }
     ],
     "wof:id":354027287,
-    "wof:lastmodified":1472331111,
+    "wof:lastmodified":1485394210,
     "wof:name":"KTSF News Southbay",
     "wof:parent_id":85887707,
     "wof:placetype":"venue",

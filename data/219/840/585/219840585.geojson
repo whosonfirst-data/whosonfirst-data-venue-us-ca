@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.875124,37.275645,-121.875124,37.275645",
     "geom:latitude":37.275645,
     "geom:longitude":-121.875124,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887755,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887755
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"50b3a1e1788af642d639fd4d34c1a996",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887755,
             "region_id":85688637,
             "venue_id":219840585
         }
     ],
     "wof:id":219840585,
-    "wof:lastmodified":1472334338,
+    "wof:lastmodified":1485394826,
     "wof:name":"Capitol Buick-Pontiac-GMC",
     "wof:parent_id":85887755,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.793426,37.335681,-121.793426,37.335681",
     "geom:latitude":37.335681,
     "geom:longitude":-121.793426,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85818341,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"6b4454968cffc2148b8652102a1497e0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85818341,
             "region_id":85688637,
             "venue_id":571531001
         }
     ],
     "wof:id":571531001,
-    "wof:lastmodified":1472339831,
+    "wof:lastmodified":1485395129,
     "wof:name":"S J E Enterprises Inc",
     "wof:parent_id":85818341,
     "wof:placetype":"venue",

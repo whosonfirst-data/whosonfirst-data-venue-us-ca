@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.790187,37.312911,-121.790187,37.312911",
     "geom:latitude":37.312911,
     "geom:longitude":-121.790187,
@@ -38,10 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869653,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,18 @@
     "wof:geomhash":"179b21f1bd2ccdd779b0852ded7e7272",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
             "region_id":85688637,
             "venue_id":588608755
         }
     ],
     "wof:id":588608755,
-    "wof:lastmodified":1472352542,
+    "wof:lastmodified":1485394992,
     "wof:name":"Sizzling Kabob House",
     "wof:parent_id":85869653,
     "wof:placetype":"venue",

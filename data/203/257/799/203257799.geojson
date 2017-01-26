@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.904638,37.2292,-121.904638,37.2292",
     "geom:latitude":37.2292,
     "geom:longitude":-121.904638,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887659,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887659
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"add3dfe21bf9348f1330ccd196f93b05",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887659,
             "region_id":85688637,
             "venue_id":203257799
         }
     ],
     "wof:id":203257799,
-    "wof:lastmodified":1472332049,
+    "wof:lastmodified":1485394586,
     "wof:name":"Vivel Cafe",
     "wof:parent_id":85887659,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.916645,37.312474,-121.916645,37.312474",
     "geom:latitude":37.312474,
     "geom:longitude":-121.916645,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922347,
+        420552831,
+        102191575,
+        1108782557,
         85633793,
-        85688637,
-        102081673
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +46,20 @@
     "wof:geomhash":"42712ffe82bb628387a4e0ee9b9f3379",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":420552831,
             "region_id":85688637,
             "venue_id":169522489
         }
     ],
     "wof:id":169522489,
-    "wof:lastmodified":1472333912,
+    "wof:lastmodified":1485395396,
     "wof:name":"Betencor Properties Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.830045,37.228522,-121.830045,37.228522",
     "geom:latitude":37.228522,
     "geom:longitude":-121.830045,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"789035d51aa7febb29e7f1e6bee66e7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":554966007
         }
     ],
     "wof:id":554966007,
-    "wof:lastmodified":1472337558,
+    "wof:lastmodified":1485394754,
     "wof:name":"Data Transit",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

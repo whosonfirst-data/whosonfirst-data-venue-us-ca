@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.811515,37.353603,-121.811515,37.353603",
     "geom:latitude":37.353603,
     "geom:longitude":-121.811515,
@@ -30,12 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        420559639
+        85633793,
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +45,19 @@
     "wof:geomhash":"e5c1d8177719ce72b4a7aa8b47ca63fb",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":555138763
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":420559639,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":555138763
         }
     ],
     "wof:id":555138763,
-    "wof:lastmodified":1472341489,
+    "wof:lastmodified":1485395147,
     "wof:name":"Happy Froggy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

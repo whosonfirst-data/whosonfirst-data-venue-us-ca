@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.991675,37.284409,-121.991675,37.284409",
     "geom:latitude":37.284409,
     "geom:longitude":-121.991675,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887527,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887527
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"061e0958c48e32eaaa7440fe9ec4668d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887527,
             "region_id":85688637,
             "venue_id":219464459
         }
     ],
     "wof:id":219464459,
-    "wof:lastmodified":1472332270,
+    "wof:lastmodified":1485393782,
     "wof:name":"House Of Haws",
     "wof:parent_id":85887527,
     "wof:placetype":"venue",

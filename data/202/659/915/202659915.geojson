@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.940003,37.265243,-121.940003,37.265243",
     "geom:latitude":37.265243,
     "geom:longitude":-121.940003,
@@ -33,11 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922347,
         102081673,
+        85885729,
         85887593,
-        85885729
+        1108782545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +50,29 @@
     "wof:geomhash":"f9512575709f76deec4c2882049efff3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85887593,
-            "region_id":85688637,
-            "venue_id":202659915
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
             "neighbourhood_id":85885729,
             "region_id":85688637,
             "venue_id":202659915
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85887593,
+            "region_id":85688637,
+            "venue_id":202659915
         }
     ],
     "wof:id":202659915,
-    "wof:lastmodified":1472332254,
+    "wof:lastmodified":1485394452,
     "wof:name":"Associated Appraisers Valorem",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

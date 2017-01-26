@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.885188,37.327482,-121.885188,37.327482",
     "geom:latitude":37.327482,
     "geom:longitude":-121.885188,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887649,
+        102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887649
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"76d38f7ef12d6408940964ef4f48ccf7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887649,
             "region_id":85688637,
             "venue_id":253660109
         }
     ],
     "wof:id":253660109,
-    "wof:lastmodified":1472334797,
+    "wof:lastmodified":1485393996,
     "wof:name":"Beautiful By Design",
     "wof:parent_id":85887649,
     "wof:placetype":"venue",

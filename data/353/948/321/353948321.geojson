@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.90196,37.347155,-121.90196,37.347155",
     "geom:latitude":37.347155,
     "geom:longitude":-121.90196,
@@ -33,12 +34,13 @@
     "sg:website":"www.lindstromlaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887761,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85869195,
-        85887761
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +50,20 @@
     "wof:geomhash":"a8d6bdc4e9b3e222dc552f54349bcb15",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869195,
-            "region_id":85688637,
-            "venue_id":353948321
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887761,
             "region_id":85688637,
             "venue_id":353948321
         }
     ],
     "wof:id":353948321,
-    "wof:lastmodified":1472338572,
+    "wof:lastmodified":1485395341,
     "wof:name":"Lindstrom Law Offices",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

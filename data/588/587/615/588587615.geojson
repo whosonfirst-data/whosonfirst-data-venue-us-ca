@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.862687,37.217777,-121.862687,37.217777",
     "geom:latitude":37.217777,
     "geom:longitude":-121.862687,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"a11a4cba16e8066921b659f7d4054a11",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587615
         }
     ],
     "wof:id":588587615,
-    "wof:lastmodified":1472352394,
+    "wof:lastmodified":1485394688,
     "wof:name":"Serrano Percy DDS",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

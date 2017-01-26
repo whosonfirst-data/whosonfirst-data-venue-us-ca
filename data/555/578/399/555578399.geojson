@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.865149,37.362486,-121.865149,37.362486",
     "geom:latitude":37.362486,
     "geom:longitude":-121.865149,
@@ -33,12 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552511,
         102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        420552511
+        85688637,
+        420552467,
+        85887569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,36 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":420552511,
+            "region_id":85688637,
+            "venue_id":555578399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552467,
+            "region_id":85688637,
+            "venue_id":555578399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":555578399
         }
     ],
     "wof:id":555578399,
-    "wof:lastmodified":1472351720,
+    "wof:lastmodified":1485395092,
     "wof:name":"Royal Foods Company Inc",
-    "wof:parent_id":420552511,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.918974,37.378537,-121.918974,37.378537",
     "geom:latitude":37.378537,
     "geom:longitude":-121.918974,
@@ -34,11 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782553,
         85633793,
         85922347,
-        102081673,
-        85854871,
-        85869195
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,24 +49,17 @@
     "wof:geomhash":"94dfb836b319f4c23bc1fa4630d556da",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85854871,
-            "region_id":85688637,
-            "venue_id":169489997
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85869195,
+            "macrohood_id":1108782553,
             "region_id":85688637,
             "venue_id":169489997
         }
     ],
     "wof:id":169489997,
-    "wof:lastmodified":1472332242,
+    "wof:lastmodified":1485394306,
     "wof:name":"Workbenches Etc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

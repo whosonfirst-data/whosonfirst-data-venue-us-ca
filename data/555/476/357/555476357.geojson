@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.814164,37.352469,-121.814164,37.352469",
     "geom:latitude":37.352469,
     "geom:longitude":-121.814164,
@@ -33,12 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        420559365
+        85633793,
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,26 +48,19 @@
     "wof:geomhash":"7216d524f060f6e034719588f5c51de6",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":555476357
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":420559365,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":555476357
         }
     ],
     "wof:id":555476357,
-    "wof:lastmodified":1472350829,
+    "wof:lastmodified":1485395028,
     "wof:name":"Modern Maintenance Janitorial",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

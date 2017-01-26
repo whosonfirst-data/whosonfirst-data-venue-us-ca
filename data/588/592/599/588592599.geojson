@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.933751,37.274644,-121.933751,37.274644",
     "geom:latitude":37.274644,
     "geom:longitude":-121.933751,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885741,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85885741
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,18 @@
     "wof:geomhash":"7e0ab0f8e932a65c19b2c2fdb747895f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85885741,
             "region_id":85688637,
             "venue_id":588592599
         }
     ],
     "wof:id":588592599,
-    "wof:lastmodified":1472352382,
+    "wof:lastmodified":1485395879,
     "wof:name":"Manley's Donut Shop",
     "wof:parent_id":85885741,
     "wof:placetype":"venue",

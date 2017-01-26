@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.834043,37.36087,-121.834043,37.36087",
     "geom:latitude":37.36087,
     "geom:longitude":-121.834043,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
-        85925491,
-        102081673,
         85802961,
-        85882409
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +49,20 @@
     "wof:geomhash":"129a2e60e17bfa1de0212cfb63bc00a6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925491,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85802961,
-            "region_id":85688637,
-            "venue_id":353932043
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85925491,
-            "neighbourhood_id":85882409,
             "region_id":85688637,
             "venue_id":353932043
         }
     ],
     "wof:id":353932043,
-    "wof:lastmodified":1472337561,
+    "wof:lastmodified":1485395023,
     "wof:name":"Quyen T Duong PC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85802961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

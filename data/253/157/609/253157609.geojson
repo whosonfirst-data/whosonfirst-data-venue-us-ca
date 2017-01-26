@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.90838,37.332268,-121.90838,37.332268",
     "geom:latitude":37.332268,
     "geom:longitude":-121.90838,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673,
-        85887751
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"f77c7b9e21c998538687726b4dfad638",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887751,
+            "macrohood_id":1108782557,
             "region_id":85688637,
             "venue_id":253157609
         }
     ],
     "wof:id":253157609,
-    "wof:lastmodified":1472331796,
+    "wof:lastmodified":1485396019,
     "wof:name":"Villa Residential Care Home",
-    "wof:parent_id":85887751,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

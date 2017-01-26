@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.849189,37.355812,-121.849189,37.355812",
     "geom:latitude":37.355812,
     "geom:longitude":-121.849189,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552745,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        420552697
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"cc6407a2924794dc1f5d1076020ae9a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552745,
+            "region_id":85688637,
+            "venue_id":354140429
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552697,
             "region_id":85688637,
             "venue_id":354140429
         }
     ],
     "wof:id":354140429,
-    "wof:lastmodified":1472333495,
+    "wof:lastmodified":1485395121,
     "wof:name":"Daniel's Auto Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

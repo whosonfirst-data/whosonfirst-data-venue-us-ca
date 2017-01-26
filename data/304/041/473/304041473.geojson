@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.830305,37.326829,-121.830305,37.326829",
     "geom:latitude":37.326829,
     "geom:longitude":-121.830305,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552507,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        420552707
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"16dc5eb976c4768b313eacdfdc9d7c92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552507,
+            "region_id":85688637,
+            "venue_id":304041473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552707,
             "region_id":85688637,
             "venue_id":304041473
         }
     ],
     "wof:id":304041473,
-    "wof:lastmodified":1472331117,
+    "wof:lastmodified":1485395064,
     "wof:name":"San Jose Fire Station 16",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

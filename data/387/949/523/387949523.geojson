@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.843794,37.235218,-121.843794,37.235218",
     "geom:latitude":37.235218,
     "geom:longitude":-121.843794,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887623,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887623
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"87ac685a4cb81c5f8df58bb56db5d21c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887623,
             "region_id":85688637,
             "venue_id":387949523
         }
     ],
     "wof:id":387949523,
-    "wof:lastmodified":1472351229,
+    "wof:lastmodified":1485394717,
     "wof:name":"G&G Fencing",
     "wof:parent_id":85887623,
     "wof:placetype":"venue",

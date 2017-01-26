@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.777471,37.242494,-121.777471,37.242494",
     "geom:latitude":37.242494,
     "geom:longitude":-121.777471,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887725,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887725
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"e73fe191e75445d75e2ba262a0d3f418",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887725,
             "region_id":85688637,
             "venue_id":185819855
         }
     ],
     "wof:id":185819855,
-    "wof:lastmodified":1472332553,
+    "wof:lastmodified":1485394786,
     "wof:name":"Pleasure Pools",
     "wof:parent_id":85887725,
     "wof:placetype":"venue",

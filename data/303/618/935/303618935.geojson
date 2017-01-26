@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.897629,37.400895,-121.897629,37.400895",
     "geom:latitude":37.400895,
     "geom:longitude":-121.897629,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887671,
+        102191575,
+        1108782553,
         85633793,
-        85922371,
+        85922347,
         102081673,
-        85887671
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"b5fce565f053583c0e4cebdf6eec434a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922371,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887671,
             "region_id":85688637,
             "venue_id":303618935
         }
     ],
     "wof:id":303618935,
-    "wof:lastmodified":1472335421,
+    "wof:lastmodified":1485394295,
     "wof:name":"Pacific Pulmonary Svc",
     "wof:parent_id":85887671,
     "wof:placetype":"venue",

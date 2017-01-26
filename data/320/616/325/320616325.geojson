@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.889897,37.332077,-121.889897,37.332077",
     "geom:latitude":37.332077,
     "geom:longitude":-121.889897,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552885,
+        102191575,
+        1108782551,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"0be0f25028cd50317a1444eae69f7084",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":420552885,
             "region_id":85688637,
             "venue_id":320616325
         }
     ],
     "wof:id":320616325,
-    "wof:lastmodified":1472335904,
+    "wof:lastmodified":1485393997,
     "wof:name":"Pulte Homes Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

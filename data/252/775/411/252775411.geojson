@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.909993,37.327094,-121.909993,37.327094",
     "geom:latitude":37.327094,
     "geom:longitude":-121.909993,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865447,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85865447
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"b53bf1202d8b6cf4b2170ccea9e0e8c4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85865447,
             "region_id":85688637,
             "venue_id":252775411
         }
     ],
     "wof:id":252775411,
-    "wof:lastmodified":1472331168,
+    "wof:lastmodified":1485395360,
     "wof:name":"Sheri's House Cleaning",
     "wof:parent_id":85865447,
     "wof:placetype":"venue",

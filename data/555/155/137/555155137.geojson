@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.824144,37.238493,-121.824144,37.238493",
     "geom:latitude":37.238493,
     "geom:longitude":-121.824144,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"001130318e2cb3510c8e1b9f2e774b88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":555155137
         }
     ],
     "wof:id":555155137,
-    "wof:lastmodified":1472341890,
+    "wof:lastmodified":1485394448,
     "wof:name":"Deborah Kuhs",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

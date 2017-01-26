@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.835719,37.254287,-121.835719,37.254287",
     "geom:latitude":37.254287,
     "geom:longitude":-121.835719,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887757,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887757
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"538b814fc0ab13a4c5a068527aab2805",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887757,
             "region_id":85688637,
             "venue_id":169622071
         }
     ],
     "wof:id":169622071,
-    "wof:lastmodified":1472334804,
+    "wof:lastmodified":1485394752,
     "wof:name":"Autospection",
     "wof:parent_id":85887757,
     "wof:placetype":"venue",

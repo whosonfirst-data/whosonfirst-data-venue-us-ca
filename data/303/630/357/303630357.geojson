@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.960126,37.323105,-121.960126,37.323105",
     "geom:latitude":37.323105,
     "geom:longitude":-121.960126,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887571,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887571
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"b0dbdf2d610e6811af6e373c2a76b2a8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887571,
             "region_id":85688637,
             "venue_id":303630357
         }
     ],
     "wof:id":303630357,
-    "wof:lastmodified":1472335430,
+    "wof:lastmodified":1485393776,
     "wof:name":"Greater Opportunities For The",
     "wof:parent_id":85887571,
     "wof:placetype":"venue",

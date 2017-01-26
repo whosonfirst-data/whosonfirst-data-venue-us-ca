@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.830968,37.236782,-121.830968,37.236782",
     "geom:latitude":37.236782,
     "geom:longitude":-121.830968,
@@ -40,10 +41,13 @@
     "sg:website":"www.bistrotupaz.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,18 @@
     "wof:geomhash":"d28ad03a44a63fb78403c1963d10b6cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":588591259
         }
     ],
     "wof:id":588591259,
-    "wof:lastmodified":1472352205,
+    "wof:lastmodified":1485394728,
     "wof:name":"Bistro Tupaz",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.809017,37.340714,-121.809017,37.340714",
     "geom:latitude":37.340714,
     "geom:longitude":-121.809017,
@@ -29,9 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552535,
+        102191575,
+        1108782555,
         85633793,
+        85922347,
         102081673,
+        85688637,
+        85925491,
         85865159
     ],
     "wof:breaches":[],
@@ -42,19 +48,29 @@
     "wof:geomhash":"a5a8c7d96a20864c816d0064f78b7be7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552535,
+            "region_id":85688637,
+            "venue_id":270466473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":270466473
         }
     ],
     "wof:id":270466473,
-    "wof:lastmodified":1472334778,
+    "wof:lastmodified":1485394968,
     "wof:name":"Hunter Stump & Tree Service",
-    "wof:parent_id":85865159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.861892,37.219014,-121.861892,37.219014",
     "geom:latitude":37.219014,
     "geom:longitude":-121.861892,
@@ -34,10 +35,13 @@
     "sg:website":"www.metro-propertymanagement.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"8469117a9789dcc4e8a0754a1548a834",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587467
         }
     ],
     "wof:id":588587467,
-    "wof:lastmodified":1472352330,
+    "wof:lastmodified":1485394548,
     "wof:name":"Metro Property Management",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

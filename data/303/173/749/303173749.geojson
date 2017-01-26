@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.839382,37.389049,-121.839382,37.389049",
     "geom:latitude":37.389049,
     "geom:longitude":-121.839382,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552575,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"b6c33213e6c77a2141e499592c3a4ae6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552575,
             "region_id":85688637,
             "venue_id":303173749
         }
     ],
     "wof:id":303173749,
-    "wof:lastmodified":1472332661,
+    "wof:lastmodified":1485395203,
     "wof:name":"Unique Janitorial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

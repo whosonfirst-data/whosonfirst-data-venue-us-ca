@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.889253,37.326553,-121.889253,37.326553",
     "geom:latitude":37.326553,
     "geom:longitude":-121.889253,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887649,
+        102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887649
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a3e29b0ff4a6177eb57e8169fa019bd4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887649,
             "region_id":85688637,
             "venue_id":203399789
         }
     ],
     "wof:id":203399789,
-    "wof:lastmodified":1472333134,
+    "wof:lastmodified":1485393922,
     "wof:name":"Ramirez & Assoc",
     "wof:parent_id":85887649,
     "wof:placetype":"venue",

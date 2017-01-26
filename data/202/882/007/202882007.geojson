@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.863544,37.368558,-121.863544,37.368558",
     "geom:latitude":37.368558,
     "geom:longitude":-121.863544,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887569,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887569
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a6ea150413a3b8e3b2c3d1811249001f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":202882007
         }
     ],
     "wof:id":202882007,
-    "wof:lastmodified":1472333686,
+    "wof:lastmodified":1485395128,
     "wof:name":"Care Resource Network Inc",
     "wof:parent_id":85887569,
     "wof:placetype":"venue",

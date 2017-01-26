@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.886222,37.33438,-121.886222,37.33438",
     "geom:latitude":37.33438,
     "geom:longitude":-121.886222,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887689,
+        102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887689
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"efa3643aa7ced1bab1da44396c49e1aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887689,
             "region_id":85688637,
             "venue_id":371192127
         }
     ],
     "wof:id":371192127,
-    "wof:lastmodified":1472340366,
+    "wof:lastmodified":1485393906,
     "wof:name":"Winters Group",
     "wof:parent_id":85887689,
     "wof:placetype":"venue",

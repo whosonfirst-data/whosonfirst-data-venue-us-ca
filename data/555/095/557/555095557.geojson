@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.837039,37.376795,-121.837039,37.376795",
     "geom:latitude":37.376795,
     "geom:longitude":-121.837039,
@@ -32,14 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85802961,
         102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887587,
-        85925491,
-        85802961
+        85688637,
+        85887587
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +54,8 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887587,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85802961,
             "region_id":85688637,
             "venue_id":555095557
         },
@@ -61,16 +63,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925491,
-            "neighbourhood_id":85802961,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887587,
             "region_id":85688637,
             "venue_id":555095557
         }
     ],
     "wof:id":555095557,
-    "wof:lastmodified":1472340788,
+    "wof:lastmodified":1485395017,
     "wof:name":"P Wells Enterprises Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

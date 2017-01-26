@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.897756,37.345909,-121.897756,37.345909",
     "geom:latitude":37.345909,
     "geom:longitude":-121.897756,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887761,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887761
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"8c76f081bcf6c226f54d5f85985b6c34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887761,
             "region_id":85688637,
             "venue_id":370306119
         }
     ],
     "wof:id":370306119,
-    "wof:lastmodified":1472339335,
+    "wof:lastmodified":1485395994,
     "wof:name":"Better Tax Svc",
     "wof:parent_id":85887761,
     "wof:placetype":"venue",

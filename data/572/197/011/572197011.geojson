@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.819003,37.354282,-121.819003,37.354282",
     "geom:latitude":37.354282,
     "geom:longitude":-121.819003,
@@ -34,12 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        420552669
+        85633793,
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,26 +49,19 @@
     "wof:geomhash":"91bde1ca7abb4234febb83dd75dc0baf",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":572197011
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":420552669,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":572197011
         }
     ],
     "wof:id":572197011,
-    "wof:lastmodified":1472343415,
+    "wof:lastmodified":1485395094,
     "wof:name":"Baskin-Robbins",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

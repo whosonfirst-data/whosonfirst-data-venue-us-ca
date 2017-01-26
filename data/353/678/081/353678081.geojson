@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.926316,37.335712,-121.926316,37.335712",
     "geom:latitude":37.335712,
     "geom:longitude":-121.926316,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887551,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887551
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9805e1d09c0a4a9da9a0950175e5ff9c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887551,
             "region_id":85688637,
             "venue_id":353678081
         }
     ],
     "wof:id":353678081,
-    "wof:lastmodified":1472334586,
+    "wof:lastmodified":1485395385,
     "wof:name":"Arthritis Care Ctr",
     "wof:parent_id":85887551,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.868779,37.234269,-121.868779,37.234269",
     "geom:latitude":37.234269,
     "geom:longitude":-121.868779,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887611,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887611
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"70298909ff9e03dda868c214500194f6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887611,
             "region_id":85688637,
             "venue_id":169639321
         }
     ],
     "wof:id":169639321,
-    "wof:lastmodified":1472334888,
+    "wof:lastmodified":1485394843,
     "wof:name":"Jt Residential Care Facilities",
     "wof:parent_id":85887611,
     "wof:placetype":"venue",

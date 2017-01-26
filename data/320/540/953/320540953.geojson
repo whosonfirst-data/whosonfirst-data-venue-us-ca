@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.776909,37.244716,-121.776909,37.244716",
     "geom:latitude":37.244716,
     "geom:longitude":-121.776909,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887725,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887725
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"49aad22269e36c74ef9daef95d3c3d63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887725,
             "region_id":85688637,
             "venue_id":320540953
         }
     ],
     "wof:id":320540953,
-    "wof:lastmodified":1472335692,
+    "wof:lastmodified":1485394713,
     "wof:name":"Cal Nor Trees",
     "wof:parent_id":85887725,
     "wof:placetype":"venue",

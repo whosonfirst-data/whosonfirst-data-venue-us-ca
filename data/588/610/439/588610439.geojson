@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.800861,37.348341,-121.800861,37.348341",
     "geom:latitude":37.348341,
     "geom:longitude":-121.800861,
@@ -30,12 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        420559375
+        85633793,
+        85925491,
+        102081673,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,26 +45,19 @@
     "wof:geomhash":"b0722d279de8e08a793e01bd13840501",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":588610439
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":420559375,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":588610439
         }
     ],
     "wof:id":588610439,
-    "wof:lastmodified":1472352559,
+    "wof:lastmodified":1485390929,
     "wof:name":"Mt Pleasant School District",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

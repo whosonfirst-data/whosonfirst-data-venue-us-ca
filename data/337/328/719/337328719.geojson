@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.913747,37.333009,-121.913747,37.333009",
     "geom:latitude":37.333009,
     "geom:longitude":-121.913747,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887601,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"3db8928c7bd31f674d4379e9cc6361e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85887601,
             "region_id":85688637,
             "venue_id":337328719
         }
     ],
     "wof:id":337328719,
-    "wof:lastmodified":1472331002,
+    "wof:lastmodified":1485396062,
     "wof:name":"Prolink Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

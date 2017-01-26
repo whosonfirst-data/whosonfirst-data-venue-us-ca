@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.792999,37.315601,-121.792999,37.315601",
     "geom:latitude":37.315601,
     "geom:longitude":-121.792999,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85818341,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"aa8e3f0b24ba3270bea66c0ff24706ba",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85818341,
             "region_id":85688637,
             "venue_id":588610039
         }
     ],
     "wof:id":588610039,
-    "wof:lastmodified":1472352522,
+    "wof:lastmodified":1485395071,
     "wof:name":"Taro Sushi Boat",
     "wof:parent_id":85818341,
     "wof:placetype":"venue",

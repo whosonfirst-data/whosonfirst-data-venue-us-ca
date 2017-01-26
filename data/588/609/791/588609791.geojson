@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.782645,37.260256,-121.782645,37.260256",
     "geom:latitude":37.260256,
     "geom:longitude":-121.782645,
@@ -31,10 +32,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673,
-        85869637
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +46,19 @@
     "wof:geomhash":"565c58768a7ac52a59bbebfa3cada09a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869637,
+            "macrohood_id":1108782545,
             "region_id":85688637,
             "venue_id":588609791
         }
     ],
     "wof:id":588609791,
-    "wof:lastmodified":1472352641,
+    "wof:lastmodified":1485394774,
     "wof:name":"Intero Real Estate - Silver Creek Office",
-    "wof:parent_id":85869637,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

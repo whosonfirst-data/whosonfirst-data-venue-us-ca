@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.881737,37.291664,-121.881737,37.291664",
     "geom:latitude":37.291664,
     "geom:longitude":-121.881737,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887609,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887609
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"5c16c7e8d93bb99fc4a9914aae002291",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887609,
             "region_id":85688637,
             "venue_id":270452359
         }
     ],
     "wof:id":270452359,
-    "wof:lastmodified":1472334744,
+    "wof:lastmodified":1485395334,
     "wof:name":"Giovanni Tripodi",
     "wof:parent_id":85887609,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.977581,37.309059,-121.977581,37.309059",
     "geom:latitude":37.309059,
     "geom:longitude":-121.977581,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673,
-        85869779
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +45,19 @@
     "wof:geomhash":"5bfe793e145230c17b4459efa3765c1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869779,
+            "macrohood_id":1108782547,
             "region_id":85688637,
             "venue_id":253490137
         }
     ],
     "wof:id":253490137,
-    "wof:lastmodified":1472334066,
+    "wof:lastmodified":1485393742,
     "wof:name":"TNT Truck N Tractor",
-    "wof:parent_id":85869779,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

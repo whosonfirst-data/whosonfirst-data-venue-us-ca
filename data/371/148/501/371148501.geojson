@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.97404,37.280467,-121.97404,37.280467",
     "geom:latitude":37.280467,
     "geom:longitude":-121.97404,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885737,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85885737
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"047a886cd3d3e659b8ddac1ecaee94f5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85885737,
             "region_id":85688637,
             "venue_id":371148501
         }
     ],
     "wof:id":371148501,
-    "wof:lastmodified":1472339971,
+    "wof:lastmodified":1485393707,
     "wof:name":"Joseph W Kaminski & Assoc",
     "wof:parent_id":85885737,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.851286,37.307844,-121.851286,37.307844",
     "geom:latitude":37.307844,
     "geom:longitude":-121.851286,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887515,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887515
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"e96eaf8bac4eef35e5a797aa4faafcf3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887515,
             "region_id":85688637,
             "venue_id":253039363
         }
     ],
     "wof:id":253039363,
-    "wof:lastmodified":1472331098,
+    "wof:lastmodified":1485396068,
     "wof:name":"PSI",
     "wof:parent_id":85887515,
     "wof:placetype":"venue",

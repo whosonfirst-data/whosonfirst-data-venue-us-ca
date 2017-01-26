@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.00253,37.306062,-122.00253,37.306062",
     "geom:latitude":37.306062,
     "geom:longitude":-122.00253,
@@ -33,9 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922347,
-        102081673
+        85922341,
+        102081673,
+        85843771,
+        420552735,
+        1108782547,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,29 @@
     "wof:geomhash":"4b62f1404169116fc873deaab4f360ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922341,
+            "neighbourhood_id":85843771,
+            "region_id":85688637,
+            "venue_id":169800521
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":420552735,
             "region_id":85688637,
             "venue_id":169800521
         }
     ],
     "wof:id":169800521,
-    "wof:lastmodified":1472335309,
+    "wof:lastmodified":1485393850,
     "wof:name":"Allgrand Company",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

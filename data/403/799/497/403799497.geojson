@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.93496,37.262168,-121.93496,37.262168",
     "geom:latitude":37.262168,
     "geom:longitude":-121.93496,
@@ -33,12 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885729,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
+        85688637,
         85887593,
-        85885729
+        1108782545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +52,30 @@
     "wof:geomhash":"b8429cc2940114864b166ee19713f942",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887593,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85885729,
             "region_id":85688637,
             "venue_id":403799497
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85885729,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85887593,
             "region_id":85688637,
             "venue_id":403799497
         }
     ],
     "wof:id":403799497,
-    "wof:lastmodified":1472340376,
+    "wof:lastmodified":1485395812,
     "wof:name":"PCS Smart Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

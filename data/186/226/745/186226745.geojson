@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.829724,37.290056,-121.829724,37.290056",
     "geom:latitude":37.290056,
     "geom:longitude":-121.829724,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552725,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"b6895f4ed1240372221e42e501edef0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552725,
             "region_id":85688637,
             "venue_id":186226745
         }
     ],
     "wof:id":186226745,
-    "wof:lastmodified":1472331132,
+    "wof:lastmodified":1485394654,
     "wof:name":"Melos Hauling",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552725,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

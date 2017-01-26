@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.83058,37.235098,-121.83058,37.235098",
     "geom:latitude":37.235098,
     "geom:longitude":-121.83058,
@@ -33,10 +34,13 @@
     "sg:website":"sths.ca.campusgrid.net/home",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85882413,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"be84cceb3814c748db792a36b3a0d75c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85882413,
             "region_id":85688637,
             "venue_id":588591363
         }
     ],
     "wof:id":588591363,
-    "wof:lastmodified":1472352263,
+    "wof:lastmodified":1485394750,
     "wof:name":"Santa Teresa High School",
     "wof:parent_id":85882413,
     "wof:placetype":"venue",

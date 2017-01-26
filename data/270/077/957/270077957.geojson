@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894358,37.340274,-121.894358,37.340274",
     "geom:latitude":37.340274,
     "geom:longitude":-121.894358,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782551,
         85633793,
         85922347,
-        102081673,
-        85887577
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"24fa9c60d1e08b9910a2ae7c8c1387a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887577,
+            "macrohood_id":1108782551,
             "region_id":85688637,
             "venue_id":270077957
         }
     ],
     "wof:id":270077957,
-    "wof:lastmodified":1472332049,
+    "wof:lastmodified":1485394001,
     "wof:name":"Park Townsend",
-    "wof:parent_id":85887577,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

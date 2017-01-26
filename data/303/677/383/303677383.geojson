@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.861979,37.313016,-121.861979,37.313016",
     "geom:latitude":37.313016,
     "geom:longitude":-121.861979,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887515,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887515
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,17 +55,18 @@
     "wof:geomhash":"450b24e5456ec8328350861c92a89380",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887515,
             "region_id":85688637,
             "venue_id":303677383
         }
     ],
     "wof:id":303677383,
-    "wof:lastmodified":1472335544,
+    "wof:lastmodified":1485396084,
     "wof:name":"3 M Auto Dismantlers",
     "wof:parent_id":85887515,
     "wof:placetype":"venue",

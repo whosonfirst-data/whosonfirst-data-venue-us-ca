@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.789665,37.347843,-121.789665,37.347843",
     "geom:latitude":37.347843,
     "geom:longitude":-121.789665,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85865159,
-        102081673
+        102081673,
+        420552813,
+        85925491,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +52,27 @@
     "wof:geomhash":"58effaa60d715334c33b33ce3529d7f7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "neighbourhood_id":420552813,
+            "region_id":85688637,
+            "venue_id":588610367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":588610367
         }
     ],
     "wof:id":588610367,
-    "wof:lastmodified":1472352528,
+    "wof:lastmodified":1485389343,
     "wof:name":"Shilarna Skin Spa",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

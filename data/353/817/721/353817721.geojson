@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.972143,37.320557,-121.972143,37.320557",
     "geom:latitude":37.320557,
     "geom:longitude":-121.972143,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887669,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887669
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"307dfbe92d841310e58700b5f7c59e44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887669,
             "region_id":85688637,
             "venue_id":353817721
         }
     ],
     "wof:id":353817721,
-    "wof:lastmodified":1472335978,
+    "wof:lastmodified":1485393690,
     "wof:name":"Bangkok Garden Thai Cuisine",
     "wof:parent_id":85887669,
     "wof:placetype":"venue",

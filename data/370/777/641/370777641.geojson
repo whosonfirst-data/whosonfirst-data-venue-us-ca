@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.925098,37.30577,-121.925098,37.30577",
     "geom:latitude":37.30577,
     "geom:longitude":-121.925098,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673,
-        85820785
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +50,19 @@
     "wof:geomhash":"6c94c523e7e09806cc7029a90e94bdd3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85820785,
+            "macrohood_id":1108782557,
             "region_id":85688637,
             "venue_id":370777641
         }
     ],
     "wof:id":370777641,
-    "wof:lastmodified":1472343927,
+    "wof:lastmodified":1485395724,
     "wof:name":"Tran's Auto Glass",
-    "wof:parent_id":85820785,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

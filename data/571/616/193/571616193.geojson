@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.807431,37.358045,-121.807431,37.358045",
     "geom:latitude":37.358045,
     "geom:longitude":-121.807431,
@@ -34,12 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
-        85922347,
-        85887557
+        85633793,
+        85925491,
+        102081673,
+        85865159,
+        85887557,
+        1108782555,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,8 +52,10 @@
     "wof:geomhash":"5bec1bf867982d3c09d6a7ecd646be89",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":571616193
@@ -60,15 +65,16 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887557,
             "region_id":85688637,
             "venue_id":571616193
         }
     ],
     "wof:id":571616193,
-    "wof:lastmodified":1472341924,
+    "wof:lastmodified":1485395043,
     "wof:name":"Relco Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

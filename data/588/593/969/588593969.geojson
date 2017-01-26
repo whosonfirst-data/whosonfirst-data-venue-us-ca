@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.930478,37.264564,-121.930478,37.264564",
     "geom:latitude":37.264564,
     "geom:longitude":-121.930478,
@@ -29,12 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885729,
         102191575,
+        1108782557,
         85633793,
-        85925497,
+        85922347,
         102081673,
-        85887685
+        85688637,
+        85887685,
+        1108782545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +51,27 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925497,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85885729,
+            "region_id":85688637,
+            "venue_id":588593969
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887685,
             "region_id":85688637,
             "venue_id":588593969
         }
     ],
     "wof:id":588593969,
-    "wof:lastmodified":1472352479,
+    "wof:lastmodified":1485395527,
     "wof:name":"A Tyson Loving Care Preschool A T.L.C. Preschool",
-    "wof:parent_id":85887685,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

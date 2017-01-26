@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.789188,37.257055,-121.789188,37.257055",
     "geom:latitude":37.257055,
     "geom:longitude":-121.789188,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673,
-        85869637
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +45,19 @@
     "wof:geomhash":"c33a81b8acf939a9ecf4d82c4872a4d0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869637,
+            "macrohood_id":1108782545,
             "region_id":85688637,
             "venue_id":588609741
         }
     ],
     "wof:id":588609741,
-    "wof:lastmodified":1472352624,
+    "wof:lastmodified":1485394750,
     "wof:name":"Bernal Family Dentistry",
-    "wof:parent_id":85869637,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

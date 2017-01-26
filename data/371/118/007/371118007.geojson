@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.910913,37.342355,-121.910913,37.342355",
     "geom:latitude":37.342355,
     "geom:longitude":-121.910913,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887601,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85869195,
-        85887601
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +51,20 @@
     "wof:geomhash":"f1bfdbb36319e76849a5790d7de072a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85869195,
-            "region_id":85688637,
-            "venue_id":371118007
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887601,
             "region_id":85688637,
             "venue_id":371118007
         }
     ],
     "wof:id":371118007,
-    "wof:lastmodified":1472339327,
+    "wof:lastmodified":1485395543,
     "wof:name":"Unity Electronics",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

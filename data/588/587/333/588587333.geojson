@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.863345,37.222111,-121.863345,37.222111",
     "geom:latitude":37.222111,
     "geom:longitude":-121.863345,
@@ -30,10 +31,13 @@
     "sg:website":"www.themercyhillchurch.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"64dcc085aafd1b7fcdb531b6a680e0b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587333
         }
     ],
     "wof:id":588587333,
-    "wof:lastmodified":1472352305,
+    "wof:lastmodified":1485394552,
     "wof:name":"Mercy Hill Church",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

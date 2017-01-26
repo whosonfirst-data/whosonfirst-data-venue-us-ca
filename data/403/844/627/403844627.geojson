@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.782588,37.24646,-121.782588,37.24646",
     "geom:latitude":37.24646,
     "geom:longitude":-121.782588,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887725,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887725
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"26dd0315e084734a19d25e3a3ebd14df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887725,
             "region_id":85688637,
             "venue_id":403844627
         }
     ],
     "wof:id":403844627,
-    "wof:lastmodified":1472341057,
+    "wof:lastmodified":1485394666,
     "wof:name":"CHI RHO Tuning",
     "wof:parent_id":85887725,
     "wof:placetype":"venue",

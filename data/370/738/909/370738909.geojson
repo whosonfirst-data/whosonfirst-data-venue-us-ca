@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.875423,37.263414,-121.875423,37.263414",
     "geom:latitude":37.263414,
     "geom:longitude":-121.875423,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887755,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887755
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"b35f854e502dae00175174c6b13ca7d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887755,
             "region_id":85688637,
             "venue_id":370738909
         }
     ],
     "wof:id":370738909,
-    "wof:lastmodified":1472343615,
+    "wof:lastmodified":1485394707,
     "wof:name":"Enterprise Industry & Lgl Svc",
     "wof:parent_id":85887755,
     "wof:placetype":"venue",

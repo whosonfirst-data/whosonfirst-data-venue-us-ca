@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.925859,37.301531,-121.925859,37.301531",
     "geom:latitude":37.301531,
     "geom:longitude":-121.925859,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887573,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887573
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,18 @@
     "wof:geomhash":"692a6410d0c2731105ea6baa94435e9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887573,
             "region_id":85688637,
             "venue_id":387360289
         }
     ],
     "wof:id":387360289,
-    "wof:lastmodified":1472342592,
+    "wof:lastmodified":1485395999,
     "wof:name":"Stock Investment",
     "wof:parent_id":85887573,
     "wof:placetype":"venue",

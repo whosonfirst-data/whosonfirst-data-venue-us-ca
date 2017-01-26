@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.864437,37.221217,-121.864437,37.221217",
     "geom:latitude":37.221217,
     "geom:longitude":-121.864437,
@@ -33,10 +34,13 @@
     "sg:website":"www.ert360.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869071,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +50,18 @@
     "wof:geomhash":"3ebe01bf59e0af416a348978387c398a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
             "region_id":85688637,
             "venue_id":588587705
         }
     ],
     "wof:id":588587705,
-    "wof:lastmodified":1472352402,
+    "wof:lastmodified":1485394641,
     "wof:name":"ERT Inc",
     "wof:parent_id":85869071,
     "wof:placetype":"venue",

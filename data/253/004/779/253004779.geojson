@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.808725,37.258085,-121.808725,37.258085",
     "geom:latitude":37.258085,
     "geom:longitude":-121.808725,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85817315,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85817315
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"83edb0e72dc52abe0f7e39c448e7b9b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85817315,
             "region_id":85688637,
             "venue_id":253004779
         }
     ],
     "wof:id":253004779,
-    "wof:lastmodified":1472330967,
+    "wof:lastmodified":1485394836,
     "wof:name":"A G Publications Svc",
     "wof:parent_id":85817315,
     "wof:placetype":"venue",

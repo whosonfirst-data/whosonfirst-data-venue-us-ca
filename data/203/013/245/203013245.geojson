@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.814323,37.291437,-121.814323,37.291437",
     "geom:latitude":37.291437,
     "geom:longitude":-121.814323,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887745,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887745
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b6a39359c79b29efe92005e6ecdd4cff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887745,
             "region_id":85688637,
             "venue_id":203013245
         }
     ],
     "wof:id":203013245,
-    "wof:lastmodified":1472330947,
+    "wof:lastmodified":1485394740,
     "wof:name":"Milky Way Realty LLC",
     "wof:parent_id":85887745,
     "wof:placetype":"venue",

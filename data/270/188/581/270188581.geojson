@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.916765,37.310619,-121.916765,37.310619",
     "geom:latitude":37.310619,
     "geom:longitude":-121.916765,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673,
-        85820785
+        102081673
     ],
     "wof:brand_id":420573997,
     "wof:breaches":[],
@@ -47,19 +49,19 @@
     "wof:geomhash":"dcdb42dc92e32a77a59009f681f2156d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85820785,
+            "macrohood_id":1108782557,
             "region_id":85688637,
             "venue_id":270188581
         }
     ],
     "wof:id":270188581,
-    "wof:lastmodified":1472333122,
+    "wof:lastmodified":1485395397,
     "wof:name":"Kmart",
-    "wof:parent_id":85820785,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

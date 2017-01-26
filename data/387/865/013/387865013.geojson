@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.863654,37.27823,-121.863654,37.27823",
     "geom:latitude":37.27823,
     "geom:longitude":-121.863654,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887663,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887663
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"c90e714602bb5281e19a092425677608",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887663,
             "region_id":85688637,
             "venue_id":387865013
         }
     ],
     "wof:id":387865013,
-    "wof:lastmodified":1472350464,
+    "wof:lastmodified":1485396138,
     "wof:name":"Mountain Shadows",
     "wof:parent_id":85887663,
     "wof:placetype":"venue",

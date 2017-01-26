@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.835249,37.244227,-121.835249,37.244227",
     "geom:latitude":37.244227,
     "geom:longitude":-121.835249,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552587,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:brand_id":420573799,
     "wof:breaches":[],
@@ -46,19 +50,20 @@
     "wof:geomhash":"b11ec35fc1fda842b7641ac67b33b1f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552587,
             "region_id":85688637,
             "venue_id":370776039
         }
     ],
     "wof:id":370776039,
-    "wof:lastmodified":1472343865,
+    "wof:lastmodified":1485394837,
     "wof:name":"Church Of Jesus Christ Of Lds",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

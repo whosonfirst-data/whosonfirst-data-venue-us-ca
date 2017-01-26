@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.808422,37.310429,-121.808422,37.310429",
     "geom:latitude":37.310429,
     "geom:longitude":-121.808422,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887517,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887517
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"4316f73a755b73f41bc3f4b5c3806b7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887517,
             "region_id":85688637,
             "venue_id":236801591
         }
     ],
     "wof:id":236801591,
-    "wof:lastmodified":1472335017,
+    "wof:lastmodified":1485395040,
     "wof:name":"K&R Travel",
     "wof:parent_id":85887517,
     "wof:placetype":"venue",

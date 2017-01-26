@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.88958,37.338671,-121.88958,37.338671",
     "geom:latitude":37.338671,
     "geom:longitude":-121.88958,
@@ -34,7 +35,10 @@
         85633793,
         85922347,
         102081673,
-        85887689
+        85887627,
+        85887689,
+        1108782551,
+        85887617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,34 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "neighbourhood_id":85887627,
+            "region_id":85688637,
+            "venue_id":571932619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887689,
+            "region_id":85688637,
+            "venue_id":571932619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "neighbourhood_id":85887617,
             "region_id":85688637,
             "venue_id":571932619
         }
     ],
     "wof:id":571932619,
-    "wof:lastmodified":1472349979,
+    "wof:lastmodified":1485393967,
     "wof:name":"Recreation & Community Svcs",
-    "wof:parent_id":85887689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

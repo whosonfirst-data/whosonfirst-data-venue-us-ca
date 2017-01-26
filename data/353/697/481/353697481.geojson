@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.777895,37.238147,-121.777895,37.238147",
     "geom:latitude":37.238147,
     "geom:longitude":-121.777895,
@@ -36,10 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552823,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:brand_id":420575619,
     "wof:breaches":[],
@@ -50,19 +54,20 @@
     "wof:geomhash":"bb596de09989f9f50335011b7930f4c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552823,
             "region_id":85688637,
             "venue_id":353697481
         }
     ],
     "wof:id":353697481,
-    "wof:lastmodified":1472335064,
+    "wof:lastmodified":1485394714,
     "wof:name":"Motorola",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552823,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.771107,37.329184,-121.771107,37.329184",
     "geom:latitude":37.329184,
     "geom:longitude":-121.771107,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887665,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"62137ebb6f87d3c7fbcb161223d6db2b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887665,
             "region_id":85688637,
             "venue_id":555304165
         }
     ],
     "wof:id":555304165,
-    "wof:lastmodified":1472344115,
+    "wof:lastmodified":1485395257,
     "wof:name":"Fastpak Cargo",
     "wof:parent_id":85887665,
     "wof:placetype":"venue",

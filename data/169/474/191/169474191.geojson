@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.783262,37.221897,-121.783262,37.221897",
     "geom:latitude":37.221897,
     "geom:longitude":-121.783262,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887529,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"e2f1e3aaeba194b795f591a5c87be032",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887529,
             "region_id":85688637,
             "venue_id":169474191
         }
     ],
     "wof:id":169474191,
-    "wof:lastmodified":1472331938,
+    "wof:lastmodified":1485394806,
     "wof:name":"J Tolentino Roofing Co",
     "wof:parent_id":85887529,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.98296,37.287708,-121.98296,37.287708",
     "geom:latitude":37.287708,
     "geom:longitude":-121.98296,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887545,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887545
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,17 +58,18 @@
     "wof:geomhash":"be84e7fc1b19a2d8a29cb39aed76df0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887545,
             "region_id":85688637,
             "venue_id":219317297
         }
     ],
     "wof:id":219317297,
-    "wof:lastmodified":1472331526,
+    "wof:lastmodified":1485393812,
     "wof:name":"Giovanna's Custom Draperies",
     "wof:parent_id":85887545,
     "wof:placetype":"venue",

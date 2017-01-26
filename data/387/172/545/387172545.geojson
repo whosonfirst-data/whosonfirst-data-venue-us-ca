@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.879001,37.321592,-121.879001,37.321592",
     "geom:latitude":37.321592,
     "geom:longitude":-121.879001,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887677,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887677
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"9b8733ea7f7b848f9a735a72d1c84a42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887677,
             "region_id":85688637,
             "venue_id":387172545
         }
     ],
     "wof:id":387172545,
-    "wof:lastmodified":1472341229,
+    "wof:lastmodified":1485395850,
     "wof:name":"SCHAD Electronic Supplies",
     "wof:parent_id":85887677,
     "wof:placetype":"venue",

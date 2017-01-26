@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.86037,37.365747,-121.86037,37.365747",
     "geom:latitude":37.365747,
     "geom:longitude":-121.86037,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552511,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887695
+        85688637,
+        85887695,
+        85887569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,40 @@
     "wof:geomhash":"01632b012483cbf0b2c322a9ca867e40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552511,
+            "region_id":85688637,
+            "venue_id":269766997
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887695,
+            "region_id":85688637,
+            "venue_id":269766997
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":269766997
         }
     ],
     "wof:id":269766997,
-    "wof:lastmodified":1472333394,
+    "wof:lastmodified":1485395276,
     "wof:name":"Center The Fab",
-    "wof:parent_id":85887695,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

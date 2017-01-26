@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.860386,37.366642,-121.860386,37.366642",
     "geom:latitude":37.366642,
     "geom:longitude":-121.860386,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887695,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887695,
+        85688637,
         85887569
     ],
     "wof:breaches":[],
@@ -48,28 +51,30 @@
     "wof:geomhash":"90ca08a308e67fb865f54dcbea073126",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887695,
             "region_id":85688637,
             "venue_id":403739105
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":403739105
         }
     ],
     "wof:id":403739105,
-    "wof:lastmodified":1472338901,
+    "wof:lastmodified":1485395276,
     "wof:name":"Georestoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

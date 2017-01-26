@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.796793,37.324674,-121.796793,37.324674",
     "geom:latitude":37.324674,
     "geom:longitude":-121.796793,
@@ -35,10 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552569,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,20 @@
     "wof:geomhash":"416a422a0dd0222a232f7b07ed548afe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552569,
             "region_id":85688637,
             "venue_id":370395435
         }
     ],
     "wof:id":370395435,
-    "wof:lastmodified":1472340655,
+    "wof:lastmodified":1485395162,
     "wof:name":"Magat Video Rental",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

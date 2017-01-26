@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.88897,37.255535,-121.88897,37.255535",
     "geom:latitude":37.255535,
     "geom:longitude":-121.88897,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552539,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,20 @@
     "wof:geomhash":"5c588b65c5d6c4f3fab1a796ab4d3f47",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552539,
             "region_id":85688637,
             "venue_id":253245453
         }
     ],
     "wof:id":253245453,
-    "wof:lastmodified":1472332607,
+    "wof:lastmodified":1485394527,
     "wof:name":"E & D Roofing",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

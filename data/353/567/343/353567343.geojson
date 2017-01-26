@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.79671,37.309095,-121.79671,37.309095",
     "geom:latitude":37.309095,
     "geom:longitude":-121.79671,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552699,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"c2d3b0edece9f2cc6e96809aed086807",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552699,
             "region_id":85688637,
             "venue_id":353567343
         }
     ],
     "wof:id":353567343,
-    "wof:lastmodified":1472332888,
+    "wof:lastmodified":1485395188,
     "wof:name":"Catillo Landscaping",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

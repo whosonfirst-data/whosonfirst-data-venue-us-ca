@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.869919,37.398893,-121.869919,37.398893",
     "geom:latitude":37.398893,
     "geom:longitude":-121.869919,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887521,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887521
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b0f5749dde3bb8812d9350ffdff1476c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887521,
             "region_id":85688637,
             "venue_id":319830287
         }
     ],
     "wof:id":319830287,
-    "wof:lastmodified":1472330986,
+    "wof:lastmodified":1485394253,
     "wof:name":"R Z Properties",
     "wof:parent_id":85887521,
     "wof:placetype":"venue",

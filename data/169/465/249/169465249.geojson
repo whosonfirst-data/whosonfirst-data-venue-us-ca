@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.848335,37.288452,-121.848335,37.288452",
     "geom:latitude":37.288452,
     "geom:longitude":-121.848335,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673,
-        85830449
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +49,19 @@
     "wof:geomhash":"c63f55d80292a24f586223435b303c41",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85830449,
+            "macrohood_id":1108782557,
             "region_id":85688637,
             "venue_id":169465249
         }
     ],
     "wof:id":169465249,
-    "wof:lastmodified":1472331959,
+    "wof:lastmodified":1485395663,
     "wof:name":"Amtech Lighting Svc",
-    "wof:parent_id":85830449,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

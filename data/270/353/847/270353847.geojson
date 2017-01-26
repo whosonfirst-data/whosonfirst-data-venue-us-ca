@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.912522,37.252429,-121.912522,37.252429",
     "geom:latitude":37.252429,
     "geom:longitude":-121.912522,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887683,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887683
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"b81c6f48f958fac68f63af96c0b790b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887683,
             "region_id":85688637,
             "venue_id":270353847
         }
     ],
     "wof:id":270353847,
-    "wof:lastmodified":1472334510,
+    "wof:lastmodified":1485394558,
     "wof:name":"Proto A Go Go",
     "wof:parent_id":85887683,
     "wof:placetype":"venue",

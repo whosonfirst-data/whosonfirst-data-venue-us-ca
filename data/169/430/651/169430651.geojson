@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.941859,37.250541,-121.941859,37.250541",
     "geom:latitude":37.250541,
     "geom:longitude":-121.941859,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922347,
+        420552561,
+        102191575,
+        1108782545,
         85633793,
-        85688637,
-        102081673
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,20 @@
     "wof:geomhash":"7749b5e50904e205eb75536b4f4166d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552561,
             "region_id":85688637,
             "venue_id":169430651
         }
     ],
     "wof:id":169430651,
-    "wof:lastmodified":1472330978,
+    "wof:lastmodified":1485394533,
     "wof:name":"Cire Investments Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552561,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

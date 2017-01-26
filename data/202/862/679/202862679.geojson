@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.823997,37.259606,-121.823997,37.259606",
     "geom:latitude":37.259606,
     "geom:longitude":-121.823997,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869123,
+        102191575,
+        1108782545,
         85633793,
+        85922347,
         102081673,
-        85869123
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,18 @@
     "wof:geomhash":"89a286b933d363a15cc3f0ef09441227",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869123,
             "region_id":85688637,
             "venue_id":202862679
         }
     ],
     "wof:id":202862679,
-    "wof:lastmodified":1472333535,
+    "wof:lastmodified":1485394753,
     "wof:name":"Server Solutions Inc",
     "wof:parent_id":85869123,
     "wof:placetype":"venue",

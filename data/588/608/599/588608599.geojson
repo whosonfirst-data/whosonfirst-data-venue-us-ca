@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.750685,37.287782,-121.750685,37.287782",
     "geom:latitude":37.287782,
     "geom:longitude":-121.750685,
@@ -30,10 +31,13 @@
     "sg:website":"kencarrolltermitecompany.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869653,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"ae77324afd895d88ecbc37e8f2b5365c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
             "region_id":85688637,
             "venue_id":588608599
         }
     ],
     "wof:id":588608599,
-    "wof:lastmodified":1472352536,
+    "wof:lastmodified":1485395132,
     "wof:name":"Ken Carroll Termite",
     "wof:parent_id":85869653,
     "wof:placetype":"venue",

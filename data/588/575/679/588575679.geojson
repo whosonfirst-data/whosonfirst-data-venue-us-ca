@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.722878,37.200619,-121.722878,37.200619",
     "geom:latitude":37.200619,
     "geom:longitude":-121.722878,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85849581,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"cd5bb83d61503b2790a178db38bf5873",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85849581,
             "region_id":85688637,
             "venue_id":588575679
         }
     ],
     "wof:id":588575679,
-    "wof:lastmodified":1472352095,
+    "wof:lastmodified":1485394441,
     "wof:name":"Hong Kong Kitchen",
     "wof:parent_id":85849581,
     "wof:placetype":"venue",

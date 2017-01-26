@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.949494,37.323168,-121.949494,37.323168",
     "geom:latitude":37.323168,
     "geom:longitude":-121.949494,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887937,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887937
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"498a9ead8b1b92b9c0a302f8c3ab126e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887937,
             "region_id":85688637,
             "venue_id":386934121
         }
     ],
     "wof:id":386934121,
-    "wof:lastmodified":1472337310,
+    "wof:lastmodified":1485395721,
     "wof:name":"KAZA",
     "wof:parent_id":85887937,
     "wof:placetype":"venue",

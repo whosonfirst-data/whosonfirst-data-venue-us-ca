@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.81803,37.259933,-121.81803,37.259933",
     "geom:latitude":37.259933,
     "geom:longitude":-121.81803,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552611,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637,
+        420552683,
+        420552613
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,40 @@
     "wof:geomhash":"8a74da681b1c771e76721f8b70a3adca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552611,
+            "region_id":85688637,
+            "venue_id":353987827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552683,
+            "region_id":85688637,
+            "venue_id":353987827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552613,
             "region_id":85688637,
             "venue_id":353987827
         }
     ],
     "wof:id":353987827,
-    "wof:lastmodified":1472340047,
+    "wof:lastmodified":1485394550,
     "wof:name":"Joes Used Cars",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

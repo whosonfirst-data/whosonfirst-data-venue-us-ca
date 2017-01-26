@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.803147,37.355539,-121.803147,37.355539",
     "geom:latitude":37.355539,
     "geom:longitude":-121.803147,
@@ -33,11 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85925491,
         102081673,
         85865159,
-        85922347,
-        85887557
+        85887557,
+        1108782555,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +51,29 @@
     "wof:geomhash":"da8eb41c3dbcc893c1f1ef96878b2d7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":270499711
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887557,
             "region_id":85688637,
             "venue_id":270499711
         }
     ],
     "wof:id":270499711,
-    "wof:lastmodified":1472334856,
+    "wof:lastmodified":1485395039,
     "wof:name":"Silver Creek Congregation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

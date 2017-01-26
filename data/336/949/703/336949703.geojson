@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.020656,37.306589,-122.020656,37.306589",
     "geom:latitude":37.306589,
     "geom:longitude":-122.020656,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552489,
+        102191575,
+        1108782547,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"2b3c530d394021442eb15f3cd39766e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":420552489,
             "region_id":85688637,
             "venue_id":336949703
         }
     ],
     "wof:id":336949703,
-    "wof:lastmodified":1472333793,
+    "wof:lastmodified":1485393795,
     "wof:name":"Binary Source Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552489,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

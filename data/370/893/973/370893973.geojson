@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.86014,37.261286,-121.86014,37.261286",
     "geom:latitude":37.261286,
     "geom:longitude":-121.86014,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887509,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887509
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"9ed2dda1c34cdef4761e854da07dec56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887509,
             "region_id":85688637,
             "venue_id":370893973
         }
     ],
     "wof:id":370893973,
-    "wof:lastmodified":1472344769,
+    "wof:lastmodified":1485394648,
     "wof:name":"ACI Svc",
     "wof:parent_id":85887509,
     "wof:placetype":"venue",

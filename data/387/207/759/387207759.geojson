@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.844088,37.382095,-121.844088,37.382095",
     "geom:latitude":37.382095,
     "geom:longitude":-121.844088,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552751,
+        102191575,
+        1108782555,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,20 @@
     "wof:geomhash":"4a47db3529f8ca95f7ef0ab57f5aacef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":420552751,
             "region_id":85688637,
             "venue_id":387207759
         }
     ],
     "wof:id":387207759,
-    "wof:lastmodified":1472341467,
+    "wof:lastmodified":1485395258,
     "wof:name":"Lorrie Residential Care Hm II",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

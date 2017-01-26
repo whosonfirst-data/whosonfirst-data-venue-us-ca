@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.846484,37.297322,-121.846484,37.297322",
     "geom:latitude":37.297322,
     "geom:longitude":-121.846484,
@@ -30,10 +31,13 @@
     "sg:website":"www.trenchfree.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887489,
-        102081673
+        102191575,
+        1108782557,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"123895a4dcb543b381fb3c49fb9ff071",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887489,
             "region_id":85688637,
             "venue_id":588575751
         }
     ],
     "wof:id":588575751,
-    "wof:lastmodified":1472352109,
+    "wof:lastmodified":1485395815,
     "wof:name":"Trenchfree",
     "wof:parent_id":85887489,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.828545,37.286562,-121.828545,37.286562",
     "geom:latitude":37.286562,
     "geom:longitude":-121.828545,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865161,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85865161
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"ffcd93be30a9904515cb3d6ff744f3e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85865161,
             "region_id":85688637,
             "venue_id":387230045
         }
     ],
     "wof:id":387230045,
-    "wof:lastmodified":1472341996,
+    "wof:lastmodified":1485394469,
     "wof:name":"Antique Limousine Service",
     "wof:parent_id":85865161,
     "wof:placetype":"venue",

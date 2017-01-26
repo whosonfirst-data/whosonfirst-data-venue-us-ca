@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.722235,37.19982,-121.722235,37.19982",
     "geom:latitude":37.19982,
     "geom:longitude":-121.722235,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85849581,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"0469e0c490bfbf08ec51e8330341cb93",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85849581,
             "region_id":85688637,
             "venue_id":588556459
         }
     ],
     "wof:id":588556459,
-    "wof:lastmodified":1472351789,
+    "wof:lastmodified":1485394657,
     "wof:name":"Encinal Elementary School",
     "wof:parent_id":85849581,
     "wof:placetype":"venue",

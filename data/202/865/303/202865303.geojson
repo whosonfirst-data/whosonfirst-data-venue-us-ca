@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.887618,37.347264,-121.887618,37.347264",
     "geom:latitude":37.347264,
     "geom:longitude":-121.887618,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887769,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887769
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"bcd1aa7711e7253c4a260c3c1d856004",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887769,
             "region_id":85688637,
             "venue_id":202865303
         }
     ],
     "wof:id":202865303,
-    "wof:lastmodified":1472333596,
+    "wof:lastmodified":1485395983,
     "wof:name":"North Bay Concrete",
     "wof:parent_id":85887769,
     "wof:placetype":"venue",

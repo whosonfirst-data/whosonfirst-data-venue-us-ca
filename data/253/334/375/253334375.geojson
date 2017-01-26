@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.924607,37.268773,-121.924607,37.268773",
     "geom:latitude":37.268773,
     "geom:longitude":-121.924607,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887579,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887579
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"c55c64bd51783f8c84321cec4d495495",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887579,
             "region_id":85688637,
             "venue_id":253334375
         }
     ],
     "wof:id":253334375,
-    "wof:lastmodified":1472333274,
+    "wof:lastmodified":1485395362,
     "wof:name":"Digital Typography & Design",
     "wof:parent_id":85887579,
     "wof:placetype":"venue",

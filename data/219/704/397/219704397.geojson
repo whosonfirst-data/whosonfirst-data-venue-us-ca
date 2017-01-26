@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.874273,37.33161,-121.874273,37.33161",
     "geom:latitude":37.33161,
     "geom:longitude":-121.874273,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887689,
+        102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887559
+        85688637,
+        85887733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,29 @@
     "wof:geomhash":"c0ec3d7a96e7679704ddd17afeb9e140",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887559,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":85887689,
+            "region_id":85688637,
+            "venue_id":219704397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "neighbourhood_id":85887733,
             "region_id":85688637,
             "venue_id":219704397
         }
     ],
     "wof:id":219704397,
-    "wof:lastmodified":1472333740,
+    "wof:lastmodified":1485393893,
     "wof:name":"South Bay Piping Industry",
-    "wof:parent_id":85887559,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

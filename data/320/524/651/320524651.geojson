@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.935575,37.361034,-121.935575,37.361034",
     "geom:latitude":37.361034,
     "geom:longitude":-121.935575,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102527529,
+        85869525,
+        102191575,
         85633793,
         85922341,
         102081673,
-        85869525
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +50,8 @@
     "wof:geomhash":"92089bbb2a05b9055dfc10a5d22a19a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102527529,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922341,
@@ -57,9 +61,9 @@
         }
     ],
     "wof:id":320524651,
-    "wof:lastmodified":1472335645,
+    "wof:lastmodified":1485389101,
     "wof:name":"Resale Warehouse",
-    "wof:parent_id":85869525,
+    "wof:parent_id":102527529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

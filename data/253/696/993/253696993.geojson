@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.954389,37.298871,-121.954389,37.298871",
     "geom:latitude":37.298871,
     "geom:longitude":-121.954389,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552721,
+        102191575,
+        1108782557,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"49742130106ef3edcbe30b31df17eb09",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":420552721,
             "region_id":85688637,
             "venue_id":253696993
         }
     ],
     "wof:id":253696993,
-    "wof:lastmodified":1472335093,
+    "wof:lastmodified":1485395996,
     "wof:name":"Shersons",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552721,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

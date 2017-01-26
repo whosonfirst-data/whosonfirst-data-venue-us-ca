@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.840446,37.341777,-121.840446,37.341777",
     "geom:latitude":37.341777,
     "geom:longitude":-121.840446,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869383,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85869383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"2e78349d6a39c754f261e1fa2d464a83",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869383,
             "region_id":85688637,
             "venue_id":320647441
         }
     ],
     "wof:id":320647441,
-    "wof:lastmodified":1472336099,
+    "wof:lastmodified":1485395249,
     "wof:name":"Shakey's Pizza Restaurant",
     "wof:parent_id":85869383,
     "wof:placetype":"venue",

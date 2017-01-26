@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.821754,37.31048,-121.821754,37.31048",
     "geom:latitude":37.31048,
     "geom:longitude":-121.821754,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887735,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887735
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"48abc457b636b0c196c63b758ae66f68",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887735,
             "region_id":85688637,
             "venue_id":185699857
         }
     ],
     "wof:id":185699857,
-    "wof:lastmodified":1472331188,
+    "wof:lastmodified":1485395087,
     "wof:name":"St Victor Care Home",
     "wof:parent_id":85887735,
     "wof:placetype":"venue",

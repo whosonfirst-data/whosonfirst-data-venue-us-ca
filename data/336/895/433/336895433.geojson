@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.776841,37.251806,-121.776841,37.251806",
     "geom:latitude":37.251806,
     "geom:longitude":-121.776841,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887725,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85887725
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"2a39c1345c0f3f61a33c554f24194a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887725,
             "region_id":85688637,
             "venue_id":336895433
         }
     ],
     "wof:id":336895433,
-    "wof:lastmodified":1472333219,
+    "wof:lastmodified":1485394714,
     "wof:name":"Almaden Valley Window Washing",
     "wof:parent_id":85887725,
     "wof:placetype":"venue",

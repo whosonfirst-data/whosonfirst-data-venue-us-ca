@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.831551,37.241992,-121.831551,37.241992",
     "geom:latitude":37.241992,
     "geom:longitude":-121.831551,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552849,
+        102191575,
+        1108782545,
         85633793,
         85922347,
-        102081673
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,20 @@
     "wof:geomhash":"f0a580b93fd9ba0e65fa26b2fc3ecdde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552849,
             "region_id":85688637,
             "venue_id":202437111
         }
     ],
     "wof:id":202437111,
-    "wof:lastmodified":1472331081,
+    "wof:lastmodified":1485394753,
     "wof:name":"San Jose Fire Station 12",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.750421,37.285455,-121.750421,37.285455",
     "geom:latitude":37.285455,
     "geom:longitude":-121.750421,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869653,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +51,18 @@
     "wof:geomhash":"aed26e526becc2e9d9d1d0f7e57a986c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
             "region_id":85688637,
             "venue_id":555712769
         }
     ],
     "wof:id":555712769,
-    "wof:lastmodified":1472352750,
+    "wof:lastmodified":1485395200,
     "wof:name":"Carroll's Canine Coiffures",
     "wof:parent_id":85869653,
     "wof:placetype":"venue",

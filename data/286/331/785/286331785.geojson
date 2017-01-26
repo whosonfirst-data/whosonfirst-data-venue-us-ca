@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.715425,37.193329,-121.715425,37.193329",
     "geom:latitude":37.193329,
     "geom:longitude":-121.715425,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922347,
-        102081673
+        102081673,
+        85841341,
+        85849581,
+        1108782545,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"ce7082e3b9d71d1586a410e4dcd653b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "neighbourhood_id":85841341,
+            "region_id":85688637,
+            "venue_id":286331785
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85849581,
             "region_id":85688637,
             "venue_id":286331785
         }
     ],
     "wof:id":286331785,
-    "wof:lastmodified":1472331624,
+    "wof:lastmodified":1485394534,
     "wof:name":"Go Kids Club At Encinal",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

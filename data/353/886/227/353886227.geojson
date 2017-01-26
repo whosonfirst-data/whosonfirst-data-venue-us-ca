@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.848089,37.312153,-121.848089,37.312153",
     "geom:latitude":37.312153,
     "geom:longitude":-121.848089,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887501,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887501
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,17 +51,18 @@
     "wof:geomhash":"1bb3971653c2f68fc40297d3706428c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887501,
             "region_id":85688637,
             "venue_id":353886227
         }
     ],
     "wof:id":353886227,
-    "wof:lastmodified":1472336367,
+    "wof:lastmodified":1485395349,
     "wof:name":"De Haro Ramirez Group",
     "wof:parent_id":85887501,
     "wof:placetype":"venue",

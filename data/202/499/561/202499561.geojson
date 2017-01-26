@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.009149,37.305412,-122.009149,37.305412",
     "geom:latitude":37.305412,
     "geom:longitude":-122.009149,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887631,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85887631
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"6b834f1d801a2aa61e676f94f4009c66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887631,
             "region_id":85688637,
             "venue_id":202499561
         }
     ],
     "wof:id":202499561,
-    "wof:lastmodified":1472331201,
+    "wof:lastmodified":1485393793,
     "wof:name":"Logosys",
     "wof:parent_id":85887631,
     "wof:placetype":"venue",

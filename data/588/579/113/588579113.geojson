@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.875,37.332699,-121.875,37.332699",
     "geom:latitude":37.332699,
     "geom:longitude":-121.875,
@@ -40,13 +41,13 @@
     "sg:website":"www.chalateco.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887689,
         102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887559,
-        85887689
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,24 +61,16 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
-            "neighbourhood_id":85887559,
-            "region_id":85688637,
-            "venue_id":588579113
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887689,
             "region_id":85688637,
             "venue_id":588579113
         }
     ],
     "wof:id":588579113,
-    "wof:lastmodified":1472351952,
+    "wof:lastmodified":1485393985,
     "wof:name":"Chalateco",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887689,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

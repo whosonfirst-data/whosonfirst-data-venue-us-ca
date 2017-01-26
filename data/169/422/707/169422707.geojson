@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.872557,37.329215,-121.872557,37.329215",
     "geom:latitude":37.329215,
     "geom:longitude":-121.872557,
@@ -30,11 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922347,
         102081673,
-        85887733,
-        85887559
+        85887733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,26 +45,19 @@
     "wof:geomhash":"db41b4466c4b60a12ce86c7a667ceff5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
             "neighbourhood_id":85887733,
             "region_id":85688637,
             "venue_id":169422707
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85887559,
-            "region_id":85688637,
-            "venue_id":169422707
         }
     ],
     "wof:id":169422707,
-    "wof:lastmodified":1472330947,
+    "wof:lastmodified":1485393954,
     "wof:name":"Jerry Pena",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887733,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

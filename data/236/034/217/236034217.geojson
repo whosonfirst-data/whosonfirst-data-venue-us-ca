@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.8711,37.351042,-121.8711,37.351042",
     "geom:latitude":37.351042,
     "geom:longitude":-121.8711,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869435,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85869435
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"f4b31d5975fe2450d0a8f496c7ac2aea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869435,
             "region_id":85688637,
             "venue_id":236034217
         }
     ],
     "wof:id":236034217,
-    "wof:lastmodified":1472331049,
+    "wof:lastmodified":1485395976,
     "wof:name":"Frankie's Chinese Food",
     "wof:parent_id":85869435,
     "wof:placetype":"venue",

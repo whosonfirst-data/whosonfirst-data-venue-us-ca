@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.809073,37.309299,-121.809073,37.309299",
     "geom:latitude":37.309299,
     "geom:longitude":-121.809073,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887517,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887517
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"d2e6c44b226c37fb78995a53b0f7c0e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887517,
             "region_id":85688637,
             "venue_id":354323365
         }
     ],
     "wof:id":354323365,
-    "wof:lastmodified":1472335806,
+    "wof:lastmodified":1485395168,
     "wof:name":"Mobilemax Communication",
     "wof:parent_id":85887517,
     "wof:placetype":"venue",

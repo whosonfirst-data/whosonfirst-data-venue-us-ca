@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.754394,37.293334,-121.754394,37.293334",
     "geom:latitude":37.293334,
     "geom:longitude":-121.754394,
@@ -30,10 +31,13 @@
     "sg:website":"www.villageshomeinfo.com/index.html",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85869653,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +47,18 @@
     "wof:geomhash":"7691c3adf954d94856bce00b39989f33",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
             "region_id":85688637,
             "venue_id":588608723
         }
     ],
     "wof:id":588608723,
-    "wof:lastmodified":1472352553,
+    "wof:lastmodified":1485395165,
     "wof:name":"The Villages Golf and Country Club Homes",
     "wof:parent_id":85869653,
     "wof:placetype":"venue",

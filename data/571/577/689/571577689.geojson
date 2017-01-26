@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.829978,37.200353,-121.829978,37.200353",
     "geom:latitude":37.200353,
     "geom:longitude":-121.829978,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887605,
-        102081673
+        102191575,
+        1108782545,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,15 +46,18 @@
     "wof:geomhash":"eddc24c5c53feefc1635b57612839f39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887605,
             "region_id":85688637,
             "venue_id":571577689
         }
     ],
     "wof:id":571577689,
-    "wof:lastmodified":1472341182,
+    "wof:lastmodified":1485394781,
     "wof:name":"Commodore Luggage",
     "wof:parent_id":85887605,
     "wof:placetype":"venue",

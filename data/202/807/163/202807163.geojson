@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.883808,37.327296,-121.883808,37.327296",
     "geom:latitude":37.327296,
     "geom:longitude":-121.883808,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887731,
+        102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887731
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"c01ffeac175c5d728b73c175c70b9d07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
             "neighbourhood_id":85887731,
             "region_id":85688637,
             "venue_id":202807163
         }
     ],
     "wof:id":202807163,
-    "wof:lastmodified":1472333232,
+    "wof:lastmodified":1485393939,
     "wof:name":"Western Office Furniture",
     "wof:parent_id":85887731,
     "wof:placetype":"venue",

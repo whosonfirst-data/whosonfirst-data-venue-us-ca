@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.830544,37.269997,-121.830544,37.269997",
     "geom:latitude":37.269997,
     "geom:longitude":-121.830544,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869123,
+        102191575,
+        1108782545,
         85633793,
+        85922347,
         102081673,
-        85869123
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,18 @@
     "wof:geomhash":"c2d1145c392ef3be8b804c022929c271",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869123,
             "region_id":85688637,
             "venue_id":236555205
         }
     ],
     "wof:id":236555205,
-    "wof:lastmodified":1472334201,
+    "wof:lastmodified":1485394579,
     "wof:name":"Gatsby Auto Performance",
     "wof:parent_id":85869123,
     "wof:placetype":"venue",

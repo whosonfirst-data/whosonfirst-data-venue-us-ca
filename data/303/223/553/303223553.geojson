@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.867065,37.377898,-121.867065,37.377898",
     "geom:latitude":37.377898,
     "geom:longitude":-121.867065,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887563,
+        102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85887563
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"654b9573885492d3b7d1db10f57de54c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887563,
             "region_id":85688637,
             "venue_id":303223553
         }
     ],
     "wof:id":303223553,
-    "wof:lastmodified":1472333148,
+    "wof:lastmodified":1485395271,
     "wof:name":"Evangelistic Impact",
     "wof:parent_id":85887563,
     "wof:placetype":"venue",

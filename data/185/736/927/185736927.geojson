@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.860612,37.281328,-121.860612,37.281328",
     "geom:latitude":37.281328,
     "geom:longitude":-121.860612,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887663,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887663
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"89b84b3dd16c35a806211a9ccd8ba75f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887663,
             "region_id":85688637,
             "venue_id":185736927
         }
     ],
     "wof:id":185736927,
-    "wof:lastmodified":1472331496,
+    "wof:lastmodified":1485395310,
     "wof:name":"Schlesinger Instructions",
     "wof:parent_id":85887663,
     "wof:placetype":"venue",
