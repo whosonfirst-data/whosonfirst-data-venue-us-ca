@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.977973,37.285871,-121.977973,37.285871",
     "geom:latitude":37.285871,
     "geom:longitude":-121.977973,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885737,
+        102191575,
+        1108782547,
         85633793,
         85922347,
         102081673,
-        85885737
+        85688637
     ],
     "wof:brand_id":420574199,
     "wof:breaches":[],
@@ -50,17 +53,18 @@
     "wof:geomhash":"61933c30464fc07ef394997a7eda32d6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85885737,
             "region_id":85688637,
             "venue_id":270132859
         }
     ],
     "wof:id":270132859,
-    "wof:lastmodified":1472332802,
+    "wof:lastmodified":1485458699,
     "wof:name":"Miracle-Ear",
     "wof:parent_id":85885737,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.876665,37.275795,-121.876665,37.275795",
     "geom:latitude":37.275795,
     "geom:longitude":-121.876665,
@@ -29,11 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108778897,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887755
+        85688637,
+        85887755,
+        1108782545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,30 @@
     "wof:geomhash":"d91cab7b8b4aec180337e96ccb8c40ae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":1108778897,
+            "region_id":85688637,
+            "venue_id":253509619
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85887755,
             "region_id":85688637,
             "venue_id":253509619
         }
     ],
     "wof:id":253509619,
-    "wof:lastmodified":1472334259,
+    "wof:lastmodified":1485457656,
     "wof:name":"McHugh Lincoln-Mercury-Isuzu",
-    "wof:parent_id":85887755,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.829551,37.196027,-121.829551,37.196027",
     "geom:latitude":37.196027,
     "geom:longitude":-121.829551,
@@ -33,10 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887605,
+        102191575,
+        1108782545,
         85633793,
+        85922347,
+        102081673,
+        85688637,
         85887541,
-        102081673
+        420552777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +52,38 @@
     "wof:geomhash":"af8ff7c60e3b25abe33450bb88f4cbb7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85887605,
+            "region_id":85688637,
+            "venue_id":555085781
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "neighbourhood_id":85887541,
             "region_id":85688637,
             "venue_id":555085781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":420552777,
+            "region_id":85688637,
+            "venue_id":555085781
         }
     ],
     "wof:id":555085781,
-    "wof:lastmodified":1472340626,
+    "wof:lastmodified":1485458590,
     "wof:name":"Almaden Valley Gymnastic Club",
-    "wof:parent_id":85887541,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

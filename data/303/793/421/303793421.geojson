@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.94861,37.25786,-121.94861,37.25786",
     "geom:latitude":37.25786,
     "geom:longitude":-121.94861,
@@ -32,8 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85887701,
+        102191575,
+        1108782545,
         85633793,
-        85688637
+        85922347,
+        102081673,
+        85688637,
+        85922399,
+        85885739
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +51,29 @@
     "wof:geomhash":"b4cd06ef6c053fd0d9a971a4fab5acac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85887701,
+            "region_id":85688637,
+            "venue_id":303793421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922399,
+            "neighbourhood_id":85885739,
             "region_id":85688637,
             "venue_id":303793421
         }
     ],
     "wof:id":303793421,
-    "wof:lastmodified":1472335923,
+    "wof:lastmodified":1485458529,
     "wof:name":"Retinal Diagnostic Center Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

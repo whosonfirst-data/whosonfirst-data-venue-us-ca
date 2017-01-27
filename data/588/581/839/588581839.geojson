@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.89444,37.334575,-121.89444,37.334575",
     "geom:latitude":37.334575,
     "geom:longitude":-121.89444,
@@ -34,12 +35,15 @@
     "sg:website":"www.amicis.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785777,
         102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887493
+        85688637,
+        85887493,
+        1108782557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":1108785777,
+            "region_id":85688637,
+            "venue_id":588581839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887493,
             "region_id":85688637,
             "venue_id":588581839
         }
     ],
     "wof:id":588581839,
-    "wof:lastmodified":1472352128,
+    "wof:lastmodified":1485458203,
     "wof:name":"Amici's East Coast Pizzeria",
-    "wof:parent_id":85887493,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

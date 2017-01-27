@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.68946,37.154537,-121.68946,37.154537",
     "geom:latitude":37.154537,
     "geom:longitude":-121.68946,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869181,
+        102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85869181
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"98c142ce3d0511f4a551f58e9ba6f02f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869181,
             "region_id":85688637,
             "venue_id":370587399
         }
     ],
     "wof:id":370587399,
-    "wof:lastmodified":1472342667,
+    "wof:lastmodified":1485458651,
     "wof:name":"All Phase Roofing & Raingutter",
     "wof:parent_id":85869181,
     "wof:placetype":"venue",

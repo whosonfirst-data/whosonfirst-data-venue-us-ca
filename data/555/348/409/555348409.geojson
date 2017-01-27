@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.879047,37.36438,-121.879047,37.36438",
     "geom:latitude":37.36438,
     "geom:longitude":-121.879047,
@@ -32,12 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108784859,
         102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887569
+        85688637,
+        85887569,
+        1108782555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +55,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
+            "neighbourhood_id":1108784859,
+            "region_id":85688637,
+            "venue_id":555348409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887569,
             "region_id":85688637,
             "venue_id":555348409
         }
     ],
     "wof:id":555348409,
-    "wof:lastmodified":1472347912,
+    "wof:lastmodified":1485457917,
     "wof:name":"VAC America Inc",
-    "wof:parent_id":85887569,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

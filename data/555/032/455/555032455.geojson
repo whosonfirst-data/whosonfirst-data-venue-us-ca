@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.929107,37.343649,-121.929107,37.343649",
     "geom:latitude":37.343649,
     "geom:longitude":-121.929107,
@@ -39,7 +40,10 @@
         85633793,
         85922341,
         102081673,
-        85869525
+        85869525,
+        1108756901,
+        1108782553,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +60,22 @@
             "neighbourhood_id":85869525,
             "region_id":85688637,
             "venue_id":555032455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
+            "neighbourhood_id":1108756901,
+            "region_id":85688637,
+            "venue_id":555032455
         }
     ],
     "wof:id":555032455,
-    "wof:lastmodified":1472338851,
+    "wof:lastmodified":1485457539,
     "wof:name":"Barbican Professional Consult",
-    "wof:parent_id":85869525,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

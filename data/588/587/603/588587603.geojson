@@ -29,12 +29,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869071,
         102191575,
+        1108782545,
         85633793,
         85922347,
         102081673,
-        85869071
+        85688637,
+        1108751305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782545,
             "neighbourhood_id":85869071,
+            "region_id":85688637,
+            "venue_id":588587603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":1108751305,
             "region_id":85688637,
             "venue_id":588587603
         }
     ],
     "wof:id":588587603,
-    "wof:lastmodified":1485389101,
+    "wof:lastmodified":1485457289,
     "wof:name":"Parma Park",
-    "wof:parent_id":85869071,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

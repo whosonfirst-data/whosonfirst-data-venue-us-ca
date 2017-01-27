@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.880105,37.292245,-121.880105,37.292245",
     "geom:latitude":37.292245,
     "geom:longitude":-121.880105,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108778891,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
+        85688637,
         85887609
     ],
     "wof:brand_id":420573827,
@@ -47,19 +51,30 @@
     "wof:geomhash":"c05b3e2bf500a504d315532bfb3b3485",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":1108778891,
+            "region_id":85688637,
+            "venue_id":269612669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887609,
             "region_id":85688637,
             "venue_id":269612669
         }
     ],
     "wof:id":269612669,
-    "wof:lastmodified":1472331951,
+    "wof:lastmodified":1485457808,
     "wof:name":"McDonalds",
-    "wof:parent_id":85887609,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

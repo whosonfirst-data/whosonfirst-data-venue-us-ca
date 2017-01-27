@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894566,37.334078,-121.894566,37.334078",
     "geom:latitude":37.334078,
     "geom:longitude":-121.894566,
@@ -29,12 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785777,
         102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887493
+        85688637,
+        85887493,
+        1108782557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":1108785777,
+            "region_id":85688637,
+            "venue_id":588581791
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887493,
             "region_id":85688637,
             "venue_id":588581791
         }
     ],
     "wof:id":588581791,
-    "wof:lastmodified":1472352125,
+    "wof:lastmodified":1485458202,
     "wof:name":"Mahl Rehon Walworth & Roberts",
-    "wof:parent_id":85887493,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

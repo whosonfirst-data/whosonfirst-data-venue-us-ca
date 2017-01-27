@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.944081,37.275484,-121.944081,37.275484",
     "geom:latitude":37.275484,
     "geom:longitude":-121.944081,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885741,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85885741
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"123c6954fe5b315d057905e42e42471f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85885741,
             "region_id":85688637,
             "venue_id":337604401
         }
     ],
     "wof:id":337604401,
-    "wof:lastmodified":1472332734,
+    "wof:lastmodified":1485458559,
     "wof:name":"Speed Werks",
     "wof:parent_id":85885741,
     "wof:placetype":"venue",

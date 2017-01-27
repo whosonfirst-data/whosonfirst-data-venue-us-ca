@@ -30,12 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85869653,
         102191575,
+        1108782555,
         85633793,
         85922347,
         102081673,
-        85869653
+        85688637,
+        1108755859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +51,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85869653,
+            "region_id":85688637,
+            "venue_id":236785129
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":1108755859,
             "region_id":85688637,
             "venue_id":236785129
         }
     ],
     "wof:id":236785129,
-    "wof:lastmodified":1485388642,
+    "wof:lastmodified":1485457417,
     "wof:name":"Allstate Insurance",
-    "wof:parent_id":85869653,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

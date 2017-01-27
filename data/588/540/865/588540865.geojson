@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.943798,37.275941,-121.943798,37.275941",
     "geom:latitude":37.275941,
     "geom:longitude":-121.943798,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85885741,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85885741
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"12a637ac51e9e7fdb7e9e8ad94ed39a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85885741,
             "region_id":85688637,
             "venue_id":588540865
         }
     ],
     "wof:id":588540865,
-    "wof:lastmodified":1472351582,
+    "wof:lastmodified":1485458564,
     "wof:name":"Avila Studios",
     "wof:parent_id":85885741,
     "wof:placetype":"venue",

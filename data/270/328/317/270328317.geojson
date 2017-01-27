@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.96217,37.32698,-121.96217,37.32698",
     "geom:latitude":37.32698,
     "geom:longitude":-121.96217,
@@ -33,9 +34,15 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922341,
-        102081673
+        102081673,
+        85833811,
+        85887595,
+        85887571,
+        1108782547,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +52,38 @@
     "wof:geomhash":"94411f7898c14c2039a7400e11276914",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922341,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85833811,
+            "region_id":85688637,
+            "venue_id":270328317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922341,
+            "neighbourhood_id":85887595,
+            "region_id":85688637,
+            "venue_id":270328317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":85887571,
             "region_id":85688637,
             "venue_id":270328317
         }
     ],
     "wof:id":270328317,
-    "wof:lastmodified":1472334344,
+    "wof:lastmodified":1485459157,
     "wof:name":"Jet Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

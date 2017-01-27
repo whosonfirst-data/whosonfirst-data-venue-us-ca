@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894405,37.334047,-121.894405,37.334047",
     "geom:latitude":37.334047,
     "geom:longitude":-121.894405,
@@ -34,12 +35,15 @@
     "sg:website":"www.johngarveylaw.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108785777,
         102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887493
+        85688637,
+        85887493,
+        1108782557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +57,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":1108785777,
+            "region_id":85688637,
+            "venue_id":588582525
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887493,
             "region_id":85688637,
             "venue_id":588582525
         }
     ],
     "wof:id":588582525,
-    "wof:lastmodified":1472352319,
+    "wof:lastmodified":1485458203,
     "wof:name":"Law Offices of John J Garvey III",
-    "wof:parent_id":85887493,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

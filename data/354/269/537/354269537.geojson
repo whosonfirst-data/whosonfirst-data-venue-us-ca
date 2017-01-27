@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.931963,37.325347,-121.931963,37.325347",
     "geom:latitude":37.325347,
     "geom:longitude":-121.931963,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85925487,
+        85925501,
         102081673,
-        85808443
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,26 @@
     "wof:geomhash":"ebfcc3b51cf112a69c01f619cf3e8cc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925487,
-            "neighbourhood_id":85808443,
+            "locality_id":85925501,
+            "region_id":85688637,
+            "venue_id":354269537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
             "region_id":85688637,
             "venue_id":354269537
         }
     ],
     "wof:id":354269537,
-    "wof:lastmodified":1472335531,
+    "wof:lastmodified":1485472248,
     "wof:name":"Immediate Nursing Services",
-    "wof:parent_id":85808443,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

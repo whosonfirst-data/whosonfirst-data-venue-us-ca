@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.802445,37.37667,-121.802445,37.37667",
     "geom:latitude":37.37667,
     "geom:longitude":-121.802445,
@@ -29,13 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
-        85865159,
-        102081673,
+        85887557,
         102191575,
+        1108782555,
+        85633793,
         85922347,
-        85887557
+        102081673,
+        85688637,
+        85925491,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,9 +48,12 @@
     "wof:geomhash":"b1994563fca80001818655f5609c0f7d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "neighbourhood_id":85865159,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":85887557,
             "region_id":85688637,
             "venue_id":554979729
         },
@@ -55,16 +61,16 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "neighbourhood_id":85887557,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":554979729
         }
     ],
     "wof:id":554979729,
-    "wof:lastmodified":1472337781,
+    "wof:lastmodified":1485458841,
     "wof:name":"Jericho Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

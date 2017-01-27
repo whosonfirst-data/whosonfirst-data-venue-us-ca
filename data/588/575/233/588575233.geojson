@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.891989,37.33003,-121.891989,37.33003",
     "geom:latitude":37.33003,
     "geom:longitude":-121.891989,
@@ -33,12 +34,15 @@
     "sg:website":"www.broadwaysanjose.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108782529,
         102191575,
+        1108782551,
         85633793,
         85922347,
         102081673,
-        85887637
+        85688637,
+        85887637,
+        1108782557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +56,26 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782551,
+            "neighbourhood_id":1108782529,
+            "region_id":85688637,
+            "venue_id":588575233
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887637,
             "region_id":85688637,
             "venue_id":588575233
         }
     ],
     "wof:id":588575233,
-    "wof:lastmodified":1472351979,
+    "wof:lastmodified":1485459025,
     "wof:name":"Broadway San Jose",
-    "wof:parent_id":85887637,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

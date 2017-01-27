@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.98477,37.41068,-121.98477,37.41068",
     "geom:latitude":37.41068,
     "geom:longitude":-121.98477,
@@ -34,10 +35,15 @@
     "sg:website":"www.galileolabs.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85802971,
+        102191575,
+        1108782553,
         85633793,
-        85922341,
-        102081673
+        85922347,
+        102081673,
+        85688637,
+        85922333,
+        85881219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +53,29 @@
     "wof:geomhash":"b9b99f8d11a8729d609e0f5f6dbf55a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922341,
-            "neighbourhood_id":-1,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
+            "neighbourhood_id":85802971,
+            "region_id":85688637,
+            "venue_id":303734733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "neighbourhood_id":85881219,
             "region_id":85688637,
             "venue_id":303734733
         }
     ],
     "wof:id":303734733,
-    "wof:lastmodified":1472335706,
+    "wof:lastmodified":1485458919,
     "wof:name":"Galileo Laboratories Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

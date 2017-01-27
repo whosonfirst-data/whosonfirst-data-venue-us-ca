@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.869083,37.35224,-121.869083,37.35224",
     "geom:latitude":37.35224,
     "geom:longitude":-121.869083,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887583,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887583
+        85688637,
+        1108756883
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,30 @@
     "wof:geomhash":"9031f0d8b997511a548468e99063d90b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887583,
+            "region_id":85688637,
+            "venue_id":269754923
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":1108756883,
             "region_id":85688637,
             "venue_id":269754923
         }
     ],
     "wof:id":269754923,
-    "wof:lastmodified":1472333285,
+    "wof:lastmodified":1485457502,
     "wof:name":"Arco",
-    "wof:parent_id":85887583,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

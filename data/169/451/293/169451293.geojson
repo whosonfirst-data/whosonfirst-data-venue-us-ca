@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.843204,37.413135,-121.843204,37.413135",
     "geom:latitude":37.413135,
     "geom:longitude":-121.843204,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887759,
+        102191575,
+        1108782553,
         85633793,
         85922347,
         102081673,
-        85887759
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,16 +51,18 @@
     "wof:geomhash":"1d7aa8a0583648b2b93a8ec06552936f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887759,
             "region_id":85688637,
             "venue_id":169451293
         }
     ],
     "wof:id":169451293,
-    "wof:lastmodified":1472331322,
+    "wof:lastmodified":1485458763,
     "wof:name":"Cobalt Construction",
     "wof:parent_id":85887759,
     "wof:placetype":"venue",

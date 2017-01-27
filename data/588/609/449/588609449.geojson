@@ -31,13 +31,15 @@
     "sg:website":"tacobell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        420552565,
+        1108779223,
         102191575,
-        1108782545,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85688637
+        85688637,
+        420552565,
+        1108782545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +53,16 @@
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":1108779223,
+            "region_id":85688637,
+            "venue_id":588609449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
             "macrohood_id":1108782545,
             "neighbourhood_id":420552565,
             "region_id":85688637,
@@ -58,9 +70,9 @@
         }
     ],
     "wof:id":588609449,
-    "wof:lastmodified":1485395698,
+    "wof:lastmodified":1485457741,
     "wof:name":"Taco Bell/Pizza Hut",
-    "wof:parent_id":420552565,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.891089,37.340703,-121.891089,37.340703",
     "geom:latitude":37.340703,
     "geom:longitude":-121.891089,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887617,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887617
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"bf03eb0f6fab6046a78a5d02b11ece79",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887617,
             "region_id":85688637,
             "venue_id":270481925
         }
     ],
     "wof:id":270481925,
-    "wof:lastmodified":1472334798,
+    "wof:lastmodified":1485459105,
     "wof:name":"Jake Bowman Contract Research",
     "wof:parent_id":85887617,
     "wof:placetype":"venue",

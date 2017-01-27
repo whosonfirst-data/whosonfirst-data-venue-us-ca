@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.888432,37.34318,-121.888432,37.34318",
     "geom:latitude":37.34318,
     "geom:longitude":-121.888432,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887627,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887627
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"c4f2c3000088dc54c072d9d3c66bdaf5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887627,
             "region_id":85688637,
             "venue_id":253420473
         }
     ],
     "wof:id":253420473,
-    "wof:lastmodified":1472333704,
+    "wof:lastmodified":1485459084,
     "wof:name":"Albert Landrum",
     "wof:parent_id":85887627,
     "wof:placetype":"venue",

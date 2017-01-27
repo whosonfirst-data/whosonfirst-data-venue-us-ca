@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.878234,37.359833,-121.878234,37.359833",
     "geom:latitude":37.359833,
     "geom:longitude":-121.878234,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887581,
+        102191575,
+        1108782557,
         85633793,
         85922347,
         102081673,
-        85887581
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"79546f18da3bcbb2f1ba405ac5fb8abb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922347,
+            "macrohood_id":1108782557,
             "neighbourhood_id":85887581,
             "region_id":85688637,
             "venue_id":303136187
         }
     ],
     "wof:id":303136187,
-    "wof:lastmodified":1472332110,
+    "wof:lastmodified":1485459098,
     "wof:name":"Lifechoices Treatment Svc",
     "wof:parent_id":85887581,
     "wof:placetype":"venue",
