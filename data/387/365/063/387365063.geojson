@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.231618,32.739337,-117.231618,32.739337",
     "geom:latitude":32.739337,
     "geom:longitude":-117.231618,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871193,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85871193
+        85688637
     ],
     "wof:brand_id":420573799,
     "wof:breaches":[],
@@ -47,17 +50,18 @@
     "wof:geomhash":"b5171a17a75e591d8fd8e3362ba590db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85871193,
             "region_id":85688637,
             "venue_id":387365063
         }
     ],
     "wof:id":387365063,
-    "wof:lastmodified":1472342641,
+    "wof:lastmodified":1486515041,
     "wof:name":"Church Of Jesus Christ Of Lds",
     "wof:parent_id":85871193,
     "wof:placetype":"venue",

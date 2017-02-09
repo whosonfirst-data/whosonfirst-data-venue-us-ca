@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.225834,32.808079,-117.225834,32.808079",
     "geom:latitude":32.808079,
     "geom:longitude":-117.225834,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922227,
+        85871155,
+        102191575,
+        1108800853,
         85633793,
+        85922227,
+        102083569,
         85688637,
-        102083569
+        85840135
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,29 @@
     "wof:geomhash":"246da2b1f7dbfc3f5c146ed164e48696",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800853,
+            "neighbourhood_id":85871155,
+            "region_id":85688637,
+            "venue_id":169433831
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85840135,
             "region_id":85688637,
             "venue_id":169433831
         }
     ],
     "wof:id":169433831,
-    "wof:lastmodified":1472331018,
+    "wof:lastmodified":1486516931,
     "wof:name":"Austin Office Interiors",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

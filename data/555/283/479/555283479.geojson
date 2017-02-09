@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.020569,32.77236,-117.020569,32.77236",
     "geom:latitude":32.77236,
     "geom:longitude":-117.020569,
@@ -31,16 +32,31 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922251,
+        102083569
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3l4INjB9o2BXYEWpjfJ2Of_32.772360_-117.020569@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"885b95f5fdbfd729a4ebe12e223f612f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922251,
+            "region_id":85688637,
+            "venue_id":555283479
+        }
+    ],
     "wof:id":555283479,
-    "wof:lastmodified":1472343907,
+    "wof:lastmodified":1486498301,
     "wof:name":"Bullseye Custom",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

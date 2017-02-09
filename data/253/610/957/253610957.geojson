@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.089914,32.774273,-117.089914,32.774273",
     "geom:latitude":32.774273,
     "geom:longitude":-117.089914,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108800857,
         85688637,
+        102191575,
+        1108800871,
         85633793,
         85922227,
-        102083569,
-        85887293
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"64138c8c37f6683a142d7fa051278888",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887293,
+            "macrohood_id":1108800871,
+            "microhood_id":1108800857,
             "region_id":85688637,
             "venue_id":253610957
         }
     ],
     "wof:id":253610957,
-    "wof:lastmodified":1472334632,
+    "wof:lastmodified":1486581308,
     "wof:name":"S L Investments",
-    "wof:parent_id":85887293,
+    "wof:parent_id":1108800857,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

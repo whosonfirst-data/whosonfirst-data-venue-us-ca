@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.053617,32.757997,-117.053617,32.757997",
     "geom:latitude":32.757997,
     "geom:longitude":-117.053617,
@@ -36,10 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922251,
+        85922227,
         102083569,
-        85871175
+        85871175,
+        1108802139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,28 @@
     "wof:geomhash":"da76ea9653656a829472c04eaf35b0e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922251,
+            "locality_id":85922227,
             "neighbourhood_id":85871175,
+            "region_id":85688637,
+            "venue_id":253082769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802139,
             "region_id":85688637,
             "venue_id":253082769
         }
     ],
     "wof:id":253082769,
-    "wof:lastmodified":1472331204,
+    "wof:lastmodified":1486515540,
     "wof:name":"Martin Douglas Assoc",
-    "wof:parent_id":85871175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

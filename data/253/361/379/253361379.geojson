@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.235149,32.743985,-117.235149,32.743985",
     "geom:latitude":32.743985,
     "geom:longitude":-117.235149,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871193,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85871193
+        85688637
     ],
     "wof:brand_id":420573767,
     "wof:breaches":[],
@@ -47,17 +50,18 @@
     "wof:geomhash":"8899210fbc30dac1c3334b7b726eba06",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85871193,
             "region_id":85688637,
             "venue_id":253361379
         }
     ],
     "wof:id":253361379,
-    "wof:lastmodified":1472333412,
+    "wof:lastmodified":1486515067,
     "wof:name":"7-Eleven",
     "wof:parent_id":85871193,
     "wof:placetype":"venue",

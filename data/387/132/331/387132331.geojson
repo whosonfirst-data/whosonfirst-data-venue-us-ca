@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.127353,32.6929,-117.127353,32.6929",
     "geom:latitude":32.6929,
     "geom:longitude":-117.127353,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922281,
+        85922227,
         102083569,
-        85867395
+        85867395,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,28 @@
     "wof:geomhash":"c039bfe4dc524bf0add20fe8d496fb0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922281,
+            "locality_id":85922227,
             "neighbourhood_id":85867395,
+            "region_id":85688637,
+            "venue_id":387132331
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":387132331
         }
     ],
     "wof:id":387132331,
-    "wof:lastmodified":1472340731,
+    "wof:lastmodified":1486515504,
     "wof:name":"Coastal Industrial Systems Inc",
-    "wof:parent_id":85867395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

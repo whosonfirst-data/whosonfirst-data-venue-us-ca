@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.146419,32.698806,-117.146419,32.698806",
     "geom:latitude":32.698806,
     "geom:longitude":-117.146419,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85831213,
         102191575,
+        1108802093,
         85633793,
         85922227,
         102083569,
-        85831213
+        85688637,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,25 @@
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802093,
             "neighbourhood_id":85831213,
+            "region_id":85688637,
+            "venue_id":555430351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":555430351
         }
     ],
     "wof:id":555430351,
-    "wof:lastmodified":1472349845,
+    "wof:lastmodified":1486515495,
     "wof:name":"Dorsch Charles Bonded Whse",
-    "wof:parent_id":85831213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

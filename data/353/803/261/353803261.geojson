@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.936076,32.556893,-116.936076,32.556893",
     "geom:latitude":32.556893,
     "geom:longitude":-116.936076,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85867415,
+        102191575,
+        1108802159,
         85633793,
         85922227,
         102083569,
-        85867415
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,17 +54,18 @@
     "wof:geomhash":"409543dd5e69971a5d45ed0a4f5e6608",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802159,
             "neighbourhood_id":85867415,
             "region_id":85688637,
             "venue_id":353803261
         }
     ],
     "wof:id":353803261,
-    "wof:lastmodified":1472335947,
+    "wof:lastmodified":1486515255,
     "wof:name":"Kojo",
     "wof:parent_id":85867415,
     "wof:placetype":"venue",

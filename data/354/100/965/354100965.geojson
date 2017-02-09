@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.15831,32.711503,-117.15831,32.711503",
     "geom:latitude":32.711503,
     "geom:longitude":-117.15831,
@@ -33,10 +34,14 @@
     "sg:website":"www.sas-access.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85866829,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85688637,
+        85871217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"9aeea4e9692630f3a8ddd73e9b98bbea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108801231,
+            "neighbourhood_id":85866829,
+            "region_id":85688637,
+            "venue_id":354100965
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108801231,
+            "neighbourhood_id":85871217,
             "region_id":85688637,
             "venue_id":354100965
         }
     ],
     "wof:id":354100965,
-    "wof:lastmodified":1472332891,
+    "wof:lastmodified":1486514464,
     "wof:name":"SOCAL Access Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

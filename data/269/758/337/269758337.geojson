@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.079466,32.947298,-117.079466,32.947298",
     "geom:latitude":32.947298,
     "geom:longitude":-117.079466,
@@ -38,9 +39,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922233,
+        85922227,
         102083569,
+        1108802141,
         85871147
     ],
     "wof:breaches":[],
@@ -51,19 +54,28 @@
     "wof:geomhash":"d60bb20abc4cafd9e81a9167b08668f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922233,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802141,
+            "region_id":85688637,
+            "venue_id":269758337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
             "neighbourhood_id":85871147,
             "region_id":85688637,
             "venue_id":269758337
         }
     ],
     "wof:id":269758337,
-    "wof:lastmodified":1472333314,
+    "wof:lastmodified":1486515488,
     "wof:name":"Sara Lee",
-    "wof:parent_id":85871147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

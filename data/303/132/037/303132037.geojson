@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.060228,32.757267,-117.060228,32.757267",
     "geom:latitude":32.757267,
     "geom:longitude":-117.060228,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922251,
+        85922227,
         102083569,
-        85871175
+        85871175,
+        1108802139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,28 @@
     "wof:geomhash":"6a0c74e2a48489b83393ad313ecb804d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922251,
+            "locality_id":85922227,
             "neighbourhood_id":85871175,
+            "region_id":85688637,
+            "venue_id":303132037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802139,
             "region_id":85688637,
             "venue_id":303132037
         }
     ],
     "wof:id":303132037,
-    "wof:lastmodified":1472332146,
+    "wof:lastmodified":1486515528,
     "wof:name":"Jla Advertising Design",
-    "wof:parent_id":85871175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.06193,32.664667,-117.06193,32.664667",
     "geom:latitude":32.664667,
     "geom:longitude":-117.06193,
@@ -33,10 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85925305,
+        85922285,
         102083569,
-        85851453
+        85851453,
+        85922243,
+        420552077
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"aa8d3630c2d735db46f637b3c89c86d1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85925305,
+            "locality_id":85922285,
             "neighbourhood_id":85851453,
+            "region_id":85688637,
+            "venue_id":270035979
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922243,
+            "neighbourhood_id":420552077,
             "region_id":85688637,
             "venue_id":270035979
         }
     ],
     "wof:id":270035979,
-    "wof:lastmodified":1472331203,
+    "wof:lastmodified":1486513086,
     "wof:name":"Shiny Cab",
-    "wof:parent_id":85851453,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

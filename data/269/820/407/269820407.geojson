@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.16441,32.710481,-117.16441,32.710481",
     "geom:latitude":32.710481,
     "geom:longitude":-117.16441,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528997,
         85688637,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569,
-        85871131
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"c08508e872e0def6ca39f2c4a5635c41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528997,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85871131,
+            "macrohood_id":1108801231,
             "region_id":85688637,
             "venue_id":269820407
         }
     ],
     "wof:id":269820407,
-    "wof:lastmodified":1472333876,
+    "wof:lastmodified":1486514410,
     "wof:name":"Roberts Ranch Venture LP",
-    "wof:parent_id":85871131,
+    "wof:parent_id":102528997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

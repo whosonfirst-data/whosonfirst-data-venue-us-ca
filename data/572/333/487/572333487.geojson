@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.064717,33.06773,-117.064717,33.06773",
     "geom:latitude":33.06773,
     "geom:longitude":-117.064717,
@@ -48,7 +49,8 @@
         85633793,
         85922227,
         102083569,
-        85843751
+        85843751,
+        85846935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,12 +67,21 @@
             "neighbourhood_id":85843751,
             "region_id":85688637,
             "venue_id":572333487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85846935,
+            "region_id":85688637,
+            "venue_id":572333487
         }
     ],
     "wof:id":572333487,
-    "wof:lastmodified":1472350326,
+    "wof:lastmodified":1486505617,
     "wof:name":"Hodges Golf Learning Center",
-    "wof:parent_id":85843751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.169094,32.721071,-117.169094,32.721071",
     "geom:latitude":32.721071,
     "geom:longitude":-117.169094,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528997,
         85688637,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569,
-        85887345
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"a7568d7d5ad08c032c3ea8357a71cbbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528997,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887345,
+            "macrohood_id":1108801231,
             "region_id":85688637,
             "venue_id":219873329
         }
     ],
     "wof:id":219873329,
-    "wof:lastmodified":1472334448,
+    "wof:lastmodified":1486514336,
     "wof:name":"Dali Racing",
-    "wof:parent_id":85887345,
+    "wof:parent_id":102528997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

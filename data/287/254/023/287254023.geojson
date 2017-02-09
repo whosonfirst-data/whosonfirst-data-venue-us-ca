@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.099685,32.788971,-117.099685,32.788971",
     "geom:latitude":32.788971,
     "geom:longitude":-117.099685,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85822579,
+        102191575,
+        1108801257,
         85633793,
         85922227,
         102083569,
-        85822579
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"e60bcfaf46b9e197dbca90d11d45ac1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801257,
             "neighbourhood_id":85822579,
             "region_id":85688637,
             "venue_id":287254023
         }
     ],
     "wof:id":287254023,
-    "wof:lastmodified":1472333442,
+    "wof:lastmodified":1486514910,
     "wof:name":"American Radio Corp",
     "wof:parent_id":85822579,
     "wof:placetype":"venue",

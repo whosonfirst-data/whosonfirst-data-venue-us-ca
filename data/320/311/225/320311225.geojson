@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.06063,32.729926,-117.06063,32.729926",
     "geom:latitude":32.729926,
     "geom:longitude":-117.06063,
@@ -30,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922247,
+        85922227,
         102083569,
-        85871229
+        85871229,
+        1108802123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,28 @@
     "wof:geomhash":"fcc1409a8215ca107feaae3d956cb756",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922247,
+            "locality_id":85922227,
             "neighbourhood_id":85871229,
+            "region_id":85688637,
+            "venue_id":320311225
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802123,
             "region_id":85688637,
             "venue_id":320311225
         }
     ],
     "wof:id":320311225,
-    "wof:lastmodified":1472334300,
+    "wof:lastmodified":1486515472,
     "wof:name":"Maxine Sherad For Assembly",
-    "wof:parent_id":85871229,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

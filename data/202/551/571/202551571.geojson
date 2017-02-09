@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.075745,32.936928,-117.075745,32.936928",
     "geom:latitude":32.936928,
     "geom:longitude":-117.075745,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922227,
         102083569,
+        1108802141,
         85887301
     ],
     "wof:breaches":[],
@@ -46,7 +49,16 @@
     "wof:geomhash":"33f3ba8c2779e4f19c8c1728eb3cc1f4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802141,
+            "region_id":85688637,
+            "venue_id":202551571
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
@@ -56,9 +68,9 @@
         }
     ],
     "wof:id":202551571,
-    "wof:lastmodified":1472331465,
+    "wof:lastmodified":1486515490,
     "wof:name":"Bella Baby Announcements",
-    "wof:parent_id":85887301,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

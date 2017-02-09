@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.08416,32.589903,-117.08416,32.589903",
     "geom:latitude":32.589903,
     "geom:longitude":-117.08416,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85840237,
+        102191575,
+        1108802159,
         85633793,
         85922227,
         102083569,
-        85840237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"a22fddeb1649a038a3594053f24aedc5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802159,
             "neighbourhood_id":85840237,
             "region_id":85688637,
             "venue_id":185815303
         }
     ],
     "wof:id":185815303,
-    "wof:lastmodified":1472332353,
+    "wof:lastmodified":1486515187,
     "wof:name":"Seasonal Adventures",
     "wof:parent_id":85840237,
     "wof:placetype":"venue",

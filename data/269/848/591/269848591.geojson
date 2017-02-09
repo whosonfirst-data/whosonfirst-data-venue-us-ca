@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.073725,32.942464,-117.073725,32.942464",
     "geom:latitude":32.942464,
     "geom:longitude":-117.073725,
@@ -35,9 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922233,
+        85922227,
         102083569,
+        1108802141,
         85871147
     ],
     "wof:breaches":[],
@@ -48,19 +51,28 @@
     "wof:geomhash":"45a284d8a00e9b3c99672ec2c0c30fb2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922233,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802141,
+            "region_id":85688637,
+            "venue_id":269848591
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
             "neighbourhood_id":85871147,
             "region_id":85688637,
             "venue_id":269848591
         }
     ],
     "wof:id":269848591,
-    "wof:lastmodified":1472334126,
+    "wof:lastmodified":1486515489,
     "wof:name":"Cypress Productions",
-    "wof:parent_id":85871147,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

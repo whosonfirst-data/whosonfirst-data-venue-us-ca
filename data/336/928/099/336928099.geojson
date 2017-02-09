@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.013655,32.795154,-117.013655,32.795154",
     "geom:latitude":32.795154,
     "geom:longitude":-117.013655,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871197,
+        102191575,
+        1108801257,
         85633793,
         85922227,
         102083569,
-        85871197
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"3ebf8d85b1afd41e4483ae0919803e29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801257,
             "neighbourhood_id":85871197,
             "region_id":85688637,
             "venue_id":336928099
         }
     ],
     "wof:id":336928099,
-    "wof:lastmodified":1472333523,
+    "wof:lastmodified":1486514897,
     "wof:name":"Quickscape Ldscp & Maintence",
     "wof:parent_id":85871197,
     "wof:placetype":"venue",

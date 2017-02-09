@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.157527,32.719455,-117.157527,32.719455",
     "geom:latitude":32.719455,
     "geom:longitude":-117.157527,
@@ -34,11 +35,13 @@
     "sg:website":"www.caselighting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528997,
         85688637,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569,
-        85871141
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"b17725e81a32d283c7b82304b91f43f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528997,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85871141,
+            "macrohood_id":1108801231,
             "region_id":85688637,
             "venue_id":370614255
         }
     ],
     "wof:id":370614255,
-    "wof:lastmodified":1472342860,
+    "wof:lastmodified":1486514438,
     "wof:name":"Case Lighting Resources",
-    "wof:parent_id":85871141,
+    "wof:parent_id":102528997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

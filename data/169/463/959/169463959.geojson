@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.053797,32.755316,-117.053797,32.755316",
     "geom:latitude":32.755316,
     "geom:longitude":-117.053797,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922251,
+        85922227,
         102083569,
-        85871175
+        85871175,
+        1108802139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,28 @@
     "wof:geomhash":"4e4c4650d9c85da27a68cd2e0104d12c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922251,
+            "locality_id":85922227,
             "neighbourhood_id":85871175,
+            "region_id":85688637,
+            "venue_id":169463959
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802139,
             "region_id":85688637,
             "venue_id":169463959
         }
     ],
     "wof:id":169463959,
-    "wof:lastmodified":1472331813,
+    "wof:lastmodified":1486515524,
     "wof:name":"Skate Zone Skate Shop",
-    "wof:parent_id":85871175,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

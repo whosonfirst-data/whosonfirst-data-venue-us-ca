@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.230668,32.742226,-117.230668,32.742226",
     "geom:latitude":32.742226,
     "geom:longitude":-117.230668,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871193,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85871193
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"e6b2594fc3066c4ff979027fcb5b5f4c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85871193,
             "region_id":85688637,
             "venue_id":169422693
         }
     ],
     "wof:id":169422693,
-    "wof:lastmodified":1472330947,
+    "wof:lastmodified":1486515051,
     "wof:name":"B Line Express",
     "wof:parent_id":85871193,
     "wof:placetype":"venue",

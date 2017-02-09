@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.213347,32.754009,-117.213347,32.754009",
     "geom:latitude":32.754009,
     "geom:longitude":-117.213347,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85831239,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85831239
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"b4e643ca895c2a5e8674bbc3d2fb113f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85831239,
             "region_id":85688637,
             "venue_id":370245415
         }
     ],
     "wof:id":370245415,
-    "wof:lastmodified":1472338849,
+    "wof:lastmodified":1486518763,
     "wof:name":"Stress Relief",
     "wof:parent_id":85831239,
     "wof:placetype":"venue",

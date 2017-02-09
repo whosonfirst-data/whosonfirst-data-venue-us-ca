@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.16289,32.723537,-117.16289,32.723537",
     "geom:latitude":32.723537,
     "geom:longitude":-117.16289,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528997,
         85688637,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569,
-        85887347
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"f98f24350451f2cca1e09eb4e1b5a913",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102528997,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887347,
+            "macrohood_id":1108801231,
             "region_id":85688637,
             "venue_id":387939913
         }
     ],
     "wof:id":387939913,
-    "wof:lastmodified":1472351143,
+    "wof:lastmodified":1486519234,
     "wof:name":"Martha E Bekken",
-    "wof:parent_id":85887347,
+    "wof:parent_id":102528997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.133756,32.694899,-117.133756,32.694899",
     "geom:latitude":32.694899,
     "geom:longitude":-117.133756,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922281,
+        85922227,
         102083569,
-        85867395
+        85867395,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,28 @@
     "wof:geomhash":"14917f98852bd1e31cbfd5169cdd5461",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922281,
+            "locality_id":85922227,
             "neighbourhood_id":85867395,
+            "region_id":85688637,
+            "venue_id":253514443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":253514443
         }
     ],
     "wof:id":253514443,
-    "wof:lastmodified":1472334279,
+    "wof:lastmodified":1486515499,
     "wof:name":"Shell Service",
-    "wof:parent_id":85867395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

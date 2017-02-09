@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.228116,32.728976,-117.228116,32.728976",
     "geom:latitude":32.728976,
     "geom:longitude":-117.228116,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85819589,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85819589
+        85688637,
+        85846067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,30 @@
     "wof:geomhash":"ce46851a48a6754408d02892140daf25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85819589,
+            "region_id":85688637,
+            "venue_id":303937779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85846067,
             "region_id":85688637,
             "venue_id":303937779
         }
     ],
     "wof:id":303937779,
-    "wof:lastmodified":1472336739,
+    "wof:lastmodified":1486517224,
     "wof:name":"Penny Royal Designs",
-    "wof:parent_id":85819589,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

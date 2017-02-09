@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.092554,32.749617,-117.092554,32.749617",
     "geom:latitude":32.749617,
     "geom:longitude":-117.092554,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887289,
+        102191575,
+        1108800865,
         85633793,
         85922227,
         102083569,
-        85887289
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,16 +50,18 @@
     "wof:geomhash":"b612292c8eeb18552d36f15dd579547e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800865,
             "neighbourhood_id":85887289,
             "region_id":85688637,
             "venue_id":169524679
         }
     ],
     "wof:id":169524679,
-    "wof:lastmodified":1472334004,
+    "wof:lastmodified":1486514207,
     "wof:name":"Nina Aquarium",
     "wof:parent_id":85887289,
     "wof:placetype":"venue",

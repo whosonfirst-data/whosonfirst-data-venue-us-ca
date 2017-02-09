@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.253519,32.719295,-117.253519,32.719295",
     "geom:latitude":32.719295,
     "geom:longitude":-117.253519,
@@ -34,10 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108800851,
+        85851555,
+        102191575,
+        1108802083,
         85633793,
+        85922227,
         102083569,
-        85804141
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,21 @@
     "wof:geomhash":"6fdfeec9e16aed5199a6b6469928df4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":-1,
-            "neighbourhood_id":85804141,
+            "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "microhood_id":1108800851,
+            "neighbourhood_id":85851555,
             "region_id":85688637,
             "venue_id":286799341
         }
     ],
     "wof:id":286799341,
-    "wof:lastmodified":1472335359,
+    "wof:lastmodified":1486601315,
     "wof:name":"Telliard Construction",
-    "wof:parent_id":85804141,
+    "wof:parent_id":1108800851,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

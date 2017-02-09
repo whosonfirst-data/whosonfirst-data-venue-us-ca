@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.140473,32.698836,-117.140473,32.698836",
     "geom:latitude":32.698836,
     "geom:longitude":-117.140473,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85831213,
+        102191575,
+        1108802093,
         85633793,
         85922227,
         102083569,
-        85831213
+        85688637,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,29 @@
     "wof:geomhash":"81391e1c8fd574e282e86bc32a420f31",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802093,
             "neighbourhood_id":85831213,
+            "region_id":85688637,
+            "venue_id":253424833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":253424833
         }
     ],
     "wof:id":253424833,
-    "wof:lastmodified":1472333737,
+    "wof:lastmodified":1486515508,
     "wof:name":"Sandy's Cleaning & Maintenance",
-    "wof:parent_id":85831213,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

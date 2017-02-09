@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.041288,32.8044,-117.041288,32.8044",
     "geom:latitude":32.8044,
     "geom:longitude":-117.041288,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85846877,
+        102191575,
+        1108801257,
         85633793,
         85922227,
         102083569,
-        85846877
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"2cdcb4f055c5153d8e0105eee7be1e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801257,
             "neighbourhood_id":85846877,
             "region_id":85688637,
             "venue_id":404087037
         }
     ],
     "wof:id":404087037,
-    "wof:lastmodified":1472340039,
+    "wof:lastmodified":1486514987,
     "wof:name":"Paul Hanks Law Offices",
     "wof:parent_id":85846877,
     "wof:placetype":"venue",

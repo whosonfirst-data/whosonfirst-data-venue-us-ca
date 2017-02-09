@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.241316,32.729377,-117.241316,32.729377",
     "geom:latitude":32.729377,
     "geom:longitude":-117.241316,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85819589,
+        102191575,
+        1108802083,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85688637,
+        85851555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,30 @@
     "wof:geomhash":"bfa4f748926017dee05c10f2e48f6c21",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85819589,
+            "region_id":85688637,
+            "venue_id":202967061
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85851555,
             "region_id":85688637,
             "venue_id":202967061
         }
     ],
     "wof:id":202967061,
-    "wof:lastmodified":1472334060,
+    "wof:lastmodified":1486515025,
     "wof:name":"Binns Family Trust",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

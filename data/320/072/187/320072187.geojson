@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.227041,32.72033,-117.227041,32.72033",
     "geom:latitude":32.72033,
     "geom:longitude":-117.227041,
@@ -35,11 +36,14 @@
     "sg:website":"www.driscollinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887367,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85887367
+        85688637,
+        85828937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,30 @@
     "wof:geomhash":"5685e5d7342cdcf9587d518e36b00073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85887367,
+            "region_id":85688637,
+            "venue_id":320072187
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85828937,
             "region_id":85688637,
             "venue_id":320072187
         }
     ],
     "wof:id":320072187,
-    "wof:lastmodified":1472331345,
+    "wof:lastmodified":1486516424,
     "wof:name":"Driscoll Boat Works",
-    "wof:parent_id":85887367,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.230625,32.720821,-117.230625,32.720821",
     "geom:latitude":32.720821,
     "geom:longitude":-117.230625,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922227,
+        85846067,
+        102191575,
+        1108802083,
         85633793,
-        85688637,
-        102083569
+        85922227,
+        102083569,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,20 @@
     "wof:geomhash":"db0353d820ec1261f7f984e2de28d9e4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85846067,
             "region_id":85688637,
             "venue_id":169483467
         }
     ],
     "wof:id":169483467,
-    "wof:lastmodified":1472332022,
+    "wof:lastmodified":1486517228,
     "wof:name":"Dive California",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

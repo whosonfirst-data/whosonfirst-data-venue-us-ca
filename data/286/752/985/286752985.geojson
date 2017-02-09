@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.200948,32.795537,-117.200948,32.795537",
     "geom:latitude":32.795537,
     "geom:longitude":-117.200948,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871153,
+        102191575,
+        1108800853,
         85633793,
         85922227,
         102083569,
-        85871153
+        85688637,
+        420552057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,30 @@
     "wof:geomhash":"e227c02c4f85b154d89d7987399e5556",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800853,
             "neighbourhood_id":85871153,
+            "region_id":85688637,
+            "venue_id":286752985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108800853,
+            "neighbourhood_id":420552057,
             "region_id":85688637,
             "venue_id":286752985
         }
     ],
     "wof:id":286752985,
-    "wof:lastmodified":1472335321,
+    "wof:lastmodified":1486519497,
     "wof:name":"Plantz Pictures",
-    "wof:parent_id":85871153,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

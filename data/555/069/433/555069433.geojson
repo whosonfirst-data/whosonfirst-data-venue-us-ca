@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-116.99327,32.547594,-116.99327,32.547594",
     "geom:latitude":32.547594,
     "geom:longitude":-116.99327,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102536311,
+        85883125,
         102191575,
-        85633793,
-        136253057,
-        85688637
+        85633293,
+        101993551,
+        102074501,
+        85686541
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,20 @@
     "wof:geomhash":"cccef9e851f95b1af567635416fc44b1",
     "wof:hierarchy":[
         {
+            "campus_id":102536311,
             "continent_id":102191575,
-            "country_id":85633793,
-            "empire_id":136253057,
-            "region_id":85688637,
+            "country_id":85633293,
+            "county_id":102074501,
+            "locality_id":101993551,
+            "neighbourhood_id":85883125,
+            "region_id":85686541,
             "venue_id":555069433
         }
     ],
     "wof:id":555069433,
-    "wof:lastmodified":1472339930,
+    "wof:lastmodified":1486503314,
     "wof:name":"Delarosa Warehousing",
-    "wof:parent_id":-1,
+    "wof:parent_id":102536311,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

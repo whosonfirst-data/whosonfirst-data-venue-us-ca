@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.06058,32.77897,-117.06058,32.77897",
     "geom:latitude":32.77897,
     "geom:longitude":-117.06058,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85867403,
+        102191575,
+        1108801257,
         85633793,
         85922227,
         102083569,
-        85867403
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"f3d62c3b25abc11f24d115178ad6140d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801257,
             "neighbourhood_id":85867403,
             "region_id":85688637,
             "venue_id":287191299
         }
     ],
     "wof:id":287191299,
-    "wof:lastmodified":1472333042,
+    "wof:lastmodified":1486514899,
     "wof:name":"Lundgren SR & Assoc",
     "wof:parent_id":85867403,
     "wof:placetype":"venue",

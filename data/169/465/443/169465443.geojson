@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.139378,32.696647,-117.139378,32.696647",
     "geom:latitude":32.696647,
     "geom:longitude":-117.139378,
@@ -36,10 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922281,
+        85922227,
         102083569,
-        85867395
+        85867395,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,18 +52,28 @@
     "wof:geomhash":"1b6a1a94b993a8df4c4a920c8f1fb659",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922281,
+            "locality_id":85922227,
             "neighbourhood_id":85867395,
+            "region_id":85688637,
+            "venue_id":169465443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":169465443
         }
     ],
     "wof:id":169465443,
-    "wof:lastmodified":1472332002,
+    "wof:lastmodified":1486515515,
     "wof:name":"Pce Diesel",
-    "wof:parent_id":85867395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

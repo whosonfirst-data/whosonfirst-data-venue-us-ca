@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.03855,33.073707,-117.03855,33.073707",
     "geom:latitude":33.073707,
     "geom:longitude":-117.03855,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922227,
         102083569,
-        85843751
+        85843751,
+        85846935
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,28 @@
     "wof:geomhash":"a7c350ff0dc0d9347fb1076d7c3ef839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
             "neighbourhood_id":85843751,
             "region_id":85688637,
             "venue_id":287105277
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85846935,
+            "region_id":85688637,
+            "venue_id":287105277
         }
     ],
     "wof:id":287105277,
-    "wof:lastmodified":1472331891,
+    "wof:lastmodified":1486505618,
     "wof:name":"Golden Rule Bindery Inc",
-    "wof:parent_id":85843751,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

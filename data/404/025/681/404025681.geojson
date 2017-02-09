@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.231562,32.721393,-117.231562,32.721393",
     "geom:latitude":32.721393,
     "geom:longitude":-117.231562,
@@ -29,10 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85846067,
+        102191575,
+        1108802083,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,20 @@
     "wof:geomhash":"834d7db2780ebee34bb8059f177cf76a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85846067,
             "region_id":85688637,
             "venue_id":404025681
         }
     ],
     "wof:id":404025681,
-    "wof:lastmodified":1472337613,
+    "wof:lastmodified":1486517238,
     "wof:name":"Canon Street Dry Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846067,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

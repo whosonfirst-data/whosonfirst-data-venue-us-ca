@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.116934,32.695927,-117.116934,32.695927",
     "geom:latitude":32.695927,
     "geom:longitude":-117.116934,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85867411,
+        102191575,
+        1108802093,
         85633793,
         85922227,
         102083569,
-        85867411
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"13d9a0e4a4374808f8f6628e3c8a7b08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802093,
             "neighbourhood_id":85867411,
             "region_id":85688637,
             "venue_id":253147301
         }
     ],
     "wof:id":253147301,
-    "wof:lastmodified":1472331644,
+    "wof:lastmodified":1486515116,
     "wof:name":"Neighborhood National Bank",
     "wof:parent_id":85867411,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.071433,32.805908,-117.071433,32.805908",
     "geom:latitude":32.805908,
     "geom:longitude":-117.071433,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420783181,
+        102191575,
+        1108801257,
         85633793,
         85922227,
         102083569,
+        85688637,
         85867403
     ],
     "wof:breaches":[],
@@ -46,19 +50,30 @@
     "wof:geomhash":"5f9ddf2194ea7a3652db1b4ebf0bd873",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801257,
+            "neighbourhood_id":420783181,
+            "region_id":85688637,
+            "venue_id":270029317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108801257,
             "neighbourhood_id":85867403,
             "region_id":85688637,
             "venue_id":270029317
         }
     ],
     "wof:id":270029317,
-    "wof:lastmodified":1472331174,
+    "wof:lastmodified":1486519586,
     "wof:name":"Judy Lemm Consulting",
-    "wof:parent_id":85867403,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

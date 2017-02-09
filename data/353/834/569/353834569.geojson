@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.143568,32.696857,-117.143568,32.696857",
     "geom:latitude":32.696857,
     "geom:longitude":-117.143568,
@@ -36,10 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922281,
+        85922227,
         102083569,
-        85867395
+        85867395,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,28 @@
     "wof:geomhash":"162cca7c3fa05c283f65c2a450a70d0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922281,
+            "locality_id":85922227,
             "neighbourhood_id":85867395,
+            "region_id":85688637,
+            "venue_id":353834569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":353834569
         }
     ],
     "wof:id":353834569,
-    "wof:lastmodified":1472336010,
+    "wof:lastmodified":1486515513,
     "wof:name":"Performance Contracting Inc",
-    "wof:parent_id":85867395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

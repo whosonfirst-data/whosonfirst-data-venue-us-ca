@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.278551,32.839178,-117.278551,32.839178",
     "geom:latitude":32.839178,
     "geom:longitude":-117.278551,
@@ -33,10 +34,13 @@
     "sg:website":"www.lajollanews.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108801245,
+        85828909,
+        102191575,
         85633793,
-        85886089,
-        102083569
+        85922227,
+        102083569,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,20 @@
     "wof:geomhash":"38ae2fecf4e9a5f7df5975a7ff03104a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "neighbourhood_id":85886089,
+            "locality_id":85922227,
+            "microhood_id":1108801245,
+            "neighbourhood_id":85828909,
             "region_id":85688637,
             "venue_id":169425825
         }
     ],
     "wof:id":169425825,
-    "wof:lastmodified":1472330953,
+    "wof:lastmodified":1486601386,
     "wof:name":"LA Jolla Light Newspaper",
-    "wof:parent_id":85886089,
+    "wof:parent_id":1108801245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

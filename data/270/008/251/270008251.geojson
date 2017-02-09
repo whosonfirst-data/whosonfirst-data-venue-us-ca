@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.140111,32.805585,-117.140111,32.805585",
     "geom:latitude":32.805585,
     "geom:longitude":-117.140111,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85847797,
+        85866833
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"468077fb87e1db4b925b7f779b2c5803",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847797,
+            "region_id":85688637,
+            "venue_id":270008251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85866833,
             "region_id":85688637,
             "venue_id":270008251
         }
     ],
     "wof:id":270008251,
-    "wof:lastmodified":1472331051,
+    "wof:lastmodified":1486500616,
     "wof:name":"National Merchandising Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

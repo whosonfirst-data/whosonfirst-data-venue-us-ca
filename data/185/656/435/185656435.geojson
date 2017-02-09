@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.094688,32.73597,-117.094688,32.73597",
     "geom:latitude":32.73597,
     "geom:longitude":-117.094688,
@@ -32,10 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552159,
+        102191575,
+        1108800865,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85688637,
+        420552107
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,30 @@
     "wof:geomhash":"b8709958bae91b378e993b422c17e819",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":-1,
+            "macrohood_id":1108800865,
+            "neighbourhood_id":420552159,
+            "region_id":85688637,
+            "venue_id":185656435
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108800865,
+            "neighbourhood_id":420552107,
             "region_id":85688637,
             "venue_id":185656435
         }
     ],
     "wof:id":185656435,
-    "wof:lastmodified":1472331042,
+    "wof:lastmodified":1486519568,
     "wof:name":"A Perfect Price Towing Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

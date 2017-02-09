@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.140031,32.697119,-117.140031,32.697119",
     "geom:latitude":32.697119,
     "geom:longitude":-117.140031,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922281,
+        85922227,
         102083569,
-        85867395
+        85867395,
+        1108802121
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,28 @@
     "wof:geomhash":"20b6ce020ae23f6f304aadc67776f3e6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922281,
+            "locality_id":85922227,
             "neighbourhood_id":85867395,
+            "region_id":85688637,
+            "venue_id":319944615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802121,
             "region_id":85688637,
             "venue_id":319944615
         }
     ],
     "wof:id":319944615,
-    "wof:lastmodified":1472332260,
+    "wof:lastmodified":1486515501,
     "wof:name":"Romo Woodwerks",
-    "wof:parent_id":85867395,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

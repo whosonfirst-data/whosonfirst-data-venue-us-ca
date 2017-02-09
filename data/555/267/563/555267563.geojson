@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.146261,32.759093,-117.146261,32.759093",
     "geom:latitude":32.759093,
     "geom:longitude":-117.146261,
@@ -32,18 +33,35 @@
         "leaded"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922227,
+        102083569,
+        85869037
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oANMfbq57DRNHOfVO6bVZ_32.759093_-117.146261@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"e89e9f6d9e714f80df6c40273076393a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85869037,
+            "region_id":85688637,
+            "venue_id":555267563
+        }
+    ],
     "wof:id":555267563,
-    "wof:lastmodified":1472343750,
+    "wof:lastmodified":1486498184,
     "wof:name":"Kelly Freiberg Stained Glass",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

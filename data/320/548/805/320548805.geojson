@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.102035,32.750887,-117.102035,32.750887",
     "geom:latitude":32.750887,
     "geom:longitude":-117.102035,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108800865,
         85633793,
         85922227,
-        102083569,
-        85816739
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +49,19 @@
     "wof:geomhash":"ed48f430d4a28b7fae7d94fcef34e9c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85816739,
+            "macrohood_id":1108800865,
             "region_id":85688637,
             "venue_id":320548805
         }
     ],
     "wof:id":320548805,
-    "wof:lastmodified":1472335712,
+    "wof:lastmodified":1486514183,
     "wof:name":"Avian Fresh Drinking Water",
-    "wof:parent_id":85816739,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.092352,32.749481,-117.092352,32.749481",
     "geom:latitude":32.749481,
     "geom:longitude":-117.092352,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420783197,
+        102191575,
+        1108800865,
         85633793,
         85922227,
         102083569,
+        85688637,
         85887289
     ],
     "wof:breaches":[],
@@ -47,19 +51,30 @@
     "wof:geomhash":"831fc329f5a858cbf83d91b3dc915084",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800865,
+            "neighbourhood_id":420783197,
+            "region_id":85688637,
+            "venue_id":303369227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108800865,
             "neighbourhood_id":85887289,
             "region_id":85688637,
             "venue_id":303369227
         }
     ],
     "wof:id":303369227,
-    "wof:lastmodified":1472334308,
+    "wof:lastmodified":1486519612,
     "wof:name":"Carpet Guys",
-    "wof:parent_id":85887289,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

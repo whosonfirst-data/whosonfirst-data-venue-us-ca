@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.204194,32.773367,-117.204194,32.773367",
     "geom:latitude":32.773367,
     "geom:longitude":-117.204194,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420552057,
+        102191575,
+        1108800853,
         85633793,
         85922227,
         102083569,
+        85688637,
         85835207
     ],
     "wof:brand_id":420574443,
@@ -47,7 +51,17 @@
     "wof:geomhash":"237b421b72f9e72cd476ed2de55086bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108800853,
+            "neighbourhood_id":420552057,
+            "region_id":85688637,
+            "venue_id":371174271
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
@@ -57,9 +71,9 @@
         }
     ],
     "wof:id":371174271,
-    "wof:lastmodified":1472340121,
+    "wof:lastmodified":1486519487,
     "wof:name":"AAMCO Transmissions",
-    "wof:parent_id":85835207,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

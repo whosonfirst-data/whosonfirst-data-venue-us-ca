@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.161981,32.724316,-117.161981,32.724316",
     "geom:latitude":32.724316,
     "geom:longitude":-117.161981,
@@ -38,11 +39,13 @@
     "sg:website":"www.ucprx.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102528997,
         85688637,
+        102191575,
+        1108801231,
         85633793,
         85922227,
-        102083569,
-        85887347
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,18 +55,20 @@
     "wof:geomhash":"1178a3b375e2fe4f5394db298394e5e0",
     "wof:hierarchy":[
         {
+            "campus_id":102528997,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887347,
+            "macrohood_id":1108801231,
             "region_id":85688637,
             "venue_id":169431305
         }
     ],
     "wof:id":169431305,
-    "wof:lastmodified":1472330971,
+    "wof:lastmodified":1486519253,
     "wof:name":"Medical Center Pharmaceuticals",
-    "wof:parent_id":85887347,
+    "wof:parent_id":102528997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

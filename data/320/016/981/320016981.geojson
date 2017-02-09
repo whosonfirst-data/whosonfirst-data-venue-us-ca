@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.222265,32.809816,-117.222265,32.809816",
     "geom:latitude":32.809816,
     "geom:longitude":-117.222265,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871155,
+        102191575,
+        1108800853,
         85633793,
         85922227,
         102083569,
-        85871155
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"84d34c81811a8c6e50626f53c1f9d3e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800853,
             "neighbourhood_id":85871155,
             "region_id":85688637,
             "venue_id":320016981
         }
     ],
     "wof:id":320016981,
-    "wof:lastmodified":1472331028,
+    "wof:lastmodified":1486516903,
     "wof:name":"Bella Pacific Condominium Assn",
     "wof:parent_id":85871155,
     "wof:placetype":"venue",

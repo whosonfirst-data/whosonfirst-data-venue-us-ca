@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.047381,32.768758,-117.047381,32.768758",
     "geom:latitude":32.768758,
     "geom:longitude":-117.047381,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887265,
+        102191575,
+        1108800871,
         85633793,
-        85922251,
+        85922227,
         102083569,
-        85887265
+        85688637,
+        1108802139
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,29 @@
     "wof:geomhash":"7b63b86c0f61a382510d32b50f0c06f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
-            "locality_id":85922251,
+            "locality_id":85922227,
+            "macrohood_id":1108800871,
             "neighbourhood_id":85887265,
+            "region_id":85688637,
+            "venue_id":370613921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":1108802139,
             "region_id":85688637,
             "venue_id":370613921
         }
     ],
     "wof:id":370613921,
-    "wof:lastmodified":1472342954,
+    "wof:lastmodified":1486515523,
     "wof:name":"B & H Self-Svc Car Wash",
-    "wof:parent_id":85887265,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

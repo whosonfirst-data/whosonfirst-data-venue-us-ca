@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.227333,32.720542,-117.227333,32.720542",
     "geom:latitude":32.720542,
     "geom:longitude":-117.227333,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887367,
+        102191575,
+        1108802083,
         85633793,
         85922227,
         102083569,
-        85887367
+        85688637,
+        85828937
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,30 @@
     "wof:geomhash":"8a1042e31508744aa14b0c08d27567d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802083,
             "neighbourhood_id":85887367,
+            "region_id":85688637,
+            "venue_id":303390053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108802083,
+            "neighbourhood_id":85828937,
             "region_id":85688637,
             "venue_id":303390053
         }
     ],
     "wof:id":303390053,
-    "wof:lastmodified":1472334463,
+    "wof:lastmodified":1486516421,
     "wof:name":"San Diego Port Tenants Assn",
-    "wof:parent_id":85887367,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

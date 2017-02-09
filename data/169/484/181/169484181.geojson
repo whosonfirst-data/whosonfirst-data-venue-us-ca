@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.190623,32.835391,-117.190623,32.835391",
     "geom:latitude":32.835391,
     "geom:longitude":-117.190623,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85837503,
+        102191575,
+        1108800853,
         85633793,
         85922227,
         102083569,
-        85837503
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +46,18 @@
     "wof:geomhash":"af2d6215cf8d3f5bc12e04b95709e4f3",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800853,
             "neighbourhood_id":85837503,
             "region_id":85688637,
             "venue_id":169484181
         }
     ],
     "wof:id":169484181,
-    "wof:lastmodified":1472331961,
+    "wof:lastmodified":1486514154,
     "wof:name":"Mickelson Golf Co",
     "wof:parent_id":85837503,
     "wof:placetype":"venue",

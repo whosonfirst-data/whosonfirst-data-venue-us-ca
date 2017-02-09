@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.129198,32.785303,-117.129198,32.785303",
     "geom:latitude":32.785303,
     "geom:longitude":-117.129198,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
+        1108801255,
         85633793,
         85922227,
-        102083569,
-        85887305
+        102083569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +48,19 @@
     "wof:geomhash":"4ce8c55dc6c9c30a5179bf3df02c0326",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "neighbourhood_id":85887305,
+            "macrohood_id":1108801255,
             "region_id":85688637,
             "venue_id":370436801
         }
     ],
     "wof:id":370436801,
-    "wof:lastmodified":1472341253,
+    "wof:lastmodified":1486514739,
     "wof:name":"Scenery Landscaping",
-    "wof:parent_id":85887305,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

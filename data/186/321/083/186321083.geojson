@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.050301,32.717196,-117.050301,32.717196",
     "geom:latitude":32.717196,
     "geom:longitude":-117.050301,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108801259,
+        85818081,
+        102191575,
         85633793,
         85922227,
         102083569,
-        85818081
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"4693596539c7b9e5cd9c1165e008c654",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "microhood_id":1108801259,
             "neighbourhood_id":85818081,
             "region_id":85688637,
             "venue_id":186321083
         }
     ],
     "wof:id":186321083,
-    "wof:lastmodified":1472331408,
+    "wof:lastmodified":1486601419,
     "wof:name":"Floor Care Maintenance",
-    "wof:parent_id":85818081,
+    "wof:parent_id":1108801259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

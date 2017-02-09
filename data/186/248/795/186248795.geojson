@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.050808,32.584579,-117.050808,32.584579",
     "geom:latitude":32.584579,
     "geom:longitude":-117.050808,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871231,
+        102191575,
+        1108802159,
         85633793,
         85922227,
         102083569,
-        85871231
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"186db70c05ac897951d89dd5f21e3fda",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108802159,
             "neighbourhood_id":85871231,
             "region_id":85688637,
             "venue_id":186248795
         }
     ],
     "wof:id":186248795,
-    "wof:lastmodified":1472331173,
+    "wof:lastmodified":1486515292,
     "wof:name":"6ta Iglesia Apostolica",
     "wof:parent_id":85871231,
     "wof:placetype":"venue",

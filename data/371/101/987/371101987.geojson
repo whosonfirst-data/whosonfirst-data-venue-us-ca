@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.157476,32.715639,-117.157476,32.715639",
     "geom:latitude":32.715639,
     "geom:longitude":-117.157476,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85871217,
+        102191575,
+        1108801231,
         85633793,
         85922227,
         102083569,
-        85871217
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"63fb1425f68473a9c84c9c2284788870",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108801231,
             "neighbourhood_id":85871217,
             "region_id":85688637,
             "venue_id":371101987
         }
     ],
     "wof:id":371101987,
-    "wof:lastmodified":1472339105,
+    "wof:lastmodified":1486514464,
     "wof:name":"National Association",
     "wof:parent_id":85871217,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.103324,32.749708,-117.103324,32.749708",
     "geom:latitude":32.749708,
     "geom:longitude":-117.103324,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887379,
+        102191575,
+        1108800865,
         85633793,
         85922227,
         102083569,
-        85887379
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"59b238f6cfe43f4f029a9e024aae6034",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
+            "macrohood_id":1108800865,
             "neighbourhood_id":85887379,
             "region_id":85688637,
             "venue_id":220005181
         }
     ],
     "wof:id":220005181,
-    "wof:lastmodified":1472330958,
+    "wof:lastmodified":1486514204,
     "wof:name":"Servicios Tijuana",
     "wof:parent_id":85887379,
     "wof:placetype":"venue",
