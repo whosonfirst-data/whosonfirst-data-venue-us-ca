@@ -2,49 +2,52 @@
   "id": 1108833541,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 Clement Street, San Francisco, CA, USA",
-    "addr:housenumber":"300",
-    "addr:street":"Clement Street",
+    "addr:full":"300 Funston Ave, San Francisco, CA, USA",
+    "addr:housenumber":300,
+    "addr:postcode":"94118",
+    "addr:street":"Funston Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.46228,37.783038,-122.46228,37.783038",
-    "geom:latitude":37.783038,
-    "geom:longitude":-122.46228,
+    "geom:area":0,
+    "geom:bbox":"-122.471748,37.782303,-122.471748,37.782303",
+    "geom:latitude":37.782303,
+    "geom:longitude":-122.471748,
     "iso:country":"",
     "mz:categories":[],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Internet Archive"
     ],
     "src:geom":"mapzen",
     "wof:belongsto":[
+        "1108833541",
         85688637,
         102191575,
         85633793,
         85922583,
         102087579,
-        85843081
+        85865917
     ],
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"",
     "wof:created":1489682276,
-    "wof:geomhash":"26fb434a59c26b828d373de1a0baa9eb",
+    "wof:geomhash":"b230314cd5508f519a426adeda46ab1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85843081,
+            "neighbourhood_id":85865917,
             "region_id":85688637,
-            "venue_id":1108833541
+            "venue_id":"1108833541"
         }
     ],
     "wof:id":1108833541,
-    "wof:lastmodified":1489682276,
+    "wof:lastmodified":1489682590,
     "wof:name":"Internet Archive",
     "wof:parent_id":85843081,
     "wof:placetype":"venue",
@@ -59,5 +62,5 @@
     -122.46228,
     37.783038
 ],
-  "geometry": {"coordinates":[-122.46228000000001,37.783038],"type":"Point"}
+  "geometry": {"coordinates":[-122.47174800000001,37.782303],"type":"Point"}
 }
