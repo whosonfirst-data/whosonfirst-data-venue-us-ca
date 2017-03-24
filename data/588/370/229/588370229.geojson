@@ -3,17 +3,22 @@
   "type": "Feature",
   "properties": {
     "addr:full":"3200 16th St San Francisco CA 94103",
-    "addr:housenumber":"3200",
+    "addr:housenumber":3200,
     "addr:postcode":"94103",
     "addr:street":"16Th St",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "edtf:inception":"1858",
+    "geom:area":0,
     "geom:bbox":"-122.424203,37.764797,-122.424203,37.764797",
     "geom:latitude":37.764797,
     "geom:longitude":-122.424203,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:drink=bar"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"3200 16th St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -60,14 +65,16 @@
         }
     ],
     "wof:id":588370229,
-    "wof:lastmodified":1472344613,
+    "wof:lastmodified":1490379779,
     "wof:name":"Elixir",
     "wof:parent_id":85865951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "bar"
+    ]
 },
   "bbox": [
     -122.424203,
