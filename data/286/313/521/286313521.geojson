@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.492854,37.743977,-122.492854,37.743977",
     "geom:latitude":37.743977,
     "geom:longitude":-122.492854,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865969,
+        102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865969
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"54cb8788e21b3f46a69fd13aa953aeea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830803,
             "neighbourhood_id":85865969,
             "region_id":85688637,
             "venue_id":286313521
         }
     ],
     "wof:id":286313521,
-    "wof:lastmodified":1472331433,
+    "wof:lastmodified":1490401318,
     "wof:name":"Curt Shaw & Associates",
     "wof:parent_id":85865969,
     "wof:placetype":"venue",

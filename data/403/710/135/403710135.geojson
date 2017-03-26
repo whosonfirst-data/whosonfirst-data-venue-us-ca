@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.477173,37.763559,-122.477173,37.763559",
     "geom:latitude":37.763559,
     "geom:longitude":-122.477173,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108831991,
+        85865975,
+        102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865973
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"b9a43d87d13518e5791eedd9950a5c17",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865973,
+            "macrohood_id":1108830803,
+            "microhood_id":1108831991,
+            "neighbourhood_id":85865975,
             "region_id":85688637,
             "venue_id":403710135
         }
     ],
     "wof:id":403710135,
-    "wof:lastmodified":1472336950,
+    "wof:lastmodified":1490401349,
     "wof:name":"19th Ave Baptist Church Of Sf",
-    "wof:parent_id":85865973,
+    "wof:parent_id":1108831991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

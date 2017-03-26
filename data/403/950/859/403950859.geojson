@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.505021,37.746603,-122.505021,37.746603",
     "geom:latitude":37.746603,
     "geom:longitude":-122.505021,
@@ -33,11 +34,14 @@
     "sg:website":"www.michaelbutlerpainting.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108831975,
+        85865975,
+        102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865977
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"01fb8a33b76df62f616f06cf9fee4be8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865977,
+            "macrohood_id":1108830803,
+            "microhood_id":1108831975,
+            "neighbourhood_id":85865975,
             "region_id":85688637,
             "venue_id":403950859
         }
     ],
     "wof:id":403950859,
-    "wof:lastmodified":1472342032,
+    "wof:lastmodified":1490401285,
     "wof:name":"Michael Butler Painting",
-    "wof:parent_id":85865977,
+    "wof:parent_id":1108831975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

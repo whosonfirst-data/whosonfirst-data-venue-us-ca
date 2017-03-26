@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.391841,37.778126,-122.391841,37.778126",
     "geom:latitude":37.778126,
     "geom:longitude":-122.391841,
@@ -29,8 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85865941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,19 @@
     "wof:geomhash":"021434db9143bfa12d9c62c6dd9a3fde",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85865941,
             "region_id":85688637,
             "venue_id":236520939
         }
     ],
     "wof:id":236520939,
-    "wof:lastmodified":1472334059,
+    "wof:lastmodified":1490402691,
     "wof:name":"Mc Donald's",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865941,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

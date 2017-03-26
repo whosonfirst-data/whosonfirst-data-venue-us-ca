@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.467229,37.778571,-122.467229,37.778571",
     "geom:latitude":37.778571,
     "geom:longitude":-122.467229,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865919,
+        102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85865919
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"e03f54d0eab8a12992418a6ecbc5a6ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830805,
             "neighbourhood_id":85865919,
             "region_id":85688637,
             "venue_id":387340627
         }
     ],
     "wof:id":387340627,
-    "wof:lastmodified":1472342395,
+    "wof:lastmodified":1490401427,
     "wof:name":"B and L Plumbing",
     "wof:parent_id":85865919,
     "wof:placetype":"venue",

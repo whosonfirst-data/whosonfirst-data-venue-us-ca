@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.421243,37.743432,-122.421243,37.743432",
     "geom:latitude":37.743432,
     "geom:longitude":-122.421243,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        420780729,
+        85865945,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85887469
+        85688637,
+        420780693
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,30 @@
     "wof:geomhash":"b979b489b35ad3ea49d3d9c6aa970e44",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85887469,
+            "microhood_id":420780729,
+            "neighbourhood_id":85865945,
+            "region_id":85688637,
+            "venue_id":269754769
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":420780693,
+            "neighbourhood_id":85865945,
             "region_id":85688637,
             "venue_id":269754769
         }
     ],
     "wof:id":269754769,
-    "wof:lastmodified":1472333276,
+    "wof:lastmodified":1490402721,
     "wof:name":"Famous Smoke Shop",
-    "wof:parent_id":85887469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

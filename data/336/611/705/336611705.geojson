@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.482419,37.742838,-122.482419,37.742838",
     "geom:latitude":37.742838,
     "geom:longitude":-122.482419,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865969,
+        102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865969
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"8f332912d56429769129b7a92851df4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830803,
             "neighbourhood_id":85865969,
             "region_id":85688637,
             "venue_id":336611705
         }
     ],
     "wof:id":336611705,
-    "wof:lastmodified":1472331054,
+    "wof:lastmodified":1490401398,
     "wof:name":"Lily Lee",
     "wof:parent_id":85865969,
     "wof:placetype":"venue",

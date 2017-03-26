@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.445347,37.778837,-122.445347,37.778837",
     "geom:latitude":37.778837,
     "geom:longitude":-122.445347,
@@ -36,18 +37,35 @@
         "performing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        85869079
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02ZKAZJHwMbhNf8sSK7hwn_37.778837_-122.445347@1303263319"
     },
     "wof:country":"US",
     "wof:geomhash":"c71b555fba084391ca87c06d2ed600e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85869079,
+            "region_id":85688637,
+            "venue_id":588403905
+        }
+    ],
     "wof:id":588403905,
-    "wof:lastmodified":1472349373,
+    "wof:lastmodified":1490403075,
     "wof:name":"Robert Howard, Cello",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

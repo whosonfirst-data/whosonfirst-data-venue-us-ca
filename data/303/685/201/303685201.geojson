@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.467255,37.782898,-122.467255,37.782898",
     "geom:latitude":37.782898,
     "geom:longitude":-122.467255,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865919,
+        102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85865917
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"1945ab037f388d3cbc07a76d917a1ba2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865917,
+            "macrohood_id":1108830805,
+            "neighbourhood_id":85865919,
             "region_id":85688637,
             "venue_id":303685201
         }
     ],
     "wof:id":303685201,
-    "wof:lastmodified":1472335551,
+    "wof:lastmodified":1490401544,
     "wof:name":"Super One Vision",
-    "wof:parent_id":85865917,
+    "wof:parent_id":85865919,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.401822,37.726775,-122.401822,37.726775",
     "geom:latitude":37.726775,
     "geom:longitude":-122.401822,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108831973,
+        85865995,
+        102191575,
         85633793,
+        85922583,
+        102087579,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"c56974de98560e0dc3f52b3e67f95673",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":1108831973,
+            "neighbourhood_id":85865995,
             "region_id":85688637,
             "venue_id":287255999
         }
     ],
     "wof:id":287255999,
-    "wof:lastmodified":1472333477,
+    "wof:lastmodified":1490402870,
     "wof:name":"Joe Pisano Law Office",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108831973,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

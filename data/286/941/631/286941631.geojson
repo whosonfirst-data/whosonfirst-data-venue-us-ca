@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.455677,37.714154,-122.455677,37.714154",
     "geom:latitude":37.714154,
     "geom:longitude":-122.455677,
@@ -29,8 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        1108831825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,19 @@
     "wof:geomhash":"c85733c307748f72dbc10ece655b5d8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":1108831825,
             "region_id":85688637,
             "venue_id":286941631
         }
     ],
     "wof:id":286941631,
-    "wof:lastmodified":1472335608,
+    "wof:lastmodified":1490403441,
     "wof:name":"Flower House of San Francisco",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108831825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.41767,37.792719,-122.41767,37.792719",
     "geom:latitude":37.792719,
     "geom:longitude":-122.41767,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865901,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85865901
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"31553fe0a58306a85bd343cdfcfce407",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830801,
             "neighbourhood_id":85865901,
             "region_id":85688637,
             "venue_id":270142625
         }
     ],
     "wof:id":270142625,
-    "wof:lastmodified":1472332911,
+    "wof:lastmodified":1490401203,
     "wof:name":"Hyde-Clay Laundry & Cleaners",
     "wof:parent_id":85865901,
     "wof:placetype":"venue",

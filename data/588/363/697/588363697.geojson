@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.41933,37.775968,-122.41933,37.775968",
     "geom:latitude":37.775968,
     "geom:longitude":-122.41933,
@@ -29,12 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102147427,
+        85866841,
         102191575,
         85633793,
         85922583,
         102087579,
-        85887425
+        85688637,
+        1108832039,
+        1108830801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,27 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85887425,
+            "microhood_id":102147427,
+            "neighbourhood_id":85866841,
+            "region_id":85688637,
+            "venue_id":588363697
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "macrohood_id":1108830801,
+            "microhood_id":1108832039,
+            "neighbourhood_id":85866841,
             "region_id":85688637,
             "venue_id":588363697
         }
     ],
     "wof:id":588363697,
-    "wof:lastmodified":1472344304,
+    "wof:lastmodified":1490400813,
     "wof:name":"Irene Koga, OD",
-    "wof:parent_id":85887425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

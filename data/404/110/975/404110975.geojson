@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.404248,37.791394,-122.404248,37.791394",
     "geom:latitude":37.791394,
     "geom:longitude":-122.404248,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85810881,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85882187
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"ffb2c7562aec4b7185027fcff65c2d55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85882187,
+            "macrohood_id":1108830801,
+            "neighbourhood_id":85810881,
             "region_id":85688637,
             "venue_id":404110975
         }
     ],
     "wof:id":404110975,
-    "wof:lastmodified":1472340453,
+    "wof:lastmodified":1490401771,
     "wof:name":"Expert Watch & Jewelry Repair",
-    "wof:parent_id":85882187,
+    "wof:parent_id":85810881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

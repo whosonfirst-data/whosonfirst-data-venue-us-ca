@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.397138,37.792455,-122.397138,37.792455",
     "geom:latitude":37.792455,
     "geom:longitude":-122.397138,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865899,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85865899
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,18 @@
     "wof:geomhash":"9e12105f84b74a9f0d21e4149ab7c367",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830801,
             "neighbourhood_id":85865899,
             "region_id":85688637,
             "venue_id":303407855
         }
     ],
     "wof:id":303407855,
-    "wof:lastmodified":1472334603,
+    "wof:lastmodified":1490402209,
     "wof:name":"Helplink",
     "wof:parent_id":85865899,
     "wof:placetype":"venue",

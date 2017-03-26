@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.470542,37.714549,-122.470542,37.714549",
     "geom:latitude":37.714549,
     "geom:longitude":-122.470542,
@@ -32,18 +33,37 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1108832065,
+        1108831825,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23zuHlTIqw58q1onBfBkSR_37.714549_-122.470542@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"e79e8eae0bc1c69ac452ed05090725f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":1108832065,
+            "neighbourhood_id":1108831825,
+            "region_id":85688637,
+            "venue_id":555115439
+        }
+    ],
     "wof:id":555115439,
-    "wof:lastmodified":1472341083,
+    "wof:lastmodified":1490403441,
     "wof:name":"Labor Into Action Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108832065,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

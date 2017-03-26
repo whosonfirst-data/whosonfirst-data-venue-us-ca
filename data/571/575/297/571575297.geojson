@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.480451,37.78028,-122.480451,37.78028",
     "geom:latitude":37.78028,
     "geom:longitude":-122.480451,
@@ -33,12 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108831999,
+        85865923,
         102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85887433
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,17 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85887433,
+            "macrohood_id":1108830805,
+            "microhood_id":1108831999,
+            "neighbourhood_id":85865923,
             "region_id":85688637,
             "venue_id":571575297
         }
     ],
     "wof:id":571575297,
-    "wof:lastmodified":1472341142,
+    "wof:lastmodified":1490401432,
     "wof:name":"Aaron Brothers Inc",
-    "wof:parent_id":85887433,
+    "wof:parent_id":1108831999,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

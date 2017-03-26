@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.406001,37.712106,-122.406001,37.712106",
     "geom:latitude":37.712106,
     "geom:longitude":-122.406001,
@@ -28,18 +29,35 @@
     "sg:postcode":"94134",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        85865997
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4m6ZYhK8a4rQqLGaz8tAFE_37.712106_-122.406001@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"375578243e9b65a8b542e28af8ecefcf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85865997,
+            "region_id":85688637,
+            "venue_id":555185517
+        }
+    ],
     "wof:id":555185517,
-    "wof:lastmodified":1472342775,
+    "wof:lastmodified":1490402879,
     "wof:name":"Sin Fung Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865997,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

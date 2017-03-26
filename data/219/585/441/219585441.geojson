@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.420402,37.789525,-122.420402,37.789525",
     "geom:latitude":37.789525,
     "geom:longitude":-122.420402,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887435,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85887435
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"eabe896231537ba17d4252b0fb4e2ab6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830801,
             "neighbourhood_id":85887435,
             "region_id":85688637,
             "venue_id":219585441
         }
     ],
     "wof:id":219585441,
-    "wof:lastmodified":1472333114,
+    "wof:lastmodified":1490401063,
     "wof:name":"Lifetime Books",
     "wof:parent_id":85887435,
     "wof:placetype":"venue",

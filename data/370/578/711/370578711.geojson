@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.463869,37.777168,-122.463869,37.777168",
     "geom:latitude":37.777168,
     "geom:longitude":-122.463869,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865919,
+        102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85865919
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"678420d6d8375a74cfb36b29c42a4a4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830805,
             "neighbourhood_id":85865919,
             "region_id":85688637,
             "venue_id":370578711
         }
     ],
     "wof:id":370578711,
-    "wof:lastmodified":1472342505,
+    "wof:lastmodified":1490401545,
     "wof:name":"Gestalt Institute Of SF",
     "wof:parent_id":85865919,
     "wof:placetype":"venue",

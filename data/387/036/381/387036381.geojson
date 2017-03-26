@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.407126,37.790368,-122.407126,37.790368",
     "geom:latitude":37.790368,
     "geom:longitude":-122.407126,
@@ -33,8 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108832043,
+        85866851,
+        102191575,
+        1108830801,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        85688637,
+        102147467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +52,31 @@
     "wof:geomhash":"6dd95ae8e2d0ab2bc6bddbea905cce5c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "macrohood_id":1108830801,
+            "microhood_id":1108832043,
+            "neighbourhood_id":85866851,
+            "region_id":85688637,
+            "venue_id":387036381
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":102147467,
+            "neighbourhood_id":85866851,
             "region_id":85688637,
             "venue_id":387036381
         }
     ],
     "wof:id":387036381,
-    "wof:lastmodified":1472337378,
+    "wof:lastmodified":1490403610,
     "wof:name":"French Scientific Mission",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

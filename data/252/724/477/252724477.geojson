@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.420661,37.757012,-122.420661,37.757012",
     "geom:latitude":37.757012,
     "geom:longitude":-122.420661,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85834637,
+        102191575,
+        1108830809,
         85633793,
         85922583,
         102087579,
-        85834637,
-        85887443
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +50,20 @@
     "wof:geomhash":"01bab8ea1e4de28f3101d4d6ca9c5df0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830809,
             "neighbourhood_id":85834637,
-            "region_id":85688637,
-            "venue_id":252724477
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85887443,
             "region_id":85688637,
             "venue_id":252724477
         }
     ],
     "wof:id":252724477,
-    "wof:lastmodified":1472331035,
+    "wof:lastmodified":1490401714,
     "wof:name":"Mail Carrier Etc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85834637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

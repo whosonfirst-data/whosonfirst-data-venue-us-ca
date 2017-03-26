@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.466632,37.708191,-122.466632,37.708191",
     "geom:latitude":37.708191,
     "geom:longitude":-122.466632,
@@ -29,18 +30,35 @@
     "sg:province":"CA",
     "sg:website":"cotamotorsport.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922529,
+        102085387,
+        85885859
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TUivPCFILnw2aMbecVy0Q_37.708191_-122.466632@1303263248"
     },
     "wof:country":"US",
     "wof:geomhash":"9b959ed4913643c2e8e3aedf26bcd5cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":85885859,
+            "region_id":85688637,
+            "venue_id":572391921
+        }
+    ],
     "wof:id":572391921,
-    "wof:lastmodified":1472351620,
+    "wof:lastmodified":1490403248,
     "wof:name":"Cota Motorsport",
-    "wof:parent_id":-1,
+    "wof:parent_id":85885859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

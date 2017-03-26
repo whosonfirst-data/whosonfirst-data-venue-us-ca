@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.447998,37.778501,-122.447998,37.778501",
     "geom:latitude":37.778501,
     "geom:longitude":-122.447998,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85865921,
+        102191575,
+        1108830805,
         85633793,
+        85922583,
+        102087579,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"614f73792a8df2b00a3d2c8c44ca4c9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "macrohood_id":1108830805,
+            "neighbourhood_id":85865921,
             "region_id":85688637,
             "venue_id":387673867
         }
     ],
     "wof:id":387673867,
-    "wof:lastmodified":1472348949,
+    "wof:lastmodified":1490401462,
     "wof:name":"Sisters Of The Presentation",
-    "wof:parent_id":-1,
+    "wof:parent_id":85865921,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

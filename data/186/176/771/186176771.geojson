@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.487244,37.776254,-122.487244,37.776254",
     "geom:latitude":37.776254,
     "geom:longitude":-122.487244,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865923,
+        102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85869003
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"73399910b10cc8e65b46dcbbc08a8f9a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85869003,
+            "macrohood_id":1108830805,
+            "neighbourhood_id":85865923,
             "region_id":85688637,
             "venue_id":186176771
         }
     ],
     "wof:id":186176771,
-    "wof:lastmodified":1472331001,
+    "wof:lastmodified":1490401534,
     "wof:name":"Monica's Learning Ctr",
-    "wof:parent_id":85869003,
+    "wof:parent_id":85865923,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

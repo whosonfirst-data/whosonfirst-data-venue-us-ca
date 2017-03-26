@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.507356,37.779884,-122.507356,37.779884",
     "geom:latitude":37.779884,
     "geom:longitude":-122.507356,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887465,
+        102191575,
+        1108830805,
         85633793,
         85922583,
         102087579,
-        85887465
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"f4993a30e0566e4bd64602631bf43853",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830805,
             "neighbourhood_id":85887465,
             "region_id":85688637,
             "venue_id":320515217
         }
     ],
     "wof:id":320515217,
-    "wof:lastmodified":1472335623,
+    "wof:lastmodified":1490401511,
     "wof:name":"Design Horizon",
     "wof:parent_id":85887465,
     "wof:placetype":"venue",

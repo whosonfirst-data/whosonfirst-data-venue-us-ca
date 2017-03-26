@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.419616,37.78405,-122.419616,37.78405",
     "geom:latitude":37.78405,
     "geom:longitude":-122.419616,
@@ -34,12 +35,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102147469,
+        85882193,
         102191575,
         85633793,
         85922583,
         102087579,
-        85882193
+        85688637,
+        1108832027,
+        85865903,
+        1108830801
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +58,27 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":102147469,
             "neighbourhood_id":85882193,
+            "region_id":85688637,
+            "venue_id":572189861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "macrohood_id":1108830801,
+            "microhood_id":1108832027,
+            "neighbourhood_id":85865903,
             "region_id":85688637,
             "venue_id":572189861
         }
     ],
     "wof:id":572189861,
-    "wof:lastmodified":1472343303,
+    "wof:lastmodified":1490400767,
     "wof:name":"Pho Kim Long",
-    "wof:parent_id":85882193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.40507,37.792654,-122.40507,37.792654",
     "geom:latitude":37.792654,
     "geom:longitude":-122.40507,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85810881,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85810881
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,18 @@
     "wof:geomhash":"a42311b0d46a962e5c66df1a6c767638",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830801,
             "neighbourhood_id":85810881,
             "region_id":85688637,
             "venue_id":219177719
         }
     ],
     "wof:id":219177719,
-    "wof:lastmodified":1472331049,
+    "wof:lastmodified":1490401772,
     "wof:name":"Jeffries & Co Inc-Equity Rsrch",
     "wof:parent_id":85810881,
     "wof:placetype":"venue",

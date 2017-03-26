@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.480654,37.738395,-122.480654,37.738395",
     "geom:latitude":37.738395,
     "geom:longitude":-122.480654,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865969,
+        102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865979
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"c260fdf155c57d20ed78f3bf400e8823",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865979,
+            "macrohood_id":1108830803,
+            "neighbourhood_id":85865969,
             "region_id":85688637,
             "venue_id":286355271
         }
     ],
     "wof:id":286355271,
-    "wof:lastmodified":1472332276,
+    "wof:lastmodified":1490401289,
     "wof:name":"DRIVEME Transportation",
-    "wof:parent_id":85865979,
+    "wof:parent_id":85865969,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

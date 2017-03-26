@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.426178,37.761417,-122.426178,37.761417",
     "geom:latitude":37.761417,
     "geom:longitude":-122.426178,
@@ -31,12 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108832255,
+        85865951,
         102191575,
+        1108830809,
         85633793,
         85922583,
         102087579,
-        85865953
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,15 +53,17 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865953,
+            "macrohood_id":1108830809,
+            "microhood_id":1108832255,
+            "neighbourhood_id":85865951,
             "region_id":85688637,
             "venue_id":588401803
         }
     ],
     "wof:id":588401803,
-    "wof:lastmodified":1472349328,
+    "wof:lastmodified":1490401674,
     "wof:name":"Crepe Food Cart",
-    "wof:parent_id":85865953,
+    "wof:parent_id":1108832255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

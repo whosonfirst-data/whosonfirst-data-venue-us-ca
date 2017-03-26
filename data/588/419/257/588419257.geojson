@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.467098,37.799605,-122.467098,37.799605",
     "geom:latitude":37.799605,
     "geom:longitude":-122.467098,
@@ -40,11 +41,13 @@
     "sg:website":"www.cem.va.gov/CEM/cems/nchp/san...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108832063,
+        85865991,
+        102191575,
         85633793,
         85922583,
         102087579,
-        85865991
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,18 +57,20 @@
     "wof:geomhash":"5909d566771d46ef3d6afa7ff2bd387a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":1108832063,
             "neighbourhood_id":85865991,
             "region_id":85688637,
             "venue_id":588419257
         }
     ],
     "wof:id":588419257,
-    "wof:lastmodified":1472349126,
+    "wof:lastmodified":1490402841,
     "wof:name":"San Francisco National Cemetery",
-    "wof:parent_id":85865991,
+    "wof:parent_id":1108832063,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

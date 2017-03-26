@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.45046,37.709641,-122.45046,37.709641",
     "geom:latitude":37.709641,
     "geom:longitude":-122.45046,
@@ -28,18 +29,35 @@
     "sg:postcode":"94112",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        85869573
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YlptA6RjcZTiAOBU2hhg7_37.709641_-122.450460@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f34dc2a095625f8bee9ed6354f55bcd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85869573,
+            "region_id":85688637,
+            "venue_id":555257091
+        }
+    ],
     "wof:id":555257091,
-    "wof:lastmodified":1472343683,
+    "wof:lastmodified":1490403133,
     "wof:name":"REV Coin Laundry",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

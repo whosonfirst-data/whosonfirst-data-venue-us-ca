@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.406669,37.789404,-122.406669,37.789404",
     "geom:latitude":37.789404,
     "geom:longitude":-122.406669,
@@ -32,11 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108832043,
+        85866851,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85882187
+        85688637,
+        102147467
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,31 @@
     "wof:geomhash":"92054d4dc5b6040cdc650e4d90960c8f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85882187,
+            "macrohood_id":1108830801,
+            "microhood_id":1108832043,
+            "neighbourhood_id":85866851,
+            "region_id":85688637,
+            "venue_id":269491155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "microhood_id":102147467,
+            "neighbourhood_id":85866851,
             "region_id":85688637,
             "venue_id":269491155
         }
     ],
     "wof:id":269491155,
-    "wof:lastmodified":1472330981,
+    "wof:lastmodified":1490403614,
     "wof:name":"Antoinette's Fine Jewels",
-    "wof:parent_id":85882187,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

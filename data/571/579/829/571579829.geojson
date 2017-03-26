@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.500486,37.743369,-122.500486,37.743369",
     "geom:latitude":37.743369,
     "geom:longitude":-122.500486,
@@ -29,12 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108831975,
+        85865975,
         102191575,
+        1108830803,
         85633793,
         85922583,
         102087579,
-        85865977
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,17 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865977,
+            "macrohood_id":1108830803,
+            "microhood_id":1108831975,
+            "neighbourhood_id":85865975,
             "region_id":85688637,
             "venue_id":571579829
         }
     ],
     "wof:id":571579829,
-    "wof:lastmodified":1472341185,
+    "wof:lastmodified":1490401305,
     "wof:name":"Qubetech",
-    "wof:parent_id":85865977,
+    "wof:parent_id":1108831975,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

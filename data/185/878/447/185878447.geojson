@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.426618,37.766244,-122.426618,37.766244",
     "geom:latitude":37.766244,
     "geom:longitude":-122.426618,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865951,
+        102191575,
+        1108830809,
         85633793,
         85922583,
         102087579,
-        85865951
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,17 +46,18 @@
     "wof:geomhash":"7114e6c87efe9b76ce52d322406e9ecf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "macrohood_id":1108830809,
             "neighbourhood_id":85865951,
             "region_id":85688637,
             "venue_id":185878447
         }
     ],
     "wof:id":185878447,
-    "wof:lastmodified":1472333093,
+    "wof:lastmodified":1490401720,
     "wof:name":"David R Teeters",
     "wof:parent_id":85865951,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.458526,37.711465,-122.458526,37.711465",
     "geom:latitude":37.711465,
     "geom:longitude":-122.458526,
@@ -32,18 +33,35 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1108831825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EUuNJwlUP13s4bRlztumx_37.711465_-122.458526@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d8fd4ab6a16bb8176ffb764bec288b02",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":1108831825,
+            "region_id":85688637,
+            "venue_id":555652109
+        }
+    ],
     "wof:id":555652109,
-    "wof:lastmodified":1472352185,
+    "wof:lastmodified":1490403447,
     "wof:name":"Sure Building Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108831825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

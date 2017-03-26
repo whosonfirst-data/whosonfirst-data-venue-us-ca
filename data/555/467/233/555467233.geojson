@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.455027,37.713278,-122.455027,37.713278",
     "geom:latitude":37.713278,
     "geom:longitude":-122.455027,
@@ -33,18 +34,35 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1108831825
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yltCc0rn6Cwb9qcA6hmO1_37.713278_-122.455027@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5614620da0a72e95b2a555307d25044a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":1108831825,
+            "region_id":85688637,
+            "venue_id":555467233
+        }
+    ],
     "wof:id":555467233,
-    "wof:lastmodified":1472350728,
+    "wof:lastmodified":1490403445,
     "wof:name":"San Francisco Adult Day Sprt",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108831825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

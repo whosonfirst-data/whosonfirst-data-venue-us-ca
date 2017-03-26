@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.430313,37.766267,-122.430313,37.766267",
     "geom:latitude":37.766267,
     "geom:longitude":-122.430313,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85865951,
+        102191575,
+        1108830809,
         85633793,
         85922583,
         102087579,
-        85865947
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"35301cd25b5c808605c2d4d593814c0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85865947,
+            "macrohood_id":1108830809,
+            "neighbourhood_id":85865951,
             "region_id":85688637,
             "venue_id":353958041
         }
     ],
     "wof:id":353958041,
-    "wof:lastmodified":1472338885,
+    "wof:lastmodified":1490401553,
     "wof:name":"Smuin Rehearsal Studio",
-    "wof:parent_id":85865947,
+    "wof:parent_id":85865951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

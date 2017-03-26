@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.471279,37.732913,-122.471279,37.732913",
     "geom:latitude":37.732913,
     "geom:longitude":-122.471279,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922583,
+        102087579,
+        420552253
     ],
     "wof:brand_id":420575611,
     "wof:breaches":[],
@@ -44,18 +49,19 @@
     "wof:geomhash":"a1c736840478794223e73cf6771a31b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":420552253,
             "region_id":85688637,
             "venue_id":403911215
         }
     ],
     "wof:id":403911215,
-    "wof:lastmodified":1472341610,
+    "wof:lastmodified":1490403327,
     "wof:name":"Christian Science Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552253,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

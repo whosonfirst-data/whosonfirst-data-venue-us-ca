@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.422668,37.776045,-122.422668,37.776045",
     "geom:latitude":37.776045,
     "geom:longitude":-122.422668,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108832039,
+        85866841,
+        102191575,
+        1108830801,
         85633793,
         85922583,
         102087579,
-        85887425
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"b6da96d1b6f1eec8d515e664da75fe7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
-            "neighbourhood_id":85887425,
+            "macrohood_id":1108830801,
+            "microhood_id":1108832039,
+            "neighbourhood_id":85866841,
             "region_id":85688637,
             "venue_id":404026037
         }
     ],
     "wof:id":404026037,
-    "wof:lastmodified":1472337485,
+    "wof:lastmodified":1490400630,
     "wof:name":"Knox Communications",
-    "wof:parent_id":85887425,
+    "wof:parent_id":1108832039,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
