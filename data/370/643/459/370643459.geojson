@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.269471,34.034347,-118.269471,34.034347",
     "geom:latitude":34.034347,
     "geom:longitude":-118.269471,
@@ -33,11 +34,13 @@
     "sg:website":"unitedcarriertow.net#cid=yelp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85868345
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"9da59299562ac2bbc0ee233839e0eec3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868345,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370643459
         }
     ],
     "wof:id":370643459,
-    "wof:lastmodified":1472342889,
+    "wof:lastmodified":1491928317,
     "wof:name":"United Carrier Tow",
-    "wof:parent_id":85868345,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

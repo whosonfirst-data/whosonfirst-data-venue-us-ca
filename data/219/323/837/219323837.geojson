@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.75119,38.465626,-122.75119,38.465626",
     "geom:latitude":38.465626,
     "geom:longitude":-122.75119,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85926347,
+        102081671,
+        85880887,
         85922693,
-        102081671
+        85834839
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"828d7814baa699335e3f73a479310944",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85926347,
+            "neighbourhood_id":85880887,
+            "region_id":85688637,
+            "venue_id":219323837
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85834839,
             "region_id":85688637,
             "venue_id":219323837
         }
     ],
     "wof:id":219323837,
-    "wof:lastmodified":1472331536,
+    "wof:lastmodified":1491949692,
     "wof:name":"Village Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

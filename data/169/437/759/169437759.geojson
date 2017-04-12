@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.335283,33.983651,-118.335283,33.983651",
     "geom:latitude":33.983651,
     "geom:longitude":-118.335283,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
-        85923577,
+        85923517,
         102086957,
-        85865799
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,20 @@
     "wof:geomhash":"b930bd98f9f47512f8cafd9a132616c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923577,
-            "neighbourhood_id":85865799,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":169437759
         }
     ],
     "wof:id":169437759,
-    "wof:lastmodified":1472331050,
+    "wof:lastmodified":1491868325,
     "wof:name":"Trio Travel Tours & Tours Inc",
-    "wof:parent_id":85865799,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

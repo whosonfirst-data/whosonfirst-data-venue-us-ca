@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159609,38.044827,-122.159609,38.044827",
     "geom:latitude":38.044827,
     "geom:longitude":-122.159609,
@@ -28,16 +29,31 @@
     "sg:postcode":"94510",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3s3HtkvU7s4YT6CbyacIG4_38.044827_-122.159609@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"512505975edbda22b1ff8485b40b6b10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":555468343
+        }
+    ],
     "wof:id":555468343,
-    "wof:lastmodified":1472350728,
+    "wof:lastmodified":1491965494,
     "wof:name":"Azteca Stone Works",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

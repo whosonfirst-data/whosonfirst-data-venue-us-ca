@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.901298,37.69267,-121.901298,37.69267",
     "geom:latitude":37.69267,
     "geom:longitude":-121.901298,
@@ -31,16 +32,31 @@
         "opportunity"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24QwyLCRbjT5UWu6FAJrj0_37.692670_-121.901298@1303263338"
     },
     "wof:country":"US",
     "wof:geomhash":"e81a00d1cfdd079cdc81c7dd4f0a9087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":588477865
+        }
+    ],
     "wof:id":588477865,
-    "wof:lastmodified":1472350735,
+    "wof:lastmodified":1491968495,
     "wof:name":"Controllers Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

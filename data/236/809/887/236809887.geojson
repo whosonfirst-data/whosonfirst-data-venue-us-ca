@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.364977,34.051082,-118.364977,34.051082",
     "geom:latitude":34.051082,
     "geom:longitude":-118.364977,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869427
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"0308e72c6cb34a924c6f5a657e02aa9f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869427,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":236809887
         }
     ],
     "wof:id":236809887,
-    "wof:lastmodified":1472335050,
+    "wof:lastmodified":1491917912,
     "wof:name":"Hari Casuals",
-    "wof:parent_id":85869427,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

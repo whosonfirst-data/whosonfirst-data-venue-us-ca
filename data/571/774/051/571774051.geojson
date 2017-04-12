@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159486,38.048564,-122.159486,38.048564",
     "geom:latitude":38.048564,
     "geom:longitude":-122.159486,
@@ -32,16 +33,31 @@
         "title"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37J5uep6S1WqsxqEkYDFIW_38.048564_-122.159486@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d054ff69dcebdd61ec68af4ae96c48f5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":571774051
+        }
+    ],
     "wof:id":571774051,
-    "wof:lastmodified":1472344317,
+    "wof:lastmodified":1491957103,
     "wof:name":"Chicago Title Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

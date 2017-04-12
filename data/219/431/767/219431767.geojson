@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.313405,33.969093,-117.313405,33.969093",
     "geom:latitude":33.969093,
     "geom:longitude":-117.313405,
@@ -30,11 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086221,
-        85805675,
         85923345,
-        85873333
+        102086221,
+        85873333,
+        85805675
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +46,26 @@
     "wof:geomhash":"7c8fe6467499d6bf4127a077fc6ebb66",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":-1,
-            "neighbourhood_id":85805675,
-            "region_id":85688637,
-            "venue_id":219431767
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923345,
             "neighbourhood_id":85873333,
             "region_id":85688637,
             "venue_id":219431767
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086221,
+            "neighbourhood_id":85805675,
+            "region_id":85688637,
+            "venue_id":219431767
         }
     ],
     "wof:id":219431767,
-    "wof:lastmodified":1472332169,
+    "wof:lastmodified":1491910561,
     "wof:name":"Hyatt Elementary School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

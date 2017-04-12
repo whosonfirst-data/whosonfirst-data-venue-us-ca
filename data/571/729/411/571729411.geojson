@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.096857,32.565889,-117.096857,32.565889",
     "geom:latitude":32.565889,
     "geom:longitude":-117.096857,
@@ -42,7 +43,10 @@
         85633793,
         85922257,
         102083569,
-        420552219
+        420552219,
+        85871195,
+        1108802159,
+        85922227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,12 +63,22 @@
             "neighbourhood_id":420552219,
             "region_id":85688637,
             "venue_id":571729411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "macrohood_id":1108802159,
+            "neighbourhood_id":85871195,
+            "region_id":85688637,
+            "venue_id":571729411
         }
     ],
     "wof:id":571729411,
-    "wof:lastmodified":1472343646,
+    "wof:lastmodified":1491880185,
     "wof:name":"Bullfrog Inflatable Boats",
-    "wof:parent_id":420552219,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

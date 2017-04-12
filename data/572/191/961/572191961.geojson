@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.170943,37.444625,-122.170943,37.444625",
     "geom:latitude":37.444625,
     "geom:longitude":-122.170943,
@@ -38,16 +39,31 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0onbS5TPdGxSPgHLlpSJso_37.444625_-122.170943@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"2878c04b7d9683096ab44542ab5cf853",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572191961
+        }
+    ],
     "wof:id":572191961,
-    "wof:lastmodified":1472343654,
+    "wof:lastmodified":1491949430,
     "wof:name":"California Pizza Kitchen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

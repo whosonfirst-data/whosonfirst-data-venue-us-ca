@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.376369,34.025849,-118.376369,34.025849",
     "geom:latitude":34.025849,
     "geom:longitude":-118.376369,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"c47f2d37fbe72966e28ac0b956d9f9cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":303536195
         }
     ],
     "wof:id":303536195,
-    "wof:lastmodified":1472335184,
+    "wof:lastmodified":1491867888,
     "wof:name":"Commercial Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":1041531571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

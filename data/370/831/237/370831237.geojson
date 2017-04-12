@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.149237,37.479486,-122.149237,37.479486",
     "geom:latitude":37.479486,
     "geom:longitude":-122.149237,
@@ -35,11 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922503,
         102085387,
-        85843847,
-        85824593
+        85824593,
+        85922525,
+        85843847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +52,28 @@
     "wof:geomhash":"ef4aa2e93e94384dc337b615d40ee7df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922503,
-            "neighbourhood_id":85843847,
-            "region_id":85688637,
-            "venue_id":370831237
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922503,
             "neighbourhood_id":85824593,
             "region_id":85688637,
             "venue_id":370831237
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922525,
+            "neighbourhood_id":85843847,
+            "region_id":85688637,
+            "venue_id":370831237
         }
     ],
     "wof:id":370831237,
-    "wof:lastmodified":1472344326,
+    "wof:lastmodified":1491957786,
     "wof:name":"Dennis Uniform Mfg Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

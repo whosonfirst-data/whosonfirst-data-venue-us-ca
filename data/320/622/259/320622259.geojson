@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.06466,37.3719,-122.06466,37.3719",
     "geom:latitude":37.3719,
     "geom:longitude":-122.06466,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922333,
+        102081673,
+        85881237,
         85922355,
-        102081673
+        85886301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,28 @@
     "wof:geomhash":"47c3128fae2287ed316da85eb889bbce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "neighbourhood_id":85881237,
+            "region_id":85688637,
+            "venue_id":320622259
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886301,
             "region_id":85688637,
             "venue_id":320622259
         }
     ],
     "wof:id":320622259,
-    "wof:lastmodified":1472335949,
+    "wof:lastmodified":1491949860,
     "wof:name":"Virtual Savings Card Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

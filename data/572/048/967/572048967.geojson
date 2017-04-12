@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.51494,37.869442,-122.51494,37.869442",
     "geom:latitude":37.869442,
     "geom:longitude":-122.51494,
@@ -36,10 +37,10 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85832443,
-        102084353,
         85921967,
-        85854225
+        102084353,
+        85854225,
+        85832443
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,23 +52,23 @@
         {
             "country_id":85633793,
             "county_id":102084353,
-            "neighbourhood_id":85832443,
+            "locality_id":85921967,
+            "neighbourhood_id":85854225,
             "region_id":85688637,
             "venue_id":572048967
         },
         {
             "country_id":85633793,
             "county_id":102084353,
-            "locality_id":85921967,
-            "neighbourhood_id":85854225,
+            "neighbourhood_id":85832443,
             "region_id":85688637,
             "venue_id":572048967
         }
     ],
     "wof:id":572048967,
-    "wof:lastmodified":1472339848,
+    "wof:lastmodified":1491968332,
     "wof:name":"Jesse Polk",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.931443,37.280744,-121.931443,37.280744",
     "geom:latitude":37.280744,
     "geom:longitude":-121.931443,
@@ -35,7 +36,10 @@
         85633793,
         85922399,
         102081673,
-        420552775
+        420552775,
+        85887579,
+        1108782557,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +56,22 @@
             "neighbourhood_id":420552775,
             "region_id":85688637,
             "venue_id":588542487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782557,
+            "neighbourhood_id":85887579,
+            "region_id":85688637,
+            "venue_id":588542487
         }
     ],
     "wof:id":588542487,
-    "wof:lastmodified":1472351498,
+    "wof:lastmodified":1491874247,
     "wof:name":"Holly LaBarber- State Farm Insurance",
-    "wof:parent_id":420552775,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

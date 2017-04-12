@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.062028,38.352795,-123.062028,38.352795",
     "geom:latitude":38.352795,
     "geom:longitude":-123.062028,
@@ -37,16 +38,31 @@
     ],
     "sg:website":"www.parks.ca.gov",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85926323,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vyx7XbOvgnbKKoZavqOJi_38.352795_-123.062028@1303263353"
     },
     "wof:country":"US",
     "wof:geomhash":"e84467feabb22eb3c9f37895fe563928",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85926323,
+            "region_id":85688637,
+            "venue_id":588532835
+        }
+    ],
     "wof:id":588532835,
-    "wof:lastmodified":1472351357,
+    "wof:lastmodified":1491958544,
     "wof:name":"Schoolhouse Beach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

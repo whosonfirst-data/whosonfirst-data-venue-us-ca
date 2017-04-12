@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.4925,37.505229,-122.4925,37.505229",
     "geom:latitude":37.505229,
     "geom:longitude":-122.4925,
@@ -31,16 +32,31 @@
         "county"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925815,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Cj0UoS8jQrZkvLwdA9O8I_37.505229_-122.492500@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f8299386c1130af7ecaa6fde9d50f06e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925815,
+            "region_id":85688637,
+            "venue_id":571642051
+        }
+    ],
     "wof:id":571642051,
-    "wof:lastmodified":1472342426,
+    "wof:lastmodified":1491965321,
     "wof:name":"San Mateo County Corp Yard",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

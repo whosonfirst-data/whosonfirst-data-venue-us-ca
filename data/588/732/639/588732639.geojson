@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.936855,37.469351,-121.936855,37.469351",
     "geom:latitude":37.469351,
     "geom:longitude":-121.936855,
@@ -29,16 +30,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.w5networks.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6W6prLe2LinStdu90dKtXL_37.469351_-121.936855@1308186499"
     },
     "wof:country":"US",
     "wof:geomhash":"10ff9385e1ee95b42d5b7b3588efbbda",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588732639
+        }
+    ],
     "wof:id":588732639,
-    "wof:lastmodified":1472353616,
+    "wof:lastmodified":1491957517,
     "wof:name":"W5 Networks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

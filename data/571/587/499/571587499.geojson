@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.026256,36.969043,-122.026256,36.969043",
     "geom:latitude":36.969043,
     "geom:longitude":-122.026256,
@@ -28,18 +29,45 @@
     "sg:postcode":"95060",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921769,
+        102087581,
+        85880749,
+        85880729
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zfLHuSesvRgvM2PM9pTvY_36.969043_-122.026256@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bfc98a73b3c73adf4c8d245ced77cbd9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921769,
+            "neighbourhood_id":85880749,
+            "region_id":85688637,
+            "venue_id":571587499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921769,
+            "neighbourhood_id":85880729,
+            "region_id":85688637,
+            "venue_id":571587499
+        }
+    ],
     "wof:id":571587499,
-    "wof:lastmodified":1472341160,
+    "wof:lastmodified":1491958498,
     "wof:name":"Adam Schwartz DC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

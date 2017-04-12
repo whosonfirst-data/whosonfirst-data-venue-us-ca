@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.257824,34.133508,-118.257824,34.133508",
     "geom:latitude":34.133508,
     "geom:longitude":-118.257824,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923615,
         102086957,
-        85877763
+        "85877727",
+        85877763,
+        "85877765"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,37 @@
     "wof:geomhash":"5d23e2ed8be6bd02ed0a7b8e19182198",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877727",
+            "region_id":85688637,
+            "venue_id":371155603
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
             "neighbourhood_id":85877763,
             "region_id":85688637,
             "venue_id":371155603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877765",
+            "region_id":85688637,
+            "venue_id":371155603
         }
     ],
     "wof:id":371155603,
-    "wof:lastmodified":1472340040,
+    "wof:lastmodified":1491936595,
     "wof:name":"YWCA Of Glendale",
-    "wof:parent_id":85877763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

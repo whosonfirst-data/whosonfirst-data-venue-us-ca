@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.503683,38.24433,-122.503683,38.24433",
     "geom:latitude":38.24433,
     "geom:longitude":-122.503683,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922701,
+        85922683,
         102081671,
+        85820345,
+        85922701,
         85833319
     ],
     "wof:breaches":[],
@@ -46,6 +50,15 @@
     "wof:geomhash":"fa3608e20b0b7695093d13d55718e87e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922683,
+            "neighbourhood_id":85820345,
+            "region_id":85688637,
+            "venue_id":555305921
+        },
+        {
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922701,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":555305921,
-    "wof:lastmodified":1472344282,
+    "wof:lastmodified":1491956637,
     "wof:name":"Petaluma Turkey Farm Inc",
-    "wof:parent_id":85833319,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

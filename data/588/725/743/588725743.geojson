@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.16363,37.443868,-122.16363,37.443868",
     "geom:latitude":37.443868,
     "geom:longitude":-122.16363,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"http://www.ephox.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yOyZNUk16122jiOcM1VLP_37.443868_-122.163630@1308186496"
     },
     "wof:country":"US",
     "wof:geomhash":"b17e0def45cf835391d3ccc2c1d97f14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588725743
+        }
+    ],
     "wof:id":588725743,
-    "wof:lastmodified":1472353583,
+    "wof:lastmodified":1491949392,
     "wof:name":"Ephox",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

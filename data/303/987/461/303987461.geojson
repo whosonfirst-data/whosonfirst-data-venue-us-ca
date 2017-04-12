@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.256545,34.045009,-118.256545,34.045009",
     "geom:latitude":34.045009,
     "geom:longitude":-118.256545,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108558929,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"f6bee2e7e61db11bd07bae7a327cf510",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1108558929,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":303987461
         }
     ],
     "wof:id":303987461,
-    "wof:lastmodified":1472338112,
+    "wof:lastmodified":1491928241,
     "wof:name":"Two Sisters Beauty Salon",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1108558929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

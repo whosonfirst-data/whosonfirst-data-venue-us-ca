@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.7499,37.917485,-121.7499,37.917485",
     "geom:latitude":37.917485,
     "geom:longitude":-121.7499,
@@ -33,16 +34,31 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922195,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_210pOCTjcj4IKcp0RyVfUE_37.917485_-121.749900@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"92d9e5311cabeb6d1c34d7b64c1ef0a6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922195,
+            "region_id":85688637,
+            "venue_id":555282551
+        }
+    ],
     "wof:id":555282551,
-    "wof:lastmodified":1472343969,
+    "wof:lastmodified":1491960220,
     "wof:name":"American Printing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

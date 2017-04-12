@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.723761,33.645736,-117.723761,33.645736",
     "geom:latitude":33.645736,
     "geom:longitude":-117.723761,
@@ -32,10 +33,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85923131,
-        85633793,
         85688637,
-        102080847
+        102191575,
+        85633793,
+        85923131,
+        102080847,
+        85878251,
+        85923111,
+        85886151,
+        85895877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +51,37 @@
     "wof:geomhash":"bbc09d157c925866ae1b8d69a95240fa",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923131,
+            "neighbourhood_id":85878251,
+            "region_id":85688637,
+            "venue_id":169453445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923111,
+            "neighbourhood_id":85886151,
+            "region_id":85688637,
+            "venue_id":169453445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923131,
+            "neighbourhood_id":85895877,
             "region_id":85688637,
             "venue_id":169453445
         }
     ],
     "wof:id":169453445,
-    "wof:lastmodified":1472331367,
+    "wof:lastmodified":1491910441,
     "wof:name":"American Sterling Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

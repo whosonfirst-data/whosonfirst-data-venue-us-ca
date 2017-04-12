@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.268059,37.89576,-122.268059,37.89576",
     "geom:latitude":37.89576,
     "geom:longitude":-122.268059,
@@ -38,16 +39,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gwcLQdQNFQaP2boQzw7XM_37.895760_-122.268059@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"48ee53bf76cf377af40677b867aa6c54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588525221
+        }
+    ],
     "wof:id":588525221,
-    "wof:lastmodified":1472351113,
+    "wof:lastmodified":1491958631,
     "wof:name":"Smith & Bartels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

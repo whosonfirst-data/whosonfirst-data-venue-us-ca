@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.783514,37.676787,-121.783514,37.676787",
     "geom:latitude":37.676787,
     "geom:longitude":-121.783514,
@@ -39,16 +40,31 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KapyvqQsVWBfcPGjQQKOf_37.676787_-121.783514@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9ec84f51cb539c8e4d3142c94969655d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":555580659
+        }
+    ],
     "wof:id":555580659,
-    "wof:lastmodified":1472351738,
+    "wof:lastmodified":1491950618,
     "wof:name":"Rosewood Gardens",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

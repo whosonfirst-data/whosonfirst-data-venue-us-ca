@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686943,37.908478,-122.686943,37.908478",
     "geom:latitude":37.908478,
     "geom:longitude":-122.686943,
@@ -31,16 +32,31 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924693,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bzo9YX2fuQJYjIz1xAJgJ_37.908478_-122.686943@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"4b185ab0ff7bde5f6b5f887804b18533",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924693,
+            "region_id":85688637,
+            "venue_id":555458843
+        }
+    ],
     "wof:id":555458843,
-    "wof:lastmodified":1472350632,
+    "wof:lastmodified":1491959636,
     "wof:name":"Calvary Presbyterian Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

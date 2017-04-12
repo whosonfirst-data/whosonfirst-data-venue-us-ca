@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.43077,33.999809,-118.43077,33.999809",
     "geom:latitude":33.999809,
     "geom:longitude":-118.43077,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85832373",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85868389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"665321a7ea4920ee9e9a7ecd21259422",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868389,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85832373",
             "region_id":85688637,
             "venue_id":387026859
         }
     ],
     "wof:id":387026859,
-    "wof:lastmodified":1472337306,
+    "wof:lastmodified":1491905529,
     "wof:name":"Culver City Church of God",
-    "wof:parent_id":85868389,
+    "wof:parent_id":"85832373",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

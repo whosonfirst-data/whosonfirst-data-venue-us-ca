@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.17931,38.063378,-122.17931,38.063378",
     "geom:latitude":38.063378,
     "geom:longitude":-122.17931,
@@ -35,11 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922643,
         102087589,
-        85881599,
-        85821811
+        85821811,
+        85922673,
+        85881599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +52,28 @@
     "wof:geomhash":"c1608a7e9c0910afe5f0e9ddaabf823b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087589,
-            "locality_id":85922643,
-            "neighbourhood_id":85881599,
-            "region_id":85688637,
-            "venue_id":320369317
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087589,
             "locality_id":85922643,
             "neighbourhood_id":85821811,
             "region_id":85688637,
             "venue_id":320369317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "neighbourhood_id":85881599,
+            "region_id":85688637,
+            "venue_id":320369317
         }
     ],
     "wof:id":320369317,
-    "wof:lastmodified":1472334949,
+    "wof:lastmodified":1491947738,
     "wof:name":"W R W Backhoe & Dump Truck Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

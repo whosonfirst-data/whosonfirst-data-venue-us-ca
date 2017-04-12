@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.317569,33.945572,-118.317569,33.945572",
     "geom:latitude":33.945572,
     "geom:longitude":-118.317569,
@@ -30,11 +31,13 @@
     "sg:website":"www.shell.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
+        85923517,
         102086957,
-        85857015
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"73e004a30719404df2bc295fea64c5a9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":371137115
         }
     ],
     "wof:id":371137115,
-    "wof:lastmodified":1472339554,
+    "wof:lastmodified":1491867493,
     "wof:name":"Shell J R",
-    "wof:parent_id":85857015,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

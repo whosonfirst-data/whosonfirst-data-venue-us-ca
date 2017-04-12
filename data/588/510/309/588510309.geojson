@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.175073,37.808623,-122.175073,37.808623",
     "geom:latitude":37.808623,
     "geom:longitude":-122.175073,
@@ -37,16 +38,29 @@
     ],
     "sg:website":"www.ebparks.org/aquatics/roberts...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79cZquRMx57QBZPnWoxTVE_37.808623_-122.175073@1303263347"
     },
     "wof:country":"US",
     "wof:geomhash":"b38b0b1d139a4c617f6428d0f49470c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "region_id":85688637,
+            "venue_id":588510309
+        }
+    ],
     "wof:id":588510309,
-    "wof:lastmodified":1472350875,
+    "wof:lastmodified":1491956963,
     "wof:name":"Roberts Pool",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.219528,34.080921,-118.219528,34.080921",
     "geom:latitude":34.080921,
     "geom:longitude":-118.219528,
@@ -33,11 +34,13 @@
     "sg:website":"www.mta.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85813775
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"ae63b2485f7049a0ab38442e028a1f7b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85813775,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370897219
         }
     ],
     "wof:id":370897219,
-    "wof:lastmodified":1472344873,
+    "wof:lastmodified":1491909559,
     "wof:name":"Lincoln Heights/Cypress Park Gold Line Station",
-    "wof:parent_id":85813775,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

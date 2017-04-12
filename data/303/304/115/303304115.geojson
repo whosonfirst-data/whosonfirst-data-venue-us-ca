@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.300251,34.001844,-118.300251,34.001844",
     "geom:latitude":34.001844,
     "geom:longitude":-118.300251,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869759
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"f7d68983fdc6c0b5e128f89791c5b333",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869759,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869759",
             "region_id":85688637,
             "venue_id":303304115
         }
     ],
     "wof:id":303304115,
-    "wof:lastmodified":1472333807,
+    "wof:lastmodified":1491868167,
     "wof:name":"Iglesia Fuente De Salvacion",
-    "wof:parent_id":85869759,
+    "wof:parent_id":"85869759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

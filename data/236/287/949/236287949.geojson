@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.974329,37.234473,-121.974329,37.234473",
     "geom:latitude":37.234473,
     "geom:longitude":-121.974329,
@@ -35,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922375,
-        102081673
+        102081673,
+        85886337,
+        85922367,
+        85886355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,28 @@
     "wof:geomhash":"0ca069886c7753b69c6f5b626e949f3f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886337,
+            "region_id":85688637,
+            "venue_id":236287949
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922367,
+            "neighbourhood_id":85886355,
             "region_id":85688637,
             "venue_id":236287949
         }
     ],
     "wof:id":236287949,
-    "wof:lastmodified":1472332774,
+    "wof:lastmodified":1491961990,
     "wof:name":"Kingston Financial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

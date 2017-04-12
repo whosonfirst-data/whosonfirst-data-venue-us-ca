@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.074881,37.622822,-122.074881,37.622822",
     "geom:latitude":37.622822,
     "geom:longitude":-122.074881,
@@ -39,7 +40,8 @@
         85633793,
         85921895,
         102086959,
-        85878047
+        85878047,
+        85878049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +58,21 @@
             "neighbourhood_id":85878047,
             "region_id":85688637,
             "venue_id":555247825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878049,
+            "region_id":85688637,
+            "venue_id":555247825
         }
     ],
     "wof:id":555247825,
-    "wof:lastmodified":1472343482,
+    "wof:lastmodified":1491948472,
     "wof:name":"Spanish Ranch Mobile Home Park",
-    "wof:parent_id":85878047,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

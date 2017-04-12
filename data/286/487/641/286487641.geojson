@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.127544,37.890831,-122.127544,37.890831",
     "geom:latitude":37.890831,
     "geom:longitude":-122.127544,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922169,
-        102086225
+        102086225,
+        85886137,
+        85886131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"2f354fa5cd3909879f936385a2062b87",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886137,
+            "region_id":85688637,
+            "venue_id":286487641
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922169,
+            "neighbourhood_id":85886131,
             "region_id":85688637,
             "venue_id":286487641
         }
     ],
     "wof:id":286487641,
-    "wof:lastmodified":1472333886,
+    "wof:lastmodified":1491949944,
     "wof:name":"Morrison & Frazier LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

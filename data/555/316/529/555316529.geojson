@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159753,37.446663,-122.159753,37.446663",
     "geom:latitude":37.446663,
     "geom:longitude":-122.159753,
@@ -31,16 +32,31 @@
         "stationer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SB0HUN1U27wp99HPQa13L_37.446663_-122.159753@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bdfe5e3fd61a8aaad00622ce5a0a26b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555316529
+        }
+    ],
     "wof:id":555316529,
-    "wof:lastmodified":1472344590,
+    "wof:lastmodified":1491963545,
     "wof:name":"Congdon & Crome",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

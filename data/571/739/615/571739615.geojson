@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.303373,37.904554,-122.303373,37.904554",
     "geom:latitude":37.904554,
     "geom:longitude":-122.303373,
@@ -37,9 +38,12 @@
         85688637,
         102191575,
         85633793,
-        85922131,
+        85922177,
         102086225,
-        85880387
+        85885543,
+        85922131,
+        85880387,
+        85885907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +56,34 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
+            "locality_id":85922177,
+            "neighbourhood_id":85885543,
+            "region_id":85688637,
+            "venue_id":571739615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
             "locality_id":85922131,
             "neighbourhood_id":85880387,
+            "region_id":85688637,
+            "venue_id":571739615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922177,
+            "neighbourhood_id":85885907,
             "region_id":85688637,
             "venue_id":571739615
         }
     ],
     "wof:id":571739615,
-    "wof:lastmodified":1472343804,
+    "wof:lastmodified":1491958382,
     "wof:name":"Couples Clinic At WTC",
-    "wof:parent_id":85880387,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

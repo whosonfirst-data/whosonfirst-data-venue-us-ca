@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.308837,33.973836,-118.308837,33.973836",
     "geom:latitude":33.973836,
     "geom:longitude":-118.308837,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996435,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"cb3be9d4bbcd0640b45e4a2ef0c1adc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996435,
             "region_id":85688637,
             "venue_id":371135795
         }
     ],
     "wof:id":371135795,
-    "wof:lastmodified":1472339736,
+    "wof:lastmodified":1491868411,
     "wof:name":"Construction Services & Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

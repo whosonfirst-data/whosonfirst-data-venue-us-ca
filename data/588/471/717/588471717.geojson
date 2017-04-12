@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.921452,37.703911,-121.921452,37.703911",
     "geom:latitude":37.703911,
     "geom:longitude":-121.921452,
@@ -40,16 +41,31 @@
         "audio-visual"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SSDdKLnIDpqLmT2IILaVN_37.703911_-121.921452@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"5fbe16b4e6a02bd987c7f72fb35cc055",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471717
+        }
+    ],
     "wof:id":588471717,
-    "wof:lastmodified":1472350660,
+    "wof:lastmodified":1491963503,
     "wof:name":"Northern Cal Elec Cnstr Indust",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

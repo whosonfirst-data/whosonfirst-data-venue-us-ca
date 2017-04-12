@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.801803,38.437908,-122.801803,38.437908",
     "geom:latitude":38.437908,
     "geom:longitude":-122.801803,
@@ -34,8 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922693,
+        102081671,
+        85834839,
+        85822633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,26 @@
     "wof:geomhash":"2eec8bb55056f68b26fd08a50bd0f142",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85834839,
+            "region_id":85688637,
+            "venue_id":253088813
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85822633,
             "region_id":85688637,
             "venue_id":253088813
         }
     ],
     "wof:id":253088813,
-    "wof:lastmodified":1472331232,
+    "wof:lastmodified":1491968585,
     "wof:name":"Ask Karate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

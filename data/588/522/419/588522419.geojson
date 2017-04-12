@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300879,37.896014,-122.300879,37.896014",
     "geom:latitude":37.896014,
     "geom:longitude":-122.300879,
@@ -32,16 +33,31 @@
         "art"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vQcWFHPsZLD6PIwbjVZOq_37.896014_-122.300879@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"d9723a15f6786ff1e645fd9acf09f619",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588522419
+        }
+    ],
     "wof:id":588522419,
-    "wof:lastmodified":1472351123,
+    "wof:lastmodified":1491958849,
     "wof:name":"East Bay Art School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.920275,33.762012,-117.920275,33.762012",
     "geom:latitude":33.762012,
     "geom:longitude":-117.920275,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923141,
-        102080847
+        102080847,
+        85811885,
+        85923049,
+        85867373
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"4162c1d7494dc5b4f7b28298e9fe7b4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923141,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85811885,
+            "region_id":85688637,
+            "venue_id":236771681
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":85867373,
             "region_id":85688637,
             "venue_id":236771681
         }
     ],
     "wof:id":236771681,
-    "wof:lastmodified":1472334975,
+    "wof:lastmodified":1491917535,
     "wof:name":"Always Towing Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

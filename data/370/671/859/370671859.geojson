@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.256438,34.014422,-118.256438,34.014422",
     "geom:latitude":34.014422,
     "geom:longitude":-118.256438,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85827369
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"387cd9bc1b25b268664346932b21e1d8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85827369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":370671859
         }
     ],
     "wof:id":370671859,
-    "wof:lastmodified":1472343138,
+    "wof:lastmodified":1491867603,
     "wof:name":"Central Mini Store",
-    "wof:parent_id":85827369,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

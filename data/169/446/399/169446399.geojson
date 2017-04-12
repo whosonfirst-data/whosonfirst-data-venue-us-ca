@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26129,37.485471,-122.26129,37.485471",
     "geom:latitude":37.485471,
     "geom:longitude":-122.26129,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922437,
+        102085387,
+        420552433
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +48,19 @@
     "wof:geomhash":"3e5ff57ac8a3a933ba37a340c73189a2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552433,
             "region_id":85688637,
             "venue_id":169446399
         }
     ],
     "wof:id":169446399,
-    "wof:lastmodified":1472331213,
+    "wof:lastmodified":1491960968,
     "wof:name":"ANR Consultants Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.396004,34.0555,-118.396004,34.0555",
     "geom:latitude":34.0555,
     "geom:longitude":-118.396004,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85865815
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"7aceac46e37cf225a933aae8bb0d723e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865815,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370938259
         }
     ],
     "wof:id":370938259,
-    "wof:lastmodified":1472346395,
+    "wof:lastmodified":1491912210,
     "wof:name":"Chiropractic Specialists Beverly De At Pico Bl La",
-    "wof:parent_id":85865815,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

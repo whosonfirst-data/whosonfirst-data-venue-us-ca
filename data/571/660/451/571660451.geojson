@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.051506,32.598884,-117.051506,32.598884",
     "geom:latitude":32.598884,
     "geom:longitude":-117.051506,
@@ -34,7 +35,8 @@
         85633793,
         85922285,
         102083569,
-        420552199
+        420552199,
+        85876795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,21 @@
             "neighbourhood_id":420552199,
             "region_id":85688637,
             "venue_id":571660451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922285,
+            "neighbourhood_id":85876795,
+            "region_id":85688637,
+            "venue_id":571660451
         }
     ],
     "wof:id":571660451,
-    "wof:lastmodified":1472342932,
+    "wof:lastmodified":1491895394,
     "wof:name":"Flowers Chayos",
-    "wof:parent_id":420552199,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

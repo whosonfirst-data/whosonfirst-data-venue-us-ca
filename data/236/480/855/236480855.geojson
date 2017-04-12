@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.041289,37.989408,-122.041289,37.989408",
     "geom:latitude":37.989408,
     "geom:longitude":-122.041289,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922187,
-        102086225
+        102086225,
+        85876849,
+        85876859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"333da79edee66983d4f17fdfb6842022",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922187,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876849,
+            "region_id":85688637,
+            "venue_id":236480855
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922187,
+            "neighbourhood_id":85876859,
             "region_id":85688637,
             "venue_id":236480855
         }
     ],
     "wof:id":236480855,
-    "wof:lastmodified":1472333849,
+    "wof:lastmodified":1491960496,
     "wof:name":"Solano Beacon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

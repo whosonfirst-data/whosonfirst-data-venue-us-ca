@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.278218,33.990936,-118.278218,33.990936",
     "geom:latitude":33.990936,
     "geom:longitude":-118.278218,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":555398861
         }
     ],
     "wof:id":555398861,
-    "wof:lastmodified":1472349436,
+    "wof:lastmodified":1491868007,
     "wof:name":"Jessica's Carpet",
-    "wof:parent_id":85865791,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

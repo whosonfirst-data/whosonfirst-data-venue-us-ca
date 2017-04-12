@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.9175,37.494911,-121.9175,37.494911",
     "geom:latitude":37.494911,
     "geom:longitude":-121.9175,
@@ -33,16 +34,31 @@
         "cruise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58LI02fC5HnwNnWJrHfhfz_37.495104_-121.917796@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"ac0092b1d623bf1d800041125c733ef1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":572092079
+        }
+    ],
     "wof:id":572092079,
-    "wof:lastmodified":1472341073,
+    "wof:lastmodified":1491967210,
     "wof:name":"Eb Travel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

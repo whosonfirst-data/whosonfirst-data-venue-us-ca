@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.119547,38.012774,-122.119547,38.012774",
     "geom:latitude":38.012774,
     "geom:longitude":-122.119547,
@@ -38,16 +39,25 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33UZqLjTk5IO0E9jQkHpwx_38.012774_-122.119547@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"c0fe658c929e9524ff700f9d49779c1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":588464813
+        }
+    ],
     "wof:id":588464813,
-    "wof:lastmodified":1472350442,
+    "wof:lastmodified":1491956892,
     "wof:name":"Independent Appraisal",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

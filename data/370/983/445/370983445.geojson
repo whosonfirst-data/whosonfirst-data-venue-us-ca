@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713494,38.398651,-122.713494,38.398651",
     "geom:latitude":38.398651,
     "geom:longitude":-122.713494,
@@ -34,8 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922693,
+        102081671,
+        85880881,
+        102191575,
+        85880879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,27 @@
     "wof:geomhash":"0125f00a90196aab657e620f79af4faf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880881,
+            "region_id":85688637,
+            "venue_id":370983445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880879,
             "region_id":85688637,
             "venue_id":370983445
         }
     ],
     "wof:id":370983445,
-    "wof:lastmodified":1472349245,
+    "wof:lastmodified":1491949579,
     "wof:name":"Flash Safety Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

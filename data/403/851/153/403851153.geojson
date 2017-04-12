@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.496339,38.554275,-121.496339,38.554275",
     "geom:latitude":38.554275,
     "geom:longitude":-121.496339,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922845,
-        102082889
+        102082889,
+        85872169,
+        85872233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"d046e81a95e88edde03fd8e02b19f3de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082889,
             "locality_id":85922845,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872169,
+            "region_id":85688637,
+            "venue_id":403851153
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85872233,
             "region_id":85688637,
             "venue_id":403851153
         }
     ],
     "wof:id":403851153,
-    "wof:lastmodified":1472341132,
+    "wof:lastmodified":1491920557,
     "wof:name":"Sue Hayden",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

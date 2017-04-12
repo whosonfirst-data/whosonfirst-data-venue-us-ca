@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.879861,37.705725,-121.879861,37.705725",
     "geom:latitude":37.705725,
     "geom:longitude":-121.879861,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"http://redirect.searchignite.com/si/cm/tracking/DGTrackingRedirect.aspx?siclientid=2918&siredirect=http%3A%2F%2Fwww%2Eextendedstayamerica%2Ecom%2FSFD&sisearchengine=155&siproduct=ESA+Dublin+%2D+Hacienda+Dr%2E&clearppc=1",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lYibtHEygZxnGiHMJFzvO_37.705725_-121.879861@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"a01c9467a8bf1c332d2fcfcab797bd35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471473
+        }
+    ],
     "wof:id":588471473,
-    "wof:lastmodified":1472350600,
+    "wof:lastmodified":1491961722,
     "wof:name":"Extended Stay America Dublin - Hacienda Dr.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

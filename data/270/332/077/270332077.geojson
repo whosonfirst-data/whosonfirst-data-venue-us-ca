@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.322579,33.997592,-118.322579,33.997592",
     "geom:latitude":33.997592,
     "geom:longitude":-118.322579,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"a2ce23ab4ad6d366efd18fcc654d9b0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":270332077
         }
     ],
     "wof:id":270332077,
-    "wof:lastmodified":1472334300,
+    "wof:lastmodified":1491868184,
     "wof:name":"Little Precious One Childcare",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159484,38.046916,-122.159484,38.046916",
     "geom:latitude":38.046916,
     "geom:longitude":-122.159484,
@@ -32,16 +33,31 @@
         "dentists-prosthodontists"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32RhKyLy20Ilrhyw1HK89c_38.046916_-122.159484@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"2a6f3d1e183ceb7d45fa499354dffd9d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":588440369
+        }
+    ],
     "wof:id":588440369,
-    "wof:lastmodified":1472349469,
+    "wof:lastmodified":1491948505,
     "wof:name":"Carquinez Dental Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.999363,37.156277,-121.999363,37.156277",
     "geom:latitude":37.156277,
     "geom:longitude":-121.999363,
@@ -31,16 +32,31 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925399,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TJ1qDG0BoSPByEK5OrXjN_37.156277_-121.999363@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5212ae4ac825cf5f6fccaf0aa6dd7134",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925399,
+            "region_id":85688637,
+            "venue_id":555432841
+        }
+    ],
     "wof:id":555432841,
-    "wof:lastmodified":1472349888,
+    "wof:lastmodified":1491961765,
     "wof:name":"Summit Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

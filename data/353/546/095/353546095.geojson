@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.079887,37.669851,-122.079887,37.669851",
     "geom:latitude":37.669851,
     "geom:longitude":-122.079887,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921895,
-        102086959
+        102086959,
+        85878043,
+        85878059
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"2a5458b70ea0d08bef0295399f9c18ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878043,
+            "region_id":85688637,
+            "venue_id":353546095
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878059,
             "region_id":85688637,
             "venue_id":353546095
         }
     ],
     "wof:id":353546095,
-    "wof:lastmodified":1472332482,
+    "wof:lastmodified":1491965382,
     "wof:name":"Girl Scouts Cabin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.985158,37.234008,-121.985158,37.234008",
     "geom:latitude":37.234008,
     "geom:longitude":-121.985158,
@@ -31,16 +32,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6plHEsNtYkMoFb7TMOeOrz_37.234008_-121.985158@1303263358"
     },
     "wof:country":"US",
     "wof:geomhash":"5306231ae271bb9cae19d5e8ee706bca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552915,
+            "venue_id":588549275
+        }
+    ],
     "wof:id":588549275,
-    "wof:lastmodified":1472351523,
+    "wof:lastmodified":1491961034,
     "wof:name":"Los Gatos Drilling",
     "wof:parent_id":420552915,
     "wof:placetype":"venue",

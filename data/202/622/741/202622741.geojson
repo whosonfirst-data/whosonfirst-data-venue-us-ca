@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.252457,34.046811,-118.252457,34.046811",
     "geom:latitude":34.046811,
     "geom:longitude":-118.252457,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108558929,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"5bbb0f9087919e5768c5915964505808",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1108558929,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":202622741
         }
     ],
     "wof:id":202622741,
-    "wof:lastmodified":1472332002,
+    "wof:lastmodified":1491928579,
     "wof:name":"Gold Express",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1108558929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.120926,37.449725,-122.120926,37.449725",
     "geom:latitude":37.449725,
     "geom:longitude":-122.120926,
@@ -28,16 +29,31 @@
     "sg:postcode":"94303",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LGcx2SaTM4nbIQHIvm8gq_37.449725_-122.120926@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d8ce7efd878adc1cb55f53515db1b134",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555009295
+        }
+    ],
     "wof:id":555009295,
-    "wof:lastmodified":1472337395,
+    "wof:lastmodified":1491966051,
     "wof:name":"Bay Area Ind Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

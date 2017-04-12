@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.257004,34.052101,-118.257004,34.052101",
     "geom:latitude":34.052101,
     "geom:longitude":-118.257004,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456421,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869239
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"73b2b1fdf56940c486e6a034cba2224a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869239,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456421,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":387142627
         }
     ],
     "wof:id":387142627,
-    "wof:lastmodified":1472340855,
+    "wof:lastmodified":1491928055,
     "wof:name":"The Barrett Group",
-    "wof:parent_id":85869239,
+    "wof:parent_id":1092456421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

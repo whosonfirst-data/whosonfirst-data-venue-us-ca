@@ -33,13 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102528997,
         85688637,
         102191575,
-        1108801231,
         85633793,
         85922227,
-        102083569
+        102083569,
+        85871191,
+        85882405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,20 +49,28 @@
     "wof:geomhash":"26732b31e719ece8f8ad25d2f76b5d3a",
     "wof:hierarchy":[
         {
-            "campus_id":102528997,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922227,
-            "macrohood_id":1108801231,
+            "neighbourhood_id":85871191,
+            "region_id":85688637,
+            "venue_id":555450365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922227,
+            "neighbourhood_id":85882405,
             "region_id":85688637,
             "venue_id":555450365
         }
     ],
     "wof:id":555450365,
-    "wof:lastmodified":1486518766,
+    "wof:lastmodified":1491903402,
     "wof:name":"Charlie Browns 35",
-    "wof:parent_id":102528997,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

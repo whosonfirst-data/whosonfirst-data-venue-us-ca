@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.278391,34.024476,-118.278391,34.024476",
     "geom:latitude":34.024476,
     "geom:longitude":-118.278391,
@@ -35,11 +36,13 @@
     "sg:website":"www.triohouse.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"3a39cc7332ec31270f857c363987d598",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868339,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":370456333
         }
     ],
     "wof:id":370456333,
-    "wof:lastmodified":1472341492,
+    "wof:lastmodified":1491867757,
     "wof:name":"Trio House",
-    "wof:parent_id":85868339,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

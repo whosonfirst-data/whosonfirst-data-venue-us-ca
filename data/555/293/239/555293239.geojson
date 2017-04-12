@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.912415,37.813698,-121.912415,37.813698",
     "geom:latitude":37.813698,
     "geom:longitude":-121.912415,
@@ -32,16 +33,31 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sDIlIqGky58b3Gth5127E_37.813698_-121.912415@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"2cad1af0592ae427c052703196c6fd79",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":555293239
+        }
+    ],
     "wof:id":555293239,
-    "wof:lastmodified":1472344062,
+    "wof:lastmodified":1491959211,
     "wof:name":"Logware Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

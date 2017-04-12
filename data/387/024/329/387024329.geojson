@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.432002,34.004205,-118.432002,34.004205",
     "geom:latitude":34.004205,
     "geom:longitude":-118.432002,
@@ -36,11 +37,14 @@
     "sg:website":"www.greenumbrellaevents.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561757,
+        "85832373",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85868389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,21 @@
     "wof:geomhash":"51a82d5c04f7e22c4bd30cf7fa4e3da2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868389,
+            "macrohood_id":1108692797,
+            "microhood_id":1108561757,
+            "neighbourhood_id":"85832373",
             "region_id":85688637,
             "venue_id":387024329
         }
     ],
     "wof:id":387024329,
-    "wof:lastmodified":1472337238,
+    "wof:lastmodified":1491905526,
     "wof:name":"Green Umbrella Events",
-    "wof:parent_id":85868389,
+    "wof:parent_id":1108561757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

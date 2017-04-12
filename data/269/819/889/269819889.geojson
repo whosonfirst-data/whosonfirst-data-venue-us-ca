@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.059765,37.936658,-122.059765,37.936658",
     "geom:latitude":37.936658,
     "geom:longitude":-122.059765,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922135,
-        102086225
+        102086225,
+        420550473,
+        420550481
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"eb9b666a39a742677f897686433b81b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922135,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550473,
+            "region_id":85688637,
+            "venue_id":269819889
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922135,
+            "neighbourhood_id":420550481,
             "region_id":85688637,
             "venue_id":269819889
         }
     ],
     "wof:id":269819889,
-    "wof:lastmodified":1472333897,
+    "wof:lastmodified":1491961368,
     "wof:name":"Patricia Durrell",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

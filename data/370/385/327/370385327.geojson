@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.267998,33.9603,-118.267998,33.9603",
     "geom:latitude":33.9603,
     "geom:longitude":-118.267998,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"e76dcd7caa45995b7423e25ea84cd37e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868337,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":370385327
         }
     ],
     "wof:id":370385327,
-    "wof:lastmodified":1472340297,
+    "wof:lastmodified":1491867713,
     "wof:name":"Brewer's Cycle Shop",
-    "wof:parent_id":85868337,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

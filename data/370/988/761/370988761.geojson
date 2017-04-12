@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.278172,33.99251,-118.278172,33.99251",
     "geom:latitude":33.99251,
     "geom:longitude":-118.278172,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865789
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"502610c0fbc80f31f83d933782a81693",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865789,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":370988761
         }
     ],
     "wof:id":370988761,
-    "wof:lastmodified":1472349417,
+    "wof:lastmodified":1491867549,
     "wof:name":"Luna Tours",
-    "wof:parent_id":85865789,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

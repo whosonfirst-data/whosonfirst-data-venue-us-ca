@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.815608,38.532682,-122.815608,38.532682",
     "geom:latitude":38.532682,
     "geom:longitude":-122.815608,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85888239,
+        102081671,
         85922677,
-        102081671
+        85848367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +48,25 @@
     "wof:geomhash":"383e5f46dbf17bfc6a0ee697f4400ce3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85888239,
+            "region_id":85688637,
+            "venue_id":286629013
+        },
+        {
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922677,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85848367,
             "region_id":85688637,
             "venue_id":286629013
         }
     ],
     "wof:id":286629013,
-    "wof:lastmodified":1472334598,
+    "wof:lastmodified":1491947838,
     "wof:name":"Windsor Golf Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

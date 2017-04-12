@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.283007,38.277889,-122.283007,38.277889",
     "geom:latitude":38.277889,
     "geom:longitude":-122.283007,
@@ -31,16 +32,25 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vB5H7XDLgyymGkb0cXBwb_38.277889_-122.283007@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"21e4099dc0a1dfeb2bf6b6a816444ed8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":588466983
+        }
+    ],
     "wof:id":588466983,
-    "wof:lastmodified":1472350482,
+    "wof:lastmodified":1491967364,
     "wof:name":"Black Sea Spa Inc",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

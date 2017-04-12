@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.37305,34.052734,-118.37305,34.052734",
     "geom:latitude":34.052734,
     "geom:longitude":-118.37305,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996415,
+        "420551221",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85867345
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"a5d8cb1f04783979bfd86f7fd91892fb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85867345,
+            "macrohood_id":1108692797,
+            "microhood_id":1058996415,
+            "neighbourhood_id":"420551221",
             "region_id":85688637,
             "venue_id":387118631
         }
     ],
     "wof:id":387118631,
-    "wof:lastmodified":1472340469,
+    "wof:lastmodified":1491917946,
     "wof:name":"M C Print Express",
-    "wof:parent_id":85867345,
+    "wof:parent_id":1058996415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

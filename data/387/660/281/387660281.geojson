@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.35138,34.036977,-118.35138,34.036977",
     "geom:latitude":34.036977,
     "geom:longitude":-118.35138,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865803
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"44066bceb19d31220a38c9ce0194a092",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865803,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":387660281
         }
     ],
     "wof:id":387660281,
-    "wof:lastmodified":1472347991,
+    "wof:lastmodified":1491917910,
     "wof:name":"Greenart Landscape Design Inc",
-    "wof:parent_id":85865803,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

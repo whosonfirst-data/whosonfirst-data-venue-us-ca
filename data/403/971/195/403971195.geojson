@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.308775,33.978416,-118.308775,33.978416",
     "geom:latitude":33.978416,
     "geom:longitude":-118.308775,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996441,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"c890bb06d6faeae0fb8a0c5a9c3856b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996441,
             "region_id":85688637,
             "venue_id":403971195
         }
     ],
     "wof:id":403971195,
-    "wof:lastmodified":1472341869,
+    "wof:lastmodified":1491867477,
     "wof:name":"C Amaya",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

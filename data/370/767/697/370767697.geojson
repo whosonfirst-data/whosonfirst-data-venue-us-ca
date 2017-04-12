@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.442211,34.037618,-118.442211,34.037618",
     "geom:latitude":34.037618,
     "geom:longitude":-118.442211,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"e582acfd11adb798b90491b7cdef1e00",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":370767697
         }
     ],
     "wof:id":370767697,
-    "wof:lastmodified":1472343738,
+    "wof:lastmodified":1491884302,
     "wof:name":"American I D C Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

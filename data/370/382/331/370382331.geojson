@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.278402,33.965505,-118.278402,33.965505",
     "geom:latitude":33.965505,
     "geom:longitude":-118.278402,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"e6fae6d0b810a70e293d928cf328aa4c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868337,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":370382331
         }
     ],
     "wof:id":370382331,
-    "wof:lastmodified":1472340192,
+    "wof:lastmodified":1491867919,
     "wof:name":"Our Pride Body Shop",
-    "wof:parent_id":85868337,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

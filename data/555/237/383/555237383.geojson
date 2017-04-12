@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.642293,34.173773,-118.642293,34.173773",
     "geom:latitude":34.173773,
     "geom:longitude":-118.642293,
@@ -31,18 +32,37 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85858757",
+        102191575,
+        1108692439,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S5MVWCB2IhSOG1A8ftdJJ_34.173773_-118.642293@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"30203205943930cd9edcf7f0dd728ad5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
+            "region_id":85688637,
+            "venue_id":555237383
+        }
+    ],
     "wof:id":555237383,
-    "wof:lastmodified":1472343342,
+    "wof:lastmodified":1491888923,
     "wof:name":"GIFT&Glitz.Com",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

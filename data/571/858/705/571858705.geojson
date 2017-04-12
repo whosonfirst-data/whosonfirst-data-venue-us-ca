@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.273871,33.941032,-118.273871,33.941032",
     "geom:latitude":33.941032,
     "geom:longitude":-118.273871,
@@ -33,18 +34,37 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85868337",
+        102191575,
+        1108692435,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yL6VfGfV4xgLf5AHOTzni_33.941032_-118.273871@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"572e4b8afb8a6530f0e584f8dba77c3a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
+            "region_id":85688637,
+            "venue_id":571858705
+        }
+    ],
     "wof:id":571858705,
-    "wof:lastmodified":1472349202,
+    "wof:lastmodified":1491868277,
     "wof:name":"Professional Welding",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

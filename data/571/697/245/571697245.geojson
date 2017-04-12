@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.999461,37.82055,-121.999461,37.82055",
     "geom:latitude":37.82055,
     "geom:longitude":-121.999461,
@@ -31,16 +32,31 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AC5Y0WRR0RPudnbCEUqOl_37.820550_-121.999461@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"53e8b5071662698006fd0811d3519087",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":571697245
+        }
+    ],
     "wof:id":571697245,
-    "wof:lastmodified":1472343310,
+    "wof:lastmodified":1491963533,
     "wof:name":"Crystal Blue Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

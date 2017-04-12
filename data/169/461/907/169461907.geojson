@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.244186,38.005175,-122.244186,38.005175",
     "geom:latitude":38.005175,
     "geom:longitude":-122.244186,
@@ -29,10 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922173,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922173,
+        102086225,
+        420550549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,19 @@
     "wof:geomhash":"b2f8689bc88fca11c2827ea62ca69313",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922173,
+            "neighbourhood_id":420550549,
             "region_id":85688637,
             "venue_id":169461907
         }
     ],
     "wof:id":169461907,
-    "wof:lastmodified":1472331705,
+    "wof:lastmodified":1491961590,
     "wof:name":"Wongs Trading Co Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550549,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

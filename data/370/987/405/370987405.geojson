@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.300046,33.989776,-118.300046,33.989776",
     "geom:latitude":33.989776,
     "geom:longitude":-118.300046,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996437,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"5d92ca19b1fc6ee450379d7ae4056629",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996437,
             "region_id":85688637,
             "venue_id":370987405
         }
     ],
     "wof:id":370987405,
-    "wof:lastmodified":1472349398,
+    "wof:lastmodified":1491867925,
     "wof:name":"Normandie Smog Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

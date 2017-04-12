@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.213282,37.483411,-122.213282,37.483411",
     "geom:latitude":37.483411,
     "geom:longitude":-122.213282,
@@ -35,8 +36,14 @@
     "sg:website":"www.resourcesforreading.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85925811,
+        102085387,
+        85887013,
+        85922447,
+        420552327
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +53,28 @@
     "wof:geomhash":"627a9e3ff651fae077132102ab0fcc6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085387,
+            "locality_id":85925811,
+            "neighbourhood_id":85887013,
+            "region_id":85688637,
+            "venue_id":336895037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":420552327,
             "region_id":85688637,
             "venue_id":336895037
         }
     ],
     "wof:id":336895037,
-    "wof:lastmodified":1472333215,
+    "wof:lastmodified":1491958415,
     "wof:name":"Resources For Reading Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

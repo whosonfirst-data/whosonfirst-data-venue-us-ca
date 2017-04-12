@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657095,38.365183,-122.657095,38.365183",
     "geom:latitude":38.365183,
     "geom:longitude":-122.657095,
@@ -29,8 +30,11 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85886857,
+        102081671,
+        85887157
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,24 @@
     "wof:geomhash":"2a6f00836e8f46b397b7cd09ba55696c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85886857,
+            "region_id":85688637,
+            "venue_id":269708233
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887157,
             "region_id":85688637,
             "venue_id":269708233
         }
     ],
     "wof:id":269708233,
-    "wof:lastmodified":1472332974,
+    "wof:lastmodified":1491957312,
     "wof:name":"West Coast Maternity",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

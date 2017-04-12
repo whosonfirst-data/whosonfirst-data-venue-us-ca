@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.922364,37.803335,-121.922364,37.803335",
     "geom:latitude":37.803335,
     "geom:longitude":-121.922364,
@@ -28,16 +29,31 @@
     "sg:postcode":"94506",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gQ4tUeVk0marY5mYXPG3C_37.803335_-121.922364@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"098526f9f2d476625345af6bca815035",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":555410417
+        }
+    ],
     "wof:id":555410417,
-    "wof:lastmodified":1472349566,
+    "wof:lastmodified":1491959133,
     "wof:name":"Blackhawk Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

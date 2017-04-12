@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.342945,37.935069,-122.342945,37.935069",
     "geom:latitude":37.935069,
     "geom:longitude":-122.342945,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922131,
-        102086225
+        102086225,
+        85880383,
+        85880355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"a4418f6dcfe03ca1ffdcea7e93e8254e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880383,
+            "region_id":85688637,
+            "venue_id":236732047
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85880355,
             "region_id":85688637,
             "venue_id":236732047
         }
     ],
     "wof:id":236732047,
-    "wof:lastmodified":1472334804,
+    "wof:lastmodified":1491917571,
     "wof:name":"Robinson Weeks Robinson Sch",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.686959,38.379473,-122.686959,38.379473",
     "geom:latitude":38.379473,
     "geom:longitude":-122.686959,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85887157,
+        102081671,
+        85922697,
+        85887161
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,25 @@
     "wof:geomhash":"da7324fe1836f4c4d5c6fd920966e981",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85887157,
+            "region_id":85688637,
+            "venue_id":336676877
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922697,
+            "neighbourhood_id":85887161,
             "region_id":85688637,
             "venue_id":336676877
         }
     ],
     "wof:id":336676877,
-    "wof:lastmodified":1472331480,
+    "wof:lastmodified":1491963178,
     "wof:name":"Kolnes Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

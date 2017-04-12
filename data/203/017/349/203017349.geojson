@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230584,34.174391,-118.230584,34.174391",
     "geom:latitude":34.174391,
     "geom:longitude":-118.230584,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923615,
-        102086957
+        102086957,
+        85877767,
+        420551023
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"f940e10586b04e8b5b102803c69298c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877767,
+            "region_id":85688637,
+            "venue_id":203017349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":420551023,
             "region_id":85688637,
             "venue_id":203017349
         }
     ],
     "wof:id":203017349,
-    "wof:lastmodified":1472330949,
+    "wof:lastmodified":1491917489,
     "wof:name":"Mohammed Saddick",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

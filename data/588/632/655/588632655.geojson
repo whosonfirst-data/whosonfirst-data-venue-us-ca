@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.540962,37.77396,-121.540962,37.77396",
     "geom:latitude":37.77396,
     "geom:longitude":-121.540962,
@@ -31,16 +32,31 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85928045,
+        102085393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0V2lRrzc5LyW1mFDNAt48c_37.773960_-121.540962@1303263379"
     },
     "wof:country":"US",
     "wof:geomhash":"52e9be63d713feebebb37d7393a1e770",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085393,
+            "locality_id":85928045,
+            "region_id":85688637,
+            "venue_id":588632655
+        }
+    ],
     "wof:id":588632655,
-    "wof:lastmodified":1472352998,
+    "wof:lastmodified":1491950622,
     "wof:name":"Automated Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

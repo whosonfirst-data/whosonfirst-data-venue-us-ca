@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.300101,34.007541,-118.300101,34.007541",
     "geom:latitude":34.007541,
     "geom:longitude":-118.300101,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868375
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"9b6762b2c3c4eece9854cd4110626237",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868375,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869759",
             "region_id":85688637,
             "venue_id":404037013
         }
     ],
     "wof:id":404037013,
-    "wof:lastmodified":1472338369,
+    "wof:lastmodified":1491868205,
     "wof:name":"Vera S Trucking",
-    "wof:parent_id":85868375,
+    "wof:parent_id":"85869759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

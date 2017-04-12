@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.409327,34.200459,-118.409327,34.200459",
     "geom:latitude":34.200459,
     "geom:longitude":-118.409327,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865853
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +54,20 @@
     "wof:geomhash":"f60fee886d60fe2aa394ffd91ef9d788",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865853,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":370927595
         }
     ],
     "wof:id":370927595,
-    "wof:lastmodified":1472345465,
+    "wof:lastmodified":1491906692,
     "wof:name":"California Wiz Kids",
-    "wof:parent_id":85865853,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

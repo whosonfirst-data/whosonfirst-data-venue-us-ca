@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.360618,34.23564,-118.360618,34.23564",
     "geom:latitude":34.23564,
     "geom:longitude":-118.360618,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85851435
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"7e5113677f6d38b9f56898b5827a9b9e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85851435,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":185781885
         }
     ],
     "wof:id":185781885,
-    "wof:lastmodified":1472331992,
+    "wof:lastmodified":1491930954,
     "wof:name":"Theodore Payne Foundation-Wild",
-    "wof:parent_id":85851435,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

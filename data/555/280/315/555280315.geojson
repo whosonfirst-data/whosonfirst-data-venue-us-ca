@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.484569,37.901473,-122.484569,37.901473",
     "geom:latitude":37.901473,
     "geom:longitude":-122.484569,
@@ -32,16 +33,31 @@
         "ecological"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921959,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AiGdJbEBqQs7sJ2VIZP3t_37.901473_-122.484569@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"de8e0be5981becaca079931a98babcca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85921959,
+            "region_id":85688637,
+            "venue_id":555280315
+        }
+    ],
     "wof:id":555280315,
-    "wof:lastmodified":1472343865,
+    "wof:lastmodified":1491961454,
     "wof:name":"Redwood Environmental Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

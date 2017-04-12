@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.04806,37.39035,-122.04806,37.39035",
     "geom:latitude":37.39035,
     "geom:longitude":-122.04806,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922355,
-        102081673
+        102081673,
+        85835865,
+        85922333,
+        85881237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"743e8260a5156c60d06b26a12b8acf75",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85835865,
+            "region_id":85688637,
+            "venue_id":354129215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "neighbourhood_id":85881237,
             "region_id":85688637,
             "venue_id":354129215
         }
     ],
     "wof:id":354129215,
-    "wof:lastmodified":1472333338,
+    "wof:lastmodified":1491966090,
     "wof:name":"Insilicon Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

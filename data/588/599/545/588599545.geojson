@@ -31,16 +31,16 @@
     "sg:website":"www.jasmindesign.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802961,
-        102191575,
-        1108782555,
-        85633793,
-        85922347,
-        102081673,
         85688637,
-        1108778911,
+        102191575,
+        85633793,
         85925507,
-        420559369
+        102081673,
+        420559369,
+        85802961,
+        1108782555,
+        85922347,
+        1108778911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +49,15 @@
     "wof:country":"US",
     "wof:geomhash":"4b6b19f8eed643dd25ea858480f1fc13",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925507,
+            "neighbourhood_id":420559369,
+            "region_id":85688637,
+            "venue_id":588599545
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -68,19 +77,10 @@
             "neighbourhood_id":1108778911,
             "region_id":85688637,
             "venue_id":588599545
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85925507,
-            "neighbourhood_id":420559369,
-            "region_id":85688637,
-            "venue_id":588599545
         }
     ],
     "wof:id":588599545,
-    "wof:lastmodified":1485457665,
+    "wof:lastmodified":1491958636,
     "wof:name":"Gigi's Florist by Jasmin's Design",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

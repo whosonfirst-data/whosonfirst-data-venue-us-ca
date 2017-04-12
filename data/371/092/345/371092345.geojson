@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.866975,36.793603,-119.866975,36.793603",
     "geom:latitude":36.793603,
     "geom:longitude":-119.866975,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922995,
-        102084347
+        102084347,
+        85836109,
+        85825297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"c742b1ba70a34d2f754c2f6af1634e1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084347,
             "locality_id":85922995,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85836109,
+            "region_id":85688637,
+            "venue_id":371092345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85825297,
             "region_id":85688637,
             "venue_id":371092345
         }
     ],
     "wof:id":371092345,
-    "wof:lastmodified":1472338936,
+    "wof:lastmodified":1491893842,
     "wof:name":"U-Haul Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

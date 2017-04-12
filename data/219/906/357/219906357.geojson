@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.473344,37.675826,-122.473344,37.675826",
     "geom:latitude":37.675826,
     "geom:longitude":-122.473344,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922529,
-        102085387
+        102085387,
+        420552329,
+        420552317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"ce56399a2dd32dea834d41031a5c340b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922529,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552329,
+            "region_id":85688637,
+            "venue_id":219906357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":420552317,
             "region_id":85688637,
             "venue_id":219906357
         }
     ],
     "wof:id":219906357,
-    "wof:lastmodified":1472334663,
+    "wof:lastmodified":1491957955,
     "wof:name":"Pacific Cardiovascular Surgeon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

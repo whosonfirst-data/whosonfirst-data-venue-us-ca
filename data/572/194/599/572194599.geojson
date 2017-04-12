@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.02246,37.608209,-122.02246,37.608209",
     "geom:latitude":37.608209,
     "geom:longitude":-122.02246,
@@ -32,16 +33,31 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921863,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sOz0W1rmCZCd8soSqAHlP_37.608209_-122.022460@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"fd9df453910a1b747b1157501d3a1ac4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921863,
+            "region_id":85688637,
+            "venue_id":572194599
+        }
+    ],
     "wof:id":572194599,
-    "wof:lastmodified":1472343589,
+    "wof:lastmodified":1491958026,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

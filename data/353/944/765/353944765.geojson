@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.09775,37.41679,-122.09775,37.41679",
     "geom:latitude":37.41679,
     "geom:longitude":-122.09775,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922351,
+        102081673,
+        85879679,
         85922355,
-        102081673
+        85879667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"d4a12fb543d62e91662fac833586be92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879679,
+            "region_id":85688637,
+            "venue_id":353944765
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85879667,
             "region_id":85688637,
             "venue_id":353944765
         }
     ],
     "wof:id":353944765,
-    "wof:lastmodified":1472338351,
+    "wof:lastmodified":1491956369,
     "wof:name":"Circuit Integration Technology",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

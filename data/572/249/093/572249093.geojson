@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.484989,34.317655,-118.484989,34.317655",
     "geom:latitude":34.317655,
     "geom:longitude":-118.484989,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851717",
         102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851717",
             "region_id":85688637,
             "venue_id":572249093
         }
     ],
     "wof:id":572249093,
-    "wof:lastmodified":1472345974,
+    "wof:lastmodified":1491902233,
     "wof:name":"Los Angeles Cnty Juvenile Hall",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85851717",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

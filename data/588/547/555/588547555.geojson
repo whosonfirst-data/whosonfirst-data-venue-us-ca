@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.65718,37.050958,-121.65718,37.050958",
     "geom:latitude":37.050958,
     "geom:longitude":-121.65718,
@@ -45,16 +46,29 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31bU5p07dT013ZePRmPFf1_37.050958_-121.657180@1303263357"
     },
     "wof:country":"US",
     "wof:geomhash":"c5f09932f9af2dd2608d3b56a02a2c24",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "region_id":85688637,
+            "venue_id":588547555
+        }
+    ],
     "wof:id":588547555,
-    "wof:lastmodified":1472351535,
+    "wof:lastmodified":1491970678,
     "wof:name":"Publico Press Printers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

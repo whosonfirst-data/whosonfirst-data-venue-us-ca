@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.379051,34.033697,-118.379051,34.033697",
     "geom:latitude":34.033697,
     "geom:longitude":-118.379051,
@@ -33,11 +34,13 @@
     "sg:website":"www.extraspace.com/Storage/Facil...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
-        85923649,
+        85923517,
         102086957,
-        85885835
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"8d44b53b4def18adf7c1dae94d68d23b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885835,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370925713
         }
     ],
     "wof:id":370925713,
-    "wof:lastmodified":1472345711,
+    "wof:lastmodified":1491917868,
     "wof:name":"Extra Space Storage",
-    "wof:parent_id":85885835,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

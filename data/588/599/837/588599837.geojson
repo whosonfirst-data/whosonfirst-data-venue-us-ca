@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.823827,37.375844,-121.823827,37.375844",
     "geom:latitude":37.375844,
     "geom:longitude":-121.823827,
@@ -34,12 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
+        85633793,
         85925507,
-        420559369
+        102081673,
+        420559369,
+        85925491,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,6 @@
     "wof:geomhash":"a9aaf6b96e5285438778b55d316d60df",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":588599837
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
@@ -63,12 +58,21 @@
             "neighbourhood_id":420559369,
             "region_id":85688637,
             "venue_id":588599837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
+            "region_id":85688637,
+            "venue_id":588599837
         }
     ],
     "wof:id":588599837,
-    "wof:lastmodified":1472352503,
+    "wof:lastmodified":1491968308,
     "wof:name":"Hope With Sudan",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

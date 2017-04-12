@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.065021,37.607243,-122.065021,37.607243",
     "geom:latitude":37.607243,
     "geom:longitude":-122.065021,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921895,
-        102086959
+        102086959,
+        85868333,
+        85809601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"f86ad2e2381c9ce0569dd10e1773d5e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85868333,
+            "region_id":85688637,
+            "venue_id":185790253
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85809601,
             "region_id":85688637,
             "venue_id":185790253
         }
     ],
     "wof:id":185790253,
-    "wof:lastmodified":1472332061,
+    "wof:lastmodified":1491962579,
     "wof:name":"Crescent Truck Lines Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

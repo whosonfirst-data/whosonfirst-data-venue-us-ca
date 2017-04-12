@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.597361,34.179243,-118.597361,34.179243",
     "geom:latitude":34.179243,
     "geom:longitude":-118.597361,
@@ -35,7 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691517,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -46,18 +53,21 @@
     "wof:geomhash":"27767ba395471c1044032dd41a1ced2f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "microhood_id":1108691517,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":370348199
         }
     ],
     "wof:id":370348199,
-    "wof:lastmodified":1472339563,
+    "wof:lastmodified":1491889077,
     "wof:name":"Hemacare Corporation",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

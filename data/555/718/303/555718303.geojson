@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.320505,33.98805,-118.320505,33.98805",
     "geom:latitude":33.98805,
     "geom:longitude":-118.320505,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        420551075
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":420551075,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":555718303
         }
     ],
     "wof:id":555718303,
-    "wof:lastmodified":1472352788,
+    "wof:lastmodified":1491868299,
     "wof:name":"Chin Tec Policarpo",
-    "wof:parent_id":420551075,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

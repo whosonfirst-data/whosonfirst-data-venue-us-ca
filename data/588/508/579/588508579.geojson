@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.252374,37.850409,-122.252374,37.850409",
     "geom:latitude":37.850409,
     "geom:longitude":-122.252374,
@@ -34,7 +35,10 @@
         85633793,
         85921915,
         102086959,
-        85885639
+        85885639,
+        85872371,
+        1108794075,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +55,22 @@
             "neighbourhood_id":85885639,
             "region_id":85688637,
             "venue_id":588508579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":85872371,
+            "region_id":85688637,
+            "venue_id":588508579
         }
     ],
     "wof:id":588508579,
-    "wof:lastmodified":1472350938,
+    "wof:lastmodified":1491963375,
     "wof:name":"Casual Carpool",
-    "wof:parent_id":85885639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

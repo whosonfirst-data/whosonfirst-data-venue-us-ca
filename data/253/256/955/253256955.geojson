@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.357205,34.047673,-118.357205,34.047673",
     "geom:latitude":34.047673,
     "geom:longitude":-118.357205,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865813
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"8d892514024c354018c1a357a5d46591",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865813,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":253256955
         }
     ],
     "wof:id":253256955,
-    "wof:lastmodified":1472332676,
+    "wof:lastmodified":1491917901,
     "wof:name":"Jackies Neckties",
-    "wof:parent_id":85865813,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.160265,37.447107,-122.160265,37.447107",
     "geom:latitude":37.447107,
     "geom:longitude":-122.160265,
@@ -26,16 +27,31 @@
         "tobacco"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7gxtw7B5RJWrEtPoqXFrQQ_37.447107_-122.160265@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"3fd86b3f40f6b88fd93b4077219d1037",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572146027
+        }
+    ],
     "wof:id":572146027,
-    "wof:lastmodified":1472342353,
+    "wof:lastmodified":1491957557,
     "wof:name":"Hemingway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

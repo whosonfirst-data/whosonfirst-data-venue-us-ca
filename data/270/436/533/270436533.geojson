@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230923,34.039404,-118.230923,34.039404",
     "geom:latitude":34.039404,
     "geom:longitude":-118.230923,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531569,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869087
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"beaf21a2891d2fe42a82c506d685b7b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869087,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531569,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":270436533
         }
     ],
     "wof:id":270436533,
-    "wof:lastmodified":1472334776,
+    "wof:lastmodified":1491892570,
     "wof:name":"Serious Inc",
-    "wof:parent_id":85869087,
+    "wof:parent_id":1041531569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

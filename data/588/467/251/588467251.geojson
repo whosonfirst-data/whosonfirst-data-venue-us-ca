@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28746,38.286381,-122.28746,38.286381",
     "geom:latitude":38.286381,
     "geom:longitude":-122.28746,
@@ -43,16 +44,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vYiFmH3XY8cJgV8Cb735E_38.286381_-122.287460@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"e2a8cfefad53e01131eac60cffb18df5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":588467251
+        }
+    ],
     "wof:id":588467251,
-    "wof:lastmodified":1472350296,
+    "wof:lastmodified":1491967813,
     "wof:name":"Napa Furniture & Home Dctg",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

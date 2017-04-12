@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616651,38.105724,-122.616651,38.105724",
     "geom:latitude":38.105724,
     "geom:longitude":-122.616651,
@@ -32,16 +33,25 @@
         "filing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551405
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20wa7FG5cop7GaowtHr6To_38.105724_-122.616651@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bfdd67be132b50a4f0d6ccb99f41e51d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551405,
+            "venue_id":555143299
+        }
+    ],
     "wof:id":555143299,
-    "wof:lastmodified":1472341696,
+    "wof:lastmodified":1491970384,
     "wof:name":"S Paul Jain",
     "wof:parent_id":420551405,
     "wof:placetype":"venue",

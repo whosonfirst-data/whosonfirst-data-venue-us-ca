@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.779618,36.955657,-121.779618,36.955657",
     "geom:latitude":36.955657,
     "geom:longitude":-121.779618,
@@ -35,16 +36,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924367,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YJKQfz0zVlgOZeK7EuEBy_36.955657_-121.779618@1303263363"
     },
     "wof:country":"US",
     "wof:geomhash":"02c5d21cefa65d02b5f36ed9d78f6dd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924367,
+            "region_id":85688637,
+            "venue_id":588572051
+        }
+    ],
     "wof:id":588572051,
-    "wof:lastmodified":1472351886,
+    "wof:lastmodified":1491958953,
     "wof:name":"Austin Escoto Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

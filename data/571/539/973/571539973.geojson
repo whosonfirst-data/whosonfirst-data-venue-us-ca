@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.026654,37.923963,-122.026654,37.923963",
     "geom:latitude":37.923963,
     "geom:longitude":-122.026654,
@@ -38,7 +39,9 @@
         85633793,
         85922117,
         102086225,
-        85888203
+        85888203,
+        85922187,
+        85876861
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,21 @@
             "neighbourhood_id":85888203,
             "region_id":85688637,
             "venue_id":571539973
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922187,
+            "neighbourhood_id":85876861,
+            "region_id":85688637,
+            "venue_id":571539973
         }
     ],
     "wof:id":571539973,
-    "wof:lastmodified":1472339934,
+    "wof:lastmodified":1491959751,
     "wof:name":"Alternatives In Psychiatry",
-    "wof:parent_id":85888203,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

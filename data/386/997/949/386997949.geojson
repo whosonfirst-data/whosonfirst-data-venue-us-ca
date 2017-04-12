@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.442001,34.037601,-118.442001,34.037601",
     "geom:latitude":34.037601,
     "geom:longitude":-118.442001,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85826077
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"f2c9d057e68c86d56f302a7dfdd7af88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85826077,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":386997949
         }
     ],
     "wof:id":386997949,
-    "wof:lastmodified":1472339664,
+    "wof:lastmodified":1491884446,
     "wof:name":"Morris David J Attorney At Law",
-    "wof:parent_id":85826077,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

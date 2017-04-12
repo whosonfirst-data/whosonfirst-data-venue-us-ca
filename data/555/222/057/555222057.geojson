@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.992619,37.804989,-121.992619,37.804989",
     "geom:latitude":37.804989,
     "geom:longitude":-121.992619,
@@ -32,16 +33,31 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OlrwpZsVxjkt3UsMUbZYw_37.804989_-121.992619@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0f7de0ac0405387dfd9ec14ed0e62fc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555222057
+        }
+    ],
     "wof:id":555222057,
-    "wof:lastmodified":1472343035,
+    "wof:lastmodified":1491948862,
     "wof:name":"Allmon's Office Overload",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

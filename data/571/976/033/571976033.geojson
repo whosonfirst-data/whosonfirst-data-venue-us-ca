@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995387,37.288506,-121.995387,37.288506",
     "geom:latitude":37.288506,
     "geom:longitude":-121.995387,
@@ -40,7 +41,10 @@
         85633793,
         85922337,
         102081673,
-        85887965
+        85887965,
+        85887527,
+        1108782547,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +61,22 @@
             "neighbourhood_id":85887965,
             "region_id":85688637,
             "venue_id":571976033
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782547,
+            "neighbourhood_id":85887527,
+            "region_id":85688637,
+            "venue_id":571976033
         }
     ],
     "wof:id":571976033,
-    "wof:lastmodified":1472350520,
+    "wof:lastmodified":1491882103,
     "wof:name":"Radio Shack",
-    "wof:parent_id":85887965,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

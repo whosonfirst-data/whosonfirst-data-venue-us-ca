@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.247233,34.025425,-118.247233,34.025425",
     "geom:latitude":34.025425,
     "geom:longitude":-118.247233,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869163
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"e438e2580a6471af47cab88d3eb990d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869163,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":387508105
         }
     ],
     "wof:id":387508105,
-    "wof:lastmodified":1472343864,
+    "wof:lastmodified":1491928056,
     "wof:name":"Alcon Transportation",
-    "wof:parent_id":85869163,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

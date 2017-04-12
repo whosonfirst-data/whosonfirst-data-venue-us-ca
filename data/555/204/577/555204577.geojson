@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.267973,33.989902,-118.267973,33.989902",
     "geom:latitude":33.989902,
     "geom:longitude":-118.267973,
@@ -29,12 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":555204577
         }
     ],
     "wof:id":555204577,
-    "wof:lastmodified":1472342955,
+    "wof:lastmodified":1491868069,
     "wof:name":"Padilla's Furniture",
-    "wof:parent_id":85865791,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.462903,34.037544,-118.462903,34.037544",
     "geom:latitude":34.037544,
     "geom:longitude":-118.462903,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85847231
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     "wof:geomhash":"070e80eac721b822578815926feddfbc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85847231,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":169432885
         }
     ],
     "wof:id":169432885,
-    "wof:lastmodified":1472331025,
+    "wof:lastmodified":1491884397,
     "wof:name":"Homeowner's Association",
-    "wof:parent_id":85847231,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

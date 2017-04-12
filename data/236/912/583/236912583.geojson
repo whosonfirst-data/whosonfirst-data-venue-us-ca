@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.372947,34.24452,-118.372947,34.24452",
     "geom:latitude":34.24452,
     "geom:longitude":-118.372947,
@@ -34,7 +35,13 @@
     "sg:website":"www.heybabyofca.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691231,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +52,21 @@
     "wof:geomhash":"c1fb1ce1b69c207993380df7110e53d9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "microhood_id":1108691231,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":236912583
         }
     ],
     "wof:id":236912583,
-    "wof:lastmodified":1472335240,
+    "wof:lastmodified":1491930941,
     "wof:name":"Hey Baby Of Ca",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

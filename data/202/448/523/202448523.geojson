@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.657958,38.241744,-122.657958,38.241744",
     "geom:latitude":38.241744,
     "geom:longitude":-122.657958,
@@ -32,7 +33,9 @@
         85688637,
         85633793,
         85922701,
-        102081671
+        102081671,
+        85813067,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,26 @@
     "wof:geomhash":"719a1c9f8e8b087d2b15ad3c12e53ec8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813067,
+            "region_id":85688637,
+            "venue_id":202448523
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":202448523
         }
     ],
     "wof:id":202448523,
-    "wof:lastmodified":1472331113,
+    "wof:lastmodified":1491950104,
     "wof:name":"Live Oak Charter School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

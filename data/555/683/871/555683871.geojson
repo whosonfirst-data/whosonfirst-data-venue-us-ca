@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.9221,37.799156,-121.9221,37.799156",
     "geom:latitude":37.799156,
     "geom:longitude":-121.9221,
@@ -31,16 +32,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yqNfVxjyNeeSSFfvPF34I_37.799156_-121.922100@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"63753f98f5d720a1754dd0139390a37c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555683871
+        }
+    ],
     "wof:id":555683871,
-    "wof:lastmodified":1472352555,
+    "wof:lastmodified":1491961539,
     "wof:name":"California Marble & Stone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

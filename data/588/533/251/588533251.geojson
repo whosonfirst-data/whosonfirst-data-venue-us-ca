@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.702393,38.011127,-122.702393,38.011127",
     "geom:latitude":38.011127,
     "geom:longitude":-122.702393,
@@ -36,16 +37,31 @@
         "french"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924669,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jT1wWWhQznf2TjPs0vQEJ_38.011127_-122.702393@1303263353"
     },
     "wof:country":"US",
     "wof:geomhash":"320998729b27658ad2b4d1bd11468a7d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924669,
+            "region_id":85688637,
+            "venue_id":588533251
+        }
+    ],
     "wof:id":588533251,
-    "wof:lastmodified":1472351170,
+    "wof:lastmodified":1491948390,
     "wof:name":"Le Printemps Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

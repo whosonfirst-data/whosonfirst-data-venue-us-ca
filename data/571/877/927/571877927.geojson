@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.378359,34.04803,-118.378359,34.04803",
     "geom:latitude":34.04803,
     "geom:longitude":-118.378359,
@@ -28,18 +29,39 @@
     "sg:postcode":"90035",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1091764195,
+        "85865815",
+        102191575,
+        1108692797,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ms3lHpJPmENgSs1RvbLy9_34.048030_-118.378359@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"fe602820a827f7322ed2b3195cdb1aeb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "microhood_id":1091764195,
+            "neighbourhood_id":"85865815",
+            "region_id":85688637,
+            "venue_id":571877927
+        }
+    ],
     "wof:id":571877927,
-    "wof:lastmodified":1472349254,
+    "wof:lastmodified":1491912259,
     "wof:name":"Marc D Goodman",
-    "wof:parent_id":-1,
+    "wof:parent_id":1091764195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

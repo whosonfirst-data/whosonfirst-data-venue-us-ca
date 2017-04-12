@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.315541,37.553436,-122.315541,37.553436",
     "geom:latitude":37.553436,
     "geom:longitude":-122.315541,
@@ -29,10 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922431,
-        85633793,
         85688637,
-        102085387
+        102191575,
+        85633793,
+        85922431,
+        102085387,
+        420552343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,19 @@
     "wof:geomhash":"8cd8b5cf3ff973a5aa793dc1411f2ed0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922431,
+            "neighbourhood_id":420552343,
             "region_id":85688637,
             "venue_id":169461129
         }
     ],
     "wof:id":169461129,
-    "wof:lastmodified":1472331566,
+    "wof:lastmodified":1491963626,
     "wof:name":"Gene Mullin Assemblyman 19th",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

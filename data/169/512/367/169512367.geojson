@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.281395,37.503987,-122.281395,37.503987",
     "geom:latitude":37.503987,
     "geom:longitude":-122.281395,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922437,
-        85633793,
         85688637,
-        102085387
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"028f746edc986e61e4a2964e2a70d70b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
+            "neighbourhood_id":420552429,
             "region_id":85688637,
             "venue_id":169512367
         }
     ],
     "wof:id":169512367,
-    "wof:lastmodified":1472333388,
+    "wof:lastmodified":1491960204,
     "wof:name":"Transportation Management Grp",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

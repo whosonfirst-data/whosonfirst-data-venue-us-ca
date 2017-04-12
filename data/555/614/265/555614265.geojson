@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.903582,37.694164,-121.903582,37.694164",
     "geom:latitude":37.694164,
     "geom:longitude":-121.903582,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BnYLLwYX7YKu8WYmcydZl_37.694164_-121.903582@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"3c4dc015b0a5ea4144c5d63468c411a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":555614265
+        }
+    ],
     "wof:id":555614265,
-    "wof:lastmodified":1472351947,
+    "wof:lastmodified":1491959176,
     "wof:name":"National Electrical Contrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

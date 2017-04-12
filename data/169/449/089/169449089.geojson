@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.220074,34.1579,-118.220074,34.1579",
     "geom:latitude":34.1579,
     "geom:longitude":-118.220074,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85923615,
-        85633793,
         85688637,
-        102086957
+        102191575,
+        85633793,
+        85923615,
+        102086957,
+        85877711,
+        85877751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,28 @@
     "wof:geomhash":"af88e3bf16d41c735625e591fa0931ee",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
+            "neighbourhood_id":85877711,
+            "region_id":85688637,
+            "venue_id":169449089
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":85877751,
             "region_id":85688637,
             "venue_id":169449089
         }
     ],
     "wof:id":169449089,
-    "wof:lastmodified":1472331186,
+    "wof:lastmodified":1491938330,
     "wof:name":"Angel Guarding Security",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

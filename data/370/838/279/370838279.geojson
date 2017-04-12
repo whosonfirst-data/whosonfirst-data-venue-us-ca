@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.218698,34.079831,-118.218698,34.079831",
     "geom:latitude":34.079831,
     "geom:longitude":-118.218698,
@@ -34,11 +35,13 @@
     "sg:website":"www.amcalhousing.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85813775
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"c147e88bbef2ce8d9f10e97c11e0703a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85813775,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370838279
         }
     ],
     "wof:id":370838279,
-    "wof:lastmodified":1472344401,
+    "wof:lastmodified":1491909555,
     "wof:name":"Amcal General Contractors Inc",
-    "wof:parent_id":85813775,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

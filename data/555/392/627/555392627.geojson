@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12991,37.41218,-122.12991,37.41218",
     "geom:latitude":37.41218,
     "geom:longitude":-122.12991,
@@ -38,7 +39,8 @@
         85633793,
         85922351,
         102081673,
-        85879663
+        85879663,
+        85879695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,21 @@
             "neighbourhood_id":85879663,
             "region_id":85688637,
             "venue_id":555392627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879695,
+            "region_id":85688637,
+            "venue_id":555392627
         }
     ],
     "wof:id":555392627,
-    "wof:lastmodified":1472349390,
+    "wof:lastmodified":1491957007,
     "wof:name":"Suntek Memory Intl Inc",
-    "wof:parent_id":85879663,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

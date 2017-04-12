@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.134035,33.763871,-118.134035,33.763871",
     "geom:latitude":33.763871,
     "geom:longitude":-118.134035,
@@ -36,12 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85871771
+        102086957,
+        85871771,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +52,6 @@
     "wof:geomhash":"6ae3cddbd61d2ea232686bb2b1b44306",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":555671157
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -65,12 +59,19 @@
             "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":555671157
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":555671157
         }
     ],
     "wof:id":555671157,
-    "wof:lastmodified":1472352192,
+    "wof:lastmodified":1491894994,
     "wof:name":"Corby Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

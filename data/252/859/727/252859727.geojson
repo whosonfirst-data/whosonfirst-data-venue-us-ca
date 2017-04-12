@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.375148,34.256204,-118.375148,34.256204",
     "geom:latitude":34.256204,
     "geom:longitude":-118.375148,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"16ed947b9fed38f74f95b67e8f475e6e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":252859727
         }
     ],
     "wof:id":252859727,
-    "wof:lastmodified":1472331606,
+    "wof:lastmodified":1491930952,
     "wof:name":"Boy Genius Records and CL",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

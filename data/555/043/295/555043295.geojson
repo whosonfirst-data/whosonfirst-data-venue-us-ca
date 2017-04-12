@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.807843,38.002548,-121.807843,38.002548",
     "geom:latitude":38.002548,
     "geom:longitude":-121.807843,
@@ -32,16 +33,31 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56Iy0W4x9Y8r2gCZdsY9Zx_38.002548_-121.807843@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"53f43ba11b35d363562ceb494a5834df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":555043295
+        }
+    ],
     "wof:id":555043295,
-    "wof:lastmodified":1472339530,
+    "wof:lastmodified":1491960417,
     "wof:name":"Fontana's Auto & Truck Repair",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

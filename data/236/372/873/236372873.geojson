@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.273798,33.942976,-118.273798,33.942976",
     "geom:latitude":33.942976,
     "geom:longitude":-118.273798,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868337",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85836237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"c23385eb0a47806a33c9e1368c5f051b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836237,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
             "region_id":85688637,
             "venue_id":236372873
         }
     ],
     "wof:id":236372873,
-    "wof:lastmodified":1472333277,
+    "wof:lastmodified":1491868028,
     "wof:name":"Tabernacle Of Faith Baptist",
-    "wof:parent_id":85836237,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

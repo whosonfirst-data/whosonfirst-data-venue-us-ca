@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.729064,37.690946,-121.729064,37.690946",
     "geom:latitude":37.690946,
     "geom:longitude":-121.729064,
@@ -33,16 +34,31 @@
     "sg:postcode":"94550",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52dbwquwKBtr9n19wtEaX9_37.690946_-121.729064@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"3b0c526bb1757262b04d68ee0e92c6c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588463457
+        }
+    ],
     "wof:id":588463457,
-    "wof:lastmodified":1472350339,
+    "wof:lastmodified":1491958123,
     "wof:name":"Prince Pools",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

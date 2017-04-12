@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.122436,37.624077,-122.122436,37.624077",
     "geom:latitude":37.624077,
     "geom:longitude":-122.122436,
@@ -32,16 +33,31 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921895,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65AaV2vL9CWnYUhf6n0KxD_37.624077_-122.122436@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7dae5ac9c76d1cc035f01dc51380c2df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "region_id":85688637,
+            "venue_id":554982653
+        }
+    ],
     "wof:id":554982653,
-    "wof:lastmodified":1472337800,
+    "wof:lastmodified":1491965833,
     "wof:name":"Precision Endoscopy Of America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

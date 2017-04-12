@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.367144,34.233785,-118.367144,34.233785",
     "geom:latitude":34.233785,
     "geom:longitude":-118.367144,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851411",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85851411
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"043fceb523d10c0918dd1890f45418e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85851411,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851411",
             "region_id":85688637,
             "venue_id":269718361
         }
     ],
     "wof:id":269718361,
-    "wof:lastmodified":1472332974,
+    "wof:lastmodified":1491918508,
     "wof:name":"R C Tires & Wheels",
-    "wof:parent_id":85851411,
+    "wof:parent_id":"85851411",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.244899,34.046338,-118.244899,34.046338",
     "geom:latitude":34.046338,
     "geom:longitude":-118.244899,
@@ -29,7 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691449,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +47,21 @@
     "wof:geomhash":"3244821b4c3ab8b7a1f7fa2ab4ea09a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691449,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":404056849
         }
     ],
     "wof:id":404056849,
-    "wof:lastmodified":1472339246,
+    "wof:lastmodified":1491927712,
     "wof:name":"J N Trading",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

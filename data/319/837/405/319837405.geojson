@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.243977,34.0479,-118.243977,34.0479",
     "geom:latitude":34.0479,
     "geom:longitude":-118.243977,
@@ -29,7 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691449,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +47,21 @@
     "wof:geomhash":"a802959586ba7341430a45de3caf7e96",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691449,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":319837405
         }
     ],
     "wof:id":319837405,
-    "wof:lastmodified":1472331074,
+    "wof:lastmodified":1491927745,
     "wof:name":"Alis Crafts",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.639778,34.177192,-118.639778,34.177192",
     "geom:latitude":34.177192,
     "geom:longitude":-118.639778,
@@ -36,18 +37,37 @@
         "clothing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85858757",
+        102191575,
+        1108692439,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1d93zdcut091cZVDWDInjs_34.177256_-118.640168@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"4a2266f8cdaf2e7b2ce5e0edbb5a24c9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
+            "region_id":85688637,
+            "venue_id":571998793
+        }
+    ],
     "wof:id":571998793,
-    "wof:lastmodified":1472350828,
+    "wof:lastmodified":1491889058,
     "wof:name":"Eurolink Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

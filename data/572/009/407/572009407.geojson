@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.795373,36.96576,-121.795373,36.96576",
     "geom:latitude":36.96576,
     "geom:longitude":-121.795373,
@@ -33,16 +34,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924367,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qMZTmwVYAV4Nk7PO4KuyX_36.965828_-121.795056@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"2e5e5df7256c3f591d34bf27f82991f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924367,
+            "region_id":85688637,
+            "venue_id":572009407
+        }
+    ],
     "wof:id":572009407,
-    "wof:lastmodified":1472337849,
+    "wof:lastmodified":1491969084,
     "wof:name":"A & C Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

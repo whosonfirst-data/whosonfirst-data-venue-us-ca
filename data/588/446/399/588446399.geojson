@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.99996,37.821681,-121.99996,37.821681",
     "geom:latitude":37.821681,
     "geom:longitude":-121.99996,
@@ -48,16 +49,31 @@
         "hat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MYB9ns6yZI4OyM1IPWTOi_37.821681_-121.999960@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"5e3a6ebb647838e242d5945800a50648",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446399
+        }
+    ],
     "wof:id":588446399,
-    "wof:lastmodified":1472349688,
+    "wof:lastmodified":1491956836,
     "wof:name":"IronHorse Equestrian",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

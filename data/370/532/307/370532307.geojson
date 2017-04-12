@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.238998,34.047798,-118.238998,34.047798",
     "geom:latitude":34.047798,
     "geom:longitude":-118.238998,
@@ -38,11 +39,14 @@
     "sg:website":"www.quiznos.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561753,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85867339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,21 @@
     "wof:geomhash":"92d3ca804860e3e6227c5f4a26a0ae0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85867339,
+            "macrohood_id":1108694663,
+            "microhood_id":1108561753,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370532307
         }
     ],
     "wof:id":370532307,
-    "wof:lastmodified":1472342217,
+    "wof:lastmodified":1491892580,
     "wof:name":"Quizno's",
-    "wof:parent_id":85867339,
+    "wof:parent_id":1108561753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

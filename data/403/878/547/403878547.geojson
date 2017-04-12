@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26967,38.219784,-122.26967,38.219784",
     "geom:latitude":38.219784,
     "geom:longitude":-122.26967,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        102525231,
+        85831251,
+        102191575,
         85633793,
+        85922095,
+        102085383,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"5e5bfae5dba0ccea5de64f1e5d3402b1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102525231,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085383,
+            "locality_id":85922095,
+            "neighbourhood_id":85831251,
             "region_id":85688637,
             "venue_id":403878547
         }
     ],
     "wof:id":403878547,
-    "wof:lastmodified":1472341471,
+    "wof:lastmodified":1491970454,
     "wof:name":"Cobalt Consolidators",
-    "wof:parent_id":-1,
+    "wof:parent_id":102525231,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.259076,37.507115,-122.259076,37.507115",
     "geom:latitude":37.507115,
     "geom:longitude":-122.259076,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922437,
-        102085387
+        102085387,
+        85887241,
+        85887235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"66340163e8eef909dbc91392e418a804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887241,
+            "region_id":85688637,
+            "venue_id":320838897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":85887235,
             "region_id":85688637,
             "venue_id":320838897
         }
     ],
     "wof:id":320838897,
-    "wof:lastmodified":1472338383,
+    "wof:lastmodified":1491957320,
     "wof:name":"Crystal Clean Janitorial Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

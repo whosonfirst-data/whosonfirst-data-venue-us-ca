@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309079,33.955126,-118.309079,33.955126",
     "geom:latitude":33.955126,
     "geom:longitude":-118.309079,
@@ -35,13 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
-        102086957,
-        85857015,
         85923517,
-        85868371
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,28 +52,20 @@
     "wof:geomhash":"97674c5da0b82c860100e95b4c5a0082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
-            "region_id":85688637,
-            "venue_id":286366757
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868371,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":286366757
         }
     ],
     "wof:id":286366757,
-    "wof:lastmodified":1472332606,
+    "wof:lastmodified":1491867523,
     "wof:name":"Big O's Delivery",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

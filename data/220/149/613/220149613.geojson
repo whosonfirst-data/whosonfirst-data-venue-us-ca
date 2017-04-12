@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.24747,34.048357,-118.24747,34.048357",
     "geom:latitude":34.048357,
     "geom:longitude":-118.24747,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108564571,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869565
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"e198143a39b9c865a0c526c18d25e56f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869565,
+            "macrohood_id":1108694663,
+            "microhood_id":1108564571,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":220149613
         }
     ],
     "wof:id":220149613,
-    "wof:lastmodified":1472331375,
+    "wof:lastmodified":1491928184,
     "wof:name":"Pacific Outbound Service Co",
-    "wof:parent_id":85869565,
+    "wof:parent_id":1108564571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

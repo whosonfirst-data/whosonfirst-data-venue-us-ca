@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.246331,37.494098,-122.246331,37.494098",
     "geom:latitude":37.494098,
     "geom:longitude":-122.246331,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922447,
+        102085387,
+        85887017,
         85922437,
-        102085387
+        85887247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,28 @@
     "wof:geomhash":"ea160e73b74b286e559e2a4025f3fa70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":85887017,
+            "region_id":85688637,
+            "venue_id":387710439
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887247,
             "region_id":85688637,
             "venue_id":387710439
         }
     ],
     "wof:id":387710439,
-    "wof:lastmodified":1472349068,
+    "wof:lastmodified":1491948159,
     "wof:name":"David J Macdonald Real Estate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

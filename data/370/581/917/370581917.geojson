@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.247002,34.046398,-118.247002,34.046398",
     "geom:latitude":34.046398,
     "geom:longitude":-118.247002,
@@ -43,7 +44,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691449,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -54,18 +61,21 @@
     "wof:geomhash":"64b869aa49369cf6c889aaa65b073f0a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691449,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370581917
         }
     ],
     "wof:id":370581917,
-    "wof:lastmodified":1472342599,
+    "wof:lastmodified":1491928482,
     "wof:name":"Nutri Deli",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.352126,34.018277,-118.352126,34.018277",
     "geom:latitude":34.018277,
     "geom:longitude":-118.352126,
@@ -29,7 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108827613,
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +47,21 @@
     "wof:geomhash":"c09eb6d3e3f3b3a67fd9bb2c9b62e9f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827613,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":303332789
         }
     ],
     "wof:id":303332789,
-    "wof:lastmodified":1472334064,
+    "wof:lastmodified":1491868156,
     "wof:name":"Natural Research Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108827613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

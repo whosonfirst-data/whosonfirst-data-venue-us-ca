@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169183,37.428851,-122.169183,37.428851",
     "geom:latitude":37.428851,
     "geom:longitude":-122.169183,
@@ -38,16 +39,31 @@
     ],
     "sg:website":"http://www.stanfordskincenter.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925383,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tXiqPlhrXb5Nqc0Xw9RE6_37.428851_-122.169183@1303263324"
     },
     "wof:country":"US",
     "wof:geomhash":"9e255d6a9ad751150af6e43ce333e44e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925383,
+            "region_id":85688637,
+            "venue_id":588425183
+        }
+    ],
     "wof:id":588425183,
-    "wof:lastmodified":1472349079,
+    "wof:lastmodified":1491966543,
     "wof:name":"Human Biology Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

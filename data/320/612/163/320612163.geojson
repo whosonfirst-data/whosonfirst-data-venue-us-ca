@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.252214,34.131734,-118.252214,34.131734",
     "geom:latitude":34.131734,
     "geom:longitude":-118.252214,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923615,
         102086957,
-        85877763
+        "85877727",
+        85877763,
+        "85877765"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,37 @@
     "wof:geomhash":"166e884f1b2a584bee32c36e170504ca",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877727",
+            "region_id":85688637,
+            "venue_id":320612163
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
             "neighbourhood_id":85877763,
             "region_id":85688637,
             "venue_id":320612163
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877765",
+            "region_id":85688637,
+            "venue_id":320612163
         }
     ],
     "wof:id":320612163,
-    "wof:lastmodified":1472335916,
+    "wof:lastmodified":1491936629,
     "wof:name":"Professional Marketing",
-    "wof:parent_id":85877763,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

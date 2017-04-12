@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.266576,37.885802,-122.266576,37.885802",
     "geom:latitude":37.885802,
     "geom:longitude":-122.266576,
@@ -42,16 +43,31 @@
         "law"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Z8OkpxkkMKMz4rY9k62L7_37.885802_-122.266576@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"7080705795127337261ff272abc9ade7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588526333
+        }
+    ],
     "wof:id":588526333,
-    "wof:lastmodified":1472351170,
+    "wof:lastmodified":1491956910,
     "wof:name":"Law Office of Alex P. Moskovitz",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

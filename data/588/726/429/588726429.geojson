@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.163025,37.444491,-122.163025,37.444491",
     "geom:latitude":37.444491,
     "geom:longitude":-122.163025,
@@ -28,16 +29,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.commerce.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OdjNT6RsPw91mzIhXLfTx_37.444491_-122.163025@1308186496"
     },
     "wof:country":"US",
     "wof:geomhash":"44cf0a77d70a662ec5585cff1c4a9810",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588726429
+        }
+    ],
     "wof:id":588726429,
-    "wof:lastmodified":1472353582,
+    "wof:lastmodified":1491964514,
     "wof:name":"CommerceNet",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

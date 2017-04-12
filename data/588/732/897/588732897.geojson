@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.160884,37.445586,-122.160884,37.445586",
     "geom:latitude":37.445586,
     "geom:longitude":-122.160884,
@@ -38,16 +39,31 @@
     ],
     "sg:website":"http://glyde.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lz8biA76kiOH5iD9oeGJI_37.445586_-122.160884@1308186498"
     },
     "wof:country":"US",
     "wof:geomhash":"ad42116474cb4588c25db4af164b56ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588732897
+        }
+    ],
     "wof:id":588732897,
-    "wof:lastmodified":1472353621,
+    "wof:lastmodified":1491948300,
     "wof:name":"Glyde",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

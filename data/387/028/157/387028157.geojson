@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.435215,34.000419,-118.435215,34.000419",
     "geom:latitude":34.000419,
     "geom:longitude":-118.435215,
@@ -30,11 +31,13 @@
     "sg:website":"www.RowdySprout.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85832373",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85868389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"6148158b88b5092a901b55c296c097fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868389,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85832373",
             "region_id":85688637,
             "venue_id":387028157
         }
     ],
     "wof:id":387028157,
-    "wof:lastmodified":1472337389,
+    "wof:lastmodified":1491905523,
     "wof:name":"Rowdy Sprout",
-    "wof:parent_id":85868389,
+    "wof:parent_id":"85832373",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

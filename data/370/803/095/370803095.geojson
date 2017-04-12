@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.256198,37.468952,-122.256198,37.468952",
     "geom:latitude":37.468952,
     "geom:longitude":-122.256198,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922447,
-        102085387
+        102085387,
+        85887039,
+        85865155
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,26 @@
     "wof:geomhash":"23e96ddbf29a79dbb319783c46476eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922447,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887039,
+            "region_id":85688637,
+            "venue_id":370803095
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085387,
+            "neighbourhood_id":85865155,
             "region_id":85688637,
             "venue_id":370803095
         }
     ],
     "wof:id":370803095,
-    "wof:lastmodified":1472344040,
+    "wof:lastmodified":1491966049,
     "wof:name":"I S P S DOT Comm",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

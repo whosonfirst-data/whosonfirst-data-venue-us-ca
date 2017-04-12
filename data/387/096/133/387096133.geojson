@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.46837,37.675477,-122.46837,37.675477",
     "geom:latitude":37.675477,
     "geom:longitude":-122.46837,
@@ -29,8 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922533,
+        102085387,
+        85811881,
+        85922529,
+        85866011,
+        420552317
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +48,37 @@
     "wof:geomhash":"97252539bffcd656b767c5e25754f366",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085387,
+            "locality_id":85922533,
+            "neighbourhood_id":85811881,
+            "region_id":85688637,
+            "venue_id":387096133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":85866011,
+            "region_id":85688637,
+            "venue_id":387096133
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":420552317,
             "region_id":85688637,
             "venue_id":387096133
         }
     ],
     "wof:id":387096133,
-    "wof:lastmodified":1472340013,
+    "wof:lastmodified":1491949281,
     "wof:name":"Thomasville Furniture",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

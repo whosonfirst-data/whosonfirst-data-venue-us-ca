@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.614408,37.091892,-121.614408,37.091892",
     "geom:latitude":37.091892,
     "geom:longitude":-121.614408,
@@ -31,16 +32,31 @@
         "hospital"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77WpUQWUB9LtEoYBHdbAvG_37.091892_-121.614408@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"1fad7c3dddec231c3f20f6b42d1d3d82",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":555018695
+        }
+    ],
     "wof:id":555018695,
-    "wof:lastmodified":1472338698,
+    "wof:lastmodified":1491968495,
     "wof:name":"San Martin Veterinary Hospital",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

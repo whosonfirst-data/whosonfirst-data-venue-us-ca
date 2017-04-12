@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.613164,37.135011,-121.613164,37.135011",
     "geom:latitude":37.135011,
     "geom:longitude":-121.613164,
@@ -31,16 +32,31 @@
         "communication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922359,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dkuFIa5WzC8UrGhMSuLDM_37.135011_-121.613164@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"31494b95fcf24fe9cf068770b45c29ed",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922359,
+            "region_id":85688637,
+            "venue_id":571536995
+        }
+    ],
     "wof:id":571536995,
-    "wof:lastmodified":1472339962,
+    "wof:lastmodified":1491962405,
     "wof:name":"Gmk Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

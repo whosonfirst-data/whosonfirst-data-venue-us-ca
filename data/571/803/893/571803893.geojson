@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.65307,37.13143,-121.65307,37.13143",
     "geom:latitude":37.13143,
     "geom:longitude":-121.65307,
@@ -31,16 +32,31 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922359,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44eKsyWAsOjCc6At6q2Mw7_37.131430_-121.653070@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"e2ffebe283cb5a743ae9b1494a53d7d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922359,
+            "region_id":85688637,
+            "venue_id":571803893
+        }
+    ],
     "wof:id":571803893,
-    "wof:lastmodified":1472344943,
+    "wof:lastmodified":1491968314,
     "wof:name":"Retriever Online",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

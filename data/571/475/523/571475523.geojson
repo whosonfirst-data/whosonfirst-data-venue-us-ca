@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.026264,37.842662,-122.026264,37.842662",
     "geom:latitude":37.842662,
     "geom:longitude":-122.026264,
@@ -35,16 +36,31 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HkhqHkGEg3BHB7C9yGBip_37.842662_-122.026264@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"33b266b3fb8ca34da5120efd029d6e67",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":571475523
+        }
+    ],
     "wof:id":571475523,
-    "wof:lastmodified":1472336892,
+    "wof:lastmodified":1491968409,
     "wof:name":"Larry's Pool Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

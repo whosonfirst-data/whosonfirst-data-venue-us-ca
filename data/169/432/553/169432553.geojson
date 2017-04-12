@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.203153,37.471168,-122.203153,37.471168",
     "geom:latitude":37.471168,
     "geom:longitude":-122.203153,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922561,
+        102085387,
+        420552323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +48,19 @@
     "wof:geomhash":"67b7153fbfee9613309fc45c62ffa3ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922561,
+            "neighbourhood_id":420552323,
             "region_id":85688637,
             "venue_id":169432553
         }
     ],
     "wof:id":169432553,
-    "wof:lastmodified":1472331007,
+    "wof:lastmodified":1491966860,
     "wof:name":"Mgm Jewelry",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

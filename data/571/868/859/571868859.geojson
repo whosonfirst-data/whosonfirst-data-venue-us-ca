@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.596474,37.028655,-121.596474,37.028655",
     "geom:latitude":37.028655,
     "geom:longitude":-121.596474,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922389,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qHN1smLGCBaLDJ6EZOr62_37.028655_-121.596474@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b6f17aaf873de47e80dfdee889ada373",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922389,
+            "region_id":85688637,
+            "venue_id":571868859
+        }
+    ],
     "wof:id":571868859,
-    "wof:lastmodified":1472349232,
+    "wof:lastmodified":1491958772,
     "wof:name":"Silver Creek Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

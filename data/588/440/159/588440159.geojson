@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.156689,38.054495,-122.156689,38.054495",
     "geom:latitude":38.054495,
     "geom:longitude":-122.156689,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"http://westamerica.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64tXGo0MOcu6lYhvSdBXUr_38.054495_-122.156689@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"135c30712141e73f55cdd105c70ac04d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":588440159
+        }
+    ],
     "wof:id":588440159,
-    "wof:lastmodified":1472349439,
+    "wof:lastmodified":1491969810,
     "wof:name":"Westamerica Bank",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

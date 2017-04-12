@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.92837,37.22377,-121.92837,37.22377",
     "geom:latitude":37.22377,
     "geom:longitude":-121.92837,
@@ -34,8 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922375,
+        102081673,
+        85886331,
+        85886339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,28 @@
     "wof:geomhash":"79c792f4d72148afd2356c578064643f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081673,
+            "locality_id":85922375,
+            "neighbourhood_id":85886331,
+            "region_id":85688637,
+            "venue_id":387052493
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922375,
+            "neighbourhood_id":85886339,
             "region_id":85688637,
             "venue_id":387052493
         }
     ],
     "wof:id":387052493,
-    "wof:lastmodified":1472338540,
+    "wof:lastmodified":1491949937,
     "wof:name":"Three Barnes Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

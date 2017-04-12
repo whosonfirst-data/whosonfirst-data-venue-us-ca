@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.48744,34.320655,-118.48744,34.320655",
     "geom:latitude":34.320655,
     "geom:longitude":-118.48744,
@@ -39,11 +40,13 @@
     "sg:website":"www.excel.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851717",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"aaf19cb7e3d62f2dae4fbb61cdab01fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851717",
             "region_id":85688637,
             "venue_id":353664741
         }
     ],
     "wof:id":353664741,
-    "wof:lastmodified":1472334560,
+    "wof:lastmodified":1491902215,
     "wof:name":"Excel Direct",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85851717",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.336294,34.035911,-118.336294,34.035911",
     "geom:latitude":34.035911,
     "geom:longitude":-118.336294,
@@ -39,11 +40,13 @@
     "sg:website":"www.cultured-living.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869393
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"b659b1afe67a6d53d3254363f7fe5bfa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869393,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370662421
         }
     ],
     "wof:id":370662421,
-    "wof:lastmodified":1472343057,
+    "wof:lastmodified":1491917915,
     "wof:name":"Cultured Living",
-    "wof:parent_id":85869393,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

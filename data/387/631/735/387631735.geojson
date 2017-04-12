@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.308848,33.997119,-118.308848,33.997119",
     "geom:latitude":33.997119,
     "geom:longitude":-118.308848,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869759
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"f22f4fa0d7d0ae8dbc29dfef1689b2fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869759,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869759",
             "region_id":85688637,
             "venue_id":387631735
         }
     ],
     "wof:id":387631735,
-    "wof:lastmodified":1472345148,
+    "wof:lastmodified":1491868413,
     "wof:name":"Wilshire Children Svc",
-    "wof:parent_id":85869759,
+    "wof:parent_id":"85869759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

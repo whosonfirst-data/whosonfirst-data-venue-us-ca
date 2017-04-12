@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.258755,34.003924,-118.258755,34.003924",
     "geom:latitude":34.003924,
     "geom:longitude":-118.258755,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996417,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637,
+        "85868345"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,30 @@
     "wof:geomhash":"088a62b926aaafc1afe236e7b507f2c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996417,
+            "region_id":85688637,
+            "venue_id":202940447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":202940447
         }
     ],
     "wof:id":202940447,
-    "wof:lastmodified":1472333826,
+    "wof:lastmodified":1491868132,
     "wof:name":"Clinica LA Familia",
-    "wof:parent_id":85865791,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

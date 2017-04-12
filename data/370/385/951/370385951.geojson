@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.265541,33.986655,-118.265541,33.986655",
     "geom:latitude":33.986655,
     "geom:longitude":-118.265541,
@@ -30,7 +31,12 @@
     "sg:website":"www.urquidlinen.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -41,18 +47,20 @@
     "wof:geomhash":"7a5a421b3cff32619e7d5f55ed74a94a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":370385951
         }
     ],
     "wof:id":370385951,
-    "wof:lastmodified":1472340365,
+    "wof:lastmodified":1491867974,
     "wof:name":"Urquid Linen",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

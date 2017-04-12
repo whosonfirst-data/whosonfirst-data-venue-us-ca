@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.304134,34.010732,-118.304134,34.010732",
     "geom:latitude":34.010732,
     "geom:longitude":-118.304134,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869759
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"59ccdc6cd4c9c6c90185a8db5ad6f938",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869759,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869759",
             "region_id":85688637,
             "venue_id":386967909
         }
     ],
     "wof:id":386967909,
-    "wof:lastmodified":1472338316,
+    "wof:lastmodified":1491868309,
     "wof:name":"Wireless Hook Up",
-    "wof:parent_id":85869759,
+    "wof:parent_id":"85869759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

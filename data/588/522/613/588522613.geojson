@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.300348,37.897764,-122.300348,37.897764",
     "geom:latitude":37.897764,
     "geom:longitude":-122.300348,
@@ -44,16 +45,31 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_339SxX6zssGPA2nsZXMdkK_37.897764_-122.300348@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"6e0116754a6180410b133962966dcd60",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588522613
+        }
+    ],
     "wof:id":588522613,
-    "wof:lastmodified":1472351220,
+    "wof:lastmodified":1491958849,
     "wof:name":"Hannah Investment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

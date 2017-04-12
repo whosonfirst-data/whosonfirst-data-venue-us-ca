@@ -31,13 +31,14 @@
     "sg:website":"www.kfc.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85818341,
+        85887619,
         102191575,
         1108782555,
         85633793,
         85922347,
         102081673,
-        85688637
+        85688637,
+        85818341
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +53,25 @@
             "county_id":102081673,
             "locality_id":85922347,
             "macrohood_id":1108782555,
+            "neighbourhood_id":85887619,
+            "region_id":85688637,
+            "venue_id":588609989
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85818341,
             "region_id":85688637,
             "venue_id":588609989
         }
     ],
     "wof:id":588609989,
-    "wof:lastmodified":1485395038,
+    "wof:lastmodified":1491961140,
     "wof:name":"Kentucky Fried Chicken",
-    "wof:parent_id":85818341,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

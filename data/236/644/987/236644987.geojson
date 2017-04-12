@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.305504,38.308532,-122.305504,38.308532",
     "geom:latitude":38.308532,
     "geom:longitude":-122.305504,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
-        102085383
+        102085383,
+        420551431,
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"5521edd8bbe8f94e3af2dd48fba7231d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551431,
+            "region_id":85688637,
+            "venue_id":236644987
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":236644987
         }
     ],
     "wof:id":236644987,
-    "wof:lastmodified":1472334530,
+    "wof:lastmodified":1491962926,
     "wof:name":"Pete Gonzalez Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

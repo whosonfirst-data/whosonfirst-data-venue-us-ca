@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.846862,37.699812,-121.846862,37.699812",
     "geom:latitude":37.699812,
     "geom:longitude":-121.846862,
@@ -34,16 +35,31 @@
         "instruction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4daISUCoJEURos6gJZ3DJj_37.699812_-121.846862@1303263338"
     },
     "wof:country":"US",
     "wof:geomhash":"98807a8d44fa6bfc6df6adfb20f60924",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588477593
+        }
+    ],
     "wof:id":588477593,
-    "wof:lastmodified":1472350677,
+    "wof:lastmodified":1491960645,
     "wof:name":"Tri-Valley Golf Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

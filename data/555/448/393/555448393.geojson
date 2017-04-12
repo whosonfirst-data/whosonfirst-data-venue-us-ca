@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.238926,38.145881,-122.238926,38.145881",
     "geom:latitude":38.145881,
     "geom:longitude":-122.238926,
@@ -32,16 +33,31 @@
         "convalescent"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922643,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S5JOUA5iK2EzLhllogHh0_38.145881_-122.238926@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cd63cc106bd9b9d73abfe0c899a16f66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922643,
+            "region_id":85688637,
+            "venue_id":555448393
+        }
+    ],
     "wof:id":555448393,
-    "wof:lastmodified":1472350223,
+    "wof:lastmodified":1491956575,
     "wof:name":"Gloria's Senior Care Home",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

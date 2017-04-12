@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.430491,37.658628,-122.430491,37.658628",
     "geom:latitude":37.658628,
     "geom:longitude":-122.430491,
@@ -38,7 +39,8 @@
         85633793,
         85922427,
         102085387,
-        85888091
+        85888091,
+        85888101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,21 @@
             "neighbourhood_id":85888091,
             "region_id":85688637,
             "venue_id":555222191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922427,
+            "neighbourhood_id":85888101,
+            "region_id":85688637,
+            "venue_id":555222191
         }
     ],
     "wof:id":555222191,
-    "wof:lastmodified":1472343123,
+    "wof:lastmodified":1491960369,
     "wof:name":"Bougainvilleas",
-    "wof:parent_id":85888091,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

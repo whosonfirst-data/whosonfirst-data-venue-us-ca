@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621934,38.111516,-122.621934,38.111516",
     "geom:latitude":38.111516,
     "geom:longitude":-122.621934,
@@ -33,7 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688637
+        420551405,
+        85688637,
+        102191575,
+        85922017,
+        102084353,
+        420551391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +49,24 @@
     "wof:geomhash":"ced86b536e91adac472a657ed787360a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551405,
+            "venue_id":370762383
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":420551391,
             "region_id":85688637,
             "venue_id":370762383
         }
     ],
     "wof:id":370762383,
-    "wof:lastmodified":1472343557,
+    "wof:lastmodified":1491956588,
     "wof:name":"Pollak & Cusack",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

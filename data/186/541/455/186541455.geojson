@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.406728,37.618613,-122.406728,37.618613",
     "geom:latitude":37.618613,
     "geom:longitude":-122.406728,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922441,
-        102085387
+        102085387,
+        85887217,
+        85886439
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,28 @@
     "wof:geomhash":"f60c560cbbf7de9e98889e7cfe769a52",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922441,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887217,
+            "region_id":85688637,
+            "venue_id":186541455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922441,
+            "neighbourhood_id":85886439,
             "region_id":85688637,
             "venue_id":186541455
         }
     ],
     "wof:id":186541455,
-    "wof:lastmodified":1472332961,
+    "wof:lastmodified":1491950663,
     "wof:name":"Crystal Sea Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

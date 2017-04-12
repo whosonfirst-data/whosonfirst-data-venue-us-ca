@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.269061,37.561347,-122.269061,37.561347",
     "geom:latitude":37.561347,
     "geom:longitude":-122.269061,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922519,
-        102085387
+        102085387,
+        420552359,
+        85887849
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,28 @@
     "wof:geomhash":"df70dc5cf3a6f24de230440926c89a38",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922519,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552359,
+            "region_id":85688637,
+            "venue_id":253294347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":85887849,
             "region_id":85688637,
             "venue_id":253294347
         }
     ],
     "wof:id":253294347,
-    "wof:lastmodified":1472332971,
+    "wof:lastmodified":1491962143,
     "wof:name":"Artforms",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

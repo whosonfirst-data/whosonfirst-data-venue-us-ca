@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.468137,34.04207,-118.468137,34.04207",
     "geom:latitude":34.04207,
     "geom:longitude":-118.468137,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
-        85923817,
+        85923517,
         102086957,
-        85880873
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,20 @@
     "wof:geomhash":"503e7d360e3b57a559eac13c473e151a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880873,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":169499613
         }
     ],
     "wof:id":169499613,
-    "wof:lastmodified":1472332982,
+    "wof:lastmodified":1491884421,
     "wof:name":"Cedars Construction Grp Inc",
-    "wof:parent_id":85880873,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.132035,33.75906,-118.132035,33.75906",
     "geom:latitude":33.75906,
     "geom:longitude":-118.132035,
@@ -33,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85805639,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +49,26 @@
     "wof:geomhash":"9706a083b9e2c993a169ab0bef8fdb41",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":303419911
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":303419911
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":303419911
         }
     ],
     "wof:id":303419911,
-    "wof:lastmodified":1472334645,
+    "wof:lastmodified":1491895011,
     "wof:name":"Allstate",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

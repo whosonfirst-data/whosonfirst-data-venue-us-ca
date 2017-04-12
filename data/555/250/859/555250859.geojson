@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159019,37.448368,-122.159019,37.448368",
     "geom:latitude":37.448368,
     "geom:longitude":-122.159019,
@@ -31,16 +32,31 @@
         "bagel"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zifEsyGLQAx3c5vCrQfwW_37.448368_-122.159019@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8ef88f8f2364b2735b9149e242826de0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555250859
+        }
+    ],
     "wof:id":555250859,
-    "wof:lastmodified":1472343455,
+    "wof:lastmodified":1491961764,
     "wof:name":"House Of Bagels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

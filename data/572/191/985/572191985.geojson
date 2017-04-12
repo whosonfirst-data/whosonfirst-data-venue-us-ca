@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.181392,37.421713,-122.181392,37.421713",
     "geom:latitude":37.421713,
     "geom:longitude":-122.181392,
@@ -32,16 +33,31 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925383,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27jscK9mMVIOvE8JPWxtRo_37.421713_-122.181392@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"21ceb2e08ad6661581f67dc57a54afe5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925383,
+            "region_id":85688637,
+            "venue_id":572191985
+        }
+    ],
     "wof:id":572191985,
-    "wof:lastmodified":1472343659,
+    "wof:lastmodified":1491949098,
     "wof:name":"Stanford Grill Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

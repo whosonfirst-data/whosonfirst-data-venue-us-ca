@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25174,34.045135,-118.25174,34.045135",
     "geom:latitude":34.045135,
     "geom:longitude":-118.25174,
@@ -36,12 +37,14 @@
     "sg:website":"www.familycounselingprograms.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
         102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869267
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +58,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869267,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":572040317
         }
     ],
     "wof:id":572040317,
-    "wof:lastmodified":1472339162,
+    "wof:lastmodified":1491928652,
     "wof:name":"Family Counseling Programs",
-    "wof:parent_id":85869267,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

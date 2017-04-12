@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.855652,38.098653,-122.855652,38.098653",
     "geom:latitude":38.098653,
     "geom:longitude":-122.855652,
@@ -31,16 +32,31 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924685,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IR4Q7F5EC63TXqsWwt2s8_38.098653_-122.855652@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"54d2b340ea36d4f0052d75bafba23acf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924685,
+            "region_id":85688637,
+            "venue_id":555724445
+        }
+    ],
     "wof:id":555724445,
-    "wof:lastmodified":1472352892,
+    "wof:lastmodified":1491968205,
     "wof:name":"Pretty Things Press",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

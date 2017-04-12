@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.90954,37.671775,-121.90954,37.671775",
     "geom:latitude":37.671775,
     "geom:longitude":-121.90954,
@@ -32,16 +33,31 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iFHEdronSyvBEmDHJyNbJ_37.671775_-121.909540@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d951715c821ae87a6145c8d1ef767939",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":571795143
+        }
+    ],
     "wof:id":571795143,
-    "wof:lastmodified":1472344746,
+    "wof:lastmodified":1491957128,
     "wof:name":"Bay Area Mobile Home Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.759631,38.326224,-122.759631,38.326224",
     "geom:latitude":38.326224,
     "geom:longitude":-122.759631,
@@ -35,8 +36,10 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85887143,
-        102081671
+        85922697,
+        102081671,
+        85887169,
+        85887143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,23 @@
         {
             "country_id":85633793,
             "county_id":102081671,
+            "locality_id":85922697,
+            "neighbourhood_id":85887169,
+            "region_id":85688637,
+            "venue_id":555646081
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
             "neighbourhood_id":85887143,
             "region_id":85688637,
             "venue_id":555646081
         }
     ],
     "wof:id":555646081,
-    "wof:lastmodified":1472352145,
+    "wof:lastmodified":1491949049,
     "wof:name":"Shaws Machine Shop",
-    "wof:parent_id":85887143,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

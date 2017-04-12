@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.241136,34.003992,-118.241136,34.003992",
     "geom:latitude":34.003992,
     "geom:longitude":-118.241136,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"1a6ee4a1f033472d2cfdb0bd96ae8160",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":219802985
         }
     ],
     "wof:id":219802985,
-    "wof:lastmodified":1472334209,
+    "wof:lastmodified":1491867466,
     "wof:name":"Tahor Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

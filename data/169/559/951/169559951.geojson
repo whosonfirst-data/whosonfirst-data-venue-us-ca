@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.271258,38.009385,-122.271258,38.009385",
     "geom:latitude":38.009385,
     "geom:longitude":-122.271258,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922173,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922173,
+        102086225,
+        85886035,
+        420550503
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +49,28 @@
     "wof:geomhash":"41a8ce589ad288c07d2aef1a1f9b5112",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922173,
+            "neighbourhood_id":85886035,
+            "region_id":85688637,
+            "venue_id":169559951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922173,
+            "neighbourhood_id":420550503,
             "region_id":85688637,
             "venue_id":169559951
         }
     ],
     "wof:id":169559951,
-    "wof:lastmodified":1472334037,
+    "wof:lastmodified":1491949638,
     "wof:name":"ADULT Orthodontics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

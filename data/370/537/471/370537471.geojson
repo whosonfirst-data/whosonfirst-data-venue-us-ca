@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.249336,34.055134,-118.249336,34.055134",
     "geom:latitude":34.055134,
     "geom:longitude":-118.249336,
@@ -33,11 +34,14 @@
     "sg:website":"wdch.laphil.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531599,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869149
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"b0e2e2aaf566fd20bd3f638a187b306d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869149,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531599,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370537471
         }
     ],
     "wof:id":370537471,
-    "wof:lastmodified":1472342220,
+    "wof:lastmodified":1491928303,
     "wof:name":"The Los Angeles Philharmonic",
-    "wof:parent_id":85869149,
+    "wof:parent_id":1041531599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

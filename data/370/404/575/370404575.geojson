@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.307999,34.070099,-118.307999,34.070099",
     "geom:latitude":34.070099,
     "geom:longitude":-118.307999,
@@ -39,11 +40,13 @@
     "sg:website":"www.citywidemaintenance.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"9bea5b6270b8f27105422c296dddd148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370404575
         }
     ],
     "wof:id":370404575,
-    "wof:lastmodified":1472340959,
+    "wof:lastmodified":1491923981,
     "wof:name":"City Wide Maintenance",
-    "wof:parent_id":85886329,
+    "wof:parent_id":"85865819",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

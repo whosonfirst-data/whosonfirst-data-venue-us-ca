@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.299546,37.561889,-122.299546,37.561889",
     "geom:latitude":37.561889,
     "geom:longitude":-122.299546,
@@ -29,18 +30,55 @@
     "sg:province":"CA",
     "sg:website":"http://www.dealunited.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922431,
+        102085387,
+        85887883,
+        85887887,
+        420552355
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1V4Usr2MIDk0XMwFEjTqiw_37.561889_-122.299546@1308186498"
     },
     "wof:country":"US",
     "wof:geomhash":"28e6dc9838050b62a892d533c0e1ec54",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887883,
+            "region_id":85688637,
+            "venue_id":588730747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887887,
+            "region_id":85688637,
+            "venue_id":588730747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":420552355,
+            "region_id":85688637,
+            "venue_id":588730747
+        }
+    ],
     "wof:id":588730747,
-    "wof:lastmodified":1472353596,
+    "wof:lastmodified":1491948755,
     "wof:name":"deal united",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

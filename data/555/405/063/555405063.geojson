@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.113,37.4251,-122.113,37.4251",
     "geom:latitude":37.4251,
     "geom:longitude":-122.113,
@@ -37,7 +38,9 @@
         85633793,
         85922351,
         102081673,
-        85879689
+        85879689,
+        85922355,
+        85879667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +57,21 @@
             "neighbourhood_id":85879689,
             "region_id":85688637,
             "venue_id":555405063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":85879667,
+            "region_id":85688637,
+            "venue_id":555405063
         }
     ],
     "wof:id":555405063,
-    "wof:lastmodified":1472349554,
+    "wof:lastmodified":1491964130,
     "wof:name":"Palo Alto Baptist Church",
-    "wof:parent_id":85879689,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

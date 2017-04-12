@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.829293,38.072162,-122.829293,38.072162",
     "geom:latitude":38.072162,
     "geom:longitude":-122.829293,
@@ -32,16 +33,31 @@
         "org"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924685,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q1FeEpveZ9KpUu5E7iuMW_38.072162_-122.829293@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5d647f1266b13950c9af70aecb668f5c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924685,
+            "region_id":85688637,
+            "venue_id":555296289
+        }
+    ],
     "wof:id":555296289,
-    "wof:lastmodified":1472344107,
+    "wof:lastmodified":1491959639,
     "wof:name":"Lewis Clayton Institute-Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

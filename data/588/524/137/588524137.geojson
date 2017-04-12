@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.271606,37.895383,-122.271606,37.895383",
     "geom:latitude":37.895383,
     "geom:longitude":-122.271606,
@@ -31,16 +32,31 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24raDE6L0qiv9Sw6LAmygE_37.895383_-122.271606@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"4b626d6dfc47c4fe60d1b9de250a0afa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588524137
+        }
+    ],
     "wof:id":588524137,
-    "wof:lastmodified":1472351069,
+    "wof:lastmodified":1491970884,
     "wof:name":"M&C Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

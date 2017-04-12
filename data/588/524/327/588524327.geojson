@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.274499,37.902883,-122.274499,37.902883",
     "geom:latitude":37.902883,
     "geom:longitude":-122.274499,
@@ -33,16 +34,31 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66IPE60dyi3hz3V35IhfMM_37.902883_-122.274499@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"09e3b461028f761a9bfde9b3ca690962",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588524327
+        }
+    ],
     "wof:id":588524327,
-    "wof:lastmodified":1472351169,
+    "wof:lastmodified":1491958848,
     "wof:name":"Smith & Pottinger",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

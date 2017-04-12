@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.902416,37.692805,-121.902416,37.692805",
     "geom:latitude":37.692805,
     "geom:longitude":-121.902416,
@@ -36,16 +37,31 @@
         "soup"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18cmSWCa8kveTR52zD9YzU_37.692805_-121.902416@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"a44443ccb905c3aa01574e9c84ad9b49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":572194713
+        }
+    ],
     "wof:id":572194713,
-    "wof:lastmodified":1472343634,
+    "wof:lastmodified":1491948529,
     "wof:name":"Chili's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

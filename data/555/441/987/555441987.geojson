@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.257824,34.133508,-118.257824,34.133508",
     "geom:latitude":34.133508,
     "geom:longitude":-118.257824,
@@ -34,8 +35,9 @@
         85633793,
         85923615,
         102086957,
+        "85877727",
         85877763,
-        85877765
+        "85877765"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,6 +46,15 @@
     "wof:country":"US",
     "wof:geomhash":"5d23e2ed8be6bd02ed0a7b8e19182198",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877727",
+            "region_id":85688637,
+            "venue_id":555441987
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,15 +69,15 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
-            "neighbourhood_id":85877765,
+            "neighbourhood_id":"85877765",
             "region_id":85688637,
             "venue_id":555441987
         }
     ],
     "wof:id":555441987,
-    "wof:lastmodified":1472350260,
+    "wof:lastmodified":1491936577,
     "wof:name":"Help U Sell Global Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

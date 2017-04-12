@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.916611,37.80003,-121.916611,37.80003",
     "geom:latitude":37.80003,
     "geom:longitude":-121.916611,
@@ -36,16 +37,31 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F0SBKCfxzi2K8akImx7VB_37.800030_-121.916611@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"2d7d6b06b0a9b729899cea9cabc2ec90",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":588438425
+        }
+    ],
     "wof:id":588438425,
-    "wof:lastmodified":1472349449,
+    "wof:lastmodified":1491959911,
     "wof:name":"Schierman Michael J MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

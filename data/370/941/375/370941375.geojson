@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.403999,34.053299,-118.403999,34.053299",
     "geom:latitude":34.053299,
     "geom:longitude":-118.403999,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85869121
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"8cded9fd5876df913a90fe5ee8a5354d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869121,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370941375
         }
     ],
     "wof:id":370941375,
-    "wof:lastmodified":1472346473,
+    "wof:lastmodified":1491912196,
     "wof:name":"Fox Richard P & Max Gest A Professional Law Corp",
-    "wof:parent_id":85869121,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

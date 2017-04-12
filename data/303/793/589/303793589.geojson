@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33134,38.316926,-122.33134,38.316926",
     "geom:latitude":38.316926,
     "geom:longitude":-122.33134,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85921993,
+        102085383,
+        420551431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,19 @@
     "wof:geomhash":"68dee68e14c5efc4bd430e1ad01f044d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":420551431,
             "region_id":85688637,
             "venue_id":303793589
         }
     ],
     "wof:id":303793589,
-    "wof:lastmodified":1472335924,
+    "wof:lastmodified":1491970510,
     "wof:name":"Pangea Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":420551431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

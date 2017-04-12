@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.472511,38.517399,-122.472511,38.517399",
     "geom:latitude":38.517399,
     "geom:longitude":-122.472511,
@@ -31,16 +32,31 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aNDQ3Wp9DEHvHaKQUc8DM_38.517399_-122.472511@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8e1996c1b60bf64d39a8fb72413984e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":555183101
+        }
+    ],
     "wof:id":555183101,
-    "wof:lastmodified":1472342627,
+    "wof:lastmodified":1491962419,
     "wof:name":"Jack Varozzo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

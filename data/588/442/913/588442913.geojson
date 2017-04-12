@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.625297,38.571999,-122.625297,38.571999",
     "geom:latitude":38.571999,
     "geom:longitude":-122.625297,
@@ -32,16 +33,29 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JEqSMOg69lXESIfy1dc0U_38.571999_-122.625297@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"a78c6138c923616edb2417b80785b74b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":588442913
+        }
+    ],
     "wof:id":588442913,
-    "wof:lastmodified":1472349779,
+    "wof:lastmodified":1491963598,
     "wof:name":"Service Specialties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

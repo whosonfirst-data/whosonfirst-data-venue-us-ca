@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.801436,33.658499,-117.801436,33.658499",
     "geom:latitude":33.658499,
     "geom:longitude":-117.801436,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923131,
-        102080847
+        102080847,
+        85878277,
+        85878287,
+        85878259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,37 @@
     "wof:geomhash":"bda5e4e4a2cb52916b9b02053e3c53e1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878277,
+            "region_id":85688637,
+            "venue_id":269942839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923131,
+            "neighbourhood_id":85878287,
+            "region_id":85688637,
+            "venue_id":269942839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923131,
+            "neighbourhood_id":85878259,
             "region_id":85688637,
             "venue_id":269942839
         }
     ],
     "wof:id":269942839,
-    "wof:lastmodified":1472334508,
+    "wof:lastmodified":1491905081,
     "wof:name":"Silver Back Info Systems",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.885502,37.79782,-121.885502,37.79782",
     "geom:latitude":37.79782,
     "geom:longitude":-121.885502,
@@ -31,16 +32,31 @@
         "hay"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924963,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Jzsk7BHoRIguW91cHBAru_37.797820_-121.885502@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"fd2b7fd7bb0c02d1cff792f1fd650d53",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85924963,
+            "region_id":85688637,
+            "venue_id":588438539
+        }
+    ],
     "wof:id":588438539,
-    "wof:lastmodified":1472349486,
+    "wof:lastmodified":1491950633,
     "wof:name":"Hay Cheng",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

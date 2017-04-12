@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.295877,34.009126,-118.295877,34.009126",
     "geom:latitude":34.009126,
     "geom:longitude":-118.295877,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868363
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"52ac7a4c2a768bf9db36f0ed1c51d35f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868363,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869759",
             "region_id":85688637,
             "venue_id":319997181
         }
     ],
     "wof:id":319997181,
-    "wof:lastmodified":1472332878,
+    "wof:lastmodified":1491868410,
     "wof:name":"Quality Delivery",
-    "wof:parent_id":85868363,
+    "wof:parent_id":"85869759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

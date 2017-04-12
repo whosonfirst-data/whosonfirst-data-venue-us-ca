@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.617666,38.103168,-122.617666,38.103168",
     "geom:latitude":38.103168,
     "geom:longitude":-122.617666,
@@ -32,16 +33,25 @@
         "training"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551405
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fC2WFaRfJzhs4auGdWbWy_38.103168_-122.617666@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d2f24a3b96640cc6e83a37fbe86265e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551405,
+            "venue_id":571755037
+        }
+    ],
     "wof:id":571755037,
-    "wof:lastmodified":1472343997,
+    "wof:lastmodified":1491970382,
     "wof:name":"Leonard & Assoc",
     "wof:parent_id":420551405,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.237999,34.062599,-118.237999,34.062599",
     "geom:latitude":34.062599,
     "geom:longitude":-118.237999,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85866825",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85836593
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"e0d05ca4c378d5e62210f72998705e88",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836593,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85866825",
             "region_id":85688637,
             "venue_id":370529657
         }
     ],
     "wof:id":370529657,
-    "wof:lastmodified":1472342253,
+    "wof:lastmodified":1491889946,
     "wof:name":"Vinh Hoa",
-    "wof:parent_id":85836593,
+    "wof:parent_id":"85866825",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

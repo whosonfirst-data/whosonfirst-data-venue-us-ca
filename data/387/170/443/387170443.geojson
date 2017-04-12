@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.807415,38.552202,-122.807415,38.552202",
     "geom:latitude":38.552202,
     "geom:longitude":-122.807415,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922677,
-        102081671
+        102081671,
+        85888235,
+        85816945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,26 @@
     "wof:geomhash":"f691fcb907987b6b8ef50116a31aa4f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922677,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85888235,
+            "region_id":85688637,
+            "venue_id":387170443
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85816945,
             "region_id":85688637,
             "venue_id":387170443
         }
     ],
     "wof:id":387170443,
-    "wof:lastmodified":1472341180,
+    "wof:lastmodified":1491961413,
     "wof:name":"John A Del Monte DPM",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

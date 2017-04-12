@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.16146,37.44187,-122.16146,37.44187",
     "geom:latitude":37.44187,
     "geom:longitude":-122.16146,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922351,
-        85633793,
         85688637,
-        102081673
+        102191575,
+        85633793,
+        85922351,
+        102081673,
+        85843177
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"a1f73cf61aa98cba3b6c31e3793f62cb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922351,
+            "neighbourhood_id":85843177,
             "region_id":85688637,
             "venue_id":169460789
         }
     ],
     "wof:id":169460789,
-    "wof:lastmodified":1472331515,
+    "wof:lastmodified":1491962713,
     "wof:name":"Palo Alto BMW Svc & Repair",
-    "wof:parent_id":-1,
+    "wof:parent_id":85843177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

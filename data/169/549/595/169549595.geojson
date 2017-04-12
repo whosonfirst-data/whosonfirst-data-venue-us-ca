@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.765043,38.553192,-121.765043,38.553192",
     "geom:latitude":38.553192,
     "geom:longitude":-121.765043,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922419,
-        85633793,
         85688637,
-        102082309
+        102191575,
+        85633793,
+        85922419,
+        102082309,
+        420553255
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"05f16871bd13771acf901aceab1aeb1e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082309,
             "locality_id":85922419,
+            "neighbourhood_id":420553255,
             "region_id":85688637,
             "venue_id":169549595
         }
     ],
     "wof:id":169549595,
-    "wof:lastmodified":1472333931,
+    "wof:lastmodified":1491962671,
     "wof:name":"Hopkins Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":420553255,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

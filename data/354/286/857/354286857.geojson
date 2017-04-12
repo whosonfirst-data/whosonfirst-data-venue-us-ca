@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.475536,38.617264,-121.475536,38.617264",
     "geom:latitude":38.617264,
     "geom:longitude":-121.475536,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922845,
-        102082889
+        102082889,
+        85872223,
+        85821071
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"31d5b27db1451ce2549a63c2a84c3568",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082889,
             "locality_id":85922845,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872223,
+            "region_id":85688637,
+            "venue_id":354286857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85821071,
             "region_id":85688637,
             "venue_id":354286857
         }
     ],
     "wof:id":354286857,
-    "wof:lastmodified":1472335665,
+    "wof:lastmodified":1491937782,
     "wof:name":"Smog Depot",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.437496,37.643235,-122.437496,37.643235",
     "geom:latitude":37.643235,
     "geom:longitude":-122.437496,
@@ -31,16 +32,25 @@
         "billing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AAunPJG2P3wRrI2RgNcuv_37.643235_-122.437496@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"06caf1325b19f2e9d78be78e123622fc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552377,
+            "venue_id":571610549
+        }
+    ],
     "wof:id":571610549,
-    "wof:lastmodified":1472342047,
+    "wof:lastmodified":1491961113,
     "wof:name":"Efficient Billing Svc",
     "wof:parent_id":420552377,
     "wof:placetype":"venue",

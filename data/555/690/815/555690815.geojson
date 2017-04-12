@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.33465,37.586481,-122.33465,37.586481",
     "geom:latitude":37.586481,
     "geom:longitude":-122.33465,
@@ -38,7 +39,10 @@
         85633793,
         85922537,
         102085387,
-        85885701
+        85885701,
+        85885703,
+        85922431,
+        85887841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +59,30 @@
             "neighbourhood_id":85885701,
             "region_id":85688637,
             "venue_id":555690815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922537,
+            "neighbourhood_id":85885703,
+            "region_id":85688637,
+            "venue_id":555690815
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887841,
+            "region_id":85688637,
+            "venue_id":555690815
         }
     ],
     "wof:id":555690815,
-    "wof:lastmodified":1472352634,
+    "wof:lastmodified":1491968834,
     "wof:name":"Don Hall Printing",
-    "wof:parent_id":85885701,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

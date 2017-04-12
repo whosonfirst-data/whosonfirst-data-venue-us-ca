@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.820729,37.373276,-121.820729,37.373276",
     "geom:latitude":37.373276,
     "geom:longitude":-121.820729,
@@ -34,12 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85865159,
-        102081673,
         102191575,
+        85633793,
         85925507,
-        420559369
+        102081673,
+        420559369,
+        85925491,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +51,6 @@
     "wof:geomhash":"4a3f39d3085cead87ac93beb6175df71",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85865159,
-            "region_id":85688637,
-            "venue_id":555561217
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
@@ -63,12 +58,21 @@
             "neighbourhood_id":420559369,
             "region_id":85688637,
             "venue_id":555561217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
+            "region_id":85688637,
+            "venue_id":555561217
         }
     ],
     "wof:id":555561217,
-    "wof:lastmodified":1472351637,
+    "wof:lastmodified":1491957445,
     "wof:name":"John Molina Concrete",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

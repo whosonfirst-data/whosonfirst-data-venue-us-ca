@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.853058,33.648819,-117.853058,33.648819",
     "geom:latitude":33.648819,
     "geom:longitude":-117.853058,
@@ -37,8 +38,9 @@
         85633793,
         85923131,
         102080847,
-        420558893,
-        85886077
+        85878271,
+        85886077,
+        420558893
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,7 +54,7 @@
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923131,
-            "neighbourhood_id":420558893,
+            "neighbourhood_id":85878271,
             "region_id":85688637,
             "venue_id":572442217
         },
@@ -64,12 +66,21 @@
             "neighbourhood_id":85886077,
             "region_id":85688637,
             "venue_id":572442217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923131,
+            "neighbourhood_id":420558893,
+            "region_id":85688637,
+            "venue_id":572442217
         }
     ],
     "wof:id":572442217,
-    "wof:lastmodified":1472352313,
+    "wof:lastmodified":1491904436,
     "wof:name":"Beckman Science Material Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

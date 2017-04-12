@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.322496,37.568144,-122.322496,37.568144",
     "geom:latitude":37.568144,
     "geom:longitude":-122.322496,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922431,
-        102085387
+        102085387,
+        85887833,
+        85887843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"763c153dfd40f3137fc342b8499b6dfb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887833,
+            "region_id":85688637,
+            "venue_id":337330447
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887843,
             "region_id":85688637,
             "venue_id":337330447
         }
     ],
     "wof:id":337330447,
-    "wof:lastmodified":1472331008,
+    "wof:lastmodified":1491967537,
     "wof:name":"New World Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

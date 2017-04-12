@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.61094,37.0119,-121.61094,37.0119",
     "geom:latitude":37.0119,
     "geom:longitude":-121.61094,
@@ -34,7 +35,8 @@
         85633793,
         85922389,
         102081673,
-        85885995
+        85885995,
+        85885999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,19 @@
             "neighbourhood_id":85885995,
             "region_id":85688637,
             "venue_id":555276639
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081673,
+            "neighbourhood_id":85885999,
+            "region_id":85688637,
+            "venue_id":555276639
         }
     ],
     "wof:id":555276639,
-    "wof:lastmodified":1472343790,
+    "wof:lastmodified":1491959158,
     "wof:name":"Vineyard Christian School",
-    "wof:parent_id":85885995,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

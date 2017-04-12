@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.336728,34.011425,-118.336728,34.011425",
     "geom:latitude":34.011425,
     "geom:longitude":-118.336728,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108827613,
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865801
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"386a5738433b43383bef2aa3f29c8c93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865801,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827613,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":387969221
         }
     ],
     "wof:id":387969221,
-    "wof:lastmodified":1472351378,
+    "wof:lastmodified":1491868225,
     "wof:name":"Corporate Diamonds & Jewels",
-    "wof:parent_id":85865801,
+    "wof:parent_id":1108827613,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.396004,34.053799,-118.396004,34.053799",
     "geom:latitude":34.053799,
     "geom:longitude":-118.396004,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85865815
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"55c4465a84d42d846e4083d1f486cef2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865815,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370935997
         }
     ],
     "wof:id":370935997,
-    "wof:lastmodified":1472346961,
+    "wof:lastmodified":1491912216,
     "wof:name":"Reeves Street Estates Lp",
-    "wof:parent_id":85865815,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

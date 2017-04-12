@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.639028,38.2476,-122.639028,38.2476",
     "geom:latitude":38.2476,
     "geom:longitude":-122.639028,
@@ -35,7 +36,9 @@
         85688637,
         85633793,
         85922701,
-        102081671
+        102081671,
+        85813067,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +48,26 @@
     "wof:geomhash":"f940929a38c459967a52adb3c1a677bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813067,
+            "region_id":85688637,
+            "venue_id":370777161
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":370777161
         }
     ],
     "wof:id":370777161,
-    "wof:lastmodified":1472343874,
+    "wof:lastmodified":1491965470,
     "wof:name":"Stormbird Designs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

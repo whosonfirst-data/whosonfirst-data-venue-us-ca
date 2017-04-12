@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.329599,37.978189,-122.329599,37.978189",
     "geom:latitude":37.978189,
     "geom:longitude":-122.329599,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922131,
-        102086225
+        102086225,
+        85880361,
+        85880371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"3b30b77ac25fde623c2fbcf21311985f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880361,
+            "region_id":85688637,
+            "venue_id":253174223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85880371,
             "region_id":85688637,
             "venue_id":253174223
         }
     ],
     "wof:id":253174223,
-    "wof:lastmodified":1472331929,
+    "wof:lastmodified":1491961115,
     "wof:name":"Ka Cees' World Of Water",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.902236,37.661702,-121.902236,37.661702",
     "geom:latitude":37.661702,
     "geom:longitude":-121.902236,
@@ -46,16 +47,31 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7C22Q4P4sQKSUNF4drAhT2_37.661702_-121.902236@1303263336"
     },
     "wof:country":"US",
     "wof:geomhash":"9f76a0c24c0ede0977d233bbb76c6894",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":588470699
+        }
+    ],
     "wof:id":588470699,
-    "wof:lastmodified":1472350504,
+    "wof:lastmodified":1491958193,
     "wof:name":"The Training Zone",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

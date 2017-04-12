@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.775941,37.651571,-121.775941,37.651571",
     "geom:latitude":37.651571,
     "geom:longitude":-121.775941,
@@ -36,16 +37,31 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TiQ1cF4Fqx3Q3pl2QtWmy_37.651571_-121.775941@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"248fe9f343f4e9ca2cfd099940ee02b9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588463153
+        }
+    ],
     "wof:id":588463153,
-    "wof:lastmodified":1472350248,
+    "wof:lastmodified":1491948899,
     "wof:name":"California Medical Specialist",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

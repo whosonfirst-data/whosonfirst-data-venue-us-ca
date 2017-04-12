@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.452988,38.57464,-122.452988,38.57464",
     "geom:latitude":38.57464,
     "geom:longitude":-122.452988,
@@ -38,16 +39,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924793,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j9C28MuJXGDM9jzj7o3KZ_38.574640_-122.452988@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"20f5aef57428233e08f453e247425a2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85924793,
+            "region_id":85688637,
+            "venue_id":588439043
+        }
+    ],
     "wof:id":588439043,
-    "wof:lastmodified":1472349415,
+    "wof:lastmodified":1491963974,
     "wof:name":"Frederick N Potthoff",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.97961,37.783915,-121.97961,37.783915",
     "geom:latitude":37.783915,
     "geom:longitude":-121.97961,
@@ -31,16 +32,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TPa4Xa4GibWLChnkoyEzv_37.783915_-121.979610@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"39bee60d8c27d168a0b111d33f0f5cd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555403387
+        }
+    ],
     "wof:id":555403387,
-    "wof:lastmodified":1472349549,
+    "wof:lastmodified":1491961750,
     "wof:name":"Phams Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

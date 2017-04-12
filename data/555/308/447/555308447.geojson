@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.464254,38.497438,-122.464254,38.497438",
     "geom:latitude":38.497438,
     "geom:longitude":-122.464254,
@@ -31,16 +32,31 @@
         "grape"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OUez9kjHSu96bhxeo9uml_38.497438_-122.464254@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"dee3e90913f38b338588abb67b387c1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":555308447
+        }
+    ],
     "wof:id":555308447,
-    "wof:lastmodified":1472344388,
+    "wof:lastmodified":1491959165,
     "wof:name":"Albert F Butala",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

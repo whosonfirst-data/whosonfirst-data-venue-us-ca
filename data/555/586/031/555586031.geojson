@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.236666,33.947278,-118.236666,33.947278",
     "geom:latitude":33.947278,
     "geom:longitude":-118.236666,
@@ -34,12 +35,14 @@
     "sg:website":"www.hacla.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108827623,
+        "85854791",
         102191575,
+        1108692435,
         85633793,
-        85923799,
+        85923517,
         102086957,
-        85867337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +55,18 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923799,
-            "neighbourhood_id":85867337,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827623,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":555586031
         }
     ],
     "wof:id":555586031,
-    "wof:lastmodified":1472351676,
+    "wof:lastmodified":1491913931,
     "wof:name":"Jordan Downs",
-    "wof:parent_id":85867337,
+    "wof:parent_id":1108827623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

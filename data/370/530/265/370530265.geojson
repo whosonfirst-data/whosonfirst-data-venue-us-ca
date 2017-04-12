@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.234031,34.048344,-118.234031,34.048344",
     "geom:latitude":34.048344,
     "geom:longitude":-118.234031,
@@ -30,11 +31,14 @@
     "sg:website":"www.mgadesigngroup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531569,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869087
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,21 @@
     "wof:geomhash":"fa44a0b9b2f4cba9e6f992cf5ea3af6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869087,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531569,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370530265
         }
     ],
     "wof:id":370530265,
-    "wof:lastmodified":1472342215,
+    "wof:lastmodified":1491892604,
     "wof:name":"Mga Design Group",
-    "wof:parent_id":85869087,
+    "wof:parent_id":1041531569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

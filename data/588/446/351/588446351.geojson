@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.997907,37.822919,-121.997907,37.822919",
     "geom:latitude":37.822919,
     "geom:longitude":-121.997907,
@@ -36,16 +37,31 @@
         "management"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nHf1HH6MEJDNPq3DuP70g_37.822919_-121.997907@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"78ee2cafad4039debedb9319e6cc56df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446351
+        }
+    ],
     "wof:id":588446351,
-    "wof:lastmodified":1472349682,
+    "wof:lastmodified":1491950610,
     "wof:name":"Remax Danville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

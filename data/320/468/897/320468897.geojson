@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.461272,34.041453,-118.461272,34.041453",
     "geom:latitude":34.041453,
     "geom:longitude":-118.461272,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"5636dc9bdd4fe5c4758fe391493a0751",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":320468897
         }
     ],
     "wof:id":320468897,
-    "wof:lastmodified":1472335530,
+    "wof:lastmodified":1491884366,
     "wof:name":"Ergo-Eval",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

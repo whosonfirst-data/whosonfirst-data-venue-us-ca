@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.797451,37.691968,-121.797451,37.691968",
     "geom:latitude":37.691968,
     "geom:longitude":-121.797451,
@@ -44,16 +45,31 @@
         "shows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XUTa9PiPj6cRQUW4bd64A_37.691968_-121.797451@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"3bd4600115505ba8c70c200ca4ab9b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588463645
+        }
+    ],
     "wof:id":588463645,
-    "wof:lastmodified":1472350402,
+    "wof:lastmodified":1491958879,
     "wof:name":"American Pacific Promotions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

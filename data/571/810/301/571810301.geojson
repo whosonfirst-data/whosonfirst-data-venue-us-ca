@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.76666,36.92237,-121.76666,36.92237",
     "geom:latitude":36.92237,
     "geom:longitude":-121.76666,
@@ -32,16 +33,31 @@
         "lubrication"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921763,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51jcsBJyXTFWnM4hHbg7pH_36.922370_-121.766660@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b2af1071529006c119e8bb5f2a8b6d68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921763,
+            "region_id":85688637,
+            "venue_id":571810301
+        }
+    ],
     "wof:id":571810301,
-    "wof:lastmodified":1472344889,
+    "wof:lastmodified":1491964203,
     "wof:name":"Traveling Oil Doctor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.160781,37.445504,-122.160781,37.445504",
     "geom:latitude":37.445504,
     "geom:longitude":-122.160781,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"www.cbhp.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kDE8T686nfScw0mPp1zzR_37.445504_-122.160781@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c62e7fc0cfab86aa56de9b5769acb870",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555632615
+        }
+    ],
     "wof:id":555632615,
-    "wof:lastmodified":1472352025,
+    "wof:lastmodified":1491948300,
     "wof:name":"Community Breast Health Prjct",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

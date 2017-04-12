@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.253068,34.045075,-118.253068,34.045075",
     "geom:latitude":34.045075,
     "geom:longitude":-118.253068,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"4e0dcd10cd9c8b338c72499a062a31f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":336672067
         }
     ],
     "wof:id":336672067,
-    "wof:lastmodified":1472331405,
+    "wof:lastmodified":1491927866,
     "wof:name":"Z Tech Electronic",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

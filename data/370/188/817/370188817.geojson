@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.353104,34.250483,-118.353104,34.250483",
     "geom:latitude":34.250483,
     "geom:longitude":-118.353104,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865489
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"1135c3b12910193635d9c256c716ab50",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865489,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":370188817
         }
     ],
     "wof:id":370188817,
-    "wof:lastmodified":1472337993,
+    "wof:lastmodified":1491930956,
     "wof:name":"Kiladjian",
-    "wof:parent_id":85865489,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.376999,34.044399,-118.376999,34.044399",
     "geom:latitude":34.044399,
     "geom:longitude":-118.376999,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041500555,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869183
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"46fe80f40b67bac4be48fb38c72c65dc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869183,
+            "macrohood_id":1108694663,
+            "microhood_id":1041500555,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370940909
         }
     ],
     "wof:id":370940909,
-    "wof:lastmodified":1472346319,
+    "wof:lastmodified":1491917848,
     "wof:name":"Discount Cigarettes",
-    "wof:parent_id":85869183,
+    "wof:parent_id":1041500555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

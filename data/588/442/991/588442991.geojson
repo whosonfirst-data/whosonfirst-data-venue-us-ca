@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597,38.602699,-122.597,38.602699",
     "geom:latitude":38.602699,
     "geom:longitude":-122.597,
@@ -29,16 +30,29 @@
     "sg:province":"CA",
     "sg:website":"www.montelena.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mao8sGK6LmHpGFp9LggOW_38.602699_-122.597000@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"819c026238f80e4b192c6aaf0a4f8dde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":588442991
+        }
+    ],
     "wof:id":588442991,
-    "wof:lastmodified":1472349785,
+    "wof:lastmodified":1491967743,
     "wof:name":"Chateau Montelena Winery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

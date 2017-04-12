@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.671527,38.280704,-122.671527,38.280704",
     "geom:latitude":38.280704,
     "geom:longitude":-122.671527,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85887163,
+        102081671,
+        85922701,
+        85813067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,25 @@
     "wof:geomhash":"18243fd30bdfd0cfbf1f586258f46265",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85887163,
+            "region_id":85688637,
+            "venue_id":287036159
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85813067,
             "region_id":85688637,
             "venue_id":287036159
         }
     ],
     "wof:id":287036159,
-    "wof:lastmodified":1472331126,
+    "wof:lastmodified":1491967365,
     "wof:name":"Bella Saluti",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.274259,37.503675,-122.274259,37.503675",
     "geom:latitude":37.503675,
     "geom:longitude":-122.274259,
@@ -33,16 +34,33 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ks9TCkvPOaEmtwgObgIPM_37.503675_-122.274259@1303263307"
     },
     "wof:country":"US",
     "wof:geomhash":"19d8c5ce376f6c7135766f41fff41a10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":588353489
+        }
+    ],
     "wof:id":588353489,
-    "wof:lastmodified":1472343789,
+    "wof:lastmodified":1491961608,
     "wof:name":"Arundel Elementary School",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.928048,37.701533,-121.928048,37.701533",
     "geom:latitude":37.701533,
     "geom:longitude":-121.928048,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Gvf4bzGQITdpJBIKz5vWN_37.701533_-121.928048@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"23b0b58cfe24f2be697af8cd038d8a93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":555399463
+        }
+    ],
     "wof:id":555399463,
-    "wof:lastmodified":1472349398,
+    "wof:lastmodified":1491965752,
     "wof:name":"HMS Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

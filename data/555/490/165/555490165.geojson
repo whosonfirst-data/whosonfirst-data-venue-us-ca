@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.149723,38.060792,-122.149723,38.060792",
     "geom:latitude":38.060792,
     "geom:longitude":-122.149723,
@@ -31,16 +32,31 @@
         "periodical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tg9xkiIgPMpiPEA25g7N6_38.060792_-122.149723@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"797693926761608683a23744bceb5508",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":555490165
+        }
+    ],
     "wof:id":555490165,
-    "wof:lastmodified":1472350963,
+    "wof:lastmodified":1491959704,
     "wof:name":"Anatole Publishing Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

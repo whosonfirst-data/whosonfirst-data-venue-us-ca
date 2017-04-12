@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.239208,34.003134,-118.239208,34.003134",
     "geom:latitude":34.003134,
     "geom:longitude":-118.239208,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
         102191575,
+        1108692435,
         85633793,
-        85923779,
+        85923517,
         102086957,
-        420551249
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,16 +52,17 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923779,
-            "neighbourhood_id":420551249,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":571630295
         }
     ],
     "wof:id":571630295,
-    "wof:lastmodified":1472342226,
+    "wof:lastmodified":1491867619,
     "wof:name":"Florence Bakery",
-    "wof:parent_id":420551249,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

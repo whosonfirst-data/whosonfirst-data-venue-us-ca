@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.177429,37.433331,-122.177429,37.433331",
     "geom:latitude":37.433331,
     "geom:longitude":-122.177429,
@@ -42,16 +43,31 @@
         "pathology"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Gb7PXvNo5YN3lEIyVCrGc_37.433331_-122.177429@1303263324"
     },
     "wof:country":"US",
     "wof:geomhash":"01ea7cedfabb83f522c9397af2b6b7dd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588425197
+        }
+    ],
     "wof:id":588425197,
-    "wof:lastmodified":1472349092,
+    "wof:lastmodified":1491958969,
     "wof:name":"Calore, Briana, Md - Stanford School Of Medicine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.616842,37.095622,-121.616842,37.095622",
     "geom:latitude":37.095622,
     "geom:longitude":-121.616842,
@@ -33,16 +34,31 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q5V4EN9JGFyWq0IuRXtxo_37.095622_-121.616842@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"40ba5d879c5f38b36a447991dc6b1966",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":555154421
+        }
+    ],
     "wof:id":555154421,
-    "wof:lastmodified":1472342047,
+    "wof:lastmodified":1491956626,
     "wof:name":"Marathon Trading Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

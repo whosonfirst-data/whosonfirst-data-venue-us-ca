@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.324452,34.025517,-118.324452,34.025517",
     "geom:latitude":34.025517,
     "geom:longitude":-118.324452,
@@ -39,13 +40,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85827369",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        420558695,
-        85868349
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,24 +60,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":420558695,
-            "region_id":85688637,
-            "venue_id":555652963
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868349,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85827369",
             "region_id":85688637,
             "venue_id":555652963
         }
     ],
     "wof:id":555652963,
-    "wof:lastmodified":1472352316,
+    "wof:lastmodified":1491867858,
     "wof:name":"Olaolu Enterprises",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85827369",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

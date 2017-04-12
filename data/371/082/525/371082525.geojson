@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.215571,37.364508,-122.215571,37.364508",
     "geom:latitude":37.364508,
     "geom:longitude":-122.215571,
@@ -33,9 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922351,
+        102081673,
+        85879687,
         85922453,
-        102085387
+        102085387,
+        85869017
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,28 @@
     "wof:geomhash":"a2dc8de5002cb3310a2dcb2dd290348b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879687,
+            "region_id":85688637,
+            "venue_id":371082525
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922453,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85869017,
             "region_id":85688637,
             "venue_id":371082525
         }
     ],
     "wof:id":371082525,
-    "wof:lastmodified":1472338858,
+    "wof:lastmodified":1491947916,
     "wof:name":"Vanacker Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

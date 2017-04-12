@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.39598,34.056191,-118.39598,34.056191",
     "geom:latitude":34.056191,
     "geom:longitude":-118.39598,
@@ -38,11 +39,13 @@
     "sg:website":"www.crowneplaza.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85865815
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +55,20 @@
     "wof:geomhash":"8e9467318a904f2568187f4300dc9e73",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865815,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370941619
         }
     ],
     "wof:id":370941619,
-    "wof:lastmodified":1472347078,
+    "wof:lastmodified":1491912205,
     "wof:name":"Crowne Plaza Hotel Beverly Hills",
-    "wof:parent_id":85865815,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

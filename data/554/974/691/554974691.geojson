@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.044523,38.00363,-122.044523,38.00363",
     "geom:latitude":38.00363,
     "geom:longitude":-122.044523,
@@ -36,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922187,
         102086225,
+        85876849,
         85876855
     ],
     "wof:breaches":[],
@@ -49,6 +52,16 @@
     "wof:geomhash":"15dad9e5e67e923e0f2aa3ad2d665e01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922187,
+            "neighbourhood_id":85876849,
+            "region_id":85688637,
+            "venue_id":554974691
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922187,
@@ -58,9 +71,9 @@
         }
     ],
     "wof:id":554974691,
-    "wof:lastmodified":1472337811,
+    "wof:lastmodified":1491968008,
     "wof:name":"Spa-Land",
-    "wof:parent_id":85876855,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

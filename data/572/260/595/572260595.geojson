@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.652135,34.175588,-118.652135,34.175588",
     "geom:latitude":34.175588,
     "geom:longitude":-118.652135,
@@ -31,18 +32,37 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85858757",
+        102191575,
+        1108692439,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2CT5RulxMcvzYyXVHziHyq_34.175588_-118.652135@1303263216"
     },
     "wof:country":"US",
     "wof:geomhash":"12ee69bd9316d24337ad0086afb67632",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
+            "region_id":85688637,
+            "venue_id":572260595
+        }
+    ],
     "wof:id":572260595,
-    "wof:lastmodified":1472349271,
+    "wof:lastmodified":1491889140,
     "wof:name":"Marks Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

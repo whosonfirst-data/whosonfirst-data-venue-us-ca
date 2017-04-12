@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.194962,37.012068,-122.194962,37.012068",
     "geom:latitude":37.012068,
     "geom:longitude":-122.194962,
@@ -33,16 +34,31 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924229,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BLg0xJl76cgmyjLAkmYdk_37.012068_-122.194962@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a9beabe11d2a240084748d6a12103257",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924229,
+            "region_id":85688637,
+            "venue_id":555687285
+        }
+    ],
     "wof:id":555687285,
-    "wof:lastmodified":1472352554,
+    "wof:lastmodified":1491956768,
     "wof:name":"Whale Hedge Studio Bill Fravel",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

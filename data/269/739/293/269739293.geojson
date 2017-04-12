@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.394974,34.174529,-118.394974,34.174529",
     "geom:latitude":34.174529,
     "geom:longitude":-118.394974,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85821163
+        85688637
     ],
     "wof:brand_id":420575025,
     "wof:breaches":[],
@@ -53,19 +56,20 @@
     "wof:geomhash":"3384df4a24d56979bb670f721510992d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85821163,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":269739293
         }
     ],
     "wof:id":269739293,
-    "wof:lastmodified":1472333151,
+    "wof:lastmodified":1491913296,
     "wof:name":"Amway Distributors",
-    "wof:parent_id":85821163,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

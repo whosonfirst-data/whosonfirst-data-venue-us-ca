@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.245684,34.055127,-118.245684,34.055127",
     "geom:latitude":34.055127,
     "geom:longitude":-118.245684,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091736553,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85866227
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +50,21 @@
     "wof:geomhash":"a9dd9347e570ab2bfb95d97c48986464",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85866227,
+            "macrohood_id":1108694663,
+            "microhood_id":1091736553,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":169549229
         }
     ],
     "wof:id":169549229,
-    "wof:lastmodified":1472333924,
+    "wof:lastmodified":1491928375,
     "wof:name":"County Rec For Superior Crt",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

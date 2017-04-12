@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.921406,37.800491,-121.921406,37.800491",
     "geom:latitude":37.800491,
     "geom:longitude":-121.921406,
@@ -32,16 +33,31 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YIEggwYPjNXDtD2atJpo5_37.800491_-121.921406@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"966cc0199e0cf4d4506a5de0d3d4af1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":555136169
+        }
+    ],
     "wof:id":555136169,
-    "wof:lastmodified":1472341346,
+    "wof:lastmodified":1491961540,
     "wof:name":"Barfworld",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.405247,34.179407,-118.405247,34.179407",
     "geom:latitude":34.179407,
     "geom:longitude":-118.405247,
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"c19e37eb53dbdd100600191e715083bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":320112473
         }
     ],
     "wof:id":320112473,
-    "wof:lastmodified":1472332144,
+    "wof:lastmodified":1491913339,
     "wof:name":"King Klong Music",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

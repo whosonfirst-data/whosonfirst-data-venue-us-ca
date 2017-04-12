@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.000435,37.822142,-122.000435,37.822142",
     "geom:latitude":37.822142,
     "geom:longitude":-122.000435,
@@ -32,16 +33,31 @@
         "saving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vLPtW3edhzERze1kixT5b_37.822531_-122.000711@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"77dc7f5da895ced84139c3316aa86128",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":571988981
+        }
+    ],
     "wof:id":571988981,
-    "wof:lastmodified":1472350663,
+    "wof:lastmodified":1491957799,
     "wof:name":"Heritage Bank Of Commerce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

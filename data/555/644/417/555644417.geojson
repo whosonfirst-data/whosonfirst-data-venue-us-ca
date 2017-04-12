@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.887869,38.032224,-121.887869,38.032224",
     "geom:latitude":38.032224,
     "geom:longitude":-121.887869,
@@ -33,16 +34,31 @@
         "financial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922139,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4O4WV1b0h3nijoFbsrZ7Da_38.032224_-121.887869@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c66944aef6417f5ffb47d9fba783b38b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922139,
+            "region_id":85688637,
+            "venue_id":555644417
+        }
+    ],
     "wof:id":555644417,
-    "wof:lastmodified":1472352122,
+    "wof:lastmodified":1491956748,
     "wof:name":"Paine Memorial Plans",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

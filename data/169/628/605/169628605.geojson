@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.087474,34.127863,-118.087474,34.127863",
     "geom:latitude":34.127863,
     "geom:longitude":-118.087474,
@@ -40,8 +41,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85923791,
+        102086957,
+        85816743,
+        85923487,
+        85816667
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,18 +58,28 @@
     "wof:geomhash":"90154f173a69cb923712c9d626ed3d49",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923791,
+            "neighbourhood_id":85816743,
+            "region_id":85688637,
+            "venue_id":169628605
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923487,
+            "neighbourhood_id":85816667,
             "region_id":85688637,
             "venue_id":169628605
         }
     ],
     "wof:id":169628605,
-    "wof:lastmodified":1472334930,
+    "wof:lastmodified":1491933260,
     "wof:name":"San Marino Masonic Lodge 685",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

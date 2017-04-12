@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.137375,33.764369,-118.137375,33.764369",
     "geom:latitude":33.764369,
     "geom:longitude":-118.137375,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85871771
+        102086957,
+        85871771,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +46,6 @@
     "wof:geomhash":"d4edcecac0ebb0c4ab545298f89fe645",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":571488065
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -59,12 +53,19 @@
             "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":571488065
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":571488065
         }
     ],
     "wof:id":571488065,
-    "wof:lastmodified":1472337797,
+    "wof:lastmodified":1491894992,
     "wof:name":"Service Gretchen",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

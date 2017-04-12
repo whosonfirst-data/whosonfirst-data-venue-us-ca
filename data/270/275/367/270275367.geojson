@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.336371,37.956008,-122.336371,37.956008",
     "geom:latitude":37.956008,
     "geom:longitude":-122.336371,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922125,
-        102086225
+        102086225,
+        85845805,
+        85922131,
+        85887123
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,28 @@
     "wof:geomhash":"b30ba68eb24a59dd8367b11cba844820",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922125,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85845805,
+            "region_id":85688637,
+            "venue_id":270275367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85887123,
             "region_id":85688637,
             "venue_id":270275367
         }
     ],
     "wof:id":270275367,
-    "wof:lastmodified":1472333956,
+    "wof:lastmodified":1491956790,
     "wof:name":"Bay Florist",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

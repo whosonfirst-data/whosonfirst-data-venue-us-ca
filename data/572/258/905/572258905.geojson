@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.625999,34.165001,-118.625999,34.165001",
     "geom:latitude":34.165001,
     "geom:longitude":-118.625999,
@@ -29,12 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
         102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85858757
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858757,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":572258905
         }
     ],
     "wof:id":572258905,
-    "wof:lastmodified":1472348970,
+    "wof:lastmodified":1491888800,
     "wof:name":"Albert I Kaufman Attorney At Law",
-    "wof:parent_id":85858757,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

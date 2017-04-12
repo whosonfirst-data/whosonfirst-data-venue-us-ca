@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.960142,37.761419,-121.960142,37.761419",
     "geom:latitude":37.761419,
     "geom:longitude":-121.960142,
@@ -49,16 +50,31 @@
     ],
     "sg:website":"http://www.tescra.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MkvN6rcI666wVCCwSHdSs_37.761419_-121.960142@1308186497"
     },
     "wof:country":"US",
     "wof:geomhash":"1cc7a670ce02df4b615559c16e770fa2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":588727123
+        }
+    ],
     "wof:id":588727123,
-    "wof:lastmodified":1472353547,
+    "wof:lastmodified":1491961230,
     "wof:name":"TESCRA",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

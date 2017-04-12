@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.184226,37.430821,-122.184226,37.430821",
     "geom:latitude":37.430821,
     "geom:longitude":-122.184226,
@@ -31,16 +32,31 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925383,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tF03GvLfsfUXbmO4K3Bk2_37.430821_-122.184226@1303263324"
     },
     "wof:country":"US",
     "wof:geomhash":"3cd933dac43a1393030c57cf92e834c2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925383,
+            "region_id":85688637,
+            "venue_id":588425171
+        }
+    ],
     "wof:id":588425171,
-    "wof:lastmodified":1472349072,
+    "wof:lastmodified":1491963742,
     "wof:name":"Fire Protection Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

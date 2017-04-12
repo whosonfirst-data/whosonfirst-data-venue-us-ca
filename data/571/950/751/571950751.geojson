@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.461912,38.553296,-122.461912,38.553296",
     "geom:latitude":38.553296,
     "geom:longitude":-122.461912,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924787,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Cberrx5MdBEsylDu5ZTIl_38.553296_-122.461912@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a2cd957e05507fbc3545bb5cea6c03a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85924787,
+            "region_id":85688637,
+            "venue_id":571950751
+        }
+    ],
     "wof:id":571950751,
-    "wof:lastmodified":1472350243,
+    "wof:lastmodified":1491967249,
     "wof:name":"Williams Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

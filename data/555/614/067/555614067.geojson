@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.515759,37.540692,-122.515759,37.540692",
     "geom:latitude":37.540692,
     "geom:longitude":-122.515759,
@@ -31,16 +32,31 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925823,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0btGIKYecvzgNUBGizzyOM_37.540692_-122.515759@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"856f635128d3df1d3f82f4ebdfb64fb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925823,
+            "region_id":85688637,
+            "venue_id":555614067
+        }
+    ],
     "wof:id":555614067,
-    "wof:lastmodified":1472351895,
+    "wof:lastmodified":1491956936,
     "wof:name":"Creative Design & Engineering",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

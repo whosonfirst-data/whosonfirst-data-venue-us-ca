@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.065622,37.87497,-122.065622,37.87497",
     "geom:latitude":37.87497,
     "geom:longitude":-122.065622,
@@ -37,7 +38,9 @@
         85633793,
         85925005,
         102086225,
-        420550469
+        420550469,
+        85924967,
+        85847149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +57,21 @@
             "neighbourhood_id":420550469,
             "region_id":85688637,
             "venue_id":555732687
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85924967,
+            "neighbourhood_id":85847149,
+            "region_id":85688637,
+            "venue_id":555732687
         }
     ],
     "wof:id":555732687,
-    "wof:lastmodified":1472352973,
+    "wof:lastmodified":1491970956,
     "wof:name":"R & N Residential Care",
-    "wof:parent_id":420550469,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

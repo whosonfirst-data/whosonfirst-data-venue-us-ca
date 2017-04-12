@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582513,38.582521,-122.582513,38.582521",
     "geom:latitude":38.582521,
     "geom:longitude":-122.582513,
@@ -31,16 +32,31 @@
         "internet"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zB0zlUlO5WwOIucD3BG5e_38.582521_-122.582513@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f6226e0a9c3ea296a35054cda69f8cc0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":555535675
+        }
+    ],
     "wof:id":555535675,
-    "wof:lastmodified":1472351506,
+    "wof:lastmodified":1491967159,
     "wof:name":"Tech Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

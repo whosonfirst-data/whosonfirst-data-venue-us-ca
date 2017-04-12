@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.156146,33.985282,-118.156146,33.985282",
     "geom:latitude":33.985282,
     "geom:longitude":-118.156146,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923667,
-        102086957
+        102086957,
+        420551223,
+        85804377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"9a9e6a8bddc880ed615936b63c15e297",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923667,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551223,
+            "region_id":85688637,
+            "venue_id":219768451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923667,
+            "neighbourhood_id":85804377,
             "region_id":85688637,
             "venue_id":219768451
         }
     ],
     "wof:id":219768451,
-    "wof:lastmodified":1472334180,
+    "wof:lastmodified":1491914624,
     "wof:name":"Knitting Factory Of California",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

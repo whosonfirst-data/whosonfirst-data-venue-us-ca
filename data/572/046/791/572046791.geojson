@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291826,37.893377,-122.291826,37.893377",
     "geom:latitude":37.893377,
     "geom:longitude":-122.291826,
@@ -35,16 +36,31 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BkMxGlicRJCqL5iP2awk6_37.893575_-122.291773@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"271401db43d7128b1951009dbd8f0d0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":572046791
+        }
+    ],
     "wof:id":572046791,
-    "wof:lastmodified":1472339798,
+    "wof:lastmodified":1491962787,
     "wof:name":"Bay Communications",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

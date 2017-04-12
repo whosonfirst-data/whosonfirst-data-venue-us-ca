@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.549503,37.914474,-122.549503,37.914474",
     "geom:latitude":37.914474,
     "geom:longitude":-122.549503,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922023,
-        102084353
+        102084353,
+        85886411,
+        85886417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,26 @@
     "wof:geomhash":"32f44370f0f54be9d6efd6d7db8ad283",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922023,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886411,
+            "region_id":85688637,
+            "venue_id":370279961
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85886417,
             "region_id":85688637,
             "venue_id":370279961
         }
     ],
     "wof:id":370279961,
-    "wof:lastmodified":1472339175,
+    "wof:lastmodified":1491957753,
     "wof:name":"Utzman Cnsltng-Strctural Engrg",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

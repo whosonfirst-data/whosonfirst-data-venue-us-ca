@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.462619,34.048033,-118.462619,34.048033",
     "geom:latitude":34.048033,
     "geom:longitude":-118.462619,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"e269b606dc6a724c1278751062bcd9eb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":336799383
         }
     ],
     "wof:id":336799383,
-    "wof:lastmodified":1472332589,
+    "wof:lastmodified":1491884500,
     "wof:name":"This Old House La",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

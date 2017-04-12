@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.56628,37.0671,-121.56628,37.0671",
     "geom:latitude":37.0671,
     "geom:longitude":-121.56628,
@@ -33,8 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85885991,
+        102081673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,17 @@
     "wof:geomhash":"3bc54ccf7d2c6e532eecc087e1dda0ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081673,
+            "neighbourhood_id":85885991,
             "region_id":85688637,
             "venue_id":353410881
         }
     ],
     "wof:id":353410881,
-    "wof:lastmodified":1472331101,
+    "wof:lastmodified":1491948407,
     "wof:name":"K A Farms",
-    "wof:parent_id":-1,
+    "wof:parent_id":85885991,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

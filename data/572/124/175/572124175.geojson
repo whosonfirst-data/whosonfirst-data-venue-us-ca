@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.112666,38.012341,-122.112666,38.012341",
     "geom:latitude":38.012341,
     "geom:longitude":-122.112666,
@@ -37,16 +38,25 @@
     ],
     "sg:website":"http://www.cityofmartinez.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JpV1cxlt41y4AeOvXZHu0_38.012404_-122.111893@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"8651775a8ab067a6d6ba77b77e6217fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":572124175
+        }
+    ],
     "wof:id":572124175,
-    "wof:lastmodified":1472342204,
+    "wof:lastmodified":1491965341,
     "wof:name":"Martinez Treatment Plant",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

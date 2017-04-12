@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.276834,37.901299,-122.276834,37.901299",
     "geom:latitude":37.901299,
     "geom:longitude":-122.276834,
@@ -32,16 +33,31 @@
         "structural"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TgIxfQrap0MSh1vhhIdXz_37.901905_-122.276627@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"ecdf2460b26dbde888eb0cd868c296ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":572011467
+        }
+    ],
     "wof:id":572011467,
-    "wof:lastmodified":1472338127,
+    "wof:lastmodified":1491959585,
     "wof:name":"Telesis Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.937896,37.827723,-121.937896,37.827723",
     "geom:latitude":37.827723,
     "geom:longitude":-121.937896,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922183,
+        102086225,
+        85925167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,16 +48,24 @@
     "wof:geomhash":"38a3a9c170f4fff068e99491b5791aa4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":219870805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
             "region_id":85688637,
             "venue_id":219870805
         }
     ],
     "wof:id":219870805,
-    "wof:lastmodified":1472334393,
+    "wof:lastmodified":1491949269,
     "wof:name":"Diablo Ranch Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

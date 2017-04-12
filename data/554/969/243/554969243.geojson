@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.433648,37.46753,-122.433648,37.46753",
     "geom:latitude":37.46753,
     "geom:longitude":-122.433648,
@@ -32,16 +33,31 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TQ6TfoXuR0sOnKQ0SOa79_37.467530_-122.433648@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"1ebfc5c2f97319c44a60b5bdb5e82cc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":554969243
+        }
+    ],
     "wof:id":554969243,
-    "wof:lastmodified":1472337603,
+    "wof:lastmodified":1491967903,
     "wof:name":"B K Motors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

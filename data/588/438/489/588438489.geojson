@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.919476,37.816034,-121.919476,37.816034",
     "geom:latitude":37.816034,
     "geom:longitude":-121.919476,
@@ -38,16 +39,31 @@
         "human"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X3M7sPRDqXp7Qmm7LBoWj_37.816034_-121.919476@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"ba5478770a2d6c3d30651ca4f652690e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":588438489
+        }
+    ],
     "wof:id":588438489,
-    "wof:lastmodified":1472349471,
+    "wof:lastmodified":1491949337,
     "wof:name":"Mary Louise Smith",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

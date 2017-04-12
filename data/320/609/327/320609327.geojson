@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.315549,33.974579,-118.315549,33.974579",
     "geom:latitude":33.974579,
     "geom:longitude":-118.315549,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996435,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"dc2cbf1bdc43facb43e5c032893abf8c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996435,
             "region_id":85688637,
             "venue_id":320609327
         }
     ],
     "wof:id":320609327,
-    "wof:lastmodified":1472335911,
+    "wof:lastmodified":1491867569,
     "wof:name":"Hidalgo Tires",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

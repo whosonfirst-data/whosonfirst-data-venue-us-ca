@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.927467,37.712479,-121.927467,37.712479",
     "geom:latitude":37.712479,
     "geom:longitude":-121.927467,
@@ -38,16 +39,31 @@
         "vault"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Vivm645Vb3N2womkohoKM_37.712479_-121.927467@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"334e88f030366420d6ab8242edd59057",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471367
+        }
+    ],
     "wof:id":588471367,
-    "wof:lastmodified":1472350559,
+    "wof:lastmodified":1491968689,
     "wof:name":"Bay Lock And Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

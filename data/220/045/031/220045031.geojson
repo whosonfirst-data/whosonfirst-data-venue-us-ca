@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.237341,34.05817,-118.237341,34.05817",
     "geom:latitude":34.05817,
     "geom:longitude":-118.237341,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108693181,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85836383
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"33db2609dd8953c40d3ef4009ab1f8cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836383,
+            "macrohood_id":1108694663,
+            "microhood_id":1108693181,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":220045031
         }
     ],
     "wof:id":220045031,
-    "wof:lastmodified":1472331087,
+    "wof:lastmodified":1491892613,
     "wof:name":"Feria's Shop",
-    "wof:parent_id":85836383,
+    "wof:parent_id":1108693181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

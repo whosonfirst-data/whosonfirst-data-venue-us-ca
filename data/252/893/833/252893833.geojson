@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.652191,34.178901,-118.652191,34.178901",
     "geom:latitude":34.178901,
     "geom:longitude":-118.652191,
@@ -30,11 +31,13 @@
     "sg:website":"www.wctravelschool.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85855667
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"9fcd36d76a829c6ac54c7e220b23c5bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85855667,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":252893833
         }
     ],
     "wof:id":252893833,
-    "wof:lastmodified":1472331925,
+    "wof:lastmodified":1491888826,
     "wof:name":"West Coast School Of Travel",
-    "wof:parent_id":85855667,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

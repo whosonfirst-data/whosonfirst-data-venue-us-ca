@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.469583,38.507221,-122.469583,38.507221",
     "geom:latitude":38.507221,
     "geom:longitude":-122.469583,
@@ -31,16 +32,31 @@
         "license"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gu7nSPpG1098rQU0qANFs_38.507221_-122.469583@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"db521a320bebcf69afebff285335be75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":571514861
+        }
+    ],
     "wof:id":571514861,
-    "wof:lastmodified":1472339482,
+    "wof:lastmodified":1491968428,
     "wof:name":"Inetics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

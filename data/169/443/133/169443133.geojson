@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.36453,34.042983,-118.36453,34.042983",
     "geom:latitude":34.042983,
     "geom:longitude":-118.36453,
@@ -34,7 +35,12 @@
     "sg:website":"www.accuratemetering.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,15 +51,20 @@
     "wof:geomhash":"c6ce47d54b297584a316d60d7d587c8d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":169443133
         }
     ],
     "wof:id":169443133,
-    "wof:lastmodified":1472331108,
+    "wof:lastmodified":1491917838,
     "wof:name":"Accurate Metering Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.240916,34.023205,-118.240916,34.023205",
     "geom:latitude":34.023205,
     "geom:longitude":-118.240916,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"75d7f29320e4ed2919c4e4996bba2cce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":186639625
         }
     ],
     "wof:id":186639625,
-    "wof:lastmodified":1472333509,
+    "wof:lastmodified":1491928689,
     "wof:name":"Textillary Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.973631,37.771479,-121.973631,37.771479",
     "geom:latitude":37.771479,
     "geom:longitude":-121.973631,
@@ -31,16 +32,31 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WdX06H4gt1I1E2EeRoEio_37.771479_-121.973631@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"ce51d983f366d805c2db9320b7baac44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555237451
+        }
+    ],
     "wof:id":555237451,
-    "wof:lastmodified":1472343336,
+    "wof:lastmodified":1491959860,
     "wof:name":"A Bay Area Tutoring Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

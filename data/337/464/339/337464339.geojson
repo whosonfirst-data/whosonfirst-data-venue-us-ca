@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.33074,34.000181,-118.33074,34.000181",
     "geom:latitude":34.000181,
     "geom:longitude":-118.33074,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865801
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"e1eb69fff44f99eb4e2ff5148d2ed927",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865801,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":337464339
         }
     ],
     "wof:id":337464339,
-    "wof:lastmodified":1472331809,
+    "wof:lastmodified":1491868264,
     "wof:name":"A 1 Patients Aids Accessories",
-    "wof:parent_id":85865801,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

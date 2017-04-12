@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.142308,33.758537,-118.142308,33.758537",
     "geom:latitude":33.758537,
     "geom:longitude":-118.142308,
@@ -35,11 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85805639,
         85923525,
-        85871771
+        102086957,
+        85871771,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +51,26 @@
     "wof:geomhash":"dd86416a67a03be19377caee5ef4bacb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":269845259
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
             "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":269845259
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":269845259
         }
     ],
     "wof:id":269845259,
-    "wof:lastmodified":1472334136,
+    "wof:lastmodified":1491895003,
     "wof:name":"Flood Communications Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

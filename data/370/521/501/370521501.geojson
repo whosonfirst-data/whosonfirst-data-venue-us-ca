@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.264999,33.995998,-118.264999,33.995998",
     "geom:latitude":33.995998,
     "geom:longitude":-118.264999,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"6797fcecdea7fe2154164507c0ee9b0f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":370521501
         }
     ],
     "wof:id":370521501,
-    "wof:lastmodified":1472342220,
+    "wof:lastmodified":1491867899,
     "wof:name":"Mi Morenita Meat Market",
-    "wof:parent_id":85865791,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12268,37.885918,-122.12268,37.885918",
     "geom:latitude":37.885918,
     "geom:longitude":-122.12268,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922169,
-        102086225
+        102086225,
+        85886137,
+        85886131
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"4e801b077bde01c973928aaa6d5a6bc4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886137,
+            "region_id":85688637,
+            "venue_id":354086327
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922169,
+            "neighbourhood_id":85886131,
             "region_id":85688637,
             "venue_id":354086327
         }
     ],
     "wof:id":354086327,
-    "wof:lastmodified":1472332489,
+    "wof:lastmodified":1491949278,
     "wof:name":"Freiche Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

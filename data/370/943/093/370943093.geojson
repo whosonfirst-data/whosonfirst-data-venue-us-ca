@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.383299,34.058492,-118.383299,34.058492",
     "geom:latitude":34.058492,
     "geom:longitude":-118.383299,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
-        85923701,
+        85923517,
         102086957,
-        85868357
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"370591d58d4f1d3262f5ca9f7d6934bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923701,
-            "neighbourhood_id":85868357,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370943093
         }
     ],
     "wof:id":370943093,
-    "wof:lastmodified":1472348216,
+    "wof:lastmodified":1491912205,
     "wof:name":"Stage Coach Limousine Service",
-    "wof:parent_id":85868357,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

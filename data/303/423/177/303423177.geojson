@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.290031,34.034457,-118.290031,34.034457",
     "geom:latitude":34.034457,
     "geom:longitude":-118.290031,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869325
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"86550d73f190c76c09d18d664d942c5e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869325,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":303423177
         }
     ],
     "wof:id":303423177,
-    "wof:lastmodified":1472334607,
+    "wof:lastmodified":1491867777,
     "wof:name":"First Stop Drapes Design Works",
-    "wof:parent_id":85869325,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

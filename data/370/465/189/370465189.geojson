@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.323074,34.003562,-118.323074,34.003562",
     "geom:latitude":34.003562,
     "geom:longitude":-118.323074,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865801
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"c50b1b7bc54bfd481f8aca64e52da812",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865801,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":370465189
         }
     ],
     "wof:id":370465189,
-    "wof:lastmodified":1472341510,
+    "wof:lastmodified":1491867598,
     "wof:name":"Morris Barber Beauty Salon",
-    "wof:parent_id":85865801,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

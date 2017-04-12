@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.474644,38.502964,-122.474644,38.502964",
     "geom:latitude":38.502964,
     "geom:longitude":-122.474644,
@@ -39,16 +40,31 @@
         "roasted"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10XVGOyPGKaBQ43vPgR5hZ_38.502964_-122.474644@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"34ea0c68db7e4b7d6f01300ff45577ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":555243459
+        }
+    ],
     "wof:id":555243459,
-    "wof:lastmodified":1472343378,
+    "wof:lastmodified":1491962416,
     "wof:name":"Espresso On The Spot",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

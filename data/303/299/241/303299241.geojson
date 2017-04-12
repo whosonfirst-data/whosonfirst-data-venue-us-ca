@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.053559,34.114426,-118.053559,34.114426",
     "geom:latitude":34.114426,
     "geom:longitude":-118.053559,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923741,
-        102086957
+        102086957,
+        85885579,
+        85923791,
+        85816743
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"d6909e20ff8dbf1fd79ac232c5a4eb48",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923741,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85885579,
+            "region_id":85688637,
+            "venue_id":303299241
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923791,
+            "neighbourhood_id":85816743,
             "region_id":85688637,
             "venue_id":303299241
         }
     ],
     "wof:id":303299241,
-    "wof:lastmodified":1472333814,
+    "wof:lastmodified":1491918201,
     "wof:name":"A Best Holiday Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

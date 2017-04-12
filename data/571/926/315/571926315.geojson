@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.253099,37.857088,-122.253099,37.857088",
     "geom:latitude":37.857088,
     "geom:longitude":-122.253099,
@@ -34,7 +35,8 @@
         85633793,
         85921915,
         102086959,
-        85885639
+        85885639,
+        85876231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,21 @@
             "neighbourhood_id":85885639,
             "region_id":85688637,
             "venue_id":571926315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":85876231,
+            "region_id":85688637,
+            "venue_id":571926315
         }
     ],
     "wof:id":571926315,
-    "wof:lastmodified":1472349959,
+    "wof:lastmodified":1491948801,
     "wof:name":"ERI Real Estate Svc",
-    "wof:parent_id":85885639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

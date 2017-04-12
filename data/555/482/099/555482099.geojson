@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27611,37.49828,-122.27611,37.49828",
     "geom:latitude":37.49828,
     "geom:longitude":-122.27611,
@@ -31,16 +32,33 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qVVWQGKa2tCifu7VzO5zs_37.498280_-122.276110@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"29b08a9e706666e41d8ca5ce5105fe75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555482099
+        }
+    ],
     "wof:id":555482099,
-    "wof:lastmodified":1472350822,
+    "wof:lastmodified":1491959088,
     "wof:name":"Hanson & Sons Electric",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

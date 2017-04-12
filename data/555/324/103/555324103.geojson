@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.892736,38.028533,-121.892736,38.028533",
     "geom:latitude":38.028533,
     "geom:longitude":-121.892736,
@@ -31,16 +32,31 @@
         "graphics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922139,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KouUtEZsWGk5UgvFo5sqk_38.028533_-121.892736@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5acf39e2e016170b43227c34a1176497",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922139,
+            "region_id":85688637,
+            "venue_id":555324103
+        }
+    ],
     "wof:id":555324103,
-    "wof:lastmodified":1472344744,
+    "wof:lastmodified":1491962591,
     "wof:name":"Garage Graphics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

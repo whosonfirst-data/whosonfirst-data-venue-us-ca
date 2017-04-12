@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.253278,37.889676,-122.253278,37.889676",
     "geom:latitude":37.889676,
     "geom:longitude":-122.253278,
@@ -31,16 +32,31 @@
         "department"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39OAgcD2H8A3kKSIcuxNCQ_37.889676_-122.253278@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a1489568e046436539abdc8912c52b46",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":571828405
+        }
+    ],
     "wof:id":571828405,
-    "wof:lastmodified":1472346459,
+    "wof:lastmodified":1491960474,
     "wof:name":"Berkeley Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

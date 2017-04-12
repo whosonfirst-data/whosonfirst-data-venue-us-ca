@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563176,37.949329,-122.563176,37.949329",
     "geom:latitude":37.949329,
     "geom:longitude":-122.563176,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85924675,
-        102084353
+        102084353,
+        85886267,
+        85922013,
+        85887205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,27 @@
     "wof:geomhash":"9a56b6d7934f087de449e937f02f8445",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85924675,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886267,
+            "region_id":85688637,
+            "venue_id":354136927
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922013,
+            "neighbourhood_id":85887205,
             "region_id":85688637,
             "venue_id":354136927
         }
     ],
     "wof:id":354136927,
-    "wof:lastmodified":1472333375,
+    "wof:lastmodified":1491962849,
     "wof:name":"Kaufman Doherty Living Tr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

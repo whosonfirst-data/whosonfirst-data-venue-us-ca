@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.867603,33.755628,-117.867603,33.755628",
     "geom:latitude":33.755628,
     "geom:longitude":-117.867603,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923049,
-        102080847
+        102080847,
+        85872935,
+        85872941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"789dfc1f884781b60a2b66707b8b5d03",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923049,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872935,
+            "region_id":85688637,
+            "venue_id":269875955
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":85872941,
             "region_id":85688637,
             "venue_id":269875955
         }
     ],
     "wof:id":269875955,
-    "wof:lastmodified":1472334294,
+    "wof:lastmodified":1491917299,
     "wof:name":"Alcohol Clinics County Oprtd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

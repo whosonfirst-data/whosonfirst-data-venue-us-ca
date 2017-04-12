@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.991633,37.775455,-121.991633,37.775455",
     "geom:latitude":37.775455,
     "geom:longitude":-121.991633,
@@ -31,16 +32,31 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dTDIJeri3JydWHwcreqMa_37.775455_-121.991633@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"99a3f4460300e392dcaa6cad7074c4cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555449977
+        }
+    ],
     "wof:id":555449977,
-    "wof:lastmodified":1472350352,
+    "wof:lastmodified":1491961463,
     "wof:name":"Koyno Software",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

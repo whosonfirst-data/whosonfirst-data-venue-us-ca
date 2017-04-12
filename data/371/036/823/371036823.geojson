@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.46997,34.291433,-118.46997,34.291433",
     "geom:latitude":34.291433,
     "geom:longitude":-118.46997,
@@ -38,11 +39,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85822437",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +55,20 @@
     "wof:geomhash":"5b96956107b9e72ea2d7d165abb93fe7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85822437",
             "region_id":85688637,
             "venue_id":371036823
         }
     ],
     "wof:id":371036823,
-    "wof:lastmodified":1472337690,
+    "wof:lastmodified":1491902224,
     "wof:name":"Perez Transport Co",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85822437",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.130531,37.443645,-122.130531,37.443645",
     "geom:latitude":37.443645,
     "geom:longitude":-122.130531,
@@ -32,16 +33,31 @@
         "chemist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12YJdVfEvNV1hYntLl8KPk_37.443645_-122.130531@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9982e52a03793f9590c2fce33ae3dcaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":571574045
+        }
+    ],
     "wof:id":571574045,
-    "wof:lastmodified":1472340867,
+    "wof:lastmodified":1491967871,
     "wof:name":"William W Lee Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

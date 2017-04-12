@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.265562,38.009849,-122.265562,38.009849",
     "geom:latitude":38.009849,
     "geom:longitude":-122.265562,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922173,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922173,
+        102086225,
+        420550539
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"0b7879e40f23e01762e0075060256d18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922173,
+            "neighbourhood_id":420550539,
             "region_id":85688637,
             "venue_id":169559021
         }
     ],
     "wof:id":169559021,
-    "wof:lastmodified":1472334005,
+    "wof:lastmodified":1491947853,
     "wof:name":"Hercules Personnel Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550539,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

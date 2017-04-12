@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.056383,37.678779,-122.056383,37.678779",
     "geom:latitude":37.678779,
     "geom:longitude":-122.056383,
@@ -35,16 +36,25 @@
         "exchange"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TAb2SqFQmpuYjFcKn9Ki2_37.678779_-122.056383@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"7aff8e6ca83bcb71ccb0fe41effdf2fa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588454579
+        }
+    ],
     "wof:id":588454579,
-    "wof:lastmodified":1472350014,
+    "wof:lastmodified":1491966317,
     "wof:name":"David R Sansom Whlr",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

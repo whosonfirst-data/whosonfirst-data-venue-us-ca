@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.55469,38.569978,-122.55469,38.569978",
     "geom:latitude":38.569978,
     "geom:longitude":-122.55469,
@@ -29,16 +30,29 @@
     "sg:province":"CA",
     "sg:website":"www.sterlingvineyards.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NsLCWViZhScI5fmttUzEf_38.569978_-122.554690@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"7549cb0eca8ce97da01c2037186ceffe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":588442911
+        }
+    ],
     "wof:id":588442911,
-    "wof:lastmodified":1472349777,
+    "wof:lastmodified":1491967251,
     "wof:name":"Sterling Vineyards",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

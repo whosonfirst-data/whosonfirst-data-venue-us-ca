@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.326346,38.304404,-122.326346,38.304404",
     "geom:latitude":38.304404,
     "geom:longitude":-122.326346,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
-        102085383
+        102085383,
+        420551431,
+        85886555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,27 @@
     "wof:geomhash":"a68dd6748e034d1e24de1e1322ba5353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551431,
+            "region_id":85688637,
+            "venue_id":320130483
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85886555,
             "region_id":85688637,
             "venue_id":320130483
         }
     ],
     "wof:id":320130483,
-    "wof:lastmodified":1472332557,
+    "wof:lastmodified":1491961438,
     "wof:name":"Chinberg Construction Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

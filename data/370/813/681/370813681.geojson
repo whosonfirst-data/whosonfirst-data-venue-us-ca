@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.23403,34.048525,-118.23403,34.048525",
     "geom:latitude":34.048525,
     "geom:longitude":-118.23403,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85867339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"ad9e7c44a626e60bfc781687a472a9da",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85867339,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370813681
         }
     ],
     "wof:id":370813681,
-    "wof:lastmodified":1472344140,
+    "wof:lastmodified":1491892615,
     "wof:name":"Daijo Federal Credit Union",
-    "wof:parent_id":85867339,
+    "wof:parent_id":"85865837",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

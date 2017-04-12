@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.282832,34.01947,-118.282832,34.01947",
     "geom:latitude":34.01947,
     "geom:longitude":-118.282832,
@@ -33,11 +34,13 @@
     "sg:website":"alumni.usc.edu",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"55b7a9f912f95928ac881a491da77d60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868339,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":370456423
         }
     ],
     "wof:id":370456423,
-    "wof:lastmodified":1472341492,
+    "wof:lastmodified":1491868074,
     "wof:name":"Widney Alumni House",
-    "wof:parent_id":85868339,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.294845,38.319848,-122.294845,38.319848",
     "geom:latitude":38.319848,
     "geom:longitude":-122.294845,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921993,
-        85633793,
         85688637,
-        102085383
+        85633793,
+        85886543,
+        102085383,
+        102191575,
+        85921993,
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +52,24 @@
         {
             "country_id":85633793,
             "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":169521099
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
             "locality_id":85921993,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":169521099
         }
     ],
     "wof:id":169521099,
-    "wof:lastmodified":1472333865,
+    "wof:lastmodified":1491949979,
     "wof:name":"Center For Digestive Diseases",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

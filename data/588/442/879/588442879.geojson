@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.605012,38.591428,-122.605012,38.591428",
     "geom:latitude":38.591428,
     "geom:longitude":-122.605012,
@@ -29,16 +30,29 @@
     "sg:province":"CA",
     "sg:website":"www.envywines.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iVFptxoAXaVcycyplvx4j_38.591428_-122.605012@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"2f2825bc51b5b917fcc4d35f302bd7d6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":588442879
+        }
+    ],
     "wof:id":588442879,
-    "wof:lastmodified":1472349774,
+    "wof:lastmodified":1491959521,
     "wof:name":"Envy Wines",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

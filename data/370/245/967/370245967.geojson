@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.365268,34.017212,-118.365268,34.017212",
     "geom:latitude":34.017212,
     "geom:longitude":-118.365268,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531573,
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
-        85928349,
+        85923517,
         102086957,
-        85865473
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"a74d0b17173646b51499482b25167294",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85928349,
-            "neighbourhood_id":85865473,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1041531573,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":370245967
         }
     ],
     "wof:id":370245967,
-    "wof:lastmodified":1472338895,
+    "wof:lastmodified":1491867577,
     "wof:name":"American Graphic Silk Screen",
-    "wof:parent_id":85865473,
+    "wof:parent_id":1041531573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

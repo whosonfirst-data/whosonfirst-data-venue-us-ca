@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.591553,38.103459,-121.591553,38.103459",
     "geom:latitude":38.103459,
     "geom:longitude":-121.591553,
@@ -60,16 +61,29 @@
     ],
     "sg:website":"http://www.perrysboatharbor.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102082889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nkN7tZ5v6tTnABEsPjeOr_38.103459_-121.591553@1303263383"
     },
     "wof:country":"US",
     "wof:geomhash":"aff6d07d7b840c41aee866e5d54a11ff",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "region_id":85688637,
+            "venue_id":588650813
+        }
+    ],
     "wof:id":588650813,
-    "wof:lastmodified":1472353109,
+    "wof:lastmodified":1491966354,
     "wof:name":"Perry's Boat Harbor",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

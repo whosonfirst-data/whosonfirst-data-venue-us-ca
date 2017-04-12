@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.229503,33.941727,-118.229503,33.941727",
     "geom:latitude":33.941727,
     "geom:longitude":-118.229503,
@@ -35,11 +36,13 @@
     "sg:website":"www.lausd.k12.ca.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
-        85923799,
+        85923517,
         102086957,
-        85867337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"1d1f6c6bafcadffb6040955d370bfb3c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923799,
-            "neighbourhood_id":85867337,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":370378457
         }
     ],
     "wof:id":370378457,
-    "wof:lastmodified":1472340188,
+    "wof:lastmodified":1491867749,
     "wof:name":"Weigand Avenue Elementary School",
-    "wof:parent_id":85867337,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

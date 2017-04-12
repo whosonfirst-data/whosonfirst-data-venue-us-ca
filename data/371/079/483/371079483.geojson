@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.246355,33.935863,-118.246355,33.935863",
     "geom:latitude":33.935863,
     "geom:longitude":-118.246355,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85854791
+        85688637
     ],
     "wof:brand_id":420574663,
     "wof:breaches":[],
@@ -47,19 +50,20 @@
     "wof:geomhash":"dd3efd4da54331aedfae37d59987d064",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85854791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":371079483
         }
     ],
     "wof:id":371079483,
-    "wof:lastmodified":1472338769,
+    "wof:lastmodified":1491913929,
     "wof:name":"Bethel Baptist Church",
-    "wof:parent_id":85854791,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.987559,37.235908,-121.987559,37.235908",
     "geom:latitude":37.235908,
     "geom:longitude":-121.987559,
@@ -32,16 +33,25 @@
         "mortgage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zS9EDdCYZpiwM29mgtJ6m_37.235908_-121.987559@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"45c437a48909e30f0db5ac84c20e1e9e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552915,
+            "venue_id":555529087
+        }
+    ],
     "wof:id":555529087,
-    "wof:lastmodified":1472351294,
+    "wof:lastmodified":1491961037,
     "wof:name":"Haaberg & Associates Property",
     "wof:parent_id":420552915,
     "wof:placetype":"venue",

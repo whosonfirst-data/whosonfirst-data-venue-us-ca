@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.904016,37.803473,-121.904016,37.803473",
     "geom:latitude":37.803473,
     "geom:longitude":-121.904016,
@@ -32,16 +33,31 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KlMrL8xLjUU0NOJ3lPgop_37.803473_-121.904016@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f102e0121a92a6ad3d1cf50585896639",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":571751041
+        }
+    ],
     "wof:id":571751041,
-    "wof:lastmodified":1472343870,
+    "wof:lastmodified":1491949424,
     "wof:name":"PSP Enterprises",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

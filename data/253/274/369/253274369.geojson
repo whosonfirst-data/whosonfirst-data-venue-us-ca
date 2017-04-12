@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.304305,38.328133,-122.304305,38.328133",
     "geom:latitude":38.328133,
     "geom:longitude":-122.304305,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
-        102085383
+        102085383,
+        85886547,
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"933713dbc88b5a14dcf510b8491d0f0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886547,
+            "region_id":85688637,
+            "venue_id":253274369
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":253274369
         }
     ],
     "wof:id":253274369,
-    "wof:lastmodified":1472332793,
+    "wof:lastmodified":1491962251,
     "wof:name":"Primrose Care Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.339371,34.046955,-118.339371,34.046955",
     "geom:latitude":34.046955,
     "geom:longitude":-118.339371,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
         102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85868351
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,15 +55,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868351,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":572156179
         }
     ],
     "wof:id":572156179,
-    "wof:lastmodified":1472342674,
+    "wof:lastmodified":1491917932,
     "wof:name":"Subway",
-    "wof:parent_id":85868351,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

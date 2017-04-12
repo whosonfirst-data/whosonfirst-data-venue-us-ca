@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.427802,37.468564,-122.427802,37.468564",
     "geom:latitude":37.468564,
     "geom:longitude":-122.427802,
@@ -28,16 +29,31 @@
     "sg:postcode":"94019",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01L0yaTyeSueAYIDkftpz6_37.468564_-122.427802@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"6750d4a8ed7f8191d7c5d688b7a55ce6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":555229451
+        }
+    ],
     "wof:id":555229451,
-    "wof:lastmodified":1472343173,
+    "wof:lastmodified":1491949438,
     "wof:name":"Happy Taco",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

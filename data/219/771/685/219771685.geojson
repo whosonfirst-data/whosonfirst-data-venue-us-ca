@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.448952,34.035769,-118.448952,34.035769",
     "geom:latitude":34.035769,
     "geom:longitude":-118.448952,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85855873
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"409f242d3bd1f92a7e5519c5d51abaf8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85855873,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":219771685
         }
     ],
     "wof:id":219771685,
-    "wof:lastmodified":1472334183,
+    "wof:lastmodified":1491884381,
     "wof:name":"Zoom Toolz",
-    "wof:parent_id":85855873,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

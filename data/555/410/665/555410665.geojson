@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.192434,37.397377,-122.192434,37.397377",
     "geom:latitude":37.397377,
     "geom:longitude":-122.192434,
@@ -37,6 +38,9 @@
         85688637,
         102191575,
         85633793,
+        85922351,
+        102081673,
+        85879687,
         85925779,
         102085387,
         85828999
@@ -51,6 +55,15 @@
         {
             "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879687,
+            "region_id":85688637,
+            "venue_id":555410665
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
             "county_id":102085387,
             "locality_id":85925779,
             "neighbourhood_id":85828999,
@@ -59,9 +72,9 @@
         }
     ],
     "wof:id":555410665,
-    "wof:lastmodified":1472349617,
+    "wof:lastmodified":1491947987,
     "wof:name":"Three Arch Partners",
-    "wof:parent_id":85828999,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

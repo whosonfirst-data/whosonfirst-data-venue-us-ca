@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.272186,37.498647,-122.272186,37.498647",
     "geom:latitude":37.498647,
     "geom:longitude":-122.272186,
@@ -32,16 +33,33 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pVQnhGhwAdGGm7OdDw5Ns_37.498647_-122.272186@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"4ec88bde4ccf3cfc22976c263641939c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555668547
+        }
+    ],
     "wof:id":555668547,
-    "wof:lastmodified":1472352236,
+    "wof:lastmodified":1491965519,
     "wof:name":"Coronado Construction",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.334119,37.386506,-122.334119,37.386506",
     "geom:latitude":37.386506,
     "geom:longitude":-122.334119,
@@ -32,16 +33,29 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AwiW7rdaPcUkNqEefPvza_37.386506_-122.334119@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"861b177eca1f421aca93e16c287d686e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "region_id":85688637,
+            "venue_id":571733333
+        }
+    ],
     "wof:id":571733333,
-    "wof:lastmodified":1472343631,
+    "wof:lastmodified":1491959634,
     "wof:name":"Sightline",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

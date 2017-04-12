@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.377374,34.040221,-118.377374,34.040221",
     "geom:latitude":34.040221,
     "geom:longitude":-118.377374,
@@ -34,11 +35,14 @@
     "sg:website":"www.calibercollision.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041500555,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869183
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"ce1d5a46e4a2f6e42c10959227fb8e25",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869183,
+            "macrohood_id":1108694663,
+            "microhood_id":1041500555,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370917605
         }
     ],
     "wof:id":370917605,
-    "wof:lastmodified":1472345521,
+    "wof:lastmodified":1491917914,
     "wof:name":"Caliber Collision Centers",
-    "wof:parent_id":85869183,
+    "wof:parent_id":1041500555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

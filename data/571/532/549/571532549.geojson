@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.286886,38.280397,-122.286886,38.280397",
     "geom:latitude":38.280397,
     "geom:longitude":-122.286886,
@@ -32,16 +33,25 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FHyM8AEucMfqHHwGmEztC_38.280397_-122.286886@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"87ce1d47f67017747da2e8aa70a7084d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":571532549
+        }
+    ],
     "wof:id":571532549,
-    "wof:lastmodified":1472339950,
+    "wof:lastmodified":1491957103,
     "wof:name":"Samurai Designs",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

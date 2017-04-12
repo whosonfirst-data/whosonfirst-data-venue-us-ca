@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.994896,37.822877,-121.994896,37.822877",
     "geom:latitude":37.822877,
     "geom:longitude":-121.994896,
@@ -36,16 +37,31 @@
         "air conditioning"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0trx5QRiOFIIp1adeMHjEA_37.822877_-121.994896@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"44c3b57cc4d3018484a5693b8e82a34c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588445685
+        }
+    ],
     "wof:id":588445685,
-    "wof:lastmodified":1472349759,
+    "wof:lastmodified":1491965464,
     "wof:name":"Linksys Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

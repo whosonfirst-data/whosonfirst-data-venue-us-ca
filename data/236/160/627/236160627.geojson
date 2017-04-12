@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.201043,37.470244,-122.201043,37.470244",
     "geom:latitude":37.470244,
     "geom:longitude":-122.201043,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922561,
+        102085387,
+        420552323
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,19 @@
     "wof:geomhash":"665fc5b606648a515915d980deec76ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085387,
+            "locality_id":85922561,
+            "neighbourhood_id":420552323,
             "region_id":85688637,
             "venue_id":236160627
         }
     ],
     "wof:id":236160627,
-    "wof:lastmodified":1472331667,
+    "wof:lastmodified":1491949297,
     "wof:name":"Dennis Hommel Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":420552323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

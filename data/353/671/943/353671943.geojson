@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.647159,38.245815,-122.647159,38.245815",
     "geom:latitude":38.245815,
     "geom:longitude":-122.647159,
@@ -32,7 +33,9 @@
         85688637,
         85633793,
         85922701,
-        102081671
+        102081671,
+        85813067,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,26 @@
     "wof:geomhash":"bb166a1f686dd6023aea40a37d8f1a4f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813067,
+            "region_id":85688637,
+            "venue_id":353671943
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":353671943
         }
     ],
     "wof:id":353671943,
-    "wof:lastmodified":1472334563,
+    "wof:lastmodified":1491965309,
     "wof:name":"Magnolia Hills Homeowners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

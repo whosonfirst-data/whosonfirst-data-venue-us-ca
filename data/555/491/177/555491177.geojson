@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.637617,38.005534,-122.637617,38.005534",
     "geom:latitude":38.005534,
     "geom:longitude":-122.637617,
@@ -31,16 +32,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924613,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GF0Tw0nqLSVAhLojWnQsv_38.005534_-122.637617@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5565d4a054fa37ed3b024cbaa087d0bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924613,
+            "region_id":85688637,
+            "venue_id":555491177
+        }
+    ],
     "wof:id":555491177,
-    "wof:lastmodified":1472350960,
+    "wof:lastmodified":1491969440,
     "wof:name":"Greg Raddue",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

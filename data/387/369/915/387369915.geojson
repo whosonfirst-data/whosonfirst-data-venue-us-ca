@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.265172,33.979728,-118.265172,33.979728",
     "geom:latitude":33.979728,
     "geom:longitude":-118.265172,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"37efbe24da1e8d8ea8746f2f387cd6be",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":387369915
         }
     ],
     "wof:id":387369915,
-    "wof:lastmodified":1472342751,
+    "wof:lastmodified":1491868053,
     "wof:name":"Ki-Add Specialize Support Tech",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

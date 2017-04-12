@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.061785,38.34913,-123.061785,38.34913",
     "geom:latitude":38.34913,
     "geom:longitude":-123.061785,
@@ -32,16 +33,31 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85926323,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SSwH92Dz3kjNk5ZYawFDU_38.349130_-123.061785@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a0d6ca2c9f0b143663e99ea810a1cd65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85926323,
+            "region_id":85688637,
+            "venue_id":555283339
+        }
+    ],
     "wof:id":555283339,
-    "wof:lastmodified":1472343907,
+    "wof:lastmodified":1491971034,
     "wof:name":"Zoog Design Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

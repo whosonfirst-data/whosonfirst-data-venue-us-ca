@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.536851,38.202372,-122.536851,38.202372",
     "geom:latitude":38.202372,
     "geom:longitude":-122.536851,
@@ -32,8 +33,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922701,
+        102081671,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +47,18 @@
     "wof:geomhash":"ed92cfd88b318cf4082ef8acb38e8131",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":303164495
         }
     ],
     "wof:id":303164495,
-    "wof:lastmodified":1472332616,
+    "wof:lastmodified":1491960646,
     "wof:name":"Pyramids Winery",
-    "wof:parent_id":-1,
+    "wof:parent_id":85833319,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

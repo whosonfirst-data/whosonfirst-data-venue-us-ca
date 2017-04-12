@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.149923,37.675841,-122.149923,37.675841",
     "geom:latitude":37.675841,
     "geom:longitude":-122.149923,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85924499,
-        102086959
+        85921895,
+        102086959,
+        85846435,
+        85921867,
+        85885391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"a411ab1c1eba6d8a2ef9f507c0d583cc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":85924499,
-            "neighbourhood_id":-1,
+            "locality_id":85921895,
+            "neighbourhood_id":85846435,
+            "region_id":85688637,
+            "venue_id":202713805
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":85885391,
             "region_id":85688637,
             "venue_id":202713805
         }
     ],
     "wof:id":202713805,
-    "wof:lastmodified":1472332773,
+    "wof:lastmodified":1491907325,
     "wof:name":"Security USA Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

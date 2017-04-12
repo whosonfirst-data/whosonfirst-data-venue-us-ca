@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.03127,37.848093,-122.03127,37.848093",
     "geom:latitude":37.848093,
     "geom:longitude":-122.03127,
@@ -31,16 +32,31 @@
         "cleaners"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fBEnWh6F8mFXShBigrtKQ_37.848093_-122.031270@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"29a00787f87b4e4fae8a48e6529ad776",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":555724707
+        }
+    ],
     "wof:id":555724707,
-    "wof:lastmodified":1472352936,
+    "wof:lastmodified":1491950563,
     "wof:name":"Park Avenue Cleaners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

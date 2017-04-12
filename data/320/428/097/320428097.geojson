@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.180675,33.789853,-118.180675,33.789853",
     "geom:latitude":33.789853,
     "geom:longitude":-118.180675,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923525,
-        102086957
+        102086957,
+        85854007,
+        85871775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"c9b6048fd2b675862cde9853da95f50f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854007,
+            "region_id":85688637,
+            "venue_id":320428097
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923525,
+            "neighbourhood_id":85871775,
             "region_id":85688637,
             "venue_id":320428097
         }
     ],
     "wof:id":320428097,
-    "wof:lastmodified":1472335360,
+    "wof:lastmodified":1491886412,
     "wof:name":"Greater Light Apostolic Faith",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

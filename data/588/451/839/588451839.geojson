@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.951603,37.500989,-121.951603,37.500989",
     "geom:latitude":37.500989,
     "geom:longitude":-121.951603,
@@ -44,16 +45,31 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qud2lE3bFnQx64uff3o3T_37.500989_-121.951603@1303263331"
     },
     "wof:country":"US",
     "wof:geomhash":"d380c0e7fa1fe2f0eec3f091d7da766a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588451839
+        }
+    ],
     "wof:id":588451839,
-    "wof:lastmodified":1472349798,
+    "wof:lastmodified":1491964085,
     "wof:name":"Dinatouch Pos Systems",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

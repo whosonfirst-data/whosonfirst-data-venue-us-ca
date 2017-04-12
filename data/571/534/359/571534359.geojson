@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.148751,37.455674,-122.148751,37.455674",
     "geom:latitude":37.455674,
     "geom:longitude":-122.148751,
@@ -32,16 +33,31 @@
         "industrial"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68q8l6id0o6xWQRYpi9tXy_37.455674_-122.148751@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8e1d31eb02a612e895e1e595eb409007",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":571534359
+        }
+    ],
     "wof:id":571534359,
-    "wof:lastmodified":1472339909,
+    "wof:lastmodified":1491958481,
     "wof:name":"Dexter Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

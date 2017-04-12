@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.236623,34.044504,-118.236623,34.044504",
     "geom:latitude":34.044504,
     "geom:longitude":-118.236623,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531569,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869087
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"062b30888d3721166252be80c7fc0b0d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869087,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531569,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":354214301
         }
     ],
     "wof:id":354214301,
-    "wof:lastmodified":1472334872,
+    "wof:lastmodified":1491892567,
     "wof:name":"Upside Downtown News",
-    "wof:parent_id":85869087,
+    "wof:parent_id":1041531569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

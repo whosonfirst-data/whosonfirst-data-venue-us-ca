@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.465053,38.509191,-122.465053,38.509191",
     "geom:latitude":38.509191,
     "geom:longitude":-122.465053,
@@ -31,16 +32,31 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pkU5n6TyKCatfC66PUjBz_38.509191_-122.465053@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"85baef4d1aec457d722a6ca5bf03d2f8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":555691191
+        }
+    ],
     "wof:id":555691191,
-    "wof:lastmodified":1472352557,
+    "wof:lastmodified":1491959170,
     "wof:name":"Hunt's Grove Apartments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

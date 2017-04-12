@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.79798,38.533076,-122.79798,38.533076",
     "geom:latitude":38.533076,
     "geom:longitude":-122.79798,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922677,
-        85633793,
         85688637,
-        102081671
+        85633793,
+        85816945,
+        102081671,
+        85922677,
+        85848367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,23 @@
         {
             "country_id":85633793,
             "county_id":102081671,
+            "neighbourhood_id":85816945,
+            "region_id":85688637,
+            "venue_id":169446093
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
             "locality_id":85922677,
+            "neighbourhood_id":85848367,
             "region_id":85688637,
             "venue_id":169446093
         }
     ],
     "wof:id":169446093,
-    "wof:lastmodified":1472331187,
+    "wof:lastmodified":1491948537,
     "wof:name":"Polarclad",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

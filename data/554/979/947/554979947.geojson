@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.430911,37.64225,-122.430911,37.64225",
     "geom:latitude":37.64225,
     "geom:longitude":-122.430911,
@@ -31,16 +32,25 @@
         "airport"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pS6lqUKSqv9JIZpFG457t_37.642250_-122.430911@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"321d342e5ee8759b70aa2d6853a54ba0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552377,
+            "venue_id":554979947
+        }
+    ],
     "wof:id":554979947,
-    "wof:lastmodified":1472337870,
+    "wof:lastmodified":1491959980,
     "wof:name":"Where 2",
     "wof:parent_id":420552377,
     "wof:placetype":"venue",

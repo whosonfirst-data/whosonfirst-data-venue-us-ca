@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.069991,37.248157,-122.069991,37.248157",
     "geom:latitude":37.248157,
     "geom:longitude":-122.069991,
@@ -36,8 +37,9 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85922337,
+        85887959,
         102081673,
+        85922337,
         85887953
     ],
     "wof:breaches":[],
@@ -50,6 +52,13 @@
         {
             "country_id":85633793,
             "county_id":102081673,
+            "neighbourhood_id":85887959,
+            "region_id":85688637,
+            "venue_id":571909661
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081673,
             "locality_id":85922337,
             "neighbourhood_id":85887953,
             "region_id":85688637,
@@ -57,9 +66,9 @@
         }
     ],
     "wof:id":571909661,
-    "wof:lastmodified":1472349680,
+    "wof:lastmodified":1491963405,
     "wof:name":"Family Therapy Institute",
-    "wof:parent_id":85887953,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

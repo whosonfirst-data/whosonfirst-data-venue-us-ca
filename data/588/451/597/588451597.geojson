@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.950391,37.49609,-121.950391,37.49609",
     "geom:latitude":37.49609,
     "geom:longitude":-121.950391,
@@ -31,16 +32,31 @@
         "flooring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61net6IlSUuuQxVtFvy6SE_37.496090_-121.950391@1303263331"
     },
     "wof:country":"US",
     "wof:geomhash":"44543aba88b1e00ecb7d6213d80e2258",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588451597
+        }
+    ],
     "wof:id":588451597,
-    "wof:lastmodified":1472349741,
+    "wof:lastmodified":1491949457,
     "wof:name":"Vance Floors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27646,37.494834,-122.27646,37.494834",
     "geom:latitude":37.494834,
     "geom:longitude":-122.27646,
@@ -31,16 +32,33 @@
         "painter"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VO7h6SbH1NLRYEHXHfsVZ_37.494834_-122.276460@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c60903c1a2906a327c7c4292c210f1f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555243835
+        }
+    ],
     "wof:id":555243835,
-    "wof:lastmodified":1472343459,
+    "wof:lastmodified":1491966627,
     "wof:name":"Brother's Painting",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

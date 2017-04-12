@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.164869,37.444603,-122.164869,37.444603",
     "geom:latitude":37.444603,
     "geom:longitude":-122.164869,
@@ -29,16 +30,31 @@
     "sg:province":"CA",
     "sg:website":"http://A9.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UfRgJGgoZaTwTXUkfmdm7_37.444603_-122.164869@1308186496"
     },
     "wof:country":"US",
     "wof:geomhash":"0ffec2d1d98be3005780d41b34379a92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588725155
+        }
+    ],
     "wof:id":588725155,
-    "wof:lastmodified":1472353532,
+    "wof:lastmodified":1491957193,
     "wof:name":"A9",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

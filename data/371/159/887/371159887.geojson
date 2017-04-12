@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.501377,34.027256,-118.501377,34.027256",
     "geom:latitude":34.027256,
     "geom:longitude":-118.501377,
@@ -36,9 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85923817,
         102086957,
-        85887943
+        "85887943"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,19 @@
     "wof:geomhash":"6d94b89552976c2484dcb6902ba9d7c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85887943,
+            "locality_id":85923817,
+            "neighbourhood_id":"85887943",
             "region_id":85688637,
             "venue_id":371159887
         }
     ],
     "wof:id":371159887,
-    "wof:lastmodified":1472340162,
+    "wof:lastmodified":1491920446,
     "wof:name":"Aquatic Fitness",
-    "wof:parent_id":85887943,
+    "wof:parent_id":"85887943",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

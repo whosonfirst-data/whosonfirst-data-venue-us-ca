@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.300328,34.024719,-118.300328,34.024719",
     "geom:latitude":34.024719,
     "geom:longitude":-118.300328,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85811025
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"9c89128eac29f9b2d97d123b2a448def",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85811025,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":370523307
         }
     ],
     "wof:id":370523307,
-    "wof:lastmodified":1472342226,
+    "wof:lastmodified":1491867533,
     "wof:name":"Chris's Lock & Key Svc",
-    "wof:parent_id":85811025,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.242535,37.725064,-122.242535,37.725064",
     "geom:latitude":37.725064,
     "geom:longitude":-122.242535,
@@ -33,11 +34,15 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        102531041,
+        1108794155,
+        102191575,
         85633793,
-        85921923,
+        85921881,
         102086959,
-        85804779
+        85688637,
+        85804779,
+        85921923
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,7 +52,18 @@
     "wof:geomhash":"3ad65226a9eee346dfcbdc148193b31a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "campus_id":102531041,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "neighbourhood_id":1108794155,
+            "region_id":85688637,
+            "venue_id":236253549
+        },
+        {
+            "campus_id":102531041,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921923,
@@ -57,9 +73,9 @@
         }
     ],
     "wof:id":236253549,
-    "wof:lastmodified":1472332599,
+    "wof:lastmodified":1491961961,
     "wof:name":"Peninsula Pharmaceuticals",
-    "wof:parent_id":85804779,
+    "wof:parent_id":102531041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-120.114704,36.800342,-120.114704,36.800342",
     "geom:latitude":36.800342,
     "geom:longitude":-120.114704,
@@ -33,18 +34,31 @@
         "cotton"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85871909,
+        102084347
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74IRwljVhf8wWZC8jjUMI5_36.800342_-120.114704@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7da312951a101212d3a2b6a70b65dfd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084347,
+            "neighbourhood_id":85871909,
+            "region_id":85688637,
+            "venue_id":571923701
+        }
+    ],
     "wof:id":571923701,
-    "wof:lastmodified":1472349978,
+    "wof:lastmodified":1491902023,
     "wof:name":"Charles D & Joan R Vanwinkle",
-    "wof:parent_id":-1,
+    "wof:parent_id":85871909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

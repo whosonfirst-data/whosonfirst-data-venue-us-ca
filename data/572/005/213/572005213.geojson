@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.571999,38.5765,-122.571999,38.5765",
     "geom:latitude":38.5765,
     "geom:longitude":-122.571999,
@@ -32,16 +33,31 @@
         "storage"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l83JbcX49Djd8flT5rsS7_38.576529_-122.571810@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"a87a0d63cbebcf7dfa7eea443ef131fe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":572005213
+        }
+    ],
     "wof:id":572005213,
-    "wof:lastmodified":1472337085,
+    "wof:lastmodified":1491961124,
     "wof:name":"Calistoga Self Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

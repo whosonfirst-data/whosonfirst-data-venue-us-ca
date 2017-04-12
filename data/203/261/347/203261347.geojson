@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.1024,37.996295,-122.1024,37.996295",
     "geom:latitude":37.996295,
     "geom:longitude":-122.1024,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922165,
-        102086225
+        102086225,
+        85886387,
+        420550509
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"a12b71803adc4a23226c7e72e15d2729",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922165,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886387,
+            "region_id":85688637,
+            "venue_id":203261347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922165,
+            "neighbourhood_id":420550509,
             "region_id":85688637,
             "venue_id":203261347
         }
     ],
     "wof:id":203261347,
-    "wof:lastmodified":1472332075,
+    "wof:lastmodified":1491966197,
     "wof:name":"Roseland Antiques",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

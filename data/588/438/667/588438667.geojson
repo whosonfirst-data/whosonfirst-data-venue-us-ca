@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.032181,37.849731,-122.032181,37.849731",
     "geom:latitude":37.849731,
     "geom:longitude":-122.032181,
@@ -31,16 +32,31 @@
         "chiropractic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L6j0lt5V0T3o5Jw0J79cN_37.849731_-122.032181@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"d4b40a192675a60d61dd0cbc2929d265",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":588438667
+        }
+    ],
     "wof:id":588438667,
-    "wof:lastmodified":1472349506,
+    "wof:lastmodified":1491950581,
     "wof:name":"Alamo Chiropractic Clinic",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

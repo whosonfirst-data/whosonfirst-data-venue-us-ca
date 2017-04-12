@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.923758,37.706101,-121.923758,37.706101",
     "geom:latitude":37.706101,
     "geom:longitude":-121.923758,
@@ -33,16 +34,31 @@
         "clean"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1L1ivQM9zGTrPoVTJKvzLe_37.706101_-121.923758@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a556009c25c18890f86c5822a972bba7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":571784443
+        }
+    ],
     "wof:id":571784443,
-    "wof:lastmodified":1472344769,
+    "wof:lastmodified":1491958101,
     "wof:name":"Corwood Carwash & Detail Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

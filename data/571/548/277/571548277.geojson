@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.471603,38.506077,-122.471603,38.506077",
     "geom:latitude":38.506077,
     "geom:longitude":-122.471603,
@@ -36,16 +37,31 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67pahfFwWelz7joCNXG4iB_38.506077_-122.471603@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9f73204a12ccb5ab370eb36c0d5e1d2e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":571548277
+        }
+    ],
     "wof:id":571548277,
-    "wof:lastmodified":1472340224,
+    "wof:lastmodified":1491963022,
     "wof:name":"Jaunt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

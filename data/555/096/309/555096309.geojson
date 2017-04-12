@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.263044,33.975002,-118.263044,33.975002",
     "geom:latitude":33.975002,
     "geom:longitude":-118.263044,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        420551143
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":420551143,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":555096309
         }
     ],
     "wof:id":555096309,
-    "wof:lastmodified":1472340722,
+    "wof:lastmodified":1491868069,
     "wof:name":"Express Recycling Co",
-    "wof:parent_id":420551143,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

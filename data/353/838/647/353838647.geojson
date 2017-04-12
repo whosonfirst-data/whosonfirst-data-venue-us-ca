@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.485419,34.285913,-118.485419,34.285913",
     "geom:latitude":34.285913,
     "geom:longitude":-118.485419,
@@ -33,11 +34,13 @@
     "sg:website":"www.privateinvestigation.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85822437",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"fcbf9add5539ad08d2ab3e6632e30b0b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85822437",
             "region_id":85688637,
             "venue_id":353838647
         }
     ],
     "wof:id":353838647,
-    "wof:lastmodified":1472336072,
+    "wof:lastmodified":1491902214,
     "wof:name":"Sankey Investigations Inc",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85822437",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

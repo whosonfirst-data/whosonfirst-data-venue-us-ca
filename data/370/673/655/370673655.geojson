@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25532,34.048482,-118.25532,34.048482",
     "geom:latitude":34.048482,
     "geom:longitude":-118.25532,
@@ -34,11 +35,14 @@
     "sg:website":"www.vertextelecom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456421,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"1494c5b5a081c161fcac3db69624f804",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456421,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370673655
         }
     ],
     "wof:id":370673655,
-    "wof:lastmodified":1472343094,
+    "wof:lastmodified":1491928027,
     "wof:name":"Vertex Group",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1092456421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

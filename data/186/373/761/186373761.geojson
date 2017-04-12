@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.965985,33.872147,-117.965985,33.872147",
     "geom:latitude":33.872147,
     "geom:longitude":-117.965985,
@@ -36,9 +37,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923145,
-        102080847
+        102080847,
+        420551491,
+        85923167,
+        85867351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,28 @@
     "wof:geomhash":"971f6b5233209cf8ab04128c7ddc9340",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923145,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551491,
+            "region_id":85688637,
+            "venue_id":186373761
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":85867351,
             "region_id":85688637,
             "venue_id":186373761
         }
     ],
     "wof:id":186373761,
-    "wof:lastmodified":1472331643,
+    "wof:lastmodified":1491915628,
     "wof:name":"Wood & Wood Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

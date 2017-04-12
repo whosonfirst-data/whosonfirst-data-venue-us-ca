@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.310346,34.013642,-118.310346,34.013642",
     "geom:latitude":34.013642,
     "geom:longitude":-118.310346,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869759
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"aa872f6deb3a33ce7abc9fa3f72904e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869759,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":354135313
         }
     ],
     "wof:id":354135313,
-    "wof:lastmodified":1472333346,
+    "wof:lastmodified":1491867846,
     "wof:name":"Chester D Arterberry",
-    "wof:parent_id":85869759,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

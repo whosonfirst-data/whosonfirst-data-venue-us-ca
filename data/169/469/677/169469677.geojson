@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.210589,33.804458,-118.210589,33.804458",
     "geom:latitude":33.804458,
     "geom:longitude":-118.210589,
@@ -33,10 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923525,
         102086957,
-        85854769
+        "85854769"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +48,19 @@
     "wof:geomhash":"fe68fc4f994cc6e86d16b8ae0f572d7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
-            "neighbourhood_id":85854769,
+            "neighbourhood_id":"85854769",
             "region_id":85688637,
             "venue_id":169469677
         }
     ],
     "wof:id":169469677,
-    "wof:lastmodified":1472332060,
+    "wof:lastmodified":1491933799,
     "wof:name":"Ramirez Lawn Mower Shop",
-    "wof:parent_id":85854769,
+    "wof:parent_id":"85854769",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

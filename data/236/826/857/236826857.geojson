@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.08217,37.944606,-122.08217,37.944606",
     "geom:latitude":37.944606,
     "geom:longitude":-122.08217,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922135,
-        102086225
+        102086225,
+        420550499,
+        85886941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"d0f47a89194e32ffb251d654344a0de8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922135,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550499,
+            "region_id":85688637,
+            "venue_id":236826857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922135,
+            "neighbourhood_id":85886941,
             "region_id":85688637,
             "venue_id":236826857
         }
     ],
     "wof:id":236826857,
-    "wof:lastmodified":1472335088,
+    "wof:lastmodified":1491959321,
     "wof:name":"Don's Workshop/Race Car Fab",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

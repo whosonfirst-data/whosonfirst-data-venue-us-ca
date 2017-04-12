@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.253127,34.045401,-118.253127,34.045401",
     "geom:latitude":34.045401,
     "geom:longitude":-118.253127,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"40d5529660c220f8c41b15226f141e16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":203178723
         }
     ],
     "wof:id":203178723,
-    "wof:lastmodified":1472331468,
+    "wof:lastmodified":1491927972,
     "wof:name":"C & T Discount",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

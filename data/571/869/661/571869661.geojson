@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.252579,37.851293,-122.252579,37.851293",
     "geom:latitude":37.851293,
     "geom:longitude":-122.252579,
@@ -39,7 +40,10 @@
         85633793,
         85921915,
         102086959,
-        85885639
+        85885639,
+        85872371,
+        1108794075,
+        85921881
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +60,22 @@
             "neighbourhood_id":85885639,
             "region_id":85688637,
             "venue_id":571869661
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794075,
+            "neighbourhood_id":85872371,
+            "region_id":85688637,
+            "venue_id":571869661
         }
     ],
     "wof:id":571869661,
-    "wof:lastmodified":1472349185,
+    "wof:lastmodified":1491960678,
     "wof:name":"Jan Chess",
-    "wof:parent_id":85885639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.245584,37.76086,-122.245584,37.76086",
     "geom:latitude":37.76086,
     "geom:longitude":-122.245584,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921923,
-        102086959
+        102086959,
+        85885525,
+        85850081
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"b772ec597ae2f80475e0760967938935",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921923,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85885525,
+            "region_id":85688637,
+            "venue_id":253430837
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921923,
+            "neighbourhood_id":85850081,
             "region_id":85688637,
             "venue_id":253430837
         }
     ],
     "wof:id":253430837,
-    "wof:lastmodified":1472333737,
+    "wof:lastmodified":1491968483,
     "wof:name":"Elite Electronics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

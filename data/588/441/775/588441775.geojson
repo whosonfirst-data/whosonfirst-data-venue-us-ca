@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.685681,37.92048,-121.685681,37.92048",
     "geom:latitude":37.92048,
     "geom:longitude":-121.685681,
@@ -31,16 +32,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922195,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_661kfsLsA7CXoSMyUZpqa7_37.920480_-121.685681@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"59bf966dfc289117fa29f4a7bafe532c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922195,
+            "region_id":85688637,
+            "venue_id":588441775
+        }
+    ],
     "wof:id":588441775,
-    "wof:lastmodified":1472349760,
+    "wof:lastmodified":1491959370,
     "wof:name":"West Coast Commercial Interiors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

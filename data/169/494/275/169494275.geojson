@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.498134,34.031681,-118.498134,34.031681",
     "geom:latitude":34.031681,
     "geom:longitude":-118.498134,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85887943,
-        102086957
+        85923817,
+        102086957,
+        "85887943"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,19 @@
     "wof:geomhash":"8ac890b67c6b4c361e4fc5f5757d26c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "neighbourhood_id":85887943,
+            "locality_id":85923817,
+            "neighbourhood_id":"85887943",
             "region_id":85688637,
             "venue_id":169494275
         }
     ],
     "wof:id":169494275,
-    "wof:lastmodified":1472332263,
+    "wof:lastmodified":1491920451,
     "wof:name":"American Chuo Bussan Inc",
-    "wof:parent_id":85887943,
+    "wof:parent_id":"85887943",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

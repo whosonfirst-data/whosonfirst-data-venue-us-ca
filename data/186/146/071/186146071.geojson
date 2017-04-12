@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.280872,38.292109,-122.280872,38.292109",
     "geom:latitude":38.292109,
     "geom:longitude":-122.280872,
@@ -36,8 +37,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85826759,
+        102085383,
+        102191575,
         85921993,
-        102085383
+        85886537
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,26 @@
     "wof:geomhash":"8c38eb497b2cf0e4891daefe9a73d5d4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85826759,
+            "region_id":85688637,
+            "venue_id":186146071
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886537,
             "region_id":85688637,
             "venue_id":186146071
         }
     ],
     "wof:id":186146071,
-    "wof:lastmodified":1472330959,
+    "wof:lastmodified":1491961107,
     "wof:name":"World Carpet Cleaning",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

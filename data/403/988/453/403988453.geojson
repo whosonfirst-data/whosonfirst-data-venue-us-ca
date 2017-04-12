@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.600248,34.193757,-118.600248,34.193757",
     "geom:latitude":34.193757,
     "geom:longitude":-118.600248,
@@ -34,7 +35,13 @@
     "sg:website":"www.eegspectrum.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691517,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +52,21 @@
     "wof:geomhash":"61e3dee8c53092685d7e91dcc684aa24",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "microhood_id":1108691517,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":403988453
         }
     ],
     "wof:id":403988453,
-    "wof:lastmodified":1472341922,
+    "wof:lastmodified":1491889117,
     "wof:name":"EEG Spectrum Intl Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

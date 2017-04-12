@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.821215,38.514528,-122.821215,38.514528",
     "geom:latitude":38.514528,
     "geom:longitude":-122.821215,
@@ -29,8 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85888239,
+        102081671,
+        85922677,
+        85848367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,25 @@
     "wof:geomhash":"be0dcff58731dcd008d91b3b206584f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85888239,
+            "region_id":85688637,
+            "venue_id":320675997
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922677,
+            "neighbourhood_id":85848367,
             "region_id":85688637,
             "venue_id":320675997
         }
     ],
     "wof:id":320675997,
-    "wof:lastmodified":1472336219,
+    "wof:lastmodified":1491950232,
     "wof:name":"Hamilton Aircraft",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

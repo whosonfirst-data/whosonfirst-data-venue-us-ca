@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.26953,33.94559,-118.26953,33.94559",
     "geom:latitude":33.94559,
     "geom:longitude":-118.26953,
@@ -28,11 +29,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868337",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85836237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +45,20 @@
     "wof:geomhash":"69e4f4cffbed79abe242cc84981d9fc9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836237,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
             "region_id":85688637,
             "venue_id":387162713
         }
     ],
     "wof:id":387162713,
-    "wof:lastmodified":1472341139,
+    "wof:lastmodified":1491867761,
     "wof:name":"Taco Bell/KFC",
-    "wof:parent_id":85836237,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

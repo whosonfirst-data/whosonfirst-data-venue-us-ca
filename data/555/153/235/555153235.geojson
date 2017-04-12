@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323935,38.303945,-122.323935,38.303945",
     "geom:latitude":38.303945,
     "geom:longitude":-122.323935,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
         102085383,
+        420551431,
         85886555
     ],
     "wof:breaches":[],
@@ -43,6 +46,15 @@
     "wof:geomhash":"4c6d8663e778ffb2b6c6340f8f6a1bf9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":420551431,
+            "region_id":85688637,
+            "venue_id":555153235
+        },
+        {
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
@@ -52,9 +64,9 @@
         }
     ],
     "wof:id":555153235,
-    "wof:lastmodified":1472341888,
+    "wof:lastmodified":1491963975,
     "wof:name":"Key Properties",
-    "wof:parent_id":85886555,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

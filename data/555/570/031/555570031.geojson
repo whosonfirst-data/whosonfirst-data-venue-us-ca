@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.788738,37.354088,-121.788738,37.354088",
     "geom:latitude":37.354088,
     "geom:longitude":-121.788738,
@@ -34,10 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85865159,
+        85925491,
         102081673,
-        85887703
+        85865159,
+        85887703,
+        1108782555,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,24 +52,29 @@
     "wof:geomhash":"7502d61b4327c72d0c2b3207e8dd5ebe",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":555570031
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887703,
             "region_id":85688637,
             "venue_id":555570031
         }
     ],
     "wof:id":555570031,
-    "wof:lastmodified":1472351645,
+    "wof:lastmodified":1491959037,
     "wof:name":"Tech Electric",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

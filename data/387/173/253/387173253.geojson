@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.283918,38.011991,-122.283918,38.011991",
     "geom:latitude":38.011991,
     "geom:longitude":-122.283918,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922173,
         102086225,
+        420559385,
         85886047
     ],
     "wof:breaches":[],
@@ -43,7 +46,16 @@
     "wof:geomhash":"d988a27278116ccdb3ca342a78ca65d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922173,
+            "neighbourhood_id":420559385,
+            "region_id":85688637,
+            "venue_id":387173253
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922173,
@@ -53,9 +65,9 @@
         }
     ],
     "wof:id":387173253,
-    "wof:lastmodified":1472341235,
+    "wof:lastmodified":1491949638,
     "wof:name":"Addys Landscaping",
-    "wof:parent_id":85886047,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

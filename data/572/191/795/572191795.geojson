@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161724,37.44499,-122.161724,37.44499",
     "geom:latitude":37.44499,
     "geom:longitude":-122.161724,
@@ -35,16 +36,31 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lwes3pzcIOlIzXmt4r2dO_37.444990_-122.161724@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"aa1af2bfbe45fe922f61bd7ac3d71e16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572191795
+        }
+    ],
     "wof:id":572191795,
-    "wof:lastmodified":1472343625,
+    "wof:lastmodified":1491959643,
     "wof:name":"Nola",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

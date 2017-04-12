@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.3052,37.271854,-122.3052,37.271854",
     "geom:latitude":37.271854,
     "geom:longitude":-122.3052,
@@ -33,16 +34,31 @@
         "system"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925767,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QYG7QkaBlYBfLC0Y2qnVi_37.271854_-122.305200@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cee02bdec6c99951c28670e1766a6c7b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925767,
+            "region_id":85688637,
+            "venue_id":555505899
+        }
+    ],
     "wof:id":555505899,
-    "wof:lastmodified":1472351185,
+    "wof:lastmodified":1491959551,
     "wof:name":"Cobur Securities",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

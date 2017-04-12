@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.926526,37.72125,-121.926526,37.72125",
     "geom:latitude":37.72125,
     "geom:longitude":-121.926526,
@@ -32,16 +33,31 @@
         "swimming"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eNeV0HrAkDN1QRgfpQ5Lt_37.721250_-121.926526@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b37d1198cf99d820540640a95fbb5ce9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":555301609
+        }
+    ],
     "wof:id":555301609,
-    "wof:lastmodified":1472344193,
+    "wof:lastmodified":1491966556,
     "wof:name":"Dublin Swim Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

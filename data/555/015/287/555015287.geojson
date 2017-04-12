@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.928852,37.495999,-121.928852,37.495999",
     "geom:latitude":37.495999,
     "geom:longitude":-121.928852,
@@ -31,16 +32,31 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WrqIqV0UyUR6XpiHauuUf_37.495999_-121.928852@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9c3d234cdf0cc5bd2a06128b16acbf3c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555015287
+        }
+    ],
     "wof:id":555015287,
-    "wof:lastmodified":1472338245,
+    "wof:lastmodified":1491963974,
     "wof:name":"M G Mission",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

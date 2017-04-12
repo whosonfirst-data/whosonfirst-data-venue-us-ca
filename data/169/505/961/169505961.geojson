@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.354828,37.924351,-122.354828,37.924351",
     "geom:latitude":37.924351,
     "geom:longitude":-122.354828,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922131,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922131,
+        102086225,
+        420550513
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"be0c509bb79ec9b7b960ccb50440115c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922131,
+            "neighbourhood_id":420550513,
             "region_id":85688637,
             "venue_id":169505961
         }
     ],
     "wof:id":169505961,
-    "wof:lastmodified":1472333271,
+    "wof:lastmodified":1491965622,
     "wof:name":"Ennis Chapel Church Of God",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550513,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

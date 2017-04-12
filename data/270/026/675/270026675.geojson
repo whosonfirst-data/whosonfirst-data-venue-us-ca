@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.038652,34.128432,-118.038652,34.128432",
     "geom:latitude":34.128432,
     "geom:longitude":-118.038652,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923741,
-        102086957
+        102086957,
+        85885579,
+        85885573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"d41fbfeb79a3ccab940de26e104a0d16",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923741,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85885579,
+            "region_id":85688637,
+            "venue_id":270026675
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923741,
+            "neighbourhood_id":85885573,
             "region_id":85688637,
             "venue_id":270026675
         }
     ],
     "wof:id":270026675,
-    "wof:lastmodified":1472331145,
+    "wof:lastmodified":1491918203,
     "wof:name":"Oshun",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

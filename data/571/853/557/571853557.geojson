@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.765087,37.332187,-121.765087,37.332187",
     "geom:latitude":37.332187,
     "geom:longitude":-121.765087,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        85633793,
         85887703,
-        102081673
+        102191575,
+        1108782555,
+        85633793,
+        85922347,
+        102081673,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +49,18 @@
     "wof:geomhash":"07642cf8a4509a436fe4bd46eaa87ad7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85887703,
             "region_id":85688637,
             "venue_id":571853557
         }
     ],
     "wof:id":571853557,
-    "wof:lastmodified":1472349162,
+    "wof:lastmodified":1491968688,
     "wof:name":"Light Of The World Apostolic",
     "wof:parent_id":85887703,
     "wof:placetype":"venue",

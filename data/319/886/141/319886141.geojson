@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.0888,37.254177,-122.0888,37.254177",
     "geom:latitude":37.254177,
     "geom:longitude":-122.0888,
@@ -33,8 +34,12 @@
     "sg:website":"www.cinnabar.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85887959,
+        102081673,
+        85922337,
+        85887953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +49,25 @@
     "wof:geomhash":"29d363c05548927cac274fa7617d2839",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081673,
+            "neighbourhood_id":85887959,
+            "region_id":85688637,
+            "venue_id":319886141
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922337,
+            "neighbourhood_id":85887953,
             "region_id":85688637,
             "venue_id":319886141
         }
     ],
     "wof:id":319886141,
-    "wof:lastmodified":1472331388,
+    "wof:lastmodified":1491970188,
     "wof:name":"Cinnabar Vineyards & Winery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

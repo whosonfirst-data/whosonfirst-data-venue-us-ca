@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.37184,33.191058,-117.37184,33.191058",
     "geom:latitude":33.191058,
     "geom:longitude":-117.37184,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922239,
-        102083569
+        102083569,
+        420552039,
+        85881903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"4d8c55b3cabfe66dc04dcb458bdd212b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922239,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552039,
+            "region_id":85688637,
+            "venue_id":269933923
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922239,
+            "neighbourhood_id":85881903,
             "region_id":85688637,
             "venue_id":269933923
         }
     ],
     "wof:id":269933923,
-    "wof:lastmodified":1472334544,
+    "wof:lastmodified":1491902442,
     "wof:name":"I AM Sanctuary Of Oceanside",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

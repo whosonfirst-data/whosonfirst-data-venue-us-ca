@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.335204,33.975982,-118.335204,33.975982",
     "geom:latitude":33.975982,
     "geom:longitude":-118.335204,
@@ -34,7 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"6e7d5e6a230fb02b71e2f22425f15123",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":219955285
         }
     ],
     "wof:id":219955285,
-    "wof:lastmodified":1472334743,
+    "wof:lastmodified":1491868049,
     "wof:name":"Le Van Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

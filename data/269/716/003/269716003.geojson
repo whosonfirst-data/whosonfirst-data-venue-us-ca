@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12319,37.41419,-122.12319,37.41419",
     "geom:latitude":37.41419,
     "geom:longitude":-122.12319,
@@ -37,9 +38,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922351,
-        102081673
+        102081673,
+        85879663,
+        85879673
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +53,28 @@
     "wof:geomhash":"c2e5408d9edb12a3c7ea6a736f45e2bc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922351,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85879663,
+            "region_id":85688637,
+            "venue_id":269716003
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879673,
             "region_id":85688637,
             "venue_id":269716003
         }
     ],
     "wof:id":269716003,
-    "wof:lastmodified":1472332968,
+    "wof:lastmodified":1491971061,
     "wof:name":"RDC Intractive Media",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

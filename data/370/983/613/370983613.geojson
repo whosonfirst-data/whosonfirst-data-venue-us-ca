@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.292,34.011002,-118.292,34.011002",
     "geom:latitude":34.011002,
     "geom:longitude":-118.292,
@@ -33,11 +34,13 @@
     "sg:website":"www.pizzahut.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868363
+        85688637
     ],
     "wof:brand_id":420573787,
     "wof:breaches":[],
@@ -48,19 +51,20 @@
     "wof:geomhash":"5fe87b59d4a52e834cdb5ec76b0388ec",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868363,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":370983613
         }
     ],
     "wof:id":370983613,
-    "wof:lastmodified":1472349276,
+    "wof:lastmodified":1491867728,
     "wof:name":"Pizza Hut",
-    "wof:parent_id":85868363,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

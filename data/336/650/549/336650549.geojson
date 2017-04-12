@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.288361,38.283863,-122.288361,38.283863",
     "geom:latitude":38.283863,
     "geom:longitude":-122.288361,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
-        102085383
+        102085383,
+        420551429,
+        420551435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,24 @@
     "wof:geomhash":"e2e7a6be8aab07da62014f1b9a5f9ad1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551429,
             "region_id":85688637,
+            "venue_id":336650549
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
             "venue_id":336650549
         }
     ],
     "wof:id":336650549,
-    "wof:lastmodified":1472331253,
+    "wof:lastmodified":1491969820,
     "wof:name":"T B C Plaster Artisans",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

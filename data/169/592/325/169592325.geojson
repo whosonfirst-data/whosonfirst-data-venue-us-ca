@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.248008,34.051096,-118.248008,34.051096",
     "geom:latitude":34.051096,
     "geom:longitude":-118.248008,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865837
+        85688637
     ],
     "wof:brand_id":420574855,
     "wof:breaches":[],
@@ -55,19 +58,20 @@
     "wof:geomhash":"781970f56851d319595316e219c6f754",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865837,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":169592325
         }
     ],
     "wof:id":169592325,
-    "wof:lastmodified":1472334558,
+    "wof:lastmodified":1491927554,
     "wof:name":"Police Dept",
-    "wof:parent_id":85865837,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

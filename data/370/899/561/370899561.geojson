@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.218135,34.083488,-118.218135,34.083488",
     "geom:latitude":34.083488,
     "geom:longitude":-118.218135,
@@ -44,11 +45,13 @@
     "sg:website":"www.ultravioletsocialclub.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85813775
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,19 +61,20 @@
     "wof:geomhash":"3f49327d7b91478631b16720a5660919",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85813775,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370899561
         }
     ],
     "wof:id":370899561,
-    "wof:lastmodified":1472344904,
+    "wof:lastmodified":1491909584,
     "wof:name":"Ultra Violet Social Club",
-    "wof:parent_id":85813775,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.034087,37.691637,-122.034087,37.691637",
     "geom:latitude":37.691637,
     "geom:longitude":-122.034087,
@@ -32,16 +33,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TuCCfmliaOjDZwL6mFOth_37.691637_-122.034087@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"87861d373a1535c96fc3e05606933858",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":571755243
+        }
+    ],
     "wof:id":571755243,
-    "wof:lastmodified":1472344079,
+    "wof:lastmodified":1491958122,
     "wof:name":"Greenfield Landscape",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

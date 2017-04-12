@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.287599,37.970467,-122.287599,37.970467",
     "geom:latitude":37.970467,
     "geom:longitude":-122.287599,
@@ -34,9 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922143,
+        102086225,
+        85848341,
         85922131,
-        102086225
+        85880359,
+        85880377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +52,37 @@
     "wof:geomhash":"6f08946291f8ad999a1d902fb8fa6aaf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922143,
+            "neighbourhood_id":85848341,
+            "region_id":85688637,
+            "venue_id":387434073
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880359,
+            "region_id":85688637,
+            "venue_id":387434073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85880377,
             "region_id":85688637,
             "venue_id":387434073
         }
     ],
     "wof:id":387434073,
-    "wof:lastmodified":1472343235,
+    "wof:lastmodified":1491967649,
     "wof:name":"J & A Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

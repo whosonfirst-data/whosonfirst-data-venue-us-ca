@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.818503,37.36175,-121.818503,37.36175",
     "geom:latitude":37.36175,
     "geom:longitude":-121.818503,
@@ -39,10 +40,11 @@
         85688637,
         102191575,
         85633793,
-        85925507,
+        85925491,
         102081673,
-        420559999,
-        85865159
+        85865159,
+        85925507,
+        420559999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,23 +57,25 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925507,
-            "neighbourhood_id":420559999,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":555234751
         },
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "neighbourhood_id":85865159,
+            "locality_id":85925507,
+            "neighbourhood_id":420559999,
             "region_id":85688637,
             "venue_id":555234751
         }
     ],
     "wof:id":555234751,
-    "wof:lastmodified":1472343366,
+    "wof:lastmodified":1491963817,
     "wof:name":"4 Micro System LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

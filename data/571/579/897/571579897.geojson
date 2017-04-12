@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.156291,37.450575,-122.156291,37.450575",
     "geom:latitude":37.450575,
     "geom:longitude":-122.156291,
@@ -33,16 +34,31 @@
         "hosting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZPTA8xzlphwJIszoVHG4r_37.450575_-122.156291@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"29149c8d4edd0172bfda51e038bac3bd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":571579897
+        }
+    ],
     "wof:id":571579897,
-    "wof:lastmodified":1472341191,
+    "wof:lastmodified":1491957221,
     "wof:name":"Genstar Media",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

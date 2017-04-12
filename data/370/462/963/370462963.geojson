@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.283807,34.025367,-118.283807,34.025367",
     "geom:latitude":34.025367,
     "geom:longitude":-118.283807,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"dff4a09f71e47eeb0d91ca81f9e6554c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868339,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":370462963
         }
     ],
     "wof:id":370462963,
-    "wof:lastmodified":1472341575,
+    "wof:lastmodified":1491867518,
     "wof:name":"Classic Quik Digital Photo Lab",
-    "wof:parent_id":85868339,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

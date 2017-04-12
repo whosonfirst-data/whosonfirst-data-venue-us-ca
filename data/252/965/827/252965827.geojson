@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.21318,34.075275,-118.21318,34.075275",
     "geom:latitude":34.075275,
     "geom:longitude":-118.21318,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85830641
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"a5714815717f22f196907ad4828da541",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85830641,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":252965827
         }
     ],
     "wof:id":252965827,
-    "wof:lastmodified":1472332558,
+    "wof:lastmodified":1491909594,
     "wof:name":"Van Long Auto Body & Sales",
-    "wof:parent_id":85830641,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

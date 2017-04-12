@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.308524,37.911234,-122.308524,37.911234",
     "geom:latitude":37.911234,
     "geom:longitude":-122.308524,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922131,
-        102086225
+        102086225,
+        85880387,
+        85922177,
+        85885907
     ],
     "wof:brand_id":420574875,
     "wof:breaches":[],
@@ -47,19 +52,28 @@
     "wof:geomhash":"9d349dccef5535a2f5d365605776c208",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922131,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880387,
+            "region_id":85688637,
+            "venue_id":269689823
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922177,
+            "neighbourhood_id":85885907,
             "region_id":85688637,
             "venue_id":269689823
         }
     ],
     "wof:id":269689823,
-    "wof:lastmodified":1472332806,
+    "wof:lastmodified":1491961359,
     "wof:name":"Kragen Auto Parts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

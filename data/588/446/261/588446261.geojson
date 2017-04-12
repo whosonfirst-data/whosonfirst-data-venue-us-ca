@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995792,37.833957,-121.995792,37.833957",
     "geom:latitude":37.833957,
     "geom:longitude":-121.995792,
@@ -31,16 +32,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g0FwN9Y5D9BDRyADvBkbv_37.833957_-121.995792@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"68bc7052f5bdfe725cf3536ba1cf08a9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446261
+        }
+    ],
     "wof:id":588446261,
-    "wof:lastmodified":1472349661,
+    "wof:lastmodified":1491963790,
     "wof:name":"D F C Associates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

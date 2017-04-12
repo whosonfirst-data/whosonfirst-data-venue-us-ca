@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.110733,38.004754,-122.110733,38.004754",
     "geom:latitude":38.004754,
     "geom:longitude":-122.110733,
@@ -40,16 +41,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WZQRJI5JFzoQPzTiQxi1z_38.004754_-122.110733@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"2821bc8a3bff8fd24473bee56ca5065f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":588465165
+        }
+    ],
     "wof:id":588465165,
-    "wof:lastmodified":1472350241,
+    "wof:lastmodified":1491968254,
     "wof:name":"Jones, H T Painting & Coatings",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.060268,37.945853,-122.060268,37.945853",
     "geom:latitude":37.945853,
     "geom:longitude":-122.060268,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922135,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922135,
+        102086225,
+        420550477
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,19 @@
     "wof:geomhash":"28b373fec8ecd2dde39ffb29b5b2fd28",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922135,
+            "neighbourhood_id":420550477,
             "region_id":85688637,
             "venue_id":169427931
         }
     ],
     "wof:id":169427931,
-    "wof:lastmodified":1472330993,
+    "wof:lastmodified":1491970869,
     "wof:name":"Pet Food Express",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

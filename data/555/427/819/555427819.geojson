@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.606098,37.086361,-121.606098,37.086361",
     "geom:latitude":37.086361,
     "geom:longitude":-121.606098,
@@ -28,16 +29,31 @@
     "sg:postcode":"95046",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SBabRbTYp6klp4KqGnapV_37.086361_-121.606098@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f863325f51d208855fddb42af86f7ed8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":555427819
+        }
+    ],
     "wof:id":555427819,
-    "wof:lastmodified":1472349917,
+    "wof:lastmodified":1491962407,
     "wof:name":"San Martin Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

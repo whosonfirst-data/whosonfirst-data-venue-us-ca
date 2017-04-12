@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.222064,34.071412,-118.222064,34.071412",
     "geom:latitude":34.071412,
     "geom:longitude":-118.222064,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85821905
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"e7dc5d4dba67ad55b57fef12f212ef4b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85821905,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370895935
         }
     ],
     "wof:id":370895935,
-    "wof:lastmodified":1472344842,
+    "wof:lastmodified":1491909595,
     "wof:name":"Absolute Healing Collective",
-    "wof:parent_id":85821905,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

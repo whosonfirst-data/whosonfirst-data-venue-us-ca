@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.295353,37.878685,-122.295353,37.878685",
     "geom:latitude":37.878685,
     "geom:longitude":-122.295353,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921915,
-        102086959
+        102086959,
+        85876241,
+        85876237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"a78ca1dfda99cd2d05c29120c84d8299",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921915,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876241,
+            "region_id":85688637,
+            "venue_id":404151427
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":85876237,
             "region_id":85688637,
             "venue_id":404151427
         }
     ],
     "wof:id":404151427,
-    "wof:lastmodified":1472340749,
+    "wof:lastmodified":1491966848,
     "wof:name":"Deltan Diversified",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

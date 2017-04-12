@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.959044,33.839802,-117.959044,33.839802",
     "geom:latitude":33.839802,
     "geom:longitude":-117.959044,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923167,
-        102080847
+        102080847,
+        85873133,
+        85867351
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"81263899e94508a9ac9541ff88be4219",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85873133,
+            "region_id":85688637,
+            "venue_id":370232143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":85867351,
             "region_id":85688637,
             "venue_id":370232143
         }
     ],
     "wof:id":370232143,
-    "wof:lastmodified":1472338500,
+    "wof:lastmodified":1491915634,
     "wof:name":"Camco Pacific",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

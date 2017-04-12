@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.797319,38.012365,-121.797319,38.012365",
     "geom:latitude":38.012365,
     "geom:longitude":-121.797319,
@@ -37,16 +38,31 @@
         "boat"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ICNxJzbgC3fyTJFblrips_38.012365_-121.797319@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"818e6d09c088909feb4e66aa07691d01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":555393551
+        }
+    ],
     "wof:id":555393551,
-    "wof:lastmodified":1472349378,
+    "wof:lastmodified":1491959227,
     "wof:name":"Gator Marine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

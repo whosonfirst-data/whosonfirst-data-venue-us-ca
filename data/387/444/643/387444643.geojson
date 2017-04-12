@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.519819,37.935051,-122.519819,37.935051",
     "geom:latitude":37.935051,
     "geom:longitude":-122.519819,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922083,
-        102084353
+        85922027,
+        102084353,
+        85886027,
+        420551411
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"80965440c3eb8f73a0a5367a0139eca1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
-            "locality_id":85922083,
-            "neighbourhood_id":-1,
+            "locality_id":85922027,
+            "neighbourhood_id":85886027,
+            "region_id":85688637,
+            "venue_id":387444643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":420551411,
             "region_id":85688637,
             "venue_id":387444643
         }
     ],
     "wof:id":387444643,
-    "wof:lastmodified":1472343416,
+    "wof:lastmodified":1491966813,
     "wof:name":"Cellmark Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

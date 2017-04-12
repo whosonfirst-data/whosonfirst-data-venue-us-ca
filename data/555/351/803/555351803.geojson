@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.770545,36.916412,-121.770545,36.916412",
     "geom:latitude":36.916412,
     "geom:longitude":-121.770545,
@@ -28,16 +29,31 @@
     "sg:postcode":"95076",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921763,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AbE2pTy33cAPZsAUaPiBK_36.916412_-121.770545@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cceef7826bf6a6ba744117d12b41aa1b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921763,
+            "region_id":85688637,
+            "venue_id":555351803
+        }
+    ],
     "wof:id":555351803,
-    "wof:lastmodified":1472348440,
+    "wof:lastmodified":1491962423,
     "wof:name":"Golden Peach",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

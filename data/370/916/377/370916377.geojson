@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.065356,37.990837,-122.065356,37.990837",
     "geom:latitude":37.990837,
     "geom:longitude":-122.065356,
@@ -35,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85925081,
-        102086225
+        102086225,
+        420550491,
+        85925027,
+        85886377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,27 @@
     "wof:geomhash":"f0cbd12bda360493515e590693d17084",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85925081,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550491,
+            "region_id":85688637,
+            "venue_id":370916377
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925027,
+            "neighbourhood_id":85886377,
             "region_id":85688637,
             "venue_id":370916377
         }
     ],
     "wof:id":370916377,
-    "wof:lastmodified":1472345362,
+    "wof:lastmodified":1491959332,
     "wof:name":"Concord Cascade Mobile Home Pk",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

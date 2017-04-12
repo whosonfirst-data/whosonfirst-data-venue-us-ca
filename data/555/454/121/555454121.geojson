@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.745665,36.976065,-121.745665,36.976065",
     "geom:latitude":36.976065,
     "geom:longitude":-121.745665,
@@ -31,16 +32,29 @@
         "appliance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46mpRPGYwnM7hizhGSKIbV_36.976065_-121.745665@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bffddf462ded1977f21025006e8df12c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "region_id":85688637,
+            "venue_id":555454121
+        }
+    ],
     "wof:id":555454121,
-    "wof:lastmodified":1472350485,
+    "wof:lastmodified":1491958095,
     "wof:name":"Deo's Appliance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

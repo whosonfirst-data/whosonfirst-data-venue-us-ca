@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.163928,37.444371,-122.163928,37.444371",
     "geom:latitude":37.444371,
     "geom:longitude":-122.163928,
@@ -47,16 +48,31 @@
     ],
     "sg:website":"http://www.friend2friend.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PJImGCoau84o85qwrdxDH_37.444371_-122.163928@1308186496"
     },
     "wof:country":"US",
     "wof:geomhash":"698c67226cd516b41463aa1c4cbdeb97",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588726475
+        }
+    ],
     "wof:id":588726475,
-    "wof:lastmodified":1472353588,
+    "wof:lastmodified":1491957190,
     "wof:name":"Friend2Friend",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.256325,33.996094,-118.256325,33.996094",
     "geom:latitude":33.996094,
     "geom:longitude":-118.256325,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"540d9468a72fc55d03f30979a6a8b2b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":370517303
         }
     ],
     "wof:id":370517303,
-    "wof:lastmodified":1472341871,
+    "wof:lastmodified":1491868261,
     "wof:name":"Jj Auto Repair",
-    "wof:parent_id":85865791,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

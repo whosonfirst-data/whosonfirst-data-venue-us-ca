@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27659,37.538601,-122.27659,37.538601",
     "geom:latitude":37.538601,
     "geom:longitude":-122.27659,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922519,
+        85922431,
         102085387,
+        420559675,
+        85922519,
         85887825
     ],
     "wof:breaches":[],
@@ -46,7 +50,16 @@
     "wof:geomhash":"4f306f6ef834cb95ebcb8f2055a18e70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":420559675,
+            "region_id":85688637,
+            "venue_id":219541531
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922519,
@@ -56,9 +69,9 @@
         }
     ],
     "wof:id":219541531,
-    "wof:lastmodified":1472332874,
+    "wof:lastmodified":1491949260,
     "wof:name":"Robert H Griffin CPA",
-    "wof:parent_id":85887825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

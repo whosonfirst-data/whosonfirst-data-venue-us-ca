@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.132162,33.759042,-118.132162,33.759042",
     "geom:latitude":33.759042,
     "geom:longitude":-118.132162,
@@ -42,11 +43,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85805639,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,28 +58,26 @@
     "wof:geomhash":"53d431b2b89d14bf0ca265c18603d010",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":320103427
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":320103427
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":320103427
         }
     ],
     "wof:id":320103427,
-    "wof:lastmodified":1472331829,
+    "wof:lastmodified":1491894991,
     "wof:name":"Cingular Wireless LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.712563,38.359044,-122.712563,38.359044",
     "geom:latitude":38.359044,
     "geom:longitude":-122.712563,
@@ -32,7 +33,11 @@
         85688637,
         85633793,
         85922697,
-        102081671
+        102081671,
+        85887169,
+        85887151,
+        102191575,
+        420560085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,34 @@
     "wof:geomhash":"7a05e5c8024ecead04963a6991c87694",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922697,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887169,
+            "region_id":85688637,
+            "venue_id":303994079
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887151,
+            "region_id":85688637,
+            "venue_id":303994079
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922697,
+            "neighbourhood_id":420560085,
             "region_id":85688637,
             "venue_id":303994079
         }
     ],
     "wof:id":303994079,
-    "wof:lastmodified":1472338191,
+    "wof:lastmodified":1491965854,
     "wof:name":"Yardbirds Home Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

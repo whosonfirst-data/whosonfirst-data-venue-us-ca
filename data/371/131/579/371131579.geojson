@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309127,33.948096,-118.309127,33.948096",
     "geom:latitude":33.948096,
     "geom:longitude":-118.309127,
@@ -39,11 +40,13 @@
     "sg:website":"www.tonysglass.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
+        85923517,
         102086957,
-        85857015
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"d5f850ed8e7df7754d16633907d0c1b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":371131579
         }
     ],
     "wof:id":371131579,
-    "wof:lastmodified":1472339438,
+    "wof:lastmodified":1491868421,
     "wof:name":"Tony's Auto Glass & Mirror",
-    "wof:parent_id":85857015,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

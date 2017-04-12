@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.216748,34.059864,-118.216748,34.059864",
     "geom:latitude":34.059864,
     "geom:longitude":-118.216748,
@@ -35,11 +36,13 @@
     "sg:website":"www.salonxanthe.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85865843
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"3787024a1dac04581dc4081a28689f92",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865843,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370913827
         }
     ],
     "wof:id":370913827,
-    "wof:lastmodified":1472345376,
+    "wof:lastmodified":1491909557,
     "wof:name":"Salon Xanthe",
-    "wof:parent_id":85865843,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

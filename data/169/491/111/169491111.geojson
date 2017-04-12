@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.999097,37.983568,-121.999097,37.983568",
     "geom:latitude":37.983568,
     "geom:longitude":-121.999097,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922187,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922187,
+        102086225,
+        420550557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"5e05fbb002ec01c3610d2f9dc8df5b60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922187,
+            "neighbourhood_id":420550557,
             "region_id":85688637,
             "venue_id":169491111
         }
     ],
     "wof:id":169491111,
-    "wof:lastmodified":1472331914,
+    "wof:lastmodified":1491958401,
     "wof:name":"Grout Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550557,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

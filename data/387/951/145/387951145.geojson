@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.508955,33.89712,-117.508955,33.89712",
     "geom:latitude":33.89712,
     "geom:longitude":-117.508955,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85923345,
+        102086221,
+        85828951,
         85923413,
-        102086221
+        85876915
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"582e6b47ac19e58f9428d1efe676afd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85828951,
+            "region_id":85688637,
+            "venue_id":387951145
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923413,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876915,
             "region_id":85688637,
             "venue_id":387951145
         }
     ],
     "wof:id":387951145,
-    "wof:lastmodified":1472351271,
+    "wof:lastmodified":1491912833,
     "wof:name":"Web Commanders",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

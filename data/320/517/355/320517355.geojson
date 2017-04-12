@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.239113,33.932599,-118.239113,33.932599",
     "geom:latitude":33.932599,
     "geom:longitude":-118.239113,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
-        85923511,
+        85923517,
         102086957,
-        85867333
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"a451890f51970aedd71a36eee87af730",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923511,
-            "neighbourhood_id":85867333,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":320517355
         }
     ],
     "wof:id":320517355,
-    "wof:lastmodified":1472335644,
+    "wof:lastmodified":1491868070,
     "wof:name":"Lcl Pacific",
-    "wof:parent_id":85867333,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

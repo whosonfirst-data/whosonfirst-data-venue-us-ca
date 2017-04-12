@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.270673,37.540338,-122.270673,37.540338",
     "geom:latitude":37.540338,
     "geom:longitude":-122.270673,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922519,
         102085387,
-        85887825,
-        85922555,
-        85885627
+        85885627,
+        85887825
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +46,28 @@
     "wof:geomhash":"414ba1776078dd0932e090ee61a32e63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":85885627,
+            "region_id":85688637,
+            "venue_id":287099807
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922519,
             "neighbourhood_id":85887825,
             "region_id":85688637,
             "venue_id":287099807
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922555,
-            "neighbourhood_id":85885627,
-            "region_id":85688637,
-            "venue_id":287099807
         }
     ],
     "wof:id":287099807,
-    "wof:lastmodified":1472331732,
+    "wof:lastmodified":1491961604,
     "wof:name":"Karencareycom",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

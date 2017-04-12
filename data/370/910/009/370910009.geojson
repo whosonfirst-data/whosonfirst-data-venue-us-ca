@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.084073,32.61716,-117.084073,32.61716",
     "geom:latitude":32.61716,
     "geom:longitude":-117.084073,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922285,
-        102083569
+        102083569,
+        85876781,
+        420552055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"6e7da8142a72e72576200638d35724ba",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922285,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876781,
+            "region_id":85688637,
+            "venue_id":370910009
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922285,
+            "neighbourhood_id":420552055,
             "region_id":85688637,
             "venue_id":370910009
         }
     ],
     "wof:id":370910009,
-    "wof:lastmodified":1472345126,
+    "wof:lastmodified":1491893769,
     "wof:name":"Carpeteria Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

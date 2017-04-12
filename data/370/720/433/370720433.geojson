@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.341425,34.039889,-118.341425,34.039889",
     "geom:latitude":34.039889,
     "geom:longitude":-118.341425,
@@ -30,11 +31,13 @@
     "sg:website":"www.pmsk8nsurf.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869393
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"c487b1a873b4f354a9190fad6789650e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869393,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370720433
         }
     ],
     "wof:id":370720433,
-    "wof:lastmodified":1472343293,
+    "wof:lastmodified":1491917927,
     "wof:name":"Planet Maple Skate & Surf Shop",
-    "wof:parent_id":85869393,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

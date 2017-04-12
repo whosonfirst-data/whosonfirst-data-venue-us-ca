@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273212,37.540306,-122.273212,37.540306",
     "geom:latitude":37.540306,
     "geom:longitude":-122.273212,
@@ -34,9 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922519,
+        85922431,
         102085387,
+        420559675,
+        85922519,
+        85887847,
+        85885627,
         85887825
     ],
     "wof:breaches":[],
@@ -47,7 +53,34 @@
     "wof:geomhash":"baafdb33da26edfb7aa195b25a47a38a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":420559675,
+            "region_id":85688637,
+            "venue_id":387567449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":85887847,
+            "region_id":85688637,
+            "venue_id":387567449
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922519,
+            "neighbourhood_id":85885627,
+            "region_id":85688637,
+            "venue_id":387567449
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922519,
@@ -57,9 +90,9 @@
         }
     ],
     "wof:id":387567449,
-    "wof:lastmodified":1472344415,
+    "wof:lastmodified":1491956231,
     "wof:name":"Peninsula Sinai Congregation",
-    "wof:parent_id":85887825,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

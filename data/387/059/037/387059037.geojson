@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.350385,37.979645,-122.350385,37.979645",
     "geom:latitude":37.979645,
     "geom:longitude":-122.350385,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922125,
-        102086225
+        85922131,
+        102086225,
+        85880361,
+        85821449
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"b8484c01ac7aebceeab7bdbd12bf3bd7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
-            "locality_id":85922125,
-            "neighbourhood_id":-1,
+            "locality_id":85922131,
+            "neighbourhood_id":85880361,
+            "region_id":85688637,
+            "venue_id":387059037
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85821449,
             "region_id":85688637,
             "venue_id":387059037
         }
     ],
     "wof:id":387059037,
-    "wof:lastmodified":1472338481,
+    "wof:lastmodified":1491932153,
     "wof:name":"Pat's Notary Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

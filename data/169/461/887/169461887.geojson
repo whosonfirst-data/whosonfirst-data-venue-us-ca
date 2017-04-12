@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.11344,37.40127,-122.11344,37.40127",
     "geom:latitude":37.40127,
     "geom:longitude":-122.11344,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922355,
+        102081673,
+        85809795,
+        85922351,
+        85879663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,28 @@
     "wof:geomhash":"3507c465814d6de641657edf679005dc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":85809795,
+            "region_id":85688637,
+            "venue_id":169461887
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879663,
             "region_id":85688637,
             "venue_id":169461887
         }
     ],
     "wof:id":169461887,
-    "wof:lastmodified":1472331702,
+    "wof:lastmodified":1491949877,
     "wof:name":"Tower Records/Video/Books",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

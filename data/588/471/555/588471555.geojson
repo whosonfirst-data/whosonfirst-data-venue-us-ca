@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.922433,37.725023,-121.922433,37.725023",
     "geom:latitude":37.725023,
     "geom:longitude":-121.922433,
@@ -33,16 +34,31 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZEyYG9F2mVdAVOumpS7zm_37.725023_-121.922433@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"36c88b0cab30af5654fa56a5d4a9e5d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471555
+        }
+    ],
     "wof:id":588471555,
-    "wof:lastmodified":1472350617,
+    "wof:lastmodified":1491962893,
     "wof:name":"Alex Klocksin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

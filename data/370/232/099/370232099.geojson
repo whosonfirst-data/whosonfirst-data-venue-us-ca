@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.490193,34.052407,-118.490193,34.052407",
     "geom:latitude":34.052407,
     "geom:longitude":-118.490193,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85807211",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85856915
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"c481083fa14d465bcb01b61a4dec8b2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85856915,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85807211",
             "region_id":85688637,
             "venue_id":370232099
         }
     ],
     "wof:id":370232099,
-    "wof:lastmodified":1472338444,
+    "wof:lastmodified":1491933791,
     "wof:name":"Stanley A Nelson",
-    "wof:parent_id":85856915,
+    "wof:parent_id":"85807211",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

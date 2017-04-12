@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.432871,37.643088,-122.432871,37.643088",
     "geom:latitude":37.643088,
     "geom:longitude":-122.432871,
@@ -31,16 +32,25 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pn1K2t9Z5Kj9qbx5WKrC5_37.643088_-122.432871@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f431b003f8faab3a81878d4d0ca7e04c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552377,
+            "venue_id":571673449
+        }
+    ],
     "wof:id":571673449,
-    "wof:lastmodified":1472342939,
+    "wof:lastmodified":1491960667,
     "wof:name":"Primera Iglesia Bautista De",
     "wof:parent_id":420552377,
     "wof:placetype":"venue",

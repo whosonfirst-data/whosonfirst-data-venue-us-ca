@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.886579,37.798094,-121.886579,37.798094",
     "geom:latitude":37.798094,
     "geom:longitude":-121.886579,
@@ -37,16 +38,31 @@
         "agency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924963,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DWXqhjFOJ66n2GN10m8bZ_37.798094_-121.886579@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"30b422bcba1c30ced3b64d927193e7ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85924963,
+            "region_id":85688637,
+            "venue_id":588438473
+        }
+    ],
     "wof:id":588438473,
-    "wof:lastmodified":1472349453,
+    "wof:lastmodified":1491949363,
     "wof:name":"Advanced Travel Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

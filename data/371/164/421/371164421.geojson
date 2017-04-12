@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.636677,37.896241,-122.636677,37.896241",
     "geom:latitude":37.896241,
     "geom:longitude":-122.636677,
@@ -35,8 +36,12 @@
     "sg:website":"www.envirosports.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85886421,
+        102084353,
+        102191575,
+        85851781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +51,25 @@
     "wof:geomhash":"6271b4e008c154782dbd31179610a924",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084353,
+            "neighbourhood_id":85886421,
+            "region_id":85688637,
+            "venue_id":371164421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85851781,
             "region_id":85688637,
             "venue_id":371164421
         }
     ],
     "wof:id":371164421,
-    "wof:lastmodified":1472340140,
+    "wof:lastmodified":1491950059,
     "wof:name":"Enviro-Sports",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.904647,38.248129,-122.904647,38.248129",
     "geom:latitude":38.248129,
     "geom:longitude":-122.904647,
@@ -32,16 +33,31 @@
         "product"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924631,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cX96NxJEIcntnxT4QiOUH_38.248129_-122.904647@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8ab646bad483e10b0a2b7a7880a28f14",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924631,
+            "region_id":85688637,
+            "venue_id":571628481
+        }
+    ],
     "wof:id":571628481,
-    "wof:lastmodified":1472342253,
+    "wof:lastmodified":1491965787,
     "wof:name":"Wild Pear Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

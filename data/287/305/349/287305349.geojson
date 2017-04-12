@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.01373,37.25638,-122.01373,37.25638",
     "geom:latitude":37.25638,
     "geom:longitude":-122.01373,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922337,
-        102081673
+        102081673,
+        420552913,
+        85887969
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"855a5d2e89fcd1241d656623d35b664e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922337,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552913,
+            "region_id":85688637,
+            "venue_id":287305349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922337,
+            "neighbourhood_id":85887969,
             "region_id":85688637,
             "venue_id":287305349
         }
     ],
     "wof:id":287305349,
-    "wof:lastmodified":1472333841,
+    "wof:lastmodified":1491966093,
     "wof:name":"Odd Fellows Health Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

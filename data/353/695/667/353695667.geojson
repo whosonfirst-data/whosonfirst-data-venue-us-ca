@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.256469,33.966582,-118.256469,33.966582",
     "geom:latitude":33.966582,
     "geom:longitude":-118.256469,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"8eb5aedf4609bcb111f537c5f7f81fe3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868337,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":353695667
         }
     ],
     "wof:id":353695667,
-    "wof:lastmodified":1472335070,
+    "wof:lastmodified":1491867932,
     "wof:name":"Angie's Fashions",
-    "wof:parent_id":85868337,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

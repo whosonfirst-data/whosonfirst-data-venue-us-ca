@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.040457,37.596109,-122.040457,37.596109",
     "geom:latitude":37.596109,
     "geom:longitude":-122.040457,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921863,
-        102086959
+        85921895,
+        102086959,
+        85809601,
+        85921899,
+        85823567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"df09aef6d3502bb84b69257f2822471a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":85921863,
-            "neighbourhood_id":-1,
+            "locality_id":85921895,
+            "neighbourhood_id":85809601,
+            "region_id":85688637,
+            "venue_id":387466337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "neighbourhood_id":85823567,
             "region_id":85688637,
             "venue_id":387466337
         }
     ],
     "wof:id":387466337,
-    "wof:lastmodified":1472343660,
+    "wof:lastmodified":1491968594,
     "wof:name":"Its Warehousing",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

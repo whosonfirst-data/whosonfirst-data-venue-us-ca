@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.254734,34.015181,-118.254734,34.015181",
     "geom:latitude":34.015181,
     "geom:longitude":-118.254734,
@@ -35,11 +36,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85827369
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"e643c42b3da64661aeb8ee02fd8c49ea",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85827369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":320735521
         }
     ],
     "wof:id":320735521,
-    "wof:lastmodified":1472336385,
+    "wof:lastmodified":1491867887,
     "wof:name":"Atlas Machine Works",
-    "wof:parent_id":85827369,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

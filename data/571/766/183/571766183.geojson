@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.625343,37.121759,-121.625343,37.121759",
     "geom:latitude":37.121759,
     "geom:longitude":-121.625343,
@@ -28,16 +29,31 @@
     "sg:postcode":"95037",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922359,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0axCmogISMXbvaKi3HS5Id_37.121759_-121.625343@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"680984c0540f3175289e6cea51da5488",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922359,
+            "region_id":85688637,
+            "venue_id":571766183
+        }
+    ],
     "wof:id":571766183,
-    "wof:lastmodified":1472344122,
+    "wof:lastmodified":1491966040,
     "wof:name":"Inn At Morgan Hill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.486251,38.556013,-121.486251,38.556013",
     "geom:latitude":38.556013,
     "geom:longitude":-121.486251,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922845,
-        102082889
+        102082889,
+        420551895,
+        85872171
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"fb0b27c8cc497403e55fe6fd3c10bb08",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082889,
             "locality_id":85922845,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551895,
+            "region_id":85688637,
+            "venue_id":387022425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85872171,
             "region_id":85688637,
             "venue_id":387022425
         }
     ],
     "wof:id":387022425,
-    "wof:lastmodified":1472337266,
+    "wof:lastmodified":1491920117,
     "wof:name":"Swanberg's For Men Natural",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

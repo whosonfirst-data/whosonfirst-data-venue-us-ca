@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.917319,37.798655,-121.917319,37.798655",
     "geom:latitude":37.798655,
     "geom:longitude":-121.917319,
@@ -23,16 +24,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.safeway.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fy2Lvag8Hszu51jOu07WC_37.798655_-121.917319@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"807c1a24decf57e0f99cfa68f42de745",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588438481
+        }
+    ],
     "wof:id":588438481,
-    "wof:lastmodified":1472349456,
+    "wof:lastmodified":1491963055,
     "wof:name":"Safeway",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

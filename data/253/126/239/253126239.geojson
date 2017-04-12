@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.071623,37.876681,-122.071623,37.876681",
     "geom:latitude":37.876681,
     "geom:longitude":-122.071623,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85924967,
+        102086225,
+        85847149,
         85922117,
-        102086225
+        420550465
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"c93d01f9d1247377df8d56c76bd7b683",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85924967,
+            "neighbourhood_id":85847149,
+            "region_id":85688637,
+            "venue_id":253126239
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922117,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550465,
             "region_id":85688637,
             "venue_id":253126239
         }
     ],
     "wof:id":253126239,
-    "wof:lastmodified":1472331508,
+    "wof:lastmodified":1491961365,
     "wof:name":"Wachovia Securities Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.426746,34.000004,-118.426746,34.000004",
     "geom:latitude":34.000004,
     "geom:longitude":-118.426746,
@@ -34,11 +35,14 @@
     "sg:website":"www.dragepr.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561757,
+        "85832373",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85868389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"527617f52ea370f604a251a2d3595239",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868389,
+            "macrohood_id":1108692797,
+            "microhood_id":1108561757,
+            "neighbourhood_id":"85832373",
             "region_id":85688637,
             "venue_id":387023839
         }
     ],
     "wof:id":387023839,
-    "wof:lastmodified":1472337300,
+    "wof:lastmodified":1491905522,
     "wof:name":"D'Rage Media Group",
-    "wof:parent_id":85868389,
+    "wof:parent_id":1108561757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

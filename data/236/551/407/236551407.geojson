@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.265123,33.993593,-118.265123,33.993593",
     "geom:latitude":33.993593,
     "geom:longitude":-118.265123,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"0d3d16c7e29fad1fed523b7521f968af",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":236551407
         }
     ],
     "wof:id":236551407,
-    "wof:lastmodified":1472334196,
+    "wof:lastmodified":1491867684,
     "wof:name":"Elat Radiator",
-    "wof:parent_id":85865791,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.934958,37.706221,-121.934958,37.706221",
     "geom:latitude":37.706221,
     "geom:longitude":-121.934958,
@@ -32,16 +33,31 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52dowxP8FcjcqDmDhwKO7Q_37.706221_-121.934958@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d451e5c9f06fc84c6dd31c514fd5920a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":571588927
+        }
+    ],
     "wof:id":571588927,
-    "wof:lastmodified":1472341285,
+    "wof:lastmodified":1491957721,
     "wof:name":"Amador Valley Medical Ctr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

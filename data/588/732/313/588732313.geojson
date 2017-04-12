@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.250087,37.52583,-122.250087,37.52583",
     "geom:latitude":37.52583,
     "geom:longitude":-122.250087,
@@ -35,7 +36,9 @@
         85633793,
         85922447,
         102085387,
-        85887053
+        85887025,
+        85887053,
+        420552431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,33 @@
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922447,
+            "neighbourhood_id":85887025,
+            "region_id":85688637,
+            "venue_id":588732313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
             "neighbourhood_id":85887053,
+            "region_id":85688637,
+            "venue_id":588732313
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":420552431,
             "region_id":85688637,
             "venue_id":588732313
         }
     ],
     "wof:id":588732313,
-    "wof:lastmodified":1472353605,
+    "wof:lastmodified":1491966425,
     "wof:name":"YottaMark",
-    "wof:parent_id":85887053,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

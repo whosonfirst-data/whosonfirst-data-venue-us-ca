@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.39085,34.055377,-118.39085,34.055377",
     "geom:latitude":34.055377,
     "geom:longitude":-118.39085,
@@ -44,11 +45,13 @@
     "sg:website":"CharliesKosherDeli.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85865815
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,19 +61,20 @@
     "wof:geomhash":"23935604b3a3f90b22c6c4a63ead2209",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865815,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370938377
         }
     ],
     "wof:id":370938377,
-    "wof:lastmodified":1472346295,
+    "wof:lastmodified":1491912167,
     "wof:name":"Charlie's Kosher Delicatessen",
-    "wof:parent_id":85865815,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

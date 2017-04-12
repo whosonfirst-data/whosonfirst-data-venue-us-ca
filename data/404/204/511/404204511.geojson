@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.325398,33.974482,-118.325398,33.974482",
     "geom:latitude":33.974482,
     "geom:longitude":-118.325398,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85886061
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"01a65f56be43d60f87b51d059555575e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886061,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":404204511
         }
     ],
     "wof:id":404204511,
-    "wof:lastmodified":1472341413,
+    "wof:lastmodified":1491867673,
     "wof:name":"Quickscreen-Computers",
-    "wof:parent_id":85886061,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

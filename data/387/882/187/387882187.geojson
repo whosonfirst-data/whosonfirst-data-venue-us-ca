@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.260507,34.050874,-118.260507,34.050874",
     "geom:latitude":34.050874,
     "geom:longitude":-118.260507,
@@ -32,7 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1092456421,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +50,21 @@
     "wof:geomhash":"cbb7e794ec663847d4df11ac6266a871",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456421,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":387882187
         }
     ],
     "wof:id":387882187,
-    "wof:lastmodified":1472350728,
+    "wof:lastmodified":1491928668,
     "wof:name":"Kim Tours & Travel",
-    "wof:parent_id":-1,
+    "wof:parent_id":1092456421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.246511,37.499279,-122.246511,37.499279",
     "geom:latitude":37.499279,
     "geom:longitude":-122.246511,
@@ -35,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922447,
+        102085387,
+        85887237,
         85922437,
-        102085387
+        85887247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,28 @@
     "wof:geomhash":"f1e9f721f3133f8c0eff01c3d9e829d5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":85887237,
+            "region_id":85688637,
+            "venue_id":269558033
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887247,
             "region_id":85688637,
             "venue_id":269558033
         }
     ],
     "wof:id":269558033,
-    "wof:lastmodified":1472331339,
+    "wof:lastmodified":1491962096,
     "wof:name":"Pharmacognosy Consulting Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

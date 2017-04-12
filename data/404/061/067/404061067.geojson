@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.309414,37.966587,-122.309414,37.966587",
     "geom:latitude":37.966587,
     "geom:longitude":-122.309414,
@@ -33,9 +34,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85925139,
-        102086225
+        85922131,
+        102086225,
+        85880373,
+        85925143,
+        85880369,
+        85880365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +51,37 @@
     "wof:geomhash":"1bfd360c5fc64cb2120814dddb9009fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
-            "locality_id":85925139,
-            "neighbourhood_id":-1,
+            "locality_id":85922131,
+            "neighbourhood_id":85880373,
+            "region_id":85688637,
+            "venue_id":404061067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925143,
+            "neighbourhood_id":85880369,
+            "region_id":85688637,
+            "venue_id":404061067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922131,
+            "neighbourhood_id":85880365,
             "region_id":85688637,
             "venue_id":404061067
         }
     ],
     "wof:id":404061067,
-    "wof:lastmodified":1472339270,
+    "wof:lastmodified":1491949899,
     "wof:name":"Appian Food & Liquor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

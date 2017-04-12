@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.133204,33.757103,-118.133204,33.757103",
     "geom:latitude":33.757103,
     "geom:longitude":-118.133204,
@@ -33,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85805639,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +49,26 @@
     "wof:geomhash":"02357e7fd8c695094d3594bb8dc7d6e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":404060529
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":404060529
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":404060529
         }
     ],
     "wof:id":404060529,
-    "wof:lastmodified":1472339291,
+    "wof:lastmodified":1491895009,
     "wof:name":"Whos Your Baby V Bucci",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.941649,37.823548,-121.941649,37.823548",
     "geom:latitude":37.823548,
     "geom:longitude":-121.941649,
@@ -32,16 +33,31 @@
     ],
     "sg:website":"www.contactcall.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K0J4qS7U6j58yIBAUJRqx_37.823548_-121.941649@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0d7318044b6407af9defa15d30b293fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555480149
+        }
+    ],
     "wof:id":555480149,
-    "wof:lastmodified":1472350821,
+    "wof:lastmodified":1491962191,
     "wof:name":"Contact Conference Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

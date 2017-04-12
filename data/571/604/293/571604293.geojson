@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.644235,38.012171,-122.644235,38.012171",
     "geom:latitude":38.012171,
     "geom:longitude":-122.644235,
@@ -31,16 +32,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924613,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5m0xYdtqS0RIdNiAG3IYsJ_38.012171_-122.644235@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"29837c15e93e1cca732340924f816656",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924613,
+            "region_id":85688637,
+            "venue_id":571604293
+        }
+    ],
     "wof:id":571604293,
-    "wof:lastmodified":1472341957,
+    "wof:lastmodified":1491963260,
     "wof:name":"Dovetail Decision Consultants",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

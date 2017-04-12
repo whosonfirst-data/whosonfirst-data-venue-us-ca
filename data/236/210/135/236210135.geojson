@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.157837,33.771705,-118.157837,33.771705",
     "geom:latitude":33.771705,
     "geom:longitude":-118.157837,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923525,
-        102086957
+        102086957,
+        85871773,
+        85871775,
+        85871771
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,37 @@
     "wof:geomhash":"8c88bc542ad6c5a09568764e6c38842c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871773,
+            "region_id":85688637,
+            "venue_id":236210135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923525,
+            "neighbourhood_id":85871775,
+            "region_id":85688637,
+            "venue_id":236210135
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923525,
+            "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":236210135
         }
     ],
     "wof:id":236210135,
-    "wof:lastmodified":1472332220,
+    "wof:lastmodified":1491886631,
     "wof:name":"International Connection Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.281708,37.506392,-122.281708,37.506392",
     "geom:latitude":37.506392,
     "geom:longitude":-122.281708,
@@ -29,10 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922437,
-        85633793,
         85688637,
-        102085387
+        102191575,
+        85633793,
+        85922555,
+        102085387,
+        85887245,
+        85922437,
+        420552429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +47,28 @@
     "wof:geomhash":"c53accbb79d18bb013ee1356ff9e3318",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922555,
+            "neighbourhood_id":85887245,
+            "region_id":85688637,
+            "venue_id":169496517
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
+            "neighbourhood_id":420552429,
             "region_id":85688637,
             "venue_id":169496517
         }
     ],
     "wof:id":169496517,
-    "wof:lastmodified":1472332588,
+    "wof:lastmodified":1491948235,
     "wof:name":"Croatian Genealogical Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

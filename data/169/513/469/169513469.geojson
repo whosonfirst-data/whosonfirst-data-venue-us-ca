@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.058936,37.931298,-122.058936,37.931298",
     "geom:latitude":37.931298,
     "geom:longitude":-122.058936,
@@ -29,10 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85925021,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922135,
+        102086225,
+        420550473
     ],
     "wof:brand_id":420573767,
     "wof:breaches":[],
@@ -43,17 +46,19 @@
     "wof:geomhash":"3bea3566e02331e2c7703f8a8455bd3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
-            "locality_id":85925021,
+            "locality_id":85922135,
+            "neighbourhood_id":420550473,
             "region_id":85688637,
             "venue_id":169513469
         }
     ],
     "wof:id":169513469,
-    "wof:lastmodified":1472333415,
+    "wof:lastmodified":1491957748,
     "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

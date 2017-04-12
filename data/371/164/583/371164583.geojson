@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.377651,34.046931,-118.377651,34.046931",
     "geom:latitude":34.046931,
     "geom:longitude":-118.377651,
@@ -36,11 +37,14 @@
     "sg:website":"www.harkenprods.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091764195,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85869773
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,21 @@
     "wof:geomhash":"3a796a056efd4ba7ed89a94f4e2f9a58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869773,
+            "macrohood_id":1108692797,
+            "microhood_id":1091764195,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":371164583
         }
     ],
     "wof:id":371164583,
-    "wof:lastmodified":1472340140,
+    "wof:lastmodified":1491912256,
     "wof:name":"Harken Productions",
-    "wof:parent_id":85869773,
+    "wof:parent_id":1091764195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

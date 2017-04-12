@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.328241,33.993292,-118.328241,33.993292",
     "geom:latitude":33.993292,
     "geom:longitude":-118.328241,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868369
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"2d1b77a56ab5290f572a0fa5bae0fc1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":336832195
         }
     ],
     "wof:id":336832195,
-    "wof:lastmodified":1472332707,
+    "wof:lastmodified":1491867629,
     "wof:name":"Carico Of LA",
-    "wof:parent_id":85868369,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

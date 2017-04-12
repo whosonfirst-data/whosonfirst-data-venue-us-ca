@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.1383,38.054285,-122.1383,38.054285",
     "geom:latitude":38.054285,
     "geom:longitude":-122.1383,
@@ -37,16 +38,31 @@
         "terminals-river"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NUQgdzTFv7MgSQZhf4L9D_38.054285_-122.138300@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"4b2b0c51ff24b192042dddddc9f87b9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":588439937
+        }
+    ],
     "wof:id":588439937,
-    "wof:lastmodified":1472349528,
+    "wof:lastmodified":1491956721,
     "wof:name":"Benicia Industries, Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

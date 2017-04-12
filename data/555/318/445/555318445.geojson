@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.80877,38.011891,-121.80877,38.011891",
     "geom:latitude":38.011891,
     "geom:longitude":-121.80877,
@@ -31,16 +32,31 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TBRFKWEvbL9zmx0BghHEB_38.011891_-121.808770@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7ac77b17d8f8d9812d2a707b5aa5e76b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":555318445
+        }
+    ],
     "wof:id":555318445,
-    "wof:lastmodified":1472344611,
+    "wof:lastmodified":1491961542,
     "wof:name":"United Pentecostal Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

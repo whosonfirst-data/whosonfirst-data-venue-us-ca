@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.931112,37.243048,-121.931112,37.243048",
     "geom:latitude":37.243048,
     "geom:longitude":-121.931112,
@@ -34,7 +35,10 @@
         85633793,
         85922375,
         102081673,
-        85887503
+        85887503,
+        85887575,
+        1108782545,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +55,22 @@
             "neighbourhood_id":85887503,
             "region_id":85688637,
             "venue_id":588550353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782545,
+            "neighbourhood_id":85887575,
+            "region_id":85688637,
+            "venue_id":588550353
         }
     ],
     "wof:id":588550353,
-    "wof:lastmodified":1472351531,
+    "wof:lastmodified":1491887505,
     "wof:name":"Union Nail Salon",
-    "wof:parent_id":85887503,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

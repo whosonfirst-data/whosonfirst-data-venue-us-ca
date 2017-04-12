@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.901644,37.637129,-121.901644,37.637129",
     "geom:latitude":37.637129,
     "geom:longitude":-121.901644,
@@ -31,16 +32,31 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ojt0mdmwn7etrlwydgJbt_37.637129_-121.901644@1303263338"
     },
     "wof:country":"US",
     "wof:geomhash":"93c3b385ac738b5ca2be709c8eb4c085",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":588477709
+        }
+    ],
     "wof:id":588477709,
-    "wof:lastmodified":1472350701,
+    "wof:lastmodified":1491948475,
     "wof:name":"A-One Mems Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

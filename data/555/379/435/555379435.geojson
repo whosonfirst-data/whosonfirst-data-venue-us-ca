@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.616321,38.112564,-122.616321,38.112564",
     "geom:latitude":38.112564,
     "geom:longitude":-122.616321,
@@ -38,7 +39,8 @@
         85633793,
         85922017,
         102084353,
-        420551391
+        420551391,
+        85886695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,20 @@
             "neighbourhood_id":420551391,
             "region_id":85688637,
             "venue_id":555379435
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":85886695,
+            "region_id":85688637,
+            "venue_id":555379435
         }
     ],
     "wof:id":555379435,
-    "wof:lastmodified":1472349118,
+    "wof:lastmodified":1491958785,
     "wof:name":"Micro Tech Specialist",
-    "wof:parent_id":420551391,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

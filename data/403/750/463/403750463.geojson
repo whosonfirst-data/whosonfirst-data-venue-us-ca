@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.27831,33.995748,-118.27831,33.995748",
     "geom:latitude":33.995748,
     "geom:longitude":-118.27831,
@@ -38,7 +39,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -49,18 +55,20 @@
     "wof:geomhash":"9574f56c50a2ea31e44b86ac5b6f767e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":403750463
         }
     ],
     "wof:id":403750463,
-    "wof:lastmodified":1472339692,
+    "wof:lastmodified":1491867957,
     "wof:name":"Young People's Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

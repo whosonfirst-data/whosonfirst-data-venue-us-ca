@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.013,37.702702,-122.013,37.702702",
     "geom:latitude":37.702702,
     "geom:longitude":-122.013,
@@ -32,16 +33,25 @@
         "design"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52fgn0WUfBL2GPVJatuYYN_37.702702_-122.013000@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"f55b4bf24da868f54d1519559455c65c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588464021
+        }
+    ],
     "wof:id":588464021,
-    "wof:lastmodified":1472350212,
+    "wof:lastmodified":1491966317,
     "wof:name":"Harris Marie Interiors",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159077,37.448292,-122.159077,37.448292",
     "geom:latitude":37.448292,
     "geom:longitude":-122.159077,
@@ -28,16 +29,31 @@
     "sg:province":"CA",
     "sg:website":"http://searchreviews.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_439vEzcE6fH3eQlIXpVlas_37.448292_-122.159077@1308186501"
     },
     "wof:country":"US",
     "wof:geomhash":"9a2d411fac8e20c596abf705c95ec53c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588736785
+        }
+    ],
     "wof:id":588736785,
-    "wof:lastmodified":1472353623,
+    "wof:lastmodified":1491957561,
     "wof:name":"SearchReviews",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

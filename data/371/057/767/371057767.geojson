@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.331419,34.002017,-118.331419,34.002017",
     "geom:latitude":34.002017,
     "geom:longitude":-118.331419,
@@ -33,11 +34,13 @@
     "sg:website":"www.harrisonrossmortuary.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865801
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"dea69701e21f7c7a0cad1fad228b981f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865801,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":371057767
         }
     ],
     "wof:id":371057767,
-    "wof:lastmodified":1472338012,
+    "wof:lastmodified":1491868435,
     "wof:name":"Harrison-Ross Mortuaries",
-    "wof:parent_id":85865801,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.392076,34.204566,-118.392076,34.204566",
     "geom:latitude":34.204566,
     "geom:longitude":-118.392076,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851411",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865853
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"a27dd8aa32fb8ae37cb09f3c8f8727cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865853,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851411",
             "region_id":85688637,
             "venue_id":303279671
         }
     ],
     "wof:id":303279671,
-    "wof:lastmodified":1472333670,
+    "wof:lastmodified":1491906714,
     "wof:name":"SPI",
-    "wof:parent_id":85865853,
+    "wof:parent_id":"85851411",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

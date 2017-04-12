@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.182214,37.90866,-122.182214,37.90866",
     "geom:latitude":37.90866,
     "geom:longitude":-122.182214,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85886795,
-        102086225
+        85922149,
+        102086225,
+        420550607,
+        85886795
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,6 +49,15 @@
     "wof:geomhash":"8e740d7ad3a3fdd08d1cbb56b9a03483",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922149,
+            "neighbourhood_id":420550607,
+            "region_id":85688637,
+            "venue_id":571620387
+        },
+        {
             "country_id":85633793,
             "county_id":102086225,
             "neighbourhood_id":85886795,
@@ -53,9 +66,9 @@
         }
     ],
     "wof:id":571620387,
-    "wof:lastmodified":1472342029,
+    "wof:lastmodified":1491959803,
     "wof:name":"Mantell-Hecathorn Builders",
-    "wof:parent_id":85886795,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

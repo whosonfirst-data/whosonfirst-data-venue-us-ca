@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.755094,38.574788,-121.755094,38.574788",
     "geom:latitude":38.574788,
     "geom:longitude":-121.755094,
@@ -34,10 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922419,
-        85633793,
         85688637,
-        102082309
+        102191575,
+        85633793,
+        85922419,
+        102082309,
+        420553237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,19 @@
     "wof:geomhash":"036079242d91d04bfa5aa42ae5d8cd1d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082309,
             "locality_id":85922419,
+            "neighbourhood_id":420553237,
             "region_id":85688637,
             "venue_id":169447795
         }
     ],
     "wof:id":169447795,
-    "wof:lastmodified":1472331260,
+    "wof:lastmodified":1491962870,
     "wof:name":"Arnold Steve",
-    "wof:parent_id":-1,
+    "wof:parent_id":420553237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.284508,37.891113,-122.284508,37.891113",
     "geom:latitude":37.891113,
     "geom:longitude":-122.284508,
@@ -36,16 +37,31 @@
         "flower"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WsCS0xSpqAw5WInEUGa2c_37.891113_-122.284508@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"f9ea0e6b93b92ee13578f21a3b2bbaaa",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588524649
+        }
+    ],
     "wof:id":588524649,
-    "wof:lastmodified":1472351264,
+    "wof:lastmodified":1491963377,
     "wof:name":"Rose Nouveau",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

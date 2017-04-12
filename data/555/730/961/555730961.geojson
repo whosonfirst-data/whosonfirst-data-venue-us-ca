@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.158246,37.357079,-122.158246,37.357079",
     "geom:latitude":37.357079,
     "geom:longitude":-122.158246,
@@ -33,16 +34,31 @@
         "vacuum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922381,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FLlUZiumdVBgz49wMmfqF_37.357079_-122.158246@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8c0db55fa5d231a9bbbc8a9afd50c458",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922381,
+            "region_id":85688637,
+            "venue_id":555730961
+        }
+    ],
     "wof:id":555730961,
-    "wof:lastmodified":1472353017,
+    "wof:lastmodified":1491949350,
     "wof:name":"Research Devices Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.605997,34.186166,-118.605997,34.186166",
     "geom:latitude":34.186166,
     "geom:longitude":-118.605997,
@@ -36,12 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
         102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85858757
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +57,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858757,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":572164153
         }
     ],
     "wof:id":572164153,
-    "wof:lastmodified":1472342693,
+    "wof:lastmodified":1491889173,
     "wof:name":"Roy's",
-    "wof:parent_id":85858757,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.492864,34.282397,-118.492864,34.282397",
     "geom:latitude":34.282397,
     "geom:longitude":-118.492864,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85822437",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"0d1a6d90b7ee24b940fe11fb5e087f60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85822437",
             "region_id":85688637,
             "venue_id":169669293
         }
     ],
     "wof:id":169669293,
-    "wof:lastmodified":1472335042,
+    "wof:lastmodified":1491902237,
     "wof:name":"Friendly Electric Svc",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85822437",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

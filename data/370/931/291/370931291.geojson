@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.388104,34.029856,-118.388104,34.029856",
     "geom:latitude":34.029856,
     "geom:longitude":-118.388104,
@@ -40,11 +41,13 @@
     "sg:website":"www.halfacup.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85813183
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +57,20 @@
     "wof:geomhash":"9f0f72e2181b37b7e35f25ff91a3e353",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85813183,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370931291
         }
     ],
     "wof:id":370931291,
-    "wof:lastmodified":1472345837,
+    "wof:lastmodified":1491917830,
     "wof:name":"LeeAnn Smith, MPH, RD",
-    "wof:parent_id":85813183,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

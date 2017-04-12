@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.145821,33.759735,-118.145821,33.759735",
     "geom:latitude":33.759735,
     "geom:longitude":-118.145821,
@@ -35,12 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85871771
+        102086957,
+        85871771,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +51,6 @@
     "wof:geomhash":"7f3fc91dced6e7e3f1d4f4f5c335fdc8",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":572203047
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -64,12 +58,19 @@
             "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":572203047
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":572203047
         }
     ],
     "wof:id":572203047,
-    "wof:lastmodified":1472344025,
+    "wof:lastmodified":1491895004,
     "wof:name":"Round Table Pizza",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

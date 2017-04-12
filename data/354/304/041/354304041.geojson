@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.713974,37.997096,-121.713974,37.997096",
     "geom:latitude":37.997096,
     "geom:longitude":-121.713974,
@@ -35,7 +36,10 @@
         85688637,
         85633793,
         85922153,
-        102086225
+        102086225,
+        85807393,
+        102191575,
+        85846961
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,27 @@
     "wof:geomhash":"cc9159fcf83f9c28eeb5b6f82efcf42a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922153,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85807393,
+            "region_id":85688637,
+            "venue_id":354304041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922153,
+            "neighbourhood_id":85846961,
             "region_id":85688637,
             "venue_id":354304041
         }
     ],
     "wof:id":354304041,
-    "wof:lastmodified":1472335708,
+    "wof:lastmodified":1491959228,
     "wof:name":"Contra Costa County Sheriff",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

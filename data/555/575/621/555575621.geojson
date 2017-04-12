@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.753105,38.243047,-122.753105,38.243047",
     "geom:latitude":38.243047,
     "geom:longitude":-122.753105,
@@ -28,18 +29,31 @@
     "sg:postcode":"94952",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85887163,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VA09XUnhnv1P0FLUqGztv_38.243047_-122.753105@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"e572fb5cff972ddeb3c552a7d3961102",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887163,
+            "region_id":85688637,
+            "venue_id":555575621
+        }
+    ],
     "wof:id":555575621,
-    "wof:lastmodified":1472351695,
+    "wof:lastmodified":1491956922,
     "wof:name":"Springhill Jersey Dairy",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887163,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

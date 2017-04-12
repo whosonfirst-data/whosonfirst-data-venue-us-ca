@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.348592,34.047925,-118.348592,34.047925",
     "geom:latitude":34.047925,
     "geom:longitude":-118.348592,
@@ -33,11 +34,13 @@
     "sg:website":"www.chefmarilyns.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865813
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"6e2cf2b9bc9ad7800bee306030373e7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865813,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370721505
         }
     ],
     "wof:id":370721505,
-    "wof:lastmodified":1472343343,
+    "wof:lastmodified":1491917930,
     "wof:name":"Chef Marilyn's Soul Food Express",
-    "wof:parent_id":85865813,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

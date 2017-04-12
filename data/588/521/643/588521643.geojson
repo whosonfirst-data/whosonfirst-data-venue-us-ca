@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.243809,37.858072,-122.243809,37.858072",
     "geom:latitude":37.858072,
     "geom:longitude":-122.243809,
@@ -55,16 +56,31 @@
     ],
     "sg:website":"www.berkeleytennisclub.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bbHZnZkdqCCZeWcQZxbfx_37.858072_-122.243809@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"86e39b362e88be470b3e7249773c6947",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588521643
+        }
+    ],
     "wof:id":588521643,
-    "wof:lastmodified":1472351227,
+    "wof:lastmodified":1491948830,
     "wof:name":"Berkeley Tennis Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

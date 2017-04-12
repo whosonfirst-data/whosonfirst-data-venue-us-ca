@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.246471,34.054444,-118.246471,34.054444",
     "geom:latitude":34.054444,
     "geom:longitude":-118.246471,
@@ -28,11 +29,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091736553,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85866227
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,21 @@
     "wof:geomhash":"925361ca95c294de51d937fe27e04c1e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85866227,
+            "macrohood_id":1108694663,
+            "microhood_id":1091736553,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370529843
         }
     ],
     "wof:id":370529843,
-    "wof:lastmodified":1472342261,
+    "wof:lastmodified":1491928552,
     "wof:name":"Stanley Mosk Courthouse",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

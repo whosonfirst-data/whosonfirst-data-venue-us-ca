@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.90783,33.6706,-117.90783,33.6706",
     "geom:latitude":33.6706,
     "geom:longitude":-117.90783,
@@ -33,10 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85923161,
-        85633793,
         85688637,
-        102080847
+        102191575,
+        85633793,
+        85923049,
+        102080847,
+        85872937,
+        85923161,
+        85811345
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +51,28 @@
     "wof:geomhash":"5335d3f738eb144be67c48f441f91f71",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923049,
+            "neighbourhood_id":85872937,
+            "region_id":85688637,
+            "venue_id":169553911
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923161,
+            "neighbourhood_id":85811345,
             "region_id":85688637,
             "venue_id":169553911
         }
     ],
     "wof:id":169553911,
-    "wof:lastmodified":1472334035,
+    "wof:lastmodified":1491907843,
     "wof:name":"Castillo Signs",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

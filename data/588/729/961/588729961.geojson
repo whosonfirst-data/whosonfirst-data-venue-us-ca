@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.925672,37.696505,-121.925672,37.696505",
     "geom:latitude":37.696505,
     "geom:longitude":-121.925672,
@@ -38,16 +39,31 @@
     ],
     "sg:website":"http://www.clearleadinc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30P5w8wJguH3uAagQ7GVRR_37.696505_-121.925672@1308186498"
     },
     "wof:country":"US",
     "wof:geomhash":"602788fac1d4dc05d2d993198bcffe04",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":588729961
+        }
+    ],
     "wof:id":588729961,
-    "wof:lastmodified":1472353603,
+    "wof:lastmodified":1491961572,
     "wof:name":"ClearLead",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

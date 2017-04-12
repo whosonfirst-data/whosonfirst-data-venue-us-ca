@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995285,37.816654,-121.995285,37.816654",
     "geom:latitude":37.816654,
     "geom:longitude":-121.995285,
@@ -31,16 +32,31 @@
         "loan"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ft9i5aLGFaJa4keH1zTeZ_37.816654_-121.995285@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f32d819b1331e8d5d0fd157e315a7e5f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555477073
+        }
+    ],
     "wof:id":555477073,
-    "wof:lastmodified":1472350808,
+    "wof:lastmodified":1491963793,
     "wof:name":"Mutual Funding Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

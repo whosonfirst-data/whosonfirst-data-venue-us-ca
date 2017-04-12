@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.937604,37.481127,-121.937604,37.481127",
     "geom:latitude":37.481127,
     "geom:longitude":-121.937604,
@@ -34,16 +35,31 @@
         "equipment-repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QWmampJ5Gb5i7OcSrB79P_37.481127_-121.937604@1303263331"
     },
     "wof:country":"US",
     "wof:geomhash":"75372afb143fbcaab498c95c13f93268",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588450327
+        }
+    ],
     "wof:id":588450327,
-    "wof:lastmodified":1472349673,
+    "wof:lastmodified":1491970973,
     "wof:name":"Xyratex Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

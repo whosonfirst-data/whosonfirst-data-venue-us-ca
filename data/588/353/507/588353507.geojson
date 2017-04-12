@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.279914,37.503912,-122.279914,37.503912",
     "geom:latitude":37.503912,
     "geom:longitude":-122.279914,
@@ -28,16 +29,33 @@
     "sg:province":"CA",
     "sg:website":"www.cityofsancarlos.org/gov/dept...",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ONWPiVjzdK0faZK7AYK7S_37.503912_-122.279914@1303263307"
     },
     "wof:country":"US",
     "wof:geomhash":"33a37f04145f18e46eb935bc5e36d4d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":588353507
+        }
+    ],
     "wof:id":588353507,
-    "wof:lastmodified":1472343780,
+    "wof:lastmodified":1491961771,
     "wof:name":"San Carlos Avenue Neighborhood Park",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

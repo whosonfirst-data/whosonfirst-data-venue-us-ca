@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.255708,38.127569,-122.255708,38.127569",
     "geom:latitude":38.127569,
     "geom:longitude":-122.255708,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922643,
-        102087589
+        102087589,
+        420552937,
+        420552929,
+        85819657
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,37 @@
     "wof:geomhash":"3c8f7bbcd5dc6d1ea2ffd8003bb5de23",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087589,
             "locality_id":85922643,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552937,
+            "region_id":85688637,
+            "venue_id":387131411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922643,
+            "neighbourhood_id":420552929,
+            "region_id":85688637,
+            "venue_id":387131411
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922643,
+            "neighbourhood_id":85819657,
             "region_id":85688637,
             "venue_id":387131411
         }
     ],
     "wof:id":387131411,
-    "wof:lastmodified":1472340715,
+    "wof:lastmodified":1491949970,
     "wof:name":"Evergreen Carpet Care",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

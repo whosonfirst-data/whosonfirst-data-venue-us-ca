@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.47396,38.533665,-121.47396,38.533665",
     "geom:latitude":38.533665,
     "geom:longitude":-121.47396,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922845,
-        102082889
+        102082889,
+        85872165,
+        85872163,
+        85872167
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,37 @@
     "wof:geomhash":"151f389770788547a05abc8f84a4fea6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082889,
             "locality_id":85922845,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872165,
+            "region_id":85688637,
+            "venue_id":236488757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85872163,
+            "region_id":85688637,
+            "venue_id":236488757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85872167,
             "region_id":85688637,
             "venue_id":236488757
         }
     ],
     "wof:id":236488757,
-    "wof:lastmodified":1472333878,
+    "wof:lastmodified":1491906802,
     "wof:name":"Disco Azteca Distributors Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

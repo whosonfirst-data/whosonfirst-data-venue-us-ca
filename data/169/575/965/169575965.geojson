@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.091151,37.900473,-122.091151,37.900473",
     "geom:latitude":37.900473,
     "geom:longitude":-122.091151,
@@ -36,10 +37,12 @@
     "sg:website":"www.elitetileusa.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922169,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922169,
+        102086225,
+        420550581
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,17 +52,19 @@
     "wof:geomhash":"d478fee03a3e7435ff71c9381bbc1047",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922169,
+            "neighbourhood_id":420550581,
             "region_id":85688637,
             "venue_id":169575965
         }
     ],
     "wof:id":169575965,
-    "wof:lastmodified":1472334124,
+    "wof:lastmodified":1491959393,
     "wof:name":"Elite Tile",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550581,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

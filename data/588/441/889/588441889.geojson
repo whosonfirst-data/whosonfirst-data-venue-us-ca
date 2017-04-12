@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.682999,37.922401,-121.682999,37.922401",
     "geom:latitude":37.922401,
     "geom:longitude":-121.682999,
@@ -31,16 +32,31 @@
         "self"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922195,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TbA0FBmVQ4JadMwiQ53PY_37.922401_-121.682999@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"781f1affe22e6f0edbc20f27a2f7239f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922195,
+            "region_id":85688637,
+            "venue_id":588441889
+        }
+    ],
     "wof:id":588441889,
-    "wof:lastmodified":1472349779,
+    "wof:lastmodified":1491964690,
     "wof:name":"Diamond Mine Mini Storage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

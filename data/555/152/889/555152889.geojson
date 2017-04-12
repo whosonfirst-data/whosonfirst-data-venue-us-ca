@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.98259,37.21403,-121.98259,37.21403",
     "geom:latitude":37.21403,
     "geom:longitude":-121.98259,
@@ -35,8 +36,9 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85886349,
-        102081673
+        85886335,
+        102081673,
+        85886349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,22 @@
         {
             "country_id":85633793,
             "county_id":102081673,
+            "neighbourhood_id":85886335,
+            "region_id":85688637,
+            "venue_id":555152889
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081673,
             "neighbourhood_id":85886349,
             "region_id":85688637,
             "venue_id":555152889
         }
     ],
     "wof:id":555152889,
-    "wof:lastmodified":1472341799,
+    "wof:lastmodified":1491966087,
     "wof:name":"Jesuit Center Library",
-    "wof:parent_id":85886349,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

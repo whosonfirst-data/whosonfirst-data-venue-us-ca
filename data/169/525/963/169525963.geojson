@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528544,37.926729,-122.528544,37.926729",
     "geom:latitude":37.926729,
     "geom:longitude":-122.528544,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922083,
-        85633793,
         85688637,
-        102084353
+        102191575,
+        85633793,
+        85922083,
+        102084353,
+        420551329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"32d6e85c8e360a4e9a13c17a992fb3ff",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922083,
+            "neighbourhood_id":420551329,
             "region_id":85688637,
             "venue_id":169525963
         }
     ],
     "wof:id":169525963,
-    "wof:lastmodified":1472334039,
+    "wof:lastmodified":1491962747,
     "wof:name":"Tomales Presbyterian Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":420551329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

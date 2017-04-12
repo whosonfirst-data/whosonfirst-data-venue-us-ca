@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.234932,34.044692,-118.234932,34.044692",
     "geom:latitude":34.044692,
     "geom:longitude":-118.234932,
@@ -34,11 +35,14 @@
     "sg:website":"www.reformfurniture.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531569,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869087
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"30c1ecb3b3db6deb9f224856f100dbdd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869087,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531569,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370887191
         }
     ],
     "wof:id":370887191,
-    "wof:lastmodified":1472344710,
+    "wof:lastmodified":1491892582,
     "wof:name":"Reform",
-    "wof:parent_id":85869087,
+    "wof:parent_id":1041531569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.190219,34.085854,-118.190219,34.085854",
     "geom:latitude":34.085854,
     "geom:longitude":-118.190219,
@@ -29,12 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691219,
+        "85869501",
         102191575,
+        1108692433,
         85633793,
         85923517,
         102086957,
-        85839595
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85839595,
+            "macrohood_id":1108692433,
+            "microhood_id":1108691219,
+            "neighbourhood_id":"85869501",
             "region_id":85688637,
             "venue_id":571947287
         }
     ],
     "wof:id":571947287,
-    "wof:lastmodified":1472350141,
+    "wof:lastmodified":1491898858,
     "wof:name":"Parks & Recreation Dept",
-    "wof:parent_id":85839595,
+    "wof:parent_id":1108691219,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

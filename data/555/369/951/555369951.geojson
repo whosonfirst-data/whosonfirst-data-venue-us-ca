@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.244186,34.234151,-118.244186,34.234151",
     "geom:latitude":34.234151,
     "geom:longitude":-118.244186,
@@ -35,7 +36,9 @@
         85633793,
         85928345,
         102086957,
-        85828893
+        85828893,
+        85923615,
+        "85877717"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +55,21 @@
             "neighbourhood_id":85828893,
             "region_id":85688637,
             "venue_id":555369951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877717",
+            "region_id":85688637,
+            "venue_id":555369951
         }
     ],
     "wof:id":555369951,
-    "wof:lastmodified":1472349236,
+    "wof:lastmodified":1491919793,
     "wof:name":"Broadcast Ink Communications",
-    "wof:parent_id":85828893,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

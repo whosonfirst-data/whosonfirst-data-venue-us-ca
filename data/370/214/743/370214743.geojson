@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.052842,37.995321,-122.052842,37.995321",
     "geom:latitude":37.995321,
     "geom:longitude":-122.052842,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922187,
-        102086225
+        102086225,
+        85876849,
+        85876859
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"96d0b69debd84d5ce970b0abfa11d84f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922187,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876849,
+            "region_id":85688637,
+            "venue_id":370214743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922187,
+            "neighbourhood_id":85876859,
             "region_id":85688637,
             "venue_id":370214743
         }
     ],
     "wof:id":370214743,
-    "wof:lastmodified":1472338444,
+    "wof:lastmodified":1491956259,
     "wof:name":"Solano Rv Parking",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

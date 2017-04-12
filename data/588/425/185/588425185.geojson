@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.175939,37.430531,-122.175939,37.430531",
     "geom:latitude":37.430531,
     "geom:longitude":-122.175939,
@@ -31,16 +32,31 @@
         "holding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925383,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jZC4baSRFElrIdZ9RF2u3_37.430531_-122.175939@1303263324"
     },
     "wof:country":"US",
     "wof:geomhash":"4633475ac13587e25fb0861d95044a92",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925383,
+            "region_id":85688637,
+            "venue_id":588425185
+        }
+    ],
     "wof:id":588425185,
-    "wof:lastmodified":1472349081,
+    "wof:lastmodified":1491949159,
     "wof:name":"California Power Holdings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.117771,38.012518,-122.117771,38.012518",
     "geom:latitude":38.012518,
     "geom:longitude":-122.117771,
@@ -37,16 +38,25 @@
         "emergency"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SNUQCqMOP8eNbK2yqoCFL_38.012518_-122.117771@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"e6777bda00a077b221f1b2abec9983b0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":588464885
+        }
+    ],
     "wof:id":588464885,
-    "wof:lastmodified":1472350435,
+    "wof:lastmodified":1491963821,
     "wof:name":"Interm Housing",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

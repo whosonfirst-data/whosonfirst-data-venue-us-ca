@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.96809,37.23543,-121.96809,37.23543",
     "geom:latitude":37.23543,
     "geom:longitude":-121.96809,
@@ -34,9 +35,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922375,
-        102081673
+        102081673,
+        85847997,
+        85886337,
+        85922367,
+        85886355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +52,37 @@
     "wof:geomhash":"502e00a79cba1f5c4623ff12fcf6f0aa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922375,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85847997,
+            "region_id":85688637,
+            "venue_id":353651587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922375,
+            "neighbourhood_id":85886337,
+            "region_id":85688637,
+            "venue_id":353651587
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922367,
+            "neighbourhood_id":85886355,
             "region_id":85688637,
             "venue_id":353651587
         }
     ],
     "wof:id":353651587,
-    "wof:lastmodified":1472334461,
+    "wof:lastmodified":1491962795,
     "wof:name":"Wheels Of Zeus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

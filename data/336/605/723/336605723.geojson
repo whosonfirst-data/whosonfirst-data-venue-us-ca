@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.01431,37.930091,-122.01431,37.930091",
     "geom:latitude":37.930091,
     "geom:longitude":-122.01431,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922117,
-        102086225
+        102086225,
+        85888189,
+        85888213
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"5625b2417de5bbc7bcb97188955975a3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922117,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85888189,
+            "region_id":85688637,
+            "venue_id":336605723
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922117,
+            "neighbourhood_id":85888213,
             "region_id":85688637,
             "venue_id":336605723
         }
     ],
     "wof:id":336605723,
-    "wof:lastmodified":1472331026,
+    "wof:lastmodified":1491970877,
     "wof:name":"Corp Spatial Dynamic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

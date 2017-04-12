@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.052002,37.674099,-122.052002,37.674099",
     "geom:latitude":37.674099,
     "geom:longitude":-122.052002,
@@ -31,16 +32,25 @@
         "tutoring"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0H2WobwGQxSZz1Ffc0bn0b_37.674099_-122.052002@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"5e57cd4aed02ce6c2a1fbf04f86163ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588454373
+        }
+    ],
     "wof:id":588454373,
-    "wof:lastmodified":1472349955,
+    "wof:lastmodified":1491948428,
     "wof:name":"A & B Academics",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

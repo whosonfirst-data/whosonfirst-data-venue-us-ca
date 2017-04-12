@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28605,37.499244,-122.28605,37.499244",
     "geom:latitude":37.499244,
     "geom:longitude":-122.28605,
@@ -38,7 +39,9 @@
         85633793,
         85922555,
         102085387,
-        420552407
+        420552407,
+        85922437,
+        420552429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,21 @@
             "neighbourhood_id":420552407,
             "region_id":85688637,
             "venue_id":555410633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555410633
         }
     ],
     "wof:id":555410633,
-    "wof:lastmodified":1472349596,
+    "wof:lastmodified":1491959088,
     "wof:name":"Tor H Nilsen Geologist",
-    "wof:parent_id":420552407,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.279927,33.981861,-118.279927,33.981861",
     "geom:latitude":33.981861,
     "geom:longitude":-118.279927,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85858283
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"f08f28c4f247f1d4dc4c35bfe374c700",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858283,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":370681595
         }
     ],
     "wof:id":370681595,
-    "wof:lastmodified":1472343120,
+    "wof:lastmodified":1491867865,
     "wof:name":"J R General Contruction",
-    "wof:parent_id":85858283,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

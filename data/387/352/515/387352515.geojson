@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.472326,38.566663,-121.472326,38.566663",
     "geom:latitude":38.566663,
     "geom:longitude":-121.472326,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922845,
-        102082889
+        102082889,
+        85872171,
+        85872173
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"7ae3f0070b4c524fc860509b34256a3b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102082889,
             "locality_id":85922845,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85872171,
+            "region_id":85688637,
+            "venue_id":387352515
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922845,
+            "neighbourhood_id":85872173,
             "region_id":85688637,
             "venue_id":387352515
         }
     ],
     "wof:id":387352515,
-    "wof:lastmodified":1472342535,
+    "wof:lastmodified":1491889634,
     "wof:name":"Body Continuum",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

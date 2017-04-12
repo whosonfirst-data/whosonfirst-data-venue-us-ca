@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.470577,38.505131,-122.470577,38.505131",
     "geom:latitude":38.505131,
     "geom:longitude":-122.470577,
@@ -31,16 +32,31 @@
         "sportswear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M9XW8AGPGW3u1Kh2EsBqz_38.505131_-122.470577@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"06b6df7288f2b77ad5c302234db33036",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":555322297
+        }
+    ],
     "wof:id":555322297,
-    "wof:lastmodified":1472344687,
+    "wof:lastmodified":1491962419,
     "wof:name":"Sportago",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

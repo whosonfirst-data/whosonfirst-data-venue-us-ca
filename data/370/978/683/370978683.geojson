@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.371556,34.223922,-118.371556,34.223922",
     "geom:latitude":34.223922,
     "geom:longitude":-118.371556,
@@ -33,11 +34,13 @@
     "sg:website":"www.ddconstruction.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851411",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85868385
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"ba186242a49a6cb3fd684ff2ed393230",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868385,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851411",
             "region_id":85688637,
             "venue_id":370978683
         }
     ],
     "wof:id":370978683,
-    "wof:lastmodified":1472349142,
+    "wof:lastmodified":1491918503,
     "wof:name":"D & D Construction",
-    "wof:parent_id":85868385,
+    "wof:parent_id":"85851411",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

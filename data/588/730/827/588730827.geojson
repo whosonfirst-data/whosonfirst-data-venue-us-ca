@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.162628,37.443558,-122.162628,37.443558",
     "geom:latitude":37.443558,
     "geom:longitude":-122.162628,
@@ -45,16 +46,31 @@
     ],
     "sg:website":"http://www.talenthouse.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eBorQVYStSEsPAEeTyYvp_37.443558_-122.162628@1308186498"
     },
     "wof:country":"US",
     "wof:geomhash":"215cb060453f2904d3cded259ac21468",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588730827
+        }
+    ],
     "wof:id":588730827,
-    "wof:lastmodified":1472353601,
+    "wof:lastmodified":1491958709,
     "wof:name":"Talenthouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

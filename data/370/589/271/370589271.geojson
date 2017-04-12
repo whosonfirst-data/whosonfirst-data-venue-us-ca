@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.250968,34.044264,-118.250968,34.044264",
     "geom:latitude":34.044264,
     "geom:longitude":-118.250968,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:brand_id":420573801,
     "wof:breaches":[],
@@ -44,19 +48,21 @@
     "wof:geomhash":"fe40df7f56977aacafd136e0172c6f64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370589271
         }
     ],
     "wof:id":370589271,
-    "wof:lastmodified":1472342664,
+    "wof:lastmodified":1491928311,
     "wof:name":"Burger King",
-    "wof:parent_id":85865811,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

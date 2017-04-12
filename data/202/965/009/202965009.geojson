@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.302692,34.032643,-118.302692,34.032643",
     "geom:latitude":34.032643,
     "geom:longitude":-118.302692,
@@ -34,12 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996447,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85811025,
-        85868349
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +51,20 @@
     "wof:geomhash":"adebf1bd04259c36ca4688f88d9b9564",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85811025,
-            "region_id":85688637,
-            "venue_id":202965009
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868349,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996447,
             "region_id":85688637,
             "venue_id":202965009
         }
     ],
     "wof:id":202965009,
-    "wof:lastmodified":1472334040,
+    "wof:lastmodified":1491868182,
     "wof:name":"Party Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

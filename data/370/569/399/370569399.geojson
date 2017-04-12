@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.243074,34.045436,-118.243074,34.045436",
     "geom:latitude":34.045436,
     "geom:longitude":-118.243074,
@@ -38,7 +39,13 @@
     "sg:website":"www.jtsaniya.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691227,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -49,18 +56,21 @@
     "wof:geomhash":"27790882e19917bcf97154d7adf6e33d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691227,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370569399
         }
     ],
     "wof:id":370569399,
-    "wof:lastmodified":1472342539,
+    "wof:lastmodified":1491927983,
     "wof:name":"Jt Saniya",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

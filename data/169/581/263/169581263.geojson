@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.77268,38.627358,-122.77268,38.627358",
     "geom:latitude":38.627358,
     "geom:longitude":-122.77268,
@@ -32,8 +33,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85888237,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,16 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85888237,
             "region_id":85688637,
             "venue_id":169581263
         }
     ],
     "wof:id":169581263,
-    "wof:lastmodified":1472334165,
+    "wof:lastmodified":1491962855,
     "wof:name":"Roth Vineyards",
-    "wof:parent_id":-1,
+    "wof:parent_id":85888237,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.339523,34.260239,-118.339523,34.260239",
     "geom:latitude":34.260239,
     "geom:longitude":-118.339523,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865489
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"b0a8fc3fee07ced1c3d6de6708f723e3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865489,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":404207283
         }
     ],
     "wof:id":404207283,
-    "wof:lastmodified":1472341390,
+    "wof:lastmodified":1491930954,
     "wof:name":"Steves Feed & Grain",
-    "wof:parent_id":85865489,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

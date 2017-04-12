@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.04877,37.682333,-122.04877,37.682333",
     "geom:latitude":37.682333,
     "geom:longitude":-122.04877,
@@ -32,16 +33,25 @@
         "bureau"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pSx163hCek7l1s05i0Jpx_37.682333_-122.048770@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"5501f125f757a1701f873a5c0fac261f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588453693
+        }
+    ],
     "wof:id":588453693,
-    "wof:lastmodified":1472349996,
+    "wof:lastmodified":1491960048,
     "wof:name":"Aqua Blue Pool Service",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

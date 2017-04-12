@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.227015,34.025517,-118.227015,34.025517",
     "geom:latitude":34.025517,
     "geom:longitude":-118.227015,
@@ -34,11 +35,14 @@
     "sg:website":"www.downtowndiversion.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
-        85923779,
+        85923517,
         102086957,
-        85844155
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"cc624024be2aa3d3b6baa318c0ad03e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923779,
-            "neighbourhood_id":85844155,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":220102621
         }
     ],
     "wof:id":220102621,
-    "wof:lastmodified":1472331195,
+    "wof:lastmodified":1491927944,
     "wof:name":"Downtown Diversion Inc",
-    "wof:parent_id":85844155,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

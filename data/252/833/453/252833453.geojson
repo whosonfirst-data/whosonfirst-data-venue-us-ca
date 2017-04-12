@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.938111,37.551586,-121.938111,37.551586",
     "geom:latitude":37.551586,
     "geom:longitude":-121.938111,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85924495,
+        102086959,
+        85834653,
         85921899,
-        102086959
+        85877575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"2dcf178131d263197ec98d6c62f0fb65",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85924495,
+            "neighbourhood_id":85834653,
+            "region_id":85688637,
+            "venue_id":252833453
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921899,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85877575,
             "region_id":85688637,
             "venue_id":252833453
         }
     ],
     "wof:id":252833453,
-    "wof:lastmodified":1472331425,
+    "wof:lastmodified":1491956123,
     "wof:name":"Ace Financial & Continent",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

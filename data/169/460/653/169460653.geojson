@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.524761,37.901923,-122.524761,37.901923",
     "geom:latitude":37.901923,
     "geom:longitude":-122.524761,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922023,
-        85633793,
         85688637,
-        102084353
+        102191575,
+        85633793,
+        85922023,
+        102084353,
+        420551371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"920a1828058507dd714e1ccbbad5df61",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922023,
+            "neighbourhood_id":420551371,
             "region_id":85688637,
             "venue_id":169460653
         }
     ],
     "wof:id":169460653,
-    "wof:lastmodified":1472331477,
+    "wof:lastmodified":1491962747,
     "wof:name":"Express Photo & Digital",
-    "wof:parent_id":-1,
+    "wof:parent_id":420551371,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.308998,33.9529,-118.308998,33.9529",
     "geom:latitude":33.9529,
     "geom:longitude":-118.308998,
@@ -34,13 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
-        102086957,
-        85857015,
         85923517,
-        85868371
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,28 +51,20 @@
     "wof:geomhash":"4abd55b1ab14e6bd54bea3e5c4d941c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
-            "region_id":85688637,
-            "venue_id":371139869
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868371,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":371139869
         }
     ],
     "wof:id":371139869,
-    "wof:lastmodified":1472339625,
+    "wof:lastmodified":1491868477,
     "wof:name":"Holiday Liquor",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

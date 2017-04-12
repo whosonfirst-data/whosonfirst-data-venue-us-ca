@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.654691,37.13016,-121.654691,37.13016",
     "geom:latitude":37.13016,
     "geom:longitude":-121.654691,
@@ -28,16 +29,31 @@
     "sg:postcode":"95037",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922359,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60V18LQMvoX7bw3WeFizex_37.130160_-121.654691@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"6fdfe8052366efe54e08b1c659eec997",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922359,
+            "region_id":85688637,
+            "venue_id":555543589
+        }
+    ],
     "wof:id":555543589,
-    "wof:lastmodified":1472351443,
+    "wof:lastmodified":1491956624,
     "wof:name":"California Commercial Real",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

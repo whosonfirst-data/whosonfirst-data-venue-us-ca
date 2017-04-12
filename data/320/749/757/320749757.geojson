@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309081,33.952931,-118.309081,33.952931",
     "geom:latitude":33.952931,
     "geom:longitude":-118.309081,
@@ -33,13 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
-        102086957,
-        85857015,
         85923517,
-        85868371
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,28 +50,20 @@
     "wof:geomhash":"f6ed4ee3f859031e4042e477a2b6d600",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
-            "region_id":85688637,
-            "venue_id":320749757
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868371,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":320749757
         }
     ],
     "wof:id":320749757,
-    "wof:lastmodified":1472336454,
+    "wof:lastmodified":1491868038,
     "wof:name":"Sony Hall",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

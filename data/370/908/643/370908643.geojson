@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.216615,34.058856,-118.216615,34.058856",
     "geom:latitude":34.058856,
     "geom:longitude":-118.216615,
@@ -40,11 +41,13 @@
     "sg:website":"www.gtoautoglass.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85865843
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +57,20 @@
     "wof:geomhash":"75a9ad7af5a81960cc1c70fe0910844e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865843,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370908643
         }
     ],
     "wof:id":370908643,
-    "wof:lastmodified":1472345032,
+    "wof:lastmodified":1491909599,
     "wof:name":"GTO Auto Glass",
-    "wof:parent_id":85865843,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

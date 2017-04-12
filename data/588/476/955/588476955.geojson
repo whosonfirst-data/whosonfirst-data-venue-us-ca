@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.985001,37.768002,-121.985001,37.768002",
     "geom:latitude":37.768002,
     "geom:longitude":-121.985001,
@@ -33,16 +34,31 @@
         "elementary"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3isMUd3wbKl41vPnCFnARe_37.768002_-121.985001@1303263338"
     },
     "wof:country":"US",
     "wof:geomhash":"da4f50d28983f17e52c73e668e90b3e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":588476955
+        }
+    ],
     "wof:id":588476955,
-    "wof:lastmodified":1472350732,
+    "wof:lastmodified":1491958110,
     "wof:name":"San Ramon Valley Unified School District Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

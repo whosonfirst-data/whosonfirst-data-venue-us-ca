@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.110711,38.007789,-122.110711,38.007789",
     "geom:latitude":38.007789,
     "geom:longitude":-122.110711,
@@ -31,16 +32,25 @@
         "village"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ht4OfKR1JDgzcH7B0NorE_38.007789_-122.110711@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"2972cdf67db6e43bca42e1fdbc0f2a6c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":555313573
+        }
+    ],
     "wof:id":555313573,
-    "wof:lastmodified":1472344607,
+    "wof:lastmodified":1491966069,
     "wof:name":"Dial-A-Ride City Of Benicia",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.927207,37.804568,-121.927207,37.804568",
     "geom:latitude":37.804568,
     "geom:longitude":-121.927207,
@@ -32,16 +33,31 @@
         "lessor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31glLnvHupM0LdGFwNjgDB_37.804568_-121.927207@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7476a2c120c64f6409f9c9e112b3cfee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555387523
+        }
+    ],
     "wof:id":555387523,
-    "wof:lastmodified":1472349210,
+    "wof:lastmodified":1491949338,
     "wof:name":"Jsa Properties Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

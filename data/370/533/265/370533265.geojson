@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.235646,34.063806,-118.235646,34.063806",
     "geom:latitude":34.063806,
     "geom:longitude":-118.235646,
@@ -33,11 +34,14 @@
     "sg:website":"www.renegadecraft.com/los-angeles",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531499,
+        "85866825",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85836593
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"cdceda00dbf30403dcc41561c45ccb2a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836593,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531499,
+            "neighbourhood_id":"85866825",
             "region_id":85688637,
             "venue_id":370533265
         }
     ],
     "wof:id":370533265,
-    "wof:lastmodified":1472342208,
+    "wof:lastmodified":1491889913,
     "wof:name":"Renegade Craft Fair",
-    "wof:parent_id":85836593,
+    "wof:parent_id":1041531499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

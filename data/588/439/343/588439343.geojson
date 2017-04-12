@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.80646,37.995981,-121.80646,37.995981",
     "geom:latitude":37.995981,
     "geom:longitude":-121.80646,
@@ -37,16 +38,31 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ULBlDkGYKsM2SLgQX1mTj_37.995981_-121.806460@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"9134079f1e7e7344682e0d0d704430e8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":588439343
+        }
+    ],
     "wof:id":588439343,
-    "wof:lastmodified":1472349454,
+    "wof:lastmodified":1491962257,
     "wof:name":"Realty World of The Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.986314,37.800332,-121.986314,37.800332",
     "geom:latitude":37.800332,
     "geom:longitude":-121.986314,
@@ -33,16 +34,31 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hpzQaT8qQMrAlsgJQbX6O_37.800332_-121.986314@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"55c7b1d3679493673a0c845df48c0b35",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555497225
+        }
+    ],
     "wof:id":555497225,
-    "wof:lastmodified":1472350974,
+    "wof:lastmodified":1491948941,
     "wof:name":"Ichco Incorporated",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

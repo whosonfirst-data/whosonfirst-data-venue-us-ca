@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.224511,33.834774,-118.224511,33.834774",
     "geom:latitude":33.834774,
     "geom:longitude":-118.224511,
@@ -41,11 +42,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923683,
         102086957,
-        85814819,
-        85814831
+        "85814831"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,28 +56,19 @@
     "wof:geomhash":"9350061642e11a997a5e2b0cdfe54b93",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
-            "region_id":85688637,
-            "venue_id":236864401
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85814831,
+            "neighbourhood_id":"85814831",
             "region_id":85688637,
             "venue_id":236864401
         }
     ],
     "wof:id":236864401,
-    "wof:lastmodified":1472335153,
+    "wof:lastmodified":1491926772,
     "wof:name":"Saint Michael Chicharon",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85814831",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

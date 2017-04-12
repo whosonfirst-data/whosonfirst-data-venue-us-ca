@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.248615,34.02942,-118.248615,34.02942",
     "geom:latitude":34.02942,
     "geom:longitude":-118.248615,
@@ -34,11 +35,13 @@
     "sg:website":"www.votrenom.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869163
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"07254723b88b65e6793e2b917eb0486d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869163,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370751469
         }
     ],
     "wof:id":370751469,
-    "wof:lastmodified":1472343535,
+    "wof:lastmodified":1491928841,
     "wof:name":"Votre Nom",
-    "wof:parent_id":85869163,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

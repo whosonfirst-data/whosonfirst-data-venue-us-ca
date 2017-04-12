@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.639627,37.867399,-121.639627,37.867399",
     "geom:latitude":37.867399,
     "geom:longitude":-121.639627,
@@ -31,16 +32,31 @@
         "publisher"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925163,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xcAGUtkzAoJjdCLTSSx7a_37.867399_-121.639627@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"db948c5b9de60ff0be0b8284c23742c1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925163,
+            "region_id":85688637,
+            "venue_id":555375653
+        }
+    ],
     "wof:id":555375653,
-    "wof:lastmodified":1472349178,
+    "wof:lastmodified":1491956868,
     "wof:name":"Pavior Publishing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

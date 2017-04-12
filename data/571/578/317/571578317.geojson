@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.592045,37.068813,-121.592045,37.068813",
     "geom:latitude":37.068813,
     "geom:longitude":-121.592045,
@@ -32,16 +33,31 @@
         "station"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yvqWPFmoudfO4HNLsN7eO_37.068813_-121.592045@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7b2dbefd32eebd37cefa81321bb4b8e1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":571578317
+        }
+    ],
     "wof:id":571578317,
-    "wof:lastmodified":1472341135,
+    "wof:lastmodified":1491948413,
     "wof:name":"Chiu Gee Oil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

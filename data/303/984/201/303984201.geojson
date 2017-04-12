@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.451059,37.636827,-122.451059,37.636827",
     "geom:latitude":37.636827,
     "geom:longitude":-122.451059,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922427,
-        102085387
+        102085387,
+        85888111,
+        85922441,
+        420552427
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"2920e807f9cf9e3c5a7bc123ecf06df2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922427,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85888111,
+            "region_id":85688637,
+            "venue_id":303984201
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922441,
+            "neighbourhood_id":420552427,
             "region_id":85688637,
             "venue_id":303984201
         }
     ],
     "wof:id":303984201,
-    "wof:lastmodified":1472338118,
+    "wof:lastmodified":1491948473,
     "wof:name":"Lillies Care Home",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

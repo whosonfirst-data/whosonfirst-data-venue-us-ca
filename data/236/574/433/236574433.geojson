@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.272035,34.034377,-118.272035,34.034377",
     "geom:latitude":34.034377,
     "geom:longitude":-118.272035,
@@ -29,11 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996417,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868345
+        85688637,
+        "85865811",
+        1108694663
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,30 @@
     "wof:geomhash":"c3cdb6a2ab1d366ea49e8e8e705fc8c2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868345,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996417,
+            "region_id":85688637,
+            "venue_id":236574433
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":236574433
         }
     ],
     "wof:id":236574433,
-    "wof:lastmodified":1472334229,
+    "wof:lastmodified":1491868157,
     "wof:name":"Los Angeles Cnty Veterans Affr",
-    "wof:parent_id":85868345,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

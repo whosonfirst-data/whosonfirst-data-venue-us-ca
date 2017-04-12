@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.302451,37.889612,-122.302451,37.889612",
     "geom:latitude":37.889612,
     "geom:longitude":-122.302451,
@@ -31,16 +32,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6MfHeKQmGykJuFZD14oB3P_37.889612_-122.302451@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"031439604ecc33ed479922bc93dd08af",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588523705
+        }
+    ],
     "wof:id":588523705,
-    "wof:lastmodified":1472351291,
+    "wof:lastmodified":1491960477,
     "wof:name":"Liberty Building",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

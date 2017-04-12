@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.356663,34.042001,-118.356663,34.042001",
     "geom:latitude":34.042001,
     "geom:longitude":-118.356663,
@@ -38,7 +39,12 @@
     "sg:website":"www.missalanaschildcare.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -49,18 +55,20 @@
     "wof:geomhash":"e95fb3617c57e8a345a49102342cceb3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370722261
         }
     ],
     "wof:id":370722261,
-    "wof:lastmodified":1472343335,
+    "wof:lastmodified":1491917908,
     "wof:name":"Miss Alana's Childcare",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

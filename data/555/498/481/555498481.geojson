@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.894985,37.807189,-121.894985,37.807189",
     "geom:latitude":37.807189,
     "geom:longitude":-121.894985,
@@ -31,16 +32,31 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Mne3j8iZQSqUs1WR4wjpR_37.807189_-121.894985@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"ca9e81604cfecd3b10c9e30c21d7c906",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":555498481
+        }
+    ],
     "wof:id":555498481,
-    "wof:lastmodified":1472350983,
+    "wof:lastmodified":1491948773,
     "wof:name":"Advanced Technical Consulting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.265119,37.902618,-122.265119,37.902618",
     "geom:latitude":37.902618,
     "geom:longitude":-122.265119,
@@ -34,16 +35,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tz78vbFzSYUQ4aVVeXsni_37.902814_-122.264978@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"1f091b7fc56312f7f8f64379767d1959",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":571987749
+        }
+    ],
     "wof:id":571987749,
-    "wof:lastmodified":1472350675,
+    "wof:lastmodified":1491965693,
     "wof:name":"Elizabeth Pulling",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

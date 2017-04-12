@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.281658,37.499148,-122.281658,37.499148",
     "geom:latitude":37.499148,
     "geom:longitude":-122.281658,
@@ -31,16 +32,33 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pABGFfGYeMPswx7vZgakA_37.499148_-122.281658@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"58b27128eac614e6052f653e63690400",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555736569
+        }
+    ],
     "wof:id":555736569,
-    "wof:lastmodified":1472352943,
+    "wof:lastmodified":1491956717,
     "wof:name":"Sigma Engineering",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

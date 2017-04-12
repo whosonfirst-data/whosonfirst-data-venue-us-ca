@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.146372,37.4783,-122.146372,37.4783",
     "geom:latitude":37.4783,
     "geom:longitude":-122.146372,
@@ -30,11 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922503,
         102085387,
-        85843847,
-        85824593
+        85824593,
+        85922525,
+        85843847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +47,28 @@
     "wof:geomhash":"a084920c840af685c16b5d5332f88662",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922503,
-            "neighbourhood_id":85843847,
-            "region_id":85688637,
-            "venue_id":287243621
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922503,
             "neighbourhood_id":85824593,
             "region_id":85688637,
             "venue_id":287243621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922525,
+            "neighbourhood_id":85843847,
+            "region_id":85688637,
+            "venue_id":287243621
         }
     ],
     "wof:id":287243621,
-    "wof:lastmodified":1472333391,
+    "wof:lastmodified":1491966091,
     "wof:name":"Better Source Liquidator",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

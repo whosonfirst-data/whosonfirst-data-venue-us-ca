@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.277396,34.03701,-118.277396,34.03701",
     "geom:latitude":34.03701,
     "geom:longitude":-118.277396,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,15 +49,20 @@
     "wof:geomhash":"1363d3cf9c4e5064933d189fdfeb7950",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":169534965
         }
     ],
     "wof:id":169534965,
-    "wof:lastmodified":1472333921,
+    "wof:lastmodified":1491868443,
     "wof:name":"Discount Master",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

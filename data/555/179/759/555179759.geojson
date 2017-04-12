@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.155867,38.071044,-122.155867,38.071044",
     "geom:latitude":38.071044,
     "geom:longitude":-122.155867,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C3W2j6lwZ0b46qqRSrVjN_38.071044_-122.155867@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b48e7098f991518ad541a059421e8b0d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":555179759
+        }
+    ],
     "wof:id":555179759,
-    "wof:lastmodified":1472342612,
+    "wof:lastmodified":1491957584,
     "wof:name":"Easy-Jobs Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

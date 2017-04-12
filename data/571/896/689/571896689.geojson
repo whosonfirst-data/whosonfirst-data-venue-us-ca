@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.136096,33.755354,-118.136096,33.755354",
     "geom:latitude":33.755354,
     "geom:longitude":-118.136096,
@@ -35,12 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,13 +51,6 @@
     "wof:geomhash":"c411ed1ec7cf9dcfdc1d49c402fbe7a1",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":571896689
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -64,12 +58,19 @@
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":571896689
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":571896689
         }
     ],
     "wof:id":571896689,
-    "wof:lastmodified":1472349637,
+    "wof:lastmodified":1491894997,
     "wof:name":"Hoyt Energy LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

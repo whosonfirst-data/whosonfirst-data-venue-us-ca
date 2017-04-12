@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.442646,37.642838,-122.442646,37.642838",
     "geom:latitude":37.642838,
     "geom:longitude":-122.442646,
@@ -31,16 +32,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1igpKatmTeMytoo8HooKJk_37.642838_-122.442646@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"89db392e9cfcd2548d8def21f581c2a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552377,
+            "venue_id":555273553
+        }
+    ],
     "wof:id":555273553,
-    "wof:lastmodified":1472343768,
+    "wof:lastmodified":1491949266,
     "wof:name":"Hunter Engineering",
     "wof:parent_id":420552377,
     "wof:placetype":"venue",

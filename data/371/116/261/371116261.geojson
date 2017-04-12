@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.2194,33.841832,-118.2194,33.841832",
     "geom:latitude":33.841832,
     "geom:longitude":-118.2194,
@@ -33,11 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85817751,
         85923683,
-        85814819
+        102086957,
+        85817751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +48,19 @@
     "wof:geomhash":"8372ff5e67cce87cd24cc2bf0f67a4e0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85817751,
-            "region_id":85688637,
-            "venue_id":371116261
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
+            "neighbourhood_id":85817751,
             "region_id":85688637,
             "venue_id":371116261
         }
     ],
     "wof:id":371116261,
-    "wof:lastmodified":1472339327,
+    "wof:lastmodified":1491926771,
     "wof:name":"Usc Intermodal LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

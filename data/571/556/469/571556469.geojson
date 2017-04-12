@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.127046,38.014579,-122.127046,38.014579",
     "geom:latitude":38.014579,
     "geom:longitude":-122.127046,
@@ -31,16 +32,25 @@
         "merchandise"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lB3T1ZqCiZoAdtEQSq3sd_38.014579_-122.127046@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0c1e87379dc1376f96e7310ac36d79da",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":571556469
+        }
+    ],
     "wof:id":571556469,
-    "wof:lastmodified":1472340290,
+    "wof:lastmodified":1491965342,
     "wof:name":"Finish Line Framing",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

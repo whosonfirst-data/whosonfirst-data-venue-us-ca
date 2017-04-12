@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.037471,37.671282,-122.037471,37.671282",
     "geom:latitude":37.671282,
     "geom:longitude":-122.037471,
@@ -32,16 +33,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kHDBpJaSsc3sWKt8Fo0Kj_37.671282_-122.037471@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"91b7b064733aab2f83aab7cd9e029460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":571761699
+        }
+    ],
     "wof:id":571761699,
-    "wof:lastmodified":1472344210,
+    "wof:lastmodified":1491968232,
     "wof:name":"Concrete Solutions",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

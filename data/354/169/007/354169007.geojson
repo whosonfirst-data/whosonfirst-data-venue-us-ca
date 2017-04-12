@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.26147,33.977157,-118.26147,33.977157",
     "geom:latitude":33.977157,
     "geom:longitude":-118.26147,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85858283
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"45d9805602cb4854323b02e17e5b103a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858283,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":354169007
         }
     ],
     "wof:id":354169007,
-    "wof:lastmodified":1472333886,
+    "wof:lastmodified":1491868197,
     "wof:name":"Elite Concept",
-    "wof:parent_id":85858283,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

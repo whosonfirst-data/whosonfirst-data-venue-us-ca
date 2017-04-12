@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.806023,38.004879,-121.806023,38.004879",
     "geom:latitude":38.004879,
     "geom:longitude":-121.806023,
@@ -42,16 +43,31 @@
         "inspection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LM2481Rsw4nPVgOmJukem_38.004879_-121.806023@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"9250f34305d077992ac4c5d1e5437dfe",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":588439081
+        }
+    ],
     "wof:id":588439081,
-    "wof:lastmodified":1472349425,
+    "wof:lastmodified":1491967322,
     "wof:name":"Antioch Smog Check",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

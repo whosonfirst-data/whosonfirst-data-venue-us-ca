@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.486577,37.66572,-122.486577,37.66572",
     "geom:latitude":37.66572,
     "geom:longitude":-122.486577,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922529,
-        102085387
+        102085387,
+        85866017,
+        420552309
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"a41a8c860ba2cbd5d429b4e3bba3ad4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922529,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85866017,
+            "region_id":85688637,
+            "venue_id":387653563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":420552309,
             "region_id":85688637,
             "venue_id":387653563
         }
     ],
     "wof:id":387653563,
-    "wof:lastmodified":1472346642,
+    "wof:lastmodified":1491962778,
     "wof:name":"K H Lee & Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

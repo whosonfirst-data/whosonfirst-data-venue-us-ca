@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.262831,33.98926,-118.262831,33.98926",
     "geom:latitude":33.98926,
     "geom:longitude":-118.262831,
@@ -33,7 +34,12 @@
     "sg:website":"www.devonselfstorage.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85868345",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"dcd794b5fc257cff84ee294c399bd05f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868345",
             "region_id":85688637,
             "venue_id":370520571
         }
     ],
     "wof:id":370520571,
-    "wof:lastmodified":1472342232,
+    "wof:lastmodified":1491867802,
     "wof:name":"Devon Self Storage",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85868345",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

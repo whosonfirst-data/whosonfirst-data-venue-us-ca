@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.343121,38.334294,-122.343121,38.334294",
     "geom:latitude":38.334294,
     "geom:longitude":-122.343121,
@@ -33,8 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85846841,
+        102085383,
+        102191575,
+        85921993,
+        85886547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +50,26 @@
     "wof:geomhash":"31f49128849f4a4338643cadc854cb7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085383,
+            "neighbourhood_id":85846841,
+            "region_id":85688637,
+            "venue_id":303854613
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85886547,
             "region_id":85688637,
             "venue_id":303854613
         }
     ],
     "wof:id":303854613,
-    "wof:lastmodified":1472336133,
+    "wof:lastmodified":1491958860,
     "wof:name":"Ace Auto Appearance",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

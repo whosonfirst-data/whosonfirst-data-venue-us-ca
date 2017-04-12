@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.402126,34.03063,-118.402126,34.03063",
     "geom:latitude":34.03063,
     "geom:longitude":-118.402126,
@@ -30,11 +31,13 @@
     "sg:website":"www.permanentroof.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85840349
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"0945678c8493435b6e8fd1c32e12f8c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85840349,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370931515
         }
     ],
     "wof:id":370931515,
-    "wof:lastmodified":1472345952,
+    "wof:lastmodified":1491917895,
     "wof:name":"Permanent Roof",
-    "wof:parent_id":85840349,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

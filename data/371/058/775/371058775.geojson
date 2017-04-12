@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.348,33.988998,-118.348,33.988998",
     "geom:latitude":33.988998,
     "geom:longitude":-118.348,
@@ -37,11 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
-        85928413,
+        85923517,
         102086957,
-        85858237
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +54,20 @@
     "wof:geomhash":"e33a9b9ef891a8bb5bd71c1e061807fd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85928413,
-            "neighbourhood_id":85858237,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":371058775
         }
     ],
     "wof:id":371058775,
-    "wof:lastmodified":1472338245,
+    "wof:lastmodified":1491867500,
     "wof:name":"Viewpark Brighter Future Pre-School",
-    "wof:parent_id":85858237,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

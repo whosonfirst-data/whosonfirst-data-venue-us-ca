@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.235999,34.014829,-118.235999,34.014829",
     "geom:latitude":34.014829,
     "geom:longitude":-118.235999,
@@ -29,7 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +47,21 @@
     "wof:geomhash":"4907019150db7d731e2227074b0563d0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":353620801
         }
     ],
     "wof:id":353620801,
-    "wof:lastmodified":1472334079,
+    "wof:lastmodified":1491927919,
     "wof:name":"L'Patricia",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

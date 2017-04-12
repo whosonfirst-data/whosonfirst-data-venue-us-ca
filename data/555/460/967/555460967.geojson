@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.021936,38.812063,-123.021936,38.812063",
     "geom:latitude":38.812063,
     "geom:longitude":-123.021936,
@@ -28,16 +29,31 @@
     "sg:postcode":"95425",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1glFPQuFh5KLsaT11gScDe_38.812063_-123.021936@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d5acbb5e84353c2a76353c0335b3a149",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":555460967
+        }
+    ],
     "wof:id":555460967,
-    "wof:lastmodified":1472350644,
+    "wof:lastmodified":1491956727,
     "wof:name":"Imagination Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

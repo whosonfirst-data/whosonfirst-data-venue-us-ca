@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.203238,37.476095,-122.203238,37.476095",
     "geom:latitude":37.476095,
     "geom:longitude":-122.203238,
@@ -31,18 +32,35 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925811,
+        102085387,
+        85887035
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3g8QObtWQ5bJAh0CdcRT5g_37.476095_-122.203238@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"299ae5b9d2baa27964af1e4e6c84402c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925811,
+            "neighbourhood_id":85887035,
+            "region_id":85688637,
+            "venue_id":555104467
+        }
+    ],
     "wof:id":555104467,
-    "wof:lastmodified":1472340962,
+    "wof:lastmodified":1491956997,
     "wof:name":"Tomasa's Cleaning Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":85887035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

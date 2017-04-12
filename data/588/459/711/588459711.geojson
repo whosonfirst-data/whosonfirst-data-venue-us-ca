@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.121002,37.624901,-122.121002,37.624901",
     "geom:latitude":37.624901,
     "geom:longitude":-122.121002,
@@ -28,16 +29,31 @@
     "sg:postcode":"94545",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921895,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sYlrgwlH5GSRIjxrTeNoM_37.624901_-122.121002@1303263333"
     },
     "wof:country":"US",
     "wof:geomhash":"2c732b766726821804b0e0a41c9f7a93",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "region_id":85688637,
+            "venue_id":588459711
+        }
+    ],
     "wof:id":588459711,
-    "wof:lastmodified":1472350109,
+    "wof:lastmodified":1491948645,
     "wof:name":"Open Mri of Hayward & Pleasanton",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

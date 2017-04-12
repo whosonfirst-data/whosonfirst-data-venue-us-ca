@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.239057,34.04921,-118.239057,34.04921",
     "geom:latitude":34.04921,
     "geom:longitude":-118.239057,
@@ -31,11 +32,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561753,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85867339
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,21 @@
     "wof:geomhash":"b9d32e2da3d022094e2527447fc99962",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85867339,
+            "macrohood_id":1108694663,
+            "microhood_id":1108561753,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":387162951
         }
     ],
     "wof:id":387162951,
-    "wof:lastmodified":1472341178,
+    "wof:lastmodified":1491892566,
     "wof:name":"Catina Bar",
-    "wof:parent_id":85867339,
+    "wof:parent_id":1108561753,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

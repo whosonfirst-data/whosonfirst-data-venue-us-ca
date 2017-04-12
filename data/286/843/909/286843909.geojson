@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.455645,34.034149,-118.455645,34.034149",
     "geom:latitude":34.034149,
     "geom:longitude":-118.455645,
@@ -36,11 +37,13 @@
     "sg:website":"www.ballyfitness.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85847231",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85855873
+        85688637
     ],
     "wof:brand_id":420575381,
     "wof:breaches":[],
@@ -51,19 +54,20 @@
     "wof:geomhash":"95c38220c38fb6062171b5d5dd9e47db",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85855873,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85847231",
             "region_id":85688637,
             "venue_id":286843909
         }
     ],
     "wof:id":286843909,
-    "wof:lastmodified":1472335488,
+    "wof:lastmodified":1491884480,
     "wof:name":"Bally Total Fitness",
-    "wof:parent_id":85855873,
+    "wof:parent_id":"85847231",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

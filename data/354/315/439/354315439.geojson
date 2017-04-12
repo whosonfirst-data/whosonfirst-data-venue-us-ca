@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.734472,34.106997,-117.734472,34.106997",
     "geom:latitude":34.106997,
     "geom:longitude":-117.734472,
@@ -36,9 +37,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923671,
-        102086957
+        102086957,
+        85837921,
+        85923479,
+        85886117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,28 @@
     "wof:geomhash":"c17e3f03c7e8c7b0f5fe5767ce4a261b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923671,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85837921,
+            "region_id":85688637,
+            "venue_id":354315439
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923479,
+            "neighbourhood_id":85886117,
             "region_id":85688637,
             "venue_id":354315439
         }
     ],
     "wof:id":354315439,
-    "wof:lastmodified":1472335838,
+    "wof:lastmodified":1491920028,
     "wof:name":"Blockbuster Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

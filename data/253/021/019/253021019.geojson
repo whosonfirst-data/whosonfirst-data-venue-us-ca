@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.134949,33.760793,-118.134949,33.760793",
     "geom:latitude":33.760793,
     "geom:longitude":-118.134949,
@@ -34,8 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85923525,
         102086957,
+        85836293,
+        85871771,
         85805639
     ],
     "wof:breaches":[],
@@ -46,19 +51,35 @@
     "wof:geomhash":"89115c40fd7d204935a1302a6c13e3f1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":-1,
+            "locality_id":85923525,
+            "neighbourhood_id":85836293,
+            "region_id":85688637,
+            "venue_id":253021019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923525,
+            "neighbourhood_id":85871771,
+            "region_id":85688637,
+            "venue_id":253021019
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
             "neighbourhood_id":85805639,
             "region_id":85688637,
             "venue_id":253021019
         }
     ],
     "wof:id":253021019,
-    "wof:lastmodified":1472331028,
+    "wof:lastmodified":1491895003,
     "wof:name":"Anderson Custom Roofing",
-    "wof:parent_id":85805639,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

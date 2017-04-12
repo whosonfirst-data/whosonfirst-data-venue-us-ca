@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.068036,37.904526,-122.068036,37.904526",
     "geom:latitude":37.904526,
     "geom:longitude":-122.068036,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922117,
-        102086225
+        102086225,
+        85854323,
+        85888191
     ],
     "wof:brand_id":420574189,
     "wof:breaches":[],
@@ -47,19 +51,28 @@
     "wof:geomhash":"8741ed9dbc64ba0ebfbe2a001ab1890f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922117,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85854323,
+            "region_id":85688637,
+            "venue_id":386979577
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922117,
+            "neighbourhood_id":85888191,
             "region_id":85688637,
             "venue_id":386979577
         }
     ],
     "wof:id":386979577,
-    "wof:lastmodified":1472338823,
+    "wof:lastmodified":1491967643,
     "wof:name":"Countrywide Home Loans",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

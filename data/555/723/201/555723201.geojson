@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.804254,38.012734,-121.804254,38.012734",
     "geom:latitude":38.012734,
     "geom:longitude":-121.804254,
@@ -34,16 +35,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QGpY18kMGPbWNR8YZFlTz_38.012734_-121.804254@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"da7190ce9cd2b51f1e72030f49ab0b26",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":555723201
+        }
+    ],
     "wof:id":555723201,
-    "wof:lastmodified":1472352823,
+    "wof:lastmodified":1491964691,
     "wof:name":"Simonsen Climate Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.308819,34.031092,-118.308819,34.031092",
     "geom:latitude":34.031092,
     "geom:longitude":-118.308819,
@@ -29,12 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996447,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85811025,
-        85868349
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +46,20 @@
     "wof:geomhash":"8a6ea05db2c131c162e614ffad8b0d40",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85811025,
-            "region_id":85688637,
-            "venue_id":370701849
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868349,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996447,
             "region_id":85688637,
             "venue_id":370701849
         }
     ],
     "wof:id":370701849,
-    "wof:lastmodified":1472343285,
+    "wof:lastmodified":1491868455,
     "wof:name":"Triangle Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

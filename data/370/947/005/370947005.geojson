@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.37619,34.049761,-118.37619,34.049761",
     "geom:latitude":34.049761,
     "geom:longitude":-118.37619,
@@ -33,11 +34,13 @@
     "sg:website":"impressionhomefurnishing.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85869773
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"81e9697ef58a1c3563fc7b3a00c7b902",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869773,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370947005
         }
     ],
     "wof:id":370947005,
-    "wof:lastmodified":1472348118,
+    "wof:lastmodified":1491912156,
     "wof:name":"Impressions Home Furnishing",
-    "wof:parent_id":85869773,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.882144,37.70602,-121.882144,37.70602",
     "geom:latitude":37.70602,
     "geom:longitude":-121.882144,
@@ -29,16 +30,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.supergen.com/",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3B83W7tuIIFLhHdP9wVNUi_37.706020_-121.882144@1308186497"
     },
     "wof:country":"US",
     "wof:geomhash":"fae75235cfd88c844bda3ca9d834b2fd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588727985
+        }
+    ],
     "wof:id":588727985,
-    "wof:lastmodified":1472353594,
+    "wof:lastmodified":1491959911,
     "wof:name":"SuperGen",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

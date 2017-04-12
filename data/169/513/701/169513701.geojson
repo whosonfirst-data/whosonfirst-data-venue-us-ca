@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.289729,34.034458,-118.289729,34.034458",
     "geom:latitude":34.034458,
     "geom:longitude":-118.289729,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85869325
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +50,20 @@
     "wof:geomhash":"9d18f7c575ddf8b14461b4ab02c59e34",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869325,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":169513701
         }
     ],
     "wof:id":169513701,
-    "wof:lastmodified":1472333418,
+    "wof:lastmodified":1491867533,
     "wof:name":"Garcia's Custom Hand Tie",
-    "wof:parent_id":85869325,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

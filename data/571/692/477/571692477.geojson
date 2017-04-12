@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.604636,38.162657,-121.604636,38.162657",
     "geom:latitude":38.162657,
     "geom:longitude":-121.604636,
@@ -31,16 +32,31 @@
         "candle"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922855,
+        102082889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LqErnOYj4v4UHydzvLBER_38.162657_-121.604636@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"ad1bd1232ab0ffd994fe7ac8a077845b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85922855,
+            "region_id":85688637,
+            "venue_id":571692477
+        }
+    ],
     "wof:id":571692477,
-    "wof:lastmodified":1472343124,
+    "wof:lastmodified":1491962943,
     "wof:name":"Luna Candleworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

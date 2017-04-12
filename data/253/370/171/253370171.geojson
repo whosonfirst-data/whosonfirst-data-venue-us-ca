@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.048065,38.340652,-123.048065,38.340652",
     "geom:latitude":38.340652,
     "geom:longitude":-123.048065,
@@ -33,8 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,17 @@
     "wof:geomhash":"0b9d694771d7f979055f3ad7608929df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85822633,
             "region_id":85688637,
             "venue_id":253370171
         }
     ],
     "wof:id":253370171,
-    "wof:lastmodified":1472333540,
+    "wof:lastmodified":1491959413,
     "wof:name":"Road House Coffee Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":85822633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

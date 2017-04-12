@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.903717,37.69595,-121.903717,37.69595",
     "geom:latitude":37.69595,
     "geom:longitude":-121.903717,
@@ -41,16 +42,31 @@
     ],
     "sg:website":"http://www.gmorgan.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44icdyNzOVh0O77FPv4IV8_37.695950_-121.903717@1303263338"
     },
     "wof:country":"US",
     "wof:geomhash":"ce2d99971381938c39980d62772c732a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":588477495
+        }
+    ],
     "wof:id":588477495,
-    "wof:lastmodified":1472350655,
+    "wof:lastmodified":1491963566,
     "wof:name":"Grant Morgan Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

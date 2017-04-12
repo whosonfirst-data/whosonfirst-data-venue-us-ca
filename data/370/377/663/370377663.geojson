@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.235001,33.945,-118.235001,33.945",
     "geom:latitude":33.945,
     "geom:longitude":-118.235001,
@@ -34,11 +35,14 @@
     "sg:website":"www.prototypes.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108827623,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
-        85923799,
+        85923517,
         102086957,
-        85867337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"edbfcd355eff962ce8eaf5968e9d8e0c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923799,
-            "neighbourhood_id":85867337,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827623,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":370377663
         }
     ],
     "wof:id":370377663,
-    "wof:lastmodified":1472340193,
+    "wof:lastmodified":1491867852,
     "wof:name":"Wellness Village",
-    "wof:parent_id":85867337,
+    "wof:parent_id":1108827623,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.359493,34.235467,-118.359493,34.235467",
     "geom:latitude":34.235467,
     "geom:longitude":-118.359493,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85851411
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"be9b6f037e27a6fd3878005c80ece278",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85851411,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":320409455
         }
     ],
     "wof:id":320409455,
-    "wof:lastmodified":1472335250,
+    "wof:lastmodified":1491930954,
     "wof:name":"Big Red Machining Company",
-    "wof:parent_id":85851411,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

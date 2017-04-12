@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576899,37.99496,-122.576899,37.99496",
     "geom:latitude":37.99496,
     "geom:longitude":-122.576899,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922009,
-        102084353
+        102084353,
+        85887203,
+        420551409
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"559b73edc4c4eb1f9439afa5d1322f6b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922009,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887203,
+            "region_id":85688637,
+            "venue_id":236158639
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922009,
+            "neighbourhood_id":420551409,
             "region_id":85688637,
             "venue_id":236158639
         }
     ],
     "wof:id":236158639,
-    "wof:lastmodified":1472331643,
+    "wof:lastmodified":1491965286,
     "wof:name":"Absolute Gutter Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309202,34.072032,-118.309202,34.072032",
     "geom:latitude":34.072032,
     "geom:longitude":-118.309202,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +53,20 @@
     "wof:geomhash":"093658ee3003fc7f8ec3806efb6c49cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370352649
         }
     ],
     "wof:id":370352649,
-    "wof:lastmodified":1472339654,
+    "wof:lastmodified":1491923955,
     "wof:name":"Everlux Inc",
-    "wof:parent_id":85886329,
+    "wof:parent_id":"85865819",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

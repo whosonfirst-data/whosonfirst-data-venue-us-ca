@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.965654,37.784603,-121.965654,37.784603",
     "geom:latitude":37.784603,
     "geom:longitude":-121.965654,
@@ -37,16 +38,31 @@
         "furniture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Crt9DoQi7y3cDzoHh2FK0_37.784603_-121.965654@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"9ff4e911e1e9766a2933649b00444c16",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446089
+        }
+    ],
     "wof:id":588446089,
-    "wof:lastmodified":1472349605,
+    "wof:lastmodified":1491966960,
     "wof:name":"OfficeFurniture com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

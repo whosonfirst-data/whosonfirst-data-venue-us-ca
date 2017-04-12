@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.160843,37.443399,-122.160843,37.443399",
     "geom:latitude":37.443399,
     "geom:longitude":-122.160843,
@@ -46,16 +47,31 @@
     ],
     "sg:website":"http://www.company.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4drUnStTmjSyS7LgVbyH7O_37.443399_-122.160843@1308186499"
     },
     "wof:country":"US",
     "wof:geomhash":"584f2d0349479646208b3d545405095c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588732629
+        }
+    ],
     "wof:id":588732629,
-    "wof:lastmodified":1472353613,
+    "wof:lastmodified":1491957429,
     "wof:name":"Company.com",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

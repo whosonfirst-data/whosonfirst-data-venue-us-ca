@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.30897,34.019187,-118.30897,34.019187",
     "geom:latitude":34.019187,
     "geom:longitude":-118.30897,
@@ -33,7 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -44,18 +50,20 @@
     "wof:geomhash":"6479a80da0f4a61456f79502277f4d59",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":387929955
         }
     ],
     "wof:id":387929955,
-    "wof:lastmodified":1472351139,
+    "wof:lastmodified":1491868246,
     "wof:name":"Antique Stove Restoration",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

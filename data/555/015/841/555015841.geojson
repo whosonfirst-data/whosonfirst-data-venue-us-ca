@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.94553,37.482713,-121.94553,37.482713",
     "geom:latitude":37.482713,
     "geom:longitude":-121.94553,
@@ -29,16 +30,31 @@
     "sg:province":"CA",
     "sg:website":"www.acmrc.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gsXAtHlWePKCFc3DHAlLr_37.482713_-121.945530@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"7be5e306ad6e4c44293bf4a021297f89",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555015841
+        }
+    ],
     "wof:id":555015841,
-    "wof:lastmodified":1472338401,
+    "wof:lastmodified":1491970973,
     "wof:name":"ACM Research Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

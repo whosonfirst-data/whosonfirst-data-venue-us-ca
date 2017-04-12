@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.036017,37.416601,-122.036017,37.416601",
     "geom:latitude":37.416601,
     "geom:longitude":-122.036017,
@@ -32,16 +33,31 @@
         "state"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922333,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oVQ0ynBpA572dbDPxbMIH_37.416601_-122.036017@1303263309"
     },
     "wof:country":"US",
     "wof:geomhash":"dfb232e4c86d7523bf7b13a0fe5452ca",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "region_id":85688637,
+            "venue_id":588362137
+        }
+    ],
     "wof:id":588362137,
-    "wof:lastmodified":1472344054,
+    "wof:lastmodified":1491956685,
     "wof:name":"Sunnyvale Air Force Station",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

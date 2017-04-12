@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.03939,37.917524,-122.03939,37.917524",
     "geom:latitude":37.917524,
     "geom:longitude":-122.03939,
@@ -34,10 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922117,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922117,
+        102086225,
+        85888203,
+        85888187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +51,28 @@
     "wof:geomhash":"14017955fb53ef493a0c106b859c6f9a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922117,
+            "neighbourhood_id":85888203,
+            "region_id":85688637,
+            "venue_id":169524425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922117,
+            "neighbourhood_id":85888187,
             "region_id":85688637,
             "venue_id":169524425
         }
     ],
     "wof:id":169524425,
-    "wof:lastmodified":1472333912,
+    "wof:lastmodified":1491963728,
     "wof:name":"Walnut Creek Counseling Assoc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

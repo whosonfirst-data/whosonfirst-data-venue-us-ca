@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.291613,34.013826,-118.291613,34.013826",
     "geom:latitude":34.013826,
     "geom:longitude":-118.291613,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868363
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,18 +49,20 @@
     "wof:geomhash":"f369ed571d238fff05ad37871ed41f01",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868363,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":169460229
         }
     ],
     "wof:id":169460229,
-    "wof:lastmodified":1472331454,
+    "wof:lastmodified":1491867845,
     "wof:name":"Botanica El Sagrado Corazon",
-    "wof:parent_id":85868363,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

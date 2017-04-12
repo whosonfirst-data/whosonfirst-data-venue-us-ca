@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.255222,34.048612,-118.255222,34.048612",
     "geom:latitude":34.048612,
     "geom:longitude":-118.255222,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456421,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"7ab9ee43d36a3855533e08afe2fa4be8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456421,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":236278587
         }
     ],
     "wof:id":236278587,
-    "wof:lastmodified":1472332637,
+    "wof:lastmodified":1491928072,
     "wof:name":"Rainbow Jewelry Design",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1092456421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

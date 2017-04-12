@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.38635,34.055265,-118.38635,34.055265",
     "geom:latitude":34.055265,
     "geom:longitude":-118.38635,
@@ -30,11 +31,13 @@
     "sg:website":"www.judaismbychoice.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
-        85923701,
+        85923517,
         102086957,
-        85868357
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"e58138e82ba67aebfb0f32f2e69c4d0e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923701,
-            "neighbourhood_id":85868357,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370947335
         }
     ],
     "wof:id":370947335,
-    "wof:lastmodified":1472348324,
+    "wof:lastmodified":1491912160,
     "wof:name":"Judaism By Choice",
-    "wof:parent_id":85868357,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.200442,38.065383,-122.200442,38.065383",
     "geom:latitude":38.065383,
     "geom:longitude":-122.200442,
@@ -33,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922643,
         102087589,
+        420558859,
         85821811
     ],
     "wof:breaches":[],
@@ -46,7 +49,16 @@
     "wof:geomhash":"1645ca7213b17e0d67603c2472cfb105",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922643,
+            "neighbourhood_id":420558859,
+            "region_id":85688637,
+            "venue_id":353775337
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087589,
             "locality_id":85922643,
@@ -56,9 +68,9 @@
         }
     ],
     "wof:id":353775337,
-    "wof:lastmodified":1472335775,
+    "wof:lastmodified":1491965978,
     "wof:name":"Associated Builders",
-    "wof:parent_id":85821811,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

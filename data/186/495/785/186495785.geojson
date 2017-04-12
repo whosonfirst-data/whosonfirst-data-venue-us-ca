@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.862614,36.807677,-119.862614,36.807677",
     "geom:latitude":36.807677,
     "geom:longitude":-119.862614,
@@ -36,10 +37,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922995,
         102084347,
-        85806157
+        85806157,
+        85819253,
+        85836109,
+        85825297
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +54,46 @@
     "wof:geomhash":"6247861eec305d58b76623097cd68a42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084347,
             "locality_id":85922995,
             "neighbourhood_id":85806157,
             "region_id":85688637,
             "venue_id":186495785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85819253,
+            "region_id":85688637,
+            "venue_id":186495785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85836109,
+            "region_id":85688637,
+            "venue_id":186495785
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85825297,
+            "region_id":85688637,
+            "venue_id":186495785
         }
     ],
     "wof:id":186495785,
-    "wof:lastmodified":1472332679,
+    "wof:lastmodified":1491893848,
     "wof:name":"Rinker Materials Hydro Conduit",
-    "wof:parent_id":85806157,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

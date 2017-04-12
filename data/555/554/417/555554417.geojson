@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.01782,38.798254,-123.01782,38.798254",
     "geom:latitude":38.798254,
     "geom:longitude":-123.01782,
@@ -32,16 +33,31 @@
         "physical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1XU5mstgRP0bUcPiQd3RXf_38.798254_-123.017820@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c7416eabfc92320cc833ec4ca68f5692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":555554417
+        }
+    ],
     "wof:id":555554417,
-    "wof:lastmodified":1472351572,
+    "wof:lastmodified":1491970508,
     "wof:name":"Healdsburg General Hosp Rehab",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

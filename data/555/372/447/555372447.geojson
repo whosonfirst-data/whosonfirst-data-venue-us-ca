@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.054221,37.683946,-122.054221,37.683946",
     "geom:latitude":37.683946,
     "geom:longitude":-122.054221,
@@ -32,16 +33,25 @@
         "residential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YHijiZXKpTYvpTr2AHuE4_37.683946_-122.054221@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b80719129a85d43b30391b55261c8dc8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":555372447
+        }
+    ],
     "wof:id":555372447,
-    "wof:lastmodified":1472349145,
+    "wof:lastmodified":1491963759,
     "wof:name":"Canovas Home",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.570827,38.57602,-122.570827,38.57602",
     "geom:latitude":38.57602,
     "geom:longitude":-122.570827,
@@ -31,16 +32,31 @@
         "ambulance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_149hfw4TFfVpT9ayYF0Zz5_38.576020_-122.570827@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c8ae1bca2758dbe3ee1bbad57a81ac47",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":571584435
+        }
+    ],
     "wof:id":571584435,
-    "wof:lastmodified":1472341168,
+    "wof:lastmodified":1491967148,
     "wof:name":"Fern Piner",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

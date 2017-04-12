@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.049004,37.676701,-122.049004,37.676701",
     "geom:latitude":37.676701,
     "geom:longitude":-122.049004,
@@ -32,16 +33,25 @@
         "cemetery"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y5yEcM0MNcxbhDsnX98cc_37.677006_-122.049057@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"0019e1d1382d88028edde6c0c15f728a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":572111159
+        }
+    ],
     "wof:id":572111159,
-    "wof:lastmodified":1472341924,
+    "wof:lastmodified":1491968460,
     "wof:name":"Lone Tree Cemetery",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

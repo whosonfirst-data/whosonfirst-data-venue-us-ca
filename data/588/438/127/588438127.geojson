@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.621933,37.88954,-121.621933,37.88954",
     "geom:latitude":37.88954,
     "geom:longitude":-121.621933,
@@ -31,16 +32,31 @@
         "drugstore"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925147,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19Ph7KcQq1YAeiu3otVPhi_37.889540_-121.621933@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"fa26149e9483061d2e5dcdb8f364b6f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925147,
+            "region_id":85688637,
+            "venue_id":588438127
+        }
+    ],
     "wof:id":588438127,
-    "wof:lastmodified":1472349428,
+    "wof:lastmodified":1491960476,
     "wof:name":"CVS pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

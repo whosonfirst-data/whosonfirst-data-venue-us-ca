@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.255236,37.893066,-122.255236,37.893066",
     "geom:latitude":37.893066,
     "geom:longitude":-122.255236,
@@ -31,16 +32,31 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02MQ0shZGjGhNsQjnEvSv4_37.893066_-122.255236@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"adb5dcf2bea98743718231397cdbbaef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":555171675
+        }
+    ],
     "wof:id":555171675,
-    "wof:lastmodified":1472342423,
+    "wof:lastmodified":1491965697,
     "wof:name":"Ben R Ford Jr PE",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

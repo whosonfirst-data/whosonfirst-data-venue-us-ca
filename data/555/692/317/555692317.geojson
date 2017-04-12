@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.015003,38.804621,-123.015003,38.804621",
     "geom:latitude":38.804621,
     "geom:longitude":-123.015003,
@@ -28,16 +29,31 @@
     "sg:postcode":"95425",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HVFM7OYGISQdDcLUExGP9_38.804621_-123.015003@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"68152748db7eb39dd68416e36f56e993",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":555692317
+        }
+    ],
     "wof:id":555692317,
-    "wof:lastmodified":1472352583,
+    "wof:lastmodified":1491961802,
     "wof:name":"North Coast Logistics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

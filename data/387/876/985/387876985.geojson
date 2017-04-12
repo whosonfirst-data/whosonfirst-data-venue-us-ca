@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.9802,37.33913,-121.9802,37.33913",
     "geom:latitude":37.33913,
     "geom:longitude":-121.9802,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922341,
-        102081673
+        102081673,
+        85881193,
+        85833811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"5bd8f7c7b2eaf8e6bd6bdc3715b019b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922341,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881193,
+            "region_id":85688637,
+            "venue_id":387876985
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922341,
+            "neighbourhood_id":85833811,
             "region_id":85688637,
             "venue_id":387876985
         }
     ],
     "wof:id":387876985,
-    "wof:lastmodified":1472350603,
+    "wof:lastmodified":1491956368,
     "wof:name":"RDO Publications",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

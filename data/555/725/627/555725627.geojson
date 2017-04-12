@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.290281,38.280142,-122.290281,38.280142",
     "geom:latitude":38.280142,
     "geom:longitude":-122.290281,
@@ -31,16 +32,25 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xSeV82AGCZcoWUaE5r4wX_38.280142_-122.290281@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c275c33bf8af7fcc2c4d2134fcc7d03d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":555725627
+        }
+    ],
     "wof:id":555725627,
-    "wof:lastmodified":1472352927,
+    "wof:lastmodified":1491965493,
     "wof:name":"Marina Park Apartments",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

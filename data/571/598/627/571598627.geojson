@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.151953,38.048921,-122.151953,38.048921",
     "geom:latitude":38.048921,
     "geom:longitude":-122.151953,
@@ -33,16 +34,31 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UxVx72dA8LfWQs1z7qI2O_38.048921_-122.151953@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"039a2bd9d630f8d87f9c712c8fde20e7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":571598627
+        }
+    ],
     "wof:id":571598627,
-    "wof:lastmodified":1472341507,
+    "wof:lastmodified":1491970424,
     "wof:name":"Benicia Little League",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

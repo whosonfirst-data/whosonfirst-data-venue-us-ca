@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.994751,37.77519,-121.994751,37.77519",
     "geom:latitude":37.77519,
     "geom:longitude":-121.994751,
@@ -32,16 +33,31 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PuOKWQpj7TJSvA1S5CJMS_37.775190_-121.994751@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d45253be426cd1e86d407b6dd35c5728",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555435655
+        }
+    ],
     "wof:id":555435655,
-    "wof:lastmodified":1472349842,
+    "wof:lastmodified":1491956895,
     "wof:name":"Cavalier Collectibles",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

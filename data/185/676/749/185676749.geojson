@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.106327,37.708195,-122.106327,37.708195",
     "geom:latitude":37.708195,
     "geom:longitude":-122.106327,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85924511,
-        102086959
+        102086959,
+        85818597,
+        420550343
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"26fb4c9c0a9023512406dcdd5f239666",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85924511,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85818597,
+            "region_id":85688637,
+            "venue_id":185676749
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85924511,
+            "neighbourhood_id":420550343,
             "region_id":85688637,
             "venue_id":185676749
         }
     ],
     "wof:id":185676749,
-    "wof:lastmodified":1472331093,
+    "wof:lastmodified":1491958056,
     "wof:name":"Cardoza Window Remodeling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

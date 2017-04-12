@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.574621,38.577259,-122.574621,38.577259",
     "geom:latitude":38.577259,
     "geom:longitude":-122.574621,
@@ -31,16 +32,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S0rpLhKF3fFEHP8jBC25b_38.577259_-122.574621@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"d9431aad3bc78bb0414201196278fbb4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":588443083
+        }
+    ],
     "wof:id":588443083,
-    "wof:lastmodified":1472349584,
+    "wof:lastmodified":1491967155,
     "wof:name":"Farris Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

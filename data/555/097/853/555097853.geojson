@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.032989,37.852229,-122.032989,37.852229",
     "geom:latitude":37.852229,
     "geom:longitude":-122.032989,
@@ -33,16 +34,31 @@
         "family"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kaJkiqe0ovTGHRDKZdWN0_37.852229_-122.032989@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"ce5c1cf3b3cc6cd47ea2c2f950523e23",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":555097853
+        }
+    ],
     "wof:id":555097853,
-    "wof:lastmodified":1472340840,
+    "wof:lastmodified":1491963730,
     "wof:name":"Nancy C Joyce",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

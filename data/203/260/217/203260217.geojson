@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.455061,37.638034,-122.455061,37.638034",
     "geom:latitude":37.638034,
     "geom:longitude":-122.455061,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922441,
-        102085387
+        102085387,
+        420552427,
+        85922427,
+        85888111
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"c06d4abb3aefbba1934c254ccf572176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922441,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552427,
+            "region_id":85688637,
+            "venue_id":203260217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922427,
+            "neighbourhood_id":85888111,
             "region_id":85688637,
             "venue_id":203260217
         }
     ],
     "wof:id":203260217,
-    "wof:lastmodified":1472332082,
+    "wof:lastmodified":1491950069,
     "wof:name":"Choi Boiler Services",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

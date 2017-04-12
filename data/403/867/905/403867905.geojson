@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.386156,37.591815,-122.386156,37.591815",
     "geom:latitude":37.591815,
     "geom:longitude":-122.386156,
@@ -31,9 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922537,
-        102085387
+        85922499,
+        102085387,
+        85886435,
+        85886431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,26 @@
     "wof:geomhash":"b02a486f974c476ae4357f2b08f38afa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
-            "locality_id":85922537,
-            "neighbourhood_id":-1,
+            "locality_id":85922499,
+            "neighbourhood_id":85886435,
+            "region_id":85688637,
+            "venue_id":403867905
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085387,
+            "neighbourhood_id":85886431,
             "region_id":85688637,
             "venue_id":403867905
         }
     ],
     "wof:id":403867905,
-    "wof:lastmodified":1472341384,
+    "wof:lastmodified":1491948523,
     "wof:name":"Hospital Consortium-San Mateo",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

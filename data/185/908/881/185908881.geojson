@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.468802,33.907709,-117.468802,33.907709",
     "geom:latitude":33.907709,
     "geom:longitude":-117.468802,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923345,
-        102086221
+        102086221,
+        85873345,
+        85803495,
+        85828951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,37 @@
     "wof:geomhash":"a159286ba0f633cc0c9c4081a06ef176",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923345,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85873345,
+            "region_id":85688637,
+            "venue_id":185908881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85803495,
+            "region_id":85688637,
+            "venue_id":185908881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85828951,
             "region_id":85688637,
             "venue_id":185908881
         }
     ],
     "wof:id":185908881,
-    "wof:lastmodified":1472333207,
+    "wof:lastmodified":1491912836,
     "wof:name":"Atlas Medical Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

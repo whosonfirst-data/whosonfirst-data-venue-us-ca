@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.143197,33.75813,-118.143197,33.75813",
     "geom:latitude":33.75813,
     "geom:longitude":-118.143197,
@@ -33,11 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85805639,
         85923525,
-        85871771
+        102086957,
+        85871771,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +49,26 @@
     "wof:geomhash":"400a5baad6141e54161bbb2edeb25697",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":370348275
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923525,
             "neighbourhood_id":85871771,
             "region_id":85688637,
             "venue_id":370348275
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":370348275
         }
     ],
     "wof:id":370348275,
-    "wof:lastmodified":1472339647,
+    "wof:lastmodified":1491894999,
     "wof:name":"Town Appraisal",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

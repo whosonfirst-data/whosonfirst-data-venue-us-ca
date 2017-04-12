@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.330751,33.997789,-118.330751,33.997789",
     "geom:latitude":33.997789,
     "geom:longitude":-118.330751,
@@ -33,11 +34,13 @@
     "sg:website":"www.bethesdatemplela.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85865801
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"7d04cab1bff39c6fb08356eb6eabbad6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865801,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":387477233
         }
     ],
     "wof:id":387477233,
-    "wof:lastmodified":1472343679,
+    "wof:lastmodified":1491867497,
     "wof:name":"Bethesda Temple Church",
-    "wof:parent_id":85865801,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

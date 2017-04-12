@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.254037,34.055787,-118.254037,34.055787",
     "geom:latitude":34.055787,
     "geom:longitude":-118.254037,
@@ -33,11 +34,13 @@
     "sg:website":"www.uclaextension.edu/extn/figco...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869149
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"8b9efc20a342d890091a0923e6f17fd9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869149,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":387133241
         }
     ],
     "wof:id":387133241,
-    "wof:lastmodified":1472340677,
+    "wof:lastmodified":1491928096,
     "wof:name":"UCLA Extension at Figueroa Courtyard - DOWNTOWN",
-    "wof:parent_id":85869149,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

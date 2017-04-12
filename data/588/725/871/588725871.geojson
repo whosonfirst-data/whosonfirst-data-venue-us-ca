@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.416436,37.669995,-122.416436,37.669995",
     "geom:latitude":37.669995,
     "geom:longitude":-122.416436,
@@ -40,7 +41,10 @@
         85633793,
         85922551,
         102085387,
-        85888099
+        85888099,
+        102191575,
+        85922427,
+        85888101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +60,21 @@
             "neighbourhood_id":85888099,
             "region_id":85688637,
             "venue_id":588725871
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922427,
+            "neighbourhood_id":85888101,
+            "region_id":85688637,
+            "venue_id":588725871
         }
     ],
     "wof:id":588725871,
-    "wof:lastmodified":1472353584,
+    "wof:lastmodified":1491958145,
     "wof:name":"Vizu Corporation",
-    "wof:parent_id":85888099,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

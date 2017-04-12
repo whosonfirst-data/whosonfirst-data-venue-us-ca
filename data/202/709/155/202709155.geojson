@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.344215,33.978172,-117.344215,33.978172",
     "geom:latitude":33.978172,
     "geom:longitude":-117.344215,
@@ -34,10 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923345,
         102086221,
-        85873333
+        85845053,
+        85873333,
+        85873337
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,37 @@
     "wof:geomhash":"d4ba6689a1a997316c9361b57431f31a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85845053,
+            "region_id":85688637,
+            "venue_id":202709155
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923345,
             "neighbourhood_id":85873333,
             "region_id":85688637,
             "venue_id":202709155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85873337,
+            "region_id":85688637,
+            "venue_id":202709155
         }
     ],
     "wof:id":202709155,
-    "wof:lastmodified":1472332661,
+    "wof:lastmodified":1491916912,
     "wof:name":"Sports Distributing",
-    "wof:parent_id":85873333,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

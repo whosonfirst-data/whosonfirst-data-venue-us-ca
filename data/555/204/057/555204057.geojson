@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.638978,37.898403,-122.638978,37.898403",
     "geom:latitude":37.898403,
     "geom:longitude":-122.638978,
@@ -31,16 +32,31 @@
         "craft"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924641,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qwqofPHUROgT2DgwhAqoD_37.898403_-122.638978@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"38841856b210bcee91c560afa610ceef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924641,
+            "region_id":85688637,
+            "venue_id":555204057
+        }
+    ],
     "wof:id":555204057,
-    "wof:lastmodified":1472342843,
+    "wof:lastmodified":1491963596,
     "wof:name":"By Hand",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

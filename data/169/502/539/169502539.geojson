@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.081275,37.973161,-122.081275,37.973161",
     "geom:latitude":37.973161,
     "geom:longitude":-122.081275,
@@ -34,10 +35,12 @@
     "sg:website":"www.contracostacc.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922135,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85922135,
+        102086225,
+        420550483
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +50,19 @@
     "wof:geomhash":"d1d8e50d166bfc1da408da3c6cc5ed31",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922135,
+            "neighbourhood_id":420550483,
             "region_id":85688637,
             "venue_id":169502539
         }
     ],
     "wof:id":169502539,
-    "wof:lastmodified":1472333107,
+    "wof:lastmodified":1491961474,
     "wof:name":"Contra Costa Country Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550483,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.258832,34.045343,-118.258832,34.045343",
     "geom:latitude":34.045343,
     "geom:longitude":-118.258832,
@@ -34,11 +35,13 @@
     "sg:website":"www.girlscoutsla.org/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:brand_id":420575443,
     "wof:breaches":[],
@@ -49,19 +52,20 @@
     "wof:geomhash":"f6beb5422289a5f3a08d95554fae3521",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370669531
         }
     ],
     "wof:id":370669531,
-    "wof:lastmodified":1472343069,
+    "wof:lastmodified":1491927997,
     "wof:name":"Girl Scouts",
-    "wof:parent_id":85865811,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

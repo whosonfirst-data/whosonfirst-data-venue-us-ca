@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.250963,34.045956,-118.250963,34.045956",
     "geom:latitude":34.045956,
     "geom:longitude":-118.250963,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108564571,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869267
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"35936e8ed82f6e1e6f307dde7d47894d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869267,
+            "macrohood_id":1108694663,
+            "microhood_id":1108564571,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":186352615
         }
     ],
     "wof:id":186352615,
-    "wof:lastmodified":1472331540,
+    "wof:lastmodified":1491928858,
     "wof:name":"Young & Co Advertising",
-    "wof:parent_id":85869267,
+    "wof:parent_id":1108564571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

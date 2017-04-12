@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.293329,38.27986,-122.293329,38.27986",
     "geom:latitude":38.27986,
     "geom:longitude":-122.293329,
@@ -31,16 +32,25 @@
         "citizen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UOgsxXncuWKv1PFi3pJd3_38.279860_-122.293329@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"2eec47860b0d99757db4d0ae5d742d77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":588466797
+        }
+    ],
     "wof:id":588466797,
-    "wof:lastmodified":1472350477,
+    "wof:lastmodified":1491963000,
     "wof:name":"Alternative Beginnings",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230394,33.93338,-118.230394,33.93338",
     "geom:latitude":33.93338,
     "geom:longitude":-118.230394,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
-        85923511,
+        85923517,
         102086957,
-        85867333
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"42ba7739091b27a8fa49217a79f3811a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923511,
-            "neighbourhood_id":85867333,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":320458661
         }
     ],
     "wof:id":320458661,
-    "wof:lastmodified":1472335466,
+    "wof:lastmodified":1491867884,
     "wof:name":"Joy Gift & Tailor",
-    "wof:parent_id":85867333,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

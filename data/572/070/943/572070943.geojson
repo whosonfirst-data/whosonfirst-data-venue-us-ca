@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26137,37.894594,-122.26137,37.894594",
     "geom:latitude":37.894594,
     "geom:longitude":-122.26137,
@@ -32,16 +33,31 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4c5ySWIuXEQBkaRwpXg4md_37.894385_-122.261310@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"6b84e775c9eab82dd2a4ea50b17539a8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":572070943
+        }
+    ],
     "wof:id":572070943,
-    "wof:lastmodified":1472340383,
+    "wof:lastmodified":1491949091,
     "wof:name":"Sun Fountain",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

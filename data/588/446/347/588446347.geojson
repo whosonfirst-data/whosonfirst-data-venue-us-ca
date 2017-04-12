@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.000147,37.821851,-122.000147,37.821851",
     "geom:latitude":37.821851,
     "geom:longitude":-122.000147,
@@ -51,16 +52,31 @@
         "shows"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PIiVU2bu56SK6e0JzBbAN_37.821851_-122.000147@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"28071f1296718c5a1a2e5186b137215a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446347
+        }
+    ],
     "wof:id":588446347,
-    "wof:lastmodified":1472349681,
+    "wof:lastmodified":1491956837,
     "wof:name":"Corporate Couture",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

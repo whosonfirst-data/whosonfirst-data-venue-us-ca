@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.59536,34.19369,-118.59536,34.19369",
     "geom:latitude":34.19369,
     "geom:longitude":-118.59536,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691517,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85858293
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"a71c9edab8d56512ece6ad959291c38e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858293,
+            "macrohood_id":1108692439,
+            "microhood_id":1108691517,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":286623669
         }
     ],
     "wof:id":286623669,
-    "wof:lastmodified":1472334538,
+    "wof:lastmodified":1491888795,
     "wof:name":"Air King Heating & AC",
-    "wof:parent_id":85858293,
+    "wof:parent_id":1108691517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.933626,37.70722,-121.933626,37.70722",
     "geom:latitude":37.70722,
     "geom:longitude":-121.933626,
@@ -63,16 +64,31 @@
     ],
     "sg:website":"http://www.fastsigns.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DZi5hjLQ1JulW48bgiHZL_37.707220_-121.933626@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"58cd5a05b46123091252bbb9b8e85753",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471433
+        }
+    ],
     "wof:id":588471433,
-    "wof:lastmodified":1472350575,
+    "wof:lastmodified":1491967551,
     "wof:name":"FASTSIGNS",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

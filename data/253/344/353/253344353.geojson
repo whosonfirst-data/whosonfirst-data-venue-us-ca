@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.243334,34.053862,-118.243334,34.053862",
     "geom:latitude":34.053862,
     "geom:longitude":-118.243334,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091736553,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85866227
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"09e4ba2cc966ad034c6964b41326e130",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85866227,
+            "macrohood_id":1108694663,
+            "microhood_id":1091736553,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":253344353
         }
     ],
     "wof:id":253344353,
-    "wof:lastmodified":1472333305,
+    "wof:lastmodified":1491927826,
     "wof:name":"Cultural Heritage Board",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

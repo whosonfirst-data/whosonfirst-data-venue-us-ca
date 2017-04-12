@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.534392,37.939281,-122.534392,37.939281",
     "geom:latitude":37.939281,
     "geom:longitude":-122.534392,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922027,
-        102084353
+        102084353,
+        420551323,
+        85886273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"9425d6b3fe9464f77ab57023571b3e29",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922027,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551323,
+            "region_id":85688637,
+            "venue_id":236029567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":85886273,
             "region_id":85688637,
             "venue_id":236029567
         }
     ],
     "wof:id":236029567,
-    "wof:lastmodified":1472331046,
+    "wof:lastmodified":1491971207,
     "wof:name":"Mt Tam Racquet Club",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

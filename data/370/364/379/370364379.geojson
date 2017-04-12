@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.086555,37.614204,-122.086555,37.614204",
     "geom:latitude":37.614204,
     "geom:longitude":-122.086555,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921895,
-        102086959
+        102086959,
+        85868333,
+        85878049
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"6ad4438da1d33ef6c31d9e770eaa693d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85868333,
+            "region_id":85688637,
+            "venue_id":370364379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878049,
             "region_id":85688637,
             "venue_id":370364379
         }
     ],
     "wof:id":370364379,
-    "wof:lastmodified":1472339918,
+    "wof:lastmodified":1491966234,
     "wof:name":"Pepsico",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

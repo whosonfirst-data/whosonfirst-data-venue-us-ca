@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.518001,37.929901,-122.518001,37.929901",
     "geom:latitude":37.929901,
     "geom:longitude":-122.518001,
@@ -30,9 +31,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922027,
+        102084353,
+        85886273,
         85922083,
-        102084353
+        85833493,
+        85886027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +48,37 @@
     "wof:geomhash":"13f4f96558f907106b46814b78019073",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":85886273,
+            "region_id":85688637,
+            "venue_id":370542421
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922083,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85833493,
+            "region_id":85688637,
+            "venue_id":370542421
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":85886027,
             "region_id":85688637,
             "venue_id":370542421
         }
     ],
     "wof:id":370542421,
-    "wof:lastmodified":1472342305,
+    "wof:lastmodified":1491970874,
     "wof:name":"B & B Auto Parts Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

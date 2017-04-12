@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.33838,34.012971,-118.33838,34.012971",
     "geom:latitude":34.012971,
     "geom:longitude":-118.33838,
@@ -29,12 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531575,
+        1041531571,
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868341
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868341,
+            "macrohood_id":1108692435,
+            "microhood_id":1041531575,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":555622975
         }
     ],
     "wof:id":555622975,
-    "wof:lastmodified":1472352048,
+    "wof:lastmodified":1491867950,
     "wof:name":"Eley Kamaura Eclectic Salon",
-    "wof:parent_id":85868341,
+    "wof:parent_id":1041531575,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

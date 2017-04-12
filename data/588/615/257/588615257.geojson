@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.3937,38.118608,-121.3937,38.118608",
     "geom:latitude":38.118608,
     "geom:longitude":-121.3937,
@@ -37,16 +38,29 @@
     ],
     "sg:website":"http://www.dennys.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20SFf9ZHCwy4T5i45URWGf_38.118608_-121.393700@1303263374"
     },
     "wof:country":"US",
     "wof:geomhash":"9726203ab5453589ab70bd6bc8eb3a99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085393,
+            "region_id":85688637,
+            "venue_id":588615257
+        }
+    ],
     "wof:id":588615257,
-    "wof:lastmodified":1472352604,
+    "wof:lastmodified":1491960437,
     "wof:name":"Denny's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

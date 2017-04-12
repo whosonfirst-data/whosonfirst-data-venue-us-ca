@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.239881,34.025079,-118.239881,34.025079",
     "geom:latitude":34.025079,
     "geom:longitude":-118.239881,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869163
+        85688637
     ],
     "wof:brand_id":420575039,
     "wof:breaches":[],
@@ -44,19 +47,20 @@
     "wof:geomhash":"f082b25124fd9d6ada498f267e88d7e2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869163,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370741843
         }
     ],
     "wof:id":370741843,
-    "wof:lastmodified":1472343591,
+    "wof:lastmodified":1491927602,
     "wof:name":"Jack In The Box",
-    "wof:parent_id":85869163,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

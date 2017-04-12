@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.133159,33.759502,-118.133159,33.759502",
     "geom:latitude":33.759502,
     "geom:longitude":-118.133159,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +49,6 @@
     "wof:geomhash":"a927ecf0381cc5c61b86460b89010590",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":571941631
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -62,12 +56,19 @@
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":571941631
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":571941631
         }
     ],
     "wof:id":571941631,
-    "wof:lastmodified":1472350204,
+    "wof:lastmodified":1491894996,
     "wof:name":"Norge Village Happy Hour",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.193019,37.011988,-122.193019,37.011988",
     "geom:latitude":37.011988,
     "geom:longitude":-122.193019,
@@ -31,16 +32,31 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924229,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13ILyn68VhCxJ1o1DYPoqY_37.011988_-122.193019@1303263357"
     },
     "wof:country":"US",
     "wof:geomhash":"124632ed394d84f70d75f4d287498378",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924229,
+            "region_id":85688637,
+            "venue_id":588547221
+        }
+    ],
     "wof:id":588547221,
-    "wof:lastmodified":1472351446,
+    "wof:lastmodified":1491957094,
     "wof:name":"St. Vincent, De Paul Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

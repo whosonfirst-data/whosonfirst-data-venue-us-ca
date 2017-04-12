@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.297413,38.314251,-122.297413,38.314251",
     "geom:latitude":38.314251,
     "geom:longitude":-122.297413,
@@ -34,8 +35,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85886543,
+        102085383,
+        102191575,
         85921993,
-        102085383
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,26 @@
     "wof:geomhash":"573663d49edf9a55a5cc68faf5143d6a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":269645839
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":269645839
         }
     ],
     "wof:id":269645839,
-    "wof:lastmodified":1472332274,
+    "wof:lastmodified":1491962116,
     "wof:name":"Bundy's Mens Western Wear",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

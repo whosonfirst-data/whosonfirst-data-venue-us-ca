@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.243319,33.993541,-118.243319,33.993541",
     "geom:latitude":33.993541,
     "geom:longitude":-118.243319,
@@ -37,7 +38,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108827631,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -48,18 +55,21 @@
     "wof:geomhash":"ede3ca5ac0b4996ecde1ecfe98b67dfd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827631,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":386949125
         }
     ],
     "wof:id":386949125,
-    "wof:lastmodified":1472337930,
+    "wof:lastmodified":1491868292,
     "wof:name":"L A Urban League Head Start",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108827631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

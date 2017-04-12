@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.275844,34.03309,-118.275844,34.03309",
     "geom:latitude":34.03309,
     "geom:longitude":-118.275844,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "420551237",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:brand_id":420574439,
@@ -44,18 +50,20 @@
     "wof:geomhash":"c21626da4b0786402cda4c1916df8b18",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":387346413
         }
     ],
     "wof:id":387346413,
-    "wof:lastmodified":1472342452,
+    "wof:lastmodified":1491867545,
     "wof:name":"Seventh Day Adventist Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420551237",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.26091,37.497433,-122.26091,37.497433",
     "geom:latitude":37.497433,
     "geom:longitude":-122.26091,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922437,
-        102085387
+        102085387,
+        85887231,
+        85887247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"9f2ab8f3e183983b794c45f0da7526b2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922437,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887231,
+            "region_id":85688637,
+            "venue_id":253063039
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":85887247,
             "region_id":85688637,
             "venue_id":253063039
         }
     ],
     "wof:id":253063039,
-    "wof:lastmodified":1472331159,
+    "wof:lastmodified":1491959262,
     "wof:name":"Philip Thomas",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

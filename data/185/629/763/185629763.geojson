@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713579,38.387071,-122.713579,38.387071",
     "geom:latitude":38.387071,
     "geom:longitude":-122.713579,
@@ -34,8 +35,12 @@
     "sg:website":"www.marinemax.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922693,
+        102081671,
+        85880881,
+        85887151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +50,25 @@
     "wof:geomhash":"7cec1176e6493e9c66be2ddc8db0da33",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880881,
+            "region_id":85688637,
+            "venue_id":185629763
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887151,
             "region_id":85688637,
             "venue_id":185629763
         }
     ],
     "wof:id":185629763,
-    "wof:lastmodified":1472330993,
+    "wof:lastmodified":1491963915,
     "wof:name":"Marine Max Harrison's",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

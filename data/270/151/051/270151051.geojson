@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.484714,34.286665,-118.484714,34.286665",
     "geom:latitude":34.286665,
     "geom:longitude":-118.484714,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85822437",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"06ff8843cacd61386461d17a5d8e3573",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85822437",
             "region_id":85688637,
             "venue_id":270151051
         }
     ],
     "wof:id":270151051,
-    "wof:lastmodified":1472332849,
+    "wof:lastmodified":1491902226,
     "wof:name":"Universal Appliance Svc",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85822437",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

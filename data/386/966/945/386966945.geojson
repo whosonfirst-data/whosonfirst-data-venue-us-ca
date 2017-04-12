@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.540756,38.007389,-122.540756,38.007389",
     "geom:latitude":38.007389,
     "geom:longitude":-122.540756,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922003,
-        102084353
+        102084353,
+        85887913,
+        85829847
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"6425f212ef5efd8dd05c668876164cc1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922003,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887913,
+            "region_id":85688637,
+            "venue_id":386966945
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922003,
+            "neighbourhood_id":85829847,
             "region_id":85688637,
             "venue_id":386966945
         }
     ],
     "wof:id":386966945,
-    "wof:lastmodified":1472338299,
+    "wof:lastmodified":1491961791,
     "wof:name":"Lights Of Rafael",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.216236,38.055848,-122.216236,38.055848",
     "geom:latitude":38.055848,
     "geom:longitude":-122.216236,
@@ -31,8 +32,9 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        102086225,
         85881593,
+        102086225,
+        102191575,
         85922643,
         102087589,
         85821811
@@ -45,16 +47,14 @@
     "wof:geomhash":"90d346f8bd7e8a55b2ed0c37a11dd054",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086225,
-            "locality_id":-1,
             "neighbourhood_id":85881593,
             "region_id":85688637,
             "venue_id":387843249
         },
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087589,
             "locality_id":85922643,
@@ -64,9 +64,9 @@
         }
     ],
     "wof:id":387843249,
-    "wof:lastmodified":1472350153,
+    "wof:lastmodified":1491966736,
     "wof:name":"Sugar Workers Union",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

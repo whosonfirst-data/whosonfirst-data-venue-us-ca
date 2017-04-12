@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.429284,37.463828,-122.429284,37.463828",
     "geom:latitude":37.463828,
     "geom:longitude":-122.429284,
@@ -33,16 +34,31 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nqIDe2o29KuOWiZv21UVD_37.463828_-122.429284@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a89060bc5e50b5fd9d084699ae0c6100",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":555296651
+        }
+    ],
     "wof:id":555296651,
-    "wof:lastmodified":1472344218,
+    "wof:lastmodified":1491961652,
     "wof:name":"Getaway Wedding",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

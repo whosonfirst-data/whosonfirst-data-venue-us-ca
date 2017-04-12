@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.392651,34.055555,-118.392651,34.055555",
     "geom:latitude":34.055555,
     "geom:longitude":-118.392651,
@@ -30,11 +31,13 @@
     "sg:website":"attorneylosangelesca.net/#cid=yelp",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865815",
+        102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85865815
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"aaee066cca2b9d7047508cb4c138157b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865815,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":370943357
         }
     ],
     "wof:id":370943357,
-    "wof:lastmodified":1472348398,
+    "wof:lastmodified":1491912156,
     "wof:name":"Chester & Lewkowicz Attorneys At Law",
-    "wof:parent_id":85865815,
+    "wof:parent_id":"85865815",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

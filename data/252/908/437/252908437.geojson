@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.22986,34.027746,-118.22986,34.027746",
     "geom:latitude":34.027746,
     "geom:longitude":-118.22986,
@@ -34,7 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +52,21 @@
     "wof:geomhash":"6f909fe5c4e0865bf6d43a789f87b574",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":252908437
         }
     ],
     "wof:id":252908437,
-    "wof:lastmodified":1472332113,
+    "wof:lastmodified":1491927478,
     "wof:name":"Video Line Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

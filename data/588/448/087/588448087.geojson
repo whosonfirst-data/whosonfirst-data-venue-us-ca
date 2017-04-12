@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.734326,37.961689,-121.734326,37.961689",
     "geom:latitude":37.961689,
     "geom:longitude":-121.734326,
@@ -23,16 +24,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.petsmart.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qOA40BeV8vGR5lXOLxYqU_37.961689_-121.734326@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"1cc9dca6e3ab7b8596032361350b9ce0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":588448087
+        }
+    ],
     "wof:id":588448087,
-    "wof:lastmodified":1472349629,
+    "wof:lastmodified":1491962946,
     "wof:name":"PetSmart",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.726925,37.707181,-121.726925,37.707181",
     "geom:latitude":37.707181,
     "geom:longitude":-121.726925,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921889,
-        102086959
+        102086959,
+        85852997,
+        85852639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"e11b6a6f3af2e4ad4bc1a9a2d8038cac",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921889,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85852997,
+            "region_id":85688637,
+            "venue_id":403950763
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "neighbourhood_id":85852639,
             "region_id":85688637,
             "venue_id":403950763
         }
     ],
     "wof:id":403950763,
-    "wof:lastmodified":1472342006,
+    "wof:lastmodified":1491962771,
     "wof:name":"Engine Center",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

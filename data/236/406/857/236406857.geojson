@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.09122,37.39868,-122.09122,37.39868",
     "geom:latitude":37.39868,
     "geom:longitude":-122.09122,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922355,
-        102081673
+        102081673,
+        85809795,
+        85835865
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"3e9f735bab8c97d4542cd2cdf7d9f715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922355,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85809795,
+            "region_id":85688637,
+            "venue_id":236406857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":85835865,
             "region_id":85688637,
             "venue_id":236406857
         }
     ],
     "wof:id":236406857,
-    "wof:lastmodified":1472333528,
+    "wof:lastmodified":1491960986,
     "wof:name":"Pepper Tree Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

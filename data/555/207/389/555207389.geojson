@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27237,37.491596,-122.27237,37.491596",
     "geom:latitude":37.491596,
     "geom:longitude":-122.27237,
@@ -32,16 +33,33 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HmX4jyEmApeLj9bJtIYi7_37.491596_-122.272370@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"21f2a5947147f4ecb46d4bb5ad4ad7df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555207389
+        }
+    ],
     "wof:id":555207389,
-    "wof:lastmodified":1472342913,
+    "wof:lastmodified":1491958678,
     "wof:name":"Rick Associates",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

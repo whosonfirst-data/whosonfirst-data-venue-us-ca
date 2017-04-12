@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.920998,37.4972,-121.920998,37.4972",
     "geom:latitude":37.4972,
     "geom:longitude":-121.920998,
@@ -36,16 +37,31 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0KD3MJ4WyxA8wpVLar4hk4_37.497200_-121.920998@1303263331"
     },
     "wof:country":"US",
     "wof:geomhash":"77b8706cb37f87d3c366e79a6ca81e55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588451973
+        }
+    ],
     "wof:id":588451973,
-    "wof:lastmodified":1472349804,
+    "wof:lastmodified":1491958790,
     "wof:name":"Extended Stayamerica",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

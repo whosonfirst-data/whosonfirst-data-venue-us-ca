@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.189922,37.908543,-122.189922,37.908543",
     "geom:latitude":37.908543,
     "geom:longitude":-122.189922,
@@ -32,16 +33,33 @@
         "mechanical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922149,
+        102086225,
+        420550607
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47RDeDlWXMYD7eFdHgJ6O6_37.908543_-122.189922@1303263336"
     },
     "wof:country":"US",
     "wof:geomhash":"8b01f1553f9c7d7c4db35cbf13695695",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922149,
+            "neighbourhood_id":420550607,
+            "region_id":85688637,
+            "venue_id":588469549
+        }
+    ],
     "wof:id":588469549,
-    "wof:lastmodified":1472350494,
+    "wof:lastmodified":1491957024,
     "wof:name":"Biomech Inc",
     "wof:parent_id":420550607,
     "wof:placetype":"venue",

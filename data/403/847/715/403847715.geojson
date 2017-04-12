@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.337553,33.979375,-117.337553,33.979375",
     "geom:latitude":33.979375,
     "geom:longitude":-117.337553,
@@ -33,10 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923345,
         102086221,
-        85873333
+        85845053,
+        85873333,
+        85830261
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,37 @@
     "wof:geomhash":"eef2f4a680bf26d11f6d7766193d5331",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85845053,
+            "region_id":85688637,
+            "venue_id":403847715
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923345,
             "neighbourhood_id":85873333,
             "region_id":85688637,
             "venue_id":403847715
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923345,
+            "neighbourhood_id":85830261,
+            "region_id":85688637,
+            "venue_id":403847715
         }
     ],
     "wof:id":403847715,
-    "wof:lastmodified":1472341149,
+    "wof:lastmodified":1491916916,
     "wof:name":"Windwood Apartments",
-    "wof:parent_id":85873333,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

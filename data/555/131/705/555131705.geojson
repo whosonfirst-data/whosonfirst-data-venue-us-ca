@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.719504,33.650862,-117.719504,33.650862",
     "geom:latitude":33.650862,
     "geom:longitude":-117.719504,
@@ -39,7 +40,8 @@
         85633793,
         85923131,
         102080847,
-        85878251
+        85878251,
+        85895877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +58,21 @@
             "neighbourhood_id":85878251,
             "region_id":85688637,
             "venue_id":555131705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923131,
+            "neighbourhood_id":85895877,
+            "region_id":85688637,
+            "venue_id":555131705
         }
     ],
     "wof:id":555131705,
-    "wof:lastmodified":1472341271,
+    "wof:lastmodified":1491910472,
     "wof:name":"Bio-RAD E C S",
-    "wof:parent_id":85878251,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

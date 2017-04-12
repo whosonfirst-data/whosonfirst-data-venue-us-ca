@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.387891,37.59089,-122.387891,37.59089",
     "geom:latitude":37.59089,
     "geom:longitude":-122.387891,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922537,
-        102085387
+        85922499,
+        102085387,
+        420552385,
+        85886435
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"87f5a5d0bf881014033899e9bbc8012e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
-            "locality_id":85922537,
-            "neighbourhood_id":-1,
+            "locality_id":85922499,
+            "neighbourhood_id":420552385,
+            "region_id":85688637,
+            "venue_id":269689207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922499,
+            "neighbourhood_id":85886435,
             "region_id":85688637,
             "venue_id":269689207
         }
     ],
     "wof:id":269689207,
-    "wof:lastmodified":1472332741,
+    "wof:lastmodified":1491968541,
     "wof:name":"Missing Cow Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

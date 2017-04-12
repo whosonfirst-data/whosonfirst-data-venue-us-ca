@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.413712,34.190276,-118.413712,34.190276",
     "geom:latitude":34.190276,
     "geom:longitude":-118.413712,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865849
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     "wof:geomhash":"da881f5f88211a26831330c6a5a737c8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865849,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":169480633
         }
     ],
     "wof:id":169480633,
-    "wof:lastmodified":1472332060,
+    "wof:lastmodified":1491913235,
     "wof:name":"Suburban Landscape",
-    "wof:parent_id":85865849,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

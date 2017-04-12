@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.294253,38.317834,-122.294253,38.317834",
     "geom:latitude":38.317834,
     "geom:longitude":-122.294253,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
-        85921993,
+        85886543,
         102085383,
+        102191575,
+        85921993,
         85853067
     ],
     "wof:breaches":[],
@@ -47,6 +49,13 @@
     "wof:country":"US",
     "wof:geomhash":"c195261a636d7c41885851234258f33b",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":555500975
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +67,9 @@
         }
     ],
     "wof:id":555500975,
-    "wof:lastmodified":1472351025,
+    "wof:lastmodified":1491965495,
     "wof:name":"R D Hartley Landscaping",
-    "wof:parent_id":85853067,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

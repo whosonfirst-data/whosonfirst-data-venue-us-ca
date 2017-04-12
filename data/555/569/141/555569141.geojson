@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.656885,34.17176,-118.656885,34.17176",
     "geom:latitude":34.17176,
     "geom:longitude":-118.656885,
@@ -32,18 +33,37 @@
         "parts"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        "85858757",
+        102191575,
+        1108692439,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05lVxkatRMVvthmUOwsCAK_34.171760_-118.656885@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"540380f004b29452c266d527692cd6c5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
+            "region_id":85688637,
+            "venue_id":555569141
+        }
+    ],
     "wof:id":555569141,
-    "wof:lastmodified":1472351654,
+    "wof:lastmodified":1491889060,
     "wof:name":"Alternative Micro Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

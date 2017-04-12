@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309141,34.069257,-118.309141,34.069257",
     "geom:latitude":34.069257,
     "geom:longitude":-118.309141,
@@ -40,11 +41,13 @@
     "sg:website":"www.dnmagic.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +57,20 @@
     "wof:geomhash":"cee09d37fb1ad55c9bc6714f3a8f3c90",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370395089
         }
     ],
     "wof:id":370395089,
-    "wof:lastmodified":1472340615,
+    "wof:lastmodified":1491923972,
     "wof:name":"Magic Castle Magician David Neubauer",
-    "wof:parent_id":85886329,
+    "wof:parent_id":"85865819",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

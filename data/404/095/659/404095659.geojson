@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.086131,37.943112,-122.086131,37.943112",
     "geom:latitude":37.943112,
     "geom:longitude":-122.086131,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922135,
-        102086225
+        102086225,
+        420550499,
+        85886941
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"ba6bc0bb7c0795e38645ca227019a22e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922135,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550499,
+            "region_id":85688637,
+            "venue_id":404095659
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922135,
+            "neighbourhood_id":85886941,
             "region_id":85688637,
             "venue_id":404095659
         }
     ],
     "wof:id":404095659,
-    "wof:lastmodified":1472340239,
+    "wof:lastmodified":1491947735,
     "wof:name":"Florida Pacific Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

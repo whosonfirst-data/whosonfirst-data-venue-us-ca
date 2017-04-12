@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576748,38.586902,-122.576748,38.586902",
     "geom:latitude":38.586902,
     "geom:longitude":-122.576748,
@@ -34,16 +35,31 @@
         "gymnasium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3F1douuCm0tuguWVUo51mI_38.586902_-122.576748@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0890d1b78a547d7fea69aefe77f22470",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":555068737
+        }
+    ],
     "wof:id":555068737,
-    "wof:lastmodified":1472339865,
+    "wof:lastmodified":1491962194,
     "wof:name":"Fitness First",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.436156,37.654247,-122.436156,37.654247",
     "geom:latitude":37.654247,
     "geom:longitude":-122.436156,
@@ -31,18 +32,41 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922427,
+        102085387,
+        85888091,
+        420552377
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4McEUojaKYrv3NZen7qPQe_37.654247_-122.436156@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"34376350ab297f0e9cb6de674dd65549",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922427,
+            "neighbourhood_id":85888091,
+            "region_id":85688637,
+            "venue_id":555406577
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552377,
+            "venue_id":555406577
+        }
+    ],
     "wof:id":555406577,
-    "wof:lastmodified":1472349585,
+    "wof:lastmodified":1491956736,
     "wof:name":"Westborough Chevron",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

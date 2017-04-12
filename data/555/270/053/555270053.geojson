@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.265244,33.977153,-118.265244,33.977153",
     "geom:latitude":33.977153,
     "geom:longitude":-118.265244,
@@ -33,12 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        420551143
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +54,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":420551143,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":555270053
         }
     ],
     "wof:id":555270053,
-    "wof:lastmodified":1472343710,
+    "wof:lastmodified":1491868013,
     "wof:name":"Richard Carmona & Sons Trckng",
-    "wof:parent_id":420551143,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

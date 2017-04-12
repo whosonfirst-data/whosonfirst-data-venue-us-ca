@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.285327,38.277967,-122.285327,38.277967",
     "geom:latitude":38.277967,
     "geom:longitude":-122.285327,
@@ -32,16 +33,25 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LjA1sCDwbToJIdr4m8lGV_38.277967_-122.285327@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c770a2ed97965efb3c7d1e3ebdf80f1e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":571506515
+        }
+    ],
     "wof:id":571506515,
-    "wof:lastmodified":1472339246,
+    "wof:lastmodified":1491957102,
     "wof:name":"Stup Consulting Group Inc",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

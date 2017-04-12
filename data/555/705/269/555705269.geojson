@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.256732,37.407205,-122.256732,37.407205",
     "geom:latitude":37.407205,
     "geom:longitude":-122.256732,
@@ -39,7 +40,8 @@
         85633793,
         85922423,
         102085387,
-        85802459
+        85802459,
+        85869005
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,12 +58,20 @@
             "neighbourhood_id":85802459,
             "region_id":85688637,
             "venue_id":555705269
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922423,
+            "neighbourhood_id":85869005,
+            "region_id":85688637,
+            "venue_id":555705269
         }
     ],
     "wof:id":555705269,
-    "wof:lastmodified":1472352619,
+    "wof:lastmodified":1491956889,
     "wof:name":"Bos Electric",
-    "wof:parent_id":85802459,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

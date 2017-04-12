@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.374153,37.553194,-122.374153,37.553194",
     "geom:latitude":37.553194,
     "geom:longitude":-122.374153,
@@ -32,16 +33,33 @@
         "device"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922509,
+        102085387,
+        420552413
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iFjMWuLmadoFo0LYoT0Y0_37.553194_-122.374153@1303263304"
     },
     "wof:country":"US",
     "wof:geomhash":"4dcca8f75c284e65d4b15f2b196c94fb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922509,
+            "neighbourhood_id":420552413,
+            "region_id":85688637,
+            "venue_id":588340609
+        }
+    ],
     "wof:id":588340609,
-    "wof:lastmodified":1472343272,
+    "wof:lastmodified":1491960662,
     "wof:name":"Bgs Technologies, Inc.",
     "wof:parent_id":420552413,
     "wof:placetype":"venue",

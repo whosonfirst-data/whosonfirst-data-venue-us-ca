@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.236355,34.062843,-118.236355,34.062843",
     "geom:latitude":34.062843,
     "geom:longitude":-118.236355,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531499,
+        "85866825",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85836593
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"c8434f921379c6f0c39585c4d44cba3a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836593,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531499,
+            "neighbourhood_id":"85866825",
             "region_id":85688637,
             "venue_id":202618529
         }
     ],
     "wof:id":202618529,
-    "wof:lastmodified":1472331904,
+    "wof:lastmodified":1491889937,
     "wof:name":"Shan Shan Seto Corp",
-    "wof:parent_id":85836593,
+    "wof:parent_id":1041531499,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

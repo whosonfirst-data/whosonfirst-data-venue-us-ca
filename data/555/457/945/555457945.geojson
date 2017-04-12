@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.274676,37.502109,-122.274676,37.502109",
     "geom:latitude":37.502109,
     "geom:longitude":-122.274676,
@@ -33,16 +34,33 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5gvDbCx1Dp9BH4pULsTkDx_37.502109_-122.274676@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"3b78d18cd5658e3767df9a8bb438fba7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":555457945
+        }
+    ],
     "wof:id":555457945,
-    "wof:lastmodified":1472350638,
+    "wof:lastmodified":1491965322,
     "wof:name":"San Carlos Pre-K Academy",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

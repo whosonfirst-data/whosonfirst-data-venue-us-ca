@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.311399,34.074294,-118.311399,34.074294",
     "geom:latitude":34.074294,
     "geom:longitude":-118.311399,
@@ -30,11 +31,13 @@
     "sg:website":"www.lapl.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"ef503d96ab6eb6a19887fd56e69eb4b6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370393631
         }
     ],
     "wof:id":370393631,
-    "wof:lastmodified":1472340690,
+    "wof:lastmodified":1491923970,
     "wof:name":"Wilshire Branch Library",
-    "wof:parent_id":85886329,
+    "wof:parent_id":"85865819",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

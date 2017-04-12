@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.485946,37.661853,-122.485946,37.661853",
     "geom:latitude":37.661853,
     "geom:longitude":-122.485946,
@@ -31,9 +32,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922529,
-        102085387
+        102085387,
+        85866017,
+        85922495,
+        420552447
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,28 @@
     "wof:geomhash":"30019212266b0010d74b06c0073d7f1d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922529,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85866017,
+            "region_id":85688637,
+            "venue_id":219261437
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922495,
+            "neighbourhood_id":420552447,
             "region_id":85688637,
             "venue_id":219261437
         }
     ],
     "wof:id":219261437,
-    "wof:lastmodified":1472331356,
+    "wof:lastmodified":1491949492,
     "wof:name":"Franklin D Roosevelt School",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

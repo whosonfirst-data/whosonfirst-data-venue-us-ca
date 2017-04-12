@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.158979,33.989519,-118.158979,33.989519",
     "geom:latitude":33.989519,
     "geom:longitude":-118.158979,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923667,
-        102086957
+        102086957,
+        420551223,
+        85804377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"c2e60b8c967a77acb1207dbdafc2b437",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923667,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551223,
+            "region_id":85688637,
+            "venue_id":370648191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923667,
+            "neighbourhood_id":85804377,
             "region_id":85688637,
             "venue_id":370648191
         }
     ],
     "wof:id":370648191,
-    "wof:lastmodified":1472342856,
+    "wof:lastmodified":1491914615,
     "wof:name":"WYLD Spots",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

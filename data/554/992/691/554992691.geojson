@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.277452,38.300992,-122.277452,38.300992",
     "geom:latitude":38.300992,
     "geom:longitude":-122.277452,
@@ -30,10 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
-        85921993,
+        85886543,
         102085383,
+        102191575,
+        85921993,
         85886537
     ],
     "wof:breaches":[],
@@ -43,6 +45,13 @@
     "wof:country":"US",
     "wof:geomhash":"5bde10c56127e32edfbf34cfc21d3548",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":554992691
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -54,9 +63,9 @@
         }
     ],
     "wof:id":554992691,
-    "wof:lastmodified":1472338676,
+    "wof:lastmodified":1491961795,
     "wof:name":"Masquerade Beauty Salon",
-    "wof:parent_id":85886537,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

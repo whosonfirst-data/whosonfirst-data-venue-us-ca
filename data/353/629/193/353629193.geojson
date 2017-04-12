@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.274783,34.011599,-117.274783,34.011599",
     "geom:latitude":34.011599,
     "geom:longitude":-117.274783,
@@ -29,8 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85923895,
+        102085395,
+        85885807,
+        85805675,
+        102086221
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +46,25 @@
     "wof:geomhash":"5fe68a256cd674c9f657547443d8749e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085395,
+            "locality_id":85923895,
+            "neighbourhood_id":85885807,
+            "region_id":85688637,
+            "venue_id":353629193
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086221,
+            "neighbourhood_id":85805675,
             "region_id":85688637,
             "venue_id":353629193
         }
     ],
     "wof:id":353629193,
-    "wof:lastmodified":1472334109,
+    "wof:lastmodified":1491910560,
     "wof:name":"Alrose Gifts",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

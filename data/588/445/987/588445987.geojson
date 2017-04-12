@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995951,37.807293,-121.995951,37.807293",
     "geom:latitude":37.807293,
     "geom:longitude":-121.995951,
@@ -32,16 +33,31 @@
         "relation"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZQLdXokJHmi5KvHp1Ym3R_37.807293_-121.995951@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"9c7c283fd6a84a74f546d200ee854734",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588445987
+        }
+    ],
     "wof:id":588445987,
-    "wof:lastmodified":1472349791,
+    "wof:lastmodified":1491966972,
     "wof:name":"Nps",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

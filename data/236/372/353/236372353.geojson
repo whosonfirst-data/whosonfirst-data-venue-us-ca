@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.664773,34.181434,-118.664773,34.181434",
     "geom:latitude":34.181434,
     "geom:longitude":-118.664773,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85855667
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"9883e1c4f81096d964c4814e62b548f7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85855667,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":236372353
         }
     ],
     "wof:id":236372353,
-    "wof:lastmodified":1472333283,
+    "wof:lastmodified":1491888761,
     "wof:name":"Harvey J Zukerman",
-    "wof:parent_id":85855667,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

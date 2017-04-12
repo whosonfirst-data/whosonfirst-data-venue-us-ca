@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25124,34.048292,-118.25124,34.048292",
     "geom:latitude":34.048292,
     "geom:longitude":-118.25124,
@@ -33,11 +34,14 @@
     "sg:website":"www.prodigymoving.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108558929,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"1722aade3eceae9de9299febe47a96c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1108558929,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370546205
         }
     ],
     "wof:id":370546205,
-    "wof:lastmodified":1472342333,
+    "wof:lastmodified":1491928513,
     "wof:name":"Prodigy Moving & Storage",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1108558929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.333722,34.02967,-118.333722,34.02967",
     "geom:latitude":34.02967,
     "geom:longitude":-118.333722,
@@ -29,13 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85827369",
         102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868349,
-        85865803
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,24 +50,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868349,
-            "region_id":85688637,
-            "venue_id":571942405
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865803,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85827369",
             "region_id":85688637,
             "venue_id":571942405
         }
     ],
     "wof:id":571942405,
-    "wof:lastmodified":1472350197,
+    "wof:lastmodified":1491867658,
     "wof:name":"Tadah Accents By Jacqueline",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85827369",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

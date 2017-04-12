@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.429078,37.464645,-122.429078,37.464645",
     "geom:latitude":37.464645,
     "geom:longitude":-122.429078,
@@ -34,16 +35,31 @@
     ],
     "sg:website":"www.coastalartsleague.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y1PG81K56j77NAn4oSDnT_37.464645_-122.429078@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0879ff74f82e7d32fe86dd4c1268d7db",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":555429571
+        }
+    ],
     "wof:id":555429571,
-    "wof:lastmodified":1472349894,
+    "wof:lastmodified":1491958682,
     "wof:name":"Coastal Arts League & Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

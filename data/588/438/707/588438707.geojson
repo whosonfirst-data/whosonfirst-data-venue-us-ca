@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.02983,37.846192,-122.02983,37.846192",
     "geom:latitude":37.846192,
     "geom:longitude":-122.02983,
@@ -33,16 +34,31 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pc7JjDOgSONO7ILIU4OvT_37.846192_-122.029830@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"cf51e74aa8f0516ac5ef3bf657385046",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":588438707
+        }
+    ],
     "wof:id":588438707,
-    "wof:lastmodified":1472349511,
+    "wof:lastmodified":1491963420,
     "wof:name":"Jrd Informatics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

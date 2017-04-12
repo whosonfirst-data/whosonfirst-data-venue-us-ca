@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.076838,32.642151,-117.076838,32.642151",
     "geom:latitude":32.642151,
     "geom:longitude":-117.076838,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922285,
-        102083569
+        102083569,
+        85876773,
+        85876783
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"49702e3bc15a25a638704eccfc65b253",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922285,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876773,
+            "region_id":85688637,
+            "venue_id":253723703
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922285,
+            "neighbourhood_id":85876783,
             "region_id":85688637,
             "venue_id":253723703
         }
     ],
     "wof:id":253723703,
-    "wof:lastmodified":1472335108,
+    "wof:lastmodified":1491894123,
     "wof:name":"David T Cheung DDS",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

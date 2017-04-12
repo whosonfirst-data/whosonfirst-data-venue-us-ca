@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.528597,37.877678,-122.528597,37.877678",
     "geom:latitude":37.877678,
     "geom:longitude":-122.528597,
@@ -31,10 +32,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85924633,
+        85832443,
         102084353,
-        85886429,
-        85832443
+        102191575,
+        85924633,
+        85886429
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,28 +46,26 @@
     "wof:geomhash":"02ddfd0bcd085750bd4d478018030ecc",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85832443,
+            "region_id":85688637,
+            "venue_id":320069413
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85924633,
             "neighbourhood_id":85886429,
             "region_id":85688637,
             "venue_id":320069413
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":-1,
-            "neighbourhood_id":85832443,
-            "region_id":85688637,
-            "venue_id":320069413
         }
     ],
     "wof:id":320069413,
-    "wof:lastmodified":1472331330,
+    "wof:lastmodified":1491959503,
     "wof:name":"Michael Tugendman",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -33,16 +33,16 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85802961,
-        102191575,
-        1108782555,
-        85633793,
-        85922347,
-        102081673,
         85688637,
-        1108778911,
+        102191575,
+        85633793,
         85925507,
-        420559369
+        102081673,
+        420559369,
+        85802961,
+        1108782555,
+        85922347,
+        1108778911
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,6 +51,15 @@
     "wof:country":"US",
     "wof:geomhash":"99c3592e8bf1c51d9c2a09542c20df86",
     "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925507,
+            "neighbourhood_id":420559369,
+            "region_id":85688637,
+            "venue_id":588600235
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,19 +79,10 @@
             "neighbourhood_id":1108778911,
             "region_id":85688637,
             "venue_id":588600235
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85925507,
-            "neighbourhood_id":420559369,
-            "region_id":85688637,
-            "venue_id":588600235
         }
     ],
     "wof:id":588600235,
-    "wof:lastmodified":1485457666,
+    "wof:lastmodified":1491963815,
     "wof:name":"Treasure Chest Aquarium & Pets",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

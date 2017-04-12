@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.305605,37.890391,-122.305605,37.890391",
     "geom:latitude":37.890391,
     "geom:longitude":-122.305605,
@@ -32,16 +33,31 @@
         "laboratories-research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1hK3nKTpCPRKV6rpsYcNSi_37.890391_-122.305605@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"4065a4aeb77ae87444578f31fab0a9dc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588522981
+        }
+    ],
     "wof:id":588522981,
-    "wof:lastmodified":1472351318,
+    "wof:lastmodified":1491958840,
     "wof:name":"Good Research",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

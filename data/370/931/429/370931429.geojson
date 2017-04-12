@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.376788,34.033829,-118.376788,34.033829",
     "geom:latitude":34.033829,
     "geom:longitude":-118.376788,
@@ -30,11 +31,13 @@
     "sg:website":"taylordecordoba.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
-        85923649,
+        85923517,
         102086957,
-        85885835
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"f54d6079fe127c6f9a78207fe69d8dd6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885835,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370931429
         }
     ],
     "wof:id":370931429,
-    "wof:lastmodified":1472345866,
+    "wof:lastmodified":1491917924,
     "wof:name":"Taylor De Cordoba",
-    "wof:parent_id":85885835,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

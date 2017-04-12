@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.121641,37.623076,-122.121641,37.623076",
     "geom:latitude":37.623076,
     "geom:longitude":-122.121641,
@@ -41,16 +42,31 @@
     ],
     "sg:website":"http://www.bobbyjonesgolf.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921895,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oUc1LnTUMzV7TENdrNgnj_37.623076_-122.121641@1303263333"
     },
     "wof:country":"US",
     "wof:geomhash":"b870def2b80a38b72c7fabf6c60da3d8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "region_id":85688637,
+            "venue_id":588459389
+        }
+    ],
     "wof:id":588459389,
-    "wof:lastmodified":1472350105,
+    "wof:lastmodified":1491959175,
     "wof:name":"The Bobby Jones Golf Company",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

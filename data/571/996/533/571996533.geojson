@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.617798,37.071966,-121.617798,37.071966",
     "geom:latitude":37.071966,
     "geom:longitude":-121.617798,
@@ -27,16 +28,31 @@
         "crop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aClhl8kl14uYfb3ICTv9q_37.071966_-121.617798@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"40605c93eeb100599a2966207777d385",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":571996533
+        }
+    ],
     "wof:id":571996533,
-    "wof:lastmodified":1472350769,
+    "wof:lastmodified":1491962404,
     "wof:name":"Silva Ranches",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

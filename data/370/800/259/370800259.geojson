@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.505242,37.916429,-122.505242,37.916429",
     "geom:latitude":37.916429,
     "geom:longitude":-122.505242,
@@ -35,8 +36,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85844183,
+        102084353,
+        102191575,
         85922083,
-        102084353
+        85850967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,26 @@
     "wof:geomhash":"5e73cbb6260b76830ac8c480c13e66b3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85844183,
+            "region_id":85688637,
+            "venue_id":370800259
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922083,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85850967,
             "region_id":85688637,
             "venue_id":370800259
         }
     ],
     "wof:id":370800259,
-    "wof:lastmodified":1472344039,
+    "wof:lastmodified":1491964036,
     "wof:name":"Chanana",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

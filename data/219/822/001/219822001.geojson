@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.416436,37.669995,-122.416436,37.669995",
     "geom:latitude":37.669995,
     "geom:longitude":-122.416436,
@@ -36,8 +37,12 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85922551,
+        102085387,
+        85888099,
+        102191575,
         85922427,
-        102085387
+        85888101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,27 @@
     "wof:geomhash":"87056d64ec36f87a647cc1873c3f6ca0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922551,
+            "neighbourhood_id":85888099,
+            "region_id":85688637,
+            "venue_id":219822001
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922427,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85888101,
             "region_id":85688637,
             "venue_id":219822001
         }
     ],
     "wof:id":219822001,
-    "wof:lastmodified":1472334266,
+    "wof:lastmodified":1491949055,
     "wof:name":"List Resource MGT",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

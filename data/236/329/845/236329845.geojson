@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.309079,33.955243,-118.309079,33.955243",
     "geom:latitude":33.955243,
     "geom:longitude":-118.309079,
@@ -29,13 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780795",
+        102191575,
+        1108692435,
         85633793,
-        85928441,
-        102086957,
-        85857015,
         85923517,
-        85868371
+        102086957,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +46,20 @@
     "wof:geomhash":"8b7267bf9f269b7ba8aec31e0edbc5d7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928441,
-            "neighbourhood_id":85857015,
-            "region_id":85688637,
-            "venue_id":236329845
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868371,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780795",
             "region_id":85688637,
             "venue_id":236329845
         }
     ],
     "wof:id":236329845,
-    "wof:lastmodified":1472333038,
+    "wof:lastmodified":1491867680,
     "wof:name":"George Washington Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420780795",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

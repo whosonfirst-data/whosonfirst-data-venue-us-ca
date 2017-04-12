@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.933659,37.47256,-121.933659,37.47256",
     "geom:latitude":37.47256,
     "geom:longitude":-121.933659,
@@ -32,16 +33,31 @@
         "radiotelephone"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e4UJgW3URMfpHYIjgWx5k_37.472560_-121.933659@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"813c1f958f93c6d90b3b01814541960f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555169513
+        }
+    ],
     "wof:id":555169513,
-    "wof:lastmodified":1472342352,
+    "wof:lastmodified":1491956824,
     "wof:name":"At Road Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

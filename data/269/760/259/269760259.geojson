@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.277319,33.923795,-118.277319,33.923795",
     "geom:latitude":33.923795,
     "geom:longitude":-118.277319,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868337",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85849847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"ed8bfd1d6727ac4aad2b629a22030677",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85849847,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
             "region_id":85688637,
             "venue_id":269760259
         }
     ],
     "wof:id":269760259,
-    "wof:lastmodified":1472333354,
+    "wof:lastmodified":1491867687,
     "wof:name":"Bell Smith Samuel & Enese Ha",
-    "wof:parent_id":85849847,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

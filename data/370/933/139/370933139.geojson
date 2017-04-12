@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.378856,34.035099,-118.378856,34.035099",
     "geom:latitude":34.035099,
     "geom:longitude":-118.378856,
@@ -40,11 +41,13 @@
     "sg:website":"losangelesautoupholstery.com/#ci...",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
-        85923649,
+        85923517,
         102086957,
-        85885835
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +57,20 @@
     "wof:geomhash":"d15fb13fe8c5a8ae0e170329c62d1e39",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885835,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370933139
         }
     ],
     "wof:id":370933139,
-    "wof:lastmodified":1472346236,
+    "wof:lastmodified":1491917865,
     "wof:name":"New Life Auto Upholstery Inc",
-    "wof:parent_id":85885835,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.03241,37.289806,-122.03241,37.289806",
     "geom:latitude":37.289806,
     "geom:longitude":-122.03241,
@@ -41,9 +42,12 @@
         85688637,
         102191575,
         85633793,
-        85922393,
+        85922337,
         102081673,
-        85887523
+        420552471,
+        85887523,
+        1108782547,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,16 +60,26 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922393,
+            "locality_id":85922337,
+            "neighbourhood_id":420552471,
+            "region_id":85688637,
+            "venue_id":588569799
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782547,
             "neighbourhood_id":85887523,
             "region_id":85688637,
             "venue_id":588569799
         }
     ],
     "wof:id":588569799,
-    "wof:lastmodified":1472351839,
+    "wof:lastmodified":1491958815,
     "wof:name":"Allure Beauty",
-    "wof:parent_id":85887523,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

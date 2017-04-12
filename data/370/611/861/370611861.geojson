@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.249664,34.045058,-118.249664,34.045058",
     "geom:latitude":34.045058,
     "geom:longitude":-118.249664,
@@ -38,11 +39,14 @@
     "sg:website":"www.babycakesnyc.com/",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108564571,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,19 +56,21 @@
     "wof:geomhash":"5a8b0b62836d75d103dd08219b856c9b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "microhood_id":1108564571,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370611861
         }
     ],
     "wof:id":370611861,
-    "wof:lastmodified":1472342929,
+    "wof:lastmodified":1491928499,
     "wof:name":"BabyCakes NYC",
-    "wof:parent_id":85865811,
+    "wof:parent_id":1108564571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

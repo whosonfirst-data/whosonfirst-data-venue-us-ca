@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.312823,38.309527,-122.312823,38.309527",
     "geom:latitude":38.309527,
     "geom:longitude":-122.312823,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921993,
-        85633793,
         85688637,
-        102085383
+        102191575,
+        85633793,
+        85921993,
+        102085383,
+        420551431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"8d8e07ce488bed716d451a4f83275979",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
+            "neighbourhood_id":420551431,
             "region_id":85688637,
             "venue_id":169462903
         }
     ],
     "wof:id":169462903,
-    "wof:lastmodified":1472331630,
+    "wof:lastmodified":1491947809,
     "wof:name":"ABC Secretarial",
-    "wof:parent_id":-1,
+    "wof:parent_id":420551431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

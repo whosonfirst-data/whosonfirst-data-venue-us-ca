@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.608768,37.084189,-121.608768,37.084189",
     "geom:latitude":37.084189,
     "geom:longitude":-121.608768,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bTrlmytNl6QQHCK7L3H85_37.084189_-121.608768@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9fdaa9fda4b1e05f67756fad04f54b49",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":571626137
+        }
+    ],
     "wof:id":571626137,
-    "wof:lastmodified":1472342001,
+    "wof:lastmodified":1491966040,
     "wof:name":"CML Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

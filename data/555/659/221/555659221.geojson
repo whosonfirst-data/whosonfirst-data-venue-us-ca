@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.998054,37.908575,-121.998054,37.908575",
     "geom:latitude":37.908575,
     "geom:longitude":-121.998054,
@@ -32,16 +33,25 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550463
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FsE5iNBQAr48eXJGn2dij_37.908575_-121.998054@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"546b31c37743e78dd4fdaeb80c42ea45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550463,
+            "venue_id":555659221
+        }
+    ],
     "wof:id":555659221,
-    "wof:lastmodified":1472352176,
+    "wof:lastmodified":1491950619,
     "wof:name":"Aston Financial Group",
     "wof:parent_id":420550463,
     "wof:placetype":"venue",

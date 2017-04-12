@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.621934,38.111516,-122.621934,38.111516",
     "geom:latitude":38.111516,
     "geom:longitude":-122.621934,
@@ -34,18 +35,41 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551405,
+        85688637,
+        102191575,
+        85922017,
+        102084353,
+        420551391
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LAOIBqjhJyoXY5Q3yMAmH_38.111516_-122.621934@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"ced86b536e91adac472a657ed787360a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551405,
+            "venue_id":571481335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":420551391,
+            "region_id":85688637,
+            "venue_id":571481335
+        }
+    ],
     "wof:id":571481335,
-    "wof:lastmodified":1472337227,
+    "wof:lastmodified":1491958543,
     "wof:name":"Douglas B Love Cabinet Maker",
-    "wof:parent_id":420551405,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

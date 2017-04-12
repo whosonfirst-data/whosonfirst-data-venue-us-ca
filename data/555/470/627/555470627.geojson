@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.917665,37.469234,-121.917665,37.469234",
     "geom:latitude":37.469234,
     "geom:longitude":-121.917665,
@@ -32,16 +33,31 @@
         "representative"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1x7HmChv0KnVQFk0CKt7Wk_37.469234_-121.917665@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5762d2348039b9479574ac00864e311c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555470627
+        }
+    ],
     "wof:id":555470627,
-    "wof:lastmodified":1472350733,
+    "wof:lastmodified":1491957519,
     "wof:name":"Braemac",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

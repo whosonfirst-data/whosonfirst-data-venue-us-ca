@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.89846,38.029461,-121.89846,38.029461",
     "geom:latitude":38.029461,
     "geom:longitude":-121.89846,
@@ -37,16 +38,31 @@
     ],
     "sg:website":"http://www.mirant.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922139,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d5qWB1q7BoS0MuBknUPcu_38.029461_-121.898460@1303263336"
     },
     "wof:country":"US",
     "wof:geomhash":"8e62bb16b390a51e89bfb810b6bb8ffd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922139,
+            "region_id":85688637,
+            "venue_id":588470063
+        }
+    ],
     "wof:id":588470063,
-    "wof:lastmodified":1472350490,
+    "wof:lastmodified":1491971013,
     "wof:name":"Mirant Delta",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

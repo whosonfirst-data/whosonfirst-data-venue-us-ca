@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.946379,37.761412,-121.946379,37.761412",
     "geom:latitude":37.761412,
     "geom:longitude":-121.946379,
@@ -28,16 +29,31 @@
     "sg:postcode":"94583",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1enPd6sSmAvVpjLi5ylyoU_37.761412_-121.946379@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"70b5b223b0a6445f6b52a89de1767bae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555088937
+        }
+    ],
     "wof:id":555088937,
-    "wof:lastmodified":1472340838,
+    "wof:lastmodified":1491959860,
     "wof:name":"Applications System",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

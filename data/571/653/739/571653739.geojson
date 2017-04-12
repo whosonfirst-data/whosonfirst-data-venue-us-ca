@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.915155,37.707004,-121.915155,37.707004",
     "geom:latitude":37.707004,
     "geom:longitude":-121.915155,
@@ -33,16 +34,31 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VHGiQKybSKZ8zCFLZE1Ae_37.707004_-121.915155@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"395ea63f49c1049358631a7bcaff2bf8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":571653739
+        }
+    ],
     "wof:id":571653739,
-    "wof:lastmodified":1472342758,
+    "wof:lastmodified":1491967551,
     "wof:name":"Cal Steam-East Bay",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

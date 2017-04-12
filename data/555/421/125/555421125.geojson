@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.537009,37.897507,-122.537009,37.897507",
     "geom:latitude":37.897507,
     "geom:longitude":-122.537009,
@@ -37,7 +38,9 @@
         85633793,
         85922023,
         102084353,
-        85886419
+        420551357,
+        85886419,
+        85802885
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +54,31 @@
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922023,
+            "neighbourhood_id":420551357,
+            "region_id":85688637,
+            "venue_id":555421125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922023,
             "neighbourhood_id":85886419,
+            "region_id":85688637,
+            "venue_id":555421125
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85802885,
             "region_id":85688637,
             "venue_id":555421125
         }
     ],
     "wof:id":555421125,
-    "wof:lastmodified":1472349618,
+    "wof:lastmodified":1491961655,
     "wof:name":"Xtra Oil Co",
-    "wof:parent_id":85886419,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

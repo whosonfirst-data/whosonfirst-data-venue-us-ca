@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.276083,37.498475,-122.276083,37.498475",
     "geom:latitude":37.498475,
     "geom:longitude":-122.276083,
@@ -32,16 +33,33 @@
         "apartment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922437,
+        102085387,
+        420552429
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OTqQlJk4Wef6oLakREOVf_37.498475_-122.276083@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"241df06308190925d3b819799e9b7417",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":420552429,
+            "region_id":85688637,
+            "venue_id":554991375
+        }
+    ],
     "wof:id":554991375,
-    "wof:lastmodified":1472338259,
+    "wof:lastmodified":1491968232,
     "wof:name":"Hollymanor Apts",
     "wof:parent_id":420552429,
     "wof:placetype":"venue",

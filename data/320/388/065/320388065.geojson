@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.568791,37.976003,-122.568791,37.976003",
     "geom:latitude":37.976003,
     "geom:longitude":-122.568791,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922009,
-        102084353
+        102084353,
+        85887201,
+        85922013,
+        85887205
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,27 @@
     "wof:geomhash":"1d255ad7bdd1df6e819c8a08fcf9a36c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922009,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887201,
+            "region_id":85688637,
+            "venue_id":320388065
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922013,
+            "neighbourhood_id":85887205,
             "region_id":85688637,
             "venue_id":320388065
         }
     ],
     "wof:id":320388065,
-    "wof:lastmodified":1472335012,
+    "wof:lastmodified":1491962063,
     "wof:name":"Workforce Wellness",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

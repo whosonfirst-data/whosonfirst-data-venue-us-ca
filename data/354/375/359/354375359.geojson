@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.324253,33.971933,-118.324253,33.971933",
     "geom:latitude":33.971933,
     "geom:longitude":-118.324253,
@@ -35,7 +36,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -46,18 +52,20 @@
     "wof:geomhash":"94339f4d24b8e018b37aef92b5447d55",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":354375359
         }
     ],
     "wof:id":354375359,
-    "wof:lastmodified":1472336191,
+    "wof:lastmodified":1491867805,
     "wof:name":"Slater Plumbing",
-    "wof:parent_id":-1,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

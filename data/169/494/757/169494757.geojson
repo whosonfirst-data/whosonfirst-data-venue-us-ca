@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.069871,37.628578,-122.069871,37.628578",
     "geom:latitude":37.628578,
     "geom:longitude":-122.069871,
@@ -32,10 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921895,
-        85633793,
         85688637,
-        102086959
+        102191575,
+        85633793,
+        85921895,
+        102086959,
+        85878047,
+        85878051
     ],
     "wof:brand_id":420573837,
     "wof:breaches":[],
@@ -46,17 +50,28 @@
     "wof:geomhash":"114c66c83aebebdc6e400699f57f6ab5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
+            "neighbourhood_id":85878047,
+            "region_id":85688637,
+            "venue_id":169494757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878051,
             "region_id":85688637,
             "venue_id":169494757
         }
     ],
     "wof:id":169494757,
-    "wof:lastmodified":1472332389,
+    "wof:lastmodified":1491966236,
     "wof:name":"Jehovah's Witnesses",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.241604,34.034016,-118.241604,34.034016",
     "geom:latitude":34.034016,
     "geom:longitude":-118.241604,
@@ -39,11 +40,13 @@
     "sg:website":"www.eastlaclassic.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869799
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"bcd8b0b0ce04db82fa43d929152bd461",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869799,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370750135
         }
     ],
     "wof:id":370750135,
-    "wof:lastmodified":1472343528,
+    "wof:lastmodified":1491927686,
     "wof:name":"East La Classic Theatre",
-    "wof:parent_id":85869799,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

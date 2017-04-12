@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.246112,33.940256,-118.246112,33.940256",
     "geom:latitude":33.940256,
     "geom:longitude":-118.246112,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85854791
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"3412a8ec674a0d1eb9c91f285e00fd8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85854791,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":370379137
         }
     ],
     "wof:id":370379137,
-    "wof:lastmodified":1472340178,
+    "wof:lastmodified":1491868336,
     "wof:name":"R & R Liquor & Jr Market",
-    "wof:parent_id":85854791,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

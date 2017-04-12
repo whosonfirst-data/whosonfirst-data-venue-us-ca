@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.216056,34.076781,-118.216056,34.076781",
     "geom:latitude":34.076781,
     "geom:longitude":-118.216056,
@@ -30,11 +31,13 @@
     "sg:website":"www.jackinthebox.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85821905
+        85688637
     ],
     "wof:brand_id":420575039,
     "wof:breaches":[],
@@ -45,19 +48,20 @@
     "wof:geomhash":"32f31435f1b63ecdde530e14768dc150",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85821905,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370897309
         }
     ],
     "wof:id":370897309,
-    "wof:lastmodified":1472344873,
+    "wof:lastmodified":1491909576,
     "wof:name":"Jack In The Box",
-    "wof:parent_id":85821905,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

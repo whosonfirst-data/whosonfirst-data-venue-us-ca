@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.701755,38.339257,-122.701755,38.339257",
     "geom:latitude":38.339257,
     "geom:longitude":-122.701755,
@@ -36,8 +37,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85887143,
+        102081671,
+        102191575,
         85922697,
-        102081671
+        420552953
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,26 @@
     "wof:geomhash":"da7b01a4c16ba230398c4094a96b3bd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887143,
+            "region_id":85688637,
+            "venue_id":403810501
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922697,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552953,
             "region_id":85688637,
             "venue_id":403810501
         }
     ],
     "wof:id":403810501,
-    "wof:lastmodified":1472340731,
+    "wof:lastmodified":1491968199,
     "wof:name":"D & J Carpet Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

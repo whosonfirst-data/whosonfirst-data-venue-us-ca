@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.2392,33.99021,-118.2392,33.99021",
     "geom:latitude":33.99021,
     "geom:longitude":-118.2392,
@@ -45,7 +46,12 @@
     "sg:website":"http://www.ccsola.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -56,18 +62,20 @@
     "wof:geomhash":"b1f2ddbadde1154d2a822cd7c6360538",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":386950629
         }
     ],
     "wof:id":386950629,
-    "wof:lastmodified":1472337950,
+    "wof:lastmodified":1491868044,
     "wof:name":"Calvary Chapel South La",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

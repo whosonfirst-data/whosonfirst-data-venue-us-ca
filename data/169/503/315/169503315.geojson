@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.426952,34.174245,-118.426952,34.174245",
     "geom:latitude":34.174245,
     "geom:longitude":-118.426952,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85828243
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +46,20 @@
     "wof:geomhash":"14511a2225ac52b8ec149902caec7d2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85828243,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":169503315
         }
     ],
     "wof:id":169503315,
-    "wof:lastmodified":1472333090,
+    "wof:lastmodified":1491913233,
     "wof:name":"Flora By Fauna",
-    "wof:parent_id":85828243,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

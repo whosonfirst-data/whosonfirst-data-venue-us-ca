@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.745438,34.086349,-117.745438,34.086349",
     "geom:latitude":34.086349,
     "geom:longitude":-117.745438,
@@ -38,7 +39,9 @@
         85633793,
         85923671,
         102086957,
-        85837921
+        85837921,
+        85923539,
+        85886963
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +58,21 @@
             "neighbourhood_id":85837921,
             "region_id":85688637,
             "venue_id":571516615
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923539,
+            "neighbourhood_id":85886963,
+            "region_id":85688637,
+            "venue_id":571516615
         }
     ],
     "wof:id":571516615,
-    "wof:lastmodified":1472339770,
+    "wof:lastmodified":1491920007,
     "wof:name":"Christinas",
-    "wof:parent_id":85837921,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

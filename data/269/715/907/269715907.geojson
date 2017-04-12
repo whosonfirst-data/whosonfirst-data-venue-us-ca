@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654431,38.115942,-122.654431,38.115942",
     "geom:latitude":38.115942,
     "geom:longitude":-122.654431,
@@ -32,8 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922017,
+        102084353,
+        85886695,
+        420551403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +48,23 @@
     "wof:geomhash":"e33e64c28ffd522dd2060d4950fef515",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":85886695,
             "region_id":85688637,
+            "venue_id":269715907
+        },
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551403,
             "venue_id":269715907
         }
     ],
     "wof:id":269715907,
-    "wof:lastmodified":1472333017,
+    "wof:lastmodified":1491970381,
     "wof:name":"Western Planning & Development",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

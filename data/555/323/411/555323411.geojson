@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.523391,38.116051,-122.523391,38.116051",
     "geom:latitude":38.116051,
     "geom:longitude":-122.523391,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924699,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yTGLeSCVvhy14xHrfPcBR_38.116051_-122.523391@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b5d6ade35faf40ec67f4cd7feb8bfa78",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924699,
+            "region_id":85688637,
+            "venue_id":555323411
+        }
+    ],
     "wof:id":555323411,
-    "wof:lastmodified":1472344690,
+    "wof:lastmodified":1491970438,
     "wof:name":"Bob Jonsen Builder Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

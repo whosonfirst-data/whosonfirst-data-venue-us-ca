@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.30897,34.067889,-118.30897,34.067889",
     "geom:latitude":34.067889,
     "geom:longitude":-118.30897,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691527,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"392be3b97775418df2276bcbd87be4ab",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691527,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370731067
         }
     ],
     "wof:id":370731067,
-    "wof:lastmodified":1472343502,
+    "wof:lastmodified":1491923959,
     "wof:name":"Sam Kyung Food Mart",
-    "wof:parent_id":85886329,
+    "wof:parent_id":1108691527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

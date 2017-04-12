@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.01714,37.967846,-122.01714,37.967846",
     "geom:latitude":37.967846,
     "geom:longitude":-122.01714,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922187,
-        102086225
+        102086225,
+        85876841,
+        420550555
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"f86f5d18dda63daf6b75ea448f9d0b22",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922187,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876841,
+            "region_id":85688637,
+            "venue_id":253040469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922187,
+            "neighbourhood_id":420550555,
             "region_id":85688637,
             "venue_id":253040469
         }
     ],
     "wof:id":253040469,
-    "wof:lastmodified":1472331104,
+    "wof:lastmodified":1491962221,
     "wof:name":"Pacific Tree Ltd",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

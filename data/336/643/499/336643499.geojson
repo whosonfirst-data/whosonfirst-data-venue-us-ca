@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.243274,37.537901,-122.243274,37.537901",
     "geom:latitude":37.537901,
     "geom:longitude":-122.243274,
@@ -30,10 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922447,
         102085387,
-        85887105
+        85887105,
+        420552431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,28 @@
     "wof:geomhash":"1785dc7b1806fa2d6c928e4f547d1f7c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922447,
             "neighbourhood_id":85887105,
             "region_id":85688637,
             "venue_id":336643499
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":420552431,
+            "region_id":85688637,
+            "venue_id":336643499
         }
     ],
     "wof:id":336643499,
-    "wof:lastmodified":1472331258,
+    "wof:lastmodified":1491961091,
     "wof:name":"Pooches & Purrs",
-    "wof:parent_id":85887105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

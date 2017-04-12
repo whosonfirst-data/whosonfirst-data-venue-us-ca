@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.245785,34.044902,-118.245785,34.044902",
     "geom:latitude":34.044902,
     "geom:longitude":-118.245785,
@@ -29,8 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691449,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
-        85688637
+        85923517,
+        102086957,
+        85688637,
+        1108691227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +48,32 @@
     "wof:geomhash":"2657f9e48f36c7a3c5645115641335c9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691449,
+            "neighbourhood_id":"85865811",
+            "region_id":85688637,
+            "venue_id":370522513
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691227,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370522513
         }
     ],
     "wof:id":370522513,
-    "wof:lastmodified":1472342207,
+    "wof:lastmodified":1491928329,
     "wof:name":"Fushin Trading Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

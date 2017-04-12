@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.996667,37.819446,-121.996667,37.819446",
     "geom:latitude":37.819446,
     "geom:longitude":-121.996667,
@@ -39,16 +40,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_079P2VuiPvEgjLICaA4s6o_37.819446_-121.996667@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"fd8b3552705ef30a8f0b2115c5e7c55e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446423
+        }
+    ],
     "wof:id":588446423,
-    "wof:lastmodified":1472349700,
+    "wof:lastmodified":1491956712,
     "wof:name":"Surf To Snow ERM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.169578,37.443233,-122.169578,37.443233",
     "geom:latitude":37.443233,
     "geom:longitude":-122.169578,
@@ -37,16 +38,31 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SeANxI9gxilwrjtFCbE1S_37.443161_-122.169701@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"46b47ba11dddc74c0872db5c60c3177a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572207711
+        }
+    ],
     "wof:id":572207711,
-    "wof:lastmodified":1472344302,
+    "wof:lastmodified":1491957343,
     "wof:name":"Oakville Grocery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

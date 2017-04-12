@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.469872,37.693363,-122.469872,37.693363",
     "geom:latitude":37.693363,
     "geom:longitude":-122.469872,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922529,
-        102085387
+        102085387,
+        85885847,
+        85885851
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"9845ed5da160bd89256c32fd2c98ad1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922529,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85885847,
+            "region_id":85688637,
+            "venue_id":303510067
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":85885851,
             "region_id":85688637,
             "venue_id":303510067
         }
     ],
     "wof:id":303510067,
-    "wof:lastmodified":1472335122,
+    "wof:lastmodified":1491962774,
     "wof:name":"Auto Collision Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

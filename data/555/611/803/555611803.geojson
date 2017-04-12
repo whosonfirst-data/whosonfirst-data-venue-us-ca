@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.379173,34.048391,-118.379173,34.048391",
     "geom:latitude":34.048391,
     "geom:longitude":-118.379173,
@@ -28,18 +29,39 @@
     "sg:postcode":"90035",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        1091764195,
+        "85865815",
+        102191575,
+        1108692797,
+        85633793,
+        85923517,
+        102086957,
+        85688637
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hNWdSmz9V9ndAyyqKFIEU_34.048391_-118.379173@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"56ee13de1e07a3119b5ade417eb18850",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "microhood_id":1091764195,
+            "neighbourhood_id":"85865815",
+            "region_id":85688637,
+            "venue_id":555611803
+        }
+    ],
     "wof:id":555611803,
-    "wof:lastmodified":1472351992,
+    "wof:lastmodified":1491912223,
     "wof:name":"Mabel Mobil Dog Grooming",
-    "wof:parent_id":-1,
+    "wof:parent_id":1091764195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

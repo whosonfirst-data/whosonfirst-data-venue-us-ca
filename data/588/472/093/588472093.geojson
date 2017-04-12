@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.489998,38.527802,-122.489998,38.527802",
     "geom:latitude":38.527802,
     "geom:longitude":-122.489998,
@@ -34,16 +35,29 @@
     "sg:province":"CA",
     "sg:website":"www.winecountryinn.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05wpoT1JSzLRJIhHVGUu2E_38.527802_-122.489998@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"223586122a9222688e9123ca0ed95b28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":588472093
+        }
+    ],
     "wof:id":588472093,
-    "wof:lastmodified":1472350534,
+    "wof:lastmodified":1491958397,
     "wof:name":"Wine Country Inn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

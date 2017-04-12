@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.045331,37.92417,-122.045331,37.92417",
     "geom:latitude":37.92417,
     "geom:longitude":-122.045331,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922117,
-        102086225
+        102086225,
+        85888203,
+        85888187
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"a1e70f9e48a69614eb0f4d34682b0671",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922117,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85888203,
+            "region_id":85688637,
+            "venue_id":387062481
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922117,
+            "neighbourhood_id":85888187,
             "region_id":85688637,
             "venue_id":387062481
         }
     ],
     "wof:id":387062481,
-    "wof:lastmodified":1472338744,
+    "wof:lastmodified":1491950186,
     "wof:name":"Heather Farm Community Ctr",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

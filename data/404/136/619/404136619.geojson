@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230407,34.019178,-118.230407,34.019178",
     "geom:latitude":34.019178,
     "geom:longitude":-118.230407,
@@ -32,7 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +50,21 @@
     "wof:geomhash":"56d8d293538aa7e4d60fee671d5edd58",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":404136619
         }
     ],
     "wof:id":404136619,
-    "wof:lastmodified":1472340504,
+    "wof:lastmodified":1491927403,
     "wof:name":"Pleasure Palace",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

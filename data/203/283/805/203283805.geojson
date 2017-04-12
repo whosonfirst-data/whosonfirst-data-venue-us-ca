@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.29319,38.324006,-122.29319,38.324006",
     "geom:latitude":38.324006,
     "geom:longitude":-122.29319,
@@ -31,8 +32,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85886543,
+        102085383,
+        102191575,
         85921993,
-        102085383
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,26 @@
     "wof:geomhash":"c3e705fb99f98a97f1b2ae9f10ebfbd0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":203283805
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":203283805
         }
     ],
     "wof:id":203283805,
-    "wof:lastmodified":1472332237,
+    "wof:lastmodified":1491949969,
     "wof:name":"Trancas Steak House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

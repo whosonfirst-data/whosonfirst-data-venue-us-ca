@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.246002,34.0168,-118.246002,34.0168",
     "geom:latitude":34.0168,
     "geom:longitude":-118.246002,
@@ -30,11 +31,13 @@
     "sg:website":"www.sfcooper.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85836547
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"f0f1ff2304ee92407cb754118b41c17e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85836547,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":370526381
         }
     ],
     "wof:id":370526381,
-    "wof:lastmodified":1472342205,
+    "wof:lastmodified":1491868206,
     "wof:name":"Stuart F Cooper",
-    "wof:parent_id":85836547,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

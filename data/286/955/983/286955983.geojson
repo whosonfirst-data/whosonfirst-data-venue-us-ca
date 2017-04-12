@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.428835,37.633344,-122.428835,37.633344",
     "geom:latitude":37.633344,
     "geom:longitude":-122.428835,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922427,
+        102085387,
+        85888085,
         85922441,
-        102085387
+        85887209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"b27ac8fec5dc732463e9145570538e1b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922427,
+            "neighbourhood_id":85888085,
+            "region_id":85688637,
+            "venue_id":286955983
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922441,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887209,
             "region_id":85688637,
             "venue_id":286955983
         }
     ],
     "wof:id":286955983,
-    "wof:lastmodified":1472335627,
+    "wof:lastmodified":1491969182,
     "wof:name":"Total Success Event Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

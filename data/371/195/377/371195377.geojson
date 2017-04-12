@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.520006,37.945557,-122.520006,37.945557",
     "geom:latitude":37.945557,
     "geom:longitude":-122.520006,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922027,
-        102084353
+        102084353,
+        85886263,
+        85886025
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"a052ff34e0bf2fe5a8d2f54dfc136c32",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922027,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886263,
+            "region_id":85688637,
+            "venue_id":371195377
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":85886025,
             "region_id":85688637,
             "venue_id":371195377
         }
     ],
     "wof:id":371195377,
-    "wof:lastmodified":1472340534,
+    "wof:lastmodified":1491963111,
     "wof:name":"Union Trust Mortgage Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

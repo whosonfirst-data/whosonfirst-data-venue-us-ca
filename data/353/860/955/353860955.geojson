@@ -30,15 +30,15 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85925491,
-        102081673,
-        85865159,
         1108755839,
+        102191575,
         1108782555,
-        85922347
+        85633793,
+        85922347,
+        102081673,
+        85688637,
+        85925491,
+        85865159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,8 +51,9 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925491,
-            "neighbourhood_id":85865159,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
+            "neighbourhood_id":1108755839,
             "region_id":85688637,
             "venue_id":353860955
         },
@@ -60,15 +61,14 @@
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782555,
-            "neighbourhood_id":1108755839,
+            "locality_id":85925491,
+            "neighbourhood_id":85865159,
             "region_id":85688637,
             "venue_id":353860955
         }
     ],
     "wof:id":353860955,
-    "wof:lastmodified":1485457409,
+    "wof:lastmodified":1491874665,
     "wof:name":"Lanny Beauty Salon",
     "wof:parent_id":-3,
     "wof:placetype":"venue",

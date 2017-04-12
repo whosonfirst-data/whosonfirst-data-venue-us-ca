@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.70797,38.354593,-122.70797,38.354593",
     "geom:latitude":38.354593,
     "geom:longitude":-122.70797,
@@ -36,7 +37,10 @@
         85688637,
         85633793,
         85922697,
-        102081671
+        102081671,
+        85887169,
+        102191575,
+        420560085
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,27 @@
     "wof:geomhash":"6eebd22acd2f0f0da2c6a2b6197b3ec6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922697,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887169,
+            "region_id":85688637,
+            "venue_id":354289997
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922697,
+            "neighbourhood_id":420560085,
             "region_id":85688637,
             "venue_id":354289997
         }
     ],
     "wof:id":354289997,
-    "wof:lastmodified":1472335671,
+    "wof:lastmodified":1491950064,
     "wof:name":"Timothy J Nelson",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

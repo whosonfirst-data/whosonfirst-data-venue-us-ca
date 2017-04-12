@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.137947,38.045648,-122.137947,38.045648",
     "geom:latitude":38.045648,
     "geom:longitude":-122.137947,
@@ -41,16 +42,31 @@
     ],
     "sg:website":"http://www.therma-flite.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hUUezkxKKM2cEPvplZ14V_38.045648_-122.137947@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"84a5b4cf7222019777fe5166bdf64feb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":588439905
+        }
+    ],
     "wof:id":588439905,
-    "wof:lastmodified":1472349508,
+    "wof:lastmodified":1491956893,
     "wof:name":"Therma-Flite",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

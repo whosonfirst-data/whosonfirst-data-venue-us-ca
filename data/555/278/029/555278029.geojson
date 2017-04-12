@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.596325,38.581315,-122.596325,38.581315",
     "geom:latitude":38.581315,
     "geom:longitude":-122.596325,
@@ -32,16 +33,31 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6m2Yj91qlyPvxBAfe11rwT_38.581315_-122.596325@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5d84f9c166098271cc7bd391ee03234f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":555278029
+        }
+    ],
     "wof:id":555278029,
-    "wof:lastmodified":1472343837,
+    "wof:lastmodified":1491959168,
     "wof:name":"D Jean Jarvis Bookkeeping Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

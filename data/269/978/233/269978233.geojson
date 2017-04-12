@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.269657,34.030574,-118.269657,34.030574",
     "geom:latitude":34.030574,
     "geom:longitude":-118.269657,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996417,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"b9de89ba1ffc9fbaf1961a339605a3f0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996417,
             "region_id":85688637,
             "venue_id":269978233
         }
     ],
     "wof:id":269978233,
-    "wof:lastmodified":1472334674,
+    "wof:lastmodified":1491868164,
     "wof:name":"ACSC Management Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

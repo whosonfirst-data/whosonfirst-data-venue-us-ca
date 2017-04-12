@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.303262,37.889647,-122.303262,37.889647",
     "geom:latitude":37.889647,
     "geom:longitude":-122.303262,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SsSpymRJPFZeb22YJ7iBH_37.889647_-122.303262@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bcf32e7c6c3bb537e15286305f6befd2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":571654777
+        }
+    ],
     "wof:id":571654777,
-    "wof:lastmodified":1472342770,
+    "wof:lastmodified":1491967706,
     "wof:name":"Cement Finishing Technology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

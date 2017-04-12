@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.954444,37.767871,-121.954444,37.767871",
     "geom:latitude":37.767871,
     "geom:longitude":-121.954444,
@@ -32,16 +33,31 @@
         "real estate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vjcNBZxz6FORkM4I26O5w_37.767871_-121.954444@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"083251250bbbdba9c0d0014bb7be26d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555502949
+        }
+    ],
     "wof:id":555502949,
-    "wof:lastmodified":1472351030,
+    "wof:lastmodified":1491958110,
     "wof:name":"Legacy Mortgage Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

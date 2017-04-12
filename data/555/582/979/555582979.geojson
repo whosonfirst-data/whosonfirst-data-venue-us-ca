@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.73156,37.941478,-121.73156,37.941478",
     "geom:latitude":37.941478,
     "geom:longitude":-121.73156,
@@ -28,18 +29,35 @@
     "sg:postcode":"94513",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922153,
+        102086225,
+        85846961
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3M4jDbxG5c5POHAqjdkh6e_37.941478_-121.731560@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d68d143f27810e89c2777d2da12071a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922153,
+            "neighbourhood_id":85846961,
+            "region_id":85688637,
+            "venue_id":555582979
+        }
+    ],
     "wof:id":555582979,
-    "wof:lastmodified":1472351803,
+    "wof:lastmodified":1491962262,
     "wof:name":"Artistic Impressions",
-    "wof:parent_id":-1,
+    "wof:parent_id":85846961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

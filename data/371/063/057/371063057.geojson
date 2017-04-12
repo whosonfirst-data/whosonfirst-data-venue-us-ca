@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.329341,33.989099,-118.329341,33.989099",
     "geom:latitude":33.989099,
     "geom:longitude":-118.329341,
@@ -33,11 +34,13 @@
     "sg:website":"www.footlocker.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868369
+        85688637
     ],
     "wof:brand_id":420574009,
     "wof:breaches":[],
@@ -48,19 +51,20 @@
     "wof:geomhash":"10a953a71bd8fbd15b9382025085d493",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":371063057
         }
     ],
     "wof:id":371063057,
-    "wof:lastmodified":1472338180,
+    "wof:lastmodified":1491868439,
     "wof:name":"Foot Locker",
-    "wof:parent_id":85868369,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

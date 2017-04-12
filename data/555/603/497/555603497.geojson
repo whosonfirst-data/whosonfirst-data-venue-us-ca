@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.331627,34.041309,-118.331627,34.041309",
     "geom:latitude":34.041309,
     "geom:longitude":-118.331627,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561155,
+        "85865813",
         102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85853935
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +54,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85853935,
+            "macrohood_id":1108694663,
+            "microhood_id":1108561155,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":555603497
         }
     ],
     "wof:id":555603497,
-    "wof:lastmodified":1472351953,
+    "wof:lastmodified":1491917827,
     "wof:name":"Montebello Recreation & Comm",
-    "wof:parent_id":85853935,
+    "wof:parent_id":1108561155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

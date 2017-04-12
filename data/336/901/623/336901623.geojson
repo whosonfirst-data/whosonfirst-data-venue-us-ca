@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25295,34.107992,-118.25295,34.107992",
     "geom:latitude":34.107992,
     "geom:longitude":-118.25295,
@@ -35,11 +36,13 @@
     "sg:website":"www.amecofan.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865845",
+        102191575,
+        1108692433,
         85633793,
         85923517,
         102086957,
-        85868367
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"4bcadb20bf091dc654bcd60452229b1a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868367,
+            "macrohood_id":1108692433,
+            "neighbourhood_id":"85865845",
             "region_id":85688637,
             "venue_id":336901623
         }
     ],
     "wof:id":336901623,
-    "wof:lastmodified":1472333289,
+    "wof:lastmodified":1491935105,
     "wof:name":"Air Moving Equipment Co",
-    "wof:parent_id":85868367,
+    "wof:parent_id":"85865845",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

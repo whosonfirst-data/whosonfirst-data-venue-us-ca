@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.977687,37.768444,-121.977687,37.768444",
     "geom:latitude":37.768444,
     "geom:longitude":-121.977687,
@@ -31,16 +32,31 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63iJJKqjYpXTyJIk9O77KC_37.768444_-121.977687@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cec5ec5e3bd4252fe83f525834bbf829",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555387897
+        }
+    ],
     "wof:id":555387897,
-    "wof:lastmodified":1472349260,
+    "wof:lastmodified":1491963792,
     "wof:name":"Corrosion Failure Analysis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

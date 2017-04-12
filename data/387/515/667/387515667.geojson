@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.654806,38.241222,-122.654806,38.241222",
     "geom:latitude":38.241222,
     "geom:longitude":-122.654806,
@@ -37,7 +38,9 @@
         85688637,
         85633793,
         85922701,
-        102081671
+        102081671,
+        85813067,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,26 @@
     "wof:geomhash":"008f9f7e32a44eb12786b5417e0b54c7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922701,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85813067,
+            "region_id":85688637,
+            "venue_id":387515667
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":387515667
         }
     ],
     "wof:id":387515667,
-    "wof:lastmodified":1472343919,
+    "wof:lastmodified":1491965316,
     "wof:name":"Institute Of Colour & Design",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

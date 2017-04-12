@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.131421,33.758885,-118.131421,33.758885",
     "geom:latitude":33.758885,
     "geom:longitude":-118.131421,
@@ -34,12 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,13 +50,6 @@
     "wof:geomhash":"dadf23bb12194d554f630eb92d9a0f21",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":571666439
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -63,12 +57,19 @@
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":571666439
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":571666439
         }
     ],
     "wof:id":571666439,
-    "wof:lastmodified":1472342917,
+    "wof:lastmodified":1491894987,
     "wof:name":"Aroma Diroma",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

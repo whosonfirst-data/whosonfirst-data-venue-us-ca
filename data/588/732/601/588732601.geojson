@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.15597,37.40632,-122.15597,37.40632",
     "geom:latitude":37.40632,
     "geom:longitude":-122.15597,
@@ -31,10 +32,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922351,
         102081673,
-        85836427
+        85836427,
+        85811817
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +47,28 @@
     "wof:geomhash":"25f9cf6ace47621b072837d3ad183182",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922351,
             "neighbourhood_id":85836427,
             "region_id":85688637,
             "venue_id":588732601
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85811817,
+            "region_id":85688637,
+            "venue_id":588732601
         }
     ],
     "wof:id":588732601,
-    "wof:lastmodified":1472353613,
+    "wof:lastmodified":1491958973,
     "wof:name":"DFMSim",
-    "wof:parent_id":85836427,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

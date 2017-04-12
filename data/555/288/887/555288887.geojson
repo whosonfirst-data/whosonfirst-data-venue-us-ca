@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.013138,38.794231,-123.013138,38.794231",
     "geom:latitude":38.794231,
     "geom:longitude":-123.013138,
@@ -31,16 +32,31 @@
         "protection"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5pNGi0RSEorLW4eiPOJDtf_38.794231_-123.013138@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"3aabaf0e7597fe974baaf35c8c639a10",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":555288887
+        }
+    ],
     "wof:id":555288887,
-    "wof:lastmodified":1472343994,
+    "wof:lastmodified":1491970507,
     "wof:name":"Windsor Fire Protection D",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713298,38.401592,-122.713298,38.401592",
     "geom:latitude":38.401592,
     "geom:longitude":-122.713298,
@@ -29,8 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922693,
+        102081671,
+        85880881,
+        102191575,
+        85880879
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +46,27 @@
     "wof:geomhash":"e729b13e539a736a67f619bf8324ef07",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880881,
+            "region_id":85688637,
+            "venue_id":320573113
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880879,
             "region_id":85688637,
             "venue_id":320573113
         }
     ],
     "wof:id":320573113,
-    "wof:lastmodified":1472335758,
+    "wof:lastmodified":1491969340,
     "wof:name":"Gas Mart",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

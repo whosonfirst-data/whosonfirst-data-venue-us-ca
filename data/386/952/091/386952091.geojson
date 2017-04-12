@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.354746,34.25406,-118.354746,34.25406",
     "geom:latitude":34.25406,
     "geom:longitude":-118.354746,
@@ -34,11 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865489",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865489
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +51,20 @@
     "wof:geomhash":"ea03c6c5af26a13f681a62737613f9ef",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865489,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865489",
             "region_id":85688637,
             "venue_id":386952091
         }
     ],
     "wof:id":386952091,
-    "wof:lastmodified":1472338023,
+    "wof:lastmodified":1491930940,
     "wof:name":"La Troupe",
-    "wof:parent_id":85865489,
+    "wof:parent_id":"85865489",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

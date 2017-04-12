@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.892921,37.423529,-121.892921,37.423529",
     "geom:latitude":37.423529,
     "geom:longitude":-121.892921,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        85887671,
+        102191575,
+        1108782553,
         85633793,
-        85922371,
+        85922347,
         102081673,
-        85887671
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,17 +53,18 @@
     "wof:geomhash":"9443ddc91cd200d700b1797945f9c158",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922371,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
             "neighbourhood_id":85887671,
             "region_id":85688637,
             "venue_id":387470527
         }
     ],
     "wof:id":387470527,
-    "wof:lastmodified":1472343680,
+    "wof:lastmodified":1491969621,
     "wof:name":"Adaptec Inc",
     "wof:parent_id":85887671,
     "wof:placetype":"venue",

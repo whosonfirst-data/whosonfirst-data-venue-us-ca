@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.131786,33.758021,-118.131786,33.758021",
     "geom:latitude":33.758021,
     "geom:longitude":-118.131786,
@@ -36,12 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,13 +52,6 @@
     "wof:geomhash":"68410336da2140c62dd3fdd9108ae46a",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":555308125
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -65,12 +59,19 @@
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":555308125
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":555308125
         }
     ],
     "wof:id":555308125,
-    "wof:lastmodified":1472344388,
+    "wof:lastmodified":1491895015,
     "wof:name":"Automatic Screw Machine Produc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

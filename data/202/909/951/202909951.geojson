@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230518,33.831486,-118.230518,33.831486",
     "geom:latitude":33.831486,
     "geom:longitude":-118.230518,
@@ -33,11 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923683,
         102086957,
-        85814819,
-        85814831
+        "85814831"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,28 +48,19 @@
     "wof:geomhash":"7a7afbf87e009a82a6a7a0d2f654af2e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
-            "region_id":85688637,
-            "venue_id":202909951
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85814831,
+            "neighbourhood_id":"85814831",
             "region_id":85688637,
             "venue_id":202909951
         }
     ],
     "wof:id":202909951,
-    "wof:lastmodified":1472333797,
+    "wof:lastmodified":1491926773,
     "wof:name":"Unimax Express Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85814831",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

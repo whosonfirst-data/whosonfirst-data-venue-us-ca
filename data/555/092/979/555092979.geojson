@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.915883,37.698311,-121.915883,37.698311",
     "geom:latitude":37.698311,
     "geom:longitude":-121.915883,
@@ -39,16 +40,31 @@
         "datum"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_77TMaVR7SBlkI2hz5x1v8s_37.698311_-121.915883@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"29c9de0367c63233f7ea7c0d4125fe01",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":555092979
+        }
+    ],
     "wof:id":555092979,
-    "wof:lastmodified":1472340854,
+    "wof:lastmodified":1491958519,
     "wof:name":"Frank Rourk Satellite Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

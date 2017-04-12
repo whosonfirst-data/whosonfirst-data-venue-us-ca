@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.240679,33.996224,-118.240679,33.996224",
     "geom:latitude":33.996224,
     "geom:longitude":-118.240679,
@@ -32,7 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108827631,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +50,21 @@
     "wof:geomhash":"a3fe930a1c7a30b23a1dfd821c829453",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1108827631,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":386955313
         }
     ],
     "wof:id":386955313,
-    "wof:lastmodified":1472338211,
+    "wof:lastmodified":1491868043,
     "wof:name":"City Of La Housing Pueblo Del Rio",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108827631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

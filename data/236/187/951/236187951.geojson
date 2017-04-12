@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.563523,38.026105,-122.563523,38.026105",
     "geom:latitude":38.026105,
     "geom:longitude":-122.563523,
@@ -36,9 +37,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85924663,
-        102084353
+        102084353,
+        85832461,
+        85922003,
+        420551353
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,28 @@
     "wof:geomhash":"01dc50a334680358a1092d44706573cd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85924663,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85832461,
+            "region_id":85688637,
+            "venue_id":236187951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922003,
+            "neighbourhood_id":420551353,
             "region_id":85688637,
             "venue_id":236187951
         }
     ],
     "wof:id":236187951,
-    "wof:lastmodified":1472331813,
+    "wof:lastmodified":1491967359,
     "wof:name":"Gray Sky Solutions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

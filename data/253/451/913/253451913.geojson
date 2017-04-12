@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.816033,37.363168,-121.816033,37.363168",
     "geom:latitude":37.363168,
     "geom:longitude":-121.816033,
@@ -35,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85925491,
         102081673,
-        85865159
+        85865159,
+        85925507,
+        420559999
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +52,28 @@
     "wof:geomhash":"fa091e1947c4249f1651cda77445d143",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":-1,
+            "locality_id":85925491,
             "neighbourhood_id":85865159,
+            "region_id":85688637,
+            "venue_id":253451913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925507,
+            "neighbourhood_id":420559999,
             "region_id":85688637,
             "venue_id":253451913
         }
     ],
     "wof:id":253451913,
-    "wof:lastmodified":1472333794,
+    "wof:lastmodified":1491950443,
     "wof:name":"Perez Gus Masonry & Concrete",
-    "wof:parent_id":85865159,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

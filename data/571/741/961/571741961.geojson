@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.433472,34.003564,-118.433472,34.003564",
     "geom:latitude":34.003564,
     "geom:longitude":-118.433472,
@@ -35,12 +36,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108561757,
+        "85832373",
         102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85868389
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,15 +57,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868389,
+            "macrohood_id":1108692797,
+            "microhood_id":1108561757,
+            "neighbourhood_id":"85832373",
             "region_id":85688637,
             "venue_id":571741961
         }
     ],
     "wof:id":571741961,
-    "wof:lastmodified":1472343943,
+    "wof:lastmodified":1491905532,
     "wof:name":"Video Exhibition",
-    "wof:parent_id":85868389,
+    "wof:parent_id":1108561757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

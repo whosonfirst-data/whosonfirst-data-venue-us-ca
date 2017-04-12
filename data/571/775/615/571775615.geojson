@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.955234,37.810464,-121.955234,37.810464",
     "geom:latitude":37.810464,
     "geom:longitude":-121.955234,
@@ -31,16 +32,31 @@
         "day"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fl4aBMOhY8cWKjVOYh3v1_37.810464_-121.955234@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b01a0d90f1ebdee61ff9e77dad9689ef",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":571775615
+        }
+    ],
     "wof:id":571775615,
-    "wof:lastmodified":1472344366,
+    "wof:lastmodified":1491949605,
     "wof:name":"Bright Horizons Childrens Ctrs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

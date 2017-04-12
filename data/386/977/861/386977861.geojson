@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.823895,37.374089,-121.823895,37.374089",
     "geom:latitude":37.374089,
     "geom:longitude":-121.823895,
@@ -30,10 +31,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85925491,
+        85925507,
         102081673,
-        85802961
+        420559369,
+        85802961,
+        1108782555,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +48,29 @@
     "wof:geomhash":"3efc6939d8a8ad0f07d444212bb66c74",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85925491,
+            "locality_id":85925507,
+            "neighbourhood_id":420559369,
+            "region_id":85688637,
+            "venue_id":386977861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782555,
             "neighbourhood_id":85802961,
             "region_id":85688637,
             "venue_id":386977861
         }
     ],
     "wof:id":386977861,
-    "wof:lastmodified":1472338774,
+    "wof:lastmodified":1491969514,
     "wof:name":"Ecarteblanche",
-    "wof:parent_id":85802961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

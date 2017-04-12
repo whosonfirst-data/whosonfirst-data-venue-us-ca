@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.327111,34.018688,-118.327111,34.018688",
     "geom:latitude":34.018688,
     "geom:longitude":-118.327111,
@@ -33,11 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420780759",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868349
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"45ecdbeea35068ef0df2d4f79263d782",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868349,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420780759",
             "region_id":85688637,
             "venue_id":303964969
         }
     ],
     "wof:id":303964969,
-    "wof:lastmodified":1472337580,
+    "wof:lastmodified":1491867575,
     "wof:name":"Westside One Inc",
-    "wof:parent_id":85868349,
+    "wof:parent_id":"420780759",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

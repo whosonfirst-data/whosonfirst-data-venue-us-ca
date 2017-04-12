@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.253979,34.046428,-118.253979,34.046428",
     "geom:latitude":34.046428,
     "geom:longitude":-118.253979,
@@ -30,11 +31,14 @@
     "sg:website":"www.youtube.com/watch?v=aGX7oDuHNx0",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108558929,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,21 @@
     "wof:geomhash":"16d40c02b229a0a3d2e856bc950a65bd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1108558929,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370598915
         }
     ],
     "wof:id":370598915,
-    "wof:lastmodified":1472342754,
+    "wof:lastmodified":1491927405,
     "wof:name":"Farah Jewelry",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1108558929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

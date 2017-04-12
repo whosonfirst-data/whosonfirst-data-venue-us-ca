@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.995311,37.243554,-121.995311,37.243554",
     "geom:latitude":37.243554,
     "geom:longitude":-121.995311,
@@ -31,16 +32,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GGKPaLSSYwtD06AUU7Jku_37.243554_-121.995311@1303263358"
     },
     "wof:country":"US",
     "wof:geomhash":"4f93e27955fc811ee75e09903b4f13d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552915,
+            "venue_id":588549233
+        }
+    ],
     "wof:id":588549233,
-    "wof:lastmodified":1472351502,
+    "wof:lastmodified":1491957575,
     "wof:name":"Bridgford Construction",
     "wof:parent_id":420552915,
     "wof:placetype":"venue",

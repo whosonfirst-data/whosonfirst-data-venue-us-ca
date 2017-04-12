@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.786347,36.933901,-121.786347,36.933901",
     "geom:latitude":36.933901,
     "geom:longitude":-121.786347,
@@ -32,16 +33,31 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921763,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63WvuNAJpT2wX06CXRAkif_36.933901_-121.786347@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"34a9a47b1497fe1ef1015639499669d0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921763,
+            "region_id":85688637,
+            "venue_id":555192503
+        }
+    ],
     "wof:id":555192503,
-    "wof:lastmodified":1472342763,
+    "wof:lastmodified":1491962422,
     "wof:name":"Pacific Aircare",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.458018,34.003627,-117.458018,34.003627",
     "geom:latitude":34.003627,
     "geom:longitude":-117.458018,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923319,
-        102086221
+        102086221,
+        85803479,
+        85877419,
+        85873349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,37 @@
     "wof:geomhash":"28d42ade3d081cc08fb26fcd19f0e2fe",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086221,
             "locality_id":85923319,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85803479,
+            "region_id":85688637,
+            "venue_id":387737489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923319,
+            "neighbourhood_id":85877419,
+            "region_id":85688637,
+            "venue_id":387737489
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086221,
+            "locality_id":85923319,
+            "neighbourhood_id":85873349,
             "region_id":85688637,
             "venue_id":387737489
         }
     ],
     "wof:id":387737489,
-    "wof:lastmodified":1472349371,
+    "wof:lastmodified":1491921677,
     "wof:name":"Vasquez Growers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

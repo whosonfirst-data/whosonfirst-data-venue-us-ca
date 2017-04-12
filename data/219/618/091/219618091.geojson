@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.24446,37.534621,-122.24446,37.534621",
     "geom:latitude":37.534621,
     "geom:longitude":-122.24446,
@@ -33,10 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922447,
         102085387,
-        85887105
+        85887105,
+        420552431
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,28 @@
     "wof:geomhash":"c234afeb84b0c76746981ef1f985d3ad",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922447,
             "neighbourhood_id":85887105,
             "region_id":85688637,
             "venue_id":219618091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":420552431,
+            "region_id":85688637,
+            "venue_id":219618091
         }
     ],
     "wof:id":219618091,
-    "wof:lastmodified":1472333251,
+    "wof:lastmodified":1491966625,
     "wof:name":"Travel Pro",
-    "wof:parent_id":85887105,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

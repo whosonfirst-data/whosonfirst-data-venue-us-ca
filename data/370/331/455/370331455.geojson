@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.273176,37.872457,-122.273176,37.872457",
     "geom:latitude":37.872457,
     "geom:longitude":-122.273176,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921915,
-        102086959
+        102086959,
+        85876233,
+        85876229,
+        85876225
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,37 @@
     "wof:geomhash":"72f7e774212442326fe1d3d709b39e56",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921915,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876233,
+            "region_id":85688637,
+            "venue_id":370331455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":85876229,
+            "region_id":85688637,
+            "venue_id":370331455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":85876225,
             "region_id":85688637,
             "venue_id":370331455
         }
     ],
     "wof:id":370331455,
-    "wof:lastmodified":1472339593,
+    "wof:lastmodified":1491959279,
     "wof:name":"Mary Bradford",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

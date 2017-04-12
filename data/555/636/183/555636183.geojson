@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.11999,38.012653,-122.11999,38.012653",
     "geom:latitude":38.012653,
     "geom:longitude":-122.11999,
@@ -32,16 +33,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hEcIEyrXMqxd6U5LBPOgM_38.012653_-122.119990@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9888fbb587e186f14d3721eefc02a3b5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":555636183
+        }
+    ],
     "wof:id":555636183,
-    "wof:lastmodified":1472351930,
+    "wof:lastmodified":1491949253,
     "wof:name":"Cowan & Thompson",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

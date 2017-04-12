@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.299069,34.018964,-118.299069,34.018964",
     "geom:latitude":34.018964,
     "geom:longitude":-118.299069,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85869223",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85811025
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"c41bb19002d2599d68d9d520c9ccf39a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85811025,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":354110581
         }
     ],
     "wof:id":354110581,
-    "wof:lastmodified":1472333014,
+    "wof:lastmodified":1491867972,
     "wof:name":"Greater Works Inc",
-    "wof:parent_id":85811025,
+    "wof:parent_id":"85869223",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

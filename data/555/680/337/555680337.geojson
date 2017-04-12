@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.171623,37.372249,-122.171623,37.372249",
     "geom:latitude":37.372249,
     "geom:longitude":-122.171623,
@@ -32,16 +33,31 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gLYBNjfv39lw35q7Ewk8X_37.372249_-122.171623@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cae08dbdfc94e37d7337b729cb353a66",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555680337
+        }
+    ],
     "wof:id":555680337,
-    "wof:lastmodified":1472352507,
+    "wof:lastmodified":1491956517,
     "wof:name":"Isp Intrntnal Semiconductors T",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

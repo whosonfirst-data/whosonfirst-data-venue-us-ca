@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.062279,37.689989,-122.062279,37.689989",
     "geom:latitude":37.689989,
     "geom:longitude":-122.062279,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85924511,
-        102086959
+        102086959,
+        420550409,
+        85885775
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"2c6868a61a86d9517e6d68ce67bda2de",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85924511,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550409,
+            "region_id":85688637,
+            "venue_id":354208457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85924511,
+            "neighbourhood_id":85885775,
             "region_id":85688637,
             "venue_id":354208457
         }
     ],
     "wof:id":354208457,
-    "wof:lastmodified":1472334788,
+    "wof:lastmodified":1491962468,
     "wof:name":"Curtis J Revak CPA",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

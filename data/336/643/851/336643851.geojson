@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.071374,37.634696,-122.071374,37.634696",
     "geom:latitude":37.634696,
     "geom:longitude":-122.071374,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921895,
-        102086959
+        102086959,
+        420550391,
+        85878051
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"0b07b15b23bd5580b2fa4fa67872936f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420550391,
+            "region_id":85688637,
+            "venue_id":336643851
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878051,
             "region_id":85688637,
             "venue_id":336643851
         }
     ],
     "wof:id":336643851,
-    "wof:lastmodified":1472331270,
+    "wof:lastmodified":1491968462,
     "wof:name":"Spanish Pentecostal Church",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

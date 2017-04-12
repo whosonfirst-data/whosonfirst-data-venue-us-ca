@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12675,37.41446,-122.12675,37.41446",
     "geom:latitude":37.41446,
     "geom:longitude":-122.12675,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922351,
-        102081673
+        102081673,
+        85879663,
+        85879695
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"18fa18c9fc01bb67ac716381be604241",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922351,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85879663,
+            "region_id":85688637,
+            "venue_id":186429139
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879695,
             "region_id":85688637,
             "venue_id":186429139
         }
     ],
     "wof:id":186429139,
-    "wof:lastmodified":1472332234,
+    "wof:lastmodified":1491959583,
     "wof:name":"Stanford Pet Clinic",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

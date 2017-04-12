@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.232524,34.033652,-118.232524,34.033652",
     "geom:latitude":34.033652,
     "geom:longitude":-118.232524,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869799
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"295a862526a99aedb611ea43d7013ecb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869799,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":320042505
         }
     ],
     "wof:id":320042505,
-    "wof:lastmodified":1472331154,
+    "wof:lastmodified":1491928401,
     "wof:name":"9-K Fashion",
-    "wof:parent_id":85869799,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.13365,33.760233,-118.13365,33.760233",
     "geom:latitude":33.760233,
     "geom:longitude":-118.13365,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85805639,
-        102086957,
         102191575,
+        85633793,
         85923525,
-        85836293
+        102086957,
+        85836293,
+        85805639
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,13 +46,6 @@
     "wof:geomhash":"900b279afc09870fa73adc8a75a3a301",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":555045083
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
@@ -59,12 +53,19 @@
             "neighbourhood_id":85836293,
             "region_id":85688637,
             "venue_id":555045083
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086957,
+            "neighbourhood_id":85805639,
+            "region_id":85688637,
+            "venue_id":555045083
         }
     ],
     "wof:id":555045083,
-    "wof:lastmodified":1472339503,
+    "wof:lastmodified":1491894999,
     "wof:name":"Ridge Realty",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

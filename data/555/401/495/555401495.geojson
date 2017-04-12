@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.515503,37.541455,-122.515503,37.541455",
     "geom:latitude":37.541455,
     "geom:longitude":-122.515503,
@@ -31,16 +32,31 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925823,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vziuXvUHO4o0ZI0JPYuzE_37.541455_-122.515503@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"40e54b4ab32e2f58a92fbce7b915f393",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925823,
+            "region_id":85688637,
+            "venue_id":555401495
+        }
+    ],
     "wof:id":555401495,
-    "wof:lastmodified":1472349485,
+    "wof:lastmodified":1491968546,
     "wof:name":"Greenhouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

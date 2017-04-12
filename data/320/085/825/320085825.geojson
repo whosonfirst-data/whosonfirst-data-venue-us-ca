@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.582997,36.77918,-119.582997,36.77918",
     "geom:latitude":36.77918,
     "geom:longitude":-119.582997,
@@ -34,8 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85923015,
+        102084347,
+        85833737,
+        85922995,
+        85871903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,26 @@
     "wof:geomhash":"9eb14e14a4c2e51c9bd3ed07606ae636",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102084347,
+            "locality_id":85923015,
+            "neighbourhood_id":85833737,
+            "region_id":85688637,
+            "venue_id":320085825
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85871903,
             "region_id":85688637,
             "venue_id":320085825
         }
     ],
     "wof:id":320085825,
-    "wof:lastmodified":1472331502,
+    "wof:lastmodified":1491916349,
     "wof:name":"Morgan & Morgan Land Leveling",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

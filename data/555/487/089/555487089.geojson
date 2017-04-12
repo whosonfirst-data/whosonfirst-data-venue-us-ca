@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.713579,38.387071,-122.713579,38.387071",
     "geom:latitude":38.387071,
     "geom:longitude":-122.713579,
@@ -34,8 +35,10 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85887151,
-        102081671
+        85922693,
+        102081671,
+        85880881,
+        85887151
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,23 @@
         {
             "country_id":85633793,
             "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880881,
+            "region_id":85688637,
+            "venue_id":555487089
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
             "neighbourhood_id":85887151,
             "region_id":85688637,
             "venue_id":555487089
         }
     ],
     "wof:id":555487089,
-    "wof:lastmodified":1472350949,
+    "wof:lastmodified":1491965518,
     "wof:name":"Dal-Tile",
-    "wof:parent_id":85887151,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

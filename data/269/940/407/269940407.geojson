@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.478712,37.993292,-122.478712,37.993292",
     "geom:latitude":37.993292,
     "geom:longitude":-122.478712,
@@ -36,9 +37,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85924645,
+        102084353,
+        85887911,
         85922003,
-        102084353
+        420551349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,28 @@
     "wof:geomhash":"d5ad24109461fa8a5c1d746e3ba30471",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924645,
+            "neighbourhood_id":85887911,
+            "region_id":85688637,
+            "venue_id":269940407
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922003,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551349,
             "region_id":85688637,
             "venue_id":269940407
         }
     ],
     "wof:id":269940407,
-    "wof:lastmodified":1472334483,
+    "wof:lastmodified":1491967138,
     "wof:name":"Cinespecial Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

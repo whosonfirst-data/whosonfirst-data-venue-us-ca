@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.208527,34.066127,-118.208527,34.066127",
     "geom:latitude":34.066127,
     "geom:longitude":-118.208527,
@@ -32,12 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
         102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85830641
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +53,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85830641,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":555318631
         }
     ],
     "wof:id":555318631,
-    "wof:lastmodified":1472344637,
+    "wof:lastmodified":1491909589,
     "wof:name":"Mar Fashion Inc",
-    "wof:parent_id":85830641,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.063967,37.983762,-122.063967,37.983762",
     "geom:latitude":37.983762,
     "geom:longitude":-122.063967,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922135,
+        102086225,
+        85886927,
+        102191575,
+        85925081,
+        420550491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,27 @@
     "wof:geomhash":"3f835afabd8a244cfcfac6f5dafc740e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086225,
+            "locality_id":85922135,
+            "neighbourhood_id":85886927,
+            "region_id":85688637,
+            "venue_id":269774111
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925081,
+            "neighbourhood_id":420550491,
             "region_id":85688637,
             "venue_id":269774111
         }
     ],
     "wof:id":269774111,
-    "wof:lastmodified":1472333442,
+    "wof:lastmodified":1491970893,
     "wof:name":"Concord Yellow Cab Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

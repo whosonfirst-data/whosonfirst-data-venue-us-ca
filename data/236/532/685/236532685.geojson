@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.327507,37.528354,-122.327507,37.528354",
     "geom:latitude":37.528354,
     "geom:longitude":-122.327507,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922431,
-        102085387
+        102085387,
+        85887865,
+        85887899
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"6901305482a9f4b1be157ac8884f63a7",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887865,
+            "region_id":85688637,
+            "venue_id":236532685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887899,
             "region_id":85688637,
             "venue_id":236532685
         }
     ],
     "wof:id":236532685,
-    "wof:lastmodified":1472334040,
+    "wof:lastmodified":1491906513,
     "wof:name":"Weigel Construction",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

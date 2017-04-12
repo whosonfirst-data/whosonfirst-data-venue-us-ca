@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.12835,38.057256,-122.12835,38.057256",
     "geom:latitude":38.057256,
     "geom:longitude":-122.12835,
@@ -36,16 +37,31 @@
         "espresso"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1r6Hm0ZNEctRgpCIkY9SVc_38.057256_-122.128350@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"bb95b3677082fb643e10623e5a291f1f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":588439993
+        }
+    ],
     "wof:id":588439993,
-    "wof:lastmodified":1472349533,
+    "wof:lastmodified":1491969813,
     "wof:name":"Rosie's Cafe",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

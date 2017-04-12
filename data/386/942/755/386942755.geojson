@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.230003,34.015099,-118.230003,34.015099",
     "geom:latitude":34.015099,
     "geom:longitude":-118.230003,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691525,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
-        85923779,
+        85923517,
         102086957,
-        85844155
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"e7b860d66450f22f54b0987a4f542fc8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923779,
-            "neighbourhood_id":85844155,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691525,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":386942755
         }
     ],
     "wof:id":386942755,
-    "wof:lastmodified":1472337810,
+    "wof:lastmodified":1491927807,
     "wof:name":"Tryst",
-    "wof:parent_id":85844155,
+    "wof:parent_id":1108691525,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

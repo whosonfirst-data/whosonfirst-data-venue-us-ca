@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.252789,34.128702,-118.252789,34.128702",
     "geom:latitude":34.128702,
     "geom:longitude":-118.252789,
@@ -30,12 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85923517,
-        102086957,
-        85877765,
         85923615,
-        85877763
+        102086957,
+        85877763,
+        "85877765"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,28 +46,28 @@
     "wof:geomhash":"0184aa5f7a89e93c35df064304448f69",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85877765,
-            "region_id":85688637,
-            "venue_id":219276817
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923615,
             "neighbourhood_id":85877763,
             "region_id":85688637,
             "venue_id":219276817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923615,
+            "neighbourhood_id":"85877765",
+            "region_id":85688637,
+            "venue_id":219276817
         }
     ],
     "wof:id":219276817,
-    "wof:lastmodified":1472331416,
+    "wof:lastmodified":1491936581,
     "wof:name":"Teagle Optometry",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

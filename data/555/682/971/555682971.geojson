@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296775,37.897544,-122.296775,37.897544",
     "geom:latitude":37.897544,
     "geom:longitude":-122.296775,
@@ -28,18 +29,35 @@
     "sg:postcode":"94706",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959,
+        85885545
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fTu3ngSZrU5Qc3BtZnaJ7_37.897544_-122.296775@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"4d0b94b9fc00e16df4d15533d2fc5ec3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "neighbourhood_id":85885545,
+            "region_id":85688637,
+            "venue_id":555682971
+        }
+    ],
     "wof:id":555682971,
-    "wof:lastmodified":1472352599,
+    "wof:lastmodified":1491956991,
     "wof:name":"Rodgers Janise",
-    "wof:parent_id":-1,
+    "wof:parent_id":85885545,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

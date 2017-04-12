@@ -38,16 +38,15 @@
     "sg:website":"http://www.theparty.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102527529,
-        1108779019,
-        102191575,
-        1108782553,
-        85633793,
-        85922347,
-        102081673,
         85688637,
+        102191575,
+        85633793,
+        85922341,
+        102081673,
         85869525,
-        85922341
+        1108784973,
+        1108782553,
+        85922347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,18 +56,6 @@
     "wof:geomhash":"f184e2f91c60ccace7c408aaf12a2dd1",
     "wof:hierarchy":[
         {
-            "campus_id":102527529,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "neighbourhood_id":1108779019,
-            "region_id":85688637,
-            "venue_id":588730317
-        },
-        {
-            "campus_id":102527529,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
@@ -76,12 +63,22 @@
             "neighbourhood_id":85869525,
             "region_id":85688637,
             "venue_id":588730317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922347,
+            "macrohood_id":1108782553,
+            "neighbourhood_id":1108784973,
+            "region_id":85688637,
+            "venue_id":588730317
         }
     ],
     "wof:id":588730317,
-    "wof:lastmodified":1485458002,
+    "wof:lastmodified":1491957399,
     "wof:name":"The Party Network",
-    "wof:parent_id":102527529,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

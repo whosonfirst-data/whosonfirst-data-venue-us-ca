@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.543509,38.562644,-122.543509,38.562644",
     "geom:latitude":38.562644,
     "geom:longitude":-122.543509,
@@ -36,16 +37,29 @@
         "equipment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YXgqmptcl6QPlXWmcSWem_38.562644_-122.543509@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"44e84e40d80e2eba3c506b7df54e1187",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "region_id":85688637,
+            "venue_id":555352395
+        }
+    ],
     "wof:id":555352395,
-    "wof:lastmodified":1472347661,
+    "wof:lastmodified":1491965744,
     "wof:name":"Jim's Supply Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

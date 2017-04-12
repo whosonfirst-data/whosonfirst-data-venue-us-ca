@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.298067,34.025512,-118.298067,34.025512",
     "geom:latitude":34.025512,
     "geom:longitude":-118.298067,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996447,
+        102191575,
+        1108692435,
         85633793,
-        85688637
+        85923517,
+        102086957,
+        85688637,
+        "85869223"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,30 @@
     "wof:geomhash":"dd0d54d2505c182edfa9b874e00781a4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996447,
+            "region_id":85688637,
+            "venue_id":404013103
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85869223",
             "region_id":85688637,
             "venue_id":404013103
         }
     ],
     "wof:id":404013103,
-    "wof:lastmodified":1472336950,
+    "wof:lastmodified":1491867595,
     "wof:name":"John's Village Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

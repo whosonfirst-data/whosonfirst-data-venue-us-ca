@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.159364,37.450084,-122.159364,37.450084",
     "geom:latitude":37.450084,
     "geom:longitude":-122.159364,
@@ -28,16 +29,31 @@
     "sg:province":"CA",
     "sg:website":"http://metachannels.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Z5wOvFe5UfZBvzedalWNo_37.450084_-122.159364@1308186499"
     },
     "wof:country":"US",
     "wof:geomhash":"0211a9e39eeefc703994e08a00c8a327",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":588733001
+        }
+    ],
     "wof:id":588733001,
-    "wof:lastmodified":1472353604,
+    "wof:lastmodified":1491957191,
     "wof:name":"MetaChannels",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

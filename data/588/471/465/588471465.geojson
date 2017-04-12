@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.928091,37.701469,-121.928091,37.701469",
     "geom:latitude":37.701469,
     "geom:longitude":-121.928091,
@@ -53,16 +54,31 @@
     ],
     "sg:website":"http://www.edgemotorworks.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0stsiK5F6IrvchqdlpXywU_37.701469_-121.928091@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"e1ce2546b921172ce892dc82b453c1ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471465
+        }
+    ],
     "wof:id":588471465,
-    "wof:lastmodified":1472350597,
+    "wof:lastmodified":1491961722,
     "wof:name":"Edge Motorworks",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

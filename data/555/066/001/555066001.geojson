@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.036602,37.84624,-122.036602,37.84624",
     "geom:latitude":37.84624,
     "geom:longitude":-122.036602,
@@ -33,16 +34,31 @@
         "relay"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925181,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O50cIvsAOcvEZnqnTr8Ju_37.846240_-122.036602@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"fcd2dc80da2e6ae9a653d989a7910b21",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925181,
+            "region_id":85688637,
+            "venue_id":555066001
+        }
+    ],
     "wof:id":555066001,
-    "wof:lastmodified":1472339707,
+    "wof:lastmodified":1491963756,
     "wof:name":"Coral Controls",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

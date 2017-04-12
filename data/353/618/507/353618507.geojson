@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.232266,33.83926,-118.232266,33.83926",
     "geom:latitude":33.83926,
     "geom:longitude":-118.232266,
@@ -34,11 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85817751,
         85923683,
-        85814819
+        102086957,
+        85817751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +49,19 @@
     "wof:geomhash":"3db2ef0b48ed7ec1b4cfc0a2b6d5c62f",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85817751,
-            "region_id":85688637,
-            "venue_id":353618507
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
+            "neighbourhood_id":85817751,
             "region_id":85688637,
             "venue_id":353618507
         }
     ],
     "wof:id":353618507,
-    "wof:lastmodified":1472334065,
+    "wof:lastmodified":1491926766,
     "wof:name":"Western Tube & Conduit Corp",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.02767,37.35556,-122.02767,37.35556",
     "geom:latitude":37.35556,
     "geom:longitude":-122.02767,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922333,
-        102081673
+        102081673,
+        85881205,
+        85851499
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"af6307f8e45cd8583892b826096c76e4",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922333,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85881205,
+            "region_id":85688637,
+            "venue_id":354336479
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922333,
+            "neighbourhood_id":85851499,
             "region_id":85688637,
             "venue_id":354336479
         }
     ],
     "wof:id":354336479,
-    "wof:lastmodified":1472335933,
+    "wof:lastmodified":1491924339,
     "wof:name":"Inoovative Electronic Solution",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

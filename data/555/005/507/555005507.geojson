@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.576939,37.973319,-122.576939,37.973319",
     "geom:latitude":37.973319,
     "geom:longitude":-122.576939,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922013,
+        85922009,
         102084353,
+        85887203,
+        85922013,
         85887205
     ],
     "wof:breaches":[],
@@ -46,6 +50,15 @@
     "wof:geomhash":"f3af7d6603715041faa27846c53a5846",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922009,
+            "neighbourhood_id":85887203,
+            "region_id":85688637,
+            "venue_id":555005507
+        },
+        {
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922013,
@@ -55,9 +68,9 @@
         }
     ],
     "wof:id":555005507,
-    "wof:lastmodified":1472337306,
+    "wof:lastmodified":1491956581,
     "wof:name":"Electronic University Pub",
-    "wof:parent_id":85887205,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

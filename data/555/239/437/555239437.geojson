@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.258622,37.887068,-122.258622,37.887068",
     "geom:latitude":37.887068,
     "geom:longitude":-122.258622,
@@ -33,16 +34,31 @@
         "research"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QjzdWcENwnmw65mmr6S87_37.887068_-122.258622@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5f29180a7682d6cd4406fdb0b407a963",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":555239437
+        }
+    ],
     "wof:id":555239437,
-    "wof:lastmodified":1472343363,
+    "wof:lastmodified":1491958947,
     "wof:name":"Jeffrey B Gould",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

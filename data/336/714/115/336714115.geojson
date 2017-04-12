@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.054808,37.606025,-122.054808,37.606025",
     "geom:latitude":37.606025,
     "geom:longitude":-122.054808,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85921863,
-        102086959
+        85921895,
+        102086959,
+        85878069,
+        85809601
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"4816875fa27bf214fe32c92c9c7d0687",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
-            "locality_id":85921863,
-            "neighbourhood_id":-1,
+            "locality_id":85921895,
+            "neighbourhood_id":85878069,
+            "region_id":85688637,
+            "venue_id":336714115
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85809601,
             "region_id":85688637,
             "venue_id":336714115
         }
     ],
     "wof:id":336714115,
-    "wof:lastmodified":1472331776,
+    "wof:lastmodified":1491965831,
     "wof:name":"Interlink Home Loan Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

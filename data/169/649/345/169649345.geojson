@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.728402,38.464213,-122.728402,38.464213",
     "geom:latitude":38.464213,
     "geom:longitude":-122.728402,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922693,
-        102081671
+        102081671,
+        85880877,
+        85880885
     ],
     "wof:brand_id":420575667,
     "wof:breaches":[],
@@ -49,19 +53,27 @@
     "wof:geomhash":"823947cc91b2366b8a318128649a12bb",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922693,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880877,
+            "region_id":85688637,
+            "venue_id":169649345
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922693,
+            "neighbourhood_id":85880885,
             "region_id":85688637,
             "venue_id":169649345
         }
     ],
     "wof:id":169649345,
-    "wof:lastmodified":1472334837,
+    "wof:lastmodified":1491956041,
     "wof:name":"World Savings Bank",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

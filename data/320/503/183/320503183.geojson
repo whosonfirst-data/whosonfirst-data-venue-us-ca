@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.251676,34.057486,-118.251676,34.057486",
     "geom:latitude":34.057486,
     "geom:longitude":-118.251676,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531599,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869149
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"42591c81a2a3cf364d04521cd5ef5fb0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869149,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531599,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":320503183
         }
     ],
     "wof:id":320503183,
-    "wof:lastmodified":1472335586,
+    "wof:lastmodified":1491927820,
     "wof:name":"Palmer Properties & Dev Inc",
-    "wof:parent_id":85869149,
+    "wof:parent_id":1041531599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

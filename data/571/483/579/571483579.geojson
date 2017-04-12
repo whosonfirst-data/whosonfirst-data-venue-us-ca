@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291875,38.324216,-122.291875,38.324216",
     "geom:latitude":38.324216,
     "geom:longitude":-122.291875,
@@ -35,9 +36,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85921993,
+        102085383,
+        85886547,
         85886543,
-        102085383
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +52,35 @@
     "wof:geomhash":"c43528aaa26181d1531f873b6652166b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85886547,
+            "region_id":85688637,
+            "venue_id":571483579
+        },
+        {
             "country_id":85633793,
             "county_id":102085383,
             "neighbourhood_id":85886543,
             "region_id":85688637,
             "venue_id":571483579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921993,
+            "neighbourhood_id":85853067,
+            "region_id":85688637,
+            "venue_id":571483579
         }
     ],
     "wof:id":571483579,
-    "wof:lastmodified":1472337643,
+    "wof:lastmodified":1491960512,
     "wof:name":"Professional Home Care Assoc",
-    "wof:parent_id":85886543,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

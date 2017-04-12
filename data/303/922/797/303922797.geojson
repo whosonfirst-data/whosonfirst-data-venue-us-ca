@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.809706,38.539431,-122.809706,38.539431",
     "geom:latitude":38.539431,
     "geom:longitude":-122.809706,
@@ -35,7 +36,11 @@
         85688637,
         85633793,
         85922677,
-        102081671
+        102081671,
+        85848367,
+        102191575,
+        85888235,
+        85816945
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,34 @@
     "wof:geomhash":"c8a49b063fb0f91c225d48e0bf314e60",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922677,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85848367,
+            "region_id":85688637,
+            "venue_id":303922797
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922677,
+            "neighbourhood_id":85888235,
+            "region_id":85688637,
+            "venue_id":303922797
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85816945,
             "region_id":85688637,
             "venue_id":303922797
         }
     ],
     "wof:id":303922797,
-    "wof:lastmodified":1472336386,
+    "wof:lastmodified":1491947837,
     "wof:name":"Rayve Fulfillment",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.199638,37.479959,-122.199638,37.479959",
     "geom:latitude":37.479959,
     "geom:longitude":-122.199638,
@@ -29,8 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922447,
+        102085387,
+        85887043,
+        85925811,
+        85887013
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,28 @@
     "wof:geomhash":"946888637d26ace80f2a7e520bea039d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085387,
+            "locality_id":85922447,
+            "neighbourhood_id":85887043,
+            "region_id":85688637,
+            "venue_id":269731473
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925811,
+            "neighbourhood_id":85887013,
             "region_id":85688637,
             "venue_id":269731473
         }
     ],
     "wof:id":269731473,
-    "wof:lastmodified":1472333115,
+    "wof:lastmodified":1491959408,
     "wof:name":"5th Avenue Beauty Salon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

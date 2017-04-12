@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.291538,34.027767,-118.291538,34.027767",
     "geom:latitude":34.027767,
     "geom:longitude":-118.291538,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1058996447,
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868339
+        85688637,
+        "420551237"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,30 @@
     "wof:geomhash":"d009ade6eaf28a96f08bce42902c9dee",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868339,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996447,
+            "region_id":85688637,
+            "venue_id":269493897
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":269493897
         }
     ],
     "wof:id":269493897,
-    "wof:lastmodified":1472330995,
+    "wof:lastmodified":1491868131,
     "wof:name":"Katerine Electronic",
-    "wof:parent_id":85868339,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

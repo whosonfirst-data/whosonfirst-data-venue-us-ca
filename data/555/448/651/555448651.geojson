@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.598455,37.064375,-121.598455,37.064375",
     "geom:latitude":37.064375,
     "geom:longitude":-121.598455,
@@ -33,16 +34,31 @@
         "refinishing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2cCh3lTda45glHeLDI0muZ_37.064375_-121.598455@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"cfbbd86ec13494cbfba48e66fadad5d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":555448651
+        }
+    ],
     "wof:id":555448651,
-    "wof:lastmodified":1472350279,
+    "wof:lastmodified":1491959157,
     "wof:name":"Golfmaster",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

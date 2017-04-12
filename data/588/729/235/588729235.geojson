@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.944948,37.71404,-121.944948,37.71404",
     "geom:latitude":37.71404,
     "geom:longitude":-121.944948,
@@ -28,16 +29,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.mobifusion.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04uSRQSDy1AWd8wgG0k3iu_37.714040_-121.944948@1308186497"
     },
     "wof:country":"US",
     "wof:geomhash":"ffa6d46adc590b021e1345ffdbf83b2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588729235
+        }
+    ],
     "wof:id":588729235,
-    "wof:lastmodified":1472353569,
+    "wof:lastmodified":1491958357,
     "wof:name":"Mobifusion",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

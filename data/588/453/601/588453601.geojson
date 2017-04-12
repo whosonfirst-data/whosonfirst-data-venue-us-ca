@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.029924,37.676206,-122.029924,37.676206",
     "geom:latitude":37.676206,
     "geom:longitude":-122.029924,
@@ -32,16 +33,25 @@
         "driving"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iATcuZHEKAaePU37bQ65A_37.676206_-122.029924@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"11ff9ae32a728e8e2c7cb4c7a331e78b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588453601
+        }
+    ],
     "wof:id":588453601,
-    "wof:lastmodified":1472349952,
+    "wof:lastmodified":1491958351,
     "wof:name":"Bobby's Driving School",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.330572,33.98516,-118.330572,33.98516",
     "geom:latitude":33.98516,
     "geom:longitude":-118.330572,
@@ -39,11 +40,13 @@
     "sg:website":"www.saveafricaschildren.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868369
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +56,20 @@
     "wof:geomhash":"45df5694003e96f20f7c6577f2457762",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":371059575
         }
     ],
     "wof:id":371059575,
-    "wof:lastmodified":1472338203,
+    "wof:lastmodified":1491868472,
     "wof:name":"Save Africa's Children",
-    "wof:parent_id":85868369,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.307265,37.880033,-122.307265,37.880033",
     "geom:latitude":37.880033,
     "geom:longitude":-122.307265,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85921919,
+        102086959,
+        85885547,
         85921915,
-        102086959
+        85876237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"ff625db01e84dccfc394f7893992f356",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "neighbourhood_id":85885547,
+            "region_id":85688637,
+            "venue_id":219426059
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921915,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876237,
             "region_id":85688637,
             "venue_id":219426059
         }
     ],
     "wof:id":219426059,
-    "wof:lastmodified":1472332141,
+    "wof:lastmodified":1491950414,
     "wof:name":"Chuck Peery Racing Stable",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

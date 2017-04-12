@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.922635,37.464138,-121.922635,37.464138",
     "geom:latitude":37.464138,
     "geom:longitude":-121.922635,
@@ -43,16 +44,31 @@
         "store"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ZlwgzzJFXx3iYRsq4Sy68_37.464138_-121.922635@1303263331"
     },
     "wof:country":"US",
     "wof:geomhash":"4081cf2aad4fecc49f959e19d847036d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588451583
+        }
+    ],
     "wof:id":588451583,
-    "wof:lastmodified":1472349753,
+    "wof:lastmodified":1491957594,
     "wof:name":"Atlas Copco Compressors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

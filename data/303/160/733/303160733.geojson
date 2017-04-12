@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.379195,33.194809,-117.379195,33.194809",
     "geom:latitude":33.194809,
     "geom:longitude":-117.379195,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922239,
-        102083569
+        102083569,
+        420552037,
+        85881903
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"a354d964b0b03e857bab7d945beeac7a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922239,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420552037,
+            "region_id":85688637,
+            "venue_id":303160733
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922239,
+            "neighbourhood_id":85881903,
             "region_id":85688637,
             "venue_id":303160733
         }
     ],
     "wof:id":303160733,
-    "wof:lastmodified":1472332560,
+    "wof:lastmodified":1491902445,
     "wof:name":"Link Of Love Intl",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

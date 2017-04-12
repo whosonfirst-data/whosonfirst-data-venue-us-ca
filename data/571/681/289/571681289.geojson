@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.259076,37.507115,-122.259076,37.507115",
     "geom:latitude":37.507115,
     "geom:longitude":-122.259076,
@@ -37,7 +38,8 @@
         85633793,
         85922437,
         102085387,
-        85887241
+        85887241,
+        85887235
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,21 @@
             "neighbourhood_id":85887241,
             "region_id":85688637,
             "venue_id":571681289
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922437,
+            "neighbourhood_id":85887235,
+            "region_id":85688637,
+            "venue_id":571681289
         }
     ],
     "wof:id":571681289,
-    "wof:lastmodified":1472343088,
+    "wof:lastmodified":1491966626,
     "wof:name":"Charlotte's Corner & Deli",
-    "wof:parent_id":85887241,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

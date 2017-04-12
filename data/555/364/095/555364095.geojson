@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.99107,37.17284,-121.99107,37.17284",
     "geom:latitude":37.17284,
     "geom:longitude":-121.99107,
@@ -32,18 +33,31 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        85633793,
+        85886349,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B4CPttKkUUVTpz3QXlLfA_37.172840_-121.991070@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"149c04b643be14cf8bb1d9828a903b65",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102081673,
+            "neighbourhood_id":85886349,
+            "region_id":85688637,
+            "venue_id":555364095
+        }
+    ],
     "wof:id":555364095,
-    "wof:lastmodified":1472348709,
+    "wof:lastmodified":1491949504,
     "wof:name":"Patt Mann Berry Design & Advtg",
-    "wof:parent_id":-1,
+    "wof:parent_id":85886349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

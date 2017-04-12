@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.086147,34.142202,-118.086147,34.142202",
     "geom:latitude":34.142202,
     "geom:longitude":-118.086147,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923487,
-        102086957
+        102086957,
+        85816667,
+        85810423
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"4a7d253acbf0519a58e6d501c9c2b58e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923487,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85816667,
+            "region_id":85688637,
+            "venue_id":353931143
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923487,
+            "neighbourhood_id":85810423,
             "region_id":85688637,
             "venue_id":353931143
         }
     ],
     "wof:id":353931143,
-    "wof:lastmodified":1472337531,
+    "wof:lastmodified":1491933255,
     "wof:name":"Green Fresh Chrstmas Tree Frms",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

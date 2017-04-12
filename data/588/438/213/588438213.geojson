@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.591617,37.904353,-121.591617,37.904353",
     "geom:latitude":37.904353,
     "geom:longitude":-121.591617,
@@ -31,16 +32,31 @@
         "home"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925147,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7I3SERbA58FK16q22kDEPG_37.904353_-121.591617@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"6c191277f1e1e6e468c10d70d0f4c854",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925147,
+            "region_id":85688637,
+            "venue_id":588438213
+        }
+    ],
     "wof:id":588438213,
-    "wof:lastmodified":1472349437,
+    "wof:lastmodified":1491959124,
     "wof:name":"Hillside Erosion Control",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.254175,33.931183,-118.254175,33.931183",
     "geom:latitude":33.931183,
     "geom:longitude":-118.254175,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85854791",
+        102191575,
+        1108692435,
         85633793,
-        85923683,
+        85923517,
         102086957,
-        85869319
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"5c7b1b17aff2e8ce0b3336da6bb6997b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85869319,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85854791",
             "region_id":85688637,
             "venue_id":303738967
         }
     ],
     "wof:id":303738967,
-    "wof:lastmodified":1472335713,
+    "wof:lastmodified":1491867490,
     "wof:name":"Citycamp",
-    "wof:parent_id":85869319,
+    "wof:parent_id":"85854791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

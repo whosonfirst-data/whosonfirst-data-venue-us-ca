@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.597942,38.088862,-122.597942,38.088862",
     "geom:latitude":38.088862,
     "geom:longitude":-122.597942,
@@ -31,16 +32,29 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dPx2TVTqHfI8uknxwaYue_38.088862_-122.597942@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"b4aa8286a9d01e65c4bc1e3a5c0c7305",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "region_id":85688637,
+            "venue_id":555222545
+        }
+    ],
     "wof:id":555222545,
-    "wof:lastmodified":1472343205,
+    "wof:lastmodified":1491958784,
     "wof:name":"O'Day Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

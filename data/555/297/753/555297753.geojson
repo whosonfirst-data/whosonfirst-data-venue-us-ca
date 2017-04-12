@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.465802,37.503107,-122.465802,37.503107",
     "geom:latitude":37.503107,
     "geom:longitude":-122.465802,
@@ -28,16 +29,31 @@
     "sg:postcode":"94019",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925837,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iPSSMevW4WobgKHD7iadz_37.503107_-122.465802@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d9bae368b3fdafad0c84b751340e37cb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925837,
+            "region_id":85688637,
+            "venue_id":555297753
+        }
+    ],
     "wof:id":555297753,
-    "wof:lastmodified":1472344230,
+    "wof:lastmodified":1491962255,
     "wof:name":"F V Westerly",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

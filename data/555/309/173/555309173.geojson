@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.906161,38.000572,-121.906161,38.000572",
     "geom:latitude":38.000572,
     "geom:longitude":-121.906161,
@@ -32,16 +33,31 @@
         "construction"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922139,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6O3pKB7mY6U634PN2EHoP6_38.000572_-121.906161@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"e686b285c159bafc75c63ac7dc948d37",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922139,
+            "region_id":85688637,
+            "venue_id":555309173
+        }
+    ],
     "wof:id":555309173,
-    "wof:lastmodified":1472344466,
+    "wof:lastmodified":1491962259,
     "wof:name":"Brohman Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

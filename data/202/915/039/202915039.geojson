@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.259276,34.044418,-118.259276,34.044418",
     "geom:latitude":34.044418,
     "geom:longitude":-118.259276,
@@ -34,7 +35,12 @@
     "sg:website":"www.wtc-inc.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +51,20 @@
     "wof:geomhash":"d2cde86fd556144fa77b9e9559b65910",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":202915039
         }
     ],
     "wof:id":202915039,
-    "wof:lastmodified":1472333738,
+    "wof:lastmodified":1491927528,
     "wof:name":"Western Telecommunication",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

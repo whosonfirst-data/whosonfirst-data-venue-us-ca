@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.977702,37.779336,-121.977702,37.779336",
     "geom:latitude":37.779336,
     "geom:longitude":-121.977702,
@@ -32,16 +33,31 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gTPgya2ZV33n5Y0rH154j_37.779336_-121.977702@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"db5ae79d465ca8bd860e05d1a5d4088a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":554968065
+        }
+    ],
     "wof:id":554968065,
-    "wof:lastmodified":1472337589,
+    "wof:lastmodified":1491961135,
     "wof:name":"Canyon Professional Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

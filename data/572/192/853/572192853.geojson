@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.999168,37.821081,-121.999168,37.821081",
     "geom:latitude":37.821081,
     "geom:longitude":-121.999168,
@@ -34,16 +35,31 @@
         "californian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mNFaeTKtCwyZeM1RwsaZU_37.821081_-121.999168@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"41fb1edff7efb4345a1e89b1c4b3910c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":572192853
+        }
+    ],
     "wof:id":572192853,
-    "wof:lastmodified":1472343630,
+    "wof:lastmodified":1491950420,
     "wof:name":"The Peasant & The Pear",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

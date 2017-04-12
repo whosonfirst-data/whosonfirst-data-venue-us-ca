@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.163503,37.444018,-122.163503,37.444018",
     "geom:latitude":37.444018,
     "geom:longitude":-122.163503,
@@ -32,16 +33,31 @@
         "maintenance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3RAWrWFFcSo4zRauhc7LVk_37.444018_-122.163503@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"20e65717269db3957b58c275f9627665",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555607099
+        }
+    ],
     "wof:id":555607099,
-    "wof:lastmodified":1472351918,
+    "wof:lastmodified":1491966054,
     "wof:name":"Stevens Development Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

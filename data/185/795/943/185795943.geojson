@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.086373,37.647905,-122.086373,37.647905",
     "geom:latitude":37.647905,
     "geom:longitude":-122.086373,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921895,
-        102086959
+        102086959,
+        85878067,
+        85878051,
+        85878055
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,37 @@
     "wof:geomhash":"98d776b2de50558788f430c009485761",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921895,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85878067,
+            "region_id":85688637,
+            "venue_id":185795943
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878051,
+            "region_id":85688637,
+            "venue_id":185795943
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921895,
+            "neighbourhood_id":85878055,
             "region_id":85688637,
             "venue_id":185795943
         }
     ],
     "wof:id":185795943,
-    "wof:lastmodified":1472332139,
+    "wof:lastmodified":1491961112,
     "wof:name":"Oceanview Concrete & Land",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

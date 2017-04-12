@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.27395,33.932954,-118.27395,33.932954",
     "geom:latitude":33.932954,
     "geom:longitude":-118.27395,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868337",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85849847
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"ff021c208c0b7846fcfe7a7cda6698df",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85849847,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
             "region_id":85688637,
             "venue_id":353746187
         }
     ],
     "wof:id":353746187,
-    "wof:lastmodified":1472335572,
+    "wof:lastmodified":1491867574,
     "wof:name":"Rich Rina",
-    "wof:parent_id":85849847,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

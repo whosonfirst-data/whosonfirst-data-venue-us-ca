@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.139041,37.456969,-122.139041,37.456969",
     "geom:latitude":37.456969,
     "geom:longitude":-122.139041,
@@ -35,9 +36,14 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        85922525,
-        102085387
+        85922503,
+        102085387,
+        85886403,
+        85922351,
+        102081673,
+        85879671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +53,28 @@
     "wof:geomhash":"5c17cc65e0de869720d995c9cc8ab232",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
-            "locality_id":85922525,
-            "neighbourhood_id":-1,
+            "locality_id":85922503,
+            "neighbourhood_id":85886403,
+            "region_id":85688637,
+            "venue_id":370986173
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "neighbourhood_id":85879671,
             "region_id":85688637,
             "venue_id":370986173
         }
     ],
     "wof:id":370986173,
-    "wof:lastmodified":1472349328,
+    "wof:lastmodified":1491960950,
     "wof:name":"Renkes Saelon",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

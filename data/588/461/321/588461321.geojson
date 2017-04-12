@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.323327,37.695763,-122.323327,37.695763",
     "geom:latitude":37.695763,
     "geom:longitude":-122.323327,
@@ -31,16 +32,31 @@
         "key"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922551,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06PtXo1wlG4PF0tUCbb40L_37.695763_-122.323327@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"31c8deb72b62fe33199cc16d3a29bc55",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922551,
+            "region_id":85688637,
+            "venue_id":588461321
+        }
+    ],
     "wof:id":588461321,
-    "wof:lastmodified":1472350312,
+    "wof:lastmodified":1491948749,
     "wof:name":"Young's Lock & Key",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.993863,37.252856,-121.993863,37.252856",
     "geom:latitude":37.252856,
     "geom:longitude":-121.993863,
@@ -31,16 +32,25 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jg2RqCHc5ZWOiRYLdvb13_37.252856_-121.993863@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"782f166492b254565eea50fdcb08634d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552915,
+            "venue_id":571816679
+        }
+    ],
     "wof:id":571816679,
-    "wof:lastmodified":1472345277,
+    "wof:lastmodified":1491963921,
     "wof:name":"Integrated Technology Svc",
     "wof:parent_id":420552915,
     "wof:placetype":"venue",

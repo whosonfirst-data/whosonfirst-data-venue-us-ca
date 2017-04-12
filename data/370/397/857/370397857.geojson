@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.311996,34.0718,-118.311996,34.0718",
     "geom:latitude":34.0718,
     "geom:longitude":-118.311996,
@@ -32,11 +33,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865819",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85886329
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +49,20 @@
     "wof:geomhash":"0a414d15aee37b4331fa380d5c16a25e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85886329,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865819",
             "region_id":85688637,
             "venue_id":370397857
         }
     ],
     "wof:id":370397857,
-    "wof:lastmodified":1472340666,
+    "wof:lastmodified":1491923954,
     "wof:name":"Granmercy Tower Apartments",
-    "wof:parent_id":85886329,
+    "wof:parent_id":"85865819",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

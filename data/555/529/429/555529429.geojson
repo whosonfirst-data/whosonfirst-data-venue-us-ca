@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.979056,37.782384,-121.979056,37.782384",
     "geom:latitude":37.782384,
     "geom:longitude":-121.979056,
@@ -31,16 +32,31 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0S5Af4mwRZnme5hdZM0DE5_37.782384_-121.979056@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"3f9f1aeb4b7bde6a59ba7d67ebd24b7c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555529429
+        }
+    ],
     "wof:id":555529429,
-    "wof:lastmodified":1472351329,
+    "wof:lastmodified":1491956705,
     "wof:name":"Bedrock Gas",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

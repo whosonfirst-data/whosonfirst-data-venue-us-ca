@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.590021,34.193426,-118.590021,34.193426",
     "geom:latitude":34.193426,
     "geom:longitude":-118.590021,
@@ -45,12 +46,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1108691517,
+        "85858757",
         102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85858293
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -64,15 +67,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858293,
+            "macrohood_id":1108692439,
+            "microhood_id":1108691517,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":572239045
         }
     ],
     "wof:id":572239045,
-    "wof:lastmodified":1472344813,
+    "wof:lastmodified":1491889206,
     "wof:name":"L A Auto Care",
-    "wof:parent_id":85858293,
+    "wof:parent_id":1108691517,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

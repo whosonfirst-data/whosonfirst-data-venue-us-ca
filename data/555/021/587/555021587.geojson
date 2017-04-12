@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.553315,37.907765,-122.553315,37.907765",
     "geom:latitude":37.907765,
     "geom:longitude":-122.553315,
@@ -33,12 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        85633793,
-        85826103,
-        102084353,
         102191575,
+        85633793,
         85922023,
-        420551369
+        102084353,
+        420551369,
+        85826103
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,13 +49,6 @@
     "wof:geomhash":"f1bcac8c5be528ed495b21d4b55e52e2",
     "wof:hierarchy":[
         {
-            "country_id":85633793,
-            "county_id":102084353,
-            "neighbourhood_id":85826103,
-            "region_id":85688637,
-            "venue_id":555021587
-        },
-        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
@@ -62,12 +56,19 @@
             "neighbourhood_id":420551369,
             "region_id":85688637,
             "venue_id":555021587
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85826103,
+            "region_id":85688637,
+            "venue_id":555021587
         }
     ],
     "wof:id":555021587,
-    "wof:lastmodified":1472338684,
+    "wof:lastmodified":1491963596,
     "wof:name":"Real Estate Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

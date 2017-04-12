@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.299441,37.869637,-122.299441,37.869637",
     "geom:latitude":37.869637,
     "geom:longitude":-122.299441,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921915,
-        102086959
+        102086959,
+        85876219,
+        85855229
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"0dfe773fd4448aacb4d2acb4f04ad92e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921915,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85876219,
+            "region_id":85688637,
+            "venue_id":236675271
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "neighbourhood_id":85855229,
             "region_id":85688637,
             "venue_id":236675271
         }
     ],
     "wof:id":236675271,
-    "wof:lastmodified":1472334582,
+    "wof:lastmodified":1491949187,
     "wof:name":"Oliver Screw Products Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

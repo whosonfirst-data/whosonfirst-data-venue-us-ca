@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.920281,37.799879,-121.920281,37.799879",
     "geom:latitude":37.799879,
     "geom:longitude":-121.920281,
@@ -31,16 +32,31 @@
         "mall"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2SRoFkFdjyvWpXU2LEByfS_37.799879_-121.920281@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"0712ad0a6fc5f3b6ebf0137522862f28",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":588438451
+        }
+    ],
     "wof:id":588438451,
-    "wof:lastmodified":1472349462,
+    "wof:lastmodified":1491950630,
     "wof:name":"Blackhawk Plaza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

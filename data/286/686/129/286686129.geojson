@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.273973,33.968009,-118.273973,33.968009",
     "geom:latitude":33.968009,
     "geom:longitude":-118.273973,
@@ -41,11 +42,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85819643",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868337
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,19 +58,20 @@
     "wof:geomhash":"7283b33c3de2f7622b5d4c40d1cd0156",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868337,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85819643",
             "region_id":85688637,
             "venue_id":286686129
         }
     ],
     "wof:id":286686129,
-    "wof:lastmodified":1472335011,
+    "wof:lastmodified":1491867477,
     "wof:name":"R & M Auto Bdy Repairing Pntg",
-    "wof:parent_id":85868337,
+    "wof:parent_id":"85819643",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

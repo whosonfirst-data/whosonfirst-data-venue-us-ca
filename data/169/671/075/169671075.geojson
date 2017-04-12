@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.385723,34.247956,-118.385723,34.247956",
     "geom:latitude":34.247956,
     "geom:longitude":-118.385723,
@@ -35,7 +36,12 @@
     "sg:website":"www.pacobond.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85851411",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -46,18 +52,20 @@
     "wof:geomhash":"d92a7bf9ace6679f6330fb099f44ac4e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851411",
             "region_id":85688637,
             "venue_id":169671075
         }
     ],
     "wof:id":169671075,
-    "wof:lastmodified":1472335013,
+    "wof:lastmodified":1491918499,
     "wof:name":"Paco Bond Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85851411",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

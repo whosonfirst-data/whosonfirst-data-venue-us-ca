@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.10056,37.3777,-122.10056,37.3777",
     "geom:latitude":37.3777,
     "geom:longitude":-122.10056,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922385,
-        102081673
+        102081673,
+        85886305,
+        85922355,
+        85886301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"9488e6830963c824bd0daefbb5972292",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
             "locality_id":85922385,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886305,
+            "region_id":85688637,
+            "venue_id":219927455
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922355,
+            "neighbourhood_id":85886301,
             "region_id":85688637,
             "venue_id":219927455
         }
     ],
     "wof:id":219927455,
-    "wof:lastmodified":1472334775,
+    "wof:lastmodified":1491950447,
     "wof:name":"K&R Products",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

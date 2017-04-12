@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.906318,37.819776,-121.906318,37.819776",
     "geom:latitude":37.819776,
     "geom:longitude":-121.906318,
@@ -32,16 +33,31 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925167,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16vAw2r2WmW17xeezZ6LLh_37.819776_-121.906318@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a309c6c08e97efc3e35898a4075914e0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925167,
+            "region_id":85688637,
+            "venue_id":571588093
+        }
+    ],
     "wof:id":571588093,
-    "wof:lastmodified":1472341220,
+    "wof:lastmodified":1491969417,
     "wof:name":"Carey & Kundred",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

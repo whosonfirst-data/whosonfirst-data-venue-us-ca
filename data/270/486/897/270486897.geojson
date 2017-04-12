@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.365946,34.012777,-118.365946,34.012777",
     "geom:latitude":34.012777,
     "geom:longitude":-118.365946,
@@ -32,11 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531573,
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
-        85928349,
+        85923517,
         102086957,
-        85865473
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,21 @@
     "wof:geomhash":"2a46b3da07826d70f141205a3f3c9cf2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85928349,
-            "neighbourhood_id":85865473,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "microhood_id":1041531573,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":270486897
         }
     ],
     "wof:id":270486897,
-    "wof:lastmodified":1472334894,
+    "wof:lastmodified":1491868181,
     "wof:name":"Something Magic",
-    "wof:parent_id":85865473,
+    "wof:parent_id":1041531573,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

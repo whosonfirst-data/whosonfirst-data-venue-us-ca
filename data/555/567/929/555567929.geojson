@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.768843,36.931025,-121.768843,36.931025",
     "geom:latitude":36.931025,
     "geom:longitude":-121.768843,
@@ -32,16 +33,31 @@
         "language"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921763,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kn7ugA6rOFWVn8Lf0GUwS_36.931025_-121.768843@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8b8d913f0e7ff800ad795703c009733a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85921763,
+            "region_id":85688637,
+            "venue_id":555567929
+        }
+    ],
     "wof:id":555567929,
-    "wof:lastmodified":1472351752,
+    "wof:lastmodified":1491962196,
     "wof:name":"Breakthrough Personal Learning",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

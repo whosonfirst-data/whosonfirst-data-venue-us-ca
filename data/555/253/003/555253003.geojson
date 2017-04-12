@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161702,37.445876,-122.161702,37.445876",
     "geom:latitude":37.445876,
     "geom:longitude":-122.161702,
@@ -31,16 +32,31 @@
         "security"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57sjN0IkvF9BBM7fw1rtb6_37.445876_-122.161702@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"52f0b184c7a7b56aeeb7f91749cf3fcb",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":555253003
+        }
+    ],
     "wof:id":555253003,
-    "wof:lastmodified":1472343324,
+    "wof:lastmodified":1491963223,
     "wof:name":"Fidelity Investment Brokerage",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

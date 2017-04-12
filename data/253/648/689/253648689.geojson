@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324848,38.339337,-122.324848,38.339337",
     "geom:latitude":38.339337,
     "geom:longitude":-122.324848,
@@ -36,9 +37,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85921993,
-        102085383
+        102085383,
+        85886547,
+        85846841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,26 @@
     "wof:geomhash":"2697f80712ef76ca40160e12035032c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886547,
+            "region_id":85688637,
+            "venue_id":253648689
+        },
+        {
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85846841,
             "region_id":85688637,
             "venue_id":253648689
         }
     ],
     "wof:id":253648689,
-    "wof:lastmodified":1472334751,
+    "wof:lastmodified":1491959722,
     "wof:name":"Napa County Farm Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

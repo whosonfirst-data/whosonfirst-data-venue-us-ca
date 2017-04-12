@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.254292,34.048123,-118.254292,34.048123",
     "geom:latitude":34.048123,
     "geom:longitude":-118.254292,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456421,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869373
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"a77709e761d60d1c76c9b6740a4cd8e9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869373,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456421,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370581729
         }
     ],
     "wof:id":370581729,
-    "wof:lastmodified":1472342594,
+    "wof:lastmodified":1491927620,
     "wof:name":"Vmka Jewelry",
-    "wof:parent_id":85869373,
+    "wof:parent_id":1092456421,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

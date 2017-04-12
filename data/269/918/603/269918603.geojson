@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.878808,33.802723,-117.878808,33.802723",
     "geom:latitude":33.802723,
     "geom:longitude":-117.878808,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923167,
-        102080847
+        102080847,
+        85867363,
+        85867359
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"4fce9204df95cdcd1fc50919c1fefef3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923167,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85867363,
+            "region_id":85688637,
+            "venue_id":269918603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":85867359,
             "region_id":85688637,
             "venue_id":269918603
         }
     ],
     "wof:id":269918603,
-    "wof:lastmodified":1472334409,
+    "wof:lastmodified":1491888096,
     "wof:name":"Advance Real Estate Dev LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.19255,37.475734,-122.19255,37.475734",
     "geom:latitude":37.475734,
     "geom:longitude":-122.19255,
@@ -32,16 +33,31 @@
         "wedding"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925811,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KYR3YfMClVLE8RLtPTqi0_37.475734_-122.192550@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"024d9622d7f384be6f7c08beb8e7294a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925811,
+            "region_id":85688637,
+            "venue_id":571731675
+        }
+    ],
     "wof:id":571731675,
-    "wof:lastmodified":1472343656,
+    "wof:lastmodified":1491968613,
     "wof:name":"Flora Bella",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

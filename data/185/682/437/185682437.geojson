@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.632311,34.182714,-118.632311,34.182714",
     "geom:latitude":34.182714,
     "geom:longitude":-118.632311,
@@ -36,11 +37,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85858757
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +53,20 @@
     "wof:geomhash":"253ea826a29f6f14af4d0ccd3c43ae4d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85858757,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":185682437
         }
     ],
     "wof:id":185682437,
-    "wof:lastmodified":1472331105,
+    "wof:lastmodified":1491889009,
     "wof:name":"Wrightonce",
-    "wof:parent_id":85858757,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.332008,33.224941,-117.332008,33.224941",
     "geom:latitude":33.224941,
     "geom:longitude":-117.332008,
@@ -30,9 +31,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922239,
-        102083569
+        102083569,
+        85879347,
+        420552041
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,28 @@
     "wof:geomhash":"888c1907e8eb7681d3f67edff170b1d2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102083569,
             "locality_id":85922239,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85879347,
+            "region_id":85688637,
+            "venue_id":169683607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083569,
+            "locality_id":85922239,
+            "neighbourhood_id":420552041,
             "region_id":85688637,
             "venue_id":169683607
         }
     ],
     "wof:id":169683607,
-    "wof:lastmodified":1472335119,
+    "wof:lastmodified":1491939162,
     "wof:name":"Baada",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

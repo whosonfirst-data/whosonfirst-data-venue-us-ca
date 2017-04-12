@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.274244,33.959971,-118.274244,33.959971",
     "geom:latitude":33.959971,
     "geom:longitude":-118.274244,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85868337",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85868337
+        85688637
     ],
     "wof:brand_id":420575511,
     "wof:breaches":[],
@@ -44,19 +47,20 @@
     "wof:geomhash":"b6acbf2abd52a65b79fa36e9272f1e64",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868337,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85868337",
             "region_id":85688637,
             "venue_id":370380959
         }
     ],
     "wof:id":370380959,
-    "wof:lastmodified":1472340206,
+    "wof:lastmodified":1491867963,
     "wof:name":"McDonald's Restaurants",
-    "wof:parent_id":85868337,
+    "wof:parent_id":"85868337",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

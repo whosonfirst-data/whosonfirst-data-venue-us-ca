@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.871485,36.71373,-119.871485,36.71373",
     "geom:latitude":36.71373,
     "geom:longitude":-119.871485,
@@ -36,8 +37,10 @@
     "wof:belongsto":[
         85688637,
         85633793,
-        85871909,
-        102084347
+        85922995,
+        102084347,
+        85871919,
+        85871909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,23 @@
         {
             "country_id":85633793,
             "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85871919,
+            "region_id":85688637,
+            "venue_id":555098509
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084347,
             "neighbourhood_id":85871909,
             "region_id":85688637,
             "venue_id":555098509
         }
     ],
     "wof:id":555098509,
-    "wof:lastmodified":1472340769,
+    "wof:lastmodified":1491902061,
     "wof:name":"J D N Trucking",
-    "wof:parent_id":85871909,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

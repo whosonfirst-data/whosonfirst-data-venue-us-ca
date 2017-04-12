@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.00905,37.33186,-122.00905,37.33186",
     "geom:latitude":37.33186,
     "geom:longitude":-122.00905,
@@ -37,7 +38,9 @@
         85633793,
         85922341,
         102081673,
-        85881193
+        85881193,
+        85922393,
+        85885841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +57,21 @@
             "neighbourhood_id":85881193,
             "region_id":85688637,
             "venue_id":555417309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922393,
+            "neighbourhood_id":85885841,
+            "region_id":85688637,
+            "venue_id":555417309
         }
     ],
     "wof:id":555417309,
-    "wof:lastmodified":1472349612,
+    "wof:lastmodified":1491959052,
     "wof:name":"Sodexho Management Inc",
-    "wof:parent_id":85881193,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

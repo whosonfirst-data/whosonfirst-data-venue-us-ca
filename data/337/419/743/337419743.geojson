@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.291541,34.033668,-118.291541,34.033668",
     "geom:latitude":34.033668,
     "geom:longitude":-118.291541,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996447,
+        102191575,
+        1108692435,
         85633793,
-        85688637
+        85923517,
+        102086957,
+        85688637,
+        "420551237"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,30 @@
     "wof:geomhash":"077071a488b6fda67016717bbe8aaf8a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996447,
+            "region_id":85688637,
+            "venue_id":337419743
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551237",
             "region_id":85688637,
             "venue_id":337419743
         }
     ],
     "wof:id":337419743,
-    "wof:lastmodified":1472331539,
+    "wof:lastmodified":1491867766,
     "wof:name":"Terrell's Cleaners",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

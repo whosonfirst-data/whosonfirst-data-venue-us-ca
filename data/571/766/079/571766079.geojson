@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.928726,37.488957,-121.928726,37.488957",
     "geom:latitude":37.488957,
     "geom:longitude":-121.928726,
@@ -28,16 +29,31 @@
     "sg:postcode":"94539",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cB3aEYgtjx3It9NSwoMd1_37.488957_-121.928726@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"95a9989846e8a3027897afcd133745c0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":571766079
+        }
+    ],
     "wof:id":571766079,
-    "wof:lastmodified":1472344051,
+    "wof:lastmodified":1491968774,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

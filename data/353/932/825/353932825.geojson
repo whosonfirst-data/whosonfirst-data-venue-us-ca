@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.333803,37.580918,-122.333803,37.580918",
     "geom:latitude":37.580918,
     "geom:longitude":-122.333803,
@@ -30,8 +31,14 @@
     "sg:website":"www.keystonegifts.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922537,
+        102085387,
+        85885701,
+        85922431,
+        85887877
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,18 +48,28 @@
     "wof:geomhash":"306e0fed2b729a31aaafb4d5e7824307",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102085387,
+            "locality_id":85922537,
+            "neighbourhood_id":85885701,
+            "region_id":85688637,
+            "venue_id":353932825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887877,
             "region_id":85688637,
             "venue_id":353932825
         }
     ],
     "wof:id":353932825,
-    "wof:lastmodified":1472337730,
+    "wof:lastmodified":1491958236,
     "wof:name":"Keystone Gifts Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

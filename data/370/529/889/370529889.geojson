@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.242492,34.055041,-118.242492,34.055041",
     "geom:latitude":34.055041,
     "geom:longitude":-118.242492,
@@ -29,11 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091736553,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85866227
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +47,21 @@
     "wof:geomhash":"40ef8d035a6b9083a6d108f68aeebf51",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85866227,
+            "macrohood_id":1108694663,
+            "microhood_id":1091736553,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370529889
         }
     ],
     "wof:id":370529889,
-    "wof:lastmodified":1472342265,
+    "wof:lastmodified":1491928011,
     "wof:name":"Federal Public Defender US Courthouse",
-    "wof:parent_id":85866227,
+    "wof:parent_id":1091736553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

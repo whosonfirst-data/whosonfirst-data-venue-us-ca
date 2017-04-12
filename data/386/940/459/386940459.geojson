@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.225943,33.839199,-118.225943,33.839199",
     "geom:latitude":33.839199,
     "geom:longitude":-118.225943,
@@ -36,11 +37,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
-        102086957,
-        85817751,
         85923683,
-        85814819
+        102086957,
+        85817751
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,28 +51,19 @@
     "wof:geomhash":"5ed1696a5a34c8bd3cf3b20f521c1e5a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":-1,
-            "neighbourhood_id":85817751,
-            "region_id":85688637,
-            "venue_id":386940459
-        },
-        {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
+            "neighbourhood_id":85817751,
             "region_id":85688637,
             "venue_id":386940459
         }
     ],
     "wof:id":386940459,
-    "wof:lastmodified":1472337774,
+    "wof:lastmodified":1491926773,
     "wof:name":"Cooling Mechanical",
-    "wof:parent_id":-1,
+    "wof:parent_id":85817751,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

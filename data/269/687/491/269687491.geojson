@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.446628,38.199427,-122.446628,38.199427",
     "geom:latitude":38.199427,
     "geom:longitude":-122.446628,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85922683,
+        102081671,
+        85820345,
+        85922701,
+        85833319
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,27 @@
     "wof:geomhash":"7d33a83996ca2376378ab97560bdf30a",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85922683,
+            "neighbourhood_id":85820345,
+            "region_id":85688637,
+            "venue_id":269687491
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85833319,
             "region_id":85688637,
             "venue_id":269687491
         }
     ],
     "wof:id":269687491,
-    "wof:lastmodified":1472332755,
+    "wof:lastmodified":1491957537,
     "wof:name":"Roach Winery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

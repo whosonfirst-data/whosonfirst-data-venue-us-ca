@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.917602,37.469097,-121.917602,37.469097",
     "geom:latitude":37.469097,
     "geom:longitude":-121.917602,
@@ -31,16 +32,31 @@
         "electronics"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u6gEQsnRB0wKaNDwNh9E0_37.469097_-121.917602@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bb97a386abe3412a8b9809b897ef9e75",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555474471
+        }
+    ],
     "wof:id":555474471,
-    "wof:lastmodified":1472350828,
+    "wof:lastmodified":1491961849,
     "wof:name":"Vitechnology",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

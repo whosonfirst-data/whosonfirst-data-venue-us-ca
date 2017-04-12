@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.025251,37.603289,-122.025251,37.603289",
     "geom:latitude":37.603289,
     "geom:longitude":-122.025251,
@@ -31,16 +32,31 @@
         "church"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921863,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QNIL0JZGej270jF8UcfJu_37.603289_-122.025251@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"771b957d06d9ce2f74691a884ba40e94",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921863,
+            "region_id":85688637,
+            "venue_id":571588051
+        }
+    ],
     "wof:id":571588051,
-    "wof:lastmodified":1472341215,
+    "wof:lastmodified":1491961269,
     "wof:name":"CCD Our Lady Of The Rosary",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

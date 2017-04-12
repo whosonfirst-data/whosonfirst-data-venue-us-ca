@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.322079,37.581868,-122.322079,37.581868",
     "geom:latitude":37.581868,
     "geom:longitude":-122.322079,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922431,
-        102085387
+        102085387,
+        85887879,
+        85887841
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"0dfc7f09eb8c1ec1c4ff5564a98336c8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887879,
+            "region_id":85688637,
+            "venue_id":371161399
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887841,
             "region_id":85688637,
             "venue_id":371161399
         }
     ],
     "wof:id":371161399,
-    "wof:lastmodified":1472340131,
+    "wof:lastmodified":1491962199,
     "wof:name":"Nails By Carolyn",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

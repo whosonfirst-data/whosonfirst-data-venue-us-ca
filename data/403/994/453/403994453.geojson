@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.772612,38.00495,-121.772612,38.00495",
     "geom:latitude":38.00495,
     "geom:longitude":-121.772612,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85922153,
+        102086225,
+        85807393,
+        102191575,
+        85922201,
+        85836839
     ],
     "wof:brand_id":420574139,
     "wof:breaches":[],
@@ -45,18 +52,27 @@
     "wof:geomhash":"89cc79083c57e66cb7ad4425cc8141c5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086225,
+            "locality_id":85922153,
+            "neighbourhood_id":85807393,
+            "region_id":85688637,
+            "venue_id":403994453
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "neighbourhood_id":85836839,
             "region_id":85688637,
             "venue_id":403994453
         }
     ],
     "wof:id":403994453,
-    "wof:lastmodified":1472341943,
+    "wof:lastmodified":1491966187,
     "wof:name":"Herbalife Distributor",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

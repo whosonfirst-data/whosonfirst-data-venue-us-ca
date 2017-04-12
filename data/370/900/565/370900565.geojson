@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.221001,34.069099,-118.221001,34.069099",
     "geom:latitude":34.069099,
     "geom:longitude":-118.221001,
@@ -35,11 +36,13 @@
     "sg:website":"www.lausd.k12.ca.us",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85851877
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,19 +52,20 @@
     "wof:geomhash":"abc75956a9761bf32b90e4861932d575",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85851877,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":370900565
         }
     ],
     "wof:id":370900565,
-    "wof:lastmodified":1472344871,
+    "wof:lastmodified":1491888697,
     "wof:name":"Albion Street Elementary School",
-    "wof:parent_id":85851877,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

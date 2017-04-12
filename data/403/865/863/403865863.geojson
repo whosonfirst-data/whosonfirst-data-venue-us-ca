@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.248124,34.04544,-118.248124,34.04544",
     "geom:latitude":34.04544,
     "geom:longitude":-118.248124,
@@ -34,7 +35,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1108691227,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +52,21 @@
     "wof:geomhash":"72a788adcbe5de42cb3d40cbfb8f962e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1108691227,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":403865863
         }
     ],
     "wof:id":403865863,
-    "wof:lastmodified":1472341400,
+    "wof:lastmodified":1491928594,
     "wof:name":"Central Distribution Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":1108691227,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

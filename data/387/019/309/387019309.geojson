@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.485881,34.018761,-118.485881,34.018761",
     "geom:latitude":34.018761,
     "geom:longitude":-118.485881,
@@ -35,9 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923817,
-        102086957
+        102086957,
+        85880865,
+        85880867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,28 @@
     "wof:geomhash":"2db6bffe0d5dd9a911ea35a42209c90d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923817,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85880865,
+            "region_id":85688637,
+            "venue_id":387019309
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923817,
+            "neighbourhood_id":85880867,
             "region_id":85688637,
             "venue_id":387019309
         }
     ],
     "wof:id":387019309,
-    "wof:lastmodified":1472337167,
+    "wof:lastmodified":1491913020,
     "wof:name":"Gary Smith Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.920099,37.705353,-121.920099,37.705353",
     "geom:latitude":37.705353,
     "geom:longitude":-121.920099,
@@ -31,16 +32,31 @@
         "grocer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0wL5gBmjlsc2vi7zEY04Zc_37.705353_-121.920099@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"5cd4d5781752a6a4fd161a5b987adb45",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":555051849
+        }
+    ],
     "wof:id":555051849,
-    "wof:lastmodified":1472339826,
+    "wof:lastmodified":1491958104,
     "wof:name":"Dublin Generics Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

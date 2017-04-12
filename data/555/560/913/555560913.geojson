@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.491398,37.919979,-122.491398,37.919979",
     "geom:latitude":37.919979,
     "geom:longitude":-122.491398,
@@ -32,7 +33,10 @@
         85688637,
         85633793,
         85844183,
-        102084353
+        102084353,
+        102191575,
+        85922083,
+        85850967
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,12 +51,21 @@
             "neighbourhood_id":85844183,
             "region_id":85688637,
             "venue_id":555560913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922083,
+            "neighbourhood_id":85850967,
+            "region_id":85688637,
+            "venue_id":555560913
         }
     ],
     "wof:id":555560913,
-    "wof:lastmodified":1472351646,
+    "wof:lastmodified":1491957021,
     "wof:name":"Montessori School Inc",
-    "wof:parent_id":85844183,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

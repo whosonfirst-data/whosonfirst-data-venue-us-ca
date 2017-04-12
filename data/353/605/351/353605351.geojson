@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296599,38.315873,-122.296599,38.315873",
     "geom:latitude":38.315873,
     "geom:longitude":-122.296599,
@@ -35,8 +36,11 @@
     "wof:belongsto":[
         85688637,
         85633793,
+        85886543,
+        102085383,
+        102191575,
         85921993,
-        102085383
+        85853067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,26 @@
     "wof:geomhash":"c10c948cab69e4ce7df59573daf69f5d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102085383,
+            "neighbourhood_id":85886543,
+            "region_id":85688637,
+            "venue_id":353605351
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085383,
             "locality_id":85921993,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85853067,
             "region_id":85688637,
             "venue_id":353605351
         }
     ],
     "wof:id":353605351,
-    "wof:lastmodified":1472333687,
+    "wof:lastmodified":1491958940,
     "wof:name":"Pueblo House",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.518386,37.929724,-122.518386,37.929724",
     "geom:latitude":37.929724,
     "geom:longitude":-122.518386,
@@ -34,7 +35,8 @@
         85633793,
         85922027,
         102084353,
-        85886273
+        85886273,
+        85886027
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +53,21 @@
             "neighbourhood_id":85886273,
             "region_id":85688637,
             "venue_id":555058109
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":85886027,
+            "region_id":85688637,
+            "venue_id":555058109
         }
     ],
     "wof:id":555058109,
-    "wof:lastmodified":1472339539,
+    "wof:lastmodified":1491970879,
     "wof:name":"Cinema Theatre",
-    "wof:parent_id":85886273,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

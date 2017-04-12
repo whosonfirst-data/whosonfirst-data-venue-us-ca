@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.00204,37.828876,-122.00204,37.828876",
     "geom:latitude":37.828876,
     "geom:longitude":-122.00204,
@@ -31,16 +32,31 @@
         "dentist"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r8PlpMoe7zzZomsLrd9eK_37.828876_-122.002040@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"2430b5b06869fb51bde8b97937df359e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555475547
+        }
+    ],
     "wof:id":555475547,
-    "wof:lastmodified":1472350845,
+    "wof:lastmodified":1491961774,
     "wof:name":"Danville Dental Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

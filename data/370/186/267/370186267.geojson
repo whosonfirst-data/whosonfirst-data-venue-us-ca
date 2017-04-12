@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.231243,34.087041,-118.231243,34.087041",
     "geom:latitude":34.087041,
     "geom:longitude":-118.231243,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865845",
+        102191575,
+        1108692433,
         85633793,
         85923517,
         102086957,
-        85813775
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"56b4b67fd6bb7f58b560774a38c75077",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85813775,
+            "macrohood_id":1108692433,
+            "neighbourhood_id":"85865845",
             "region_id":85688637,
             "venue_id":370186267
         }
     ],
     "wof:id":370186267,
-    "wof:lastmodified":1472337886,
+    "wof:lastmodified":1491935112,
     "wof:name":"Road and Race Inc",
-    "wof:parent_id":85813775,
+    "wof:parent_id":"85865845",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

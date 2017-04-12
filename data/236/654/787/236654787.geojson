@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.255263,34.017759,-118.255263,34.017759",
     "geom:latitude":34.017759,
     "geom:longitude":-118.255263,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865791",
+        102191575,
+        1108692435,
         85633793,
         85923517,
         102086957,
-        85827369
+        85688637
     ],
     "wof:brand_id":420574333,
     "wof:breaches":[],
@@ -44,19 +47,20 @@
     "wof:geomhash":"bbf26675d763813f3216a78ec843c715",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85827369,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":236654787
         }
     ],
     "wof:id":236654787,
-    "wof:lastmodified":1472334525,
+    "wof:lastmodified":1491868334,
     "wof:name":"Church's Chicken",
-    "wof:parent_id":85827369,
+    "wof:parent_id":"85865791",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

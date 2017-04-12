@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.952387,37.83764,-121.952387,37.83764",
     "geom:latitude":37.83764,
     "geom:longitude":-121.952387,
@@ -34,16 +35,31 @@
         "decorator"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925153,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37vZyqKeV5DzalTcNBs9q2_37.837640_-121.952387@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a2da0f073d33ca0b2f254231b0e0bd4e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925153,
+            "region_id":85688637,
+            "venue_id":555378301
+        }
+    ],
     "wof:id":555378301,
-    "wof:lastmodified":1472349093,
+    "wof:lastmodified":1491966541,
     "wof:name":"Lee Cross Designs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

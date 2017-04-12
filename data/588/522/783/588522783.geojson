@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.296997,37.8988,-122.296997,37.8988",
     "geom:latitude":37.8988,
     "geom:longitude":-122.296997,
@@ -43,16 +44,31 @@
         "condominium"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I2eYlX1UOt9X8I1HbgIxB_37.898800_-122.296997@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"fde16880d490bd6941ef176b7bf11903",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588522783
+        }
+    ],
     "wof:id":588522783,
-    "wof:lastmodified":1472351259,
+    "wof:lastmodified":1491949226,
     "wof:name":"La Cha-Farel Condos",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

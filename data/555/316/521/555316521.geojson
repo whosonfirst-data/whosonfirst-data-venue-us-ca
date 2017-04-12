@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.001257,37.82421,-122.001257,37.82421",
     "geom:latitude":37.82421,
     "geom:longitude":-122.001257,
@@ -38,16 +39,31 @@
         "cotton"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hG9mV1kK6Tu4y2gvMDLdo_37.824210_-122.001257@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"86c5ffad9f987d9569913fa817d5f880",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555316521
+        }
+    ],
     "wof:id":555316521,
-    "wof:lastmodified":1472344589,
+    "wof:lastmodified":1491968355,
     "wof:name":"J T Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

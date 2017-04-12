@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.797171,36.981703,-121.797171,36.981703",
     "geom:latitude":36.981703,
     "geom:longitude":-121.797171,
@@ -42,16 +43,31 @@
         "park"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924307,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NbtyzbNrQ7gFO0ODfVt3U_36.981703_-121.797171@1303263363"
     },
     "wof:country":"US",
     "wof:geomhash":"8738d709ee5b631a8744f6aa130b6c2f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924307,
+            "region_id":85688637,
+            "venue_id":588571921
+        }
+    ],
     "wof:id":588571921,
-    "wof:lastmodified":1472351985,
+    "wof:lastmodified":1491958958,
     "wof:name":"M.E. Converse Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

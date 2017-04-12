@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.802443,37.650929,-121.802443,37.650929",
     "geom:latitude":37.650929,
     "geom:longitude":-121.802443,
@@ -43,16 +44,29 @@
     ],
     "sg:website":"http://www.campodibocce.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mUcYSrIX6uIlymC9Bgrp3_37.650929_-121.802443@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"a36f97d70624e4897e071ad09e9eaf1c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "region_id":85688637,
+            "venue_id":588463439
+        }
+    ],
     "wof:id":588463439,
-    "wof:lastmodified":1472350338,
+    "wof:lastmodified":1491958880,
     "wof:name":"Campo Di Bocce Of Livermore",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

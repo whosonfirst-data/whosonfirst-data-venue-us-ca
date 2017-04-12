@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161017,37.444415,-122.161017,37.444415",
     "geom:latitude":37.444415,
     "geom:longitude":-122.161017,
@@ -32,16 +33,31 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FomFUIPsPJMy7MTtrYkN7_37.443951_-122.161515@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f27ea70615b159a7a0f55bde1ac3ecaf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572207689
+        }
+    ],
     "wof:id":572207689,
-    "wof:lastmodified":1472344295,
+    "wof:lastmodified":1491969582,
     "wof:name":"Osteria",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

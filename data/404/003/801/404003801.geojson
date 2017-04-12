@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.937983,38.429583,-122.937983,38.429583",
     "geom:latitude":38.429583,
     "geom:longitude":-122.937983,
@@ -29,8 +30,11 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85888239,
+        102081671,
+        85822633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +44,24 @@
     "wof:geomhash":"162c5730fae63d04303379231cfb92e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85888239,
+            "region_id":85688637,
+            "venue_id":404003801
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85822633,
             "region_id":85688637,
             "venue_id":404003801
         }
     ],
     "wof:id":404003801,
-    "wof:lastmodified":1472336844,
+    "wof:lastmodified":1491970089,
     "wof:name":"Hometex Development Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

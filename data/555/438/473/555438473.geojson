@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.959222,36.394242,-119.959222,36.394242",
     "geom:latitude":36.394242,
     "geom:longitude":-119.959222,
@@ -33,7 +34,9 @@
         85633793,
         85921951,
         102087583,
-        85846165
+        85846165,
+        85871909,
+        102084347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,12 +52,19 @@
             "neighbourhood_id":85846165,
             "region_id":85688637,
             "venue_id":555438473
+        },
+        {
+            "country_id":85633793,
+            "county_id":102084347,
+            "neighbourhood_id":85871909,
+            "region_id":85688637,
+            "venue_id":555438473
         }
     ],
     "wof:id":555438473,
-    "wof:lastmodified":1472349979,
+    "wof:lastmodified":1491902088,
     "wof:name":"Jean E Errotabere",
-    "wof:parent_id":85846165,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

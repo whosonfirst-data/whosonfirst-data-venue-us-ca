@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.291172,38.281788,-122.291172,38.281788",
     "geom:latitude":38.281788,
     "geom:longitude":-122.291172,
@@ -33,16 +34,25 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zvZliBMXGUK9dOa5ddUU1_38.281788_-122.291172@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"398cdfba4b58fb856f9ed132ed0d5784",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":571622585
+        }
+    ],
     "wof:id":571622585,
-    "wof:lastmodified":1472342135,
+    "wof:lastmodified":1491949245,
     "wof:name":"Cigarettes 4 Less",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

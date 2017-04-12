@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.442589,37.493542,-122.442589,37.493542",
     "geom:latitude":37.493542,
     "geom:longitude":-122.442589,
@@ -31,16 +32,31 @@
         "greenhouse"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rVZuUxkAMnEX1JKEfIBn4_37.493542_-122.442589@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"67cd5a3a80722b6e1251a63ba18f7fb1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":555230201
+        }
+    ],
     "wof:id":555230201,
-    "wof:lastmodified":1472343144,
+    "wof:lastmodified":1491956841,
     "wof:name":"Figone Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

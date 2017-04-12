@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.987392,37.829316,-121.987392,37.829316",
     "geom:latitude":37.829316,
     "geom:longitude":-121.987392,
@@ -31,16 +32,31 @@
         "topsoil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CVwbrW6RYIHRi6zcmgsGW_37.829316_-121.987392@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"625de28df211b4fb57a829d1beecf5ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555091355
+        }
+    ],
     "wof:id":555091355,
-    "wof:lastmodified":1472340778,
+    "wof:lastmodified":1491948693,
     "wof:name":"Sloat Top Soil",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

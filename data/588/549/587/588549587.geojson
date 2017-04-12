@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.980416,37.23553,-121.980416,37.23553",
     "geom:latitude":37.23553,
     "geom:longitude":-121.980416,
@@ -31,16 +32,25 @@
         "repair"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420552915
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UTCQZOIDCssiCrmTTvyoD_37.235530_-121.980416@1303263358"
     },
     "wof:country":"US",
     "wof:geomhash":"b8b79f55c7e768214ce48f2d6ddc35cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420552915,
+            "venue_id":588549587
+        }
+    ],
     "wof:id":588549587,
-    "wof:lastmodified":1472351600,
+    "wof:lastmodified":1491961035,
     "wof:name":"Computer Repair and Data Recovery",
     "wof:parent_id":420552915,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.902177,37.660287,-121.902177,37.660287",
     "geom:latitude":37.660287,
     "geom:longitude":-121.902177,
@@ -32,16 +33,31 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921871,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2P8VMZTFUKjBs6KP5qCssu_37.660287_-121.902177@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"90f4473559c2679cd216cb7a31a0ba44",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921871,
+            "region_id":85688637,
+            "venue_id":555515861
+        }
+    ],
     "wof:id":555515861,
-    "wof:lastmodified":1472351216,
+    "wof:lastmodified":1491959180,
     "wof:name":"Carman & Assoc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

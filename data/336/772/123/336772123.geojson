@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.736816,34.107094,-117.736816,34.107094",
     "geom:latitude":34.107094,
     "geom:longitude":-117.736816,
@@ -29,8 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85923671,
+        102086957,
+        85837921,
+        85923479,
+        85886117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,28 @@
     "wof:geomhash":"84e90401a5b6d041b785458e895b4b89",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923671,
+            "neighbourhood_id":85837921,
+            "region_id":85688637,
+            "venue_id":336772123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923479,
+            "neighbourhood_id":85886117,
             "region_id":85688637,
             "venue_id":336772123
         }
     ],
     "wof:id":336772123,
-    "wof:lastmodified":1472332228,
+    "wof:lastmodified":1491920044,
     "wof:name":"Tour Du Vin",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

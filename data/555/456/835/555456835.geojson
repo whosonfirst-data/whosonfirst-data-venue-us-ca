@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.812062,37.697561,-121.812062,37.697561",
     "geom:latitude":37.697561,
     "geom:longitude":-121.812062,
@@ -31,16 +32,31 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0T04kgGv31cTX2lL6w0V3l_37.697561_-121.812062@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0e129ea85094bff9f2fd78758d5d7dd1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":555456835
+        }
+    ],
     "wof:id":555456835,
-    "wof:lastmodified":1472350656,
+    "wof:lastmodified":1491963207,
     "wof:name":"Schafer Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

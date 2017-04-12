@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.933515,37.49548,-121.933515,37.49548",
     "geom:latitude":37.49548,
     "geom:longitude":-121.933515,
@@ -32,16 +33,31 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Zfn0CTMd0w2InbEV5uAWm_37.495480_-121.933515@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a2a53c3ff10762ec4597f84bdd23dede",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":555199949
+        }
+    ],
     "wof:id":555199949,
-    "wof:lastmodified":1472342829,
+    "wof:lastmodified":1491967216,
     "wof:name":"Small Business Partners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

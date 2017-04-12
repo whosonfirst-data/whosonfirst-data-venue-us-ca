@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.806006,38.006304,-121.806006,38.006304",
     "geom:latitude":38.006304,
     "geom:longitude":-121.806006,
@@ -37,16 +38,31 @@
         "bartending"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75PEpIz5pO9ssXJ0jjZpsF_38.006304_-121.806006@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"57f3422f5ac9c3029a3f216d40f2c8f7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":588439457
+        }
+    ],
     "wof:id":588439457,
-    "wof:lastmodified":1472349456,
+    "wof:lastmodified":1491960416,
     "wof:name":"Cruisers Saloon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

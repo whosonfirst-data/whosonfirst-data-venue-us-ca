@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.793098,37.684317,-121.793098,37.684317",
     "geom:latitude":37.684317,
     "geom:longitude":-121.793098,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Nj8dIJ8rQHXGdmm2tM9MN_37.684317_-121.793098@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"95ae702304b9aaf1ee7dbaa0d182517a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":555735341
+        }
+    ],
     "wof:id":555735341,
-    "wof:lastmodified":1472352881,
+    "wof:lastmodified":1491967616,
     "wof:name":"O'Dell Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

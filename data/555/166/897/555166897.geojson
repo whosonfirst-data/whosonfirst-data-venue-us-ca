@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.614293,38.004266,-122.614293,38.004266",
     "geom:latitude":38.004266,
     "geom:longitude":-122.614293,
@@ -33,18 +34,35 @@
     ],
     "sg:website":"www.effortlesstennis.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924601,
+        102084353,
+        85869007
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7HKpM4NHbffkSSVtGqo9Dg_38.004266_-122.614293@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c30d917fb6f1a217f4dfc316b55239d9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924601,
+            "neighbourhood_id":85869007,
+            "region_id":85688637,
+            "venue_id":555166897
+        }
+    ],
     "wof:id":555166897,
-    "wof:lastmodified":1472342192,
+    "wof:lastmodified":1491956579,
     "wof:name":"Effortless Tennis",
-    "wof:parent_id":-1,
+    "wof:parent_id":85869007,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

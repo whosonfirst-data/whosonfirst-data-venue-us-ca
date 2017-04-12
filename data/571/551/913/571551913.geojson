@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.077822,37.975967,-122.077822,37.975967",
     "geom:latitude":37.975967,
     "geom:longitude":-122.077822,
@@ -37,7 +38,10 @@
         85633793,
         85922135,
         102086225,
-        420550483
+        420550483,
+        85886927,
+        85925081,
+        420550491
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +58,29 @@
             "neighbourhood_id":420550483,
             "region_id":85688637,
             "venue_id":571551913
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922135,
+            "neighbourhood_id":85886927,
+            "region_id":85688637,
+            "venue_id":571551913
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925081,
+            "neighbourhood_id":420550491,
+            "region_id":85688637,
+            "venue_id":571551913
         }
     ],
     "wof:id":571551913,
-    "wof:lastmodified":1472340380,
+    "wof:lastmodified":1491970743,
     "wof:name":"Ironwood Builders Inc",
-    "wof:parent_id":420550483,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

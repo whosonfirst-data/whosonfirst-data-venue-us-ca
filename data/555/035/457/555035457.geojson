@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.818894,36.970284,-121.818894,36.970284",
     "geom:latitude":36.970284,
     "geom:longitude":-121.818894,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924319,
+        102087581
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gEzTqYiGDVwG1eiPnysZR_36.970284_-121.818894@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"c901136c6ed2b5bc4e1e6620206a2593",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087581,
+            "locality_id":85924319,
+            "region_id":85688637,
+            "venue_id":555035457
+        }
+    ],
     "wof:id":555035457,
-    "wof:lastmodified":1472339033,
+    "wof:lastmodified":1491961705,
     "wof:name":"Landscape Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

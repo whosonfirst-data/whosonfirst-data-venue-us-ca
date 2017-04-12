@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.250951,34.106959,-118.250951,34.106959",
     "geom:latitude":34.106959,
     "geom:longitude":-118.250951,
@@ -33,11 +34,13 @@
     "sg:website":"www.atsystemsinc.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865845",
+        102191575,
+        1108692433,
         85633793,
         85923517,
         102086957,
-        85868367
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"0e8e2abcb2d1dde89d4ca8127182b52b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868367,
+            "macrohood_id":1108692433,
+            "neighbourhood_id":"85865845",
             "region_id":85688637,
             "venue_id":270447423
         }
     ],
     "wof:id":270447423,
-    "wof:lastmodified":1472334728,
+    "wof:lastmodified":1491935106,
     "wof:name":"Armored Transport Mntnc Div",
-    "wof:parent_id":85868367,
+    "wof:parent_id":"85865845",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.22147,33.831802,-118.22147,33.831802",
     "geom:latitude":33.831802,
     "geom:longitude":-118.22147,
@@ -34,11 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923683,
         102086957,
-        85814819,
-        85814831
+        "85814831"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,28 +49,19 @@
     "wof:geomhash":"562eb63380ac1bd52aabf5824e8c8b02",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923683,
-            "neighbourhood_id":85814819,
-            "region_id":85688637,
-            "venue_id":236852815
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85814831,
+            "neighbourhood_id":"85814831",
             "region_id":85688637,
             "venue_id":236852815
         }
     ],
     "wof:id":236852815,
-    "wof:lastmodified":1472335189,
+    "wof:lastmodified":1491926766,
     "wof:name":"Oceanside Medical Svc",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85814831",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

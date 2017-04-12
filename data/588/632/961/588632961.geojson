@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.015985,38.802907,-123.015985,38.802907",
     "geom:latitude":38.802907,
     "geom:longitude":-123.015985,
@@ -42,16 +43,31 @@
         "cocktail"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XjPqJAOOIcEo4YYfM8g1o_38.802907_-123.015985@1303263379"
     },
     "wof:country":"US",
     "wof:geomhash":"501bb231066a7d481a9aa88beae49b2c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":588632961
+        }
+    ],
     "wof:id":588632961,
-    "wof:lastmodified":1472353060,
+    "wof:lastmodified":1491963599,
     "wof:name":"Clovers Sport Bar & Grill",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

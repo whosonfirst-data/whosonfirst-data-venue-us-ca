@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.52647,37.925599,-122.52647,37.925599",
     "geom:latitude":37.925599,
     "geom:longitude":-122.52647,
@@ -33,10 +34,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922083,
-        85633793,
         85688637,
-        102084353
+        102191575,
+        85633793,
+        85922083,
+        102084353,
+        420551329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +49,19 @@
     "wof:geomhash":"2ebbaa20a8940bcc5dd76a68fece5558",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922083,
+            "neighbourhood_id":420551329,
             "region_id":85688637,
             "venue_id":169468167
         }
     ],
     "wof:id":169468167,
-    "wof:lastmodified":1472331914,
+    "wof:lastmodified":1491960463,
     "wof:name":"Travel 2000",
-    "wof:parent_id":-1,
+    "wof:parent_id":420551329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

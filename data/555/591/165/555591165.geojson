@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.967181,37.776902,-121.967181,37.776902",
     "geom:latitude":37.776902,
     "geom:longitude":-121.967181,
@@ -32,16 +33,31 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CMX5MwsWrw3uRo07O9Vhw_37.776902_-121.967181@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"4794ead2a9d99333aa6bea839f0498ea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555591165
+        }
+    ],
     "wof:id":555591165,
-    "wof:lastmodified":1472351713,
+    "wof:lastmodified":1491948991,
     "wof:name":"Pediatrics Dentistry-San Ramon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

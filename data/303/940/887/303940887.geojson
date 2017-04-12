@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25178,34.027865,-118.25178,34.027865",
     "geom:latitude":34.027865,
     "geom:longitude":-118.25178,
@@ -34,7 +35,13 @@
     "sg:website":"www.lightsup.net",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1092456417,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -45,18 +52,21 @@
     "wof:geomhash":"a736df9b903bc38c88ef529a91702031",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456417,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":303940887
         }
     ],
     "wof:id":303940887,
-    "wof:lastmodified":1472336854,
+    "wof:lastmodified":1491928197,
     "wof:name":"Lights Up Industries",
-    "wof:parent_id":-1,
+    "wof:parent_id":1092456417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

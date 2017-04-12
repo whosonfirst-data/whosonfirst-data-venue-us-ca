@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.487991,37.858486,-122.487991,37.858486",
     "geom:latitude":37.858486,
     "geom:longitude":-122.487991,
@@ -34,10 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
-        85922089,
+        85921967,
         102084353,
+        85854225,
+        102191575,
+        85921959,
         85867349
     ],
     "wof:breaches":[],
@@ -48,19 +51,27 @@
     "wof:geomhash":"eccb324a66a57a33569a09ca0c6481d8",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85921967,
+            "neighbourhood_id":85854225,
+            "region_id":85688637,
+            "venue_id":555398837
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
-            "locality_id":85922089,
+            "locality_id":85921959,
             "neighbourhood_id":85867349,
             "region_id":85688637,
             "venue_id":555398837
         }
     ],
     "wof:id":555398837,
-    "wof:lastmodified":1472349435,
+    "wof:lastmodified":1491961739,
     "wof:name":"Sausalito Police Dept",
-    "wof:parent_id":85867349,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

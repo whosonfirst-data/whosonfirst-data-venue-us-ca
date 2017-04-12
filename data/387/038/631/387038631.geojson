@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.08873,37.862382,-122.08873,37.862382",
     "geom:latitude":37.862382,
     "geom:longitude":-122.08873,
@@ -36,7 +37,10 @@
         85688637,
         85633793,
         85922169,
-        102086225
+        102086225,
+        85886129,
+        102191575,
+        85886133
     ],
     "wof:brand_id":420573813,
     "wof:breaches":[],
@@ -47,19 +51,27 @@
     "wof:geomhash":"cd981fa8fc819b703208b86429f6721e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
             "county_id":102086225,
             "locality_id":85922169,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886129,
+            "region_id":85688637,
+            "venue_id":387038631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922169,
+            "neighbourhood_id":85886133,
             "region_id":85688637,
             "venue_id":387038631
         }
     ],
     "wof:id":387038631,
-    "wof:lastmodified":1472337707,
+    "wof:lastmodified":1491949642,
     "wof:name":"Mary Kay Cosmetics",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

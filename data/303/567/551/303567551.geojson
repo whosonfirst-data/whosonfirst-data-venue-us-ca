@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.256147,34.034145,-118.256147,34.034145",
     "geom:latitude":34.034145,
     "geom:longitude":-118.256147,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456417,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869233
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"2fcda05770457e6e5d397829f20c7d63",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869233,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456417,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":303567551
         }
     ],
     "wof:id":303567551,
-    "wof:lastmodified":1472335280,
+    "wof:lastmodified":1491928417,
     "wof:name":"Kids Q",
-    "wof:parent_id":85869233,
+    "wof:parent_id":1092456417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

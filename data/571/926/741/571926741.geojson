@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.522606,37.879536,-122.522606,37.879536",
     "geom:latitude":37.879536,
     "geom:longitude":-122.522606,
@@ -31,18 +32,35 @@
         "taping"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924633,
+        102084353,
+        85886407
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J1vJ8lfPCcv1VPIFBce9R_37.879536_-122.522606@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"fa03025c06a622c5a2e39d41fcb6920b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85924633,
+            "neighbourhood_id":85886407,
+            "region_id":85688637,
+            "venue_id":571926741
+        }
+    ],
     "wof:id":571926741,
-    "wof:lastmodified":1472350021,
+    "wof:lastmodified":1491949019,
     "wof:name":"Family Memories Video",
-    "wof:parent_id":-1,
+    "wof:parent_id":85886407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

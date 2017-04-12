@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.377471,34.047058,-118.377471,34.047058",
     "geom:latitude":34.047058,
     "geom:longitude":-118.377471,
@@ -32,12 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091764195,
+        "85865815",
         102191575,
+        1108692797,
         85633793,
         85923517,
         102086957,
-        85869773
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,15 +54,17 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869773,
+            "macrohood_id":1108692797,
+            "microhood_id":1091764195,
+            "neighbourhood_id":"85865815",
             "region_id":85688637,
             "venue_id":571769927
         }
     ],
     "wof:id":571769927,
-    "wof:lastmodified":1472344239,
+    "wof:lastmodified":1491912240,
     "wof:name":"Kram Messenger Svc",
-    "wof:parent_id":85869773,
+    "wof:parent_id":1091764195,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

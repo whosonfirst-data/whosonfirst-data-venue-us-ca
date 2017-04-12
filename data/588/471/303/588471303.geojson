@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.935293,37.705928,-121.935293,37.705928",
     "geom:latitude":37.705928,
     "geom:longitude":-121.935293,
@@ -32,16 +33,31 @@
         "services-household"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UyfknqqkUVCNC80EfkxZB_37.705928_-121.935293@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"3da9b8c3e3b00b0e4ec7297d994e834a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471303
+        }
+    ],
     "wof:id":588471303,
-    "wof:lastmodified":1472350552,
+    "wof:lastmodified":1491961233,
     "wof:name":"Maui Wowi Dublin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.474658,37.650538,-122.474658,37.650538",
     "geom:latitude":37.650538,
     "geom:longitude":-122.474658,
@@ -33,9 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85922529,
+        102085387,
+        85866011,
         85922495,
-        102085387
+        85886831
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +50,28 @@
     "wof:geomhash":"7be605a07ccab5cb5af3793936f4bbae",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922529,
+            "neighbourhood_id":85866011,
+            "region_id":85688637,
+            "venue_id":286540939
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922495,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886831,
             "region_id":85688637,
             "venue_id":286540939
         }
     ],
     "wof:id":286540939,
-    "wof:lastmodified":1472334282,
+    "wof:lastmodified":1491966124,
     "wof:name":"J J Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

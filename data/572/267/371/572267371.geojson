@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.43,34.201099,-118.43,34.201099",
     "geom:latitude":34.201099,
     "geom:longitude":-118.43,
@@ -29,12 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
         102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865851
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +50,16 @@
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865851,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":572267371
         }
     ],
     "wof:id":572267371,
-    "wof:lastmodified":1472349496,
+    "wof:lastmodified":1491913196,
     "wof:name":"Speedy Transmission Center Inc",
-    "wof:parent_id":85865851,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

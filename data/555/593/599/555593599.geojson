@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-123.020454,38.809785,-123.020454,38.809785",
     "geom:latitude":38.809785,
     "geom:longitude":-123.020454,
@@ -32,16 +33,31 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922717,
+        102081671
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1APBaChN7qX0jAnlisLKPD_38.809785_-123.020454@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"0d2720a421fe7acfd0ba13eb99ea3955",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922717,
+            "region_id":85688637,
+            "venue_id":555593599
+        }
+    ],
     "wof:id":555593599,
-    "wof:lastmodified":1472351720,
+    "wof:lastmodified":1491961802,
     "wof:name":"Jungle Monkey",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

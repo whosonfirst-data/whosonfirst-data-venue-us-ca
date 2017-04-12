@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.993026,37.596028,-121.993026,37.596028",
     "geom:latitude":37.596028,
     "geom:longitude":-121.993026,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85921863,
+        102086959,
+        85840125,
+        85921899,
+        85836977
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +50,28 @@
     "wof:geomhash":"117ac5c27add2b7834159df817b4e017",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921863,
+            "neighbourhood_id":85840125,
+            "region_id":85688637,
+            "venue_id":169533335
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "neighbourhood_id":85836977,
             "region_id":85688637,
             "venue_id":169533335
         }
     ],
     "wof:id":169533335,
-    "wof:lastmodified":1472333864,
+    "wof:lastmodified":1491965751,
     "wof:name":"Golden Temple Transportation",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

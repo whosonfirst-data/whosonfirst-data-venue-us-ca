@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.114813,38.005309,-122.114813,38.005309",
     "geom:latitude":38.005309,
     "geom:longitude":-122.114813,
@@ -31,16 +32,25 @@
         "door"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5wn2PNgEdFvAwRNHvUxtz7_38.005309_-122.114813@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"74cb3328df6ee1f73beb2559c07c086a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":571631919
+        }
+    ],
     "wof:id":571631919,
-    "wof:lastmodified":1472342279,
+    "wof:lastmodified":1491968645,
     "wof:name":"Delta Diablo Door",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

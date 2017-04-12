@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.934408,37.497931,-121.934408,37.497931",
     "geom:latitude":37.497931,
     "geom:longitude":-121.934408,
@@ -32,16 +33,31 @@
         "specially"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0624cpqZ1mHCoZSKV8YfaM_37.497931_-121.934408@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"d47bcd96a44edf57e251d168ca2a2b38",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":588452783
+        }
+    ],
     "wof:id":588452783,
-    "wof:lastmodified":1472349974,
+    "wof:lastmodified":1491968776,
     "wof:name":"Microbar Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

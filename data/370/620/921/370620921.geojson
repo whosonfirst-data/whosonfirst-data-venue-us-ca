@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.250999,34.0439,-118.250999,34.0439",
     "geom:latitude":34.0439,
     "geom:longitude":-118.250999,
@@ -34,11 +35,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +52,21 @@
     "wof:geomhash":"d0eeb169c4d7ef1697b80e964b482a34",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370620921
         }
     ],
     "wof:id":370620921,
-    "wof:lastmodified":1472342937,
+    "wof:lastmodified":1491927722,
     "wof:name":"Main Market",
-    "wof:parent_id":85865811,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

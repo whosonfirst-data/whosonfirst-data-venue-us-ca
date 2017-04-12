@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.914811,37.707254,-121.914811,37.707254",
     "geom:latitude":37.707254,
     "geom:longitude":-121.914811,
@@ -32,16 +33,31 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sKeCXBEwsIYAfSMQvJ7dr_37.707254_-121.914811@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9dae6d44942f29874168d24da9cf151a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":555075381
+        }
+    ],
     "wof:id":555075381,
-    "wof:lastmodified":1472340082,
+    "wof:lastmodified":1491959179,
     "wof:name":"Performance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

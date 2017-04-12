@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.342615,34.046776,-118.342615,34.046776",
     "geom:latitude":34.046776,
     "geom:longitude":-118.342615,
@@ -30,11 +31,13 @@
     "sg:website":"www.lapdonline.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85868351
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"d86ef6e09f6144e8ca7abdea9a6b320b",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85868351,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370716997
         }
     ],
     "wof:id":370716997,
-    "wof:lastmodified":1472343292,
+    "wof:lastmodified":1491917918,
     "wof:name":"LAPD Wilshire Community Station",
-    "wof:parent_id":85868351,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

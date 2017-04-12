@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.116893,38.007477,-122.116893,38.007477",
     "geom:latitude":38.007477,
     "geom:longitude":-122.116893,
@@ -32,16 +33,25 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0sMOfIyXpb2VsZFCuTAZ8k_38.007477_-122.116893@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"11105f06aa3048f7e37680eb4d0d6ba3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":571716921
+        }
+    ],
     "wof:id":571716921,
-    "wof:lastmodified":1472343488,
+    "wof:lastmodified":1491949237,
     "wof:name":"Bella Vista Trucking",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

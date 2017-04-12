@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.110748,38.004463,-122.110748,38.004463",
     "geom:latitude":38.004463,
     "geom:longitude":-122.110748,
@@ -53,16 +54,25 @@
         "kitchen"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59XeadHg13mebsTcdaaNXc_38.004463_-122.110748@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"3aea045a49a75b2ecae5dd4d3269be19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":588464227
+        }
+    ],
     "wof:id":588464227,
-    "wof:lastmodified":1472350297,
+    "wof:lastmodified":1491956805,
     "wof:name":"Top Shelf Cabinet Company",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

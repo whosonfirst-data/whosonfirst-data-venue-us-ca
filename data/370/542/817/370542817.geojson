@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.232717,34.052827,-118.232717,34.052827",
     "geom:latitude":34.052827,
     "geom:longitude":-118.232717,
@@ -33,11 +34,13 @@
     "sg:website":"www.dejavu.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869165
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +50,20 @@
     "wof:geomhash":"0bd1375391725b174cb4d13fe6b3dcbd",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869165,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370542817
         }
     ],
     "wof:id":370542817,
-    "wof:lastmodified":1472342300,
+    "wof:lastmodified":1491892581,
     "wof:name":"Deja Vu Showgirls",
-    "wof:parent_id":85869165,
+    "wof:parent_id":"85865837",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

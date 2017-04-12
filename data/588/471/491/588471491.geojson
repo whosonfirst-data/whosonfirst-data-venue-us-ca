@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.934349,37.704301,-121.934349,37.704301",
     "geom:latitude":37.704301,
     "geom:longitude":-121.934349,
@@ -23,16 +24,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.cafetapioca.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921909,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XNrISlFzJypfhaQoZ30qw_37.704301_-121.934349@1303263337"
     },
     "wof:country":"US",
     "wof:geomhash":"4a006dc1922658112ddfffc47ce45de5",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921909,
+            "region_id":85688637,
+            "venue_id":588471491
+        }
+    ],
     "wof:id":588471491,
-    "wof:lastmodified":1472350605,
+    "wof:lastmodified":1491961572,
     "wof:name":"Cafe Tapioca",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

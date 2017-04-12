@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.221545,34.074867,-118.221545,34.074867",
     "geom:latitude":34.074867,
     "geom:longitude":-118.221545,
@@ -30,11 +31,13 @@
     "sg:website":"www.nationalwire.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85830641",
+        102191575,
+        1108692437,
         85633793,
         85923517,
         102086957,
-        85821905
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +47,20 @@
     "wof:geomhash":"5f46cf501677a4dd89c781ffb7a42da3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85821905,
+            "macrohood_id":1108692437,
+            "neighbourhood_id":"85830641",
             "region_id":85688637,
             "venue_id":320278925
         }
     ],
     "wof:id":320278925,
-    "wof:lastmodified":1472333804,
+    "wof:lastmodified":1491909582,
     "wof:name":"National Cable Molding Corp",
-    "wof:parent_id":85821905,
+    "wof:parent_id":"85830641",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

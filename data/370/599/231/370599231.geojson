@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.251587,34.04419,-118.251587,34.04419",
     "geom:latitude":34.04419,
     "geom:longitude":-118.251587,
@@ -30,11 +31,14 @@
     "sg:website":"www.bringsomethingtotheparty.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456427,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,19 +48,21 @@
     "wof:geomhash":"4e3962f8d2b3c1c1c8e324b6d53688b9",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456427,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370599231
         }
     ],
     "wof:id":370599231,
-    "wof:lastmodified":1472342669,
+    "wof:lastmodified":1491928482,
     "wof:name":"Bring Something To The Party",
-    "wof:parent_id":85865811,
+    "wof:parent_id":1092456427,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

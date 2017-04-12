@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.153562,37.732005,-122.153562,37.732005",
     "geom:latitude":37.732005,
     "geom:longitude":-122.153562,
@@ -37,7 +38,8 @@
         85633793,
         85921867,
         102086959,
-        420550307
+        420550307,
+        420550329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +56,21 @@
             "neighbourhood_id":420550307,
             "region_id":85688637,
             "venue_id":555220391
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":420550329,
+            "region_id":85688637,
+            "venue_id":555220391
         }
     ],
     "wof:id":555220391,
-    "wof:lastmodified":1472343115,
+    "wof:lastmodified":1491956840,
     "wof:name":"Sexton Drywall Inc",
-    "wof:parent_id":420550307,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.117791,38.01288,-122.117791,38.01288",
     "geom:latitude":38.01288,
     "geom:longitude":-122.117791,
@@ -37,16 +38,25 @@
         "cart"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550511
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D0FsNmqwqsKh65IlTmKqF_38.012880_-122.117791@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"9ffe651984fa84036cf163560b0d764d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550511,
+            "venue_id":588464881
+        }
+    ],
     "wof:id":588464881,
-    "wof:lastmodified":1472350448,
+    "wof:lastmodified":1491956892,
     "wof:name":"Bay Area Golf & Industrial Vehicles",
     "wof:parent_id":420550511,
     "wof:placetype":"venue",

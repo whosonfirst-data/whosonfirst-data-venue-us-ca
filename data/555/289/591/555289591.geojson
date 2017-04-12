@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.582133,38.5793,-122.582133,38.5793",
     "geom:latitude":38.5793,
     "geom:longitude":-122.582133,
@@ -33,16 +34,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NAKRsMbNdiGtlzPOYRbGf_38.579300_-122.582133@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"504a1e869a0cfcc6bde5f98c26d6c06b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":555289591
+        }
+    ],
     "wof:id":555289591,
-    "wof:lastmodified":1472343973,
+    "wof:lastmodified":1491963654,
     "wof:name":"Tom Crowley",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.487119,34.320067,-118.487119,34.320067",
     "geom:latitude":34.320067,
     "geom:longitude":-118.487119,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85851717",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85869281
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"fcc6b8608a18f9367c3abd21d755475e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869281,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851717",
             "region_id":85688637,
             "venue_id":320598637
         }
     ],
     "wof:id":320598637,
-    "wof:lastmodified":1472335885,
+    "wof:lastmodified":1491902236,
     "wof:name":"ASC Process Systems",
-    "wof:parent_id":85869281,
+    "wof:parent_id":"85851717",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

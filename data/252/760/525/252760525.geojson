@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.853446,38.623279,-122.853446,38.623279",
     "geom:latitude":38.623279,
     "geom:longitude":-122.853446,
@@ -29,8 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85810907,
+        102081671,
+        85922709,
+        85804223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +45,25 @@
     "wof:geomhash":"1a7afeb350843c6c2ab23c0ac33b980e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85810907,
+            "region_id":85688637,
+            "venue_id":252760525
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922709,
+            "neighbourhood_id":85804223,
             "region_id":85688637,
             "venue_id":252760525
         }
     ],
     "wof:id":252760525,
-    "wof:lastmodified":1472331112,
+    "wof:lastmodified":1491957794,
     "wof:name":"Clearwater Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

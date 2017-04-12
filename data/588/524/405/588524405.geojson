@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.285403,37.891034,-122.285403,37.891034",
     "geom:latitude":37.891034,
     "geom:longitude":-122.285403,
@@ -31,16 +32,31 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Byc4VroZhiLdN9bTIsA6V_37.891034_-122.285403@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"db501052699e63a558c8972d661c5bb0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588524405
+        }
+    ],
     "wof:id":588524405,
-    "wof:lastmodified":1472351186,
+    "wof:lastmodified":1491962788,
     "wof:name":"Bulterman Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

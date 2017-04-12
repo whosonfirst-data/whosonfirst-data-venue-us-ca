@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.161541,37.448035,-122.161541,37.448035",
     "geom:latitude":37.448035,
     "geom:longitude":-122.161541,
@@ -33,16 +34,31 @@
         "asian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922351,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qb3AZASK2Um04VQGIC9I1_37.448477_-122.161160@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"02704f36c8ea676161258ef8c622d4e6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922351,
+            "region_id":85688637,
+            "venue_id":572207663
+        }
+    ],
     "wof:id":572207663,
-    "wof:lastmodified":1472344290,
+    "wof:lastmodified":1491957557,
     "wof:name":"Bangkok Cuisine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

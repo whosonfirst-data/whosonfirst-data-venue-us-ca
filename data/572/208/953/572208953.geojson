@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.639568,37.114202,-121.639568,37.114202",
     "geom:latitude":37.114202,
     "geom:longitude":-121.639568,
@@ -33,16 +34,31 @@
         "pizza"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922359,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3poTqoI9bmNMfRBwFv3dnI_37.114414_-121.639280@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"73c86f2bf4ab6c53ef752dcb39d2c31b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85922359,
+            "region_id":85688637,
+            "venue_id":572208953
+        }
+    ],
     "wof:id":572208953,
-    "wof:lastmodified":1472344332,
+    "wof:lastmodified":1491950385,
     "wof:name":"Mountain Mike's Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

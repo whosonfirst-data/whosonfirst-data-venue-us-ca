@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.442395,38.586243,-122.442395,38.586243",
     "geom:latitude":38.586243,
     "geom:longitude":-122.442395,
@@ -38,16 +39,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924793,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KthChVTP2uYDyuf26h6fP_38.586243_-122.442395@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"c45d238455e6f1a373c860227338f48b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85924793,
+            "region_id":85688637,
+            "venue_id":588439027
+        }
+    ],
     "wof:id":588439027,
-    "wof:lastmodified":1472349414,
+    "wof:lastmodified":1491958942,
     "wof:name":"Bunch Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

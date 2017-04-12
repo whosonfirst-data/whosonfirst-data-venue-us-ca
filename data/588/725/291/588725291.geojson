@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.803584,37.661484,-121.803584,37.661484",
     "geom:latitude":37.661484,
     "geom:longitude":-121.803584,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"http://broadclip.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27Fjj87ammRF9ezXgWDhzK_37.661484_-121.803584@1308186496"
     },
     "wof:country":"US",
     "wof:geomhash":"18844a46617c3e67d5d686c080effe20",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588725291
+        }
+    ],
     "wof:id":588725291,
-    "wof:lastmodified":1472353547,
+    "wof:lastmodified":1491949458,
     "wof:name":"BroadClip",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

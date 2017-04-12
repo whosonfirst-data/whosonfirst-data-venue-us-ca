@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.884495,38.148931,-122.884495,38.148931",
     "geom:latitude":38.148931,
     "geom:longitude":-122.884495,
@@ -38,16 +39,29 @@
     ],
     "sg:website":"http://www.usps.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688637,
+        102084353
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41oQFpvwEzZTVqNwEXMcms_38.148931_-122.884495@1303263353"
     },
     "wof:country":"US",
     "wof:geomhash":"845ce93e5256a33996b2edea6adcbaea",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "region_id":85688637,
+            "venue_id":588533501
+        }
+    ],
     "wof:id":588533501,
-    "wof:lastmodified":1472351261,
+    "wof:lastmodified":1491970383,
     "wof:name":"USPS - United States Post Office - Marshall Main Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

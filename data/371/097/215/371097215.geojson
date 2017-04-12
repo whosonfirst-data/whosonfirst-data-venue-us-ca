@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.424635,34.205657,-118.424635,34.205657",
     "geom:latitude":34.205657,
     "geom:longitude":-118.424635,
@@ -37,11 +38,13 @@
     "sg:website":"www.jbchemical.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865849",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865851
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,19 +54,20 @@
     "wof:geomhash":"10479bc3b31fecc5074e5fc88167aaa1",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865851,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85865849",
             "region_id":85688637,
             "venue_id":371097215
         }
     ],
     "wof:id":371097215,
-    "wof:lastmodified":1472339043,
+    "wof:lastmodified":1491913209,
     "wof:name":"J B Chemical Co Inc",
-    "wof:parent_id":85865851,
+    "wof:parent_id":"85865849",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

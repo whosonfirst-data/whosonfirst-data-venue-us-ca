@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.312419,33.989197,-118.312419,33.989197",
     "geom:latitude":33.989197,
     "geom:longitude":-118.312419,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996443,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"e894eb4dd490a429ac31672d82db1b70",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996443,
             "region_id":85688637,
             "venue_id":336747117
         }
     ],
     "wof:id":336747117,
-    "wof:lastmodified":1472331977,
+    "wof:lastmodified":1491867656,
     "wof:name":"Los Angeles Fire Dept",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

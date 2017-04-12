@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.513648,38.24055,-121.513648,38.24055",
     "geom:latitude":38.24055,
     "geom:longitude":-121.513648,
@@ -31,16 +32,31 @@
         "center"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85926903,
+        102082889
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vAvAjxKRDrd9HOQGXBc5Y_38.240550_-121.513648@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"2a5de049f1961025aa5cae1442400427",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102082889,
+            "locality_id":85926903,
+            "region_id":85688637,
+            "venue_id":555697637
+        }
+    ],
     "wof:id":555697637,
-    "wof:lastmodified":1472352651,
+    "wof:lastmodified":1491966640,
     "wof:name":"Butte Co Of Education",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.439937,38.565258,-122.439937,38.565258",
     "geom:latitude":38.565258,
     "geom:longitude":-122.439937,
@@ -31,16 +32,31 @@
         "advisory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85924793,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uCl5ABK6iLbJnet29PpRJ_38.565258_-122.439937@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"b852ab12ea94156ed86ac63b24bd5d11",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85924793,
+            "region_id":85688637,
+            "venue_id":588439023
+        }
+    ],
     "wof:id":588439023,
-    "wof:lastmodified":1472349413,
+    "wof:lastmodified":1491967180,
     "wof:name":"Ser Investments",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

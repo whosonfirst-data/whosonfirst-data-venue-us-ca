@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.426423,37.468866,-122.426423,37.468866",
     "geom:latitude":37.468866,
     "geom:longitude":-122.426423,
@@ -33,16 +34,31 @@
         "treatment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sc2QUj3cDJH75bk1WV8yM_37.468866_-122.426423@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"369b90570f21cbc3011a93022590cb19",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":571871191
+        }
+    ],
     "wof:id":571871191,
-    "wof:lastmodified":1472349033,
+    "wof:lastmodified":1491959837,
     "wof:name":"El Centro De Libertad Coast",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

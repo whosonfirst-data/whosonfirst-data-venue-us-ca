@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.003514,33.834919,-118.003514,33.834919",
     "geom:latitude":33.834919,
     "geom:longitude":-118.003514,
@@ -34,9 +35,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923163,
-        102080847
+        102080847,
+        85855175,
+        85923167,
+        85823835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +51,28 @@
     "wof:geomhash":"09671743b3dd74820094d01b72aae8a5",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102080847,
             "locality_id":85923163,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85855175,
+            "region_id":85688637,
+            "venue_id":354136451
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":85823835,
             "region_id":85688637,
             "venue_id":354136451
         }
     ],
     "wof:id":354136451,
-    "wof:lastmodified":1472333354,
+    "wof:lastmodified":1491903925,
     "wof:name":"Eagle Press",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

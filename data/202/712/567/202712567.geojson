@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-119.790739,36.714154,-119.790739,36.714154",
     "geom:latitude":36.714154,
     "geom:longitude":-119.790739,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922995,
-        102084347
+        102084347,
+        85871927,
+        85871917
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"adc93391e89a70e440a3675c9551ae8e",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084347,
             "locality_id":85922995,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85871927,
+            "region_id":85688637,
+            "venue_id":202712567
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084347,
+            "locality_id":85922995,
+            "neighbourhood_id":85871917,
             "region_id":85688637,
             "venue_id":202712567
         }
     ],
     "wof:id":202712567,
-    "wof:lastmodified":1472332718,
+    "wof:lastmodified":1491914442,
     "wof:name":"Westside Market",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

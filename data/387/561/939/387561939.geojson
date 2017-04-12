@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.349318,34.019866,-118.349318,34.019866",
     "geom:latitude":34.019866,
     "geom:longitude":-118.349318,
@@ -32,7 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1041531571,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -43,18 +49,20 @@
     "wof:geomhash":"199f1a93a53c5c8dce0afe9b8eb0b948",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1041531571,
             "region_id":85688637,
             "venue_id":387561939
         }
     ],
     "wof:id":387561939,
-    "wof:lastmodified":1472344358,
+    "wof:lastmodified":1491867980,
     "wof:name":"Zeitgeist Community Learning",
-    "wof:parent_id":-1,
+    "wof:parent_id":1041531571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

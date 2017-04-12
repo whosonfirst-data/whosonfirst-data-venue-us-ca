@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.25135,34.042531,-118.25135,34.042531",
     "geom:latitude":34.042531,
     "geom:longitude":-118.25135,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1092456417,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85865811
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"8d59a726be42286d571ba3df3a6273b8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865811,
+            "macrohood_id":1108694663,
+            "microhood_id":1092456417,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370893065
         }
     ],
     "wof:id":370893065,
-    "wof:lastmodified":1472344721,
+    "wof:lastmodified":1491928447,
     "wof:name":"John & Sons Corp",
-    "wof:parent_id":85865811,
+    "wof:parent_id":1092456417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

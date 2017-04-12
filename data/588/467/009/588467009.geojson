@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.288361,38.283871,-122.288361,38.283871",
     "geom:latitude":38.283871,
     "geom:longitude":-122.288361,
@@ -38,16 +39,25 @@
         "new"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551435
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74BDcWDhMAsPX4ycZ7AmLu_38.283871_-122.288361@1303263335"
     },
     "wof:country":"US",
     "wof:geomhash":"f87a867291b2d59c49add79a939de1cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551435,
+            "venue_id":588467009
+        }
+    ],
     "wof:id":588467009,
-    "wof:lastmodified":1472350207,
+    "wof:lastmodified":1491963005,
     "wof:name":"A & T Auto Body Works",
     "wof:parent_id":420551435,
     "wof:placetype":"venue",

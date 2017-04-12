@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.313604,37.998556,-122.313604,37.998556",
     "geom:latitude":37.998556,
     "geom:longitude":-122.313604,
@@ -29,10 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85922143,
-        85633793,
         85688637,
-        102086225
+        102191575,
+        85633793,
+        85925065,
+        102086225,
+        420550559
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,17 +45,19 @@
     "wof:geomhash":"2c4f4dfee0acd77b192b759ff79a1a04",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086225,
-            "locality_id":85922143,
+            "locality_id":85925065,
+            "neighbourhood_id":420550559,
             "region_id":85688637,
             "venue_id":169497539
         }
     ],
     "wof:id":169497539,
-    "wof:lastmodified":1472332640,
+    "wof:lastmodified":1491950096,
     "wof:name":"Baycon",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

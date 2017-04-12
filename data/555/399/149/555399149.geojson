@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.997123,37.811911,-121.997123,37.811911",
     "geom:latitude":37.811911,
     "geom:longitude":-121.997123,
@@ -31,16 +32,31 @@
         "optician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KGMouJy1IdOcmUJhbfkar_37.811911_-121.997123@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"bd0ec83862136cae30ee00001d1ca57c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":555399149
+        }
+    ],
     "wof:id":555399149,
-    "wof:lastmodified":1472349356,
+    "wof:lastmodified":1491959205,
     "wof:name":"Valley Opticians",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

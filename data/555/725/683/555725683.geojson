@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.809706,38.539431,-122.809706,38.539431",
     "geom:latitude":38.539431,
     "geom:longitude":-122.809706,
@@ -42,9 +43,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922677,
         102081671,
+        85888235,
+        85816945,
         85848367
     ],
     "wof:breaches":[],
@@ -55,6 +59,22 @@
     "wof:geomhash":"c8a49b063fb0f91c225d48e0bf314e60",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922677,
+            "neighbourhood_id":85888235,
+            "region_id":85688637,
+            "venue_id":555725683
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85816945,
+            "region_id":85688637,
+            "venue_id":555725683
+        },
+        {
             "country_id":85633793,
             "county_id":102081671,
             "locality_id":85922677,
@@ -64,9 +84,9 @@
         }
     ],
     "wof:id":555725683,
-    "wof:lastmodified":1472352943,
+    "wof:lastmodified":1491959168,
     "wof:name":"Sonoma Tilemakers Inc",
-    "wof:parent_id":85848367,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

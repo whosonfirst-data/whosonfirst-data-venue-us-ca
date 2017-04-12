@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.211232,38.048629,-122.211232,38.048629",
     "geom:latitude":38.048629,
     "geom:longitude":-122.211232,
@@ -33,13 +34,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
+        85881593,
+        102086225,
+        102191575,
         85922643,
         102087589,
-        85821811,
-        85881593,
-        102086225
+        85821811
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,6 +50,13 @@
     "wof:geomhash":"c6dade0129e401b8c180a1fb47919f6b",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "county_id":102086225,
+            "neighbourhood_id":85881593,
+            "region_id":85688637,
+            "venue_id":571813639
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087589,
@@ -56,19 +64,12 @@
             "neighbourhood_id":85821811,
             "region_id":85688637,
             "venue_id":571813639
-        },
-        {
-            "country_id":85633793,
-            "county_id":102086225,
-            "neighbourhood_id":85881593,
-            "region_id":85688637,
-            "venue_id":571813639
         }
     ],
     "wof:id":571813639,
-    "wof:lastmodified":1472344913,
+    "wof:lastmodified":1491964184,
     "wof:name":"Ann M Markus",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

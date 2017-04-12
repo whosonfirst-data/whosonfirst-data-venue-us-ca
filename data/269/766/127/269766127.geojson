@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.580241,34.160094,-118.580241,34.160094",
     "geom:latitude":34.160094,
     "geom:longitude":-118.580241,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85858757",
+        102191575,
+        1108692439,
         85633793,
         85923517,
         102086957,
-        85865871
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"ee2bb9f48d505faa0f29f8bb143c3719",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85865871,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85858757",
             "region_id":85688637,
             "venue_id":269766127
         }
     ],
     "wof:id":269766127,
-    "wof:lastmodified":1472333365,
+    "wof:lastmodified":1491888951,
     "wof:name":"Mark Young",
-    "wof:parent_id":85865871,
+    "wof:parent_id":"85858757",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

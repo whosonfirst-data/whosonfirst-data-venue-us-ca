@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.624606,37.890417,-121.624606,37.890417",
     "geom:latitude":37.890417,
     "geom:longitude":-121.624606,
@@ -31,16 +32,31 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925147,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3avDUXU60b3MmJTmdzrUEg_37.890417_-121.624606@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"ae85bcb0284e7808c6f43b7451bb8c34",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925147,
+            "region_id":85688637,
+            "venue_id":588438175
+        }
+    ],
     "wof:id":588438175,
-    "wof:lastmodified":1472349420,
+    "wof:lastmodified":1491959364,
     "wof:name":"Black Diamond Mechanical",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

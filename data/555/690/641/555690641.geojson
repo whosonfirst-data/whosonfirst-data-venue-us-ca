@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.979105,37.766984,-121.979105,37.766984",
     "geom:latitude":37.766984,
     "geom:longitude":-121.979105,
@@ -32,16 +33,31 @@
         "dog"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922121,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1goCRzYpIlqY5Tz4JvWVpR_37.766984_-121.979105@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"6cf7053d7547c91eda6a3239e6dbf46c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922121,
+            "region_id":85688637,
+            "venue_id":555690641
+        }
+    ],
     "wof:id":555690641,
-    "wof:lastmodified":1472352595,
+    "wof:lastmodified":1491956609,
     "wof:name":"California Canine Academy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.428835,37.633344,-122.428835,37.633344",
     "geom:latitude":37.633344,
     "geom:longitude":-122.428835,
@@ -37,7 +38,9 @@
         85633793,
         85922427,
         102085387,
-        85888085
+        85888085,
+        85922441,
+        85887209
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,12 +57,21 @@
             "neighbourhood_id":85888085,
             "region_id":85688637,
             "venue_id":555466415
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922441,
+            "neighbourhood_id":85887209,
+            "region_id":85688637,
+            "venue_id":555466415
         }
     ],
     "wof:id":555466415,
-    "wof:lastmodified":1472350737,
+    "wof:lastmodified":1491961114,
     "wof:name":"California San Francisco Mssn",
-    "wof:parent_id":85888085,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

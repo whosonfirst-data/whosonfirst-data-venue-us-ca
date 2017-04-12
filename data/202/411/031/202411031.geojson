@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.0164,33.824479,-118.0164,33.824479",
     "geom:latitude":33.824479,
     "geom:longitude":-118.0164,
@@ -29,8 +30,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85923159,
+        102080847,
+        85848475,
+        85923167,
+        85823835
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,18 +47,28 @@
     "wof:geomhash":"8d853f76894e5de967d4c8f151c2f1f3",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102080847,
+            "locality_id":85923159,
+            "neighbourhood_id":85848475,
+            "region_id":85688637,
+            "venue_id":202411031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102080847,
+            "locality_id":85923167,
+            "neighbourhood_id":85823835,
             "region_id":85688637,
             "venue_id":202411031
         }
     ],
     "wof:id":202411031,
-    "wof:lastmodified":1472331049,
+    "wof:lastmodified":1491903908,
     "wof:name":"Golden Bird Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

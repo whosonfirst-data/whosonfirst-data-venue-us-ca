@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.606297,37.902497,-121.606297,37.902497",
     "geom:latitude":37.902497,
     "geom:longitude":-121.606297,
@@ -32,16 +33,31 @@
         "court"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925147,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kSDtXmg8nsW8iNUt8bDad_37.902497_-121.606297@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d6bbbde10bca1fcc942e9c3c56caa3f4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925147,
+            "region_id":85688637,
+            "venue_id":571513451
+        }
+    ],
     "wof:id":571513451,
-    "wof:lastmodified":1472339440,
+    "wof:lastmodified":1491962944,
     "wof:name":"Sharco Office Support",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

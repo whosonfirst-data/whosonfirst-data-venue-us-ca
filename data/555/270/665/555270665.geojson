@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.590322,37.899655,-121.590322,37.899655",
     "geom:latitude":37.899655,
     "geom:longitude":-121.590322,
@@ -32,16 +33,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925147,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZyzrvfwEnxlKnCVMf5CT2_37.899655_-121.590322@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"869327eb767b7c05268c86134b2549c8",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85925147,
+            "region_id":85688637,
+            "venue_id":555270665
+        }
+    ],
     "wof:id":555270665,
-    "wof:lastmodified":1472343806,
+    "wof:lastmodified":1491958650,
     "wof:name":"Bedrock Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

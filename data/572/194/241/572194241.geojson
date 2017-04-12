@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.483494,38.514585,-122.483494,38.514585",
     "geom:latitude":38.514585,
     "geom:longitude":-122.483494,
@@ -33,16 +34,31 @@
         "californian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921989,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MwyKbHLrbzs4I0sZQAHD7_38.514585_-122.483494@1299784598"
     },
     "wof:country":"US",
     "wof:geomhash":"a69a977c69d777543eecb5c11d57e11f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921989,
+            "region_id":85688637,
+            "venue_id":572194241
+        }
+    ],
     "wof:id":572194241,
-    "wof:lastmodified":1472343489,
+    "wof:lastmodified":1491957823,
     "wof:name":"Greystone Restaurant",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

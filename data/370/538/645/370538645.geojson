@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.251126,34.058603,-118.251126,34.058603",
     "geom:latitude":34.058603,
     "geom:longitude":-118.251126,
@@ -28,11 +29,14 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1091736553,
+        "85865811",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869149
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +46,21 @@
     "wof:geomhash":"e6f84f98daa48cddaf1bb03da50ec5f2",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869149,
+            "macrohood_id":1108694663,
+            "microhood_id":1091736553,
+            "neighbourhood_id":"85865811",
             "region_id":85688637,
             "venue_id":370538645
         }
     ],
     "wof:id":370538645,
-    "wof:lastmodified":1472342257,
+    "wof:lastmodified":1491927768,
     "wof:name":"Sky Cafe",
-    "wof:parent_id":85869149,
+    "wof:parent_id":1091736553,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

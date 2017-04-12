@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.810936,37.997529,-121.810936,37.997529",
     "geom:latitude":37.997529,
     "geom:longitude":-121.810936,
@@ -33,18 +34,35 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922139,
+        102086225,
+        85831457
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63ccsZLqO3FSHKPbz6CIX3_37.997529_-121.810936@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"f975f3b6bc14ac52480801bfc9dfe0b6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922139,
+            "neighbourhood_id":85831457,
+            "region_id":85688637,
+            "venue_id":555646195
+        }
+    ],
     "wof:id":555646195,
-    "wof:lastmodified":1472352146,
+    "wof:lastmodified":1491962262,
     "wof:name":"Ron Fulks",
-    "wof:parent_id":-1,
+    "wof:parent_id":85831457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

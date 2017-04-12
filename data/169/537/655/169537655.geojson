@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.28242,37.772681,-122.28242,37.772681",
     "geom:latitude":37.772681,
     "geom:longitude":-122.28242,
@@ -33,10 +34,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85921923,
-        85633793,
         85688637,
-        102086959
+        102191575,
+        85633793,
+        85921923,
+        102086959,
+        85859035,
+        85855415
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,17 +50,28 @@
     "wof:geomhash":"63753f2385f202992f03cd0f899abc10",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85921923,
+            "neighbourhood_id":85859035,
+            "region_id":85688637,
+            "venue_id":169537655
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921923,
+            "neighbourhood_id":85855415,
             "region_id":85688637,
             "venue_id":169537655
         }
     ],
     "wof:id":169537655,
-    "wof:lastmodified":1472333901,
+    "wof:lastmodified":1491962346,
     "wof:name":"West Side Flooring",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

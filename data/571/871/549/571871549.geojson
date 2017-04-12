@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.010661,37.829305,-122.010661,37.829305",
     "geom:latitude":37.829305,
     "geom:longitude":-122.010661,
@@ -31,16 +32,31 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17jtKf9VrMHTcqgXCE75Pc_37.829305_-122.010661@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"a1cb526321465d82624786e89d375abf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":571871549
+        }
+    ],
     "wof:id":571871549,
-    "wof:lastmodified":1472349154,
+    "wof:lastmodified":1491968407,
     "wof:name":"PMC Appraisal Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.59352,37.101888,-121.59352,37.101888",
     "geom:latitude":37.101888,
     "geom:longitude":-121.59352,
@@ -31,16 +32,31 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925391,
+        102081673
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UdlYQgFlZ88elKtWWdOda_37.101888_-121.593520@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"8e6f7b66b5e13c15729884694da9aff4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102081673,
+            "locality_id":85925391,
+            "region_id":85688637,
+            "venue_id":555489671
+        }
+    ],
     "wof:id":555489671,
-    "wof:lastmodified":1472351011,
+    "wof:lastmodified":1491958095,
     "wof:name":"Susan Sosebee",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.806663,37.995814,-121.806663,37.995814",
     "geom:latitude":37.995814,
     "geom:longitude":-121.806663,
@@ -36,16 +37,31 @@
         "italian"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922201,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WFuHC3FEwUroJBTKqY3AJ_37.995814_-121.806663@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"cc145ef506f32b481483ac21f12c69bf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922201,
+            "region_id":85688637,
+            "venue_id":588439711
+        }
+    ],
     "wof:id":588439711,
-    "wof:lastmodified":1472349498,
+    "wof:lastmodified":1491964506,
     "wof:name":"Carpaccio Ristorante",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

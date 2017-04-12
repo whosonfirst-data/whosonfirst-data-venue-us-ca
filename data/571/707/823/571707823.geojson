@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.046397,37.685053,-122.046397,37.685053",
     "geom:latitude":37.685053,
     "geom:longitude":-122.046397,
@@ -33,9 +34,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85633793,
+        420550401,
         85688637,
         102191575,
-        85633793,
         85924511,
         102086959,
         85885779
@@ -48,6 +50,11 @@
     "wof:geomhash":"09e4d787c423cc47199071dd3bae8818",
     "wof:hierarchy":[
         {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":571707823
+        },
+        {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
@@ -58,9 +65,9 @@
         }
     ],
     "wof:id":571707823,
-    "wof:lastmodified":1472343456,
+    "wof:lastmodified":1491957172,
     "wof:name":"Ladies Of Paradise Board",
-    "wof:parent_id":85885779,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

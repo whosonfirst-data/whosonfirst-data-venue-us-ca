@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.130141,37.690798,-122.130141,37.690798",
     "geom:latitude":37.690798,
     "geom:longitude":-122.130141,
@@ -33,8 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85924499,
+        102086959,
+        85831423,
+        85921867,
+        85887809
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,18 +51,28 @@
     "wof:geomhash":"b632abb5254942592245c7d246e55a62",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086959,
+            "locality_id":85924499,
+            "neighbourhood_id":85831423,
+            "region_id":85688637,
+            "venue_id":269808947
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921867,
+            "neighbourhood_id":85887809,
             "region_id":85688637,
             "venue_id":269808947
         }
     ],
     "wof:id":269808947,
-    "wof:lastmodified":1472333683,
+    "wof:lastmodified":1491965773,
     "wof:name":"Carpet City",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

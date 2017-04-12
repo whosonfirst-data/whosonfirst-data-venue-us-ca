@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.512167,37.960337,-122.512167,37.960337",
     "geom:latitude":37.960337,
     "geom:longitude":-122.512167,
@@ -31,16 +32,25 @@
         "clinic"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LygW4NKF4AZQcab8qz5Mb_37.960337_-122.512167@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"24bd05bb6b70e91f550fa1e9d10ce906",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551341,
+            "venue_id":555501689
+        }
+    ],
     "wof:id":555501689,
-    "wof:lastmodified":1472350996,
+    "wof:lastmodified":1491965489,
     "wof:name":"American Civil Liberties Union",
     "wof:parent_id":420551341,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-117.754768,34.097569,-117.754768,34.097569",
     "geom:latitude":34.097569,
     "geom:longitude":-117.754768,
@@ -36,9 +37,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
+        85923671,
+        102086957,
+        85837921,
         85923479,
-        102086957
+        85886117
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,19 +53,28 @@
     "wof:geomhash":"94df4d72b609693f7791d13c6ce3e5e8",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923671,
+            "neighbourhood_id":85837921,
+            "region_id":85688637,
+            "venue_id":353918895
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923479,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85886117,
             "region_id":85688637,
             "venue_id":353918895
         }
     ],
     "wof:id":353918895,
-    "wof:lastmodified":1472337100,
+    "wof:lastmodified":1491920026,
     "wof:name":"Radiator Express Warehouse Inc",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

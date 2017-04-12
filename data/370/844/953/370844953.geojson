@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.505901,34.020874,-118.505901,34.020874",
     "geom:latitude":34.020874,
     "geom:longitude":-118.505901,
@@ -38,9 +39,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923817,
-        102086957
+        102086957,
+        "85887943",
+        85880867
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,19 +54,28 @@
     "wof:geomhash":"b176e428833799680c0f1f3c00a813fa",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923817,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":"85887943",
+            "region_id":85688637,
+            "venue_id":370844953
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923817,
+            "neighbourhood_id":85880867,
             "region_id":85688637,
             "venue_id":370844953
         }
     ],
     "wof:id":370844953,
-    "wof:lastmodified":1472344485,
+    "wof:lastmodified":1491913054,
     "wof:name":"Lana Veena Business Brokers",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

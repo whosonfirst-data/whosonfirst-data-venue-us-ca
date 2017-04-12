@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.997818,37.837559,-121.997818,37.837559",
     "geom:latitude":37.837559,
     "geom:longitude":-121.997818,
@@ -31,16 +32,31 @@
         "electrician"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tA03EFj3DKBCJFhnQ0gyG_37.837559_-121.997818@1303263330"
     },
     "wof:country":"US",
     "wof:geomhash":"3ca7c46b465056e20520cf67a368cd71",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588446267
+        }
+    ],
     "wof:id":588446267,
-    "wof:lastmodified":1472349662,
+    "wof:lastmodified":1491963790,
     "wof:name":"Cal Electric",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

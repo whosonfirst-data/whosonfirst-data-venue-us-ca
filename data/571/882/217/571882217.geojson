@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.511539,37.960219,-122.511539,37.960219",
     "geom:latitude":37.960219,
     "geom:longitude":-122.511539,
@@ -32,16 +33,25 @@
         "dealer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420551341
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4oiPiZ4PpvE72gjdli1DY8_37.960219_-122.511539@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"59006f0e3536c7e26d13738a0ff2c6ad",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420551341,
+            "venue_id":571882217
+        }
+    ],
     "wof:id":571882217,
-    "wof:lastmodified":1472349379,
+    "wof:lastmodified":1491968671,
     "wof:name":"Truckworld USA",
     "wof:parent_id":420551341,
     "wof:placetype":"venue",

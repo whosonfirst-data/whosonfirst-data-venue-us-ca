@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.258499,37.883742,-122.258499,37.883742",
     "geom:latitude":37.883742,
     "geom:longitude":-122.258499,
@@ -32,16 +33,31 @@
         "educational"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74VqFTqV3x1JrUHnQwtodl_37.883742_-122.258499@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"496d36b68d9d85b602eea7331ab9b3a1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588525629
+        }
+    ],
     "wof:id":588525629,
-    "wof:lastmodified":1472351273,
+    "wof:lastmodified":1491958824,
     "wof:name":"Charles Ostman",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.30049,37.898126,-122.30049,37.898126",
     "geom:latitude":37.898126,
     "geom:longitude":-122.30049,
@@ -45,16 +46,31 @@
         "appraiser"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921919,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Dd7YBL8hTKgsPt8JUTmTe_37.898126_-122.300490@1303263350"
     },
     "wof:country":"US",
     "wof:geomhash":"ab34160e0853e03d8d057c954b77bdd7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921919,
+            "region_id":85688637,
+            "venue_id":588522319
+        }
+    ],
     "wof:id":588522319,
-    "wof:lastmodified":1472351069,
+    "wof:lastmodified":1491960531,
     "wof:name":"H T Appraisal",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

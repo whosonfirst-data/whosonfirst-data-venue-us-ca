@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.816113,37.689547,-121.816113,37.689547",
     "geom:latitude":37.689547,
     "geom:longitude":-121.816113,
@@ -49,16 +50,31 @@
     ],
     "sg:website":"http://www.attitudeaviation.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921889,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3JB75HBUC301YQFHISmctM_37.689547_-121.816113@1303263334"
     },
     "wof:country":"US",
     "wof:geomhash":"d1c5a68b495fc30f4abc06d95fab6763",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921889,
+            "region_id":85688637,
+            "venue_id":588463613
+        }
+    ],
     "wof:id":588463613,
-    "wof:lastmodified":1472350393,
+    "wof:lastmodified":1491958879,
     "wof:name":"Attitude Aviation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

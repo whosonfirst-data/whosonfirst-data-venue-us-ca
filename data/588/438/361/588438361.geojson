@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.921909,37.797583,-121.921909,37.797583",
     "geom:latitude":37.797583,
     "geom:longitude":-121.921909,
@@ -35,16 +36,31 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lA0ESimU10K4PT4wgZfxG_37.797583_-121.921909@1303263328"
     },
     "wof:country":"US",
     "wof:geomhash":"8fe4029b5aa0a518789a606b57a0e8cd",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":588438361
+        }
+    ],
     "wof:id":588438361,
-    "wof:lastmodified":1472349458,
+    "wof:lastmodified":1491948963,
     "wof:name":"Harder Masonry",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

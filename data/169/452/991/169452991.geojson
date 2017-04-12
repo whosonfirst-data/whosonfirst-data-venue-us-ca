@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.032215,37.738481,-122.032215,37.738481",
     "geom:latitude":37.738481,
     "geom:longitude":-122.032215,
@@ -32,10 +33,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85924511,
-        85633793,
         85688637,
-        102086959
+        102191575,
+        85633793,
+        85924511,
+        102086959,
+        420550405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,17 +48,19 @@
     "wof:geomhash":"b2377c21cb29040164658034234975af",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086959,
             "locality_id":85924511,
+            "neighbourhood_id":420550405,
             "region_id":85688637,
             "venue_id":169452991
         }
     ],
     "wof:id":169452991,
-    "wof:lastmodified":1472331459,
+    "wof:lastmodified":1491949789,
     "wof:name":"Creekside Stables",
-    "wof:parent_id":-1,
+    "wof:parent_id":420550405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

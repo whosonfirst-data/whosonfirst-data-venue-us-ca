@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.817635,38.481774,-122.817635,38.481774",
     "geom:latitude":38.481774,
     "geom:longitude":-122.817635,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
+        102191575,
         85633793,
-        85688637
+        85926347,
+        102081671,
+        85880887,
+        85922677,
+        85848367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,27 @@
     "wof:geomhash":"3ab2d3b0a63e05fde002e8f84f3e035c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "locality_id":85926347,
+            "neighbourhood_id":85880887,
+            "region_id":85688637,
+            "venue_id":370363603
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922677,
+            "neighbourhood_id":85848367,
             "region_id":85688637,
             "venue_id":370363603
         }
     ],
     "wof:id":370363603,
-    "wof:lastmodified":1472339963,
+    "wof:lastmodified":1491961150,
     "wof:name":"Tara Bella Winery",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

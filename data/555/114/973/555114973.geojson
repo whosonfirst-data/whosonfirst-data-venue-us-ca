@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.318388,37.93666,-121.318388,37.93666",
     "geom:latitude":37.93666,
     "geom:longitude":-121.318388,
@@ -31,16 +32,31 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85923257,
+        102085393
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qpWvmJ2D1Iy05NEMez3dK_37.936660_-121.318388@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"50dfd2262fb71684bb86ad96dbef33b1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085393,
+            "locality_id":85923257,
+            "region_id":85688637,
+            "venue_id":555114973
+        }
+    ],
     "wof:id":555114973,
-    "wof:lastmodified":1472341172,
+    "wof:lastmodified":1491959404,
     "wof:name":"Jaguar Heaven",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

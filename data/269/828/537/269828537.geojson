@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532415,37.943614,-122.532415,37.943614",
     "geom:latitude":37.943614,
     "geom:longitude":-122.532415,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922027,
-        102084353
+        102084353,
+        420551373,
+        420551375
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,19 +50,28 @@
     "wof:geomhash":"11bef9fa2af533e98194c600e95a40c0",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922027,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551373,
+            "region_id":85688637,
+            "venue_id":269828537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922027,
+            "neighbourhood_id":420551375,
             "region_id":85688637,
             "venue_id":269828537
         }
     ],
     "wof:id":269828537,
-    "wof:lastmodified":1472333978,
+    "wof:lastmodified":1491962009,
     "wof:name":"Susan Gootnick MD",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

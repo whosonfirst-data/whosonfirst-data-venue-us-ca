@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.196053,37.476646,-122.196053,37.476646",
     "geom:latitude":37.476646,
     "geom:longitude":-122.196053,
@@ -33,16 +34,31 @@
     ],
     "sg:website":"www.stagecast.net",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85925811,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x8FncGkhpCnWI5d7uk8Cu_37.476646_-122.196053@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"399fcc77ce58818558cc5205d59c0e48",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85925811,
+            "region_id":85688637,
+            "venue_id":555560707
+        }
+    ],
     "wof:id":555560707,
-    "wof:lastmodified":1472351635,
+    "wof:lastmodified":1491956996,
     "wof:name":"Stagecast Software Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.350748,37.556076,-122.350748,37.556076",
     "geom:latitude":37.556076,
     "geom:longitude":-122.350748,
@@ -35,10 +36,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
-        85922509,
+        85885699,
         102085387,
+        102191575,
+        85922509,
         85825577,
         85922431,
         85885693
@@ -50,6 +52,13 @@
     "wof:country":"US",
     "wof:geomhash":"9502e749ff371795bde7eed193276e81",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102085387,
+            "neighbourhood_id":85885699,
+            "region_id":85688637,
+            "venue_id":555371335
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -70,9 +79,9 @@
         }
     ],
     "wof:id":555371335,
-    "wof:lastmodified":1472349118,
+    "wof:lastmodified":1491956839,
     "wof:name":"Gallery 30",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

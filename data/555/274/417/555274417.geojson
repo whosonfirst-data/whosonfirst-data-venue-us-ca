@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.437871,37.476338,-122.437871,37.476338",
     "geom:latitude":37.476338,
     "geom:longitude":-122.437871,
@@ -33,16 +34,31 @@
         "school"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922515,
+        102085387
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NuX2M9yH2gTBM2gPS4bDP_37.476338_-122.437871@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"efa5587a187746e9c6e39aeb54624f99",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922515,
+            "region_id":85688637,
+            "venue_id":555274417
+        }
+    ],
     "wof:id":555274417,
-    "wof:lastmodified":1472343773,
+    "wof:lastmodified":1491970995,
     "wof:name":"Coastside Parents' Nursery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

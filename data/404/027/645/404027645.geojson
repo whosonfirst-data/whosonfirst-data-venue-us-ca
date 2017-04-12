@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.306311,33.989122,-118.306311,33.989122",
     "geom:latitude":33.989122,
     "geom:longitude":-118.306311,
@@ -40,7 +41,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996441,
+        102191575,
+        1108692435,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -51,18 +57,20 @@
     "wof:geomhash":"61264fc2b6ea984c1458904249f1f87c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996441,
             "region_id":85688637,
             "venue_id":404027645
         }
     ],
     "wof:id":404027645,
-    "wof:lastmodified":1472337553,
+    "wof:lastmodified":1491867477,
     "wof:name":"Grace Beauty Supply",
-    "wof:parent_id":-1,
+    "wof:parent_id":1058996441,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

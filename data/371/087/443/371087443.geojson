@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.532681,38.00531,-122.532681,38.00531",
     "geom:latitude":38.00531,
     "geom:longitude":-122.532681,
@@ -34,9 +35,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922003,
-        102084353
+        102084353,
+        420551355,
+        85887913
     ],
     "wof:brand_id":420574433,
     "wof:breaches":[],
@@ -47,19 +51,28 @@
     "wof:geomhash":"1a3edb5e13d6b56ac16e4e9ce4a06eff",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922003,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551355,
+            "region_id":85688637,
+            "venue_id":371087443
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922003,
+            "neighbourhood_id":85887913,
             "region_id":85688637,
             "venue_id":371087443
         }
     ],
     "wof:id":371087443,
-    "wof:lastmodified":1472338945,
+    "wof:lastmodified":1491971243,
     "wof:name":"Morgan Stanley",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

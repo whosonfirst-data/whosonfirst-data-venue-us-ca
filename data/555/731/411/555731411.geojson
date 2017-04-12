@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.053723,38.002333,-122.053723,38.002333",
     "geom:latitude":38.002333,
     "geom:longitude":-122.053723,
@@ -38,7 +39,8 @@
         85633793,
         85922187,
         102086225,
-        85876849
+        85876849,
+        85853909
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,12 +57,19 @@
             "neighbourhood_id":85876849,
             "region_id":85688637,
             "venue_id":555731411
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086225,
+            "neighbourhood_id":85853909,
+            "region_id":85688637,
+            "venue_id":555731411
         }
     ],
     "wof:id":555731411,
-    "wof:lastmodified":1472352872,
+    "wof:lastmodified":1491970427,
     "wof:name":"Trc",
-    "wof:parent_id":85876849,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

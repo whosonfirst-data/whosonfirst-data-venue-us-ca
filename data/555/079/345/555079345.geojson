@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.157656,38.051135,-122.157656,38.051135",
     "geom:latitude":38.051135,
     "geom:longitude":-122.157656,
@@ -31,16 +32,31 @@
         "consultant"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922673,
+        102087589
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5j9rZATvkl0XvACtfckvrC_38.051135_-122.157656@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"9be437b3ca7f708b4cce20cc6aa49f0c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087589,
+            "locality_id":85922673,
+            "region_id":85688637,
+            "venue_id":555079345
+        }
+    ],
     "wof:id":555079345,
-    "wof:lastmodified":1472340236,
+    "wof:lastmodified":1491967243,
     "wof:name":"Birnbaum Realty",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.355159,37.983785,-121.355159,37.983785",
     "geom:latitude":37.983785,
     "geom:longitude":-121.355159,
@@ -30,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85923257,
         102085393,
+        85895899,
         85895887
     ],
     "wof:breaches":[],
@@ -43,6 +46,15 @@
     "wof:geomhash":"b510e1bf6fd2fa7639db6552609b3803",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085393,
+            "locality_id":85923257,
+            "neighbourhood_id":85895899,
+            "region_id":85688637,
+            "venue_id":555546551
+        },
+        {
             "country_id":85633793,
             "county_id":102085393,
             "locality_id":85923257,
@@ -52,9 +64,9 @@
         }
     ],
     "wof:id":555546551,
-    "wof:lastmodified":1472351484,
+    "wof:lastmodified":1491959126,
     "wof:name":"VIP Pizza",
-    "wof:parent_id":85895887,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

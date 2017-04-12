@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.92732,37.802651,-121.92732,37.802651",
     "geom:latitude":37.802651,
     "geom:longitude":-121.92732,
@@ -32,16 +33,31 @@
         "relations"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85922183,
+        102086225
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rvxoiSMyoyytKq5aFJ8q6_37.802651_-121.927320@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"d3d4d80bd3cc389a710c1f424759c13f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086225,
+            "locality_id":85922183,
+            "region_id":85688637,
+            "venue_id":571873441
+        }
+    ],
     "wof:id":571873441,
-    "wof:lastmodified":1472349153,
+    "wof:lastmodified":1491961537,
     "wof:name":"K J P R",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

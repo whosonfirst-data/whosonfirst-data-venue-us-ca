@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.479198,34.321332,-118.479198,34.321332",
     "geom:latitude":34.321332,
     "geom:longitude":-118.479198,
@@ -29,7 +30,12 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        "85851717",
+        102191575,
+        1108692439,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +46,20 @@
     "wof:geomhash":"003b8cf39ebdfea1d548cf98df040ac6",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692439,
+            "neighbourhood_id":"85851717",
             "region_id":85688637,
             "venue_id":269600119
         }
     ],
     "wof:id":269600119,
-    "wof:lastmodified":1472331897,
+    "wof:lastmodified":1491902226,
     "wof:name":"Pane Davito Baking Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":"85851717",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

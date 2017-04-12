@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.516463,37.89132,-122.516463,37.89132",
     "geom:latitude":37.89132,
     "geom:longitude":-122.516463,
@@ -34,10 +35,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
-        102191575,
         85633793,
-        85924637,
+        85802885,
         102084353,
+        102191575,
+        85924637,
         85886425
     ],
     "wof:breaches":[],
@@ -47,6 +49,13 @@
     "wof:country":"US",
     "wof:geomhash":"fea5f9f0e019d82e98caac4b9a5e9ac2",
     "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084353,
+            "neighbourhood_id":85802885,
+            "region_id":85688637,
+            "venue_id":555587315
+        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -58,9 +67,9 @@
         }
     ],
     "wof:id":555587315,
-    "wof:lastmodified":1472351723,
+    "wof:lastmodified":1491960462,
     "wof:name":"David S Rand Law Office",
-    "wof:parent_id":85886425,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

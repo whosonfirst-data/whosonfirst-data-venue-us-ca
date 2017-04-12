@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.329324,33.975763,-118.329324,33.975763",
     "geom:latitude":33.975763,
     "geom:longitude":-118.329324,
@@ -29,11 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "420551209",
+        102191575,
+        1108692435,
         85633793,
-        85923577,
+        85923517,
         102086957,
-        85865799
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,19 +46,20 @@
     "wof:geomhash":"9d9894d8e6a65c6f5dfda58ba4b0bd61",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923577,
-            "neighbourhood_id":85865799,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"420551209",
             "region_id":85688637,
             "venue_id":286463283
         }
     ],
     "wof:id":286463283,
-    "wof:lastmodified":1472333698,
+    "wof:lastmodified":1491867882,
     "wof:name":"Unique Womans Coalition",
-    "wof:parent_id":85865799,
+    "wof:parent_id":"420551209",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

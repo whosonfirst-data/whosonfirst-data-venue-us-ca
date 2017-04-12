@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.27268,37.903341,-122.27268,37.903341",
     "geom:latitude":37.903341,
     "geom:longitude":-122.27268,
@@ -33,16 +34,31 @@
         "trade"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921915,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LkamY5YOrU9lxzRTNgHvt_37.903341_-122.272680@1303263351"
     },
     "wof:country":"US",
     "wof:geomhash":"a4b4c92a5c8d7f44b1980c281d3136d1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921915,
+            "region_id":85688637,
+            "venue_id":588524101
+        }
+    ],
     "wof:id":588524101,
-    "wof:lastmodified":1472351070,
+    "wof:lastmodified":1491960503,
     "wof:name":"Raymond International",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

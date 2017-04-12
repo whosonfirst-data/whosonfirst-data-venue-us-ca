@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.053416,37.682661,-122.053416,37.682661",
     "geom:latitude":37.682661,
     "geom:longitude":-122.053416,
@@ -32,16 +33,25 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0174jGSppqpXmPzamVl1Um_37.682661_-122.053416@1303263332"
     },
     "wof:country":"US",
     "wof:geomhash":"b5b3a8db6fcb48da501096fabebb8967",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":588454183
+        }
+    ],
     "wof:id":588454183,
-    "wof:lastmodified":1472349885,
+    "wof:lastmodified":1491960049,
     "wof:name":"Thurstons Sewer Service",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

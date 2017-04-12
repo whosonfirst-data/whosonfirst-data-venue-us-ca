@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-121.968755,37.503516,-121.968755,37.503516",
     "geom:latitude":37.503516,
     "geom:longitude":-121.968755,
@@ -29,16 +30,31 @@
     "sg:province":"CA",
     "sg:website":"http://www.oldnavy.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921899,
+        102086959
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Rr2AlCFqrn2gQe1rb8LCj_37.503911_-121.968813@1293134755"
     },
     "wof:country":"US",
     "wof:geomhash":"497ab54ce2ed96aeba33c7b433d360ce",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921899,
+            "region_id":85688637,
+            "venue_id":571985849
+        }
+    ],
     "wof:id":571985849,
-    "wof:lastmodified":1472350631,
+    "wof:lastmodified":1491957526,
     "wof:name":"Old Navy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.386427,34.030196,-118.386427,34.030196",
     "geom:latitude":34.030196,
     "geom:longitude":-118.386427,
@@ -29,7 +30,13 @@
     "sg:province":"CA",
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1092582151,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
+        85923517,
+        102086957,
         85688637
     ],
     "wof:breaches":[],
@@ -40,18 +47,21 @@
     "wof:geomhash":"b86fb8bbf0e6448945a86484e22898ed",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108694663,
+            "microhood_id":1092582151,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":252807511
         }
     ],
     "wof:id":252807511,
-    "wof:lastmodified":1472331272,
+    "wof:lastmodified":1491917932,
     "wof:name":"Sun Walters",
-    "wof:parent_id":-1,
+    "wof:parent_id":1092582151,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

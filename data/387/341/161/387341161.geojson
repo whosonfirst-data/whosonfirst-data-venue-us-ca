@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.254476,34.019878,-118.254476,34.019878",
     "geom:latitude":34.019878,
     "geom:longitude":-118.254476,
@@ -32,8 +33,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        1058996417,
+        102191575,
+        1108692435,
         85633793,
-        85688637
+        85923517,
+        102086957,
+        85688637,
+        "85865791"
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,18 +50,30 @@
     "wof:geomhash":"e4e4f7205aff983e21c9f5a22c3fd257",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":1058996417,
+            "region_id":85688637,
+            "venue_id":387341161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086957,
+            "locality_id":85923517,
+            "macrohood_id":1108692435,
+            "neighbourhood_id":"85865791",
             "region_id":85688637,
             "venue_id":387341161
         }
     ],
     "wof:id":387341161,
-    "wof:lastmodified":1472342355,
+    "wof:lastmodified":1491868426,
     "wof:name":"Templo Espiritual Veracruz",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

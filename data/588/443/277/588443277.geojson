@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.578937,38.578979,-122.578937,38.578979",
     "geom:latitude":38.578979,
     "geom:longitude":-122.578937,
@@ -28,16 +29,31 @@
     "sg:postcode":"94515",
     "sg:province":"CA",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688637,
+        102191575,
+        85633793,
+        85921997,
+        102085383
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ZNr9Pnrr8VJDqzmqlfu4Y_38.578979_-122.578937@1303263329"
     },
     "wof:country":"US",
     "wof:geomhash":"dc1bc40f1363f157c7b04439d2ffbba0",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085383,
+            "locality_id":85921997,
+            "region_id":85688637,
+            "venue_id":588443277
+        }
+    ],
     "wof:id":588443277,
-    "wof:lastmodified":1472349627,
+    "wof:lastmodified":1491958587,
     "wof:name":"Santa Fe West",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

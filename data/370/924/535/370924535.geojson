@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.389208,34.035825,-118.389208,34.035825",
     "geom:latitude":34.035825,
     "geom:longitude":-118.389208,
@@ -40,11 +41,13 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "85865813",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869121
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,19 +57,20 @@
     "wof:geomhash":"a14ed94aa8821379246d2f5e064bd08c",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869121,
+            "macrohood_id":1108694663,
+            "neighbourhood_id":"85865813",
             "region_id":85688637,
             "venue_id":370924535
         }
     ],
     "wof:id":370924535,
-    "wof:lastmodified":1472345591,
+    "wof:lastmodified":1491917917,
     "wof:name":"Art Deco Interior Group",
-    "wof:parent_id":85869121,
+    "wof:parent_id":"85865813",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

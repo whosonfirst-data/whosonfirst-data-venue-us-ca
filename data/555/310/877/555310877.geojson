@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.041084,37.691748,-122.041084,37.691748",
     "geom:latitude":37.691748,
     "geom:longitude":-122.041084,
@@ -32,16 +33,25 @@
         "line"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85633793,
+        420550401
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hsaxtUWEOl7yTXnp49qyL_37.691748_-122.041084@1294081369"
     },
     "wof:country":"US",
     "wof:geomhash":"65e779cd4aa4066eff1f85c1f4982337",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "neighbourhood_id":420550401,
+            "venue_id":555310877
+        }
+    ],
     "wof:id":555310877,
-    "wof:lastmodified":1472344624,
+    "wof:lastmodified":1491959135,
     "wof:name":"CSX",
     "wof:parent_id":420550401,
     "wof:placetype":"venue",

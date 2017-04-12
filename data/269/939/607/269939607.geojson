@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.628773,38.112083,-122.628773,38.112083",
     "geom:latitude":38.112083,
     "geom:longitude":-122.628773,
@@ -35,7 +36,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85633793,
-        85688637
+        420551405,
+        85688637,
+        102191575,
+        85922017,
+        102084353,
+        420551391
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,18 +51,24 @@
     "wof:geomhash":"a2b17a4551bb962dc493610bce9063bf",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":420551405,
+            "venue_id":269939607
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922017,
+            "neighbourhood_id":420551391,
             "region_id":85688637,
             "venue_id":269939607
         }
     ],
     "wof:id":269939607,
-    "wof:lastmodified":1472334486,
+    "wof:lastmodified":1491962008,
     "wof:name":"Warm Water Productions",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

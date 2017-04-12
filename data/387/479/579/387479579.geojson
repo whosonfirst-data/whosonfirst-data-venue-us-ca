@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.504613,37.966328,-122.504613,37.966328",
     "geom:latitude":37.966328,
     "geom:longitude":-122.504613,
@@ -33,9 +34,12 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922003,
-        102084353
+        102084353,
+        85887905,
+        85887907
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,19 +49,28 @@
     "wof:geomhash":"adcff11bac7786156765056a88dae148",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102084353,
             "locality_id":85922003,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887905,
+            "region_id":85688637,
+            "venue_id":387479579
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084353,
+            "locality_id":85922003,
+            "neighbourhood_id":85887907,
             "region_id":85688637,
             "venue_id":387479579
         }
     ],
     "wof:id":387479579,
-    "wof:lastmodified":1472343705,
+    "wof:lastmodified":1491950024,
     "wof:name":"Fairview Apartments",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

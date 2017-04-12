@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.696743,38.284026,-122.696743,38.284026",
     "geom:latitude":38.284026,
     "geom:longitude":-122.696743,
@@ -34,8 +35,12 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85887163,
+        102081671,
+        85922701,
+        85813067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +51,24 @@
     "wof:hierarchy":[
         {
             "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85887163,
+            "region_id":85688637,
+            "venue_id":169533715
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "locality_id":85922701,
+            "neighbourhood_id":85813067,
             "region_id":85688637,
             "venue_id":169533715
         }
     ],
     "wof:id":169533715,
-    "wof:lastmodified":1472333908,
+    "wof:lastmodified":1491962208,
     "wof:name":"Garden Vly Rnch Rose Nurs Wddi",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

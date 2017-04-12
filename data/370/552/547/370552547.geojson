@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-118.236387,34.042053,-118.236387,34.042053",
     "geom:latitude":34.042053,
     "geom:longitude":-118.236387,
@@ -33,11 +34,14 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        1041531569,
+        "85865837",
+        102191575,
+        1108694663,
         85633793,
         85923517,
         102086957,
-        85869087
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +51,21 @@
     "wof:geomhash":"c976c250d1731f1eafe48caa5b342b42",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
             "locality_id":85923517,
-            "neighbourhood_id":85869087,
+            "macrohood_id":1108694663,
+            "microhood_id":1041531569,
+            "neighbourhood_id":"85865837",
             "region_id":85688637,
             "venue_id":370552547
         }
     ],
     "wof:id":370552547,
-    "wof:lastmodified":1472342457,
+    "wof:lastmodified":1491892629,
     "wof:name":"Bravo Toys & Gifts",
-    "wof:parent_id":85869087,
+    "wof:parent_id":1041531569,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

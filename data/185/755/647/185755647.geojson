@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.324479,37.561645,-122.324479,37.561645",
     "geom:latitude":37.561645,
     "geom:longitude":-122.324479,
@@ -30,9 +31,13 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688637,
+        102191575,
         85633793,
         85922431,
-        102085387
+        102085387,
+        85887833,
+        85887857,
+        85887843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,19 +47,37 @@
     "wof:geomhash":"52383e6bd1b5c763b77371649fff6731",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102085387,
             "locality_id":85922431,
-            "neighbourhood_id":-1,
+            "neighbourhood_id":85887833,
+            "region_id":85688637,
+            "venue_id":185755647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887857,
+            "region_id":85688637,
+            "venue_id":185755647
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "locality_id":85922431,
+            "neighbourhood_id":85887843,
             "region_id":85688637,
             "venue_id":185755647
         }
     ],
     "wof:id":185755647,
-    "wof:lastmodified":1472331669,
+    "wof:lastmodified":1491959475,
     "wof:name":"Representatives Tom Lantos",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -9,6 +9,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.848572,38.463177,-122.848572,38.463177",
     "geom:latitude":38.463177,
     "geom:longitude":-122.848572,
@@ -36,8 +37,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
+        85688637,
         85633793,
-        85688637
+        85888239,
+        102081671,
+        85822633
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,18 +51,24 @@
     "wof:geomhash":"d586d6dac9fabb5ba7a01360806adb8d",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
             "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
+            "county_id":102081671,
+            "neighbourhood_id":85888239,
+            "region_id":85688637,
+            "venue_id":269794817
+        },
+        {
+            "country_id":85633793,
+            "county_id":102081671,
+            "neighbourhood_id":85822633,
             "region_id":85688637,
             "venue_id":269794817
         }
     ],
     "wof:id":269794817,
-    "wof:lastmodified":1472333530,
+    "wof:lastmodified":1491970518,
     "wof:name":"Donald W Schock",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
