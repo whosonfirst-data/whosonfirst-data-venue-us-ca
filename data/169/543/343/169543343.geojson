@@ -2,18 +2,19 @@
   "id": 169543343,
   "type": "Feature",
   "properties": {
-    "addr:full":"230 W 2nd St Chico CA 95928",
+    "addr:full":"230 West 2nd St., Chico, CA",
     "addr:housenumber":"230",
     "addr:postcode":"95928",
     "addr:street":"W 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-121.842069,39.729366,-121.842069,39.729366",
-    "geom:latitude":39.729366,
-    "geom:longitude":-121.842069,
+    "geom:area":0,
+    "geom:bbox":"-121.841946,39.729509,-121.841946,39.729509",
+    "geom:latitude":39.729509,
+    "geom:longitude":-121.841946,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:phone":"530-342-2727",
     "sg:address":"230 W 2nd St",
     "sg:city":"Chico",
     "sg:classifiers":[
@@ -27,7 +28,7 @@
     "sg:phone":"+1 530 342 6981",
     "sg:postcode":"95928",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"thelist",
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,7 +41,7 @@
         "sg:id":"SG_7M5DSbmMLrARatTip6c40C_39.729366_-121.842069@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"559425e6125d4e633ccf437dce3478e7",
+    "wof:geomhash":"2287d7258033177ef2bc1c1c87ced660",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,14 +53,17 @@
         }
     ],
     "wof:id":169543343,
-    "wof:lastmodified":1472333984,
+    "wof:lastmodified":1496188138,
     "wof:name":"El Rey Theater",
     "wof:parent_id":85804431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "music",
+        "concerts"
+    ]
 },
   "bbox": [
     -121.842069,
@@ -67,5 +71,5 @@
     -121.842069,
     39.729366
 ],
-  "geometry": {"coordinates":[-121.842069,39.729366],"type":"Point"}
+  "geometry": {"coordinates":[-121.84194599999999,39.729509],"type":"Point"}
 }
