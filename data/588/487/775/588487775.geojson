@@ -2,19 +2,20 @@
   "id": 588487775,
   "type": "Feature",
   "properties": {
-    "addr:full":"510 Embarcadero W Oakland CA 94607",
+    "addr:full":"510 Embarcadero West, Oakland, CA ",
     "addr:housenumber":"510",
     "addr:postcode":"94607",
     "addr:street":"Embarcadero W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.278292,37.795949,-122.278292,37.795949",
-    "geom:latitude":37.795949,
-    "geom:longitude":-122.278292,
+    "geom:area":0,
+    "geom:area_square_m":0,
+    "geom:bbox":"-122.278100252,37.7958051775,-122.278100252,37.7958051775",
+    "geom:latitude":37.795805,
+    "geom:longitude":-122.2781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:phone":"510-238-9200",
     "sg:address":"510 Embarcadero W",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -39,34 +40,24 @@
         "japanese"
     ],
     "sg:website":"www.yoshis.com",
-    "src:geom":"simplegeo",
+    "src:geom":"thelist",
     "wof:belongsto":[
-        85872423,
+        1108794055,
         102191575,
         1108794093,
         85633793,
         85921881,
         102086959,
         85688637,
-        1108794055
+        85872423
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ODf64hlbo0ER0boJk9An2_37.795949_-122.278292@1303263341"
     },
     "wof:country":"US",
-    "wof:geomhash":"708871fb53ac108f2755bb3e671a99e4",
+    "wof:geomhash":"4d9b9fe5f17afde5c5639e3e7f95ce5d",
     "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794093,
-            "neighbourhood_id":85872423,
-            "region_id":85688637,
-            "venue_id":588487775
-        },
         {
             "continent_id":102191575,
             "country_id":85633793,
@@ -76,20 +67,29 @@
             "neighbourhood_id":1108794055,
             "region_id":85688637,
             "venue_id":588487775
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086959,
+            "locality_id":85921881,
+            "macrohood_id":1108794093,
+            "neighbourhood_id":85872423,
+            "region_id":85688637,
+            "venue_id":588487775
         }
     ],
     "wof:id":588487775,
-    "wof:lastmodified":1491949502,
+    "wof:lastmodified":1496189356,
     "wof:name":"Yoshi's Oakland",
-    "wof:parent_id":-3,
+    "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "sushi",
-        "bar",
-        "japanese"
+        "music",
+        "concerts"
     ]
 },
   "bbox": [
@@ -98,5 +98,5 @@
     -122.278292,
     37.795949
 ],
-  "geometry": {"coordinates":[-122.27829199999999,37.795949],"type":"Point"}
+  "geometry": {"coordinates":[-122.27810025215,37.795805177508],"type":"Point"}
 }
