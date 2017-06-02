@@ -3,13 +3,13 @@
   "type": "Feature",
   "properties": {
     "addr:full":"983 Valencia Street, San Francisco, CA, USA",
-    "addr:housenumber":"983",
+    "addr:housenumber":983,
     "addr:postcode":"94110",
     "addr:street":"Valencia Street",
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2017-05-27",
     "edtf:inception":"2016-10",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.420851,37.757224,-122.420851,37.757224",
     "geom:latitude":37.757224,
     "geom:longitude":-122.420851,
@@ -19,7 +19,8 @@
         "eat:restaurant=american"
     ],
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:hours":[],
+    "mz:is_current":0,
     "name:eng_x_preferred":[
         "Motze"
     ],
@@ -51,14 +52,16 @@
         }
     ],
     "wof:id":1108724893,
-    "wof:lastmodified":1493855329,
+    "wof:lastmodified":1496358644,
     "wof:name":"Motze",
     "wof:parent_id":85834637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        "1108975939"
+    ],
     "wof:supersedes":[
-        "572190239"
+        572190239
     ],
     "wof:tags":[]
 },

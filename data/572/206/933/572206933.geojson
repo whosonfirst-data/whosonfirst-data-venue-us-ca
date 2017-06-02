@@ -3,17 +3,22 @@
   "type": "Feature",
   "properties": {
     "addr:full":"2226 Polk St San Francisco CA 94109",
-    "addr:housenumber":"2226",
+    "addr:housenumber":2226,
     "addr:postcode":"94109",
     "addr:street":"Polk St",
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2017-04-02",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-122.422049,37.797209,-122.422049,37.797209",
     "geom:latitude":37.797209,
     "geom:longitude":-122.422049,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=burger"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":0,
     "sg:address":"2226 Polk St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -46,7 +51,7 @@
         "sg:id":"SG_1JXUglAqutJ8rL4TRL3BiR_37.797824_-122.422148@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c507d44a4bd02b0f5590e68b825030dc",
+    "wof:geomhash":"80da31ee64c21f3d507a83da1504d602",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +64,7 @@
         }
     ],
     "wof:id":572206933,
-    "wof:lastmodified":1472344343,
+    "wof:lastmodified":1496354324,
     "wof:name":"Polker's Gourmet Burgers",
     "wof:parent_id":85887451,
     "wof:placetype":"venue",
@@ -68,7 +73,8 @@
     "wof:supersedes":[],
     "wof:tags":[
         "burger",
-        "american"
+        "american",
+        "restaurant"
     ]
 },
   "bbox": [
