@@ -8,8 +8,8 @@
     "addr:street":"12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0,
-    "geom:area_square_m":0,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.41343379,37.7699938667,-122.41343379,37.7699938667",
     "geom:latitude":37.769994,
     "geom:longitude":-122.413434,
@@ -37,34 +37,36 @@
     "sg:website":"www.sfeagle.com",
     "src:geom":"thelist",
     "wof:belongsto":[
-        85688637,
+        1108954443,
+        85865939,
         102191575,
         85633793,
         85922583,
         102087579,
-        85865939
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dmdWas51uq20az957pBBT_37.770347_-122.413750@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"78af50628dd928858a9525ff668f9004",
+    "wof:geomhash":"61638ee0c7c709e2d84bcbcc01ba7ea2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":1108954443,
             "neighbourhood_id":85865939,
             "region_id":85688637,
             "venue_id":572023639
         }
     ],
     "wof:id":572023639,
-    "wof:lastmodified":1496188087,
+    "wof:lastmodified":1496436642,
     "wof:name":"The Eagle Tavern",
-    "wof:parent_id":85865939,
+    "wof:parent_id":1108954443,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
@@ -75,10 +77,10 @@
     ]
 },
   "bbox": [
-    -122.413315,
-    37.770043,
-    -122.413315,
-    37.770043
+    -122.41343379021,
+    37.769993866683,
+    -122.41343379021,
+    37.769993866683
 ],
   "geometry": {"coordinates":[-122.41343379020999,37.769993866683],"type":"Point"}
 }

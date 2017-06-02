@@ -6,6 +6,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.403528,37.785541,-122.403528,37.785541",
     "geom:latitude":37.785541,
     "geom:longitude":-122.403528,
@@ -17,11 +18,13 @@
     ],
     "src:geom":"mapzen",
     "wof:belongsto":[
-        85688637,
+        1108831951,
+        85865939,
         102191575,
         85633793,
         85922583,
-        102087579
+        102087579,
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -34,14 +37,16 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":1108831951,
+            "neighbourhood_id":85865939,
             "region_id":85688637,
             "venue_id":1108958889
         }
     ],
     "wof:id":1108958889,
-    "wof:lastmodified":1493337243,
+    "wof:lastmodified":1496436581,
     "wof:name":"Saint Patrick\u2019s Church and Rectory",
-    "wof:parent_id":85922583,
+    "wof:parent_id":1108831951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],

@@ -8,8 +8,8 @@
     "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1908",
-    "geom:area":0,
-    "geom:area_square_m":0,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-122.398131,37.779293,-122.398131,37.779293",
     "geom:latitude":37.779293,
     "geom:longitude":-122.398131,
@@ -42,13 +42,14 @@
     "sg:website":"www.thehotelutahsaloon.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        1108831951,
+        1108954443,
         85865939,
         102191575,
         85633793,
         85922583,
         102087579,
-        85688637
+        85688637,
+        1108831951
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,6 +63,16 @@
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
+            "microhood_id":1108954443,
+            "neighbourhood_id":85865939,
+            "region_id":85688637,
+            "venue_id":588380633
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
             "microhood_id":1108831951,
             "neighbourhood_id":85865939,
             "region_id":85688637,
@@ -69,9 +80,9 @@
         }
     ],
     "wof:id":588380633,
-    "wof:lastmodified":1493166663,
+    "wof:lastmodified":1496436969,
     "wof:name":"Hotel Utah Saloon",
-    "wof:parent_id":1108831951,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
