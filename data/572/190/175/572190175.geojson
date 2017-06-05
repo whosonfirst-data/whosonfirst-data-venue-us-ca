@@ -3,13 +3,14 @@
   "type": "Feature",
   "properties": {
     "addr:full":"1101 Valencia St San Francisco CA 94110",
-    "addr:housenumber":"1101",
+    "addr:housenumber":1101,
     "addr:postcode":"94110",
     "addr:street":"Valencia St",
+    "addr:website":"http://www.garconsf.com/",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "edtf:inception":"2006",
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.420969,37.755236,-122.420969,37.755236",
     "geom:latitude":37.755236,
     "geom:longitude":-122.420969,
@@ -19,7 +20,11 @@
         "eat:restaurant=french"
     ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gar\u00e7on"
+    ],
     "sg:address":"1101 Valencia St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -52,7 +57,7 @@
         "sg:id":"SG_2tpyobc794QPI4ZanG4gd7_37.755236_-122.420969@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"87b748af1687f4fb06c939c48a43f410",
+    "wof:geomhash":"27d73187b4c7a8dd5559a0f67feb6cbd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +71,7 @@
         }
     ],
     "wof:id":572190175,
-    "wof:lastmodified":1491159132,
+    "wof:lastmodified":1496694197,
     "wof:name":"Garcon",
     "wof:parent_id":85834637,
     "wof:placetype":"venue",
@@ -74,7 +79,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "french"
+        "french",
+        "restaurant"
     ]
 },
   "bbox": [
