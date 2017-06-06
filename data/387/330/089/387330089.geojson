@@ -3,12 +3,12 @@
   "type": "Feature",
   "properties": {
     "addr:full":"9331 Venice Boulevard Culver City CA 90232",
-    "addr:housenumber":"9331",
+    "addr:housenumber":9331,
     "addr:postcode":"90232",
     "addr:street":"Venice Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1994",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-118.394997,34.026001,-118.394997,34.026001",
     "geom:latitude":34.026001,
     "geom:longitude":-118.394997,
@@ -17,7 +17,11 @@
         "do_and_see:fun=museum"
     ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
     "mz:is_current":1,
+    "name:eng_x_variant":[
+        "CLUI"
+    ],
     "sg:address":"9331 Venice Boulevard",
     "sg:city":"Culver City",
     "sg:classifiers":[
@@ -34,33 +38,37 @@
     "sg:website":"www.clui.org",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85688637,
+        "387330089",
+        "85840349",
+        102191575,
+        1108692797,
         85633793,
-        85923649,
+        85923517,
         102086957,
-        85885825
+        85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OSmw4C05S9xqeEKD9y25K_34.026001_-118.394997@1303263175"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a5a3cf7edfa8163e984087d0cea1c1a",
+    "wof:geomhash":"2389bd8bc0d6695932b0b9e738335266",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885825,
+            "locality_id":85923517,
+            "macrohood_id":1108692797,
+            "neighbourhood_id":"85840349",
             "region_id":85688637,
-            "venue_id":387330089
+            "venue_id":"387330089"
         }
     ],
     "wof:id":387330089,
-    "wof:lastmodified":1472342320,
+    "wof:lastmodified":1496767084,
     "wof:name":"Center For Land Use Interpretation",
-    "wof:parent_id":85885825,
+    "wof:parent_id":85840349,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
