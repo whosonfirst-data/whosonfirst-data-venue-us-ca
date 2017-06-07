@@ -3,18 +3,23 @@
   "type": "Feature",
   "properties": {
     "addr:full":"1401 Valencia St San Francisco CA 94110",
-    "addr:housenumber":"1401",
+    "addr:housenumber":1401,
     "addr:postcode":"94110",
     "addr:street":"Valencia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.420383,37.750454,-122.420383,37.750454",
     "geom:latitude":37.750454,
     "geom:longitude":-122.420383,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:drink=bar"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"1401 Valencia St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -55,14 +60,16 @@
         }
     ],
     "wof:id":588392143,
-    "wof:lastmodified":1496436768,
+    "wof:lastmodified":1496848442,
     "wof:name":"Clooney's Pub",
     "wof:parent_id":102112179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "bar"
+    ]
 },
   "bbox": [
     -122.420383,
