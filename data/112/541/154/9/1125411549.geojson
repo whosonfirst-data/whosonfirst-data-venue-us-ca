@@ -3,20 +3,29 @@
   "type": "Feature",
   "properties": {
     "addr:full":"2293 Mission St, San Francisco, CA, USA",
-    "addr:housenumber":"2293",
+    "addr:housenumber":2293,
+    "addr:phone":"415-872-9409",
     "addr:postcode":"94110",
     "addr:street":"Mission St",
+    "addr:website":"https://albarays.com/",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "edtf:inception":"2017-01",
+    "geom:area":0,
     "geom:bbox":"-122.418946,37.760463,-122.418946,37.760463",
     "geom:latitude":37.760463,
     "geom:longitude":-122.418946,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=cajun_and_creole"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Alba Ray's"
     ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
         85834637,
         102191575,
@@ -44,7 +53,7 @@
         }
     ],
     "wof:id":1125411549,
-    "wof:lastmodified":1497050338,
+    "wof:lastmodified":1497050473,
     "wof:name":"Alba Ray's",
     "wof:parent_id":85834637,
     "wof:placetype":"venue",
