@@ -3,18 +3,54 @@
   "type": "Feature",
   "properties": {
     "addr:full":"661 Howard St San Francisco CA 94105",
-    "addr:housenumber":"661",
+    "addr:housenumber":661,
+    "addr:phone":"415-974-0905",
     "addr:postcode":"94105",
     "addr:street":"Howard St",
+    "addr:website":"http://thirstybear.com/",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "edtf:inception":"1996-09-13",
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.399734,37.785651,-122.399734,37.785651",
     "geom:latitude":37.785651,
     "geom:longitude":-122.399734,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:drink=bar"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":{
+        "fri":{
+            "close":"23:00",
+            "open":"11:30"
+        },
+        "mon":{
+            "close":"22:00",
+            "open":"11:30"
+        },
+        "sat":{
+            "close":"23:00",
+            "open":"12:00"
+        },
+        "sun":{
+            "close":"22:00",
+            "open":"12:00"
+        },
+        "thu":{
+            "close":"22:00",
+            "open":"11:30"
+        },
+        "tue":{
+            "close":"22:00",
+            "open":"11:30"
+        },
+        "wed":{
+            "close":"22:00",
+            "open":"11:30"
+        }
+    },
+    "mz:is_current":1,
     "sg:address":"661 Howard St",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -57,7 +93,7 @@
         "sg:id":"SG_2nsnAFmAJHlpjdLw5uGOb8_37.785234_-122.400158@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"faa820ea77c3e2d20918974838c6a429",
+    "wof:geomhash":"98b14979e9432f0b8d0abad8f4461301",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +107,7 @@
         }
     ],
     "wof:id":572032069,
-    "wof:lastmodified":1491161355,
+    "wof:lastmodified":1498002085,
     "wof:name":"Thirsty Bear Brewing Company",
     "wof:parent_id":1108831951,
     "wof:placetype":"venue",
@@ -79,11 +115,11 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "eating",
-        "mfg",
-        "personal",
-        "malt",
-        "beverage",
+        null,
+        "beer",
+        null,
+        null,
+        null,
         "brewery"
     ]
 },
