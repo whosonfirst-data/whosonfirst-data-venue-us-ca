@@ -3,18 +3,26 @@
   "type": "Feature",
   "properties": {
     "addr:full":"17240 Monterey St Morgan Hill CA 95037",
-    "addr:housenumber":"17240",
+    "addr:housenumber":17240,
+    "addr:phone":"408-776-9072 ",
     "addr:postcode":"95037",
     "addr:street":"Monterey St",
+    "addr:website":"http://traildustbbq.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-121.652223,37.127701,-121.652223,37.127701",
     "geom:latitude":37.127701,
     "geom:longitude":-121.652223,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=barbecue"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"17240 Monterey St",
     "sg:city":"Morgan Hill",
     "sg:classifiers":[
@@ -36,7 +44,7 @@
         85688637,
         102191575,
         85633793,
-        85922359,
+        "387033865",
         102081673
     ],
     "wof:breaches":[],
@@ -44,21 +52,21 @@
         "sg:id":"SG_1JeEQF9k2Q6f0E0BFAbtXa_37.127701_-121.652223@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c983b7ae9085380a4c8b40942265b998",
+    "wof:geomhash":"a8c44ba2530d6f74623e53dc62e979e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102081673,
-            "locality_id":85922359,
+            "locality_id":"387033865",
             "region_id":85688637,
             "venue_id":387033865
         }
     ],
     "wof:id":387033865,
-    "wof:lastmodified":1491961997,
-    "wof:name":"Trail Dust B B Q Joint",
-    "wof:parent_id":-1,
+    "wof:lastmodified":1498083073,
+    "wof:name":"Trail Dust BBQ",
+    "wof:parent_id":102081673,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
