@@ -3,18 +3,23 @@
   "type": "Feature",
   "properties": {
     "addr:full":"1555 Bonanza St Walnut Creek CA 94596",
-    "addr:housenumber":"1555",
+    "addr:housenumber":1555,
     "addr:postcode":"94596",
     "addr:street":"Bonanza St",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "edtf:inception":"1997",
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.06209,37.899602,-122.06209,37.899602",
     "geom:latitude":37.899602,
     "geom:longitude":-122.06209,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"1555 Bonanza St",
     "sg:city":"Walnut Creek",
     "sg:classifiers":[
@@ -42,7 +47,7 @@
         "sg:id":"SG_3Cxo6hjtGJUIh0ATYwj3sF_37.899602_-122.062090@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"dfb496b25d9a667ee07801d4d3c8d4c7",
+    "wof:geomhash":"d5f855aa2158bbdaaa485f57db2ed8e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,14 +60,17 @@
         }
     ],
     "wof:id":353623321,
-    "wof:lastmodified":1491956891,
+    "wof:lastmodified":1498163719,
     "wof:name":"Walnut Creek Yacht Club",
     "wof:parent_id":85888191,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "restaurant",
+        "fish"
+    ]
 },
   "bbox": [
     -122.06209,
