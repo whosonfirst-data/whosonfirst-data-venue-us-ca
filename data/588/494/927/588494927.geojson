@@ -3,18 +3,24 @@
   "type": "Feature",
   "properties": {
     "addr:full":"4721 Telegraph Ave Oakland CA 94609",
-    "addr:housenumber":"4721",
+    "addr:housenumber":4721,
     "addr:postcode":"94609",
     "addr:street":"Telegraph Ave",
+    "addr:website":"http://www.burmasuperstar.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.263035,37.834692,-122.263035,37.834692",
     "geom:latitude":37.834692,
     "geom:longitude":-122.263035,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"4721 Telegraph Ave",
     "sg:city":"Oakland",
     "sg:classifiers":[
@@ -47,7 +53,7 @@
         "sg:id":"SG_26cyZJy5fSZsTmwnAxL0Df_37.834692_-122.263035@1303263343"
     },
     "wof:country":"US",
-    "wof:geomhash":"b9a472b20feb1e138768a7bdd12010fc",
+    "wof:geomhash":"5eaa8435a0b67b8d2b7d53b46310fc8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":588494927,
-    "wof:lastmodified":1485212752,
+    "wof:lastmodified":1498579493,
     "wof:name":"Burma Superstar",
     "wof:parent_id":85872391,
     "wof:placetype":"venue",
@@ -69,7 +75,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "burmese"
+        "burmese",
+        "restaurant"
     ]
 },
   "bbox": [
