@@ -3,18 +3,24 @@
   "type": "Feature",
   "properties": {
     "addr:full":"519 Columbus Ave San Francisco CA 94133",
-    "addr:housenumber":"519",
+    "addr:housenumber":519,
     "addr:postcode":"94133",
     "addr:street":"Columbus Ave",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "edtf:inception":"1991",
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.409317,37.799638,-122.409317,37.799638",
     "geom:latitude":37.799638,
     "geom:longitude":-122.409317,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=italian"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "sg:address":"519 Columbus Ave",
     "sg:city":"San Francisco",
     "sg:classifiers":[
@@ -47,7 +53,7 @@
         "sg:id":"SG_0qsncG4BZswdxLtMPDyvAb_37.799638_-122.409317@1299784598"
     },
     "wof:country":"US",
-    "wof:geomhash":"a23b655195b4c7fc33d5c7717f5f08c2",
+    "wof:geomhash":"0f72a0f9a2224fc5989c1f50cb984752",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":572191609,
-    "wof:lastmodified":1491161397,
+    "wof:lastmodified":1499866927,
     "wof:name":"L' Osteria Del Forno",
     "wof:parent_id":1108831957,
     "wof:placetype":"venue",
@@ -69,7 +75,8 @@
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "italian"
+        "italian",
+        "restaurant"
     ]
 },
   "bbox": [
