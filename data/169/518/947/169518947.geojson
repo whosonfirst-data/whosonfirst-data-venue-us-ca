@@ -3,17 +3,23 @@
   "type": "Feature",
   "properties": {
     "addr:full":"830 41st Ave Santa Cruz CA 95062",
-    "addr:housenumber":"830",
+    "addr:housenumber":830,
     "addr:postcode":"95062",
     "addr:street":"41St Ave",
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2017-07-12",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0,
     "geom:bbox":"-121.96482,36.96472,-121.96482,36.96472",
     "geom:latitude":36.96472,
     "geom:longitude":-121.96482,
     "iso:country":"US",
+    "mz:categories":[
+        "eat_and_drink:eat=restaurant",
+        "eat:restaurant=japanese"
+    ],
     "mz:hierarchy_label":1,
+    "mz:hours":[],
+    "mz:is_current":0,
     "sg:address":"830 41st Ave",
     "sg:city":"Santa Cruz",
     "sg:classifiers":[
@@ -40,7 +46,7 @@
         "sg:id":"SG_1yyJaZn0PGmMJskYh5MRZG_36.964720_-121.964820@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c71bae839568b8226b77b61a369c9bfe",
+    "wof:geomhash":"a46bc7472ba5292937372a8a83e65531",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,14 +58,18 @@
         }
     ],
     "wof:id":169518947,
-    "wof:lastmodified":1472333575,
+    "wof:lastmodified":1499901483,
     "wof:name":"Pink Godzilla",
     "wof:parent_id":85880717,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
-    "wof:tags":[]
+    "wof:tags":[
+        "restaurant",
+        "japanese",
+        "sushi"
+    ]
 },
   "bbox": [
     -121.96482,
