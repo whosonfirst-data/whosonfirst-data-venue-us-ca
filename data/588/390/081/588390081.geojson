@@ -2,14 +2,14 @@
   "id": 588390081,
   "type": "Feature",
   "properties": {
-    "addr:full":"695 San Jose Ave. San Francisco CA 94110",
+    "addr:full":"695 San Jose Ave",
     "addr:housenumber":"695",
     "addr:postcode":"94110",
     "addr:street":"San Jose Ave.",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.422446,37.744063,-122.422446,37.744063",
     "geom:latitude":37.744063,
     "geom:longitude":-122.422446,
@@ -49,7 +49,8 @@
         85633793,
         85922583,
         102087579,
-        102112179
+        102112179,
+        85887469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,18 +68,28 @@
             "neighbourhood_id":102112179,
             "region_id":85688637,
             "venue_id":588390081
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":85887469,
+            "region_id":85688637,
+            "venue_id":588390081
         }
     ],
     "wof:id":588390081,
-    "wof:lastmodified":1500920943,
-    "wof:name":"Framed & Cornered",
+    "wof:lastmodified":1504478751,
+    "wof:name":"Framed &amp; Cornered",
     "wof:parent_id":102112179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
-        "framing"
+        "framing",
+        "art"
     ]
 },
   "bbox": [
