@@ -9,8 +9,8 @@
     "addr:website":"http://www.lolosf.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2014",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
+    "geom:area":0,
+    "geom:area_square_m":0,
     "geom:bbox":"-122.421496,37.757358,-122.421496,37.757358",
     "geom:latitude":37.757358,
     "geom:longitude":-122.421496,
@@ -20,7 +20,7 @@
         "eat:restaurant=mexican"
     ],
     "mz:hierarchy_label":1,
-    "mz:hours":{},
+    "mz:hours":[],
     "mz:is_current":1,
     "name:eng_x_preferred":[
         "Lolo"
@@ -39,7 +39,7 @@
     "wof:concordances":{},
     "wof:country":"US",
     "wof:created":1490380548,
-    "wof:geomhash":"568d23d59b71248ec8e84e7f175d39be",
+    "wof:geomhash":"3e196fb254adbc14c5b5129d9036b70c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,13 +53,15 @@
         }
     ],
     "wof:id":1108905407,
-    "wof:lastmodified":1491161574,
+    "wof:lastmodified":1504763691,
     "wof:name":"Lolo",
     "wof:parent_id":1108832017,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1158808209
+    ],
     "wof:tags":[
         "restaurant"
     ]
