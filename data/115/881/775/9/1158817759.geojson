@@ -1,21 +1,24 @@
 {
-  "id": 1158817757,
+  "id": 1158817759,
   "type": "Feature",
   "properties": {
-    "addr:full":"3235 Mission St, San Francisco, CA",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0,
-    "geom:bbox":"-122.420166,37.74509,-122.420166,37.74509",
-    "geom:latitude":37.74509,
-    "geom:longitude":-122.420166,
+    "addr:full":"3235 Mission St, San Francisco, CA, USA",
+    "addr:housenumber":"3235",
+    "addr:postcode":"94110",
+    "addr:street":"Mission St",
+    "edtf:cessation":"2014",
+    "edtf:inception":"2011",
+    "geom:area":0.0,
+    "geom:bbox":"-122.419941,37.745028,-122.419941,37.745028",
+    "geom:latitude":37.745028,
+    "geom:longitude":-122.419941,
     "iso:country":"US",
     "mz:categories":[],
     "mz:hierarchy_label":1,
-    "mz:hours":[],
-    "mz:is_current":1,
+    "mz:hours":{},
+    "mz:is_current":0,
     "name:eng_x_preferred":[
-        "Secession Art and Design"
+        "Dell'uva"
     ],
     "src:geom":"mapzen",
     "wof:belongsto":[
@@ -31,8 +34,8 @@
     "wof:breaches":[],
     "wof:concordances":{},
     "wof:country":"US",
-    "wof:created":1505167608,
-    "wof:geomhash":"07a8807c0b02d1ddad434210e71d4f0b",
+    "wof:created":1505168734,
+    "wof:geomhash":"5dec27b65d72ab564d0f92ed5aa1a4fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -42,7 +45,7 @@
             "microhood_id":420780693,
             "neighbourhood_id":85865945,
             "region_id":85688637,
-            "venue_id":1158817757
+            "venue_id":1158817759
         },
         {
             "continent_id":102191575,
@@ -52,27 +55,28 @@
             "microhood_id":420780729,
             "neighbourhood_id":85865945,
             "region_id":85688637,
-            "venue_id":1158817757
+            "venue_id":1158817759
         }
     ],
-    "wof:id":1158817757,
-    "wof:lastmodified":1505168710,
-    "wof:name":"Secession Art and Design",
+    "wof:id":1158817759,
+    "wof:lastmodified":1505168810,
+    "wof:name":"Dell'uva",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "retail",
-        "art"
-    ]
+    "wof:superseded_by":[
+        1158817757
+    ],
+    "wof:supersedes":[
+        588392309
+    ],
+    "wof:tags":[]
 },
   "bbox": [
-    -122.42016613483,
-    37.74508979279,
-    -122.42016613483,
-    37.74508979279
+    -122.419941,
+    37.745028,
+    -122.419941,
+    37.745028
 ],
-  "geometry": {"coordinates":[-122.42016599999999,37.74509],"type":"Point"}
+  "geometry": {"coordinates":[-122.41994099999999,37.745028],"type":"Point"}
 }
