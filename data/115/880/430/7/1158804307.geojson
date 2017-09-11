@@ -4,17 +4,20 @@
   "properties": {
     "addr:full":"3152 Mission St",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-122.419211268,37.7468968077,-122.419211268,37.7468968077",
+    "edtf:inception":"2013",
+    "geom:area":0,
+    "geom:bbox":"-122.419211,37.746897,-122.419211,37.746897",
     "geom:latitude":37.746897,
     "geom:longitude":-122.419211,
     "iso:country":"US",
+    "mz:categories":[],
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:hours":[],
+    "mz:is_current":1,
     "name:eng_x_preferred":[
         "Virgil's Sea Room"
     ],
+    "src:geom":"mapzen",
     "wof:belongsto":[
         420780729,
         85865945,
@@ -25,9 +28,10 @@
         85688637
     ],
     "wof:breaches":[],
+    "wof:concordances":{},
     "wof:country":"US",
     "wof:created":1504232645,
-    "wof:geomhash":"ed739ba28f84c06c61b69c52543b0aa8",
+    "wof:geomhash":"44bbdfd8612d263324bad8f31f2a534b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -41,13 +45,15 @@
         }
     ],
     "wof:id":1158804307,
-    "wof:lastmodified":1504232645,
+    "wof:lastmodified":1505171620,
     "wof:name":"Virgil's Sea Room",
     "wof:parent_id":420780729,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        588390023
+    ],
     "wof:tags":[
         "bar",
         "drinks"
@@ -59,5 +65,5 @@
     -122.41921126842,
     37.746896807709
 ],
-  "geometry": {"coordinates":[-122.41921126842,37.746896807709],"type":"Point"}
+  "geometry": {"coordinates":[-122.419211,37.746897],"type":"Point"}
 }
