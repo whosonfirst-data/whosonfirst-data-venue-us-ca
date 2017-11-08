@@ -3,9 +3,12 @@
   "type": "Feature",
   "properties": {
     "addr:full":"111 New Montgomery San Francisco CA 94105",
+    "addr:github":"https://github.com/mapzen/",
     "addr:housenumber":"111",
     "addr:postcode":"94105",
-    "addr:street":"new montgomery",
+    "addr:street":"New Montgomery",
+    "addr:twitter":"https://twitter.com/mapzen",
+    "addr:website":"https://mapzen.com/",
     "edtf:cessation":"uuuu",
     "edtf:inception":"2016-12",
     "geom:area":0,
@@ -25,7 +28,7 @@
     "name:eng_x_variant":[
         "Mapzen West"
     ],
-    "src:geom":"unknown",
+    "src:geom":"mapzen",
     "wof:belongsto":[
         1108831951,
         85865939,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108798585,
-    "wof:lastmodified":1510096110,
+    "wof:lastmodified":1510162595,
     "wof:name":"Mapzen",
     "wof:parent_id":1108831951,
     "wof:placetype":"venue",
@@ -63,7 +66,11 @@
     "wof:supersedes":[
         907212541
     ],
-    "wof:tags":[]
+    "wof:tags":[
+        "open source",
+        "mapping",
+        "samsung accelerator"
+    ]
 },
   "bbox": [
     -122.400098,
