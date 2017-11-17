@@ -7,6 +7,7 @@
     "addr:postcode":"94010",
     "addr:street":"El Camino Real Ste 225",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.380665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_retail":-1,
     "sg:address":"1720 El Camino Real Ste 225",
     "sg:city":"Burlingame",
@@ -36,10 +37,10 @@
     "sg:website":"www.pogeyes.com",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102085387,
-        85633793,
         85688637,
-        85886431
+        85633793,
+        85886431,
+        102085387
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":588339777,
-    "wof:lastmodified":1509202001,
+    "wof:lastmodified":1510942859,
     "wof:name":"Peninsula Ophthalmology Group",
     "wof:parent_id":85886431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588342299
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "ophthalmologist"

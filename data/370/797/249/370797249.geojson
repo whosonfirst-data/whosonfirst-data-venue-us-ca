@@ -7,6 +7,7 @@
     "addr:postcode":"91505",
     "addr:street":"W Magnolia Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-118.344953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"3400 W Magnolia Blvd",
     "sg:city":"Burbank",
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":3779427757,
         "sg:id":"SG_3Pa2d1uKLSTcghkrMZmJ2M_34.168541_-118.344953@1294081369"
     },
     "wof:country":"US",
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":370797249,
-    "wof:lastmodified":1509200821,
+    "wof:lastmodified":1510943326,
     "wof:name":"Bank Of America",
     "wof:parent_id":85833329,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        572276001
+    ],
+    "wof:supersedes":[
+        572276001
+    ],
     "wof:tags":[]
 },
   "bbox": [

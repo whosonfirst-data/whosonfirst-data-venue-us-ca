@@ -7,6 +7,7 @@
     "addr:postcode":"92014",
     "addr:street":"Via De La Valle",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.248342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2749 Via de la Valle",
     "sg:city":"Del Mar",
@@ -46,6 +47,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2184572327,
         "sg:id":"SG_3sRnppGnItC7sSdxKCPQkU_32.980905_-117.248342@1294081369"
     },
     "wof:country":"US",
@@ -62,13 +64,17 @@
         }
     ],
     "wof:id":571797183,
-    "wof:lastmodified":1509201595,
+    "wof:lastmodified":1510942147,
     "wof:name":"PETCO",
     "wof:parent_id":85871201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        572326181
+    ],
+    "wof:supersedes":[
+        572326181
+    ],
     "wof:tags":[
         "pet",
         "shop"

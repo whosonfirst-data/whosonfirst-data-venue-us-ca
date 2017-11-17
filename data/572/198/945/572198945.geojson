@@ -7,6 +7,7 @@
     "addr:postcode":"95472",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-122.825426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_retail":-1,
     "sg:address":"305 N Main St",
     "sg:city":"Sebastopol",
@@ -36,10 +37,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102081671,
-        85633793,
         85688637,
-        85822633
+        85633793,
+        85822633,
+        102081671
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,12 +58,14 @@
         }
     ],
     "wof:id":572198945,
-    "wof:lastmodified":1509201729,
+    "wof:lastmodified":1510941353,
     "wof:name":"Martha's",
     "wof:parent_id":85822633,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        588635801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

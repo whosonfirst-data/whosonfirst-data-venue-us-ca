@@ -7,6 +7,7 @@
     "addr:postcode":"92653",
     "addr:street":"Cabot Rd Ste 101",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.675153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_retail":-1,
     "sg:address":"25301 Cabot Rd Ste 101",
     "sg:city":"Laguna Hills",
@@ -61,13 +62,17 @@
         }
     ],
     "wof:id":572469789,
-    "wof:lastmodified":1509201910,
+    "wof:lastmodified":1510943295,
     "wof:name":"La Paz Office Plaza",
     "wof:parent_id":85886187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        572470295
+    ],
+    "wof:supersedes":[
+        303787307
+    ],
     "wof:tags":[
         "management",
         "property"

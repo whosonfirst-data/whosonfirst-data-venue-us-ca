@@ -7,6 +7,7 @@
     "addr:postcode":"92780",
     "addr:street":"El Camino Real",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-117.816848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1171 el Camino Real",
     "sg:city":"Tustin",
@@ -40,6 +41,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":188427830,
         "sg:id":"SG_6SFDdeyDopCFUPI9jMMDA8_33.735278_-117.816848@1294081369"
     },
     "wof:country":"US",
@@ -56,13 +58,17 @@
         }
     ],
     "wof:id":354188297,
-    "wof:lastmodified":1509200656,
+    "wof:lastmodified":1510942875,
     "wof:name":"Tustin High School",
     "wof:parent_id":85867375,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        572512215
+    ],
+    "wof:supersedes":[
+        572512215
+    ],
     "wof:tags":[]
 },
   "bbox": [
