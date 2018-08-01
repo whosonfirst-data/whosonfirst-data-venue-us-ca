@@ -2,20 +2,24 @@
   "id": 320664909,
   "type": "Feature",
   "properties": {
-    "addr:full":"1315 G St Arcata CA 95521",
+    "addr:city":"Arcata",
+    "addr:full":"1315 G Street Arcata, Ca 95521-5820",
+    "addr:house_number":"1315",
     "addr:housenumber":"1315",
-    "addr:postcode":"95521",
+    "addr:postcode":"95521-5820",
+    "addr:road":"G Street",
+    "addr:state":"CA",
     "addr:street":"G St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-124.084365,40.872677,-124.084365,40.872677",
-    "geom:latitude":40.872677,
-    "geom:longitude":-124.084365,
+    "geom:bbox":"-124.0847,40.87257,-124.0847,40.87257",
+    "geom:latitude":40.87257,
+    "geom:longitude":-124.0847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1315 G St",
     "sg:city":"Arcata",
@@ -30,7 +34,10 @@
     "sg:phone":"+1 707 826 4479",
     "sg:postcode":"95521",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531997
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500528,
         "sg:id":"SG_0gtTUL03ANEdxbdRgB236F_40.872677_-124.084365@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"86f2ed73ac2dac3199ae0d2ad3780dcc",
+    "wof:geomhash":"e88fe07e2b135706722cb73548bc7ebb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +63,8 @@
         }
     ],
     "wof:id":320664909,
-    "wof:lastmodified":1509200486,
-    "wof:name":"HSU Natural History Museum",
+    "wof:lastmodified":1533149828,
+    "wof:name":"Humboldt State University Natural History Museum",
     "wof:parent_id":85802847,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.084365,
-    40.872677,
-    -124.084365,
-    40.872677
+    -124.0847,
+    40.87257,
+    -124.0847,
+    40.87257
 ],
-  "geometry": {"coordinates":[-124.08436500000001,40.872677],"type":"Point"}
+  "geometry": {"coordinates":[-124.0847,40.87257],"type":"Point"}
 }

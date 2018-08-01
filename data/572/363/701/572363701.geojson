@@ -2,20 +2,25 @@
   "id": 572363701,
   "type": "Feature",
   "properties": {
-    "addr:full":"Balboa Park 2125 Park Blvd San Diego CA 92101",
+    "addr:city":"San Diego",
+    "addr:full":"2125 Park Blvd San Diego, Ca 92101",
+    "addr:house_number":"2125",
     "addr:housenumber":"2125",
+    "addr:phone":"+1 619-234-0739",
     "addr:postcode":"92101",
+    "addr:road":"Park Blvd",
+    "addr:state":"CA",
     "addr:street":"Park;Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.147406,32.727617,-117.147406,32.727617",
-    "geom:latitude":32.727617,
-    "geom:longitude":-117.147406,
+    "geom:bbox":"-117.14622,32.72963,-117.14622,32.72963",
+    "geom:latitude":32.72963,
+    "geom:longitude":-117.14622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"Balboa Park 2125 Park Blvd",
     "sg:city":"San Diego",
@@ -40,7 +45,13 @@
         "local"
     ],
     "sg:website":"www.sdhpr.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528287,
+        102528997
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -50,10 +61,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600385,
         "sg:id":"SG_4pZsH8s2prVj4WkSOcCqFx_32.727617_-117.147406@1303263241"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a20babb1fa2c1dc6da6c1dd20c79857",
+    "wof:geomhash":"1c83ef8f9564af64954f4144db2224c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,8 +77,8 @@
         }
     ],
     "wof:id":572363701,
-    "wof:lastmodified":1509201843,
-    "wof:name":"House of Pacific Relations International Cottages Inc",
+    "wof:lastmodified":1533149825,
+    "wof:name":"House Of Pacific Relations International Cottages",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -78,10 +90,10 @@
     ]
 },
   "bbox": [
-    -117.147406,
-    32.727617,
-    -117.147406,
-    32.727617
+    -117.14622,
+    32.72963,
+    -117.14622,
+    32.72963
 ],
-  "geometry": {"coordinates":[-117.147406,32.727617],"type":"Point"}
+  "geometry": {"coordinates":[-117.14622,32.72963],"type":"Point"}
 }

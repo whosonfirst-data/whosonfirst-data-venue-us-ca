@@ -2,20 +2,25 @@
   "id": 588578613,
   "type": "Feature",
   "properties": {
-    "addr:full":"535 North 5th St San Jose CA 95112",
+    "addr:city":"San Jose",
+    "addr:full":"535 N 5Th St San Jose, Ca 95112-3233",
+    "addr:house_number":"535",
     "addr:housenumber":"535",
-    "addr:postcode":"95112",
+    "addr:phone":"+1 408-294-3138",
+    "addr:postcode":"95112-3233",
+    "addr:road":"N 5Th St",
+    "addr:state":"CA",
     "addr:street":"North 5Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.893763,37.347471,-121.893763,37.347471",
-    "geom:latitude":37.347471,
-    "geom:longitude":-121.893763,
+    "geom:bbox":"-121.89338,37.34751,-121.89338,37.34751",
+    "geom:latitude":37.34751,
+    "geom:longitude":-121.89338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"535 North 5th St",
     "sg:city":"San Jose",
@@ -40,7 +45,11 @@
         "community"
     ],
     "sg:website":"www.jamsj.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85869367,
         102191575,
@@ -52,10 +61,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601921,
         "sg:id":"SG_3BnN8xAMhW5WSKDQOtu6uW_37.347471_-121.893763@1303263365"
     },
     "wof:country":"US",
-    "wof:geomhash":"53c68e06a0c959185819b36993218034",
+    "wof:geomhash":"fc546dc001a5044e82336d59b67629df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,8 +79,8 @@
         }
     ],
     "wof:id":588578613,
-    "wof:lastmodified":1509202148,
-    "wof:name":"Japanese American Museum of San Jose",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Japanese American Museum Of San Jose",
     "wof:parent_id":85869367,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -82,10 +92,10 @@
     ]
 },
   "bbox": [
-    -121.893763,
-    37.347471,
-    -121.893763,
-    37.347471
+    -121.89338,
+    37.34751,
+    -121.89338,
+    37.34751
 ],
-  "geometry": {"coordinates":[-121.89376300000001,37.347471],"type":"Point"}
+  "geometry": {"coordinates":[-121.89337999999999,37.34751],"type":"Point"}
 }

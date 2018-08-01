@@ -2,20 +2,25 @@
   "id": 252752559,
   "type": "Feature",
   "properties": {
-    "addr:full":"129 Castillo St Santa Barbara CA 93101",
+    "addr:city":"Santa Barbara",
+    "addr:full":"129 Castillo St Santa Barbara, Ca 93101",
+    "addr:house_number":"129",
     "addr:housenumber":"129",
+    "addr:phone":"+1 805-962-2353",
     "addr:postcode":"93101",
+    "addr:road":"Castillo St",
+    "addr:state":"CA",
     "addr:street":"Castillo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.695924,34.409424,-119.695924,34.409424",
-    "geom:latitude":34.409424,
-    "geom:longitude":-119.695924,
+    "geom:bbox":"-119.69532,34.40901,-119.69532,34.40901",
+    "geom:latitude":34.40901,
+    "geom:longitude":-119.69532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"129 Castillo St",
     "sg:city":"Santa Barbara",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 805 962 2353",
     "sg:postcode":"93101",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527337
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600108,
         "sg:id":"SG_4TlOnpZ1DAXvpsMJrYYQXS_34.409424_-119.695924@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"074fef71d6a046fbfda0a1d30fd6916b",
+    "wof:geomhash":"6b66b11b8c90ecdb820ee9b950be4a1f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":252752559,
-    "wof:lastmodified":1509200080,
-    "wof:name":"Santa Barbara Carriage Museum",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Santa Barbara Carriage And Western Arts Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.695924,
-    34.409424,
-    -119.695924,
-    34.409424
+    -119.69532,
+    34.40901,
+    -119.69532,
+    34.40901
 ],
-  "geometry": {"coordinates":[-119.69592400000001,34.409424],"type":"Point"}
+  "geometry": {"coordinates":[-119.69532,34.40901],"type":"Point"}
 }

@@ -2,18 +2,26 @@
   "id": 1126129917,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 N Getty Center Dr, Los Angeles, CA, USA",
+    "addr:city":"Los Angeles",
+    "addr:full":"1200 Getty Center Dr Los Angeles, Ca 90049-1657",
+    "addr:house_number":"1200",
     "addr:housenumber":1200,
-    "addr:postcode":"90049",
+    "addr:phone":"+1 310-440-7300",
+    "addr:postcode":"90049-1657",
+    "addr:road":"Getty Center Dr",
+    "addr:state":"CA",
     "addr:street":"N Getty Center Dr",
+    "addr:unit":"Suite 100",
     "addr:website":"http://www.getty.edu/visit/center/",
+    "date:inception_lower":"1997-01-01",
+    "date:inception_upper":"1997-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1997",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.475881,34.086939,-118.475881,34.086939",
-    "geom:latitude":34.086939,
-    "geom:longitude":-118.475881,
+    "geom:bbox":"-118.4744,34.07904,-118.4744,34.07904",
+    "geom:latitude":34.07904,
+    "geom:longitude":-118.4744,
     "iso:country":"US",
     "mz:categories":[
         "do_and_see:fun=museum"
@@ -25,7 +33,13 @@
     "name:eng_x_preferred":[
         "Getty Center"
     ],
-    "src:geom":"mapzen",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         "85807211",
         102191575,
@@ -33,15 +47,17 @@
         85633793,
         85923517,
         102086957,
-        85688637
+        85688637,
+        85807211
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602588,
         "wk:page":"https://en.wikipedia.org/wiki/Getty_Center"
     },
     "wof:country":"US",
     "wof:created":1498502378,
-    "wof:geomhash":"448cc5fa78f95ae550315e2f70df1684",
+    "wof:geomhash":"c8b912dad733898cc7bbb986c1efdc32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +71,8 @@
         }
     ],
     "wof:id":1126129917,
-    "wof:lastmodified":1509199741,
-    "wof:name":"Getty Center",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Getty Museum",
     "wof:parent_id":85807211,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +84,10 @@
     ]
 },
   "bbox": [
-    -118.475881,
-    34.086939,
-    -118.475881,
-    34.086939
+    -118.4744,
+    34.07904,
+    -118.4744,
+    34.07904
 ],
-  "geometry": {"coordinates":[-118.475881,34.086939],"type":"Point"}
+  "geometry": {"coordinates":[-118.4744,34.07904],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 571994229,
   "type": "Feature",
   "properties": {
-    "addr:full":"628 Alamitos Ave Long Beach CA 90802",
+    "addr:city":"Long Beach",
+    "addr:full":"628 Alamitos Ave Long Beach, Ca 90802-1513",
+    "addr:house_number":"628",
     "addr:housenumber":"628",
-    "addr:postcode":"90802",
+    "addr:phone":"+1 562-437-1689",
+    "addr:postcode":"90802-1513",
+    "addr:road":"Alamitos Ave",
+    "addr:state":"CA",
     "addr:street":"Alamitos Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.18,33.7743,-118.18,33.7743",
-    "geom:latitude":33.7743,
-    "geom:longitude":-118.18,
+    "geom:bbox":"-118.18032,33.7745,-118.18032,33.7745",
+    "geom:latitude":33.7745,
+    "geom:longitude":-118.18032,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"628 Alamitos Ave",
     "sg:city":"Long Beach",
@@ -31,7 +36,11 @@
     "sg:postcode":"90802",
     "sg:province":"CA",
     "sg:website":"www.molaa.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531511,
+        102528985
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601326,
         "sg:id":"SG_14tKFSjkP5qAp5hQpYCVSE_33.774934_-118.180191@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"135d3dbafe5fb0947a9b5baad75ef41c",
+    "wof:geomhash":"5aa08e684947bfdab6df4bacc070a33f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":571994229,
-    "wof:lastmodified":1509201658,
-    "wof:name":"Museum of Latin American Art",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Museum Of Latin America Art",
     "wof:parent_id":85871775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.18,
-    33.7743,
-    -118.18,
-    33.7743
+    -118.18032,
+    33.7745,
+    -118.18032,
+    33.7745
 ],
-  "geometry": {"coordinates":[-118.18000000000001,33.7743],"type":"Point"}
+  "geometry": {"coordinates":[-118.18031999999999,33.7745],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 370743367,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 S Central Ave Los Angeles CA 90021",
+    "addr:city":"Los Angeles",
+    "addr:full":"1401 S Central Ave Los Angeles, Ca 90021",
+    "addr:house_number":"1401",
     "addr:housenumber":"1401",
+    "addr:phone":"+1 213-744-1730",
     "addr:postcode":"90021",
+    "addr:road":"S Central Ave",
+    "addr:state":"CA",
     "addr:street":"S Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.247002,34.028,-118.247002,34.028",
-    "geom:latitude":34.028,
-    "geom:longitude":-118.247002,
+    "geom:bbox":"-118.24693,34.02848,-118.24693,34.02848",
+    "geom:latitude":34.02848,
+    "geom:longitude":-118.24693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -40,7 +45,15 @@
         "historical"
     ],
     "sg:website":"www.aaffmuseum.org/home.htm",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524749,
+        102527521,
+        102531511,
+        102532771,
+        102528985,
+        102533795
+    ],
     "wof:belongsto":[
         "85865811",
         102191575,
@@ -52,11 +65,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602851,
         "osm:way":428152638,
         "sg:id":"SG_2ZYyVxoTDXIDnlTsB1alP6_34.028000_-118.247002@1303263154"
     },
     "wof:country":"US",
-    "wof:geomhash":"8cc4203f557e584cdb01930171edbecd",
+    "wof:geomhash":"a52c074b1e98cd0721164847f6e0c2bf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,8 +84,8 @@
         }
     ],
     "wof:id":370743367,
-    "wof:lastmodified":1510943976,
-    "wof:name":"African-American Firefighter Museum",
+    "wof:lastmodified":1533149824,
+    "wof:name":"African American Firefighter Museum",
     "wof:parent_id":"85865811",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -83,10 +97,10 @@
     ]
 },
   "bbox": [
-    -118.247002,
-    34.028,
-    -118.247002,
-    34.028
+    -118.24693,
+    34.02848,
+    -118.24693,
+    34.02848
 ],
-  "geometry": {"coordinates":[-118.24700199999999,34.028],"type":"Point"}
+  "geometry": {"coordinates":[-118.24693000000001,34.02848],"type":"Point"}
 }

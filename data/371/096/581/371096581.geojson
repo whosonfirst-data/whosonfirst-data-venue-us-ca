@@ -2,20 +2,25 @@
   "id": 371096581,
   "type": "Feature",
   "properties": {
-    "addr:full":"46 N Main St San Andreas CA 95249",
+    "addr:city":"San Andreas",
+    "addr:full":"46 Main St San Andreas, Ca 95249",
+    "addr:house_number":"46",
     "addr:housenumber":"46",
+    "addr:phone":"+1 209-754-3918",
     "addr:postcode":"95249",
+    "addr:road":"Main St",
+    "addr:state":"CA",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.680943,38.196332,-120.680943,38.196332",
-    "geom:latitude":38.196332,
-    "geom:longitude":-120.680943,
+    "geom:bbox":"-120.66046,38.19334,-120.66046,38.19334",
+    "geom:latitude":38.19334,
+    "geom:longitude":-120.66046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"46 N Main St",
     "sg:city":"San Andreas",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 209 754 3918",
     "sg:postcode":"95249",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600605,
         "sg:id":"SG_0utxCWQUU95muhJxQ7fGnW_38.196332_-120.680943@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"b116917d7c66145daf7fc2783f52b838",
+    "wof:geomhash":"0f3e817feeec7c9d3bad23cecb662e1a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":371096581,
-    "wof:lastmodified":1509200892,
+    "wof:lastmodified":1533149829,
     "wof:name":"Calaveras County Archives",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -120.680943,
-    38.196332,
-    -120.680943,
-    38.196332
+    -120.66046,
+    38.19334,
+    -120.66046,
+    38.19334
 ],
-  "geometry": {"coordinates":[-120.680943,38.196332],"type":"Point"}
+  "geometry": {"coordinates":[-120.66046,38.19334],"type":"Point"}
 }

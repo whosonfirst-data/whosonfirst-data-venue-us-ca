@@ -2,20 +2,25 @@
   "id": 353578071,
   "type": "Feature",
   "properties": {
-    "addr:full":"323 6th St Gustine CA 95322",
+    "addr:city":"Gustine",
+    "addr:full":"323 6Th St Gustine, Ca 95322",
+    "addr:house_number":"323",
     "addr:housenumber":"323",
+    "addr:phone":"+1 209-854-6455",
     "addr:postcode":"95322",
+    "addr:road":"6Th St",
+    "addr:state":"CA",
     "addr:street":"6Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.001078,37.255947,-121.001078,37.255947",
-    "geom:latitude":37.255947,
-    "geom:longitude":-121.001078,
+    "geom:bbox":"-121.00582,37.25247,-121.00582,37.25247",
+    "geom:latitude":37.25247,
+    "geom:longitude":-121.00582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"323 6th St",
     "sg:city":"Gustine",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 209 854 6455",
     "sg:postcode":"95322",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533757
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600432,
         "sg:id":"SG_1oJa661Bi5mYgPffSjBAtQ_37.255947_-121.001078@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"91fba3ef9f9fc760b9a6befb300d73f0",
+    "wof:geomhash":"b00cf315752c26cc6beb9b5e5adb4c1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":353578071,
-    "wof:lastmodified":1509200567,
-    "wof:name":"Gustine History Ctr",
+    "wof:lastmodified":1533149828,
+    "wof:name":"Gustine History Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.001078,
-    37.255947,
-    -121.001078,
-    37.255947
+    -121.00582,
+    37.25247,
+    -121.00582,
+    37.25247
 ],
-  "geometry": {"coordinates":[-121.00107800000001,37.255947],"type":"Point"}
+  "geometry": {"coordinates":[-121.00582,37.25247],"type":"Point"}
 }

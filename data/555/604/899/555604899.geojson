@@ -2,17 +2,21 @@
   "id": 555604899,
   "type": "Feature",
   "properties": {
-    "addr:full":"1387 E Valley Rd Montecito CA 93108",
+    "addr:city":"Santa Barbara",
+    "addr:full":"1387 East Valley Road Santa Barbara, Ca 93108",
+    "addr:house_number":"1387",
     "addr:housenumber":"1387",
     "addr:postcode":"93108",
+    "addr:road":"East Valley Road",
+    "addr:state":"CA",
     "addr:street":"E Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.63785,34.436462,-119.63785,34.436462",
-    "geom:latitude":34.436462,
-    "geom:longitude":-119.63785,
+    "geom:bbox":"-119.63813,34.43474,-119.63813,34.43474",
+    "geom:latitude":34.43474,
+    "geom:longitude":-119.63813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -31,18 +35,24 @@
     "sg:postcode":"93108",
     "sg:province":"CA",
     "sg:website":"www.casadelherrero.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527337
+    ],
+    "wof:belongsto":[
+        420552455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502023,
         "osm:node":2799188192,
         "sg:id":"SG_5rtMvkPH5IzwiZJHWe92d9_34.436462_-119.637850@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"ce792c1e7eac8b2cf505f0126a010e0b",
+    "wof:geomhash":"e1d142fd622c566d1b51347c92816457",
     "wof:hierarchy":[],
     "wof:id":555604899,
-    "wof:lastmodified":1510943688,
+    "wof:lastmodified":1533149825,
     "wof:name":"Casa Del Herrero",
     "wof:parent_id":420552455,
     "wof:placetype":"venue",
@@ -52,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.63785,
-    34.436462,
-    -119.63785,
-    34.436462
+    -119.63813,
+    34.43474,
+    -119.63813,
+    34.43474
 ],
-  "geometry": {"coordinates":[-119.63785,34.436462],"type":"Point"}
+  "geometry": {"coordinates":[-119.63813,34.43474],"type":"Point"}
 }

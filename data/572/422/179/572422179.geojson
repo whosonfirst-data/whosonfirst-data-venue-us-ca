@@ -2,20 +2,25 @@
   "id": 572422179,
   "type": "Feature",
   "properties": {
-    "addr:full":"815 Marlborough Ave Riverside CA 92507",
+    "addr:city":"Riverside",
+    "addr:full":"815 Marlborough Ave Riverside, Ca 92507",
+    "addr:house_number":"815",
     "addr:housenumber":"815",
+    "addr:phone":"+1 951-369-6966",
     "addr:postcode":"92507",
+    "addr:road":"Marlborough Ave",
+    "addr:state":"CA",
     "addr:street":"Marlborough Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.329454,33.997457,-117.329454,33.997457",
-    "geom:latitude":33.997457,
-    "geom:longitude":-117.329454,
+    "geom:bbox":"-117.32835,33.99848,-117.32835,33.99848",
+    "geom:latitude":33.99848,
+    "geom:longitude":-117.32835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"815 Marlborough Ave",
     "sg:city":"Riverside",
@@ -30,7 +35,12 @@
     "sg:phone":"+1 951 369 6966",
     "sg:postcode":"92507",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530561,
+        102528835,
+        102533771
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600189,
         "sg:id":"SG_2MKhLlomebdZGb9unzQvAo_33.997457_-117.329454@1303263256"
     },
     "wof:country":"US",
-    "wof:geomhash":"57838e942c08bee8417c12e6eeafbc95",
+    "wof:geomhash":"79fb75b5bfd52f0f2c731eadd06430e7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +78,7 @@
         }
     ],
     "wof:id":572422179,
-    "wof:lastmodified":1509201880,
+    "wof:lastmodified":1533149826,
     "wof:name":"Riverside International Auto Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -77,10 +88,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.329454,
-    33.997457,
-    -117.329454,
-    33.997457
+    -117.32835,
+    33.99848,
+    -117.32835,
+    33.99848
 ],
-  "geometry": {"coordinates":[-117.329454,33.997457],"type":"Point"}
+  "geometry": {"coordinates":[-117.32835,33.99848],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 588657127,
   "type": "Feature",
   "properties": {
-    "addr:full":"2701 Prospect Park Rancho Cordova CA 95670",
+    "addr:city":"Rancho Cordova",
+    "addr:full":"2701 Prospect Park Dr Rancho Cordova, Ca 95670-6406",
+    "addr:house_number":"2701",
     "addr:housenumber":"2701",
-    "addr:postcode":"95670",
+    "addr:phone":"+1 916-638-7225",
+    "addr:postcode":"95670-6406",
+    "addr:road":"Prospect Park Dr",
+    "addr:state":"CA",
     "addr:street":"Prospect Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.284069,38.588708,-121.284069,38.588708",
-    "geom:latitude":38.588708,
-    "geom:longitude":-121.284069,
+    "geom:bbox":"-121.28398,38.58872,-121.28398,38.58872",
+    "geom:latitude":38.58872,
+    "geom:longitude":-121.28398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2701 Prospect Park",
     "sg:city":"Rancho Cordova",
@@ -31,7 +36,12 @@
     "sg:postcode":"95670",
     "sg:province":"CA",
     "sg:website":"www.sacramentochildrensmuseum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527085,
+        102530469,
+        102530589
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600753,
         "sg:id":"SG_0TvdQYeJrX5f7GSSZzVmXL_38.588708_-121.284069@1303263385"
     },
     "wof:country":"US",
-    "wof:geomhash":"819587dc1a6fdd90993f9f00e432d0d1",
+    "wof:geomhash":"238785854154b187e8400746cd414e73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +69,8 @@
         }
     ],
     "wof:id":588657127,
-    "wof:lastmodified":1509202196,
-    "wof:name":"Children's Museum of Sacramento",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Sacramento Children'S Museum",
     "wof:parent_id":85885387,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.284069,
-    38.588708,
-    -121.284069,
-    38.588708
+    -121.28398,
+    38.58872,
+    -121.28398,
+    38.58872
 ],
-  "geometry": {"coordinates":[-121.284069,38.588708],"type":"Point"}
+  "geometry": {"coordinates":[-121.28398,38.58872],"type":"Point"}
 }

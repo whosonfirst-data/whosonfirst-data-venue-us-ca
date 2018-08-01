@@ -2,20 +2,25 @@
   "id": 303294499,
   "type": "Feature",
   "properties": {
-    "addr:full":"82616 Miles Ave Indio CA 92201",
+    "addr:city":"Indio",
+    "addr:full":"82-616 Miles Avenue Indio, Ca 92201",
+    "addr:house_number":"82-616",
     "addr:housenumber":"82616",
+    "addr:phone":"+1 760-342-6651",
     "addr:postcode":"92201",
+    "addr:road":"Miles Avenue",
+    "addr:state":"CA",
     "addr:street":"Miles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-116.223055,33.721263,-116.223055,33.721263",
-    "geom:latitude":33.721263,
-    "geom:longitude":-116.223055,
+    "geom:bbox":"-116.22301,33.72151,-116.22301,33.72151",
+    "geom:latitude":33.72151,
+    "geom:longitude":-116.22301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"82616 Miles Ave",
     "sg:city":"Indio",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 760 342 6651",
     "sg:postcode":"92201",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526979
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600481,
         "sg:id":"SG_06DxjgjZUSaHazWKxo4TXz_33.721263_-116.223055@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"6669860ce7deda19aa8d6500da1ca270",
+    "wof:geomhash":"3a4144a7e4e5487de6a712f5e5735821",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":303294499,
-    "wof:lastmodified":1509200349,
-    "wof:name":"Coachella Valley Museum & Ctr",
+    "wof:lastmodified":1533149827,
+    "wof:name":"Coachella Valley Museum",
     "wof:parent_id":85836161,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.223055,
-    33.721263,
-    -116.223055,
-    33.721263
+    -116.22301,
+    33.72151,
+    -116.22301,
+    33.72151
 ],
-  "geometry": {"coordinates":[-116.223055,33.721263],"type":"Point"}
+  "geometry": {"coordinates":[-116.22301,33.72151],"type":"Point"}
 }

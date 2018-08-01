@@ -2,20 +2,25 @@
   "id": 370844003,
   "type": "Feature",
   "properties": {
-    "addr:full":"4700 Western Heritage Wy Los Angeles CA 90027",
+    "addr:city":"Los Angeles",
+    "addr:full":"4700 Western Heritage Way Los Angeles, Ca 90027-1462",
+    "addr:house_number":"4700",
     "addr:housenumber":"4700",
-    "addr:postcode":"90027",
+    "addr:phone":"+1 323-667-2000",
+    "addr:postcode":"90027-1462",
+    "addr:road":"Western Heritage Way",
+    "addr:state":"CA",
     "addr:street":"Western Heritage Wy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.282789,34.145752,-118.282789,34.145752",
-    "geom:latitude":34.145752,
-    "geom:longitude":-118.282789,
+    "geom:bbox":"-118.28244,34.14752,-118.28244,34.14752",
+    "geom:latitude":34.14752,
+    "geom:longitude":-118.28244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"4700 Western Heritage Wy",
     "sg:city":"Los Angeles",
@@ -39,7 +44,13 @@
         "venue"
     ],
     "sg:website":"www.TheAutry.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         "85868367",
         102191575,
@@ -51,10 +62,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602767,
         "sg:id":"SG_6e1HvbMmdginHFfvT93N6T_34.145752_-118.282789@1303263156"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb1052261b558d9b9c7063297df96e02",
+    "wof:geomhash":"16f6ba6b35f0fdd9cb67ec766587a369",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +80,8 @@
         }
     ],
     "wof:id":370844003,
-    "wof:lastmodified":1509200832,
-    "wof:name":"Autry National Center",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Autry National Center Of The American West",
     "wof:parent_id":"85868367",
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -80,10 +92,10 @@
     ]
 },
   "bbox": [
-    -118.282789,
-    34.145752,
-    -118.282789,
-    34.145752
+    -118.28244,
+    34.14752,
+    -118.28244,
+    34.14752
 ],
-  "geometry": {"coordinates":[-118.28278899999999,34.145752],"type":"Point"}
+  "geometry": {"coordinates":[-118.28243999999999,34.14752],"type":"Point"}
 }

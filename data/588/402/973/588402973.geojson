@@ -2,20 +2,25 @@
   "id": 588402973,
   "type": "Feature",
   "properties": {
-    "addr:full":"1684 Post St San Francisco CA 94115",
+    "addr:city":"San Francisco",
+    "addr:full":"1684 Post St San Francisco, Ca 94115-3604",
+    "addr:house_number":"1684",
     "addr:housenumber":"1684",
-    "addr:postcode":"94115",
+    "addr:phone":"+1 415-921-5007",
+    "addr:postcode":"94115-3604",
+    "addr:road":"Post St",
+    "addr:state":"CA",
     "addr:street":"Post St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.429419,37.785848,-122.429419,37.785848",
-    "geom:latitude":37.785848,
-    "geom:longitude":-122.429419,
+    "geom:bbox":"-122.42978,37.78565,-122.42978,37.78565",
+    "geom:latitude":37.78565,
+    "geom:longitude":-122.42978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1684 Post St",
     "sg:city":"San Francisco",
@@ -31,7 +36,11 @@
     "sg:postcode":"94115",
     "sg:province":"CA",
     "sg:website":"www.njahs.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         1108832025,
         85866845,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602351,
         "sg:id":"SG_5Q0KLw1ZroBlR2sx7JoNs8_37.785848_-122.429419@1303263319"
     },
     "wof:country":"US",
-    "wof:geomhash":"8fcebb19a34e7e9e96ac545cf5110aae",
+    "wof:geomhash":"0a8d12886ff7803d510514e0ba969d39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":588402973,
-    "wof:lastmodified":1509202041,
+    "wof:lastmodified":1533149824,
     "wof:name":"National Japanese American Historical Society",
     "wof:parent_id":1108832025,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.429419,
-    37.785848,
-    -122.429419,
-    37.785848
+    -122.42978,
+    37.78565,
+    -122.42978,
+    37.78565
 ],
-  "geometry": {"coordinates":[-122.429419,37.785848],"type":"Point"}
+  "geometry": {"coordinates":[-122.42977999999999,37.78565],"type":"Point"}
 }

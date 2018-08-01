@@ -2,20 +2,25 @@
   "id": 588345805,
   "type": "Feature",
   "properties": {
-    "addr:full":"450 Poplar Avenue Millbrae CA 94030",
+    "addr:city":"Millbrae",
+    "addr:full":"450 Poplar Ave Millbrae, Ca 94030",
+    "addr:house_number":"450",
     "addr:housenumber":"450",
+    "addr:phone":"+1 650-692-5786",
     "addr:postcode":"94030",
+    "addr:road":"Poplar Ave",
+    "addr:state":"CA",
     "addr:street":"Poplar Avenue",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.39698,37.601803,-122.39698,37.601803",
-    "geom:latitude":37.601803,
-    "geom:longitude":-122.39698,
+    "geom:bbox":"-122.40044,37.60048,-122.40044,37.60048",
+    "geom:latitude":37.60048,
+    "geom:longitude":-122.40044,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"450 Poplar Avenue",
     "sg:city":"Millbrae",
@@ -30,7 +35,13 @@
     "sg:phone":"+1 650 692 5786",
     "sg:postcode":"94030",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041,
+        102528839,
+        102529949
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600288,
         "sg:id":"SG_4QN80OGuafAooDEqOglwDu_37.601803_-122.396980@1303263305"
     },
     "wof:country":"US",
-    "wof:geomhash":"1e8d798e741cf0a6b323a189171b2bfa",
+    "wof:geomhash":"cf31b92be3097da3791bf6a73a24a109",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +69,8 @@
         }
     ],
     "wof:id":588345805,
-    "wof:lastmodified":1509202005,
-    "wof:name":"The Millbrae Museum",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Millbrae Museum",
     "wof:parent_id":85886435,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -67,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.39698,
-    37.601803,
-    -122.39698,
-    37.601803
+    -122.40044,
+    37.60048,
+    -122.40044,
+    37.60048
 ],
-  "geometry": {"coordinates":[-122.39698,37.601803],"type":"Point"}
+  "geometry": {"coordinates":[-122.40044,37.60048],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 572368299,
   "type": "Feature",
   "properties": {
-    "addr:full":"2727 Presidio Drive San Diego CA 92103",
+    "addr:city":"San Diego",
+    "addr:full":"2727 Presidio Dr San Diego, Ca 92103",
+    "addr:house_number":"2727",
     "addr:housenumber":"2727",
+    "addr:phone":"+1 619-297-3258",
     "addr:postcode":"92103",
+    "addr:road":"Presidio Dr",
+    "addr:state":"CA",
     "addr:street":"Presidio Drive",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.194625,32.759817,-117.194625,32.759817",
-    "geom:latitude":32.759817,
-    "geom:longitude":-117.194625,
+    "geom:bbox":"-117.19465,32.75982,-117.19465,32.75982",
+    "geom:latitude":32.75982,
+    "geom:longitude":-117.19465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2727 Presidio Drive",
     "sg:city":"San Diego",
@@ -31,7 +36,13 @@
     "sg:postcode":"92103",
     "sg:province":"CA",
     "sg:website":"www.sandiegohistory.org/serra_mu...",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528287,
+        102528997
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600371,
         "sg:id":"SG_1BlgsKhid7h8oEDUi6L3Hi_32.759817_-117.194625@1303263242"
     },
     "wof:country":"US",
-    "wof:geomhash":"22875b523389e0795319406054639645",
+    "wof:geomhash":"4cdb4ccd11e465eba22c764a00db90b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":572368299,
-    "wof:lastmodified":1509201846,
+    "wof:lastmodified":1533149825,
     "wof:name":"Junipero Serra Museum",
     "wof:parent_id":85839461,
     "wof:placetype":"venue",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.194625,
-    32.759817,
-    -117.194625,
-    32.759817
+    -117.19465,
+    32.75982,
+    -117.19465,
+    32.75982
 ],
-  "geometry": {"coordinates":[-117.194625,32.759817],"type":"Point"}
+  "geometry": {"coordinates":[-117.19465,32.75982],"type":"Point"}
 }

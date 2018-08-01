@@ -2,20 +2,25 @@
   "id": 303762247,
   "type": "Feature",
   "properties": {
-    "addr:full":"712 Stevens Ave Solana Beach CA 92075",
+    "addr:city":"Solana Beach",
+    "addr:full":"712 Stevens Ave Solana Beach, Ca 92075",
+    "addr:house_number":"712",
     "addr:housenumber":"712",
+    "addr:phone":"+1 858-755-2937",
     "addr:postcode":"92075",
+    "addr:road":"Stevens Ave",
+    "addr:state":"CA",
     "addr:street":"Stevens Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.259852,32.987292,-117.259852,32.987292",
-    "geom:latitude":32.987292,
-    "geom:longitude":-117.259852,
+    "geom:bbox":"-117.26391,32.99075,-117.26391,32.99075",
+    "geom:latitude":32.99075,
+    "geom:longitude":-117.26391,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"712 Stevens Ave",
     "sg:city":"Solana Beach",
@@ -30,7 +35,11 @@
     "sg:phone":"+1 858 755 2937",
     "sg:postcode":"92075",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527193,
+        102531019
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600112,
         "sg:id":"SG_0pTC1d0leIgBujA5hR6WGh_32.987292_-117.259852@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"bf1c093cdf684304ed93ced1651977fb",
+    "wof:geomhash":"59f797782afdfca239ae5fb5e3975310",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":303762247,
-    "wof:lastmodified":1509200387,
+    "wof:lastmodified":1533149828,
     "wof:name":"Solana Beach Civic/Historical",
     "wof:parent_id":85868399,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.259852,
-    32.987292,
-    -117.259852,
-    32.987292
+    -117.26391,
+    32.99075,
+    -117.26391,
+    32.99075
 ],
-  "geometry": {"coordinates":[-117.259852,32.987292],"type":"Point"}
+  "geometry": {"coordinates":[-117.26391,32.99075],"type":"Point"}
 }

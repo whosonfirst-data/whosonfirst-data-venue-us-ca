@@ -2,20 +2,25 @@
   "id": 236071717,
   "type": "Feature",
   "properties": {
-    "addr:full":"351 Homer Ave Palo Alto CA 94301",
+    "addr:city":"Palo Alto",
+    "addr:full":"351 Homer Ave Palo Alto, Ca 94301-2727",
+    "addr:house_number":"351",
     "addr:housenumber":"351",
-    "addr:postcode":"94301",
+    "addr:phone":"+1 650-321-1004",
+    "addr:postcode":"94301-2727",
+    "addr:road":"Homer Ave",
+    "addr:state":"CA",
     "addr:street":"Homer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.157234,37.444163,-122.157234,37.444163",
-    "geom:latitude":37.444163,
-    "geom:longitude":-122.157234,
+    "geom:bbox":"-122.15687,37.44461,-122.15687,37.44461",
+    "geom:latitude":37.44461,
+    "geom:longitude":-122.15687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"351 Homer Ave",
     "sg:city":"Palo Alto",
@@ -31,7 +36,13 @@
     "sg:postcode":"94301",
     "sg:province":"CA",
     "sg:website":"www.moah.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102532543,
+        102528839,
+        102533677
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601893,
         "sg:id":"SG_4kDzzo0iWFhRfrvBmkmjJ2_37.444163_-122.157234@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"6e6a0a49c0b94a67f71084c1ffe494e9",
+    "wof:geomhash":"5e879b9eccec912072bcb783af20d389",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":236071717,
-    "wof:lastmodified":1509200016,
+    "wof:lastmodified":1533149825,
     "wof:name":"Museum Of American Heritage",
     "wof:parent_id":85879693,
     "wof:placetype":"venue",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.157234,
-    37.444163,
-    -122.157234,
-    37.444163
+    -122.15687,
+    37.44461,
+    -122.15687,
+    37.44461
 ],
-  "geometry": {"coordinates":[-122.157234,37.444163],"type":"Point"}
+  "geometry": {"coordinates":[-122.15687,37.44461],"type":"Point"}
 }

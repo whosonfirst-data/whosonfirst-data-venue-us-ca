@@ -2,20 +2,25 @@
   "id": 588519769,
   "type": "Feature",
   "properties": {
-    "addr:full":"1931 Center Street Berkeley CA 94704",
+    "addr:city":"Berkeley",
+    "addr:full":"1931 Center St Berkeley, Ca 94701",
+    "addr:house_number":"1931",
     "addr:housenumber":"1931",
-    "addr:postcode":"94704",
+    "addr:phone":"+1 510-848-0181",
+    "addr:postcode":"94701",
+    "addr:road":"Center St",
+    "addr:state":"CA",
     "addr:street":"Center Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.273003,37.869701,-122.273003,37.869701",
-    "geom:latitude":37.869701,
-    "geom:longitude":-122.273003,
+    "geom:bbox":"-122.27047,37.86898,-122.27047,37.86898",
+    "geom:latitude":37.86898,
+    "geom:longitude":-122.27047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1931 Center Street",
     "sg:city":"Berkeley",
@@ -31,7 +36,11 @@
     "sg:postcode":"94704",
     "sg:province":"CA",
     "sg:website":"www.ci.berkeley.ca.us/ContentDis...",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531041,
+        102532775
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602315,
         "sg:id":"SG_74mOlHeruLXTnhZhgAhIP8_37.869701_-122.273003@1303263350"
     },
     "wof:country":"US",
-    "wof:geomhash":"8a75c98d125620bdca64f52f71d00e58",
+    "wof:geomhash":"b477d27c3c4e0b55a4c00ed7d9996742",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":588519769,
-    "wof:lastmodified":1509202112,
-    "wof:name":"Berkeley Historical Society Museum",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Berkeley Historical Society",
     "wof:parent_id":85876229,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.273003,
-    37.869701,
-    -122.273003,
-    37.869701
+    -122.27047,
+    37.86898,
+    -122.27047,
+    37.86898
 ],
-  "geometry": {"coordinates":[-122.273003,37.869701],"type":"Point"}
+  "geometry": {"coordinates":[-122.27047,37.86898],"type":"Point"}
 }

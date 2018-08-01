@@ -2,20 +2,25 @@
   "id": 253231891,
   "type": "Feature",
   "properties": {
-    "addr:full":"1125 B St San Rafael CA 94901",
+    "addr:city":"San Rafael",
+    "addr:full":"1125 B St San Rafael, Ca 94901-2907",
+    "addr:house_number":"1125",
     "addr:housenumber":"1125",
-    "addr:postcode":"94901",
+    "addr:phone":"+1 415-454-8538",
+    "addr:postcode":"94901-2907",
+    "addr:road":"B St",
+    "addr:state":"CA",
     "addr:street":"B St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.529298,37.974809,-122.529298,37.974809",
-    "geom:latitude":37.974809,
-    "geom:longitude":-122.529298,
+    "geom:bbox":"-122.52937,37.97446,-122.52937,37.97446",
+    "geom:latitude":37.97446,
+    "geom:longitude":-122.52937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1125 B St",
     "sg:city":"San Rafael",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 415 454 8538",
     "sg:postcode":"94901",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602228,
         "sg:id":"SG_6lvNeUV01PaAHtw9RPynLD_37.974809_-122.529298@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"7486856b4cef821ca02a2285179b42bc",
+    "wof:geomhash":"b839381a36062e130065746c535b3ab1",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":253231891,
-    "wof:lastmodified":1509200113,
+    "wof:lastmodified":1533149826,
     "wof:name":"Marin History Museum",
     "wof:parent_id":85887915,
     "wof:placetype":"venue",
@@ -66,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.529298,
-    37.974809,
-    -122.529298,
-    37.974809
+    -122.52937,
+    37.97446,
+    -122.52937,
+    37.97446
 ],
-  "geometry": {"coordinates":[-122.529298,37.974809],"type":"Point"}
+  "geometry": {"coordinates":[-122.52937,37.97446],"type":"Point"}
 }

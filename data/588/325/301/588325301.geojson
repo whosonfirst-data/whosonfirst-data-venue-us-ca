@@ -2,20 +2,25 @@
   "id": 588325301,
   "type": "Feature",
   "properties": {
-    "addr:full":"2930 N West Ave Fresno CA 93705",
+    "addr:city":"Fresno",
+    "addr:full":"2930 N West Ave Fresno, Ca 93705-3901",
+    "addr:house_number":"2930",
     "addr:housenumber":"2930",
-    "addr:postcode":"93705",
+    "addr:phone":"+1 559-243-5848",
+    "addr:postcode":"93705-3901",
+    "addr:road":"N West Ave",
+    "addr:state":"CA",
     "addr:street":"N West Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.826528,36.776803,-119.826528,36.776803",
-    "geom:latitude":36.776803,
-    "geom:longitude":-119.826528,
+    "geom:bbox":"-119.82649,36.77679,-119.82649,36.77679",
+    "geom:latitude":36.77679,
+    "geom:longitude":-119.82649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2930 N West Ave",
     "sg:city":"Fresno",
@@ -33,7 +38,10 @@
     "sg:tags":[
         "educational"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530717
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -44,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600664,
         "sg:id":"SG_60Whf51xeMC7aucwrSIsvz_36.776803_-119.826528@1303263300"
     },
     "wof:country":"US",
-    "wof:geomhash":"d60d1af2274a76e77bcbca89dcac0b4d",
+    "wof:geomhash":"0f71e5fc88208a217bb8b364cdaa93f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":588325301,
-    "wof:lastmodified":1509201993,
+    "wof:lastmodified":1533149825,
     "wof:name":"Heritage Fresno",
     "wof:parent_id":85871913,
     "wof:placetype":"venue",
@@ -72,10 +81,10 @@
     ]
 },
   "bbox": [
-    -119.826528,
-    36.776803,
-    -119.826528,
-    36.776803
+    -119.82649,
+    36.77679,
+    -119.82649,
+    36.77679
 ],
-  "geometry": {"coordinates":[-119.826528,36.776803],"type":"Point"}
+  "geometry": {"coordinates":[-119.82649000000001,36.77679],"type":"Point"}
 }

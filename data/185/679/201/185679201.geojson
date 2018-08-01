@@ -2,20 +2,25 @@
   "id": 185679201,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 N Escondido Blvd Escondido CA 92025",
+    "addr:city":"Escondido",
+    "addr:full":"340 N Escondido Blvd Escondido, Ca 92025",
+    "addr:house_number":"340",
     "addr:housenumber":"340",
+    "addr:phone":"+1 760-839-4138",
     "addr:postcode":"92025",
+    "addr:road":"N Escondido Blvd",
+    "addr:state":"CA",
     "addr:street":"N Escondido Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.085185,33.121804,-117.085185,33.121804",
-    "geom:latitude":33.121804,
-    "geom:longitude":-117.085185,
+    "geom:bbox":"-117.08688,33.12424,-117.08688,33.12424",
+    "geom:latitude":33.12424,
+    "geom:longitude":-117.08688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"340 N Escondido Blvd",
     "sg:city":"Escondido",
@@ -35,7 +40,10 @@
         "merchandise"
     ],
     "sg:website":"www.artcenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527193
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -45,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601255,
         "sg:id":"SG_7dr3NoFAoUkUvZn0nBleyG_33.121804_-117.085185@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2f29e9a0469af19a4e86e547b670378",
+    "wof:geomhash":"838790ce0a6f66756144293286341fff",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":185679201,
-    "wof:lastmodified":1509199819,
+    "wof:lastmodified":1533149824,
     "wof:name":"California Center For The Arts",
     "wof:parent_id":85885955,
     "wof:placetype":"venue",
@@ -74,10 +83,10 @@
     ]
 },
   "bbox": [
-    -117.085185,
-    33.121804,
-    -117.085185,
-    33.121804
+    -117.08688,
+    33.12424,
+    -117.08688,
+    33.12424
 ],
-  "geometry": {"coordinates":[-117.085185,33.121804],"type":"Point"}
+  "geometry": {"coordinates":[-117.08687999999999,33.12424],"type":"Point"}
 }

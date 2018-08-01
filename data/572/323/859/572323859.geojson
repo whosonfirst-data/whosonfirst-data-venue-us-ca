@@ -2,20 +2,25 @@
   "id": 572323859,
   "type": "Feature",
   "properties": {
-    "addr:full":"3190 Lionshead Ave Carlsbad CA 92010",
+    "addr:city":"Carlsbad",
+    "addr:full":"3190 Lionshead Ave Carlsbad, Ca 92010",
+    "addr:house_number":"3190",
     "addr:housenumber":"3190",
+    "addr:phone":"+1 760-727-9492",
     "addr:postcode":"92010",
+    "addr:road":"Lionshead Ave",
+    "addr:state":"CA",
     "addr:street":"Lionshead Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.235033,33.132674,-117.235033,33.132674",
-    "geom:latitude":33.132674,
-    "geom:longitude":-117.235033,
+    "geom:bbox":"-117.24029,33.13276,-117.24029,33.13276",
+    "geom:latitude":33.13276,
+    "geom:longitude":-117.24029,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"3190 Lionshead Ave",
     "sg:city":"Carlsbad",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 760 598 5015",
     "sg:postcode":"92010",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527193
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600516,
         "sg:id":"SG_03gznEQfsfrRqVlYZOdM9C_33.132674_-117.235033@1303263231"
     },
     "wof:country":"US",
-    "wof:geomhash":"79e6ad534ed5ceb98d00acd19c49c561",
+    "wof:geomhash":"780d6b0d396f68f89bb2ffac6fe0ba93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":572323859,
-    "wof:lastmodified":1509201812,
+    "wof:lastmodified":1533149826,
     "wof:name":"Craftsmanship Museum",
     "wof:parent_id":85887811,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.235033,
-    33.132674,
-    -117.235033,
-    33.132674
+    -117.24029,
+    33.13276,
+    -117.24029,
+    33.13276
 ],
-  "geometry": {"coordinates":[-117.235033,33.132674],"type":"Point"}
+  "geometry": {"coordinates":[-117.24029,33.13276],"type":"Point"}
 }

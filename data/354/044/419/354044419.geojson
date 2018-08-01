@@ -2,20 +2,25 @@
   "id": 354044419,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Dornan Dr Richmond CA 94801",
+    "addr:city":"Richmond",
+    "addr:full":"900 Dornan Dr Richmond, Ca 94801",
+    "addr:house_number":"900",
     "addr:housenumber":"900",
+    "addr:phone":"+1 510-234-4884",
     "addr:postcode":"94801",
+    "addr:road":"Dornan Dr",
+    "addr:state":"CA",
     "addr:street":"Dornan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384297,37.918383,-122.384297,37.918383",
-    "geom:latitude":37.918383,
-    "geom:longitude":-122.384297,
+    "geom:bbox":"-122.38598,37.91467,-122.38598,37.91467",
+    "geom:latitude":37.91467,
+    "geom:longitude":-122.38598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"900 Dornan Dr",
     "sg:city":"Richmond",
@@ -33,7 +38,8 @@
     "sg:tags":[
         "club"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -44,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600532,
         "sg:id":"SG_444L23RjjvBiFGJqKvWa0O_37.918383_-122.384297@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f050fd5ce72022995abd276cd0bd490",
+    "wof:geomhash":"5cc912f2ee296906d12c46abafeb3e0f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +67,8 @@
         }
     ],
     "wof:id":354044419,
-    "wof:lastmodified":1509200635,
-    "wof:name":"East Bay Model Engineers Soc",
+    "wof:lastmodified":1533149828,
+    "wof:name":"East Bay Model Engineers Society",
     "wof:parent_id":85842555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -72,10 +79,10 @@
     ]
 },
   "bbox": [
-    -122.384297,
-    37.918383,
-    -122.384297,
-    37.918383
+    -122.38598,
+    37.91467,
+    -122.38598,
+    37.91467
 ],
-  "geometry": {"coordinates":[-122.384297,37.918383],"type":"Point"}
+  "geometry": {"coordinates":[-122.38598,37.91467],"type":"Point"}
 }

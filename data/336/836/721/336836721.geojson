@@ -2,20 +2,25 @@
   "id": 336836721,
   "type": "Feature",
   "properties": {
-    "addr:full":"10000 Skyline Blvd Oakland CA 94619",
+    "addr:city":"Oakland",
+    "addr:full":"10000 Skyline Blvd. Oakland, Ca 94619",
+    "addr:house_number":"10000",
     "addr:housenumber":"10000",
+    "addr:phone":"+1 510-336-7300",
     "addr:postcode":"94619",
+    "addr:road":"Skyline Blvd.",
+    "addr:state":"CA",
     "addr:street":"Skyline Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.178199,37.804013,-122.178199,37.804013",
-    "geom:latitude":37.804013,
-    "geom:longitude":-122.178199,
+    "geom:bbox":"-122.1841,37.81972,-122.1841,37.81972",
+    "geom:latitude":37.81972,
+    "geom:longitude":-122.1841,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"10000 Skyline Blvd",
     "sg:city":"Oakland",
@@ -31,7 +36,12 @@
     "sg:postcode":"94619",
     "sg:province":"CA",
     "sg:website":"www.chabotspace.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531041,
+        102532543,
+        102532775
+    ],
     "wof:belongsto":[
         1108794121,
         102191575,
@@ -43,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400828,
         "sg:id":"SG_6iBakei82EeY00FvwkqsBY_37.804013_-122.178199@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5db0e6af446a82d431ae15ce0532c46",
+    "wof:geomhash":"8817a0d60cd652aeb8741aa56ac28355",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +71,8 @@
         }
     ],
     "wof:id":336836721,
-    "wof:lastmodified":1533145983,
-    "wof:name":"Chabot Space & Sciencve Ctr",
+    "wof:lastmodified":1533149828,
+    "wof:name":"Chabot Space & Science Center",
     "wof:parent_id":1108794121,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -72,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.178199,
-    37.804013,
-    -122.178199,
-    37.804013
+    -122.1841,
+    37.81972,
+    -122.1841,
+    37.81972
 ],
-  "geometry": {"coordinates":[-122.17819900000001,37.804013],"type":"Point"}
+  "geometry": {"coordinates":[-122.1841,37.81972],"type":"Point"}
 }

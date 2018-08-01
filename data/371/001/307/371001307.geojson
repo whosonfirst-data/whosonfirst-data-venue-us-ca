@@ -2,20 +2,25 @@
   "id": 371001307,
   "type": "Feature",
   "properties": {
-    "addr:full":"1342 Naglee Ave San Jose CA 95126",
+    "addr:city":"San Jose",
+    "addr:full":"1342 Naglee Avenue San Jose, Ca 95191",
+    "addr:house_number":"1342",
     "addr:housenumber":"1342",
-    "addr:postcode":"95126",
+    "addr:phone":"+1 408-947-3630",
+    "addr:postcode":"95191",
+    "addr:road":"Naglee Avenue",
+    "addr:state":"CA",
     "addr:street":"Naglee Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.923407,37.334371,-121.923407,37.334371",
-    "geom:latitude":37.334371,
-    "geom:longitude":-121.923407,
+    "geom:bbox":"-121.9227,37.33295,-121.9227,37.33295",
+    "geom:latitude":37.33295,
+    "geom:longitude":-121.9227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1342 Naglee Ave",
     "sg:city":"San Jose",
@@ -31,7 +36,11 @@
     "sg:postcode":"95126",
     "sg:province":"CA",
     "sg:website":"www.amorc.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85887551,
         102191575,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600199,
         "sg:id":"SG_3BZ0icJkrLdbTKtjEjbsvo_37.334371_-121.923407@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"fcb9964f80162ddded439e04dcc09f39",
+    "wof:geomhash":"b86307b2b3f7cb00a9e94a5b2a137e73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":371001307,
-    "wof:lastmodified":1509200870,
+    "wof:lastmodified":1533149824,
     "wof:name":"Rosicrucian Egyptian Museum",
     "wof:parent_id":85887551,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.923407,
-    37.334371,
-    -121.923407,
-    37.334371
+    -121.9227,
+    37.33295,
+    -121.9227,
+    37.33295
 ],
-  "geometry": {"coordinates":[-121.923407,37.334371],"type":"Point"}
+  "geometry": {"coordinates":[-121.92270000000001,37.33295],"type":"Point"}
 }

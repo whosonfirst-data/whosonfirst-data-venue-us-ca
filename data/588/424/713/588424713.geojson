@@ -2,20 +2,25 @@
   "id": 588424713,
   "type": "Feature",
   "properties": {
-    "addr:full":"655 Presidio Ave San Francisco CA 94199",
+    "addr:city":"San Francisco",
+    "addr:full":"655 Presidio Ave San Francisco, Ca 94115",
+    "addr:house_number":"655",
     "addr:housenumber":"655",
-    "addr:postcode":"94199",
+    "addr:phone":"+1 415-563-4630",
+    "addr:postcode":"94115",
+    "addr:road":"Presidio Ave",
+    "addr:state":"CA",
     "addr:street":"Presidio Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.446533,37.785786,-122.446533,37.785786",
-    "geom:latitude":37.785786,
-    "geom:longitude":-122.446533,
+    "geom:bbox":"-122.44659,37.78577,-122.44659,37.78577",
+    "geom:latitude":37.78577,
+    "geom:longitude":-122.44659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"655 Presidio Ave",
     "sg:city":"San Francisco",
@@ -31,7 +36,11 @@
     "sg:postcode":"94199",
     "sg:province":"CA",
     "sg:website":"www.sffiremuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601858,
         "sg:id":"SG_3OsQUI7dvSAxAxhYs2eKBx_37.785786_-122.446533@1303263324"
     },
     "wof:country":"US",
-    "wof:geomhash":"a9ec483760db8e5cd9626d8171465a79",
+    "wof:geomhash":"fd4cd83389daba65e87baefbcc39c669",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":588424713,
-    "wof:lastmodified":1509202055,
+    "wof:lastmodified":1533149825,
     "wof:name":"San Francisco Fire Department Museum",
     "wof:parent_id":85865915,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.446533,
-    37.785786,
-    -122.446533,
-    37.785786
+    -122.44659,
+    37.78577,
+    -122.44659,
+    37.78577
 ],
-  "geometry": {"coordinates":[-122.446533,37.785786],"type":"Point"}
+  "geometry": {"coordinates":[-122.44659,37.78577],"type":"Point"}
 }

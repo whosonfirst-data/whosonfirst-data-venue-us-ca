@@ -2,17 +2,22 @@
   "id": 874389425,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 Third Street, San Francisco, CA, USA",
+    "addr:city":"San Francisco",
+    "addr:full":"151 3Rd St San Francisco, Ca 94103-3107",
+    "addr:house_number":"151",
     "addr:housenumber":"151",
-    "addr:postcode":"94103",
+    "addr:phone":"+1 415-357-4000",
+    "addr:postcode":"94103-3107",
+    "addr:road":"3Rd St",
+    "addr:state":"CA",
     "addr:street":"Third Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.401015,37.785703,-122.401015,37.785703",
-    "geom:latitude":37.785703,
-    "geom:longitude":-122.401015,
+    "geom:bbox":"-122.40081,37.78647,-122.40081,37.78647",
+    "geom:latitude":37.78647,
+    "geom:longitude":-122.40081,
     "iso:country":"",
     "mz:categories":[
         "do_and_see:fun=museum"
@@ -26,7 +31,11 @@
     "name:eng_x_variant":[
         "SFMoMA"
     ],
-    "src:geom":"mapzen",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         1108831951,
         85865939,
@@ -39,12 +48,13 @@
     "wof:breaches":[],
     "wof:concordances":{
         "4sq:id":"40943a00f964a520e5f21ee3",
+        "mudf:mid":8400602202,
         "osm:way":41692824,
         "wk:page":"San_Francisco_Museum_of_Modern_Art"
     },
     "wof:country":"",
     "wof:created":1465504142,
-    "wof:geomhash":"c02dcd0cdea34acc97af695be772726b",
+    "wof:geomhash":"a78c04428114e7582c22d52ffa309f8d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":874389425,
-    "wof:lastmodified":1510942620,
-    "wof:name":"San Francisco Museum of Modern Art",
+    "wof:lastmodified":1533149825,
+    "wof:name":"San Francisco Museum Of Modern Art",
     "wof:parent_id":1108831951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.401015,
-    37.785703,
-    -122.401015,
-    37.785703
+    -122.40081,
+    37.78647,
+    -122.40081,
+    37.78647
 ],
-  "geometry": {"coordinates":[-122.401015,37.785703],"type":"Point"}
+  "geometry": {"coordinates":[-122.40081000000001,37.78647],"type":"Point"}
 }

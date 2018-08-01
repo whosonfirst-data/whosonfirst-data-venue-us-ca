@@ -2,20 +2,25 @@
   "id": 286553983,
   "type": "Feature",
   "properties": {
-    "addr:full":"1007 R St Fresno CA 93721",
+    "addr:city":"Fresno",
+    "addr:full":"1007 R St Fresno, Ca 93721",
+    "addr:house_number":"1007",
     "addr:housenumber":"1007",
+    "addr:phone":"+1 559-233-8007",
     "addr:postcode":"93721",
+    "addr:road":"R St",
+    "addr:state":"CA",
     "addr:street":"R St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.783033,36.740599,-119.783033,36.740599",
-    "geom:latitude":36.740599,
-    "geom:longitude":-119.783033,
+    "geom:bbox":"-119.78253,36.74013,-119.78253,36.74013",
+    "geom:latitude":36.74013,
+    "geom:longitude":-119.78253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1007 R St",
     "sg:city":"Fresno",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 559 233 8007",
     "sg:postcode":"93721",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530717
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600245,
         "sg:id":"SG_3HV4esontUonlqBxImnzMj_36.740599_-119.783033@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"494b3fca54fe103c770a136ddb9793e1",
+    "wof:geomhash":"86af2460682e8e7b0d68f2b2ebc6454a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":286553983,
-    "wof:lastmodified":1509200265,
+    "wof:lastmodified":1533149826,
     "wof:name":"Meux Home Museum",
     "wof:parent_id":85871929,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.783033,
-    36.740599,
-    -119.783033,
-    36.740599
+    -119.78253,
+    36.74013,
+    -119.78253,
+    36.74013
 ],
-  "geometry": {"coordinates":[-119.783033,36.740599],"type":"Point"}
+  "geometry": {"coordinates":[-119.78252999999999,36.74013],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 588290867,
   "type": "Feature",
   "properties": {
-    "addr:full":"455 Aviation Dr Camarillo CA 93010",
+    "addr:city":"Camarillo",
+    "addr:full":"455 Aviation Dr Camarillo, Ca 93010",
+    "addr:house_number":"455",
     "addr:housenumber":"455",
+    "addr:phone":"+1 805-482-0064",
     "addr:postcode":"93010",
+    "addr:road":"Aviation Dr",
+    "addr:state":"CA",
     "addr:street":"Aviation Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.083,34.2094,-119.083,34.2094",
-    "geom:latitude":34.2094,
-    "geom:longitude":-119.083,
+    "geom:bbox":"-119.08191,34.2096,-119.08191,34.2096",
+    "geom:latitude":34.2096,
+    "geom:longitude":-119.08191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"455 Aviation Dr",
     "sg:city":"Camarillo",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 805 482 0064",
     "sg:postcode":"93010",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         102525419,
         85885711,
@@ -40,10 +46,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600515,
         "sg:id":"SG_2BeTKKtKRoQvkmyAhmjKZX_34.209400_-119.083000@1303263291"
     },
     "wof:country":"US",
-    "wof:geomhash":"3bf5e8efd67cc998be07983453bdc79b",
+    "wof:geomhash":"fed6fe728e7557a92e1320fe660f18a8",
     "wof:hierarchy":[
         {
             "campus_id":102525419,
@@ -55,8 +62,8 @@
         }
     ],
     "wof:id":588290867,
-    "wof:lastmodified":1509201970,
-    "wof:name":"Commemorative Air-Force Southern California Wing",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Commemorative Air Force Southern California Wing",
     "wof:parent_id":102525419,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.083,
-    34.2094,
-    -119.083,
-    34.2094
+    -119.08191,
+    34.2096,
+    -119.08191,
+    34.2096
 ],
-  "geometry": {"coordinates":[-119.083,34.2094],"type":"Point"}
+  "geometry": {"coordinates":[-119.08190999999999,34.2096],"type":"Point"}
 }

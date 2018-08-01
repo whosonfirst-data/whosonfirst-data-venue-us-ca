@@ -2,20 +2,25 @@
   "id": 588672249,
   "type": "Feature",
   "properties": {
-    "addr:full":"1519 19th Street Sacramento CA 95814",
+    "addr:city":"Sacramento",
+    "addr:full":"1519 19Th St Sacramento, Ca 95811",
+    "addr:house_number":"1519",
     "addr:housenumber":"1519",
-    "addr:postcode":"95814",
+    "addr:phone":"+1 916-498-9811",
+    "addr:postcode":"95811",
+    "addr:road":"19Th St",
+    "addr:state":"CA",
     "addr:street":"19Th Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.492394,38.57756,-121.492394,38.57756",
-    "geom:latitude":38.57756,
-    "geom:longitude":-121.492394,
+    "geom:bbox":"-121.48951,38.58277,-121.48951,38.58277",
+    "geom:latitude":38.58277,
+    "geom:longitude":-121.48951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1519 19th Street",
     "sg:city":"Sacramento",
@@ -31,18 +36,25 @@
     "sg:postcode":"95814",
     "sg:province":"CA",
     "sg:website":"www.ccasac.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527085,
+        102530469,
+        102530559,
+        102530589
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600461,
         "sg:id":"SG_5lr9cXk8fGe8KIJ72Ff6Y3_38.577560_-121.492394@1303263389"
     },
     "wof:country":"US",
-    "wof:geomhash":"502a4bbead6a3307063ca7bde935adbd",
+    "wof:geomhash":"71b530e56d52778b82f79eb5af227d49",
     "wof:hierarchy":[],
     "wof:id":588672249,
-    "wof:lastmodified":1509202206,
-    "wof:name":"Center For Contemporary Art Sacramento",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Center For Contemporary Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -51,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.492394,
-    38.57756,
-    -121.492394,
-    38.57756
+    -121.48951,
+    38.58277,
+    -121.48951,
+    38.58277
 ],
-  "geometry": {"coordinates":[-121.492394,38.57756],"type":"Point"}
+  "geometry": {"coordinates":[-121.48951,38.58277],"type":"Point"}
 }

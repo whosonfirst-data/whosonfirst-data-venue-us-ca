@@ -2,20 +2,24 @@
   "id": 588562667,
   "type": "Feature",
   "properties": {
-    "addr:full":"2200 Mission College Blvd Santa Clara CA 95054",
+    "addr:city":"Santa Clara",
+    "addr:full":"2200 Mission College Blvd Santa Clara, Ca 95054",
+    "addr:house_number":"2200",
     "addr:housenumber":"2200",
     "addr:postcode":"95054",
+    "addr:road":"Mission College Blvd",
+    "addr:state":"CA",
     "addr:street":"Mission College Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.963438,37.388639,-121.963438,37.388639",
-    "geom:latitude":37.388639,
-    "geom:longitude":-121.963438,
+    "geom:bbox":"-121.9661,37.38867,-121.9661,37.38867",
+    "geom:latitude":37.38867,
+    "geom:longitude":-121.9661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2200 Mission College Blvd",
     "sg:city":"Santa Clara",
@@ -29,7 +33,11 @@
     "sg:owner":"simplegeo",
     "sg:postcode":"95054",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400280,
         "sg:id":"SG_4hCTv2g4YWQi7tkE2vTmUi_37.388639_-121.963438@1303263361"
     },
     "wof:country":"US",
-    "wof:geomhash":"d9d6b443615a7c526e3d145f64816419",
+    "wof:geomhash":"1c5b4aada94712ed21dce3226b44de8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":588562667,
-    "wof:lastmodified":1509202138,
-    "wof:name":"Intel Cafe",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Intel Museum",
     "wof:parent_id":85802491,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.963438,
-    37.388639,
-    -121.963438,
-    37.388639
+    -121.9661,
+    37.38867,
+    -121.9661,
+    37.38867
 ],
-  "geometry": {"coordinates":[-121.963438,37.388639],"type":"Point"}
+  "geometry": {"coordinates":[-121.9661,37.38867],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 387022519,
   "type": "Feature",
   "properties": {
-    "addr:full":"3905 Inglewood Boulevard Los Angeles CA 90066",
+    "addr:city":"Los Angeles",
+    "addr:full":"3905 Inglewood Blvd Los Angeles, Ca 90066",
+    "addr:house_number":"3905",
     "addr:housenumber":"3905",
+    "addr:phone":"+1 310-397-6942",
     "addr:postcode":"90066",
+    "addr:road":"Inglewood Blvd",
+    "addr:state":"CA",
     "addr:street":"Inglewood Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.427281,34.003943,-118.427281,34.003943",
-    "geom:latitude":34.003943,
-    "geom:longitude":-118.427281,
+    "geom:bbox":"-118.4272,34.00394,-118.4272,34.00394",
+    "geom:latitude":34.00394,
+    "geom:longitude":-118.4272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"3905 Inglewood Boulevard",
     "sg:city":"Los Angeles",
@@ -30,7 +35,14 @@
     "sg:phone":"+1 310 397 6942",
     "sg:postcode":"90066",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         1108561757,
         "85832373",
@@ -43,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600470,
         "sg:id":"SG_43ancM4fG4tUpHY8FzCAfY_34.003943_-118.427281@1303263167"
     },
     "wof:country":"US",
-    "wof:geomhash":"3c8dae2fc2d1e3e121942baee677a406",
+    "wof:geomhash":"3b08581a2a33650467133649edf7c0b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +74,7 @@
         }
     ],
     "wof:id":387022519,
-    "wof:lastmodified":1509200936,
+    "wof:lastmodified":1533149829,
     "wof:name":"Center Museum",
     "wof:parent_id":1108561757,
     "wof:placetype":"venue",
@@ -71,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.427281,
-    34.003943,
-    -118.427281,
-    34.003943
+    -118.4272,
+    34.00394,
+    -118.4272,
+    34.00394
 ],
-  "geometry": {"coordinates":[-118.42728099999999,34.003943],"type":"Point"}
+  "geometry": {"coordinates":[-118.4272,34.00394],"type":"Point"}
 }

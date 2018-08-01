@@ -2,20 +2,24 @@
   "id": 203157251,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 el Camino Real Santa Clara CA 95050",
+    "addr:city":"Santa Clara",
+    "addr:full":"500 El Camino Real Santa Clara, Ca 95053",
+    "addr:house_number":"500",
     "addr:housenumber":"500",
-    "addr:postcode":"95050",
+    "addr:postcode":"95053",
+    "addr:road":"El Camino Real",
+    "addr:state":"CA",
     "addr:street":"El Camino Real",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.94297,37.35534,-121.94297,37.35534",
-    "geom:latitude":37.35534,
-    "geom:longitude":-121.94297,
+    "geom:bbox":"-121.93652,37.34792,-121.93652,37.34792",
+    "geom:latitude":37.34792,
+    "geom:longitude":-121.93652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"500 el Camino Real",
     "sg:city":"Santa Clara",
@@ -31,7 +35,11 @@
     "sg:postcode":"95050",
     "sg:province":"CA",
     "sg:website":"www.scu.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501406,
         "sg:id":"SG_49SWFx3fI3Ite0vKNXh64N_37.355340_-121.942970@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"15e5ddf5e7228675d6048a5f741ec47b",
+    "wof:geomhash":"f4422827bcbf1c8597890d37dd9769c5",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":203157251,
-    "wof:lastmodified":1533145969,
+    "wof:lastmodified":1533149826,
     "wof:name":"De Saisset Museum",
     "wof:parent_id":85869525,
     "wof:placetype":"venue",
@@ -69,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.94297,
-    37.35534,
-    -121.94297,
-    37.35534
+    -121.93652,
+    37.34792,
+    -121.93652,
+    37.34792
 ],
-  "geometry": {"coordinates":[-121.94297,37.35534],"type":"Point"}
+  "geometry": {"coordinates":[-121.93652,37.34792],"type":"Point"}
 }

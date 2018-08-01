@@ -2,20 +2,25 @@
   "id": 386992331,
   "type": "Feature",
   "properties": {
-    "addr:full":"393 N Hockett St Porterville CA 93257",
+    "addr:city":"Porterville",
+    "addr:full":"393 N Hockett St Porterville, Ca 93257",
+    "addr:house_number":"393",
     "addr:housenumber":"393",
+    "addr:phone":"+1 209-782-7461",
     "addr:postcode":"93257",
+    "addr:road":"N Hockett St",
+    "addr:state":"CA",
     "addr:street":"N Hockett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.017354,36.072241,-119.017354,36.072241",
-    "geom:latitude":36.072241,
-    "geom:longitude":-119.017354,
+    "geom:bbox":"-119.01727,36.07295,-119.01727,36.07295",
+    "geom:latitude":36.07295,
+    "geom:longitude":-119.01727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"393 N Hockett St",
     "sg:city":"Porterville",
@@ -33,7 +38,8 @@
     "sg:tags":[
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -43,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600026,
         "sg:id":"SG_7bNaaUj4USoq3OA7qnWQRJ_36.072241_-119.017354@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"85c210031e932a90b0cfb73e0e78d687",
+    "wof:geomhash":"cf5cad438a2cf87333ebd5538ab4fd4b",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":386992331,
-    "wof:lastmodified":1509200929,
+    "wof:lastmodified":1533149830,
     "wof:name":"Zalud House",
     "wof:parent_id":85842161,
     "wof:placetype":"venue",
@@ -71,10 +78,10 @@
     ]
 },
   "bbox": [
-    -119.017354,
-    36.072241,
-    -119.017354,
-    36.072241
+    -119.01727,
+    36.07295,
+    -119.01727,
+    36.07295
 ],
-  "geometry": {"coordinates":[-119.017354,36.072241],"type":"Point"}
+  "geometry": {"coordinates":[-119.01727,36.07295],"type":"Point"}
 }

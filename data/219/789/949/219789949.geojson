@@ -2,17 +2,23 @@
   "id": 219789949,
   "type": "Feature",
   "properties": {
-    "addr:full":"2525 Michigan Ave Santa Monica CA 90404",
+    "addr:city":"Santa Monica",
+    "addr:full":"2525 Michigan G-1 Santa Monica, Ca 90404",
+    "addr:house_number":"2525",
     "addr:housenumber":"2525",
+    "addr:phone":"+1 310-586-6488",
     "addr:postcode":"90404",
+    "addr:road":"Michigan",
+    "addr:state":"CA",
     "addr:street":"Michigan Ave",
+    "addr:suburb":"G-1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.468988,34.026539,-118.468988,34.026539",
-    "geom:latitude":34.026539,
-    "geom:longitude":-118.468988,
+    "geom:bbox":"-118.4686,34.02698,-118.4686,34.02698",
+    "geom:latitude":34.02698,
+    "geom:longitude":-118.4686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -30,7 +36,13 @@
     "sg:phone":"+1 310 586 6488",
     "sg:postcode":"90404",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -43,10 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "lacity_oof:id":"0002811561-0001-2",
+        "mudf:mid":8400602770,
         "sg:id":"SG_0VRV4B0cdzz1AdaJh4Boid_34.026539_-118.468988@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"0ad58880230e85d250616ce19bd9d0a6",
+    "wof:geomhash":"4d1cee67ee582ff60eede2db719b2120",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -68,7 +81,7 @@
         }
     ],
     "wof:id":219789949,
-    "wof:lastmodified":1509199978,
+    "wof:lastmodified":1533149826,
     "wof:name":"Santa Monica Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -78,10 +91,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.468988,
-    34.026539,
-    -118.468988,
-    34.026539
+    -118.4686,
+    34.02698,
+    -118.4686,
+    34.02698
 ],
-  "geometry": {"coordinates":[-118.468988,34.026539],"type":"Point"}
+  "geometry": {"coordinates":[-118.4686,34.02698],"type":"Point"}
 }

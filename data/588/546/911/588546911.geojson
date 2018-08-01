@@ -2,20 +2,25 @@
   "id": 588546911,
   "type": "Feature",
   "properties": {
-    "addr:full":"21250 Stevens Creek Boulevard Cupertino CA 95014",
+    "addr:city":"Cupertino",
+    "addr:full":"21250 Stevens Creek Boulevard Cupertino, Ca 95014",
+    "addr:house_number":"21250",
     "addr:housenumber":"21250",
+    "addr:phone":"+1 408-864-5464",
     "addr:postcode":"95014",
+    "addr:road":"Stevens Creek Boulevard",
+    "addr:state":"CA",
     "addr:street":"Stevens Creek Boulevard",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.047669,37.322783,-122.047669,37.322783",
-    "geom:latitude":37.322783,
-    "geom:longitude":-122.047669,
+    "geom:bbox":"-122.0501,37.32268,-122.0501,37.32268",
+    "geom:latitude":37.32268,
+    "geom:longitude":-122.0501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"21250 Stevens Creek Boulevard",
     "sg:city":"Cupertino",
@@ -31,7 +36,11 @@
     "sg:postcode":"95014",
     "sg:province":"CA",
     "sg:website":"www.deanza.edu/euphrat",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409503141,
         "sg:id":"SG_4UjJ4uyqf4YzUUs2h7Nh19_37.322783_-122.047669@1303263357"
     },
     "wof:country":"US",
-    "wof:geomhash":"dea87cf0dfcb3ce6bce1f855004735cb",
+    "wof:geomhash":"876fb633a234dd7486aea88a3906dc0b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":588546911,
-    "wof:lastmodified":1509202129,
-    "wof:name":"Euphrat Museum of Art",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Euphrat Museum Of Art",
     "wof:parent_id":85834859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.047669,
-    37.322783,
-    -122.047669,
-    37.322783
+    -122.0501,
+    37.32268,
+    -122.0501,
+    37.32268
 ],
-  "geometry": {"coordinates":[-122.047669,37.322783],"type":"Point"}
+  "geometry": {"coordinates":[-122.0501,37.32268],"type":"Point"}
 }

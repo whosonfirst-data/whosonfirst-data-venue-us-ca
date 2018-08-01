@@ -2,20 +2,25 @@
   "id": 571503623,
   "type": "Feature",
   "properties": {
-    "addr:full":"1449 Market St Redding CA 96001",
+    "addr:city":"Redding",
+    "addr:full":"1449 Market St Redding, Ca 96001-1026",
+    "addr:house_number":"1449",
     "addr:housenumber":"1449",
-    "addr:postcode":"96001",
+    "addr:phone":"+1 530-243-3720",
+    "addr:postcode":"96001-1026",
+    "addr:road":"Market St",
+    "addr:state":"CA",
     "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390899,40.584792,-122.390899,40.584792",
-    "geom:latitude":40.584792,
-    "geom:longitude":-122.390899,
+    "geom:bbox":"-122.39102,40.58503,-122.39102,40.58503",
+    "geom:latitude":40.58503,
+    "geom:longitude":-122.39102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1449 Market St",
     "sg:city":"Redding",
@@ -31,7 +36,10 @@
     "sg:postcode":"96001",
     "sg:province":"CA",
     "sg:website":"www.shastahistory.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527969
+    ],
     "wof:belongsto":[
         85818197,
         85633793,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600945,
         "sg:id":"SG_2WTsh0zxHDgel9T9bZOG2X_40.584792_-122.390899@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"bb352c9c6224414bfc265cf705ab8159",
+    "wof:geomhash":"9d646bc58d615f02d339140b8fbdef08",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":571503623,
-    "wof:lastmodified":1509201503,
+    "wof:lastmodified":1533149824,
     "wof:name":"Shasta Historical Society",
     "wof:parent_id":85818197,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.390899,
-    40.584792,
-    -122.390899,
-    40.584792
+    -122.39102,
+    40.58503,
+    -122.39102,
+    40.58503
 ],
-  "geometry": {"coordinates":[-122.390899,40.584792],"type":"Point"}
+  "geometry": {"coordinates":[-122.39102,40.58503],"type":"Point"}
 }

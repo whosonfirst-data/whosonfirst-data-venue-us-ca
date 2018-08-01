@@ -2,20 +2,25 @@
   "id": 270434283,
   "type": "Feature",
   "properties": {
-    "addr:full":"577 H St Crescent City CA 95531",
+    "addr:city":"Crescent City",
+    "addr:full":"577 H St Crescent City, Ca 95531-3743",
+    "addr:house_number":"577",
     "addr:housenumber":"577",
-    "addr:postcode":"95531",
+    "addr:phone":"+1 707-464-3922",
+    "addr:postcode":"95531-3743",
+    "addr:road":"H St",
+    "addr:state":"CA",
     "addr:street":"H St Crescent",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-124.199348,41.753729,-124.199348,41.753729",
-    "geom:latitude":41.753729,
-    "geom:longitude":-124.199348,
+    "geom:bbox":"-124.19932,41.75385,-124.19932,41.75385",
+    "geom:latitude":41.75385,
+    "geom:longitude":-124.19932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"577 H St",
     "sg:city":"Crescent City",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 707 464 3922",
     "sg:postcode":"95531",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534223
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602546,
         "sg:id":"SG_3BADyElDjHmQN7MG22T8dJ_41.753729_-124.199348@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"246b6c2bb0aac0e050045373925d6de1",
+    "wof:geomhash":"c75049372e92c069422e37048164b6a4",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":270434283,
-    "wof:lastmodified":1509200233,
-    "wof:name":"Del Norte County Historical",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Del Norte County Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -124.199348,
-    41.753729,
-    -124.199348,
-    41.753729
+    -124.19932,
+    41.75385,
+    -124.19932,
+    41.75385
 ],
-  "geometry": {"coordinates":[-124.199348,41.753729],"type":"Point"}
+  "geometry": {"coordinates":[-124.19932,41.75385],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 555455001,
   "type": "Feature",
   "properties": {
-    "addr:full":"3425 Mission Inn Ave Riverside CA 92501",
+    "addr:city":"Riverside",
+    "addr:full":"3425 Mission Inn Ave Riverside, Ca 92501-3304",
+    "addr:house_number":"3425",
     "addr:housenumber":"3425",
-    "addr:postcode":"92501",
+    "addr:phone":"+1 714-684-7111",
+    "addr:postcode":"92501-3304",
+    "addr:road":"Mission Inn Ave",
+    "addr:state":"CA",
     "addr:street":"Mission Inn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.371156,33.981815,-117.371156,33.981815",
-    "geom:latitude":33.981815,
-    "geom:longitude":-117.371156,
+    "geom:bbox":"-117.37125,33.98188,-117.37125,33.98188",
+    "geom:latitude":33.98188,
+    "geom:longitude":-117.37125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"3425 Mission Inn Ave",
     "sg:city":"Riverside",
@@ -31,7 +36,13 @@
     "sg:postcode":"92501",
     "sg:province":"CA",
     "sg:website":"www.riversideartmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530561,
+        102528835,
+        102533575,
+        102533771
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602594,
         "sg:id":"SG_6QHz0No5eAzWb3d0LYYBjE_33.981815_-117.371156@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"2321d351c87109fafce405ededdf30cf",
+    "wof:geomhash":"0475c4033360b8f35ced10f79ba0d794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":555455001,
-    "wof:lastmodified":1509201397,
+    "wof:lastmodified":1533149824,
     "wof:name":"Riverside Art Museum",
     "wof:parent_id":85873341,
     "wof:placetype":"venue",
@@ -68,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.371156,
-    33.981815,
-    -117.371156,
-    33.981815
+    -117.37125,
+    33.98188,
+    -117.37125,
+    33.98188
 ],
-  "geometry": {"coordinates":[-117.371156,33.981815],"type":"Point"}
+  "geometry": {"coordinates":[-117.37125,33.98188],"type":"Point"}
 }

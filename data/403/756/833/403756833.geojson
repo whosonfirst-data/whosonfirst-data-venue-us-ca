@@ -2,20 +2,25 @@
   "id": 403756833,
   "type": "Feature",
   "properties": {
-    "addr:full":"4064 Las Pasas Way Sacramento CA 95864",
+    "addr:city":"Sacramento",
+    "addr:full":"4064 Las Pasas Way Sacramento, Ca 95864",
+    "addr:house_number":"4064",
     "addr:housenumber":"4064",
+    "addr:phone":"+1 916-482-4272",
     "addr:postcode":"95864",
+    "addr:road":"Las Pasas Way",
+    "addr:state":"CA",
     "addr:street":"Las Pasas Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.366004,38.594558,-121.366004,38.594558",
-    "geom:latitude":38.594558,
-    "geom:longitude":-121.366004,
+    "geom:bbox":"-121.36567,38.59376,-121.36567,38.59376",
+    "geom:latitude":38.59376,
+    "geom:longitude":-121.36567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"4064 Las Pasas Way",
     "sg:city":"Sacramento",
@@ -30,7 +35,13 @@
     "sg:phone":"+1 916 482 4272",
     "sg:postcode":"95864",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527085,
+        102530469,
+        102530559,
+        102530589
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600383,
         "sg:id":"SG_2b9YFNUjCtRglZLlv49xHK_38.594558_-121.366004@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c0372c8ba53cf0452dd790da3b5a3d64",
+    "wof:geomhash":"7c43bdb982a1ffb771d9f36b3cf0b450",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":403756833,
-    "wof:lastmodified":1509201140,
+    "wof:lastmodified":1533149830,
     "wof:name":"Historical Fire Hydrant Museum",
     "wof:parent_id":85885591,
     "wof:placetype":"venue",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.366004,
-    38.594558,
-    -121.366004,
-    38.594558
+    -121.36567,
+    38.59376,
+    -121.36567,
+    38.59376
 ],
-  "geometry": {"coordinates":[-121.366004,38.594558],"type":"Point"}
+  "geometry": {"coordinates":[-121.36566999999999,38.59376],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 572364911,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Front Street Unit 1803 San Diego CA 92101",
+    "addr:city":"San Diego",
+    "addr:full":"550 Front St San Diego, Ca 92101",
+    "addr:house_number":"550",
     "addr:housenumber":"550",
-    "addr:postcode":"1803;92101",
+    "addr:phone":"+1 619-533-7960",
+    "addr:postcode":"92101",
+    "addr:road":"Front St",
+    "addr:state":"CA",
     "addr:street":"Front Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.164672,32.710929,-117.164672,32.710929",
-    "geom:latitude":32.710929,
-    "geom:longitude":-117.164672,
+    "geom:bbox":"-117.16476,32.71094,-117.16476,32.71094",
+    "geom:latitude":32.71094,
+    "geom:longitude":-117.16476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"550 Front Street Unit 1803",
     "sg:city":"San Diego",
@@ -30,7 +35,13 @@
     "sg:phone":"+1 619 533 7961",
     "sg:postcode":"92101",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528287,
+        102528997
+    ],
     "wof:belongsto":[
         85871135,
         102191575,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600197,
         "sg:id":"SG_2f3EQE5OCJKx1EXA0Hu8Ce_32.710929_-117.164672@1303263242"
     },
     "wof:country":"US",
-    "wof:geomhash":"a5e109dc8a3bb17b840a8b10382f7b37",
+    "wof:geomhash":"ebba410f53fe18fb15003e8f86ba5d57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +71,8 @@
         }
     ],
     "wof:id":572364911,
-    "wof:lastmodified":1509201843,
-    "wof:name":"Pinnacle Museum Tower",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Pinnacle Museum And Tower",
     "wof:parent_id":85871135,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -69,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.164672,
-    32.710929,
-    -117.164672,
-    32.710929
+    -117.16476,
+    32.71094,
+    -117.16476,
+    32.71094
 ],
-  "geometry": {"coordinates":[-117.164672,32.710929],"type":"Point"}
+  "geometry": {"coordinates":[-117.16476,32.71094],"type":"Point"}
 }

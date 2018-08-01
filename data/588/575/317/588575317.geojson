@@ -2,20 +2,25 @@
   "id": 588575317,
   "type": "Feature",
   "properties": {
-    "addr:full":"180 Woz Way San Jose CA 95110",
+    "addr:city":"San Jose",
+    "addr:full":"180 Woz Way San Jose, Ca 95110",
+    "addr:house_number":"180",
     "addr:housenumber":"180",
+    "addr:phone":"+1 408-298-5437",
     "addr:postcode":"95110",
+    "addr:road":"Woz Way",
+    "addr:state":"CA",
     "addr:street":"Woz Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.89198,37.326796,-121.89198,37.326796",
-    "geom:latitude":37.326796,
-    "geom:longitude":-121.89198,
+    "geom:bbox":"-121.88873,37.32674,-121.88873,37.32674",
+    "geom:latitude":37.32674,
+    "geom:longitude":-121.88873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"180 Woz Way",
     "sg:city":"San Jose",
@@ -44,7 +49,10 @@
         "venue"
     ],
     "sg:website":"www.cdm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529
+    ],
     "wof:belongsto":[
         1108782533,
         102191575,
@@ -56,10 +64,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500325,
         "sg:id":"SG_1VeSy4aggrxsdEFaxH9yvA_37.326796_-121.891980@1303263364"
     },
     "wof:country":"US",
-    "wof:geomhash":"074b38c30d3d2acacf810cd6b714345b",
+    "wof:geomhash":"6e2117ebcb881b7f90a8fc76b6685025",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,8 +82,8 @@
         }
     ],
     "wof:id":588575317,
-    "wof:lastmodified":1509202146,
-    "wof:name":"Children's Discovery Museum of San Jose",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Children'S Discovery Museum Of San Jose",
     "wof:parent_id":1108782533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -85,10 +94,10 @@
     ]
 },
   "bbox": [
-    -121.89198,
-    37.326796,
-    -121.89198,
-    37.326796
+    -121.88873,
+    37.32674,
+    -121.88873,
+    37.32674
 ],
-  "geometry": {"coordinates":[-121.89198,37.326796],"type":"Point"}
+  "geometry": {"coordinates":[-121.88873,37.32674],"type":"Point"}
 }

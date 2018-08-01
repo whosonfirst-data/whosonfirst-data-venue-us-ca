@@ -2,20 +2,24 @@
   "id": 572339939,
   "type": "Feature",
   "properties": {
-    "addr:full":"University of California San Diego 9500 Gilman Dr La Jolla CA 92039",
+    "addr:city":"San Diego",
+    "addr:full":"9500 Gilman Dr San Diego, Ca 92093",
+    "addr:house_number":"9500",
     "addr:housenumber":"9500",
-    "addr:postcode":"92039",
+    "addr:postcode":"92093",
+    "addr:road":"Gilman Dr",
+    "addr:state":"CA",
     "addr:street":"Gilman Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.236576,32.876063,-117.236576,32.876063",
-    "geom:latitude":32.876063,
-    "geom:longitude":-117.236576,
+    "geom:bbox":"-117.2401,32.87306,-117.2401,32.87306",
+    "geom:latitude":32.87306,
+    "geom:longitude":-117.2401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"University of California San Diego 9500 Gilman Dr",
     "sg:city":"La Jolla",
@@ -30,7 +34,12 @@
     "sg:postcode":"92039",
     "sg:province":"CA",
     "sg:website":"uag.ucsd.edu",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528997
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409504230,
         "sg:id":"SG_09zSYiTYw0gRTrw9WpKvzc_32.876063_-117.236576@1303263235"
     },
     "wof:country":"US",
-    "wof:geomhash":"a2b4ac21db5757c2126f427e79daf6fa",
+    "wof:geomhash":"a9f1f0be53dc024b3f63e43d63276644",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":572339939,
-    "wof:lastmodified":1509201824,
+    "wof:lastmodified":1533149824,
     "wof:name":"University Art Gallery",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.236576,
-    32.876063,
-    -117.236576,
-    32.876063
+    -117.2401,
+    32.87306,
+    -117.2401,
+    32.87306
 ],
-  "geometry": {"coordinates":[-117.236576,32.876063],"type":"Point"}
+  "geometry": {"coordinates":[-117.2401,32.87306],"type":"Point"}
 }

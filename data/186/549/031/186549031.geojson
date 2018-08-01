@@ -2,20 +2,25 @@
   "id": 186549031,
   "type": "Feature",
   "properties": {
-    "addr:full":"8459 Wheeler Ave Fontana CA 92335",
+    "addr:city":"Fontana",
+    "addr:full":"8459 Wheeler Ave Fontana, Ca 92335",
+    "addr:house_number":"8459",
     "addr:housenumber":"8459",
+    "addr:phone":"+1 909-822-4274",
     "addr:postcode":"92335",
+    "addr:road":"Wheeler Ave",
+    "addr:state":"CA",
     "addr:street":"Wheeler Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.434524,34.099451,-117.434524,34.099451",
-    "geom:latitude":34.099451,
-    "geom:longitude":-117.434524,
+    "geom:bbox":"-117.43653,34.10071,-117.43653,34.10071",
+    "geom:latitude":34.10071,
+    "geom:longitude":-117.43653,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"8459 Wheeler Ave",
     "sg:city":"Fontana",
@@ -30,7 +35,13 @@
     "sg:phone":"+1 909 822 4274",
     "sg:postcode":"92335",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531373,
+        102530561,
+        102528835,
+        102533575
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600455,
         "sg:id":"SG_6rpWPLQL6IKaAF7lfT3KGq_34.099451_-117.434524@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"8952e295d51db93d4bbaea0c27073b17",
+    "wof:geomhash":"b60a461b54313179f8bb652942b722eb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +68,7 @@
         }
     ],
     "wof:id":186549031,
-    "wof:lastmodified":1509199869,
+    "wof:lastmodified":1533149826,
     "wof:name":"Fontana Historical Society",
     "wof:parent_id":85877399,
     "wof:placetype":"venue",
@@ -66,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.434524,
-    34.099451,
-    -117.434524,
-    34.099451
+    -117.43653,
+    34.10071,
+    -117.43653,
+    34.10071
 ],
-  "geometry": {"coordinates":[-117.434524,34.099451],"type":"Point"}
+  "geometry": {"coordinates":[-117.43653,34.10071],"type":"Point"}
 }

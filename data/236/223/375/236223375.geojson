@@ -2,20 +2,25 @@
   "id": 236223375,
   "type": "Feature",
   "properties": {
-    "addr:full":"6442 E el Paseo St Long Beach CA 90815",
+    "addr:city":"Longbeach",
+    "addr:full":"6442 El Paseo St Longbeach, Ca 90815-3403",
+    "addr:house_number":"6442",
     "addr:housenumber":"6442",
-    "addr:postcode":"90815",
+    "addr:phone":"+1 562-431-4003",
+    "addr:postcode":"90815-3403",
+    "addr:road":"El Paseo St",
+    "addr:state":"CA",
     "addr:street":"E El Paseo St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.10765,33.794439,-118.10765,33.794439",
-    "geom:latitude":33.794439,
-    "geom:longitude":-118.10765,
+    "geom:bbox":"-118.10627,33.79423,-118.10627,33.79423",
+    "geom:latitude":33.79423,
+    "geom:longitude":-118.10627,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"6442 E el Paseo St",
     "sg:city":"Long Beach",
@@ -33,7 +38,11 @@
     "sg:tags":[
         "conservation"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531511,
+        102528985
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -43,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601308,
         "sg:id":"SG_4GrpH1FxpvAiBlXuoVTHsz_33.794439_-118.107650@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"d93e636b86c651470489056a7728d4a5",
+    "wof:geomhash":"e05984bef42ccb165c554aafd7861056",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":236223375,
-    "wof:lastmodified":1509200026,
-    "wof:name":"Interntnal Wldlife Crvers Assn",
+    "wof:lastmodified":1533149825,
+    "wof:name":"International Wildlife Carvers Association",
     "wof:parent_id":85831437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -71,10 +81,10 @@
     ]
 },
   "bbox": [
-    -118.10765,
-    33.794439,
-    -118.10765,
-    33.794439
+    -118.10627,
+    33.79423,
+    -118.10627,
+    33.79423
 ],
-  "geometry": {"coordinates":[-118.10765000000001,33.794439],"type":"Point"}
+  "geometry": {"coordinates":[-118.10626999999999,33.79423],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 572216489,
   "type": "Feature",
   "properties": {
-    "addr:full":"1933 Jefferson Dr Pasadena CA 91104",
+    "addr:city":"Pasadena",
+    "addr:full":"1933 Jefferson Dr Pasadena, Ca 91104",
+    "addr:house_number":"1933",
     "addr:housenumber":"1933",
+    "addr:phone":"+1 626-798-8848",
     "addr:postcode":"91104",
+    "addr:road":"Jefferson Dr",
+    "addr:state":"CA",
     "addr:street":"Jefferson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.110642,34.170377,-118.110642,34.170377",
-    "geom:latitude":34.170377,
-    "geom:longitude":-118.110642,
+    "geom:bbox":"-118.11027,34.1702,-118.11027,34.1702",
+    "geom:latitude":34.1702,
+    "geom:longitude":-118.11027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1933 Jefferson Dr",
     "sg:city":"Pasadena",
@@ -31,7 +36,11 @@
     "sg:postcode":"91104",
     "sg:province":"CA",
     "sg:website":"www.thebunnymuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524749,
+        102532771
+    ],
     "wof:belongsto":[
         102086957,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600611,
         "sg:id":"SG_6b9Qu2rtqSwsMPmRAkuEP8_34.170377_-118.110642@1303263204"
     },
     "wof:country":"US",
-    "wof:geomhash":"8c04fb8f1c56cf8bcfb2ec8fc4fce251",
+    "wof:geomhash":"18db23cff0f61868072e95361157f072",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":572216489,
-    "wof:lastmodified":1509201741,
-    "wof:name":"The Bunny Museum",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Bunny Museum",
     "wof:parent_id":85879757,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.110642,
-    34.170377,
-    -118.110642,
-    34.170377
+    -118.11027,
+    34.1702,
+    -118.11027,
+    34.1702
 ],
-  "geometry": {"coordinates":[-118.110642,34.170377],"type":"Point"}
+  "geometry": {"coordinates":[-118.11027,34.1702],"type":"Point"}
 }

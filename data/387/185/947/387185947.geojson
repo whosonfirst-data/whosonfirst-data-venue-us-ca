@@ -2,20 +2,25 @@
   "id": 387185947,
   "type": "Feature",
   "properties": {
-    "addr:full":"1008 Elden Way Beverly Hills CA 90210",
+    "addr:city":"Beverly Hills",
+    "addr:full":"1008 Elden Way Beverly Hills, Ca 90210-2805",
+    "addr:house_number":"1008",
     "addr:housenumber":"1008",
-    "addr:postcode":"90210",
+    "addr:phone":"+1 310-276-5367",
+    "addr:postcode":"90210-2805",
+    "addr:road":"Elden Way",
+    "addr:state":"CA",
     "addr:street":"Elden Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.417052,34.086019,-118.417052,34.086019",
-    "geom:latitude":34.086019,
-    "geom:longitude":-118.417052,
+    "geom:bbox":"-118.41747,34.08575,-118.41747,34.08575",
+    "geom:latitude":34.08575,
+    "geom:longitude":-118.41747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1008 Elden Way",
     "sg:city":"Beverly Hills",
@@ -31,7 +36,13 @@
     "sg:postcode":"90210",
     "sg:province":"CA",
     "sg:website":"www.robinsongardens.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -41,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602742,
         "sg:id":"SG_3cjzjSwHqqbbu0yH0NGs79_34.086019_-118.417052@1303263171"
     },
     "wof:country":"US",
-    "wof:geomhash":"53375eeddffca71b23e9dce54ef5f56f",
+    "wof:geomhash":"ebf8827f8852da7636b49eb20b9a52bb",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":387185947,
-    "wof:lastmodified":1509200975,
+    "wof:lastmodified":1533149824,
     "wof:name":"Virginia Robinson Gardens",
     "wof:parent_id":85869119,
     "wof:placetype":"venue",
@@ -67,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.417052,
-    34.086019,
-    -118.417052,
-    34.086019
+    -118.41747,
+    34.08575,
+    -118.41747,
+    34.08575
 ],
-  "geometry": {"coordinates":[-118.417052,34.086019],"type":"Point"}
+  "geometry": {"coordinates":[-118.41746999999999,34.08575],"type":"Point"}
 }

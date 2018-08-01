@@ -2,20 +2,25 @@
   "id": 286271615,
   "type": "Feature",
   "properties": {
-    "addr:full":"1501 Mendocino Ave Santa Rosa CA 95401",
+    "addr:city":"Santa Rosa",
+    "addr:full":"1501 Mendocino Avenue Santa Rosa, Ca 95401",
+    "addr:house_number":"1501",
     "addr:housenumber":"1501",
+    "addr:phone":"+1 707-527-4298",
     "addr:postcode":"95401",
+    "addr:road":"Mendocino Avenue",
+    "addr:state":"CA",
     "addr:street":"Mendocino Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.717278,38.456582,-122.717278,38.456582",
-    "geom:latitude":38.456582,
-    "geom:longitude":-122.717278,
+    "geom:bbox":"-122.71743,38.45476,-122.71743,38.45476",
+    "geom:latitude":38.45476,
+    "geom:longitude":-122.71743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1501 Mendocino Ave",
     "sg:city":"Santa Rosa",
@@ -31,7 +36,10 @@
     "sg:postcode":"95401",
     "sg:province":"CA",
     "sg:website":"www.sustainableag.net",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533507
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409501776,
         "sg:id":"SG_4NGWTWjZf1E73Jq4QlSTLw_38.456582_-122.717278@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"e9e52b46906875bcc595dfb3417d0532",
+    "wof:geomhash":"4e726e17d8d0ec966c86c896c3d624cf",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":286271615,
-    "wof:lastmodified":1509200242,
-    "wof:name":"Santa Rosa Junior College",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Santa Rosa Junior College Museum",
     "wof:parent_id":85880885,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.717278,
-    38.456582,
-    -122.717278,
-    38.456582
+    -122.71743,
+    38.45476,
+    -122.71743,
+    38.45476
 ],
-  "geometry": {"coordinates":[-122.71727799999999,38.456582],"type":"Point"}
+  "geometry": {"coordinates":[-122.71742999999999,38.45476],"type":"Point"}
 }

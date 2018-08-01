@@ -2,20 +2,25 @@
   "id": 588599877,
   "type": "Feature",
   "properties": {
-    "addr:full":"14300 Clayton Road San Jose CA 95127",
+    "addr:city":"San Jose",
+    "addr:full":"14300 Clayton Rd San Jose, Ca 95127",
+    "addr:house_number":"14300",
     "addr:housenumber":"14300",
+    "addr:phone":"+1 408-929-9969",
     "addr:postcode":"95127",
+    "addr:road":"Clayton Rd",
+    "addr:state":"CA",
     "addr:street":"Clayton Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.774138,37.367984,-121.774138,37.367984",
-    "geom:latitude":37.367984,
-    "geom:longitude":-121.774138,
+    "geom:bbox":"-121.77359,37.36734,-121.77359,37.36734",
+    "geom:latitude":37.36734,
+    "geom:longitude":-121.77359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"14300 Clayton Road",
     "sg:city":"San Jose",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 408 929 9969",
     "sg:postcode":"95127",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600106,
         "sg:id":"SG_0fTcI1rDjEH6PL3KFe0PDt_37.367984_-121.774138@1303263370"
     },
     "wof:country":"US",
-    "wof:geomhash":"3287515599bf254bf03efebf91d126b8",
+    "wof:geomhash":"c3cccb6973ff057fd1748beea614b658",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":588599877,
-    "wof:lastmodified":1509202161,
-    "wof:name":"Silicon Valley Institute Art & Technology",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Silicon Valley Institute Art And Technology",
     "wof:parent_id":85865159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.774138,
-    37.367984,
-    -121.774138,
-    37.367984
+    -121.77359,
+    37.36734,
+    -121.77359,
+    37.36734
 ],
-  "geometry": {"coordinates":[-121.77413799999999,37.367984],"type":"Point"}
+  "geometry": {"coordinates":[-121.77359,37.36734],"type":"Point"}
 }

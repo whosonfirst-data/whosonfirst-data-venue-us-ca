@@ -2,20 +2,25 @@
   "id": 203365289,
   "type": "Feature",
   "properties": {
-    "addr:full":"325 Spring St Nevada City CA 95959",
+    "addr:city":"Nevada City",
+    "addr:full":"325 Spring Street Nevada City, Ca 95959",
+    "addr:house_number":"325",
     "addr:housenumber":"325",
+    "addr:phone":"+1 530-265-5040",
     "addr:postcode":"95959",
+    "addr:road":"Spring Street",
+    "addr:state":"CA",
     "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.019848,39.262176,-121.019848,39.262176",
-    "geom:latitude":39.262176,
-    "geom:longitude":-121.019848,
+    "geom:bbox":"-121.01384,39.27161,-121.01384,39.27161",
+    "geom:latitude":39.27161,
+    "geom:longitude":-121.01384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"325 Spring St",
     "sg:city":"Nevada City",
@@ -35,7 +40,8 @@
         "auditorium"
     ],
     "sg:website":"www.minersfoundry.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -45,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600231,
         "sg:id":"SG_5k9ykLPVB68N8SO0QNIRhV_39.262176_-121.019848@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c3ebdafb45950d673d9977860efceb39",
+    "wof:geomhash":"dd728ae4bda4db0991bab6a7f2d63643",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,8 +68,8 @@
         }
     ],
     "wof:id":203365289,
-    "wof:lastmodified":1509199936,
-    "wof:name":"Miners' Foundry Cultural Ctr",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Miners Foundry Cultural Center",
     "wof:parent_id":85842579,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -74,10 +81,10 @@
     ]
 },
   "bbox": [
-    -121.019848,
-    39.262176,
-    -121.019848,
-    39.262176
+    -121.01384,
+    39.27161,
+    -121.01384,
+    39.27161
 ],
-  "geometry": {"coordinates":[-121.019848,39.262176],"type":"Point"}
+  "geometry": {"coordinates":[-121.01384,39.27161],"type":"Point"}
 }

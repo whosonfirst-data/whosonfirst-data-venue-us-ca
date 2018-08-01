@@ -2,20 +2,25 @@
   "id": 269538991,
   "type": "Feature",
   "properties": {
-    "addr:full":"739 A St San Rafael CA 94901",
+    "addr:city":"San Rafael",
+    "addr:full":"739 A St San Rafael, Ca 94901",
+    "addr:house_number":"739",
     "addr:housenumber":"739",
+    "addr:phone":"+1 415-453-9489",
     "addr:postcode":"94901",
+    "addr:road":"A St",
+    "addr:state":"CA",
     "addr:street":"A St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.528628,37.971005,-122.528628,37.971005",
-    "geom:latitude":37.971005,
-    "geom:longitude":-122.528628,
+    "geom:bbox":"-122.52866,37.9709,-122.52866,37.9709",
+    "geom:latitude":37.9709,
+    "geom:longitude":-122.52866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"739 A St",
     "sg:city":"San Rafael",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 415 453 9489",
     "sg:postcode":"94901",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600122,
         "sg:id":"SG_5CTesaZ1ky0mOtkHVgSo4w_37.971005_-122.528628@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"2d8fea5da93ddf0313f4504978612860",
+    "wof:geomhash":"1498edd95dcd76776539fadf9f19776f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":269538991,
-    "wof:lastmodified":1509200160,
+    "wof:lastmodified":1533149825,
     "wof:name":"Sheldon Donig Warehouse Museum",
     "wof:parent_id":85887915,
     "wof:placetype":"venue",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.528628,
-    37.971005,
-    -122.528628,
-    37.971005
+    -122.52866,
+    37.9709,
+    -122.52866,
+    37.9709
 ],
-  "geometry": {"coordinates":[-122.528628,37.971005],"type":"Point"}
+  "geometry": {"coordinates":[-122.52866,37.9709],"type":"Point"}
 }

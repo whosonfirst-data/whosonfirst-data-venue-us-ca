@@ -2,20 +2,25 @@
   "id": 370438255,
   "type": "Feature",
   "properties": {
-    "addr:full":"7504 Rock Springs Rd Penryn CA 95663",
+    "addr:city":"Penryn",
+    "addr:full":"7504 Rock Springs Rd Penryn, Ca 95663",
+    "addr:house_number":"7504",
     "addr:housenumber":"7504",
+    "addr:phone":"+1 916-663-1837",
     "addr:postcode":"95663",
+    "addr:road":"Rock Springs Rd",
+    "addr:state":"CA",
     "addr:street":"Rock Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.164783,38.851049,-121.164783,38.851049",
-    "geom:latitude":38.851049,
-    "geom:longitude":-121.164783,
+    "geom:bbox":"-121.1635,38.85067,-121.1635,38.85067",
+    "geom:latitude":38.85067,
+    "geom:longitude":-121.1635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"7504 Rock Springs Rd",
     "sg:city":"Penryn",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 916 663 1837",
     "sg:postcode":"95663",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531973
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600144,
         "sg:id":"SG_12L4yxze1J5rmOiy9ZGSi9_38.851049_-121.164783@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"9de8c2a814dc37744dbbcca31398792c",
+    "wof:geomhash":"ded044fb5baebbde8d98cdebb9cfb5d3",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":370438255,
-    "wof:lastmodified":1509200739,
+    "wof:lastmodified":1533149829,
     "wof:name":"Placer County Museums",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.164783,
-    38.851049,
-    -121.164783,
-    38.851049
+    -121.1635,
+    38.85067,
+    -121.1635,
+    38.85067
 ],
-  "geometry": {"coordinates":[-121.164783,38.851049],"type":"Point"}
+  "geometry": {"coordinates":[-121.1635,38.85067],"type":"Point"}
 }

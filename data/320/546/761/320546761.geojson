@@ -2,20 +2,25 @@
   "id": 320546761,
   "type": "Feature",
   "properties": {
-    "addr:full":"627 Hamilton St Redwood City CA 94063",
+    "addr:city":"Redwood City",
+    "addr:full":"627 Hamilton St Redwood City, Ca 94063",
+    "addr:house_number":"627",
     "addr:housenumber":"627",
+    "addr:phone":"+1 650-365-5564",
     "addr:postcode":"94063",
+    "addr:road":"Hamilton St",
+    "addr:state":"CA",
     "addr:street":"Hamilton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.230144,37.48815,-122.230144,37.48815",
-    "geom:latitude":37.48815,
-    "geom:longitude":-122.230144,
+    "geom:bbox":"-122.22942,37.48703,-122.22942,37.48703",
+    "geom:latitude":37.48703,
+    "geom:longitude":-122.22942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"627 Hamilton St",
     "sg:city":"Redwood City",
@@ -30,7 +35,14 @@
     "sg:phone":"+1 650 365 5564",
     "sg:postcode":"94063",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041,
+        102532543,
+        102528839,
+        102533677
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600377,
         "sg:id":"SG_3VkgbM9mRXa7v4WadqXa1O_37.488150_-122.230144@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"0c77d073ccd50b402a143599ecea3b9e",
+    "wof:geomhash":"3caeec65d13ec54692d5ea3ea639ee3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +70,7 @@
         }
     ],
     "wof:id":320546761,
-    "wof:lastmodified":1509200476,
+    "wof:lastmodified":1533149828,
     "wof:name":"Lathrop House",
     "wof:parent_id":85887031,
     "wof:placetype":"venue",
@@ -67,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.230144,
-    37.48815,
-    -122.230144,
-    37.48815
+    -122.22942,
+    37.48703,
+    -122.22942,
+    37.48703
 ],
-  "geometry": {"coordinates":[-122.230144,37.48815],"type":"Point"}
+  "geometry": {"coordinates":[-122.22942,37.48703],"type":"Point"}
 }

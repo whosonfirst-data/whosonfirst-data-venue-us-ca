@@ -2,20 +2,25 @@
   "id": 588578381,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 Senter Rd San Jose CA 95112",
+    "addr:city":"San Jose",
+    "addr:full":"1300 Senter Road San Jose, Ca 95112-2593",
+    "addr:house_number":"1300",
     "addr:housenumber":"1300",
-    "addr:postcode":"95112",
+    "addr:phone":"+1 408-794-6403",
+    "addr:postcode":"95112-2593",
+    "addr:road":"Senter Road",
+    "addr:state":"CA",
     "addr:street":"Senter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.865438,37.325496,-121.865438,37.325496",
-    "geom:latitude":37.325496,
-    "geom:longitude":-121.865438,
+    "geom:bbox":"-121.86386,37.32384,-121.86386,37.32384",
+    "geom:latitude":37.32384,
+    "geom:longitude":-121.86386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1300 Senter Rd",
     "sg:city":"San Jose",
@@ -46,7 +51,10 @@
         "event"
     ],
     "sg:website":"www.hhpz.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529
+    ],
     "wof:belongsto":[
         1108779033,
         102191575,
@@ -59,10 +67,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500502,
         "sg:id":"SG_1n0U7TmB8ZwZFIKLr00dXb_37.325496_-121.865438@1303263365"
     },
     "wof:country":"US",
-    "wof:geomhash":"55c4abc514d0ef7a3a8c1150650b0f47",
+    "wof:geomhash":"cecbf3ed5a30bf96b37c9c5cbc33f772",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":588578381,
-    "wof:lastmodified":1509202148,
+    "wof:lastmodified":1533149825,
     "wof:name":"Happy Hollow Park & Zoo",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
@@ -100,10 +109,10 @@
     ]
 },
   "bbox": [
-    -121.865438,
-    37.325496,
-    -121.865438,
-    37.325496
+    -121.86386,
+    37.32384,
+    -121.86386,
+    37.32384
 ],
-  "geometry": {"coordinates":[-121.865438,37.325496],"type":"Point"}
+  "geometry": {"coordinates":[-121.86386,37.32384],"type":"Point"}
 }

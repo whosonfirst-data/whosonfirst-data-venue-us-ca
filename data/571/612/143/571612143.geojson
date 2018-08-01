@@ -2,20 +2,25 @@
   "id": 571612143,
   "type": "Feature",
   "properties": {
-    "addr:full":"1639 18th St Santa Monica CA 90404",
+    "addr:city":"Santa Monica",
+    "addr:full":"1639 18Th St Santa Monica, Ca 90404-3807",
+    "addr:house_number":"1639",
     "addr:housenumber":"1639",
-    "addr:postcode":"90404",
+    "addr:phone":"+1 310-453-3711",
+    "addr:postcode":"90404-3807",
+    "addr:road":"18Th St",
+    "addr:state":"CA",
     "addr:street":"18Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.478024,34.023847,-118.478024,34.023847",
-    "geom:latitude":34.023847,
-    "geom:longitude":-118.478024,
+    "geom:bbox":"-118.47752,34.02382,-118.47752,34.02382",
+    "geom:latitude":34.02382,
+    "geom:longitude":-118.47752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1639 18th St",
     "sg:city":"Santa Monica",
@@ -31,7 +36,13 @@
     "sg:postcode":"90404",
     "sg:province":"CA",
     "sg:website":"www.18thstreet.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -43,10 +54,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602747,
         "sg:id":"SG_1g3kszGgM2GsHl5QG8oLKc_34.023847_-118.478024@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"8f9007b3923673accd7a6ee8c9c9ead0",
+    "wof:geomhash":"d92b46f05aeea520c79ae9ef4ea357c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +80,8 @@
         }
     ],
     "wof:id":571612143,
-    "wof:lastmodified":1509201537,
-    "wof:name":"18th Street Arts Complex",
+    "wof:lastmodified":1533149824,
+    "wof:name":"18Th Street Arts Complex",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -78,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.478024,
-    34.023847,
-    -118.478024,
-    34.023847
+    -118.47752,
+    34.02382,
+    -118.47752,
+    34.02382
 ],
-  "geometry": {"coordinates":[-118.478024,34.023847],"type":"Point"}
+  "geometry": {"coordinates":[-118.47752,34.02382],"type":"Point"}
 }

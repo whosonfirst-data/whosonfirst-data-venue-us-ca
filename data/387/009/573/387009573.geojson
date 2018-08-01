@@ -2,20 +2,25 @@
   "id": 387009573,
   "type": "Feature",
   "properties": {
-    "addr:full":"10500 Alfred Harrell Hwy Bakersfield CA 93308",
+    "addr:city":"Bakersfield",
+    "addr:full":"10500 Alfred Harrell Hwy Bakersfield, Ca 93306",
+    "addr:house_number":"10500",
     "addr:housenumber":"10500",
-    "addr:postcode":"93308",
+    "addr:phone":"+1 661-872-2256",
+    "addr:postcode":"93306",
+    "addr:road":"Alfred Harrell Hwy",
+    "addr:state":"CA",
     "addr:street":"Alfred Harrell Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.896483,35.43335,-118.896483,35.43335",
-    "geom:latitude":35.43335,
-    "geom:longitude":-118.896483,
+    "geom:bbox":"-118.90304,35.44243,-118.90304,35.44243",
+    "geom:latitude":35.44243,
+    "geom:longitude":-118.90304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"10500 Alfred Harrell Hwy",
     "sg:city":"Bakersfield",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 661 872 2256",
     "sg:postcode":"93308",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527035
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602899,
         "sg:id":"SG_3fikafQc0t5OIwQ0DZYwcd_35.433350_-118.896483@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"437356f4124e8ffb9ad7197f1655167b",
+    "wof:geomhash":"332c508996de1fbe4e2beb7dbb29bb57",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":387009573,
-    "wof:lastmodified":1509200933,
-    "wof:name":"California Living Museum-Calm",
+    "wof:lastmodified":1533149829,
+    "wof:name":"California Living Museum (Calm)",
     "wof:parent_id":85867325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.896483,
-    35.43335,
-    -118.896483,
-    35.43335
+    -118.90304,
+    35.44243,
+    -118.90304,
+    35.44243
 ],
-  "geometry": {"coordinates":[-118.896483,35.43335],"type":"Point"}
+  "geometry": {"coordinates":[-118.90304,35.44243],"type":"Point"}
 }

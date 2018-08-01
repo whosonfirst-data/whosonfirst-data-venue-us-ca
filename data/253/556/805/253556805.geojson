@@ -2,20 +2,25 @@
   "id": 253556805,
   "type": "Feature",
   "properties": {
-    "addr:full":"8687 Melrose Ave Los Angeles CA 90069",
+    "addr:city":"West Hollywood",
+    "addr:full":"8687 Melrose Ave West Hollywood, Ca 90069",
+    "addr:house_number":"8687",
     "addr:housenumber":"8687",
+    "addr:phone":"+1 310-289-5223",
     "addr:postcode":"90069",
+    "addr:road":"Melrose Ave",
+    "addr:state":"CA",
     "addr:street":"Melrose Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.383058,34.081384,-118.383058,34.081384",
-    "geom:latitude":34.081384,
-    "geom:longitude":-118.383058,
+    "geom:bbox":"-118.38217,34.08236,-118.38217,34.08236",
+    "geom:latitude":34.08236,
+    "geom:longitude":-118.38217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"8687 Melrose Ave",
     "sg:city":"Los Angeles",
@@ -35,7 +40,14 @@
         "fixture",
         "drapery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -44,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600179,
         "sg:id":"SG_0bzcs8BcgVc2kOS4yO7SNK_34.081384_-118.383058@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"e3ed3d389ecc7f033a46d03dc5f9d2fd",
+    "wof:geomhash":"1cff786a32f14366d2f70ea8b2e85ff8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,8 +73,8 @@
         }
     ],
     "wof:id":253556805,
-    "wof:lastmodified":1509200139,
-    "wof:name":"Designer's Home",
+    "wof:lastmodified":1533149827,
+    "wof:name":"Pacific Design Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -74,10 +87,10 @@
     ]
 },
   "bbox": [
-    -118.383058,
-    34.081384,
-    -118.383058,
-    34.081384
+    -118.38217,
+    34.08236,
+    -118.38217,
+    34.08236
 ],
-  "geometry": {"coordinates":[-118.38305800000001,34.081384],"type":"Point"}
+  "geometry": {"coordinates":[-118.38217,34.08236],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 571810679,
   "type": "Feature",
   "properties": {
-    "addr:full":"502 Pearson Rd Paradise CA 95969",
+    "addr:city":"Paradise",
+    "addr:full":"502 Pearson Rd Paradise, Ca 95967",
+    "addr:house_number":"502",
     "addr:housenumber":"502",
-    "addr:postcode":"95969",
+    "addr:phone":"+1 530-872-8722",
+    "addr:postcode":"95967",
+    "addr:road":"Pearson Rd",
+    "addr:state":"CA",
     "addr:street":"Pearson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.615082,39.752134,-121.615082,39.752134",
-    "geom:latitude":39.752134,
-    "geom:longitude":-121.615082,
+    "geom:bbox":"-121.61492,39.75148,-121.61492,39.75148",
+    "geom:latitude":39.75148,
+    "geom:longitude":-121.61492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"502 Pearson Rd",
     "sg:city":"Paradise",
@@ -31,7 +36,10 @@
     "sg:postcode":"95969",
     "sg:province":"CA",
     "sg:website":"www.goldnuggetmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531399
+    ],
     "wof:belongsto":[
         85851079,
         85633793,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600456,
         "sg:id":"SG_7I62CNVFvd4MCZROP7fuR6_39.752134_-121.615082@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"037ff1cb5d98c1a118664f2effabdcc9",
+    "wof:geomhash":"24ad603932e2afa0ca5d2cf09f37c863",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":571810679,
-    "wof:lastmodified":1509201600,
+    "wof:lastmodified":1533149824,
     "wof:name":"Gold Nugget Museum",
     "wof:parent_id":85851079,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.615082,
-    39.752134,
-    -121.615082,
-    39.752134
+    -121.61492,
+    39.75148,
+    -121.61492,
+    39.75148
 ],
-  "geometry": {"coordinates":[-121.615082,39.752134],"type":"Point"}
+  "geometry": {"coordinates":[-121.61492,39.75148],"type":"Point"}
 }

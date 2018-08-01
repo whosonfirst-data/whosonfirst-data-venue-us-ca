@@ -2,17 +2,22 @@
   "id": 572338739,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 Prospect St La Jolla CA 92037",
+    "addr:city":"La Jolla",
+    "addr:full":"700 Prospect St La Jolla, Ca 92037-4228",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
-    "addr:postcode":"92037",
+    "addr:phone":"+1 858-454-3541",
+    "addr:postcode":"92037-4228",
+    "addr:road":"Prospect St",
+    "addr:state":"CA",
     "addr:street":"Prospect St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.278051,32.844658,-117.278051,32.844658",
-    "geom:latitude":32.844658,
-    "geom:longitude":-117.278051,
+    "geom:bbox":"-117.27764,32.84463,-117.27764,32.84463",
+    "geom:latitude":32.84463,
+    "geom:longitude":-117.27764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,7 +44,12 @@
         "bookstore"
     ],
     "sg:website":"www.mcasd.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528997
+    ],
     "wof:belongsto":[
         1108801245,
         85828909,
@@ -51,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602590,
         "osm:node":368173981,
         "sg:id":"SG_3UfefaaYt4xSxmv2R9z5gX_32.844658_-117.278051@1303263235"
     },
     "wof:country":"US",
-    "wof:geomhash":"65640a9a283d70bd6d044f5dd91f335f",
+    "wof:geomhash":"5bce6cfb59e8eb858d650d96379f227e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,8 +80,8 @@
         }
     ],
     "wof:id":572338739,
-    "wof:lastmodified":1510943342,
-    "wof:name":"Museum of Contemporary Art San Diego",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Museum Of Contemporary Art San Diego",
     "wof:parent_id":1108801245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -81,10 +92,10 @@
     ]
 },
   "bbox": [
-    -117.278051,
-    32.844658,
-    -117.278051,
-    32.844658
+    -117.27764,
+    32.84463,
+    -117.27764,
+    32.84463
 ],
-  "geometry": {"coordinates":[-117.278051,32.844658],"type":"Point"}
+  "geometry": {"coordinates":[-117.27764000000001,32.84463],"type":"Point"}
 }

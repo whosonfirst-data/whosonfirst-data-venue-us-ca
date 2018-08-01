@@ -2,20 +2,25 @@
   "id": 169535343,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 E Main St Visalia CA 93292",
+    "addr:city":"Visalia",
+    "addr:full":"700 E Main St Visalia, Ca 93292",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
+    "addr:phone":"+1 559-733-5975",
     "addr:postcode":"93292",
+    "addr:road":"E Main St",
+    "addr:state":"CA",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.284204,36.330192,-119.284204,36.330192",
-    "geom:latitude":36.330192,
-    "geom:longitude":-119.284204,
+    "geom:bbox":"-119.28524,36.33027,-119.28524,36.33027",
+    "geom:latitude":36.33027,
+    "geom:longitude":-119.28524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"700 E Main St",
     "sg:city":"Visalia",
@@ -30,7 +35,11 @@
     "sg:phone":"+1 559 733 5975",
     "sg:postcode":"93292",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527075,
+        102527773
+    ],
     "wof:belongsto":[
         85802989,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600373,
         "sg:id":"SG_2V00hkBkwByZsQrt6QKcj4_36.330192_-119.284204@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"ff29d8252e5088ed7eed356f5dd58be8",
+    "wof:geomhash":"47247619777d410e77d6cacce5db726a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":169535343,
-    "wof:lastmodified":1509199777,
-    "wof:name":"Imagine U Children's Museum",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Imagine U Children'S Museum",
     "wof:parent_id":85802989,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.284204,
-    36.330192,
-    -119.284204,
-    36.330192
+    -119.28524,
+    36.33027,
+    -119.28524,
+    36.33027
 ],
-  "geometry": {"coordinates":[-119.284204,36.330192],"type":"Point"}
+  "geometry": {"coordinates":[-119.28524,36.33027],"type":"Point"}
 }

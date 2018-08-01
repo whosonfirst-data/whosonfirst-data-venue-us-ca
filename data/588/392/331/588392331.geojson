@@ -2,17 +2,22 @@
   "id": 588392331,
   "type": "Feature",
   "properties": {
-    "addr:full":"3030 20th St San Francisco CA 94110",
+    "addr:city":"San Francisco",
+    "addr:full":"3030 20Th Street San Francisco, Ca 94110-2780",
+    "addr:house_number":"3030",
     "addr:housenumber":"3030",
-    "addr:postcode":"94110",
+    "addr:phone":"+1 415-863-2141",
+    "addr:postcode":"94110-2780",
+    "addr:road":"20Th Street",
+    "addr:state":"CA",
     "addr:street":"20Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.41125,37.759288,-122.41125,37.759288",
-    "geom:latitude":37.759288,
-    "geom:longitude":-122.41125,
+    "geom:bbox":"-122.41101,37.7592,-122.41101,37.7592",
+    "geom:latitude":37.7592,
+    "geom:longitude":-122.41101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -31,7 +36,11 @@
     "sg:postcode":"94110",
     "sg:province":"CA",
     "sg:website":"www.soex.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         85834637,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602192,
         "sfgov_rbl:id":"0370175-01-001",
         "sg:id":"SG_6HXcavJ9kQFkU61q4D367a_37.759288_-122.411250@1303263316"
     },
     "wof:country":"US",
-    "wof:geomhash":"9d03fe8f8a7afb0269845c570c8a42d1",
+    "wof:geomhash":"cefa58a34ab6882b7ef4b7c36e3e6b23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":588392331,
-    "wof:lastmodified":1509202034,
-    "wof:name":"Southern Exposure Gallery",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Southern Exposure",
     "wof:parent_id":85834637,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.41125,
-    37.759288,
-    -122.41125,
-    37.759288
+    -122.41101,
+    37.7592,
+    -122.41101,
+    37.7592
 ],
-  "geometry": {"coordinates":[-122.41125,37.759288],"type":"Point"}
+  "geometry": {"coordinates":[-122.41101,37.7592],"type":"Point"}
 }

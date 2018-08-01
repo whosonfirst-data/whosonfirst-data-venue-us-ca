@@ -2,20 +2,26 @@
   "id": 269534459,
   "type": "Feature",
   "properties": {
-    "addr:full":"15808 Arrow Blvd Fontana CA 92335",
+    "addr:city":"Fontana",
+    "addr:full":"15808 Arrow Blvd Suite A Fontana, Ca 92335-1253",
+    "addr:house_number":"15808",
     "addr:housenumber":"15808",
-    "addr:postcode":"92335",
+    "addr:phone":"+1 909-434-0460",
+    "addr:postcode":"92335-1253",
+    "addr:road":"Arrow Blvd",
+    "addr:state":"CA",
     "addr:street":"Arrow Blvd",
+    "addr:unit":"Suite A",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.456078,34.099377,-117.456078,34.099377",
-    "geom:latitude":34.099377,
-    "geom:longitude":-117.456078,
+    "geom:bbox":"-117.45989,34.09997,-117.45989,34.09997",
+    "geom:latitude":34.09997,
+    "geom:longitude":-117.45989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"15808 Arrow Blvd",
     "sg:city":"Fontana",
@@ -33,7 +39,14 @@
     "sg:tags":[
         "fraternal"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525479,
+        102531373,
+        102530561,
+        102528835,
+        102533575
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -43,10 +56,11 @@
     "wof:brand_id":420574107,
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601417,
         "sg:id":"SG_3JiwJmuLAo6qYO7nggB7MQ_34.099377_-117.456078@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"e23a2f45a822ca1f402b51930e6d5d3c",
+    "wof:geomhash":"bb615ac15d1cd656cd759edb1f50ae48",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,8 +73,8 @@
         }
     ],
     "wof:id":269534459,
-    "wof:lastmodified":1509200159,
-    "wof:name":"Knights Of Columbus",
+    "wof:lastmodified":1533149826,
+    "wof:name":"California Knights Of Columbus Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -71,10 +85,10 @@
     ]
 },
   "bbox": [
-    -117.456078,
-    34.099377,
-    -117.456078,
-    34.099377
+    -117.45989,
+    34.09997,
+    -117.45989,
+    34.09997
 ],
-  "geometry": {"coordinates":[-117.45607800000001,34.099377],"type":"Point"}
+  "geometry": {"coordinates":[-117.45989,34.09997],"type":"Point"}
 }

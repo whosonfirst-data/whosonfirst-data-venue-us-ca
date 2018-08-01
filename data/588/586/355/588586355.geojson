@@ -2,20 +2,25 @@
   "id": 588586355,
   "type": "Feature",
   "properties": {
-    "addr:full":"1515 Marlene Court San Jose CA 95118",
+    "addr:city":"San Jose",
+    "addr:full":"1515 Marlene Ct San Jose, Ca 95118",
+    "addr:house_number":"1515",
     "addr:housenumber":"1515",
+    "addr:phone":"+1 408-448-2260",
     "addr:postcode":"95118",
+    "addr:road":"Marlene Ct",
+    "addr:state":"CA",
     "addr:street":"Marlene Court",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.878854,37.257079,-121.878854,37.257079",
-    "geom:latitude":37.257079,
-    "geom:longitude":-121.878854,
+    "geom:bbox":"-121.8787,37.25733,-121.8787,37.25733",
+    "geom:latitude":37.25733,
+    "geom:longitude":-121.8787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1515 Marlene Court",
     "sg:city":"San Jose",
@@ -31,7 +36,10 @@
     "sg:postcode":"95118",
     "sg:province":"CA",
     "sg:website":"www.portraitsinblack.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529
+    ],
     "wof:belongsto":[
         420552779,
         102191575,
@@ -43,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600226,
         "sg:id":"SG_6R6WLuoF3uxU0stnJS9sGd_37.257079_-121.878854@1303263367"
     },
     "wof:country":"US",
-    "wof:geomhash":"7cf4550ddb838bbbfabb577298d99abb",
+    "wof:geomhash":"1b785137a5a75d5c3e01400b981e4898",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":588586355,
-    "wof:lastmodified":1509202153,
+    "wof:lastmodified":1533149824,
     "wof:name":"Portraits In Black",
     "wof:parent_id":420552779,
     "wof:placetype":"venue",
@@ -70,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.878854,
-    37.257079,
-    -121.878854,
-    37.257079
+    -121.8787,
+    37.25733,
+    -121.8787,
+    37.25733
 ],
-  "geometry": {"coordinates":[-121.878854,37.257079],"type":"Point"}
+  "geometry": {"coordinates":[-121.87869999999999,37.25733],"type":"Point"}
 }

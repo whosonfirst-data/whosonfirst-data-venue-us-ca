@@ -2,20 +2,25 @@
   "id": 370775813,
   "type": "Feature",
   "properties": {
-    "addr:full":"181 E Main St San Jacinto CA 92583",
+    "addr:city":"San Jacinto",
+    "addr:full":"181 E Main St San Jacinto, Ca 92583",
+    "addr:house_number":"181",
     "addr:housenumber":"181",
+    "addr:phone":"+1 951-654-4952",
     "addr:postcode":"92583",
+    "addr:road":"E Main St",
+    "addr:state":"CA",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-116.958655,33.783981,-116.958655,33.783981",
-    "geom:latitude":33.783981,
-    "geom:longitude":-116.958655,
+    "geom:bbox":"-116.95822,33.7839,-116.95822,33.7839",
+    "geom:latitude":33.7839,
+    "geom:longitude":-116.95822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"181 E Main St",
     "sg:city":"San Jacinto",
@@ -30,7 +35,11 @@
     "sg:phone":"+1 951 654 4952",
     "sg:postcode":"92583",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529617,
+        102532555
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600136,
         "sg:id":"SG_1MTw2AfZgNNqxSTt0i8643_33.783981_-116.958655@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"f2c373d49c423819b93824180e38358d",
+    "wof:geomhash":"65bbe2c808c1bfc5d21fdd63be78b2f2",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":370775813,
-    "wof:lastmodified":1509200816,
+    "wof:lastmodified":1533149824,
     "wof:name":"San Jacinto Municipal Museum",
     "wof:parent_id":85817611,
     "wof:placetype":"venue",
@@ -66,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.958655,
-    33.783981,
-    -116.958655,
-    33.783981
+    -116.95822,
+    33.7839,
+    -116.95822,
+    33.7839
 ],
-  "geometry": {"coordinates":[-116.95865499999999,33.783981],"type":"Point"}
+  "geometry": {"coordinates":[-116.95822,33.7839],"type":"Point"}
 }

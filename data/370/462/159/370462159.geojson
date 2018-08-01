@@ -2,17 +2,22 @@
   "id": 370462159,
   "type": "Feature",
   "properties": {
-    "addr:full":"1122 W 24th St Los Angeles CA 90007",
+    "addr:city":"Los Angeles",
+    "addr:full":"1122 W 24Th St Los Angeles, Ca 90007-1724",
+    "addr:house_number":"1122",
     "addr:housenumber":"1122",
-    "addr:postcode":"90007",
+    "addr:phone":"+1 213-746-2166",
+    "addr:postcode":"90007-1724",
+    "addr:road":"W 24Th St",
+    "addr:state":"CA",
     "addr:street":"W 24Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.284572,34.034389,-118.284572,34.034389",
-    "geom:latitude":34.034389,
-    "geom:longitude":-118.284572,
+    "geom:bbox":"-118.2845,34.03414,-118.2845,34.03414",
+    "geom:latitude":34.03414,
+    "geom:longitude":-118.2845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -39,7 +44,13 @@
         "performing"
     ],
     "sg:website":"www.panoramaonview.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -50,10 +61,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "lacity_oof:id":"0000119516-0001-8",
+        "mudf:mid":8400602893,
         "sg:id":"SG_46LyZCsEW8t6HNQbGCB1u2_34.034389_-118.284572@1303263147"
     },
     "wof:country":"US",
-    "wof:geomhash":"ca45d01ecc9fa79fa951e1300ef41d8c",
+    "wof:geomhash":"e5021d6cd06ed3305286ed6858d36b85",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":370462159,
-    "wof:lastmodified":1509200743,
+    "wof:lastmodified":1533149829,
     "wof:name":"Velaslavasay Panorama",
     "wof:parent_id":85868339,
     "wof:placetype":"venue",
@@ -78,10 +90,10 @@
     ]
 },
   "bbox": [
-    -118.284572,
-    34.034389,
-    -118.284572,
-    34.034389
+    -118.2845,
+    34.03414,
+    -118.2845,
+    34.03414
 ],
-  "geometry": {"coordinates":[-118.284572,34.034389],"type":"Point"}
+  "geometry": {"coordinates":[-118.28449999999999,34.03414],"type":"Point"}
 }

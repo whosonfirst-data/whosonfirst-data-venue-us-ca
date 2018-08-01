@@ -2,20 +2,25 @@
   "id": 572504725,
   "type": "Feature",
   "properties": {
-    "addr:full":"19300 Ike Jones Rd Costa Mesa CA 92707",
+    "addr:city":"Santa Ana",
+    "addr:full":"19300 Ike Jones Rd Santa Ana, Ca 92707",
+    "addr:house_number":"19300",
     "addr:housenumber":"19300",
+    "addr:phone":"+1 714-210-4585",
     "addr:postcode":"92707",
+    "addr:road":"Ike Jones Rd",
+    "addr:state":"CA",
     "addr:street":"Ike Jones Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.872572,33.674354,-117.872572,33.674354",
-    "geom:latitude":33.674354,
-    "geom:longitude":-117.872572,
+    "geom:bbox":"-117.87138,33.67821,-117.87138,33.67821",
+    "geom:latitude":33.67821,
+    "geom:longitude":-117.87138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"19300 Ike Jones Rd",
     "sg:city":"Costa Mesa",
@@ -31,7 +36,10 @@
     "sg:postcode":"92707",
     "sg:province":"CA",
     "sg:website":"www.lyonairmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534161
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600286,
         "sg:id":"SG_5Cdpn3yGSWn4DYL760KS9Q_33.674354_-117.872572@1303263276"
     },
     "wof:country":"US",
-    "wof:geomhash":"98a65cb8dfe541dd1c53de056dace396",
+    "wof:geomhash":"9c75958e6855ff7a2a3c21197a6cfbc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":572504725,
-    "wof:lastmodified":1509201934,
+    "wof:lastmodified":1533149824,
     "wof:name":"Lyon Air Museum",
     "wof:parent_id":85847111,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.872572,
-    33.674354,
-    -117.872572,
-    33.674354
+    -117.87138,
+    33.67821,
+    -117.87138,
+    33.67821
 ],
-  "geometry": {"coordinates":[-117.87257200000001,33.674354],"type":"Point"}
+  "geometry": {"coordinates":[-117.87138,33.67821],"type":"Point"}
 }

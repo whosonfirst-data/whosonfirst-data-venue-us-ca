@@ -2,20 +2,25 @@
   "id": 236522507,
   "type": "Feature",
   "properties": {
-    "addr:full":"4500 S Laspina St Tulare CA 93274",
+    "addr:city":"Tulare",
+    "addr:full":"4500 S Laspina St Tulare, Ca 93274",
+    "addr:house_number":"4500",
     "addr:housenumber":"4500",
+    "addr:phone":"+1 559-688-1030",
     "addr:postcode":"93274",
+    "addr:road":"S Laspina St",
+    "addr:state":"CA",
     "addr:street":"S Laspina St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.327048,36.169278,-119.327048,36.169278",
-    "geom:latitude":36.169278,
-    "geom:longitude":-119.327048,
+    "geom:bbox":"-119.3247,36.16558,-119.3247,36.16558",
+    "geom:latitude":36.16558,
+    "geom:longitude":-119.3247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"4500 S Laspina St",
     "sg:city":"Tulare",
@@ -31,7 +36,11 @@
     "sg:postcode":"93274",
     "sg:province":"CA",
     "sg:website":"www.farmshow.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527075,
+        102527773
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -41,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600408,
         "sg:id":"SG_410MTXkGr46VPd0DORZwtj_36.169278_-119.327048@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"508bfa83c879ac528506717b7e9ba690",
+    "wof:geomhash":"7dc8c71d0f6e490a8bf7b716d7e6a490",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -57,7 +67,7 @@
         }
     ],
     "wof:id":236522507,
-    "wof:lastmodified":1509200046,
+    "wof:lastmodified":1533149827,
     "wof:name":"Heritage Complex",
     "wof:parent_id":85824871,
     "wof:placetype":"venue",
@@ -67,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.327048,
-    36.169278,
-    -119.327048,
-    36.169278
+    -119.3247,
+    36.16558,
+    -119.3247,
+    36.16558
 ],
-  "geometry": {"coordinates":[-119.327048,36.169278],"type":"Point"}
+  "geometry": {"coordinates":[-119.32470000000001,36.16558],"type":"Point"}
 }

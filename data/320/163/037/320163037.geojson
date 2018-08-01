@@ -2,20 +2,25 @@
   "id": 320163037,
   "type": "Feature",
   "properties": {
-    "addr:full":"603 Main St Pleasanton CA 94566",
+    "addr:city":"Pleasanton",
+    "addr:full":"603 Main St Pleasanton, Ca 94566",
+    "addr:house_number":"603",
     "addr:housenumber":"603",
+    "addr:phone":"+1 925-462-2766",
     "addr:postcode":"94566",
+    "addr:road":"Main St",
+    "addr:state":"CA",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.874955,37.662504,-121.874955,37.662504",
-    "geom:latitude":37.662504,
-    "geom:longitude":-121.874955,
+    "geom:bbox":"-121.87511,37.66235,-121.87511,37.66235",
+    "geom:latitude":37.66235,
+    "geom:longitude":-121.87511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"603 Main St",
     "sg:city":"Pleasanton",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 925 462 2766",
     "sg:postcode":"94566",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532543
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600244,
         "sg:id":"SG_6CBF8qIin6EtKdyAd7JrAv_37.662504_-121.874955@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"29020caae7e25c6ac45322c9aa5aca52",
+    "wof:geomhash":"0dc3bc724338110930a8f5eab79cfce6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +66,8 @@
         }
     ],
     "wof:id":320163037,
-    "wof:lastmodified":1509200444,
-    "wof:name":"Museum On Main St",
+    "wof:lastmodified":1533149827,
+    "wof:name":"Museum On Main Street",
     "wof:parent_id":85843615,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.874955,
-    37.662504,
-    -121.874955,
-    37.662504
+    -121.87511,
+    37.66235,
+    -121.87511,
+    37.66235
 ],
-  "geometry": {"coordinates":[-121.874955,37.662504],"type":"Point"}
+  "geometry": {"coordinates":[-121.87511000000001,37.66235],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 588312727,
   "type": "Feature",
   "properties": {
-    "addr:full":"3015 Airpark Dr Santa Maria CA 93455",
+    "addr:city":"Santa Maria",
+    "addr:full":"3015 Airpark Dr Santa Maria, Ca 93455-1821",
+    "addr:house_number":"3015",
     "addr:housenumber":"3015",
-    "addr:postcode":"93455",
+    "addr:phone":"+1 805-922-8758",
+    "addr:postcode":"93455-1821",
+    "addr:road":"Airpark Dr",
+    "addr:state":"CA",
     "addr:street":"Airpark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.447998,34.901001,-120.447998,34.901001",
-    "geom:latitude":34.901001,
-    "geom:longitude":-120.447998,
+    "geom:bbox":"-120.4517,34.9032,-120.4517,34.9032",
+    "geom:latitude":34.9032,
+    "geom:longitude":-120.4517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"3015 Airpark Dr",
     "sg:city":"Santa Maria",
@@ -30,18 +35,25 @@
     "sg:phone":"+1 805 922 8758",
     "sg:postcode":"93455",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527447,
+        102527841
+    ],
+    "wof:belongsto":[
+        420552455
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601883,
         "sg:id":"SG_6iLPaaFT6GsLdlqFbnYPbT_34.901001_-120.447998@1303263296"
     },
     "wof:country":"US",
-    "wof:geomhash":"cb3fca83e7579764e4dc30d46c9a6096",
+    "wof:geomhash":"666185d259b101f1262775c3e85c0221",
     "wof:hierarchy":[],
     "wof:id":588312727,
-    "wof:lastmodified":1509201984,
-    "wof:name":"Santa Maria Museum of Flight",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Santa Maria Museum Of Flight",
     "wof:parent_id":420552455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -50,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -120.447998,
-    34.901001,
-    -120.447998,
-    34.901001
+    -120.4517,
+    34.9032,
+    -120.4517,
+    34.9032
 ],
-  "geometry": {"coordinates":[-120.447998,34.901001],"type":"Point"}
+  "geometry": {"coordinates":[-120.4517,34.9032],"type":"Point"}
 }

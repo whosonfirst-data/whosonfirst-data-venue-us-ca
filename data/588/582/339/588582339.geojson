@@ -2,20 +2,25 @@
   "id": 588582339,
   "type": "Feature",
   "properties": {
-    "addr:full":"520 S 1st St San Jose CA 95113",
+    "addr:city":"San Jose",
+    "addr:full":"520 S 1St St San Jose, Ca 95113-2806",
+    "addr:house_number":"520",
     "addr:housenumber":"520",
-    "addr:postcode":"95113",
+    "addr:phone":"+1 408-971-0323",
+    "addr:postcode":"95113-2806",
+    "addr:road":"S 1St St",
+    "addr:state":"CA",
     "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.884681,37.3283,-121.884681,37.3283",
-    "geom:latitude":37.3283,
-    "geom:longitude":-121.884681,
+    "geom:bbox":"-121.88402,37.32795,-121.88402,37.32795",
+    "geom:latitude":37.32795,
+    "geom:longitude":-121.88402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"520 S 1st St",
     "sg:city":"San Jose",
@@ -31,7 +36,10 @@
     "sg:postcode":"95113",
     "sg:province":"CA",
     "sg:website":"www.sjquiltmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529
+    ],
     "wof:belongsto":[
         85887731,
         102191575,
@@ -43,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601899,
         "sg:id":"SG_0DFFT3NJySqyoHe78tEinS_37.328300_-121.884681@1303263366"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c10568847165e27eb6d7f70fc3d25e7",
+    "wof:geomhash":"e265fc4f6d468983bc0c61f286c4f49f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":588582339,
-    "wof:lastmodified":1509202150,
-    "wof:name":"San Jose Museum of Quilts & Textiles",
+    "wof:lastmodified":1533149825,
+    "wof:name":"San Jose Museum Of Quilts & Textiles",
     "wof:parent_id":85887731,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -70,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.884681,
-    37.3283,
-    -121.884681,
-    37.3283
+    -121.88402,
+    37.32795,
+    -121.88402,
+    37.32795
 ],
-  "geometry": {"coordinates":[-121.884681,37.3283],"type":"Point"}
+  "geometry": {"coordinates":[-121.88402000000001,37.32795],"type":"Point"}
 }

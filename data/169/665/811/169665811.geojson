@@ -2,20 +2,25 @@
   "id": 169665811,
   "type": "Feature",
   "properties": {
-    "addr:full":"86 Canada Rd Woodside CA 94062",
+    "addr:city":"Woodside",
+    "addr:full":"86 Canada Rd Woodside, Ca 94062-4144",
+    "addr:house_number":"86",
     "addr:housenumber":"86",
-    "addr:postcode":"94062",
+    "addr:phone":"+1 650-364-8300",
+    "addr:postcode":"94062-4144",
+    "addr:road":"Canada Rd",
+    "addr:state":"CA",
     "addr:street":"Canada Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.296521,37.462932,-122.296521,37.462932",
-    "geom:latitude":37.462932,
-    "geom:longitude":-122.296521,
+    "geom:bbox":"-122.30229,37.4686,-122.30229,37.4686",
+    "geom:latitude":37.4686,
+    "geom:longitude":-122.30229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"86 Canada Rd",
     "sg:city":"Woodside",
@@ -33,7 +38,13 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102528839,
+        102529949,
+        102533677
+    ],
     "wof:belongsto":[
         102085387,
         85633793,
@@ -42,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602640,
         "sg:id":"SG_7fMD74N3MntYFFKjQQgdEf_37.462932_-122.296521@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"f1a3f3eab3c02ed4d800b31dc1f92d34",
+    "wof:geomhash":"d3e18d6c27900f7c90a3381e1a892647",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +68,8 @@
         }
     ],
     "wof:id":169665811,
-    "wof:lastmodified":1509199798,
-    "wof:name":"Filoli Ctr",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Filoli Center",
     "wof:parent_id":85865155,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +80,10 @@
     ]
 },
   "bbox": [
-    -122.296521,
-    37.462932,
-    -122.296521,
-    37.462932
+    -122.30229,
+    37.4686,
+    -122.30229,
+    37.4686
 ],
-  "geometry": {"coordinates":[-122.296521,37.462932],"type":"Point"}
+  "geometry": {"coordinates":[-122.30229,37.4686],"type":"Point"}
 }

@@ -2,17 +2,22 @@
   "id": 572009363,
   "type": "Feature",
   "properties": {
-    "addr:full":"19130 Ventura Blvd Tarzana CA 91356",
+    "addr:city":"Tarzana",
+    "addr:full":"19130 Ventura Blvd Tarzana, Ca 91356-3225",
+    "addr:house_number":"19130",
     "addr:housenumber":"19130",
-    "addr:postcode":"91356",
+    "addr:phone":"+1 818-705-1286",
+    "addr:postcode":"91356-3225",
+    "addr:road":"Ventura Blvd",
+    "addr:state":"CA",
     "addr:street":"Ventura Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.549576,34.172552,-118.549576,34.172552",
-    "geom:latitude":34.172552,
-    "geom:longitude":-118.549576,
+    "geom:bbox":"-118.54941,34.17245,-118.54941,34.17245",
+    "geom:latitude":34.17245,
+    "geom:longitude":-118.54941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -36,7 +41,12 @@
         "welfare"
     ],
     "sg:website":"http://www.mytarzana.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102532771
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -48,10 +58,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "lacity_oof:id":"0000013090-0001-0",
+        "mudf:mid":8400602163,
         "sg:id":"SG_1QkzwMLKZKvC4mdhVOoMWu_34.172460_-118.549170@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"ee498dd66a932499e320c665e45ff624",
+    "wof:geomhash":"2ce6bb276025a02c7a2e53d6e9b32515",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +75,8 @@
         }
     ],
     "wof:id":572009363,
-    "wof:lastmodified":1509201664,
-    "wof:name":"Tarzana Community & Cultural Center",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Tarzana Community And Cultural Center",
     "wof:parent_id":85851845,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -78,10 +89,10 @@
     ]
 },
   "bbox": [
-    -118.549576,
-    34.172552,
-    -118.549576,
-    34.172552
+    -118.54941,
+    34.17245,
+    -118.54941,
+    34.17245
 ],
-  "geometry": {"coordinates":[-118.549576,34.172552],"type":"Point"}
+  "geometry": {"coordinates":[-118.54940999999999,34.17245],"type":"Point"}
 }

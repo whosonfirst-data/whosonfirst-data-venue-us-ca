@@ -2,17 +2,22 @@
   "id": 371004955,
   "type": "Feature",
   "properties": {
-    "addr:full":"3200 Washington St San Francisco CA 94115",
+    "addr:city":"San Francisco",
+    "addr:full":"3200 Washington St San Francisco, Ca 94115-1622",
+    "addr:house_number":"3200",
     "addr:housenumber":"3200",
-    "addr:postcode":"94115",
+    "addr:phone":"+1 415-474-0172",
+    "addr:postcode":"94115-1622",
+    "addr:road":"Washington St",
+    "addr:state":"CA",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.44733,37.789941,-122.44733,37.789941",
-    "geom:latitude":37.789941,
-    "geom:longitude":-122.44733,
+    "geom:bbox":"-122.44637,37.79015,-122.44637,37.79015",
+    "geom:latitude":37.79015,
+    "geom:longitude":-122.44637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,11 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602207,
         "sfgov_rbl:id":"0403698-01-001",
         "sg:id":"SG_4xnsE05uBnhYot48HFySEo_37.789941_-122.447330@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"d8bc75c74752abde547535b51612ae66",
+    "wof:geomhash":"706453fb53a7c06fedea23bf4d0ff79f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":371004955,
-    "wof:lastmodified":1509200871,
+    "wof:lastmodified":1533149828,
     "wof:name":"Maybeck Foundation",
     "wof:parent_id":85865911,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -122.44733,
-    37.789941,
-    -122.44733,
-    37.789941
+    -122.44637,
+    37.79015,
+    -122.44637,
+    37.79015
 ],
-  "geometry": {"coordinates":[-122.44732999999999,37.789941],"type":"Point"}
+  "geometry": {"coordinates":[-122.44637,37.79015],"type":"Point"}
 }

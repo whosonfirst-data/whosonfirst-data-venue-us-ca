@@ -2,20 +2,25 @@
   "id": 269534183,
   "type": "Feature",
   "properties": {
-    "addr:full":"289 S K St Dinuba CA 93618",
+    "addr:city":"Dinuba",
+    "addr:full":"289 S K St Dinuba, Ca 93618",
+    "addr:house_number":"289",
     "addr:housenumber":"289",
+    "addr:phone":"+1 559-591-2144",
     "addr:postcode":"93618",
+    "addr:road":"S K St",
+    "addr:state":"CA",
     "addr:street":"S K St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.387209,36.539712,-119.387209,36.539712",
-    "geom:latitude":36.539712,
-    "geom:longitude":-119.387209,
+    "geom:bbox":"-119.38736,36.53966,-119.38736,36.53966",
+    "geom:latitude":36.53966,
+    "geom:longitude":-119.38736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"289 S K St",
     "sg:city":"Dinuba",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 559 591 2144",
     "sg:postcode":"93618",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527773
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600591,
         "sg:id":"SG_7SqLpuVEFIN0kGnrtTFBop_36.539712_-119.387209@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"9228af895a8d19b18fe0f07683098339",
+    "wof:geomhash":"6d78189524fe9e216c5e50729bce3344",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":269534183,
-    "wof:lastmodified":1509200160,
+    "wof:lastmodified":1533149826,
     "wof:name":"Alta District Museum",
     "wof:parent_id":85818191,
     "wof:placetype":"venue",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.387209,
-    36.539712,
-    -119.387209,
-    36.539712
+    -119.38736,
+    36.53966,
+    -119.38736,
+    36.53966
 ],
-  "geometry": {"coordinates":[-119.387209,36.539712],"type":"Point"}
+  "geometry": {"coordinates":[-119.38736,36.53966],"type":"Point"}
 }

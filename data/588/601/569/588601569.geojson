@@ -2,17 +2,22 @@
   "id": 588601569,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 S Winchester Blvd San Jose CA 95128",
+    "addr:city":"San Jose",
+    "addr:full":"525 S Winchester Blvd San Jose, Ca 95128",
+    "addr:house_number":"525",
     "addr:housenumber":"525",
+    "addr:phone":"+1 408-247-2101",
     "addr:postcode":"95128",
+    "addr:road":"S Winchester Blvd",
+    "addr:state":"CA",
     "addr:street":"S Winchester Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.951042,37.318334,-121.951042,37.318334",
-    "geom:latitude":37.318334,
-    "geom:longitude":-121.951042,
+    "geom:bbox":"-121.95011,37.31793,-121.95011,37.31793",
+    "geom:latitude":37.31793,
+    "geom:longitude":-121.95011,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -48,7 +53,11 @@
         "historical"
     ],
     "sg:website":"www.winchestermysteryhouse.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527529,
+        102533677
+    ],
     "wof:belongsto":[
         85887571,
         102191575,
@@ -60,11 +69,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600001,
         "osm:way":32791704,
         "sg:id":"SG_471UqS6qZgt6gzN73kt9pg_37.318334_-121.951042@1303263371"
     },
     "wof:country":"US",
-    "wof:geomhash":"a3545ba9c6047c941b40cf21fa6b9fb9",
+    "wof:geomhash":"c7408ba6823e494e30f3af0ac0fa87c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +88,7 @@
         }
     ],
     "wof:id":588601569,
-    "wof:lastmodified":1510941913,
+    "wof:lastmodified":1533149824,
     "wof:name":"Winchester Mystery House",
     "wof:parent_id":85887571,
     "wof:placetype":"venue",
@@ -94,10 +104,10 @@
     ]
 },
   "bbox": [
-    -121.951042,
-    37.318334,
-    -121.951042,
-    37.318334
+    -121.95011,
+    37.31793,
+    -121.95011,
+    37.31793
 ],
-  "geometry": {"coordinates":[-121.951042,37.318334],"type":"Point"}
+  "geometry": {"coordinates":[-121.95011,37.31793],"type":"Point"}
 }

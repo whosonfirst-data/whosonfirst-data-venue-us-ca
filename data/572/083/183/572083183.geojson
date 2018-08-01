@@ -2,17 +2,24 @@
   "id": 572083183,
   "type": "Feature",
   "properties": {
-    "addr:full":"9341 Venice Blvd Culver City CA 90232",
+    "addr:city":"Culver City",
+    "addr:full":"9341 Venice Blvd Culver City, Ca 90232-2621",
+    "addr:house_number":"9341",
     "addr:housenumber":"9341",
-    "addr:postcode":"90232",
+    "addr:phone":"+1 310-836-6131",
+    "addr:postcode":"90232-2621",
+    "addr:road":"Venice Blvd",
+    "addr:state":"CA",
     "addr:street":"Venice Blvd",
+    "date:inception_lower":"1988-01-01",
+    "date:inception_upper":"1988-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1988",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.394589,34.025848,-118.394589,34.025848",
-    "geom:latitude":34.025848,
-    "geom:longitude":-118.394589,
+    "geom:bbox":"-118.39461,34.02602,-118.39461,34.02602",
+    "geom:latitude":34.02602,
+    "geom:longitude":-118.39461,
     "iso:country":"US",
     "mz:categories":[
         "do_and_see:fun=museum"
@@ -34,7 +41,14 @@
     "sg:postcode":"90232",
     "sg:province":"CA",
     "sg:website":"www.mjt.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -45,10 +59,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602802,
         "sg:id":"SG_4SDKbu0KidSBVoy0z7bX6o_34.025875_-118.394911@1293134755"
     },
     "wof:country":"US",
-    "wof:geomhash":"4067486603e27cb36fc1f5b6b5040771",
+    "wof:geomhash":"3e0723956fc07d269eee1b87e9c501d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +76,8 @@
         }
     ],
     "wof:id":572083183,
-    "wof:lastmodified":1509201687,
-    "wof:name":"The Museum of Jurassic Technology",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Museum Of Jurassic Technology",
     "wof:parent_id":85885825,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -71,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.394589,
-    34.025848,
-    -118.394589,
-    34.025848
+    -118.39461,
+    34.02602,
+    -118.39461,
+    34.02602
 ],
-  "geometry": {"coordinates":[-118.394589,34.025848],"type":"Point"}
+  "geometry": {"coordinates":[-118.39461,34.02602],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 202548763,
   "type": "Feature",
   "properties": {
-    "addr:full":"356 Main St Alleghany CA 95910",
+    "addr:city":"Alleghany",
+    "addr:full":"356 Main St Alleghany, Ca 95910",
+    "addr:house_number":"356",
     "addr:housenumber":"356",
+    "addr:phone":"+1 530-287-3330",
     "addr:postcode":"95910",
+    "addr:road":"Main St",
+    "addr:state":"CA",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.843275,39.471988,-120.843275,39.471988",
-    "geom:latitude":39.471988,
-    "geom:longitude":-120.843275,
+    "geom:bbox":"-120.84712,39.47579,-120.84712,39.47579",
+    "geom:latitude":39.47579,
+    "geom:longitude":-120.84712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"356 Main St",
     "sg:city":"Alleghany",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 530 287 3330",
     "sg:postcode":"95910",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600039,
         "sg:id":"SG_5js4ooj8O8NGSlOImqEtJ5_39.471988_-120.843275@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"ed5c829cf724198c899fdae339eb3d6d",
+    "wof:geomhash":"3ebe1f35401443e8874c94b0d816162e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":202548763,
-    "wof:lastmodified":1509199885,
+    "wof:lastmodified":1533149826,
     "wof:name":"Underground Gold Miners Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -120.843275,
-    39.471988,
-    -120.843275,
-    39.471988
+    -120.84712,
+    39.47579,
+    -120.84712,
+    39.47579
 ],
-  "geometry": {"coordinates":[-120.84327500000001,39.471988],"type":"Point"}
+  "geometry": {"coordinates":[-120.84712,39.47579],"type":"Point"}
 }

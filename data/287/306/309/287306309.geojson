@@ -2,20 +2,26 @@
   "id": 287306309,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 N 10th St Taft CA 93268",
+    "addr:city":"Taft",
+    "addr:full":"915 N 10Th St Ste 2 Taft, Ca 93268-2204",
+    "addr:house_number":"915",
     "addr:housenumber":"915",
-    "addr:postcode":"93268",
+    "addr:phone":"+1 661-765-7371",
+    "addr:postcode":"93268-2204",
+    "addr:road":"N 10Th St",
+    "addr:state":"CA",
     "addr:street":"N 10Th St",
+    "addr:unit":"Ste 2",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.465217,35.145543,-119.465217,35.145543",
-    "geom:latitude":35.145543,
-    "geom:longitude":-119.465217,
+    "geom:bbox":"-119.45554,35.1482,-119.45554,35.1482",
+    "geom:latitude":35.1482,
+    "geom:longitude":-119.45554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"915 N 10th St",
     "sg:city":"Taft",
@@ -34,7 +40,8 @@
         "attraction",
         "tourist"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -43,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400601956,
         "sg:id":"SG_0NCNg8QcybTugAtAAjKfit_35.145543_-119.465217@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"a243a300b864f75b3a10f5b29d2f1c02",
+    "wof:geomhash":"0aed44d6ec64441fcf8fa50165ec6984",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -59,7 +67,7 @@
         }
     ],
     "wof:id":287306309,
-    "wof:lastmodified":1509200328,
+    "wof:lastmodified":1533149827,
     "wof:name":"Fort Preservation Society",
     "wof:parent_id":85851755,
     "wof:placetype":"venue",
@@ -72,10 +80,10 @@
     ]
 },
   "bbox": [
-    -119.465217,
-    35.145543,
-    -119.465217,
-    35.145543
+    -119.45554,
+    35.1482,
+    -119.45554,
+    35.1482
 ],
-  "geometry": {"coordinates":[-119.465217,35.145543],"type":"Point"}
+  "geometry": {"coordinates":[-119.45554,35.1482],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 572317631,
   "type": "Feature",
   "properties": {
-    "addr:full":"10463 Austin Dr Spring Valley CA 91978",
+    "addr:city":"Spring Valley",
+    "addr:full":"10463 Austin Dr Spring Valley, Ca 91978",
+    "addr:house_number":"10463",
     "addr:housenumber":"10463",
+    "addr:phone":"+1 858-505-9020",
     "addr:postcode":"91978",
+    "addr:road":"Austin Dr",
+    "addr:state":"CA",
     "addr:street":"Austin Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-116.965529,32.731433,-116.965529,32.731433",
-    "geom:latitude":32.731433,
-    "geom:longitude":-116.965529,
+    "geom:bbox":"-116.96944,32.73079,-116.96944,32.73079",
+    "geom:latitude":32.73079,
+    "geom:longitude":-116.96944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"10463 Austin Dr",
     "sg:city":"Spring Valley",
@@ -30,7 +35,13 @@
     "sg:phone":"+1 619 660 0174",
     "sg:postcode":"91978",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531019,
+        102530127,
+        102528287,
+        102528997
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600324,
         "sg:id":"SG_7XsODESRg4x0fdgIc6BjFA_32.731433_-116.965529@1303263230"
     },
     "wof:country":"US",
-    "wof:geomhash":"1a4ff13aa1cbe9505214eb4293ad436d",
+    "wof:geomhash":"9fe17b3d515d5b5b0841aa401553ec7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":572317631,
-    "wof:lastmodified":1509201808,
+    "wof:lastmodified":1533149825,
     "wof:name":"Japanese American Historical Society",
     "wof:parent_id":85828943,
     "wof:placetype":"venue",
@@ -67,10 +79,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -116.965529,
-    32.731433,
-    -116.965529,
-    32.731433
+    -116.96944,
+    32.73079,
+    -116.96944,
+    32.73079
 ],
-  "geometry": {"coordinates":[-116.965529,32.731433],"type":"Point"}
+  "geometry": {"coordinates":[-116.96944000000001,32.73079],"type":"Point"}
 }

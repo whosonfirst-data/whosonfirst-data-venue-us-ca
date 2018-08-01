@@ -2,20 +2,24 @@
   "id": 220006403,
   "type": "Feature",
   "properties": {
-    "addr:full":"1540 Marchbanks Dr Walnut Creek CA 94598",
+    "addr:city":"Walnut Creek",
+    "addr:full":"1540 Marchbanks Drive Walnut Creek, Ca 94598",
+    "addr:house_number":"1540",
     "addr:housenumber":"1540",
     "addr:postcode":"94598",
+    "addr:road":"Marchbanks Drive",
+    "addr:state":"CA",
     "addr:street":"Marchbanks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.04566,37.917989,-122.04566,37.917989",
-    "geom:latitude":37.917989,
-    "geom:longitude":-122.04566,
+    "geom:bbox":"-122.04517,37.91795,-122.04517,37.91795",
+    "geom:latitude":37.91795,
+    "geom:longitude":-122.04517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1540 Marchbanks Dr",
     "sg:city":"Walnut Creek",
@@ -30,7 +34,10 @@
     "sg:phone":"+1 925 947 1678",
     "sg:postcode":"94598",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532775
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502150,
         "sg:id":"SG_0HlSszT3j2usry8ETFRbQQ_37.917989_-122.045660@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"45336adfa6f1b877eb5e1039d0edeeb4",
+    "wof:geomhash":"53440245f146e6c6f001308011fc4b48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,8 +65,8 @@
         }
     ],
     "wof:id":220006403,
-    "wof:lastmodified":1509199993,
-    "wof:name":"Gardens At Heather Farm Inc",
+    "wof:lastmodified":1533149826,
+    "wof:name":"Gardens At Heather Farms",
     "wof:parent_id":85888187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -67,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.04566,
-    37.917989,
-    -122.04566,
-    37.917989
+    -122.04517,
+    37.91795,
+    -122.04517,
+    37.91795
 ],
-  "geometry": {"coordinates":[-122.04566,37.917989],"type":"Point"}
+  "geometry": {"coordinates":[-122.04517,37.91795],"type":"Point"}
 }

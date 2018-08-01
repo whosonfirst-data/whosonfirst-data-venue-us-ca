@@ -2,17 +2,22 @@
   "id": 588377641,
   "type": "Feature",
   "properties": {
-    "addr:full":"685 Mission Street San Francisco CA 94105",
+    "addr:city":"San Francisco",
+    "addr:full":"685 Mission St San Francisco, Ca 94105-4126",
+    "addr:house_number":"685",
     "addr:housenumber":"685",
-    "addr:postcode":"94105",
+    "addr:phone":"+1 415-358-7200",
+    "addr:postcode":"94105-4126",
+    "addr:road":"Mission St",
+    "addr:state":"CA",
     "addr:street":"Mission Street",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.402,37.786499,-122.402,37.786499",
-    "geom:latitude":37.786499,
-    "geom:longitude":-122.402,
+    "geom:bbox":"-122.40104,37.7869,-122.40104,37.7869",
+    "geom:latitude":37.7869,
+    "geom:longitude":-122.40104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -31,7 +36,11 @@
     "sg:postcode":"94105",
     "sg:province":"CA",
     "sg:website":"www.moadsf.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041
+    ],
     "wof:belongsto":[
         1108831951,
         85865939,
@@ -43,12 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602482,
         "osm:node":415567060,
         "sfgov_rbl:id":"0475913-01-001",
         "sg:id":"SG_6FPEJpzg3daoidrLrva5Nv_37.786499_-122.402000@1303263313"
     },
     "wof:country":"US",
-    "wof:geomhash":"7fc4a2159d60007a936c24af95c546a7",
+    "wof:geomhash":"42a4d37c813ae45eec7e94549f5023c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":588377641,
-    "wof:lastmodified":1510943830,
-    "wof:name":"Museum of the African Diaspora",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Museum Of The African Diaspora",
     "wof:parent_id":1108831951,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -72,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.402,
-    37.786499,
-    -122.402,
-    37.786499
+    -122.40104,
+    37.7869,
+    -122.40104,
+    37.7869
 ],
-  "geometry": {"coordinates":[-122.402,37.786499],"type":"Point"}
+  "geometry": {"coordinates":[-122.40103999999999,37.7869],"type":"Point"}
 }

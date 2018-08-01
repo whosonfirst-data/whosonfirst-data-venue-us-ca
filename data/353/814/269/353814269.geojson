@@ -2,20 +2,25 @@
   "id": 353814269,
   "type": "Feature",
   "properties": {
-    "addr:full":"5564 Almond St Paradise CA 95969",
+    "addr:city":"Paradise",
+    "addr:full":"5564 Almond St Paradise, Ca 95969-4502",
+    "addr:house_number":"5564",
     "addr:housenumber":"5564",
-    "addr:postcode":"95969",
+    "addr:phone":"+1 530-877-7402",
+    "addr:postcode":"95969-4502",
+    "addr:road":"Almond St",
+    "addr:state":"CA",
     "addr:street":"Almond St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.62544,39.753108,-121.62544,39.753108",
-    "geom:latitude":39.753108,
-    "geom:longitude":-121.62544,
+    "geom:bbox":"-121.62515,39.75328,-121.62515,39.75328",
+    "geom:latitude":39.75328,
+    "geom:longitude":-121.62515,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"5564 Almond St",
     "sg:city":"Paradise",
@@ -35,7 +40,10 @@
         "instruction",
         "art"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531399
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -45,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602559,
         "sg:id":"SG_1wapVFHD1diKubZrxRQWeT_39.753108_-121.625440@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"4211ab126a06767119e080c7a3384517",
+    "wof:geomhash":"5c13a5759d3ad28af72cf6ad111a6c2e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -61,8 +70,8 @@
         }
     ],
     "wof:id":353814269,
-    "wof:lastmodified":1509200602,
-    "wof:name":"Paradise Art Ctr",
+    "wof:lastmodified":1533149829,
+    "wof:name":"Paradise Art Center",
     "wof:parent_id":85851079,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -75,10 +84,10 @@
     ]
 },
   "bbox": [
-    -121.62544,
-    39.753108,
-    -121.62544,
-    39.753108
+    -121.62515,
+    39.75328,
+    -121.62515,
+    39.75328
 ],
-  "geometry": {"coordinates":[-121.62544,39.753108],"type":"Point"}
+  "geometry": {"coordinates":[-121.62515,39.75328],"type":"Point"}
 }

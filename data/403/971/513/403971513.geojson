@@ -2,17 +2,22 @@
   "id": 403971513,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 E M St Wilmington CA 90744",
+    "addr:city":"Wilmington",
+    "addr:full":"401 E M St Wilmington, Ca 90744",
+    "addr:house_number":"401",
     "addr:housenumber":"401",
+    "addr:phone":"+1 310-548-7777",
     "addr:postcode":"90744",
+    "addr:road":"E M St",
+    "addr:state":"CA",
     "addr:street":"E M St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.259003,33.789001,-118.259003,33.789001",
-    "geom:latitude":33.789001,
-    "geom:longitude":-118.259003,
+    "geom:bbox":"-118.2598,33.78909,-118.2598,33.78909",
+    "geom:latitude":33.78909,
+    "geom:longitude":-118.2598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -31,18 +36,24 @@
     "sg:postcode":"90744",
     "sg:province":"CA",
     "sg:website":"www.banningmuseum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531511,
+        102528985,
+        102533795
+    ],
     "wof:belongsto":[
         85633793,
         85688637
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600581,
         "osm:way":407808585,
         "sg:id":"SG_5upmYBtZIGP2XgWv1sx6xB_33.789001_-118.259003@1303263197"
     },
     "wof:country":"US",
-    "wof:geomhash":"be50bec7a08335d56cc5a25a18b3170f",
+    "wof:geomhash":"45060d13f7a40e65960f1c344527bbd8",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +65,7 @@
         }
     ],
     "wof:id":403971513,
-    "wof:lastmodified":1510942773,
+    "wof:lastmodified":1533149824,
     "wof:name":"Banning Residence Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -64,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.259003,
-    33.789001,
-    -118.259003,
-    33.789001
+    -118.2598,
+    33.78909,
+    -118.2598,
+    33.78909
 ],
-  "geometry": {"coordinates":[-118.25900300000001,33.789001],"type":"Point"}
+  "geometry": {"coordinates":[-118.2598,33.78909],"type":"Point"}
 }

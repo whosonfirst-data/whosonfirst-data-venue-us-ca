@@ -2,20 +2,25 @@
   "id": 588264055,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 W Malvern Ave Fullerton CA 92833",
+    "addr:city":"Fullerton",
+    "addr:full":"1201 W Malvern Ave Fullerton, Ca 92833-2429",
+    "addr:house_number":"1201",
     "addr:housenumber":"1201",
-    "addr:postcode":"92833",
+    "addr:phone":"+1 714-738-6595",
+    "addr:postcode":"92833-2429",
+    "addr:road":"W Malvern Ave",
+    "addr:state":"CA",
     "addr:street":"W Malvern Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.944,33.875198,-117.944,33.875198",
-    "geom:latitude":33.875198,
-    "geom:longitude":-117.944,
+    "geom:bbox":"-117.94422,33.87525,-117.94422,33.87525",
+    "geom:latitude":33.87525,
+    "geom:longitude":-117.94422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1201 W Malvern Ave",
     "sg:city":"Fullerton",
@@ -34,7 +39,12 @@
         "venue"
     ],
     "sg:website":"themuck.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524749,
+        102534161,
+        102528985
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -45,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602936,
         "sg:id":"SG_3ONWMZh7A0KNNHnf9UErxY_33.875198_-117.944000@1303263284"
     },
     "wof:country":"US",
-    "wof:geomhash":"1746ad55b7805067b30c2d0a1f19086e",
+    "wof:geomhash":"e2fef9e8ec929c4d2786d92dc2df4775",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +72,7 @@
         }
     ],
     "wof:id":588264055,
-    "wof:lastmodified":1509201953,
+    "wof:lastmodified":1533149824,
     "wof:name":"Muckenthaler Cultural Center",
     "wof:parent_id":85877591,
     "wof:placetype":"venue",
@@ -73,10 +84,10 @@
     ]
 },
   "bbox": [
-    -117.944,
-    33.875198,
-    -117.944,
-    33.875198
+    -117.94422,
+    33.87525,
+    -117.94422,
+    33.87525
 ],
-  "geometry": {"coordinates":[-117.944,33.875198],"type":"Point"}
+  "geometry": {"coordinates":[-117.94422,33.87525],"type":"Point"}
 }

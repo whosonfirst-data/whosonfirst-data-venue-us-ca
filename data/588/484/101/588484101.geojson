@@ -2,20 +2,25 @@
   "id": 588484101,
   "type": "Feature",
   "properties": {
-    "addr:full":"2960 Peralta Oaks Ct Oakland CA 94605",
+    "addr:city":"Oakland",
+    "addr:full":"2960 Peralta Oaks Ct Oakland, Ca 94605-5320",
+    "addr:house_number":"2960",
     "addr:housenumber":"2960",
-    "addr:postcode":"94605",
+    "addr:phone":"+1 510-615-5555",
+    "addr:postcode":"94605-5320",
+    "addr:road":"Peralta Oaks Ct",
+    "addr:state":"CA",
     "addr:street":"Peralta Oaks Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.143997,37.742699,-122.143997,37.742699",
-    "geom:latitude":37.742699,
-    "geom:longitude":-122.143997,
+    "geom:bbox":"-122.14412,37.74262,-122.14412,37.74262",
+    "geom:latitude":37.74262,
+    "geom:longitude":-122.14412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2960 Peralta Oaks Ct",
     "sg:city":"Oakland",
@@ -39,7 +44,11 @@
         "venue"
     ],
     "sg:website":"www.dunsmuir.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531041,
+        102532543
+    ],
     "wof:belongsto":[
         1108794101,
         102191575,
@@ -51,10 +60,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600877,
         "sg:id":"SG_5WTM9rj4lPlfYUZeAlIF86_37.742699_-122.143997@1303263340"
     },
     "wof:country":"US",
-    "wof:geomhash":"f12f05feb5f2795c0475dc6416f55b27",
+    "wof:geomhash":"6edc68141478cff560d05dde2b6910f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,8 +78,8 @@
         }
     ],
     "wof:id":588484101,
-    "wof:lastmodified":1509202091,
-    "wof:name":"Dunsmuir Hellman Historic Estate",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Dunsmuir-Hellman Historic Estate",
     "wof:parent_id":1108794101,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -80,10 +90,10 @@
     ]
 },
   "bbox": [
-    -122.143997,
-    37.742699,
-    -122.143997,
-    37.742699
+    -122.14412,
+    37.74262,
+    -122.14412,
+    37.74262
 ],
-  "geometry": {"coordinates":[-122.143997,37.742699],"type":"Point"}
+  "geometry": {"coordinates":[-122.14412,37.74262],"type":"Point"}
 }

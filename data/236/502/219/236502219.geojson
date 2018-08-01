@@ -2,20 +2,25 @@
   "id": 236502219,
   "type": "Feature",
   "properties": {
-    "addr:full":"696 Monterey St San Luis Obispo CA 93401",
+    "addr:city":"San Luis Obispo",
+    "addr:full":"696 Monterey St San Luis Obispo, Ca 93401",
+    "addr:house_number":"696",
     "addr:housenumber":"696",
+    "addr:phone":"+1 805-543-0638",
     "addr:postcode":"93401",
+    "addr:road":"Monterey St",
+    "addr:state":"CA",
     "addr:street":"Monterey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.665104,35.279803,-120.665104,35.279803",
-    "geom:latitude":35.279803,
-    "geom:longitude":-120.665104,
+    "geom:bbox":"-120.66101,35.27968,-120.66101,35.27968",
+    "geom:latitude":35.27968,
+    "geom:longitude":-120.66101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"696 Monterey St",
     "sg:city":"San Luis Obispo",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 805 543 0638",
     "sg:postcode":"93401",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527351
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -40,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600139,
         "sg:id":"SG_3wc6KMQ9em1koYQMJvKc6F_35.279803_-120.665104@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"9c31d514364e8d2bcc4ce97b017de2f7",
+    "wof:geomhash":"ad9454cce65a62d97eb16a8120fd0f5d",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,8 +65,8 @@
         }
     ],
     "wof:id":236502219,
-    "wof:lastmodified":1509200045,
-    "wof:name":"San Luis Obispo Historical Soc",
+    "wof:lastmodified":1533149825,
+    "wof:name":"San Luis Obispo County Historical Society & Museum",
     "wof:parent_id":85867429,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -66,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -120.665104,
-    35.279803,
-    -120.665104,
-    35.279803
+    -120.66101,
+    35.27968,
+    -120.66101,
+    35.27968
 ],
-  "geometry": {"coordinates":[-120.665104,35.279803],"type":"Point"}
+  "geometry": {"coordinates":[-120.66101,35.27968],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 320146231,
   "type": "Feature",
   "properties": {
-    "addr:full":"397 4th St Gustine CA 95322",
+    "addr:city":"Gustine",
+    "addr:full":"397 4Th St Gustine, Ca 95322",
+    "addr:house_number":"397",
     "addr:housenumber":"397",
+    "addr:phone":"+1 209-854-2344",
     "addr:postcode":"95322",
+    "addr:road":"4Th St",
+    "addr:state":"CA",
     "addr:street":"4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-120.998749,37.257534,-120.998749,37.257534",
-    "geom:latitude":37.257534,
-    "geom:longitude":-120.998749,
+    "geom:bbox":"-121.00582,37.25247,-121.00582,37.25247",
+    "geom:latitude":37.25247,
+    "geom:longitude":-121.00582,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"397 4th St",
     "sg:city":"Gustine",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 209 854 2344",
     "sg:postcode":"95322",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533757
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +47,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600411,
         "sg:id":"SG_0qR1vWZS6DxXYEwZuYZ9Ux_37.257534_-120.998749@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"757c5d55ebf23e9b767ee4cde4692ba8",
+    "wof:geomhash":"b00cf315752c26cc6beb9b5e5adb4c1c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":320146231,
-    "wof:lastmodified":1509200442,
+    "wof:lastmodified":1533149827,
     "wof:name":"Gustine Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -120.998749,
-    37.257534,
-    -120.998749,
-    37.257534
+    -121.00582,
+    37.25247,
+    -121.00582,
+    37.25247
 ],
-  "geometry": {"coordinates":[-120.998749,37.257534],"type":"Point"}
+  "geometry": {"coordinates":[-121.00582,37.25247],"type":"Point"}
 }

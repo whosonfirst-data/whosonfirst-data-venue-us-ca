@@ -2,20 +2,25 @@
   "id": 185745873,
   "type": "Feature",
   "properties": {
-    "addr:full":"1333 Butte House Rd Yuba City CA 95993",
+    "addr:city":"Yuba City",
+    "addr:full":"1333 Butte House Road Yuba City, Ca 95993",
+    "addr:house_number":"1333",
     "addr:housenumber":"1333",
+    "addr:phone":"+1 530-822-7141",
     "addr:postcode":"95993",
+    "addr:road":"Butte House Road",
+    "addr:state":"CA",
     "addr:street":"Butte House Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.636834,39.146025,-121.636834,39.146025",
-    "geom:latitude":39.146025,
-    "geom:longitude":-121.636834,
+    "geom:bbox":"-121.63628,39.14639,-121.63628,39.14639",
+    "geom:latitude":39.14639,
+    "geom:longitude":-121.63628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1333 Butte House Rd",
     "sg:city":"Yuba City",
@@ -30,7 +35,11 @@
     "sg:phone":"+1 530 822 7141",
     "sg:postcode":"95993",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102529727,
+        102530873
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +48,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600484,
         "sg:id":"SG_4ZtoJ6SSIYsUGZ92iOEp1N_39.146025_-121.636834@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"c458a1225dd1ced116749fa3930635b8",
+    "wof:geomhash":"09b8e3a2c006e8eb869b0d82414062d7",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":185745873,
-    "wof:lastmodified":1509199825,
+    "wof:lastmodified":1533149824,
     "wof:name":"Community Memorial Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.636834,
-    39.146025,
-    -121.636834,
-    39.146025
+    -121.63628,
+    39.14639,
+    -121.63628,
+    39.14639
 ],
-  "geometry": {"coordinates":[-121.63683399999999,39.146025],"type":"Point"}
+  "geometry": {"coordinates":[-121.63628,39.14639],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 269750991,
   "type": "Feature",
   "properties": {
-    "addr:full":"1408 Mission Ave San Rafael CA 94901",
+    "addr:city":"San Rafael",
+    "addr:full":"1408 Mission Ave San Rafael, Ca 94915-1560",
+    "addr:house_number":"1408",
     "addr:housenumber":"1408",
-    "addr:postcode":"94901",
+    "addr:phone":"+1 415-485-3328",
+    "addr:postcode":"94915-1560",
+    "addr:road":"Mission Ave",
+    "addr:state":"CA",
     "addr:street":"Mission Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.533268,37.975407,-122.533268,37.975407",
-    "geom:latitude":37.975407,
-    "geom:longitude":-122.533268,
+    "geom:bbox":"-122.53204,37.97262,-122.53204,37.97262",
+    "geom:latitude":37.97262,
+    "geom:longitude":-122.53204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1408 Mission Ave",
     "sg:city":"San Rafael",
@@ -34,7 +39,8 @@
         "village"
     ],
     "sg:website":"www.falkirkculturalcenter.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -45,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600508,
         "sg:id":"SG_0FhSb9CVpdVMi6ZNKmMedC_37.975407_-122.533268@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"4d6b3a5f859ef2bd4f4bdb78d884b7ff",
+    "wof:geomhash":"961780c25681dc903608406f3b90c785",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +68,8 @@
         }
     ],
     "wof:id":269750991,
-    "wof:lastmodified":1509200178,
-    "wof:name":"Falkirk Cultural Ctr",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Falkirk Cultural Center",
     "wof:parent_id":85887915,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -73,10 +80,10 @@
     ]
 },
   "bbox": [
-    -122.533268,
-    37.975407,
-    -122.533268,
-    37.975407
+    -122.53204,
+    37.97262,
+    -122.53204,
+    37.97262
 ],
-  "geometry": {"coordinates":[-122.53326800000001,37.975407],"type":"Point"}
+  "geometry": {"coordinates":[-122.53203999999999,37.97262],"type":"Point"}
 }

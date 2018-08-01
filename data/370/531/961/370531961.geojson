@@ -2,20 +2,25 @@
   "id": 370531961,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 S Grand Ave Los Angeles CA 90012",
+    "addr:city":"Los Angeles",
+    "addr:full":"250 S Grand Ave Los Angeles, Ca 90012-3007",
+    "addr:house_number":"250",
     "addr:housenumber":"250",
-    "addr:postcode":"90012",
+    "addr:phone":"+1 213-621-2766",
+    "addr:postcode":"90012-3007",
+    "addr:road":"S Grand Ave",
+    "addr:state":"CA",
     "addr:street":"S Grand Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.25,34.0541,-118.25,34.0541",
-    "geom:latitude":34.0541,
-    "geom:longitude":-118.25,
+    "geom:bbox":"-118.25084,34.05287,-118.25084,34.05287",
+    "geom:latitude":34.05287,
+    "geom:longitude":-118.25084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"250 S Grand Ave",
     "sg:city":"Los Angeles",
@@ -38,7 +43,14 @@
     "sg:tags":[
         "bookstore"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102524749,
+        102527521,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         1041531599,
         "85865811",
@@ -51,10 +63,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602694,
         "sg:id":"SG_03D7MdyTsiJBTr6j1Q3Umm_34.054100_-118.250000@1303263149"
     },
     "wof:country":"US",
-    "wof:geomhash":"38b0b395ec2325083e3fa6b6c981ffed",
+    "wof:geomhash":"7cd54043c422b69df7af47f2c3392a19",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -69,8 +82,8 @@
         }
     ],
     "wof:id":370531961,
-    "wof:lastmodified":1509200759,
-    "wof:name":"The Moca Store",
+    "wof:lastmodified":1533149830,
+    "wof:name":"Museum Of Contemporary Art",
     "wof:parent_id":1041531599,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -81,10 +94,10 @@
     ]
 },
   "bbox": [
-    -118.25,
-    34.0541,
-    -118.25,
-    34.0541
+    -118.25084,
+    34.05287,
+    -118.25084,
+    34.05287
 ],
-  "geometry": {"coordinates":[-118.25,34.0541],"type":"Point"}
+  "geometry": {"coordinates":[-118.25084,34.05287],"type":"Point"}
 }

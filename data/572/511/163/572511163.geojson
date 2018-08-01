@@ -2,20 +2,25 @@
   "id": 572511163,
   "type": "Feature",
   "properties": {
-    "addr:full":"1302 Industrial Dr Tustin CA 92780",
+    "addr:city":"Tustin",
+    "addr:full":"1302 Industrial Dr Tustin, Ca 92780",
+    "addr:house_number":"1302",
     "addr:housenumber":"1302",
+    "addr:phone":"+1 714-258-3001",
     "addr:postcode":"92780",
+    "addr:road":"Industrial Dr",
+    "addr:state":"CA",
     "addr:street":"Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.831001,33.721401,-117.831001,33.721401",
-    "geom:latitude":33.721401,
-    "geom:longitude":-117.831001,
+    "geom:bbox":"-117.83016,33.72068,-117.83016,33.72068",
+    "geom:latitude":33.72068,
+    "geom:longitude":-117.83016,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1302 Industrial Dr",
     "sg:city":"Tustin",
@@ -31,7 +36,10 @@
     "sg:postcode":"92780",
     "sg:province":"CA",
     "sg:website":"www.marconimuseum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534161
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600283,
         "sg:id":"SG_5JvljqqnSIEoj2mSFVklQO_33.721401_-117.831001@1303263278"
     },
     "wof:country":"US",
-    "wof:geomhash":"c40285d466de9bfb9fd15b56a7a769d8",
+    "wof:geomhash":"83b617b49623565254167a653f9eeedc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":572511163,
-    "wof:lastmodified":1509201937,
+    "wof:lastmodified":1533149826,
     "wof:name":"Marconi Automotive Museum",
     "wof:parent_id":85867375,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.831001,
-    33.721401,
-    -117.831001,
-    33.721401
+    -117.83016,
+    33.72068,
+    -117.83016,
+    33.72068
 ],
-  "geometry": {"coordinates":[-117.831001,33.721401],"type":"Point"}
+  "geometry": {"coordinates":[-117.83016000000001,33.72068],"type":"Point"}
 }

@@ -2,20 +2,24 @@
   "id": 555617899,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Presidential Dr Simi Valley CA 93065",
+    "addr:city":"Simi Valley",
+    "addr:full":"40 Presidential Dr Simi Valley, Ca 93065",
+    "addr:house_number":"40",
     "addr:housenumber":"40",
     "addr:postcode":"93065",
+    "addr:road":"Presidential Dr",
+    "addr:state":"CA",
     "addr:street":"Presidential Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.8146,34.255571,-118.8146,34.255571",
-    "geom:latitude":34.255571,
-    "geom:longitude":-118.8146,
+    "geom:bbox":"-118.81126,34.25747,-118.81126,34.25747",
+    "geom:latitude":34.25747,
+    "geom:longitude":-118.81126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"40 Presidential Dr",
     "sg:city":"Simi Valley",
@@ -34,7 +38,8 @@
         "presidential",
         "library"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -45,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400578,
         "sg:id":"SG_5XMJD6vgLEMO1WG4JdFC08_34.255571_-118.814600@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"b21ceba24c3498756ebc2ab0fb84735c",
+    "wof:geomhash":"4fab74cf56e1d1cda941051678dca2c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +67,8 @@
         }
     ],
     "wof:id":555617899,
-    "wof:lastmodified":1509201450,
-    "wof:name":"Ronald Reagan Presid",
+    "wof:lastmodified":1533149824,
+    "wof:name":"Ronald Reagan Presidential Library And Museum",
     "wof:parent_id":85851245,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -74,10 +80,10 @@
     ]
 },
   "bbox": [
-    -118.8146,
-    34.255571,
-    -118.8146,
-    34.255571
+    -118.81126,
+    34.25747,
+    -118.81126,
+    34.25747
 ],
-  "geometry": {"coordinates":[-118.8146,34.255571],"type":"Point"}
+  "geometry": {"coordinates":[-118.81126,34.25747],"type":"Point"}
 }

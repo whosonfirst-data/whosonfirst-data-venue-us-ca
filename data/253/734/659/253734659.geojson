@@ -2,20 +2,25 @@
   "id": 253734659,
   "type": "Feature",
   "properties": {
-    "addr:full":"720 Las Posas Rd Camarillo CA 93010",
+    "addr:city":"Camarillo",
+    "addr:full":"720 Las Posas Rd Camarillo, Ca 93010",
+    "addr:house_number":"720",
     "addr:housenumber":"720",
+    "addr:phone":"+1 805-482-3660",
     "addr:postcode":"93010",
+    "addr:road":"Las Posas Rd",
+    "addr:state":"CA",
     "addr:street":"Las Posas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-119.06967,34.224262,-119.06967,34.224262",
-    "geom:latitude":34.224262,
-    "geom:longitude":-119.06967,
+    "geom:bbox":"-119.04259,34.22229,-119.04259,34.22229",
+    "geom:latitude":34.22229,
+    "geom:longitude":-119.04259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"720 Las Posas Rd",
     "sg:city":"Camarillo",
@@ -30,7 +35,8 @@
     "sg:phone":"+1 805 482 3660",
     "sg:postcode":"93010",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -39,10 +45,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600143,
         "sg:id":"SG_5hVovE3U4lyX5uo6GfrtcQ_34.224262_-119.069670@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"9e9b7ff1a6a41db6087ac7914dea77e7",
+    "wof:geomhash":"c76e939be35c294440d41205598e10d6",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":253734659,
-    "wof:lastmodified":1533145977,
+    "wof:lastmodified":1533149827,
     "wof:name":"Pleasant Valley Historical",
     "wof:parent_id":85885711,
     "wof:placetype":"venue",
@@ -67,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -119.06967,
-    34.224262,
-    -119.06967,
-    34.224262
+    -119.04259,
+    34.22229,
+    -119.04259,
+    34.22229
 ],
-  "geometry": {"coordinates":[-119.06967,34.224262],"type":"Point"}
+  "geometry": {"coordinates":[-119.04259,34.22229],"type":"Point"}
 }

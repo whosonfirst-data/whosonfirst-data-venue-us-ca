@@ -2,17 +2,24 @@
   "id": 1108963889,
   "type": "Feature",
   "properties": {
-    "addr:full":"California Academy of Sciences, San Francisco, CA, USA",
+    "addr:city":"San Francisco",
+    "addr:full":"55 Music Concourse Drive San Francisco, Ca 94118-4503",
+    "addr:house_number":"55",
     "addr:housenumber":55,
-    "addr:postcode":"94118",
+    "addr:phone":"+1 415-379-8000",
+    "addr:postcode":"94118-4503",
+    "addr:road":"Music Concourse Drive",
+    "addr:state":"CA",
     "addr:street":"Music Concourse Drive",
+    "date:inception_lower":"1874-01-01",
+    "date:inception_upper":"1874-12-31",
     "edtf:cessation":"uuuu",
     "edtf:inception":"1874",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.466239,37.769805,-122.466239,37.769805",
-    "geom:latitude":37.769805,
-    "geom:longitude":-122.466239,
+    "geom:bbox":"-122.46932,37.77025,-122.46932,37.77025",
+    "geom:latitude":37.77025,
+    "geom:longitude":-122.46932,
     "iso:country":"",
     "mz:categories":[
         "do_and_see:fun=science_museum"
@@ -24,7 +31,10 @@
     "name:eng_x_preferred":[
         "California Academy of Sciences"
     ],
-    "src:geom":"mapzen",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -35,12 +45,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500302,
         "osm:way":28695389,
         "sfgov_rbl:id":"0333360-01-001"
     },
     "wof:country":"",
     "wof:created":1494822425,
-    "wof:geomhash":"d834ad199d8ea4574b4791a1a47bff00",
+    "wof:geomhash":"0aa0e75292e15084386ec7a4ab50c1db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,8 +64,8 @@
         }
     ],
     "wof:id":1108963889,
-    "wof:lastmodified":1510943317,
-    "wof:name":"California Academy of Sciences",
+    "wof:lastmodified":1533149825,
+    "wof:name":"California Academy Of Sciences",
     "wof:parent_id":85865925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -63,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.466239,
-    37.769805,
-    -122.466239,
-    37.769805
+    -122.46932,
+    37.77025,
+    -122.46932,
+    37.77025
 ],
-  "geometry": {"coordinates":[-122.466239,37.769805],"type":"Point"}
+  "geometry": {"coordinates":[-122.46932,37.77025],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 353386787,
   "type": "Feature",
   "properties": {
-    "addr:full":"213 Buck Ave Vacaville CA 95688",
+    "addr:city":"Vacaville",
+    "addr:full":"213 Buck Ave Vacaville, Ca 95688-3835",
+    "addr:house_number":"213",
     "addr:housenumber":"213",
-    "addr:postcode":"95688",
+    "addr:phone":"+1 707-447-4513",
+    "addr:postcode":"95688-3835",
+    "addr:road":"Buck Ave",
+    "addr:state":"CA",
     "addr:street":"Buck Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.994603,38.356616,-121.994603,38.356616",
-    "geom:latitude":38.356616,
-    "geom:longitude":-121.994603,
+    "geom:bbox":"-121.99339,38.35658,-121.99339,38.35658",
+    "geom:latitude":38.35658,
+    "geom:longitude":-121.99339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"213 Buck Ave",
     "sg:city":"Vacaville",
@@ -30,7 +35,10 @@
     "sg:phone":"+1 707 447 4513",
     "sg:postcode":"95688",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526823
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +49,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602357,
         "sg:id":"SG_6KbVdbz1ezxGOT9ewVnLgL_38.356616_-121.994603@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"17a95e2ff4bf0de30a34e4c883bb80e6",
+    "wof:geomhash":"92ea2f46e6dda50baa4ee13ad2c10c7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":353386787,
-    "wof:lastmodified":1509200551,
+    "wof:lastmodified":1533149828,
     "wof:name":"Vacaville Museum",
     "wof:parent_id":85830235,
     "wof:placetype":"venue",
@@ -67,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -121.994603,
-    38.356616,
-    -121.994603,
-    38.356616
+    -121.99339,
+    38.35658,
+    -121.99339,
+    38.35658
 ],
-  "geometry": {"coordinates":[-121.994603,38.356616],"type":"Point"}
+  "geometry": {"coordinates":[-121.99339000000001,38.35658],"type":"Point"}
 }

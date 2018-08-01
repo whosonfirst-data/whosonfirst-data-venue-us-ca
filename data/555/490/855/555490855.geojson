@@ -2,20 +2,25 @@
   "id": 555490855,
   "type": "Feature",
   "properties": {
-    "addr:full":"2137 250th St Lomita CA 90717",
+    "addr:city":"Lomita",
+    "addr:full":"2137 250Th St Lomita, Ca 90717",
+    "addr:house_number":"2137",
     "addr:housenumber":"2137",
+    "addr:phone":"+1 310-326-6255",
     "addr:postcode":"90717",
+    "addr:road":"250Th St",
+    "addr:state":"CA",
     "addr:street":"250Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.31873,33.798297,-118.31873,33.798297",
-    "geom:latitude":33.798297,
-    "geom:longitude":-118.31873,
+    "geom:bbox":"-118.31761,33.79393,-118.31761,33.79393",
+    "geom:latitude":33.79393,
+    "geom:longitude":-118.31761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2137 250th St",
     "sg:city":"Lomita",
@@ -30,7 +35,12 @@
     "sg:phone":"+1 310 326 6255",
     "sg:postcode":"90717",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102531511,
+        102528985,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -41,10 +51,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600354,
         "sg:id":"SG_1fSc3HGEiwM2LdpBP8TvQg_33.798297_-118.318730@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"92b14166fa7b471295702f5c073285e2",
+    "wof:geomhash":"5b85cf4547590d1caa82a042c1364c98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +68,7 @@
         }
     ],
     "wof:id":555490855,
-    "wof:lastmodified":1509201409,
+    "wof:lastmodified":1533149825,
     "wof:name":"Lomita Railroad Museum",
     "wof:parent_id":85886287,
     "wof:placetype":"venue",
@@ -67,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -118.31873,
-    33.798297,
-    -118.31873,
-    33.798297
+    -118.31761,
+    33.79393,
+    -118.31761,
+    33.79393
 ],
-  "geometry": {"coordinates":[-118.31873,33.798297],"type":"Point"}
+  "geometry": {"coordinates":[-118.31761,33.79393],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 588497119,
   "type": "Feature",
   "properties": {
-    "addr:full":"666 Bellevue Ave Oakland CA 94610",
+    "addr:city":"Oakland",
+    "addr:full":"666 Bellevue Ave Oakland, Ca 94610",
+    "addr:house_number":"666",
     "addr:housenumber":"666",
+    "addr:phone":"+1 510-763-8409",
     "addr:postcode":"94610",
+    "addr:road":"Bellevue Ave",
+    "addr:state":"CA",
     "addr:street":"Bellevue Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.259003,37.8092,-122.259003,37.8092",
-    "geom:latitude":37.8092,
-    "geom:longitude":-122.259003,
+    "geom:bbox":"-122.25933,37.80695,-122.25933,37.80695",
+    "geom:latitude":37.80695,
+    "geom:longitude":-122.25933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"666 Bellevue Ave",
     "sg:city":"Oakland",
@@ -31,7 +36,12 @@
     "sg:postcode":"94610",
     "sg:province":"CA",
     "sg:website":"web.mac.com/ltferzoco/GSBF/C-N_H...",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041,
+        102532543
+    ],
     "wof:belongsto":[
         420550393,
         102191575,
@@ -43,10 +53,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600424,
         "sg:id":"SG_25c5066ValVhLYHCR9eBw3_37.809200_-122.259003@1303263343"
     },
     "wof:country":"US",
-    "wof:geomhash":"c31d5fb126e0d8d50117aed53fee1201",
+    "wof:geomhash":"b8f094c44c1baa3b15ebfc57ff1b0f59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +71,7 @@
         }
     ],
     "wof:id":588497119,
-    "wof:lastmodified":1509202099,
+    "wof:lastmodified":1533149825,
     "wof:name":"Golden State Bonsai Collection North",
     "wof:parent_id":420550393,
     "wof:placetype":"venue",
@@ -70,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.259003,
-    37.8092,
-    -122.259003,
-    37.8092
+    -122.25933,
+    37.80695,
+    -122.25933,
+    37.80695
 ],
-  "geometry": {"coordinates":[-122.25900300000001,37.8092],"type":"Point"}
+  "geometry": {"coordinates":[-122.25933000000001,37.80695],"type":"Point"}
 }

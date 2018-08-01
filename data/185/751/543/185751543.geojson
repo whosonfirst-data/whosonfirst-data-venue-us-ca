@@ -2,20 +2,25 @@
   "id": 185751543,
   "type": "Feature",
   "properties": {
-    "addr:full":"743 S Lucerne Blvd Los Angeles CA 90005",
+    "addr:city":"Los Angeles",
+    "addr:full":"743 S Lucerne Blvd Los Angeles, Ca 90005-3707",
+    "addr:house_number":"743",
     "addr:housenumber":"743",
-    "addr:postcode":"90005",
+    "addr:phone":"+1 323-931-1277",
+    "addr:postcode":"90005-3707",
+    "addr:road":"S Lucerne Blvd",
+    "addr:state":"CA",
     "addr:street":"S Lucerne Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-118.324838,34.060588,-118.324838,34.060588",
-    "geom:latitude":34.060588,
-    "geom:longitude":-118.324838,
+    "geom:bbox":"-118.3248,34.06116,-118.3248,34.06116",
+    "geom:latitude":34.06116,
+    "geom:longitude":-118.3248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"743 S Lucerne Blvd",
     "sg:city":"Los Angeles",
@@ -34,7 +39,14 @@
         "club"
     ],
     "sg:website":"www.ebellla.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527521,
+        102527917,
+        102531511,
+        102532771,
+        102533795
+    ],
     "wof:belongsto":[
         85688637,
         85633793,
@@ -44,10 +56,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602566,
         "sg:id":"SG_6T84xv4c1jDYFwONCJ6sjt_34.060588_-118.324838@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"8ee0d8ec2c881ddaaa9be7142556fba0",
+    "wof:geomhash":"4fabb89d5dbf493f19c75c816b31c29e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -60,8 +73,8 @@
         }
     ],
     "wof:id":185751543,
-    "wof:lastmodified":1509199827,
-    "wof:name":"Ebell Club Of Los Angeles",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Ebell Of Los Angeles A Corp",
     "wof:parent_id":85886323,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -72,10 +85,10 @@
     ]
 },
   "bbox": [
-    -118.324838,
-    34.060588,
-    -118.324838,
-    34.060588
+    -118.3248,
+    34.06116,
+    -118.3248,
+    34.06116
 ],
-  "geometry": {"coordinates":[-118.324838,34.060588],"type":"Point"}
+  "geometry": {"coordinates":[-118.3248,34.06116],"type":"Point"}
 }

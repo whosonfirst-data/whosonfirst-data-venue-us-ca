@@ -2,20 +2,25 @@
   "id": 572479035,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 E Bay Ave Newport Beach CA 92661",
+    "addr:city":"Newport Beach",
+    "addr:full":"600 East Bay Avenue Newport Beach, Ca 92661-1347",
+    "addr:house_number":"600",
     "addr:housenumber":"600",
-    "addr:postcode":"92661",
+    "addr:phone":"+1 949-675-8915",
+    "addr:postcode":"92661-1347",
+    "addr:road":"East Bay Avenue",
+    "addr:state":"CA",
     "addr:street":"E Bay Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-117.89998,33.603059,-117.89998,33.603059",
-    "geom:latitude":33.603059,
-    "geom:longitude":-117.89998,
+    "geom:bbox":"-117.90052,33.60312,-117.90052,33.60312",
+    "geom:latitude":33.60312,
+    "geom:longitude":-117.90052,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"600 E Bay Ave",
     "sg:city":"Newport Beach",
@@ -31,7 +36,10 @@
     "sg:postcode":"92661",
     "sg:province":"CA",
     "sg:website":"www.nhnm.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102534161
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -42,10 +50,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400602755,
         "sg:id":"SG_58s6vX4TCJqJI9RI0WGwux_33.603059_-117.899980@1303263270"
     },
     "wof:country":"US",
-    "wof:geomhash":"ece0ba541751b978a44dedcbf19c8377",
+    "wof:geomhash":"acd2be1b5b4ecf1722ce9ca02ee61ae3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +67,8 @@
         }
     ],
     "wof:id":572479035,
-    "wof:lastmodified":1509201916,
-    "wof:name":"Newport Harbor Nautical Museum",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Newport Beach Nautical Museum",
     "wof:parent_id":85895881,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -117.89998,
-    33.603059,
-    -117.89998,
-    33.603059
+    -117.90052,
+    33.60312,
+    -117.90052,
+    33.60312
 ],
-  "geometry": {"coordinates":[-117.89998,33.603059],"type":"Point"}
+  "geometry": {"coordinates":[-117.90052,33.60312],"type":"Point"}
 }

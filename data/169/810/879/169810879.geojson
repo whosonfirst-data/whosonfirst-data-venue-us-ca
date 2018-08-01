@@ -2,20 +2,25 @@
   "id": 169810879,
   "type": "Feature",
   "properties": {
-    "addr:full":"17860 Monterey St Morgan Hill CA 95037",
+    "addr:city":"Morgan Hill",
+    "addr:full":"17860 Monterey St Morgan Hill, Ca 95037",
+    "addr:house_number":"17860",
     "addr:housenumber":"17860",
+    "addr:phone":"+1 408-779-5755",
     "addr:postcode":"95037",
+    "addr:road":"Monterey St",
+    "addr:state":"CA",
     "addr:street":"Monterey St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-121.658182,37.134627,-121.658182,37.134627",
-    "geom:latitude":37.134627,
-    "geom:longitude":-121.658182,
+    "geom:bbox":"-121.66221,37.1399,-121.66221,37.1399",
+    "geom:latitude":37.1399,
+    "geom:longitude":-121.66221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"17860 Monterey St",
     "sg:city":"Morgan Hill",
@@ -33,7 +38,10 @@
     "sg:tags":[
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102532133
+    ],
     "wof:belongsto":[
         85688637,
         102191575,
@@ -44,10 +52,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600246,
         "sg:id":"SG_0VFIsxLWHIwCS2zQGduxAM_37.134627_-121.658182@1294081369"
     },
     "wof:country":"US",
-    "wof:geomhash":"b23e66b73f530dc027b19c1f260d82de",
+    "wof:geomhash":"fa6378d3f78a60203c5dd9c56cced8b3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":169810879,
-    "wof:lastmodified":1509199808,
-    "wof:name":"Morgan Hill Historical Society",
+    "wof:lastmodified":1533149825,
+    "wof:name":"Morgan Hill Historical Society Morgan Hill House",
     "wof:parent_id":85831913,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-ca",
@@ -72,10 +81,10 @@
     ]
 },
   "bbox": [
-    -121.658182,
-    37.134627,
-    -121.658182,
-    37.134627
+    -121.66221,
+    37.1399,
+    -121.66221,
+    37.1399
 ],
-  "geometry": {"coordinates":[-121.658182,37.134627],"type":"Point"}
+  "geometry": {"coordinates":[-121.66221,37.1399],"type":"Point"}
 }

@@ -2,20 +2,25 @@
   "id": 588434495,
   "type": "Feature",
   "properties": {
-    "addr:full":"2151 Ferry Pt Alameda CA 94501",
+    "addr:city":"Alameda",
+    "addr:full":"2151 Ferry Pt Alameda, Ca 94501",
+    "addr:house_number":"2151",
     "addr:housenumber":"2151",
+    "addr:phone":"+1 510-522-4262",
     "addr:postcode":"94501",
+    "addr:road":"Ferry Pt",
+    "addr:state":"CA",
     "addr:street":"Ferry Pt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.297862,37.781406,-122.297862,37.781406",
-    "geom:latitude":37.781406,
-    "geom:longitude":-122.297862,
+    "geom:bbox":"-122.2743,37.77145,-122.2743,37.77145",
+    "geom:latitude":37.77145,
+    "geom:longitude":-122.2743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"2151 Ferry Pt",
     "sg:city":"Alameda",
@@ -35,7 +40,12 @@
     "sg:phone":"+1 510 522 4262",
     "sg:postcode":"94501",
     "sg:province":"CA",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527513,
+        102531041,
+        102532543
+    ],
     "wof:belongsto":[
         102529283,
         85885513,
@@ -47,10 +57,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600580,
         "sg:id":"SG_4fooIenth7fAWYnvZiqMiW_37.781406_-122.297862@1303263327"
     },
     "wof:country":"US",
-    "wof:geomhash":"2446a344558caf4e5fa5d8adfc90ca59",
+    "wof:geomhash":"ebcac4cc1f2edc4e6073a21788431f05",
     "wof:hierarchy":[
         {
             "campus_id":102529283,
@@ -64,7 +75,7 @@
         }
     ],
     "wof:id":588434495,
-    "wof:lastmodified":1509202061,
+    "wof:lastmodified":1533149826,
     "wof:name":"Alameda Naval Air Museum",
     "wof:parent_id":102529283,
     "wof:placetype":"venue",
@@ -74,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.297862,
-    37.781406,
-    -122.297862,
-    37.781406
+    -122.2743,
+    37.77145,
+    -122.2743,
+    37.77145
 ],
-  "geometry": {"coordinates":[-122.29786199999999,37.781406],"type":"Point"}
+  "geometry": {"coordinates":[-122.2743,37.77145],"type":"Point"}
 }

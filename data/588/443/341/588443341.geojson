@@ -2,21 +2,26 @@
   "id": 588443341,
   "type": "Feature",
   "properties": {
-    "addr:full":"1311 Washington St Calistoga CA 94515",
+    "addr:city":"Calistoga",
+    "addr:full":"1311 Washington Street Calistoga, Ca 94515",
+    "addr:house_number":"1311",
     "addr:housenumber":"1311",
+    "addr:phone":"+1 707-942-5911",
     "addr:postcode":"94515",
+    "addr:road":"Washington Street",
+    "addr:state":"CA",
     "addr:street":"Washington St",
     "edtf:cessation":"uuuu",
     "edtf:deprecated":"2018-08-01",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.581001,38.578899,-122.581001,38.578899",
-    "geom:latitude":38.578899,
-    "geom:longitude":-122.581001,
+    "geom:bbox":"-122.57972,38.57873,-122.57972,38.57873",
+    "geom:latitude":38.57873,
+    "geom:longitude":-122.57972,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
     "mz:is_retail":-1,
     "sg:address":"1311 Washington St",
     "sg:city":"Calistoga",
@@ -32,17 +37,21 @@
     "sg:postcode":"94515",
     "sg:province":"CA",
     "sg:website":"www.sharpsteen-museum.org/",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533507
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8400600137,
         "sg:id":"SG_4BVt16CihEi8px0beIrL9y_38.578899_-122.581001@1303263329"
     },
     "wof:country":"US",
-    "wof:geomhash":"a076d35a068c30772219d74dfce6c703",
+    "wof:geomhash":"783386d85ff4e17e788ca9d273b72d69",
     "wof:hierarchy":[],
     "wof:id":588443341,
-    "wof:lastmodified":1533145981,
+    "wof:lastmodified":1533149825,
     "wof:name":"Sharpsteen Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -54,10 +63,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.581001,
-    38.578899,
-    -122.581001,
-    38.578899
+    -122.57972,
+    38.57873,
+    -122.57972,
+    38.57873
 ],
-  "geometry": {"coordinates":[-122.581001,38.578899],"type":"Point"}
+  "geometry": {"coordinates":[-122.57971999999999,38.57873],"type":"Point"}
 }
