@@ -2,81 +2,85 @@
   "id": 337602849,
   "type": "Feature",
   "properties": {
-    "addr:full":"860 W Ave L Lancaster CA 93534",
-    "addr:housenumber":"860",
-    "addr:postcode":"93534",
-    "addr:street":"W Ave L",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.14729,34.660207,-118.14729,34.660207",
-    "geom:latitude":34.660207,
-    "geom:longitude":-118.14729,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"860 W Ave L",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "860 W Ave L Lancaster CA 93534",
+    "addr:housenumber": "860",
+    "addr:postcode": "93534",
+    "addr:street": "W Ave L",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.147290,34.660207,-118.147290,34.660207",
+    "geom:latitude": 34.660207,
+    "geom:longitude": -118.14729,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "860 W Ave L",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 942 1163",
-    "sg:postcode":"93534",
-    "sg:province":"CA",
-    "sg:tags":[
-        "operator",
-        "trucking"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 942 1163",
+    "sg:postcode": "93534",
+    "sg:province": "CA",
+    "sg:tags": [
+      "operator",
+      "trucking"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923547,
-        102086957,
-        85851509
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923547,
+      102086957,
+      85851509
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06vymjXI8ki7bQ29VtRdfw_34.660207_-118.147290@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_06vymjXI8ki7bQ29VtRdfw_34.660207_-118.147290@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b7d5c5387c932dc65c37b01f46809055",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923547,
-            "neighbourhood_id":85851509,
-            "region_id":85688637,
-            "venue_id":337602849
-        }
+    "wof:country": "US",
+    "wof:created": 1723323871,
+    "wof:geomhash": "b7d5c5387c932dc65c37b01f46809055",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923547,
+        "neighbourhood_id": 85851509,
+        "region_id": 85688637,
+        "venue_id": 337602849
+      }
     ],
-    "wof:id":337602849,
-    "wof:lastmodified":1509200548,
-    "wof:name":"Northamerican Van Lines",
-    "wof:parent_id":85851509,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "operator",
-        "trucking"
+    "wof:id": 337602849,
+    "wof:lastmodified": 1723323871,
+    "wof:name": "Northamerican Van Lines",
+    "wof:parent_id": 85851509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588315341
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "operator",
+      "trucking"
     ]
-},
+  },
   "bbox": [
     -118.14729,
     34.660207,
     -118.14729,
     34.660207
-],
+  ],
   "geometry": {"coordinates":[-118.14729,34.660207],"type":"Point"}
 }

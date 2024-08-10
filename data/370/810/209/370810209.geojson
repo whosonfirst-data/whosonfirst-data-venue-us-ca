@@ -2,78 +2,82 @@
   "id": 370810209,
   "type": "Feature",
   "properties": {
-    "addr:full":"11285 Santa Monica Blvd Los Angeles CA 90025",
-    "addr:housenumber":"11285",
-    "addr:postcode":"90025",
-    "addr:street":"Santa Monica Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.448135,34.046577,-118.448135,34.046577",
-    "geom:latitude":34.046577,
-    "geom:longitude":-118.448135,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11285 Santa Monica Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11285 Santa Monica Blvd Los Angeles CA 90025",
+    "addr:housenumber": "11285",
+    "addr:postcode": "90025",
+    "addr:street": "Santa Monica Blvd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.448135,34.046577,-118.448135,34.046577",
+    "geom:latitude": 34.046577,
+    "geom:longitude": -118.448135,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "11285 Santa Monica Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "sg:website":"www.7-eleven.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "sg:website": "www.7-eleven.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_41VJAeYJiy5eVD2oDovsmm_34.046577_-118.448135@1303263155"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_41VJAeYJiy5eVD2oDovsmm_34.046577_-118.448135@1303263155"
     },
-    "wof:country":"US",
-    "wof:geomhash":"db5b8a6a0a65b270c29c90b9404be527",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":370810209
-        }
+    "wof:country": "US",
+    "wof:created": 1723323883,
+    "wof:geomhash": "db5b8a6a0a65b270c29c90b9404be527",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 370810209
+      }
     ],
-    "wof:id":370810209,
-    "wof:lastmodified":1509200824,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370810209,
+    "wof:lastmodified": 1723323883,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      370811675
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.448135,
     34.046577,
     -118.448135,
     34.046577
-],
-  "geometry": {"coordinates":[-118.44813499999999,34.046577],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.448135,34.046577],"type":"Point"}
 }

@@ -2,79 +2,83 @@
   "id": 370590257,
   "type": "Feature",
   "properties": {
-    "addr:full":"769 Wall St Los Angeles CA 90014",
-    "addr:housenumber":"769",
-    "addr:postcode":"90014",
-    "addr:street":"Wall St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.25,34.040501,-118.25,34.040501",
-    "geom:latitude":34.040501,
-    "geom:longitude":-118.25,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"769 Wall St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "769 Wall St Los Angeles CA 90014",
+    "addr:housenumber": "769",
+    "addr:postcode": "90014",
+    "addr:street": "Wall St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.250000,34.040501,-118.250000,34.040501",
+    "geom:latitude": 34.040501,
+    "geom:longitude": -118.25,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "769 Wall St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 688 1062",
-    "sg:postcode":"90014",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456417,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 688 1062",
+    "sg:postcode": "90014",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456417,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1vO2KPgKjaUuJxFWCtd7k2_34.040501_-118.250000@1303263150"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_1vO2KPgKjaUuJxFWCtd7k2_34.040501_-118.250000@1303263150"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a2f3573935d3ffefb167b041ea3ea83b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456417,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370590257
-        }
+    "wof:country": "US",
+    "wof:created": 1723323885,
+    "wof:geomhash": "a2f3573935d3ffefb167b041ea3ea83b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456417,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370590257
+      }
     ],
-    "wof:id":370590257,
-    "wof:lastmodified":1509200773,
-    "wof:name":"Valle Whsle Flowers",
-    "wof:parent_id":1092456417,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370590257,
+    "wof:lastmodified": 1723323885,
+    "wof:name": "Valle Whsle Flowers",
+    "wof:parent_id": 1092456417,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      370600027
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.25,
     34.040501,
     -118.25,
     34.040501
-],
+  ],
   "geometry": {"coordinates":[-118.25,34.040501],"type":"Point"}
 }

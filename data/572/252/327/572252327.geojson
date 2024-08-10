@@ -2,77 +2,81 @@
   "id": 572252327,
   "type": "Feature",
   "properties": {
-    "addr:full":"24201 Valencia Blvd # 1101 Valencia CA 91355",
-    "addr:housenumber":"24201",
-    "addr:postcode":"91355",
-    "addr:street":"Valencia Blvd # 1101",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.557158,34.414557,-118.557158,34.414557",
-    "geom:latitude":34.414557,
-    "geom:longitude":-118.557158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24201 Valencia Blvd # 1101",
-    "sg:city":"Valencia",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24201 Valencia Blvd # 1101 Valencia CA 91355",
+    "addr:housenumber": "24201",
+    "addr:postcode": "91355",
+    "addr:street": "Valencia Blvd # 1101",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.557158,34.414557,-118.557158,34.414557",
+    "geom:latitude": 34.414557,
+    "geom:longitude": -118.557158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "24201 Valencia Blvd # 1101",
+    "sg:city": "Valencia",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 260 1516",
-    "sg:postcode":"91355",
-    "sg:province":"CA",
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923827,
-        102086957,
-        85880695
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 260 1516",
+    "sg:postcode": "91355",
+    "sg:province": "CA",
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923827,
+      102086957,
+      85880695
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xLVPdDIssuiLVVwAHD485_34.414557_-118.557158@1303263213"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6xLVPdDIssuiLVVwAHD485_34.414557_-118.557158@1303263213"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b43ecd1f8a4462d756eecf03185f59aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923827,
-            "neighbourhood_id":85880695,
-            "region_id":85688637,
-            "venue_id":572252327
-        }
+    "wof:country": "US",
+    "wof:created": 1723323874,
+    "wof:geomhash": "b43ecd1f8a4462d756eecf03185f59aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923827,
+        "neighbourhood_id": 85880695,
+        "region_id": 85688637,
+        "venue_id": 572252327
+      }
     ],
-    "wof:id":572252327,
-    "wof:lastmodified":1511321001,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85880695,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572252327,
+    "wof:lastmodified": 1723323874,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85880695,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      572083073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.557158,
     34.414557,
     -118.557158,
     34.414557
-],
+  ],
   "geometry": {"coordinates":[-118.557158,34.414557],"type":"Point"}
 }

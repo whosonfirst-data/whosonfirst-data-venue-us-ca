@@ -2,84 +2,88 @@
   "id": 353692819,
   "type": "Feature",
   "properties": {
-    "addr:full":"411 13th St Oakland CA 94612",
-    "addr:housenumber":"411",
-    "addr:postcode":"94612",
-    "addr:street":"13Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.27151,37.803506,-122.27151,37.803506",
-    "geom:latitude":37.803506,
-    "geom:longitude":-122.27151,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"411 13th St",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "411 13th St Oakland CA 94612",
+    "addr:housenumber": "411",
+    "addr:postcode": "94612",
+    "addr:street": "13Th St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.271510,37.803506,-122.271510,37.803506",
+    "geom:latitude": 37.803506,
+    "geom:longitude": -122.27151,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "411 13th St",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 452 5600",
-    "sg:postcode":"94612",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 452 5600",
+    "sg:postcode": "94612",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872277,
-        102191575,
-        1108794093,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872277,
+      102191575,
+      1108794093,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5MzvVjdM4iICB6awJGg5si_37.803506_-122.271510@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5MzvVjdM4iICB6awJGg5si_37.803506_-122.271510@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"175d3b43d27a0066c18594e009d392e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794093,
-            "neighbourhood_id":85872277,
-            "region_id":85688637,
-            "venue_id":353692819
-        }
+    "wof:country": "US",
+    "wof:created": 1723323883,
+    "wof:geomhash": "175d3b43d27a0066c18594e009d392e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794093,
+        "neighbourhood_id": 85872277,
+        "region_id": 85688637,
+        "venue_id": 353692819
+      }
     ],
-    "wof:id":353692819,
-    "wof:lastmodified":1509200583,
-    "wof:name":"Coffee At The Trib",
-    "wof:parent_id":85872277,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 353692819,
+    "wof:lastmodified": 1723323883,
+    "wof:name": "Coffee At The Trib",
+    "wof:parent_id": 85872277,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588505295
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -122.27151,
     37.803506,
     -122.27151,
     37.803506
-],
-  "geometry": {"coordinates":[-122.27151000000001,37.803506],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.27151,37.803506],"type":"Point"}
 }

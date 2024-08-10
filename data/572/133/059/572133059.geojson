@@ -2,65 +2,73 @@
   "id": 572133059,
   "type": "Feature",
   "properties": {
-    "addr:full":"1006 2nd St Sacramento CA 95814",
-    "addr:housenumber":"1006",
-    "addr:postcode":"95814",
-    "addr:street":"2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.504272,38.582846,-121.504272,38.582846",
-    "geom:latitude":38.582846,
-    "geom:longitude":-121.504272,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1006 2nd St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Candy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1006 2nd St Sacramento CA 95814",
+    "addr:housenumber": "1006",
+    "addr:postcode": "95814",
+    "addr:street": "2Nd St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.504272,38.582846,-121.504272,38.582846",
+    "geom:latitude": 38.582846,
+    "geom:longitude": -121.504272,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "1006 2nd St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Candy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 446 5196",
-    "sg:postcode":"95814",
-    "sg:province":"CA",
-    "sg:tags":[
-        "confectionery",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 446 5196",
+    "sg:postcode": "95814",
+    "sg:province": "CA",
+    "sg:tags": [
+      "confectionery",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VHkABcCvtsiGhFJ8dvUOg_38.582684_-121.504410@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6VHkABcCvtsiGhFJ8dvUOg_38.582684_-121.504410@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dd1e783d4494de7bb250f3b65478ecd7",
-    "wof:hierarchy":[],
-    "wof:id":572133059,
-    "wof:lastmodified":1509201702,
-    "wof:name":"The Candy Barrell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "confectionery",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1723323883,
+    "wof:geomhash": "dd1e783d4494de7bb250f3b65478ecd7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572133059
+      }
+    ],
+    "wof:id": 572133059,
+    "wof:lastmodified": 1723323883,
+    "wof:name": "The Candy Barrell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588671223
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "confectionery",
+      "store"
     ]
-},
+  },
   "bbox": [
     -121.504272,
     38.582846,
     -121.504272,
     38.582846
-],
+  ],
   "geometry": {"coordinates":[-121.504272,38.582846],"type":"Point"}
 }

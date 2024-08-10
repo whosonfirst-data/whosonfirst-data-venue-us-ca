@@ -2,74 +2,77 @@
   "id": 387398297,
   "type": "Feature",
   "properties": {
-    "addr:full":"124 Nevada St. El Segundo CA 90245",
-    "addr:housenumber":"124",
-    "addr:postcode":"90245",
-    "addr:street":"Nevada St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.403417,33.91715,-118.403417,33.91715",
-    "geom:latitude":33.91715,
-    "geom:longitude":-118.403417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"124 Nevada St.",
-    "sg:city":"El Segundo",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "124 Nevada St. El Segundo CA 90245",
+    "addr:housenumber": "124",
+    "addr:postcode": "90245",
+    "addr:street": "Nevada St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.403417,33.917150,-118.403417,33.917150",
+    "geom:latitude": 33.91715,
+    "geom:longitude": -118.403417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "sg:address": "124 Nevada St.",
+    "sg:city": "El Segundo",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 322 3482",
-    "sg:postcode":"90245",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923625,
-        102086957,
-        85885939
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 322 3482",
+    "sg:postcode": "90245",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923625,
+      102086957,
+      85885939
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6lgZwiLfkZ38ZfsajJwxAW_33.917150_-118.403417@1303263177"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_6lgZwiLfkZ38ZfsajJwxAW_33.917150_-118.403417@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8fe81a24703351b825ba6263867b7b26",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923625,
-            "neighbourhood_id":85885939,
-            "region_id":85688637,
-            "venue_id":387398297
-        }
+    "wof:country": "US",
+    "wof:created": 1723323878,
+    "wof:geomhash": "8fe81a24703351b825ba6263867b7b26",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923625,
+        "neighbourhood_id": 85885939,
+        "region_id": 85688637,
+        "venue_id": 387398297
+      }
     ],
-    "wof:id":387398297,
-    "wof:lastmodified":1509201024,
-    "wof:name":"Joe's Auto Services",
-    "wof:parent_id":85885939,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387398297,
+    "wof:lastmodified": 1723323878,
+    "wof:name": "Joe's Auto Services",
+    "wof:parent_id": 85885939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      387392457
+    ],
+    "wof:tags": []
+  },
   "bbox": [
     -118.403417,
     33.91715,
     -118.403417,
     33.91715
-],
+  ],
   "geometry": {"coordinates":[-118.403417,33.91715],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 270473631,
   "type": "Feature",
   "properties": {
-    "addr:full":"2155 Fulton Ave Sacramento CA 95825",
-    "addr:housenumber":"2155",
-    "addr:postcode":"95825",
-    "addr:street":"Fulton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.401499,38.604561,-121.401499,38.604561",
-    "geom:latitude":38.604561,
-    "geom:longitude":-121.401499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2155 Fulton Ave",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "2155 Fulton Ave Sacramento CA 95825",
+    "addr:housenumber": "2155",
+    "addr:postcode": "95825",
+    "addr:street": "Fulton Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.401499,38.604561,-121.401499,38.604561",
+    "geom:latitude": 38.604561,
+    "geom:longitude": -121.401499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "2155 Fulton Ave",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 481 6815",
-    "sg:postcode":"95825",
-    "sg:province":"CA",
-    "sg:tags":[
-        "martial",
-        "arts",
-        "instruction"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 481 6815",
+    "sg:postcode": "95825",
+    "sg:province": "CA",
+    "sg:tags": [
+      "martial",
+      "arts",
+      "instruction"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85926841,
-        102082889,
-        85885581
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85926841,
+      102082889,
+      85885581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4EwX1jqVE19rXUkRTVynHj_38.604561_-121.401499@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_4EwX1jqVE19rXUkRTVynHj_38.604561_-121.401499@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"630defd74f335ca5e8527c9d35c9e132",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926841,
-            "neighbourhood_id":85885581,
-            "region_id":85688637,
-            "venue_id":270473631
-        }
+    "wof:country": "US",
+    "wof:created": 1723323880,
+    "wof:geomhash": "630defd74f335ca5e8527c9d35c9e132",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926841,
+        "neighbourhood_id": 85885581,
+        "region_id": 85688637,
+        "venue_id": 270473631
+      }
     ],
-    "wof:id":270473631,
-    "wof:lastmodified":1509200237,
-    "wof:name":"Robinson's Taekwondo",
-    "wof:parent_id":85885581,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "martial",
-        "arts",
-        "instruction"
+    "wof:id": 270473631,
+    "wof:lastmodified": 1723323880,
+    "wof:name": "Robinson's Taekwondo",
+    "wof:parent_id": 85885581,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588687673
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "martial",
+      "arts",
+      "instruction"
     ]
-},
+  },
   "bbox": [
     -121.401499,
     38.604561,
     -121.401499,
     38.604561
-],
+  ],
   "geometry": {"coordinates":[-121.401499,38.604561],"type":"Point"}
 }

@@ -2,87 +2,91 @@
   "id": 588546479,
   "type": "Feature",
   "properties": {
-    "addr:full":"10123 N Wolfe Rd Cupertino CA 95014",
-    "addr:housenumber":"10123",
-    "addr:postcode":"95014",
-    "addr:street":"N Wolfe Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.014911,37.32439,-122.014911,37.32439",
-    "geom:latitude":37.32439,
-    "geom:longitude":-122.014911,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10123 N Wolfe Rd",
-    "sg:city":"Cupertino",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Candy",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10123 N Wolfe Rd Cupertino CA 95014",
+    "addr:housenumber": "10123",
+    "addr:postcode": "95014",
+    "addr:street": "N Wolfe Rd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.014911,37.324390,-122.014911,37.324390",
+    "geom:latitude": 37.32439,
+    "geom:longitude": -122.014911,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "10123 N Wolfe Rd",
+    "sg:city": "Cupertino",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Candy",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 255 8317",
-    "sg:postcode":"95014",
-    "sg:province":"CA",
-    "sg:tags":[
-        "japanese",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 255 8317",
+    "sg:postcode": "95014",
+    "sg:province": "CA",
+    "sg:tags": [
+      "japanese",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85885841
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85885841
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7UN0qaQFnGHeRrOtLUYets_37.324390_-122.014911@1303263357"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_7UN0qaQFnGHeRrOtLUYets_37.324390_-122.014911@1303263357"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0f1f1e40f8e1e3adffec635515b808c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "neighbourhood_id":85885841,
-            "region_id":85688637,
-            "venue_id":588546479
-        }
+    "wof:country": "US",
+    "wof:created": 1723323878,
+    "wof:geomhash": "0f1f1e40f8e1e3adffec635515b808c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922341,
+        "neighbourhood_id": 85885841,
+        "region_id": 85688637,
+        "venue_id": 588546479
+      }
     ],
-    "wof:id":588546479,
-    "wof:lastmodified":1509202129,
-    "wof:name":"Aji Ichiban",
-    "wof:parent_id":85885841,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "japanese",
-        "store"
+    "wof:id": 588546479,
+    "wof:lastmodified": 1723323878,
+    "wof:name": "Aji Ichiban",
+    "wof:parent_id": 85885841,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588546659
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "japanese",
+      "store"
     ]
-},
+  },
   "bbox": [
     -122.014911,
     37.32439,
     -122.014911,
     37.32439
-],
+  ],
   "geometry": {"coordinates":[-122.014911,37.32439],"type":"Point"}
 }

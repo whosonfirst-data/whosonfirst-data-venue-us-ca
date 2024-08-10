@@ -2,84 +2,88 @@
   "id": 572177067,
   "type": "Feature",
   "properties": {
-    "addr:full":"3001 Harbor Blvd Costa Mesa CA 92626",
-    "addr:housenumber":"3001",
-    "addr:postcode":"92626",
-    "addr:street":"Harbor Blvd Costa",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.919421,33.680117,-117.919421,33.680117",
-    "geom:latitude":33.680117,
-    "geom:longitude":-117.919421,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3001 Harbor Blvd",
-    "sg:city":"Costa Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3001 Harbor Blvd Costa Mesa CA 92626",
+    "addr:housenumber": "3001",
+    "addr:postcode": "92626",
+    "addr:street": "Harbor Blvd Costa",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.919421,33.680117,-117.919421,33.680117",
+    "geom:latitude": 33.680117,
+    "geom:longitude": -117.919421,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "3001 Harbor Blvd",
+    "sg:city": "Costa Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/central-coast/149945-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 241 0125",
-    "sg:postcode":"92626",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/central-coast/149945-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 241 0125",
+    "sg:postcode": "92626",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923049,
-        102080847,
-        85872937
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923049,
+      102080847,
+      85872937
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3T1Qm6lL4oOD29mLRmETU8_33.680117_-117.919421@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3T1Qm6lL4oOD29mLRmETU8_33.680117_-117.919421@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a1ab31914a27a8531ca2d8e078b87773",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":85872937,
-            "region_id":85688637,
-            "venue_id":572177067
-        }
+    "wof:country": "US",
+    "wof:created": 1723323876,
+    "wof:geomhash": "a1ab31914a27a8531ca2d8e078b87773",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 85872937,
+        "region_id": 85688637,
+        "venue_id": 572177067
+      }
     ],
-    "wof:id":572177067,
-    "wof:lastmodified":1511322213,
-    "wof:name":"Subway",
-    "wof:parent_id":85872937,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572177067,
+    "wof:lastmodified": 1723323876,
+    "wof:name": "Subway",
+    "wof:parent_id": 85872937,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      572449837
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -117.919421,
     33.680117,
     -117.919421,
     33.680117
-],
+  ],
   "geometry": {"coordinates":[-117.919421,33.680117],"type":"Point"}
 }

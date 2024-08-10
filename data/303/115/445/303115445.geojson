@@ -2,83 +2,87 @@
   "id": 303115445,
   "type": "Feature",
   "properties": {
-    "addr:full":"923 W el Camino Real Sunnyvale CA 94087",
-    "addr:housenumber":"923",
-    "addr:postcode":"94087",
-    "addr:street":"W El Camino Real",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.043864,37.370818,-122.043864,37.370818",
-    "geom:latitude":37.370818,
-    "geom:longitude":-122.043864,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"923 W el Camino Real",
-    "sg:city":"Sunnyvale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "923 W el Camino Real Sunnyvale CA 94087",
+    "addr:housenumber": "923",
+    "addr:postcode": "94087",
+    "addr:street": "W El Camino Real",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.043864,37.370818,-122.043864,37.370818",
+    "geom:latitude": 37.370818,
+    "geom:longitude": -122.043864,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "923 W el Camino Real",
+    "sg:city": "Sunnyvale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 730 2428",
-    "sg:postcode":"94087",
-    "sg:province":"CA",
-    "sg:tags":[
-        "passenger",
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 730 2428",
+    "sg:postcode": "94087",
+    "sg:province": "CA",
+    "sg:tags": [
+      "passenger",
+      "car"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922333,
-        102081673,
-        85881223
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922333,
+      102081673,
+      85881223
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2yfSJyf3dFkTHObyfLxbSB_37.370818_-122.043864@1294081369"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2yfSJyf3dFkTHObyfLxbSB_37.370818_-122.043864@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"84bc58aa90dc44f41d8cbac2aec65232",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922333,
-            "neighbourhood_id":85881223,
-            "region_id":85688637,
-            "venue_id":303115445
-        }
+    "wof:country": "US",
+    "wof:created": 1723323876,
+    "wof:geomhash": "84bc58aa90dc44f41d8cbac2aec65232",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922333,
+        "neighbourhood_id": 85881223,
+        "region_id": 85688637,
+        "venue_id": 303115445
+      }
     ],
-    "wof:id":303115445,
-    "wof:lastmodified":1509200334,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85881223,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "passenger",
-        "car"
+    "wof:id": 303115445,
+    "wof:lastmodified": 1723323876,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85881223,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588359805
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "passenger",
+      "car"
     ]
-},
+  },
   "bbox": [
     -122.043864,
     37.370818,
     -122.043864,
     37.370818
-],
+  ],
   "geometry": {"coordinates":[-122.043864,37.370818],"type":"Point"}
 }

@@ -2,78 +2,82 @@
   "id": 555255559,
   "type": "Feature",
   "properties": {
-    "addr:full":"11501 Pioneer Ave Oakdale CA 95361",
-    "addr:housenumber":"11501",
-    "addr:postcode":"95361",
-    "addr:street":"Pioneer Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.914367,37.810753,-120.914367,37.810753",
-    "geom:latitude":37.810753,
-    "geom:longitude":-120.914367,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11501 Pioneer Ave",
-    "sg:city":"Oakdale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "11501 Pioneer Ave Oakdale CA 95361",
+    "addr:housenumber": "11501",
+    "addr:postcode": "95361",
+    "addr:street": "Pioneer Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.914367,37.810753,-120.914367,37.810753",
+    "geom:latitude": 37.810753,
+    "geom:longitude": -120.914367,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "11501 Pioneer Ave",
+    "sg:city": "Oakdale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 847 5951",
-    "sg:postcode":"95361",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 847 5951",
+    "sg:postcode": "95361",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85811207,
-        85633793,
-        85922777,
-        102083579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85811207,
+      85633793,
+      85922777,
+      102083579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3o6auulthGoQYtd0E1onXZ_37.810753_-120.914367@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3o6auulthGoQYtd0E1onXZ_37.810753_-120.914367@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8fafb2701c9abf8be507f7fd118f1535",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85811207,
-            "region_id":85688637,
-            "venue_id":555255559
-        }
+    "wof:country": "US",
+    "wof:created": 1723323870,
+    "wof:geomhash": "8fafb2701c9abf8be507f7fd118f1535",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85811207,
+        "region_id": 85688637,
+        "venue_id": 555255559
+      }
     ],
-    "wof:id":555255559,
-    "wof:lastmodified":1509201330,
-    "wof:name":"Pioneer Equine Hospital",
-    "wof:parent_id":85811207,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital"
+    "wof:id": 555255559,
+    "wof:lastmodified": 1723323870,
+    "wof:name": "Pioneer Equine Hospital",
+    "wof:parent_id": 85811207,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      588628637
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital"
     ]
-},
+  },
   "bbox": [
     -120.914367,
     37.810753,
     -120.914367,
     37.810753
-],
+  ],
   "geometry": {"coordinates":[-120.914367,37.810753],"type":"Point"}
 }

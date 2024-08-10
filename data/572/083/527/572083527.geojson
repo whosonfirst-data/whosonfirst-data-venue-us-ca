@@ -2,88 +2,92 @@
   "id": 572083527,
   "type": "Feature",
   "properties": {
-    "addr:full":"1025 Columbus Avenue, San Francisco, CA",
-    "addr:housenumber":"1025",
-    "addr:postcode":"94133",
-    "addr:street":"Columbus Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.415472269,37.8037739972,-122.415472269,37.8037739972",
-    "geom:latitude":37.803774,
-    "geom:longitude":-122.415472,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "mz:phone":"415-474-0365",
-    "sg:address":"1025 Columbus Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1025 Columbus Avenue, San Francisco, CA",
+    "addr:housenumber": "1025",
+    "addr:postcode": "94133",
+    "addr:street": "Columbus Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.415472,37.803774,-122.415472,37.803774",
+    "geom:latitude": 37.803773997168,
+    "geom:longitude": -122.41547226906,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "mz:phone": "415-474-0365",
+    "sg:address": "1025 Columbus Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 474 0365",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "club",
-        "venue",
-        "music",
-        "night"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 474 0365",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "club",
+      "venue",
+      "music",
+      "night"
     ],
-    "sg:website":"www.bimbos365club.com",
-    "src:geom":"thelist",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865891
+    "sg:website": "www.bimbos365club.com",
+    "src:geom": "thelist",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865891
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3875122058,
-        "sfgov_rbl:id":"0003188-01-001",
-        "sg:id":"SG_4sWrVzbG9UV0i121X7fTnH_37.803691_-122.415280@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3875122058,
+      "sfgov_rbl:id": "0003188-01-001",
+      "sg:id": "SG_4sWrVzbG9UV0i121X7fTnH_37.803691_-122.415280@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dab03007c8b1233fe2530f76629a17b0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865891,
-            "region_id":85688637,
-            "venue_id":572083527
-        }
+    "wof:country": "US",
+    "wof:created": 1723323883,
+    "wof:geomhash": "dab03007c8b1233fe2530f76629a17b0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865891,
+        "region_id": 85688637,
+        "venue_id": 572083527
+      }
     ],
-    "wof:id":572083527,
-    "wof:lastmodified":1510943473,
-    "wof:name":"Bimbo's 365 Club",
-    "wof:parent_id":85865891,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "music",
-        "concerts"
+    "wof:id": 572083527,
+    "wof:lastmodified": 1723323883,
+    "wof:name": "Bimbo's 365 Club",
+    "wof:parent_id": 85865891,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      1158855145
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "music",
+      "concerts"
     ]
-},
+  },
   "bbox": [
     -122.41547226906,
     37.803773997168,
     -122.41547226906,
     37.803773997168
-],
+  ],
   "geometry": {"coordinates":[-122.41547226906,37.803773997168],"type":"Point"}
 }

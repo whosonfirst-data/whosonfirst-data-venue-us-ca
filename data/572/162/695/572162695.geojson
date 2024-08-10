@@ -2,84 +2,88 @@
   "id": 572162695,
   "type": "Feature",
   "properties": {
-    "addr:full":"17261 Ventura Blvd Encino CA 91316",
-    "addr:housenumber":"17261",
-    "addr:postcode":"91316",
-    "addr:street":"Ventura Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.509462,34.160825,-118.509462,34.160825",
-    "geom:latitude":34.160825,
-    "geom:longitude":-118.509462,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"17261 Ventura Blvd",
-    "sg:city":"Encino",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "17261 Ventura Blvd Encino CA 91316",
+    "addr:housenumber": "17261",
+    "addr:postcode": "91316",
+    "addr:street": "Ventura Blvd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.509462,34.160825,-118.509462,34.160825",
+    "geom:latitude": 34.160825,
+    "geom:longitude": -118.509462,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "17261 Ventura Blvd",
+    "sg:city": "Encino",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-fernando-valley/149400-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 906 3376",
-    "sg:postcode":"91316",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/san-fernando-valley/149400-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 906 3376",
+    "sg:postcode": "91316",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85818083
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85818083
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2khnM9hT7lldTbx60rjKD1_34.160825_-118.509462@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_2khnM9hT7lldTbx60rjKD1_34.160825_-118.509462@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0ee1a493e5933cd38ad96d776e8887b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85818083,
-            "region_id":85688637,
-            "venue_id":572162695
-        }
+    "wof:country": "US",
+    "wof:created": 1723323880,
+    "wof:geomhash": "0ee1a493e5933cd38ad96d776e8887b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85818083,
+        "region_id": 85688637,
+        "venue_id": 572162695
+      }
     ],
-    "wof:id":572162695,
-    "wof:lastmodified":1511322171,
-    "wof:name":"Subway",
-    "wof:parent_id":85818083,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572162695,
+    "wof:lastmodified": 1723323880,
+    "wof:name": "Subway",
+    "wof:parent_id": 85818083,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      572164589
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.509462,
     34.160825,
     -118.509462,
     34.160825
-],
+  ],
   "geometry": {"coordinates":[-118.509462,34.160825],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 572161583,
   "type": "Feature",
   "properties": {
-    "addr:full":"6959 Atlantic Ave Long Beach CA 90805",
-    "addr:housenumber":"6959",
-    "addr:postcode":"90805",
-    "addr:street":"Atlantic Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.18661,33.881347,-118.18661,33.881347",
-    "geom:latitude":33.881347,
-    "geom:longitude":-118.18661,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6959 Atlantic Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6959 Atlantic Ave Long Beach CA 90805",
+    "addr:housenumber": "6959",
+    "addr:postcode": "90805",
+    "addr:street": "Atlantic Ave",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.186610,33.881347,-118.186610,33.881347",
+    "geom:latitude": 33.881347,
+    "geom:longitude": -118.18661,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "6959 Atlantic Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/long-beach-lakewood/216632-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90805",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/long-beach-lakewood/216632-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90805",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85886853
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85886853
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_55j9iJgs8Yi8k3rvaXz2s8_33.881347_-118.186610@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_55j9iJgs8Yi8k3rvaXz2s8_33.881347_-118.186610@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5bc330ff5961010b8882d138dd402417",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85886853,
-            "region_id":85688637,
-            "venue_id":572161583
-        }
+    "wof:country": "US",
+    "wof:created": 1723323874,
+    "wof:geomhash": "5bc330ff5961010b8882d138dd402417",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85886853,
+        "region_id": 85688637,
+        "venue_id": 572161583
+      }
     ],
-    "wof:id":572161583,
-    "wof:lastmodified":1512142889,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85886853,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572161583,
+    "wof:lastmodified": 1723323874,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85886853,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      404050895
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -118.18661,
     33.881347,
     -118.18661,
     33.881347
-],
+  ],
   "geometry": {"coordinates":[-118.18661,33.881347],"type":"Point"}
 }

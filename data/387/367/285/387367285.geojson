@@ -2,81 +2,85 @@
   "id": 387367285,
   "type": "Feature",
   "properties": {
-    "addr:full":"6571 Westminster Blvd Westminster CA 92683",
-    "addr:housenumber":"6571",
-    "addr:postcode":"92683",
-    "addr:street":"Westminster Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.014085,33.75908,-118.014085,33.75908",
-    "geom:latitude":33.75908,
-    "geom:longitude":-118.014085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6571 Westminster Blvd",
-    "sg:city":"Westminster",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6571 Westminster Blvd Westminster CA 92683",
+    "addr:housenumber": "6571",
+    "addr:postcode": "92683",
+    "addr:street": "Westminster Blvd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.014085,33.759080,-118.014085,33.759080",
+    "geom:latitude": 33.75908,
+    "geom:longitude": -118.014085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "6571 Westminster Blvd",
+    "sg:city": "Westminster",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 895 7175",
-    "sg:postcode":"92683",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 895 7175",
+    "sg:postcode": "92683",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923025,
-        102080847,
-        85804441
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923025,
+      102080847,
+      85804441
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_21yFkHanx3rzoQZNb0VnBr_33.759080_-118.014085@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_21yFkHanx3rzoQZNb0VnBr_33.759080_-118.014085@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"102ccf266bdd9f242e238a87a7fd769c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923025,
-            "neighbourhood_id":85804441,
-            "region_id":85688637,
-            "venue_id":387367285
-        }
+    "wof:country": "US",
+    "wof:created": 1723323875,
+    "wof:geomhash": "102ccf266bdd9f242e238a87a7fd769c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923025,
+        "neighbourhood_id": 85804441,
+        "region_id": 85688637,
+        "venue_id": 387367285
+      }
     ],
-    "wof:id":387367285,
-    "wof:lastmodified":1509201017,
-    "wof:name":"A Pros Auto Repair",
-    "wof:parent_id":85804441,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 387367285,
+    "wof:lastmodified": 1723323875,
+    "wof:name": "A Pros Auto Repair",
+    "wof:parent_id": 85804441,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      572484073
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -118.014085,
     33.75908,
     -118.014085,
     33.75908
-],
-  "geometry": {"coordinates":[-118.01408499999999,33.75908],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.014085,33.75908],"type":"Point"}
 }

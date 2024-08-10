@@ -2,88 +2,91 @@
   "id": 588304633,
   "type": "Feature",
   "properties": {
-    "addr:full":"217 H St Bakersfield CA 93304",
-    "addr:housenumber":"217",
-    "addr:postcode":"93304",
-    "addr:street":"H St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.021278,35.357922,-119.021278,35.357922",
-    "geom:latitude":35.357922,
-    "geom:longitude":-119.021278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"217 H St",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Farmers Market",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "217 H St Bakersfield CA 93304",
+    "addr:housenumber": "217",
+    "addr:postcode": "93304",
+    "addr:street": "H St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.021278,35.357922,-119.021278,35.357922",
+    "geom:latitude": 35.357922,
+    "geom:longitude": -119.021278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "sg:address": "217 H St",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Farmers Market",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 321 0793",
-    "sg:postcode":"93304",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shipper",
-        "grower",
-        "vegetables-wholesale"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 321 0793",
+    "sg:postcode": "93304",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shipper",
+      "grower",
+      "vegetables-wholesale"
     ],
-    "sg:website":"http://www.billingsleyproduce.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876059,
-        85633793,
-        85923307,
-        102081727,
-        85688637
+    "sg:website": "http://www.billingsleyproduce.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876059,
+      85633793,
+      85923307,
+      102081727,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Jp3egI91F019PNe6JDyEr_35.357922_-119.021278@1303263294"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5Jp3egI91F019PNe6JDyEr_35.357922_-119.021278@1303263294"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2451e5b6680bddf07face494653979cb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":588304633
-        }
+    "wof:country": "US",
+    "wof:created": 1723323877,
+    "wof:geomhash": "2451e5b6680bddf07face494653979cb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 588304633
+      }
     ],
-    "wof:id":588304633,
-    "wof:lastmodified":1509201978,
-    "wof:name":"Billingsley Produce Sales Inc.",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shipper",
-        "grower",
-        "vegetables-wholesale"
+    "wof:id": 588304633,
+    "wof:lastmodified": 1723323877,
+    "wof:name": "Billingsley Produce Sales Inc.",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      370182165
+    ],
+    "wof:tags": [
+      "shipper",
+      "grower",
+      "vegetables-wholesale"
     ]
-},
+  },
   "bbox": [
     -119.021278,
     35.357922,
     -119.021278,
     35.357922
-],
+  ],
   "geometry": {"coordinates":[-119.021278,35.357922],"type":"Point"}
 }

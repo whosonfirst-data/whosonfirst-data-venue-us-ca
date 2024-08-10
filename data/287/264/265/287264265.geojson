@@ -2,79 +2,83 @@
   "id": 287264265,
   "type": "Feature",
   "properties": {
-    "addr:full":"5911 Auburn Blvd Citrus Heights CA 95621",
-    "addr:housenumber":"5911",
-    "addr:postcode":"95621",
-    "addr:street":"Auburn Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.32539,38.675247,-121.32539,38.675247",
-    "geom:latitude":38.675247,
-    "geom:longitude":-121.32539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5911 Auburn Blvd",
-    "sg:city":"Citrus Heights",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "5911 Auburn Blvd Citrus Heights CA 95621",
+    "addr:housenumber": "5911",
+    "addr:postcode": "95621",
+    "addr:street": "Auburn Blvd",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.325390,38.675247,-121.325390,38.675247",
+    "geom:latitude": 38.675247,
+    "geom:longitude": -121.32539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "5911 Auburn Blvd",
+    "sg:city": "Citrus Heights",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 332 1050",
-    "sg:postcode":"95621",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 332 1050",
+    "sg:postcode": "95621",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85926859,
-        102082889,
-        85876807
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85926859,
+      102082889,
+      85876807
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nay3c7whIVaXZ8iXhG0qb_38.675247_-121.325390@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0nay3c7whIVaXZ8iXhG0qb_38.675247_-121.325390@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1d79f14eabe14043b3f53b7e47570dd2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926859,
-            "neighbourhood_id":85876807,
-            "region_id":85688637,
-            "venue_id":287264265
-        }
+    "wof:country": "US",
+    "wof:created": 1723323873,
+    "wof:geomhash": "1d79f14eabe14043b3f53b7e47570dd2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926859,
+        "neighbourhood_id": 85876807,
+        "region_id": 85688637,
+        "venue_id": 287264265
+      }
     ],
-    "wof:id":287264265,
-    "wof:lastmodified":1509200325,
-    "wof:name":"Paradise Cleaners",
-    "wof:parent_id":85876807,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 287264265,
+    "wof:lastmodified": 1723323873,
+    "wof:name": "Paradise Cleaners",
+    "wof:parent_id": 85876807,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      555364879
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -121.32539,
     38.675247,
     -121.32539,
     38.675247
-],
+  ],
   "geometry": {"coordinates":[-121.32539,38.675247],"type":"Point"}
 }

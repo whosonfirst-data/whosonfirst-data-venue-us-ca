@@ -2,90 +2,94 @@
   "id": 203325321,
   "type": "Feature",
   "properties": {
-    "addr:full":"2020 Main St Irvine CA 92614",
-    "addr:housenumber":"2020",
-    "addr:postcode":"92614",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.856351,33.685698,-117.856351,33.685698",
-    "geom:latitude":33.685698,
-    "geom:longitude":-117.856351,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2020 Main St",
-    "sg:city":"Irvine",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Computers",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Computers & Home Electronics",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2020 Main St Irvine CA 92614",
+    "addr:housenumber": "2020",
+    "addr:postcode": "92614",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:deprecated": "2024-08-10",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.856351,33.685698,-117.856351,33.685698",
+    "geom:latitude": 33.685698,
+    "geom:longitude": -117.856351,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_retail": -1,
+    "sg:address": "2020 Main St",
+    "sg:city": "Irvine",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Computers",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Computers \u0026 Home Electronics",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 634 2688",
-    "sg:postcode":"92614",
-    "sg:province":"CA",
-    "sg:tags":[
-        "workstation",
-        "software",
-        "engineering",
-        "graphics"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 634 2688",
+    "sg:postcode": "92614",
+    "sg:province": "CA",
+    "sg:tags": [
+      "workstation",
+      "software",
+      "engineering",
+      "graphics"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923049,
-        102080847,
-        85815685
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923049,
+      102080847,
+      85815685
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5OWvMEdQYlfQc5FkZBT6ez_33.685698_-117.856351@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5OWvMEdQYlfQc5FkZBT6ez_33.685698_-117.856351@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8d0f4c680543d1805226b98f1b1c457d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":85815685,
-            "region_id":85688637,
-            "venue_id":203325321
-        }
+    "wof:country": "US",
+    "wof:created": 1723323881,
+    "wof:geomhash": "8d0f4c680543d1805226b98f1b1c457d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 85815685,
+        "region_id": 85688637,
+        "venue_id": 203325321
+      }
     ],
-    "wof:id":203325321,
-    "wof:lastmodified":1509199934,
-    "wof:name":"Sun Microsystems Inc",
-    "wof:parent_id":85815685,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "workstation",
-        "software",
-        "engineering",
-        "graphics"
+    "wof:id": 203325321,
+    "wof:lastmodified": 1723323881,
+    "wof:name": "Sun Microsystems Inc",
+    "wof:parent_id": 85815685,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [
+      572439709
+    ],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "workstation",
+      "software",
+      "engineering",
+      "graphics"
     ]
-},
+  },
   "bbox": [
     -117.856351,
     33.685698,
     -117.856351,
     33.685698
-],
+  ],
   "geometry": {"coordinates":[-117.856351,33.685698],"type":"Point"}
 }
