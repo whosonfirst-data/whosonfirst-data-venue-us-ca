@@ -2,77 +2,81 @@
   "id": 386967237,
   "type": "Feature",
   "properties": {
-    "addr:full":"5201 S Western Ave Los Angeles CA 90062",
-    "addr:housenumber":"5201",
-    "addr:postcode":"90062",
-    "addr:street":"S Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308998,33.994999,-118.308998,33.994999",
-    "geom:latitude":33.994999,
-    "geom:longitude":-118.308998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5201 S Western Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "5201 S Western Ave Los Angeles CA 90062",
+    "addr:housenumber": "5201",
+    "addr:postcode": "90062",
+    "addr:street": "S Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308998,33.994999,-118.308998,33.994999",
+    "geom:latitude": 33.994999,
+    "geom:longitude": -118.308998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Flores Hand Car Wash, 5201 S Western Ave Los Angeles CA US",
+    "ovtr:similarity": 2.0508530139923096,
+    "sg:address": "5201 S Western Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 299 1930",
-    "sg:postcode":"90062",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85869759",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 299 1930",
+    "sg:postcode": "90062",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2dvX4y67ShCTZQWxVKDIsS_33.994999_-118.308998@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c8699d73037ead21edb4b366",
+      "sg:id": "SG_2dvX4y67ShCTZQWxVKDIsS_33.994999_-118.308998@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d130c9ba6dadd39f8afb60320d3cc271",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85869759",
-            "region_id":85688637,
-            "venue_id":386967237
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "d130c9ba6dadd39f8afb60320d3cc271",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85869759,
+        "region_id": 85688637,
+        "venue_id": 386967237
+      }
     ],
-    "wof:id":386967237,
-    "wof:lastmodified":1509200923,
-    "wof:name":"Flores Hand Car Wash",
-    "wof:parent_id":"85869759",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 386967237,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Flores Hand Car Wash",
+    "wof:parent_id": "85869759",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.308998,
     33.994999,
     -118.308998,
     33.994999
-],
+  ],
   "geometry": {"coordinates":[-118.308998,33.994999],"type":"Point"}
 }

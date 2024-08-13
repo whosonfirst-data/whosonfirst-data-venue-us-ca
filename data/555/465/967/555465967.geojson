@@ -2,78 +2,82 @@
   "id": 555465967,
   "type": "Feature",
   "properties": {
-    "addr:full":"418 Kiernan Ave Modesto CA 95356",
-    "addr:housenumber":"418",
-    "addr:postcode":"ca 95356",
-    "addr:street":"Kiernan Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.99633,37.710948,-120.99633,37.710948",
-    "geom:latitude":37.710948,
-    "geom:longitude":-120.99633,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"418 Kiernan Ave",
-    "sg:city":"Modesto",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "418 Kiernan Ave Modesto CA 95356",
+    "addr:housenumber": "418",
+    "addr:postcode": "ca 95356",
+    "addr:street": "Kiernan Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.996330,37.710948,-120.996330,37.710948",
+    "geom:latitude": 37.710948,
+    "geom:longitude": -120.99633,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Modesto Transmission, 418 Kiernan Ave Modesto CA US",
+    "ovtr:similarity": 2.8890960216522217,
+    "sg:address": "418 Kiernan Ave",
+    "sg:city": "Modesto",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 522 5353",
-    "sg:postcode":"95356",
-    "sg:province":"CA",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 522 5353",
+    "sg:postcode": "95356",
+    "sg:province": "CA",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85879015,
-        85633793,
-        85922777,
-        102083579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85879015,
+      85633793,
+      85922777,
+      102083579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0v1aUG9iavepFUib8uZipP_37.710948_-120.996330@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283602e4c93b1038cd2ff8b459a3d",
+      "sg:id": "SG_0v1aUG9iavepFUib8uZipP_37.710948_-120.996330@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"11190ef5464f0c240c7fb699da842ba8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85879015,
-            "region_id":85688637,
-            "venue_id":555465967
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "11190ef5464f0c240c7fb699da842ba8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85879015,
+        "region_id": 85688637,
+        "venue_id": 555465967
+      }
     ],
-    "wof:id":555465967,
-    "wof:lastmodified":1509201402,
-    "wof:name":"Modesto Transmission",
-    "wof:parent_id":85879015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:id": 555465967,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Modesto Transmission",
+    "wof:parent_id": 85879015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -120.99633,
     37.710948,
     -120.99633,
     37.710948
-],
+  ],
   "geometry": {"coordinates":[-120.99633,37.710948],"type":"Point"}
 }

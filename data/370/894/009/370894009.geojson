@@ -2,63 +2,71 @@
   "id": 370894009,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 1st St Woodland CA 95695",
-    "addr:housenumber":"250",
-    "addr:postcode":"95695",
-    "addr:street":"1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.77321,38.679054,-121.77321,38.679054",
-    "geom:latitude":38.679054,
-    "geom:longitude":-121.77321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"250 1st St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "250 1st St Woodland CA 95695",
+    "addr:housenumber": "250",
+    "addr:postcode": "95695",
+    "addr:street": "1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.773210,38.679054,-121.773210,38.679054",
+    "geom:latitude": 38.679054,
+    "geom:longitude": -121.77321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Woodland Public Library, 250 1st St Woodland CA US",
+    "ovtr:similarity": 3.6685268878936768,
+    "sg:address": "250 1st St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 661 5982",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "sg:tags":[
-        "executive"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 661 5982",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "sg:tags": [
+      "executive"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6OksaFUOtTTxNDGEZVrED4_38.679054_-121.773210@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b4960e81e034b0290d416fc57",
+      "sg:id": "SG_6OksaFUOtTTxNDGEZVrED4_38.679054_-121.773210@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a51522aab7bcdf96d6657f3c6379b1e5",
-    "wof:hierarchy":[],
-    "wof:id":370894009,
-    "wof:lastmodified":1509200845,
-    "wof:name":"Woodland Public Library",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "executive"
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "a51522aab7bcdf96d6657f3c6379b1e5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 370894009
+      }
+    ],
+    "wof:id": 370894009,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Woodland Public Library",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "executive"
     ]
-},
+  },
   "bbox": [
     -121.77321,
     38.679054,
     -121.77321,
     38.679054
-],
-  "geometry": {"coordinates":[-121.77321000000001,38.679054],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.77321,38.679054],"type":"Point"}
 }

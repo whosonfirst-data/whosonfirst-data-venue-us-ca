@@ -2,84 +2,88 @@
   "id": 202579243,
   "type": "Feature",
   "properties": {
-    "addr:full":"751 Crenshaw Blvd Los Angeles CA 90005",
-    "addr:housenumber":"751",
-    "addr:postcode":"90005",
-    "addr:street":"Crenshaw Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.31986,34.060743,-118.31986,34.060743",
-    "geom:latitude":34.060743,
-    "geom:longitude":-118.31986,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"751 Crenshaw Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "751 Crenshaw Blvd Los Angeles CA 90005",
+    "addr:housenumber": "751",
+    "addr:postcode": "90005",
+    "addr:street": "Crenshaw Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.319860,34.060743,-118.319860,34.060743",
+    "geom:latitude": 34.060743,
+    "geom:longitude": -118.31986,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hungarian Reformed Church, 751 Crenshaw Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.4235620498657227,
+    "sg:address": "751 Crenshaw Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 930 0807",
-    "sg:postcode":"90005",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 930 0807",
+    "sg:postcode": "90005",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108691529,
-        "85886323",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108691529,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85886323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7KXxyiWGyXsPPREOAKZQ8w_34.060743_-118.319860@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6139962a03e127bb695997d4",
+      "sg:id": "SG_7KXxyiWGyXsPPREOAKZQ8w_34.060743_-118.319860@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"00432233ade1f952ef0de3c419e28b3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "microhood_id":1108691529,
-            "neighbourhood_id":"85886323",
-            "region_id":85688637,
-            "venue_id":202579243
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "00432233ade1f952ef0de3c419e28b3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "microhood_id": 1108691529,
+        "neighbourhood_id": 85886323,
+        "region_id": 85688637,
+        "venue_id": 202579243
+      }
     ],
-    "wof:id":202579243,
-    "wof:lastmodified":1509199887,
-    "wof:name":"Hungarian Reformed Church",
-    "wof:parent_id":1108691529,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 202579243,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Hungarian Reformed Church",
+    "wof:parent_id": 1108691529,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.31986,
     34.060743,
     -118.31986,
     34.060743
-],
-  "geometry": {"coordinates":[-118.31986000000001,34.060743],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.31986,34.060743],"type":"Point"}
 }

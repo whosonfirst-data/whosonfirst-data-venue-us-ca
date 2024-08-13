@@ -2,89 +2,93 @@
   "id": 572004967,
   "type": "Feature",
   "properties": {
-    "addr:full":"21943 Ventura Blvd Woodland Hills CA 91364",
-    "addr:housenumber":"21943",
-    "addr:postcode":"91364",
-    "addr:street":"Ventura Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.605003,34.1684,-118.605003,34.1684",
-    "geom:latitude":34.1684,
-    "geom:longitude":-118.605003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"21943 Ventura Blvd",
-    "sg:city":"Woodland Hills",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "21943 Ventura Blvd Woodland Hills CA 91364",
+    "addr:housenumber": "21943",
+    "addr:postcode": "91364",
+    "addr:street": "Ventura Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.605003,34.168400,-118.605003,34.168400",
+    "geom:latitude": 34.1684,
+    "geom:longitude": -118.605003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Petco, 21943 Ventura Blvd Woodland Hills CA US",
+    "ovtr:similarity": 2.671092987060547,
+    "sg:address": "21943 Ventura Blvd",
+    "sg:city": "Woodland Hills",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 346 9397",
-    "sg:postcode":"91364",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet",
-        "store",
-        "animal",
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 346 9397",
+    "sg:postcode": "91364",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet",
+      "store",
+      "animal",
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85858757",
-        102191575,
-        1108692439,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692439,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85858757
     ],
-    "wof:brand_id":1125149275,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1KucEMA7FYzClwYjZC1Cic_34.168537_-118.605056@1293134755"
+    "wof:brand_id": 1125149275,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a181968890a0328b2c22d10e311",
+      "sg:id": "SG_1KucEMA7FYzClwYjZC1Cic_34.168537_-118.605056@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dfae16547370da43782ded8a4ef9f8d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692439,
-            "neighbourhood_id":"85858757",
-            "region_id":85688637,
-            "venue_id":572004967
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "dfae16547370da43782ded8a4ef9f8d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692439,
+        "neighbourhood_id": 85858757,
+        "region_id": 85688637,
+        "venue_id": 572004967
+      }
     ],
-    "wof:id":572004967,
-    "wof:lastmodified":1511318308,
-    "wof:name":"Petco",
-    "wof:parent_id":"85858757",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "store",
-        "animal",
-        "merchandise"
+    "wof:id": 572004967,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Petco",
+    "wof:parent_id": "85858757",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "store",
+      "animal",
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -118.605003,
     34.1684,
     -118.605003,
     34.1684
-],
+  ],
   "geometry": {"coordinates":[-118.605003,34.1684],"type":"Point"}
 }

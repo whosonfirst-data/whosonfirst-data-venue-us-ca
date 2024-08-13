@@ -2,86 +2,90 @@
   "id": 387394127,
   "type": "Feature",
   "properties": {
-    "addr:full":"145 Richmond St El Segundo CA 90245",
-    "addr:housenumber":"145",
-    "addr:postcode":"90245",
-    "addr:street":"Richmond St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.417,33.917599,-118.417,33.917599",
-    "geom:latitude":33.917599,
-    "geom:longitude":-118.417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"145 Richmond St",
-    "sg:city":"El Segundo",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "145 Richmond St El Segundo CA 90245",
+    "addr:housenumber": "145",
+    "addr:postcode": "90245",
+    "addr:street": "Richmond St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.417000,33.917599,-118.417000,33.917599",
+    "geom:latitude": 33.917599,
+    "geom:longitude": -118.417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Richmond Bar \u0026 Grill, 145 Richmond St El Segundo CA US",
+    "ovtr:similarity": 2.263185977935791,
+    "sg:address": "145 Richmond St",
+    "sg:city": "El Segundo",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 322 7397",
-    "sg:postcode":"90245",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 322 7397",
+    "sg:postcode": "90245",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923625,
-        102086957,
-        85885941
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923625,
+      102086957,
+      85885941
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_79dip0pdpjPjWFgkSMSyft_33.917599_-118.417000@1303263177"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a565821ed9003f6ae6deb5d1c77",
+      "sg:id": "SG_79dip0pdpjPjWFgkSMSyft_33.917599_-118.417000@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6ed38ee7578ace2ada20d735931f03c6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923625,
-            "neighbourhood_id":85885941,
-            "region_id":85688637,
-            "venue_id":387394127
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "6ed38ee7578ace2ada20d735931f03c6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923625,
+        "neighbourhood_id": 85885941,
+        "region_id": 85688637,
+        "venue_id": 387394127
+      }
     ],
-    "wof:id":387394127,
-    "wof:lastmodified":1509201024,
-    "wof:name":"Richmond Bar & Grill",
-    "wof:parent_id":85885941,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "sandwich"
+    "wof:id": 387394127,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Richmond Bar \u0026 Grill",
+    "wof:parent_id": 85885941,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.417,
     33.917599,
     -118.417,
     33.917599
-],
+  ],
   "geometry": {"coordinates":[-118.417,33.917599],"type":"Point"}
 }

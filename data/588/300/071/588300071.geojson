@@ -2,83 +2,87 @@
   "id": 588300071,
   "type": "Feature",
   "properties": {
-    "addr:full":"1310 W Olive Ave Porterville CA 93257",
-    "addr:housenumber":"1310",
-    "addr:postcode":"93257",
-    "addr:street":"W Olive Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.047369,36.06589,-119.047369,36.06589",
-    "geom:latitude":36.06589,
-    "geom:longitude":-119.047369,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1310 W Olive Ave",
-    "sg:city":"Porterville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1310 W Olive Ave Porterville CA 93257",
+    "addr:housenumber": "1310",
+    "addr:postcode": "93257",
+    "addr:street": "W Olive Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.047369,36.065890,-119.047369,36.065890",
+    "geom:latitude": 36.06589,
+    "geom:longitude": -119.047369,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Town \u0026 Country Market, 1326 W Olive Ave Porterville CA US",
+    "ovtr:similarity": 2.81099796295166,
+    "sg:address": "1310 W Olive Ave",
+    "sg:city": "Porterville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 784 6431",
-    "sg:postcode":"93257",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocers-specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 784 6431",
+    "sg:postcode": "93257",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocers-specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85830847,
-        85633793,
-        85922471,
-        102082895,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85830847,
+      85633793,
+      85922471,
+      102082895,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4lKMOpQa8AqMTe5bB7oTvC_36.065890_-119.047369@1303263293"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ae24b8b40b403d07a523081a1f7",
+      "sg:id": "SG_4lKMOpQa8AqMTe5bB7oTvC_36.065890_-119.047369@1303263293"
     },
-    "wof:country":"US",
-    "wof:geomhash":"568a9297a910faa68f6e86a54bbfc6dc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922471,
-            "neighbourhood_id":85830847,
-            "region_id":85688637,
-            "venue_id":588300071
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "568a9297a910faa68f6e86a54bbfc6dc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922471,
+        "neighbourhood_id": 85830847,
+        "region_id": 85688637,
+        "venue_id": 588300071
+      }
     ],
-    "wof:id":588300071,
-    "wof:lastmodified":1509201975,
-    "wof:name":"Town & Country Market",
-    "wof:parent_id":85830847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocers-specialty"
+    "wof:id": 588300071,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Town \u0026 Country Market",
+    "wof:parent_id": 85830847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocers-specialty"
     ]
-},
+  },
   "bbox": [
     -119.047369,
     36.06589,
     -119.047369,
     36.06589
-],
+  ],
   "geometry": {"coordinates":[-119.047369,36.06589],"type":"Point"}
 }

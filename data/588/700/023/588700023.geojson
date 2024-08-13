@@ -2,77 +2,81 @@
   "id": 588700023,
   "type": "Feature",
   "properties": {
-    "addr:full":"8000 Folsom Blvd #6620 Sacramento CA 95826",
-    "addr:housenumber":"8000",
-    "addr:postcode":"95826",
-    "addr:street":"Folsom Blvd # 6620",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.410743,38.54889,-121.410743,38.54889",
-    "geom:latitude":38.54889,
-    "geom:longitude":-121.410743,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8000 Folsom Blvd #6620",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8000 Folsom Blvd #6620 Sacramento CA 95826",
+    "addr:housenumber": "8000",
+    "addr:postcode": "95826",
+    "addr:street": "Folsom Blvd # 6620",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.410743,38.548890,-121.410743,38.548890",
+    "geom:latitude": 38.54889,
+    "geom:longitude": -121.410743,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Home Depot, 8000 Folsom Blvd Sacramento CA US",
+    "ovtr:similarity": 3.4495999813079834,
+    "sg:address": "8000 Folsom Blvd #6620",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 381 3181",
-    "sg:postcode":"95826",
-    "sg:province":"CA",
-    "sg:website":"www.homedepot.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85843721
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 381 3181",
+    "sg:postcode": "95826",
+    "sg:province": "CA",
+    "sg:website": "www.homedepot.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85843721
     ],
-    "wof:brand_id":1125149257,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6RJEOlNzO5NfTWjQIQYqSJ_38.548890_-121.410743@1303263397"
+    "wof:brand_id": 1125149257,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283284bb4c661036d427b32cfb8f2",
+      "sg:id": "SG_6RJEOlNzO5NfTWjQIQYqSJ_38.548890_-121.410743@1303263397"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bd23ef93abd7f63617674335fbf6dd22",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85843721,
-            "region_id":85688637,
-            "venue_id":588700023
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "bd23ef93abd7f63617674335fbf6dd22",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85843721,
+        "region_id": 85688637,
+        "venue_id": 588700023
+      }
     ],
-    "wof:id":588700023,
-    "wof:lastmodified":1511319668,
-    "wof:name":"The Home Depot",
-    "wof:parent_id":85843721,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588700023,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "The Home Depot",
+    "wof:parent_id": 85843721,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.410743,
     38.54889,
     -121.410743,
     38.54889
-],
+  ],
   "geometry": {"coordinates":[-121.410743,38.54889],"type":"Point"}
 }

@@ -2,67 +2,75 @@
   "id": 572146151,
   "type": "Feature",
   "properties": {
-    "addr:full":"631 2nd St Corning CA 96021",
-    "addr:housenumber":"631",
-    "addr:postcode":"96021",
-    "addr:street":"2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.17807,39.929553,-122.17807,39.929553",
-    "geom:latitude":39.929553,
-    "geom:longitude":-122.17807,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"631 2nd St",
-    "sg:city":"Corning",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "631 2nd St Corning CA 96021",
+    "addr:housenumber": "631",
+    "addr:postcode": "96021",
+    "addr:street": "2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.178070,39.929553,-122.178070,39.929553",
+    "geom:latitude": 39.929553,
+    "geom:longitude": -122.17807,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ron's Body Shop, 631 2nd St Corning CA US",
+    "ovtr:similarity": 2.132927894592285,
+    "sg:address": "631 2nd St",
+    "sg:city": "Corning",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 824 4465",
-    "sg:postcode":"96021",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 824 4465",
+    "sg:postcode": "96021",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7h5wm035QQlaxmbpIFPKrr_39.929585_-122.177975@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2815d61809661039f7ec23ccf9110",
+      "sg:id": "SG_7h5wm035QQlaxmbpIFPKrr_39.929585_-122.177975@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e98a4557d2aa1f10785e8610f0e56eae",
-    "wof:hierarchy":[],
-    "wof:id":572146151,
-    "wof:lastmodified":1509201707,
-    "wof:name":"Ron's Body Shop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "e98a4557d2aa1f10785e8610f0e56eae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572146151
+      }
+    ],
+    "wof:id": 572146151,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Ron's Body Shop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -122.17807,
     39.929553,
     -122.17807,
     39.929553
-],
-  "geometry": {"coordinates":[-122.17807000000001,39.929553],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.17807,39.929553],"type":"Point"}
 }

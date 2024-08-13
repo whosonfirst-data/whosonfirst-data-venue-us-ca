@@ -2,76 +2,80 @@
   "id": 370529839,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Almond Ave Los Altos CA 94022",
-    "addr:housenumber":"550",
-    "addr:postcode":"94022",
-    "addr:street":"Almond Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.10108,37.385,-122.10108,37.385",
-    "geom:latitude":37.385,
-    "geom:longitude":-122.10108,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"550 Almond Ave",
-    "sg:city":"Los Altos",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "550 Almond Ave Los Altos CA 94022",
+    "addr:housenumber": "550",
+    "addr:postcode": "94022",
+    "addr:street": "Almond Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.101080,37.385000,-122.101080,37.385000",
+    "geom:latitude": 37.385,
+    "geom:longitude": -122.10108,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Almond Elementary School, 550 Almond Ave Los Altos CA US",
+    "ovtr:similarity": 2.4512600898742676,
+    "sg:address": "550 Almond Ave",
+    "sg:city": "Los Altos",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 917 5400",
-    "sg:postcode":"94022",
-    "sg:province":"CA",
-    "sg:website":"www.almondschool.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922385,
-        102081673,
-        85886305
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 917 5400",
+    "sg:postcode": "94022",
+    "sg:province": "CA",
+    "sg:website": "www.almondschool.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922385,
+      102081673,
+      85886305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_05iwyIqktgUpOKUoBhxvLH_37.385000_-122.101080@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834773983a4203349f8b53b3e2c3",
+      "sg:id": "SG_05iwyIqktgUpOKUoBhxvLH_37.385000_-122.101080@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c59772653e54c144856ef22c9156e4e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922385,
-            "neighbourhood_id":85886305,
-            "region_id":85688637,
-            "venue_id":370529839
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "c59772653e54c144856ef22c9156e4e3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922385,
+        "neighbourhood_id": 85886305,
+        "region_id": 85688637,
+        "venue_id": 370529839
+      }
     ],
-    "wof:id":370529839,
-    "wof:lastmodified":1509200759,
-    "wof:name":"Almond Elementary School",
-    "wof:parent_id":85886305,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370529839,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Almond Elementary School",
+    "wof:parent_id": 85886305,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.10108,
     37.385,
     -122.10108,
     37.385
-],
+  ],
   "geometry": {"coordinates":[-122.10108,37.385],"type":"Point"}
 }

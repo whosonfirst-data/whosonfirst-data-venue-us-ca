@@ -2,85 +2,89 @@
   "id": 370826347,
   "type": "Feature",
   "properties": {
-    "addr:full":"1716 Sunset Blvd Los Angeles CA 90026",
-    "addr:housenumber":"1716",
-    "addr:postcode":"90026",
-    "addr:street":"Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.259064,34.077222,-118.259064,34.077222",
-    "geom:latitude":34.077222,
-    "geom:longitude":-118.259064,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1716 Sunset Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1716 Sunset Blvd Los Angeles CA 90026",
+    "addr:housenumber": "1716",
+    "addr:postcode": "90026",
+    "addr:street": "Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.259064,34.077222,-118.259064,34.077222",
+    "geom:latitude": 34.077222,
+    "geom:longitude": -118.259064,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Stories, 1716 W Sunset Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.8959760665893555,
+    "sg:address": "1716 Sunset Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 413 3733",
-    "sg:postcode":"90026",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bookstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 413 3733",
+    "sg:postcode": "90026",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bookstore"
     ],
-    "sg:website":"www.storiesla.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865835
+    "sg:website": "www.storiesla.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865835
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bDQ6H2Sjc6arEUkMQDDIt_34.077222_-118.259064@1303263156"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d4450e4f103b536140fc9bee5",
+      "sg:id": "SG_5bDQ6H2Sjc6arEUkMQDDIt_34.077222_-118.259064@1303263156"
     },
-    "wof:country":"US",
-    "wof:geomhash":"223e4129ce01ede4338a4918d62edc96",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865835,
-            "region_id":85688637,
-            "venue_id":370826347
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "223e4129ce01ede4338a4918d62edc96",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865835,
+        "region_id": 85688637,
+        "venue_id": 370826347
+      }
     ],
-    "wof:id":370826347,
-    "wof:lastmodified":1509200828,
-    "wof:name":"Stories",
-    "wof:parent_id":85865835,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore"
+    "wof:id": 370826347,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Stories",
+    "wof:parent_id": 85865835,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore"
     ]
-},
+  },
   "bbox": [
     -118.259064,
     34.077222,
     -118.259064,
     34.077222
-],
+  ],
   "geometry": {"coordinates":[-118.259064,34.077222],"type":"Point"}
 }

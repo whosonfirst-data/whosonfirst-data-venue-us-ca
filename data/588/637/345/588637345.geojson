@@ -2,84 +2,88 @@
   "id": 588637345,
   "type": "Feature",
   "properties": {
-    "addr:full":"1511C S Main St Willits CA 95490",
-    "addr:housenumber":"1511c",
-    "addr:postcode":"95490",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.348907,39.394642,-123.348907,39.394642",
-    "geom:latitude":39.394642,
-    "geom:longitude":-123.348907,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1511C S Main St",
-    "sg:city":"Willits",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1511C S Main St Willits CA 95490",
+    "addr:housenumber": "1511c",
+    "addr:postcode": "95490",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.348907,39.394642,-123.348907,39.394642",
+    "geom:latitude": 39.394642,
+    "geom:longitude": -123.348907,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Body Works Gym, 1510 S Main St Willits CA US",
+    "ovtr:similarity": 2.6599249839782715,
+    "sg:address": "1511C S Main St",
+    "sg:city": "Willits",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 459 0594",
-    "sg:postcode":"95490",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 459 0594",
+    "sg:postcode": "95490",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85835941,
-        85633793,
-        85922565,
-        102082885,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85835941,
+      85633793,
+      85922565,
+      102082885,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4SoTUwAJvp63NqdySTFsdC_39.394642_-123.348907@1303263380"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2806d4ab1831803fbbc9cc2873d78",
+      "sg:id": "SG_4SoTUwAJvp63NqdySTFsdC_39.394642_-123.348907@1303263380"
     },
-    "wof:country":"US",
-    "wof:geomhash":"edde47239fff83ede73ed0f06acc83f1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082885,
-            "locality_id":85922565,
-            "neighbourhood_id":85835941,
-            "region_id":85688637,
-            "venue_id":588637345
-        }
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "edde47239fff83ede73ed0f06acc83f1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082885,
+        "locality_id": 85922565,
+        "neighbourhood_id": 85835941,
+        "region_id": 85688637,
+        "venue_id": 588637345
+      }
     ],
-    "wof:id":588637345,
-    "wof:lastmodified":1509202184,
-    "wof:name":"Body Works Gym",
-    "wof:parent_id":85835941,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "wof:id": 588637345,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Body Works Gym",
+    "wof:parent_id": 85835941,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -123.348907,
     39.394642,
     -123.348907,
     39.394642
-],
+  ],
   "geometry": {"coordinates":[-123.348907,39.394642],"type":"Point"}
 }

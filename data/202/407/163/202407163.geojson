@@ -2,71 +2,75 @@
   "id": 202407163,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 Oak Manor Dr Fairfax CA 94930",
-    "addr:housenumber":"150",
-    "addr:postcode":"94930",
-    "addr:street":"Oak Manor Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.595582,37.99595,-122.595582,37.99595",
-    "geom:latitude":37.99595,
-    "geom:longitude":-122.595582,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"150 Oak Manor Dr",
-    "sg:city":"Fairfax",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "150 Oak Manor Dr Fairfax CA 94930",
+    "addr:housenumber": "150",
+    "addr:postcode": "94930",
+    "addr:street": "Oak Manor Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.595582,37.995950,-122.595582,37.995950",
+    "geom:latitude": 37.99595,
+    "geom:longitude": -122.595582,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Manor Elementary School, 150 Oak Manor Dr Fairfax CA US",
+    "ovtr:similarity": 3.4335219860076904,
+    "sg:address": "150 Oak Manor Dr",
+    "sg:city": "Fairfax",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 453 1544",
-    "sg:postcode":"94930",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102084353,
-        85633793,
-        85688637,
-        85832149
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 453 1544",
+    "sg:postcode": "94930",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102084353,
+      85633793,
+      85688637,
+      85832149
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6z5AK0k9odCrBkgeR80IJI_37.995950_-122.595582@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830ba842bbb4036254f13a0ba17d",
+      "sg:id": "SG_6z5AK0k9odCrBkgeR80IJI_37.995950_-122.595582@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2605ea6cd82c450e7d1d029607a166d9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084353,
-            "neighbourhood_id":85832149,
-            "region_id":85688637,
-            "venue_id":202407163
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "2605ea6cd82c450e7d1d029607a166d9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "neighbourhood_id": 85832149,
+        "region_id": 85688637,
+        "venue_id": 202407163
+      }
     ],
-    "wof:id":202407163,
-    "wof:lastmodified":1509199876,
-    "wof:name":"Manor Elementary School",
-    "wof:parent_id":85832149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 202407163,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Manor Elementary School",
+    "wof:parent_id": 85832149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.595582,
     37.99595,
     -122.595582,
     37.99595
-],
-  "geometry": {"coordinates":[-122.59558199999999,37.99595],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.595582,37.99595],"type":"Point"}
 }

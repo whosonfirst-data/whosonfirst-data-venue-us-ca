@@ -2,91 +2,95 @@
   "id": 588653485,
   "type": "Feature",
   "properties": {
-    "addr:full":"3971 Douglas Blvd Roseville CA 95661",
-    "addr:housenumber":"3971",
-    "addr:postcode":"95661",
-    "addr:street":"Douglas Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.226449,38.743889,-121.226449,38.743889",
-    "geom:latitude":38.743889,
-    "geom:longitude":-121.226449,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3971 Douglas Blvd",
-    "sg:city":"Roseville",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Fuel Oil & Lpg",
-            "type":"Services"
-        },
-        {
-            "category":"Utilities",
-            "subcategory":"Natural Gas",
-            "type":"Services"
-        }
+    "addr:full": "3971 Douglas Blvd Roseville CA 95661",
+    "addr:housenumber": "3971",
+    "addr:postcode": "95661",
+    "addr:street": "Douglas Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.226449,38.743889,-121.226449,38.743889",
+    "geom:latitude": 38.743889,
+    "geom:longitude": -121.226449,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Placer Propane, 3971 Douglas Blvd Roseville CA US",
+    "ovtr:similarity": 2.080596923828125,
+    "sg:address": "3971 Douglas Blvd",
+    "sg:city": "Roseville",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Fuel Oil \u0026 Lpg",
+        "type": "Services"
+      },
+      {
+        "category": "Utilities",
+        "subcategory": "Natural Gas",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 791 7898",
-    "sg:postcode":"95661",
-    "sg:province":"CA",
-    "sg:tags":[
-        "propane",
-        "bulk",
-        "petroleum-bottled",
-        "gas-liquefied"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 791 7898",
+    "sg:postcode": "95661",
+    "sg:province": "CA",
+    "sg:tags": [
+      "propane",
+      "bulk",
+      "petroleum-bottled",
+      "gas-liquefied"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85924205,
-        102080863,
-        85887193
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85924205,
+      102080863,
+      85887193
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5xdnvI9hxfAQkFBg6gg6Do_38.743889_-121.226449@1303263384"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283214c99231903ae158b666527d1",
+      "sg:id": "SG_5xdnvI9hxfAQkFBg6gg6Do_38.743889_-121.226449@1303263384"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5391d315be0c510e06d1080ada9ab7b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":85924205,
-            "neighbourhood_id":85887193,
-            "region_id":85688637,
-            "venue_id":588653485
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "5391d315be0c510e06d1080ada9ab7b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": 85924205,
+        "neighbourhood_id": 85887193,
+        "region_id": 85688637,
+        "venue_id": 588653485
+      }
     ],
-    "wof:id":588653485,
-    "wof:lastmodified":1509202194,
-    "wof:name":"Placer Propane",
-    "wof:parent_id":85887193,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "propane",
-        "bulk",
-        "petroleum-bottled",
-        "gas-liquefied"
+    "wof:id": 588653485,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Placer Propane",
+    "wof:parent_id": 85887193,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "propane",
+      "bulk",
+      "petroleum-bottled",
+      "gas-liquefied"
     ]
-},
+  },
   "bbox": [
     -121.226449,
     38.743889,
     -121.226449,
     38.743889
-],
+  ],
   "geometry": {"coordinates":[-121.226449,38.743889],"type":"Point"}
 }

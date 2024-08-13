@@ -2,82 +2,86 @@
   "id": 252868235,
   "type": "Feature",
   "properties": {
-    "addr:full":"1516 S Robertson Blvd Los Angeles CA 90035",
-    "addr:housenumber":"1516",
-    "addr:postcode":"90035",
-    "addr:street":"S Robertson Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.384072,34.051834,-118.384072,34.051834",
-    "geom:latitude":34.051834,
-    "geom:longitude":-118.384072,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1516 S Robertson Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1516 S Robertson Blvd Los Angeles CA 90035",
+    "addr:housenumber": "1516",
+    "addr:postcode": "90035",
+    "addr:street": "S Robertson Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.384072,34.051834,-118.384072,34.051834",
+    "geom:latitude": 34.051834,
+    "geom:longitude": -118.384072,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Los Angeles Fire Dept. Station 58, 1556 S Robertson Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.399864912033081,
+    "sg:address": "1516 S Robertson Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 485 6258",
-    "sg:postcode":"90035",
-    "sg:province":"CA",
-    "sg:tags":[
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 485 6258",
+    "sg:postcode": "90035",
+    "sg:province": "CA",
+    "sg:tags": [
+      "protection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865815",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_094YC5n88s57r3pJZGQ95H_34.051834_-118.384072@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a199ed25d530325fc61bca0f69f",
+      "sg:id": "SG_094YC5n88s57r3pJZGQ95H_34.051834_-118.384072@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"27338b6bcde634e24682a4f9b2cda2c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85865815",
-            "region_id":85688637,
-            "venue_id":252868235
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "27338b6bcde634e24682a4f9b2cda2c1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85865815,
+        "region_id": 85688637,
+        "venue_id": 252868235
+      }
     ],
-    "wof:id":252868235,
-    "wof:lastmodified":1509200088,
-    "wof:name":"Fire Dept-Station 58",
-    "wof:parent_id":"85865815",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection"
+    "wof:id": 252868235,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Fire Dept-Station 58",
+    "wof:parent_id": "85865815",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection"
     ]
-},
+  },
   "bbox": [
     -118.384072,
     34.051834,
     -118.384072,
     34.051834
-],
+  ],
   "geometry": {"coordinates":[-118.384072,34.051834],"type":"Point"}
 }

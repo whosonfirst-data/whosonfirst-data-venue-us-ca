@@ -2,78 +2,82 @@
   "id": 572066641,
   "type": "Feature",
   "properties": {
-    "addr:full":"1501 University Ave Berkeley CA 94703",
-    "addr:housenumber":"1501",
-    "addr:postcode":"94703",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.281901,37.87047,-122.281901,37.87047",
-    "geom:latitude":37.87047,
-    "geom:longitude":-122.281901,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1501 University Ave",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1501 University Ave Berkeley CA 94703",
+    "addr:housenumber": "1501",
+    "addr:postcode": "94703",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.281901,37.870470,-122.281901,37.870470",
+    "geom:latitude": 37.87047,
+    "geom:longitude": -122.281901,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 1501 University Ave Berkeley CA US",
+    "ovtr:similarity": 2.5998380184173584,
+    "sg:address": "1501 University Ave",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 841 1330",
-    "sg:postcode":"94703",
-    "sg:province":"CA",
-    "sg:website":"www.7-eleven.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921915,
-        102086959,
-        85876225
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 841 1330",
+    "sg:postcode": "94703",
+    "sg:province": "CA",
+    "sg:website": "www.7-eleven.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921915,
+      102086959,
+      85876225
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":409433398,
-        "sg:id":"SG_42iJpkrQppujU5WVTytNmN_37.870371_-122.281908@1293134755"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 409433398,
+      "ovtr:id": "08f28308a9b92aeb03f452d2d7746379",
+      "sg:id": "SG_42iJpkrQppujU5WVTytNmN_37.870371_-122.281908@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"735d30b875a0363d32438b74a28319f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921915,
-            "neighbourhood_id":85876225,
-            "region_id":85688637,
-            "venue_id":572066641
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "735d30b875a0363d32438b74a28319f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921915,
+        "neighbourhood_id": 85876225,
+        "region_id": 85688637,
+        "venue_id": 572066641
+      }
     ],
-    "wof:id":572066641,
-    "wof:lastmodified":1511321768,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85876225,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572066641,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85876225,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.281901,
     37.87047,
     -122.281901,
     37.87047
-],
+  ],
   "geometry": {"coordinates":[-122.281901,37.87047],"type":"Point"}
 }

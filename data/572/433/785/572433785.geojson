@@ -2,89 +2,93 @@
   "id": 572433785,
   "type": "Feature",
   "properties": {
-    "addr:full":"14222 Culver Dr Irvine CA 92604",
-    "addr:housenumber":"14222",
-    "addr:postcode":"92604",
-    "addr:street":"Culver Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.784398,33.707688,-117.784398,33.707688",
-    "geom:latitude":33.707688,
-    "geom:longitude":-117.784398,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"14222 Culver Dr",
-    "sg:city":"Irvine",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        },
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Financial Services",
-            "type":"Services"
-        }
+    "addr:full": "14222 Culver Dr Irvine CA 92604",
+    "addr:housenumber": "14222",
+    "addr:postcode": "92604",
+    "addr:street": "Culver Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.784398,33.707688,-117.784398,33.707688",
+    "geom:latitude": 33.707688,
+    "geom:longitude": -117.784398,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank of America, 14222 Culver Dr Irvine CA US",
+    "ovtr:similarity": 2.6409339904785156,
+    "sg:address": "14222 Culver Dr",
+    "sg:city": "Irvine",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      },
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 552 2500",
-    "sg:postcode":"92604",
-    "sg:province":"CA",
-    "sg:tags":[
-        "broker",
-        "mortgage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 552 2500",
+    "sg:postcode": "92604",
+    "sg:province": "CA",
+    "sg:tags": [
+      "broker",
+      "mortgage"
     ],
-    "sg:website":"www.bankofamerica.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923131,
-        102080847,
-        85878249
+    "sg:website": "www.bankofamerica.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923131,
+      102080847,
+      85878249
     ],
-    "wof:brand_id":420573893,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BMyz5GhHSZzqpq1pXsNWC_33.707688_-117.784398@1303263259"
+    "wof:brand_id": 420573893,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b052f111803224b18f6459489",
+      "sg:id": "SG_5BMyz5GhHSZzqpq1pXsNWC_33.707688_-117.784398@1303263259"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8d8f89d480296c62c904e44a29e00d72",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923131,
-            "neighbourhood_id":85878249,
-            "region_id":85688637,
-            "venue_id":572433785
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "8d8f89d480296c62c904e44a29e00d72",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923131,
+        "neighbourhood_id": 85878249,
+        "region_id": 85688637,
+        "venue_id": 572433785
+      }
     ],
-    "wof:id":572433785,
-    "wof:lastmodified":1511321319,
-    "wof:name":"Bank of America",
-    "wof:parent_id":85878249,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broker",
-        "mortgage"
+    "wof:id": 572433785,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Bank of America",
+    "wof:parent_id": 85878249,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broker",
+      "mortgage"
     ]
-},
+  },
   "bbox": [
     -117.784398,
     33.707688,
     -117.784398,
     33.707688
-],
+  ],
   "geometry": {"coordinates":[-117.784398,33.707688],"type":"Point"}
 }

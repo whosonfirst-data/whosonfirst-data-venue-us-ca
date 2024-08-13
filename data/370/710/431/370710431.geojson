@@ -2,85 +2,89 @@
   "id": 370710431,
   "type": "Feature",
   "properties": {
-    "addr:full":"1048 S Fairfax Ave Los Angeles CA 90019",
-    "addr:housenumber":"1048",
-    "addr:postcode":"90019",
-    "addr:street":"S Fairfax Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.364329,34.056788,-118.364329,34.056788",
-    "geom:latitude":34.056788,
-    "geom:longitude":-118.364329,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1048 S Fairfax Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Tea Room",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1048 S Fairfax Ave Los Angeles CA 90019",
+    "addr:housenumber": "1048",
+    "addr:postcode": "90019",
+    "addr:street": "S Fairfax Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.364329,34.056788,-118.364329,34.056788",
+    "geom:latitude": 34.056788,
+    "geom:longitude": -118.364329,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Little Ethiopia Restaurant, 1048 S Fairfax Ave Los Angeles CA US",
+    "ovtr:similarity": 1.9814339876174927,
+    "sg:address": "1048 S Fairfax Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Tea Room",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 930 2808",
-    "sg:postcode":"90019",
-    "sg:province":"CA",
-    "sg:tags":[
-        "ethiopian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 930 2808",
+    "sg:postcode": "90019",
+    "sg:province": "CA",
+    "sg:tags": [
+      "ethiopian"
     ],
-    "sg:website":"www.littleethiopiarestaurants.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869427
+    "sg:website": "www.littleethiopiarestaurants.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3UfqWbNFaV2Pnkxaqqpu72_34.056788_-118.364329@1303263153"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1993776190031dda6b8f53152f",
+      "sg:id": "SG_3UfqWbNFaV2Pnkxaqqpu72_34.056788_-118.364329@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1a789f1da99386083c5b2eea05b07136",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869427,
-            "region_id":85688637,
-            "venue_id":370710431
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "1a789f1da99386083c5b2eea05b07136",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869427,
+        "region_id": 85688637,
+        "venue_id": 370710431
+      }
     ],
-    "wof:id":370710431,
-    "wof:lastmodified":1509200802,
-    "wof:name":"Little Ethiopia Restaurant",
-    "wof:parent_id":85869427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "ethiopian"
+    "wof:id": 370710431,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Little Ethiopia Restaurant",
+    "wof:parent_id": 85869427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "ethiopian"
     ]
-},
+  },
   "bbox": [
     -118.364329,
     34.056788,
     -118.364329,
     34.056788
-],
+  ],
   "geometry": {"coordinates":[-118.364329,34.056788],"type":"Point"}
 }

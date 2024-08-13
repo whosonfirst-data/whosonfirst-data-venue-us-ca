@@ -2,84 +2,88 @@
   "id": 572185695,
   "type": "Feature",
   "properties": {
-    "addr:full":"2150 S Bradley Rd Santa Maria CA 93455",
-    "addr:housenumber":"2150",
-    "addr:postcode":"93455",
-    "addr:street":"S Bradley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.422039,34.921578,-120.422039,34.921578",
-    "geom:latitude":34.921578,
-    "geom:longitude":-120.422039,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2150 S Bradley Rd",
-    "sg:city":"Santa Maria",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2150 S Bradley Rd Santa Maria CA 93455",
+    "addr:housenumber": "2150",
+    "addr:postcode": "93455",
+    "addr:street": "S Bradley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.422039,34.921578,-120.422039,34.921578",
+    "geom:latitude": 34.921578,
+    "geom:longitude": -120.422039,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Wendy's, 2150 S Bradley Rd Santa Maria CA US",
+    "ovtr:similarity": 2.4775049686431885,
+    "sg:address": "2150 S Bradley Rd",
+    "sg:city": "Santa Maria",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/santa-maria-valley/174546-wendys/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 614 9730",
-    "sg:postcode":"93455",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american",
-        "soup"
+    "sg:menulink": "http://www.allmenus.com/ca/santa-maria-valley/174546-wendys/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 614 9730",
+    "sg:postcode": "93455",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american",
+      "soup"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85921777,
-        102080855,
-        85838003
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85921777,
+      102080855,
+      85838003
     ],
-    "wof:brand_id":420573903,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37obYYRqGVkcHeTf0PGvEP_34.921578_-120.422039@1299784598"
+    "wof:brand_id": 420573903,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2913693d09132033f7fc344679946",
+      "sg:id": "SG_37obYYRqGVkcHeTf0PGvEP_34.921578_-120.422039@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bbd205ae0c2041c658760ca69e158caa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080855,
-            "locality_id":85921777,
-            "neighbourhood_id":85838003,
-            "region_id":85688637,
-            "venue_id":572185695
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "bbd205ae0c2041c658760ca69e158caa",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102080855,
+        "locality_id": 85921777,
+        "neighbourhood_id": 85838003,
+        "region_id": 85688637,
+        "venue_id": 572185695
+      }
     ],
-    "wof:id":572185695,
-    "wof:lastmodified":1511322559,
-    "wof:name":"Wendy's",
-    "wof:parent_id":85838003,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american",
-        "soup"
+    "wof:id": 572185695,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Wendy's",
+    "wof:parent_id": 85838003,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american",
+      "soup"
     ]
-},
+  },
   "bbox": [
     -120.422039,
     34.921578,
     -120.422039,
     34.921578
-],
+  ],
   "geometry": {"coordinates":[-120.422039,34.921578],"type":"Point"}
 }

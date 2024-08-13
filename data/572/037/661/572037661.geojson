@@ -2,82 +2,86 @@
   "id": 572037661,
   "type": "Feature",
   "properties": {
-    "addr:full":"3175 Glendale Blvd Los Angeles CA 90039",
-    "addr:housenumber":"3175",
-    "addr:postcode":"90039",
-    "addr:street":"Glendale Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.262001,34.116798,-118.262001,34.116798",
-    "geom:latitude":34.116798,
-    "geom:longitude":-118.262001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3175 Glendale Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3175 Glendale Blvd Los Angeles CA 90039",
+    "addr:housenumber": "3175",
+    "addr:postcode": "90039",
+    "addr:street": "Glendale Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.262001,34.116798,-118.262001,34.116798",
+    "geom:latitude": 34.116798,
+    "geom:longitude": -118.262001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Baracoa Cuban Cafe, 3175 Glendale Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.9969849586486816,
+    "sg:address": "3175 Glendale Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 665 9590",
-    "sg:postcode":"90039",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cuban"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 665 9590",
+    "sg:postcode": "90039",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cuban"
     ],
-    "sg:website":"www.baracoacubancafe.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85868367
+    "sg:website": "www.baracoacubancafe.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85868367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":428412137,
-        "sg:id":"SG_2UzVyrx5neP5AD0980NIKi_34.116341_-118.262676@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 428412137,
+      "ovtr:id": "08f29a1d43c14a0a03318f72743160d9",
+      "sg:id": "SG_2UzVyrx5neP5AD0980NIKi_34.116341_-118.262676@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9f506743e1eb887a85f25cb8f44024b9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868367,
-            "region_id":85688637,
-            "venue_id":572037661
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "9f506743e1eb887a85f25cb8f44024b9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868367,
+        "region_id": 85688637,
+        "venue_id": 572037661
+      }
     ],
-    "wof:id":572037661,
-    "wof:lastmodified":1510942274,
-    "wof:name":"Baracoa Cuban Cafe",
-    "wof:parent_id":85868367,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cuban"
+    "wof:id": 572037661,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Baracoa Cuban Cafe",
+    "wof:parent_id": 85868367,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cuban"
     ]
-},
+  },
   "bbox": [
     -118.262001,
     34.116798,
     -118.262001,
     34.116798
-],
+  ],
   "geometry": {"coordinates":[-118.262001,34.116798],"type":"Point"}
 }

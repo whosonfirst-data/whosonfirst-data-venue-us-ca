@@ -2,80 +2,84 @@
   "id": 572053285,
   "type": "Feature",
   "properties": {
-    "addr:full":"845 Harbor Blvd West Sacramento CA 95691",
-    "addr:housenumber":"845",
-    "addr:postcode":"95691",
-    "addr:street":"Harbor Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.549004,38.577702,-121.549004,38.577702",
-    "geom:latitude":38.577702,
-    "geom:longitude":-121.549004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"845 Harbor Blvd",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "845 Harbor Blvd West Sacramento CA 95691",
+    "addr:housenumber": "845",
+    "addr:postcode": "95691",
+    "addr:street": "Harbor Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.549004,38.577702,-121.549004,38.577702",
+    "geom:latitude": 38.577702,
+    "geom:longitude": -121.549004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Grocery Outlet, 845 Harbor Blvd West Sacramento CA US",
+    "ovtr:similarity": 1.877634048461914,
+    "sg:address": "845 Harbor Blvd",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 373 3150",
-    "sg:postcode":"95691",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 373 3150",
+    "sg:postcode": "95691",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922413,
-        102082309,
-        85834181
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922413,
+      102082309,
+      85834181
     ],
-    "wof:brand_id":1125154875,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":120651489,
-        "sg:id":"SG_3K9v1VU4htZ5Vwc8DyQP5L_38.578189_-121.548618@1293134755"
+    "wof:brand_id": 1125154875,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 120651489,
+      "ovtr:id": "08f2832b0e98a17603d8504a600ba872",
+      "sg:id": "SG_3K9v1VU4htZ5Vwc8DyQP5L_38.578189_-121.548618@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2aa76314ba4964be1843459ccf30ab1b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":572053285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "2aa76314ba4964be1843459ccf30ab1b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 572053285
+      }
     ],
-    "wof:id":572053285,
-    "wof:lastmodified":1510941306,
-    "wof:name":"Grocery Outlet",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 572053285,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Grocery Outlet",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -121.549004,
     38.577702,
     -121.549004,
     38.577702
-],
+  ],
   "geometry": {"coordinates":[-121.549004,38.577702],"type":"Point"}
 }

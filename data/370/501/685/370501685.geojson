@@ -2,78 +2,82 @@
   "id": 370501685,
   "type": "Feature",
   "properties": {
-    "addr:full":"11988 Wilshire Blvd Los Angeles CA 90025",
-    "addr:housenumber":"11988",
-    "addr:postcode":"90025",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.465427,34.045762,-118.465427,34.045762",
-    "geom:latitude":34.045762,
-    "geom:longitude":-118.465427,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"11988 Wilshire Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Hardware",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11988 Wilshire Blvd Los Angeles CA 90025",
+    "addr:housenumber": "11988",
+    "addr:postcode": "90025",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.465427,34.045762,-118.465427,34.045762",
+    "geom:latitude": 34.045762,
+    "geom:longitude": -118.465427,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Nina's Kitchen Bath \u0026 Hardware, 11988 Wilshire Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.1140620708465576,
+    "sg:address": "11988 Wilshire Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Hardware",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 820 0025",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 820 0025",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000047811-0001-9",
-        "sg:id":"SG_6m04hkCJi10OAZx17Zeklo_34.045762_-118.465427@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000047811-0001-9",
+      "ovtr:id": "08f29a198e1752da033a03ba56e7c436",
+      "sg:id": "SG_6m04hkCJi10OAZx17Zeklo_34.045762_-118.465427@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"91b47833026b09c8938c7ad2f41466a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":370501685
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "91b47833026b09c8938c7ad2f41466a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 370501685
+      }
     ],
-    "wof:id":370501685,
-    "wof:lastmodified":1509200752,
-    "wof:name":"Nina's Kitchen Bath & Hardware",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370501685,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Nina's Kitchen Bath \u0026 Hardware",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.465427,
     34.045762,
     -118.465427,
     34.045762
-],
-  "geometry": {"coordinates":[-118.46542700000001,34.045762],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.465427,34.045762],"type":"Point"}
 }

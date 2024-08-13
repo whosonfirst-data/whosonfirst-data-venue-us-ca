@@ -2,78 +2,82 @@
   "id": 572471221,
   "type": "Feature",
   "properties": {
-    "addr:full":"26541 Aliso Creek Rd Aliso Viejo CA 92656",
-    "addr:housenumber":"26541",
-    "addr:postcode":"92656",
-    "addr:street":"Aliso Creek Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.723358,33.576848,-117.723358,33.576848",
-    "geom:latitude":33.576848,
-    "geom:longitude":-117.723358,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"26541 Aliso Creek Rd",
-    "sg:city":"Aliso Viejo",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "26541 Aliso Creek Rd Aliso Viejo CA 92656",
+    "addr:housenumber": "26541",
+    "addr:postcode": "92656",
+    "addr:street": "Aliso Creek Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.723358,33.576848,-117.723358,33.576848",
+    "geom:latitude": 33.576848,
+    "geom:longitude": -117.723358,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 26541 Aliso Creek Rd Aliso Viejo CA US",
+    "ovtr:similarity": 2.357551097869873,
+    "sg:address": "26541 Aliso Creek Rd",
+    "sg:city": "Aliso Viejo",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 643 5531",
-    "sg:postcode":"92656",
-    "sg:province":"CA",
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923169,
-        102080847,
-        85886189
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 643 5531",
+    "sg:postcode": "92656",
+    "sg:province": "CA",
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923169,
+      102080847,
+      85886189
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":98965005,
-        "sg:id":"SG_2JqB0isQhmOGMqc5eP7EZN_33.576848_-117.723358@1303263268"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 98965005,
+      "ovtr:id": "08f29a549cc60c32032834695707c39c",
+      "sg:id": "SG_2JqB0isQhmOGMqc5eP7EZN_33.576848_-117.723358@1303263268"
     },
-    "wof:country":"US",
-    "wof:geomhash":"95b6efad04ad90e01b7c99387b44dcdf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923169,
-            "neighbourhood_id":85886189,
-            "region_id":85688637,
-            "venue_id":572471221
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "95b6efad04ad90e01b7c99387b44dcdf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923169,
+        "neighbourhood_id": 85886189,
+        "region_id": 85688637,
+        "venue_id": 572471221
+      }
     ],
-    "wof:id":572471221,
-    "wof:lastmodified":1510942227,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":85886189,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572471221,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 85886189,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.723358,
     33.576848,
     -117.723358,
     33.576848
-],
+  ],
   "geometry": {"coordinates":[-117.723358,33.576848],"type":"Point"}
 }

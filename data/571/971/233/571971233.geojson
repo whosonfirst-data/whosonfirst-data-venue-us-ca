@@ -2,69 +2,77 @@
   "id": 571971233,
   "type": "Feature",
   "properties": {
-    "addr:full":"928 Main St Woodland CA 95695",
-    "addr:housenumber":"928",
-    "addr:postcode":"95695",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.769073,38.677427,-121.769073,38.677427",
-    "geom:latitude":38.677427,
-    "geom:longitude":-121.769073,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"928 Main St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "928 Main St Woodland CA 95695",
+    "addr:housenumber": "928",
+    "addr:postcode": "95695",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.769073,38.677427,-121.769073,38.677427",
+    "geom:latitude": 38.677427,
+    "geom:longitude": -121.769073,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 928 Main St Woodland CA US",
+    "ovtr:similarity": 2.5044760704040527,
+    "sg:address": "928 Main St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 668 9900",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "sg:tags":[
-        "renting",
-        "automobile",
-        "truck"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 668 9900",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "sg:tags": [
+      "renting",
+      "automobile",
+      "truck"
     ],
-    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=3020&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_08Sj0CS7zZ0B9yaTGNxraN_38.677349_-121.768606@1293134755"
+    "sg:website": "http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=3020\u0026bid=004\u0026cnty=US\u0026arc=YPTRL01\u0026cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b497b366003561c8e2a86e66b",
+      "sg:id": "SG_08Sj0CS7zZ0B9yaTGNxraN_38.677349_-121.768606@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ecd11dcdf46561c6f3fc334b51e4ed2e",
-    "wof:hierarchy":[],
-    "wof:id":571971233,
-    "wof:lastmodified":1511321740,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "renting",
-        "automobile",
-        "truck"
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "ecd11dcdf46561c6f3fc334b51e4ed2e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571971233
+      }
+    ],
+    "wof:id": 571971233,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "renting",
+      "automobile",
+      "truck"
     ]
-},
+  },
   "bbox": [
     -121.769073,
     38.677427,
     -121.769073,
     38.677427
-],
-  "geometry": {"coordinates":[-121.76907300000001,38.677427],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.769073,38.677427],"type":"Point"}
 }

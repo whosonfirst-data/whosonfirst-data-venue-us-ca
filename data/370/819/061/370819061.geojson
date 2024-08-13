@@ -2,81 +2,85 @@
   "id": 370819061,
   "type": "Feature",
   "properties": {
-    "addr:full":"10825 Santa Monica Blvd Los Angeles CA 90025",
-    "addr:housenumber":"10825",
-    "addr:postcode":"90025",
-    "addr:street":"Santa Monica Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.43588,34.050399,-118.43588,34.050399",
-    "geom:latitude":34.050399,
-    "geom:longitude":-118.43588,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"10825 Santa Monica Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Home Furnishings",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10825 Santa Monica Blvd Los Angeles CA 90025",
+    "addr:housenumber": "10825",
+    "addr:postcode": "90025",
+    "addr:street": "Santa Monica Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.435880,34.050399,-118.435880,34.050399",
+    "geom:latitude": 34.050399,
+    "geom:longitude": -118.43588,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tousi Rugs, 10825 Santa Monica Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.679324984550476,
+    "sg:address": "10825 Santa Monica Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Home Furnishings",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 441 0100",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "sg:tags":[
-        "decor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 441 0100",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "sg:tags": [
+      "decor"
     ],
-    "sg:website":"www.tousirugs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869431
+    "sg:website": "www.tousirugs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869431
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000502514-0001-3",
-        "sg:id":"SG_0dv5kEdxnB7TqS2UVZNqDr_34.050399_-118.435880@1303263156"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000502514-0001-3",
+      "ovtr:id": "08f29a19836cb402033826d4c178dd77",
+      "sg:id": "SG_0dv5kEdxnB7TqS2UVZNqDr_34.050399_-118.435880@1303263156"
     },
-    "wof:country":"US",
-    "wof:geomhash":"90adaebf284e950fcf7d9f79de6657b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869431,
-            "region_id":85688637,
-            "venue_id":370819061
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "90adaebf284e950fcf7d9f79de6657b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869431,
+        "region_id": 85688637,
+        "venue_id": 370819061
+      }
     ],
-    "wof:id":370819061,
-    "wof:lastmodified":1509200826,
-    "wof:name":"Tousi Rugs",
-    "wof:parent_id":85869431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "decor"
+    "wof:id": 370819061,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Tousi Rugs",
+    "wof:parent_id": 85869431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "decor"
     ]
-},
+  },
   "bbox": [
     -118.43588,
     34.050399,
     -118.43588,
     34.050399
-],
+  ],
   "geometry": {"coordinates":[-118.43588,34.050399],"type":"Point"}
 }

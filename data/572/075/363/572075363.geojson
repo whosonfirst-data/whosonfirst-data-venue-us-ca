@@ -2,83 +2,87 @@
   "id": 572075363,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 E 8th St Los Angeles CA 90021",
-    "addr:housenumber":"1200",
-    "addr:postcode":"90021",
-    "addr:street":"E 8Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.245003,34.034698,-118.245003,34.034698",
-    "geom:latitude":34.034698,
-    "geom:longitude":-118.245003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1200 E 8th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1200 E 8th St Los Angeles CA 90021",
+    "addr:housenumber": "1200",
+    "addr:postcode": "90021",
+    "addr:street": "E 8Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.245003,34.034698,-118.245003,34.034698",
+    "geom:latitude": 34.034698,
+    "geom:longitude": -118.245003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Alteno Wholesale, 1200 E 8th St Los Angeles CA US",
+    "ovtr:similarity": 1.4246809482574463,
+    "sg:address": "1200 E 8th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 623 7815",
-    "sg:postcode":"90021",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veggie"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 623 7815",
+    "sg:postcode": "90021",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veggie"
     ],
-    "sg:website":"www.elaltenoinc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.elaltenoinc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4HuE2yFTAazseLDZ8A2R8t_34.034485_-118.244326@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d7598ead10340662542724b05",
+      "sg:id": "SG_4HuE2yFTAazseLDZ8A2R8t_34.034485_-118.244326@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"44cfcfccadb42e8bfcd9372c184ee167",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":572075363
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "44cfcfccadb42e8bfcd9372c184ee167",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 572075363
+      }
     ],
-    "wof:id":572075363,
-    "wof:lastmodified":1509201685,
-    "wof:name":"El Alteno Wholesale",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veggie"
+    "wof:id": 572075363,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "El Alteno Wholesale",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veggie"
     ]
-},
+  },
   "bbox": [
     -118.245003,
     34.034698,
     -118.245003,
     34.034698
-],
+  ],
   "geometry": {"coordinates":[-118.245003,34.034698],"type":"Point"}
 }

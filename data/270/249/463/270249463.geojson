@@ -2,74 +2,78 @@
   "id": 270249463,
   "type": "Feature",
   "properties": {
-    "addr:full":"1007 W 1st St Chico CA 95928",
-    "addr:housenumber":"1007",
-    "addr:postcode":"95928",
-    "addr:street":"W 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.850368,39.724786,-121.850368,39.724786",
-    "geom:latitude":39.724786,
-    "geom:longitude":-121.850368,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1007 W 1st St",
-    "sg:city":"Chico",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1007 W 1st St Chico CA 95928",
+    "addr:housenumber": "1007",
+    "addr:postcode": "95928",
+    "addr:street": "W 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.850368,39.724786,-121.850368,39.724786",
+    "geom:latitude": 39.724786,
+    "geom:longitude": -121.850368,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Oasis Bar \u0026 Grill, 1007 W 1st St Chico CA US",
+    "ovtr:similarity": 1.863124966621399,
+    "sg:address": "1007 W 1st St",
+    "sg:city": "Chico",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 343 4305",
-    "sg:postcode":"95928",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923179,
-        102086941,
-        85804431
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 343 4305",
+    "sg:postcode": "95928",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923179,
+      102086941,
+      85804431
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ZxiDZebVWTCRHZmzIEaZm_39.724786_-121.850368@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28336b6796cdb031785266c60253b",
+      "sg:id": "SG_4ZxiDZebVWTCRHZmzIEaZm_39.724786_-121.850368@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e777e74d734f58b28197040ef505c6e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086941,
-            "locality_id":85923179,
-            "neighbourhood_id":85804431,
-            "region_id":85688637,
-            "venue_id":270249463
-        }
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "e777e74d734f58b28197040ef505c6e0",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086941,
+        "locality_id": 85923179,
+        "neighbourhood_id": 85804431,
+        "region_id": 85688637,
+        "venue_id": 270249463
+      }
     ],
-    "wof:id":270249463,
-    "wof:lastmodified":1509200218,
-    "wof:name":"Oasis Bar & Grill",
-    "wof:parent_id":85804431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270249463,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "Oasis Bar \u0026 Grill",
+    "wof:parent_id": 85804431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.850368,
     39.724786,
     -121.850368,
     39.724786
-],
+  ],
   "geometry": {"coordinates":[-121.850368,39.724786],"type":"Point"}
 }

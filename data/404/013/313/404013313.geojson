@@ -2,91 +2,95 @@
   "id": 404013313,
   "type": "Feature",
   "properties": {
-    "addr:full":"285 E 5th St Long Beach CA 90802",
-    "addr:housenumber":"285",
-    "addr:postcode":"90802",
-    "addr:street":"E 5Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.190018,33.772612,-118.190018,33.772612",
-    "geom:latitude":33.772612,
-    "geom:longitude":-118.190018,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"285 E 5th St",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Hobbies, Toys, & Games",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "285 E 5th St Long Beach CA 90802",
+    "addr:housenumber": "285",
+    "addr:postcode": "90802",
+    "addr:street": "E 5Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.190018,33.772612,-118.190018,33.772612",
+    "geom:latitude": 33.772612,
+    "geom:longitude": -118.190018,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "GameStop, 250 E 5th St Long Beach CA US",
+    "ovtr:similarity": 3.7221250534057617,
+    "sg:address": "285 E 5th St",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Hobbies, Toys, \u0026 Games",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 432 1676",
-    "sg:postcode":"90802",
-    "sg:province":"CA",
-    "sg:tags":[
-        "toy",
-        "video",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 432 1676",
+    "sg:postcode": "90802",
+    "sg:province": "CA",
+    "sg:tags": [
+      "toy",
+      "video",
+      "store"
     ],
-    "sg:website":"www.gamestop.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85871775
+    "sg:website": "www.gamestop.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85871775
     ],
-    "wof:brand_id":420575973,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YoaFMS2He7U5S1yWWF0Qa_33.772612_-118.190018@1303263198"
+    "wof:brand_id": 420575973,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a561477425503a533cf3b3cc5b5",
+      "sg:id": "SG_1YoaFMS2He7U5S1yWWF0Qa_33.772612_-118.190018@1303263198"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e51c89b84b0d084cf3a646821046e65c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85871775,
-            "region_id":85688637,
-            "venue_id":404013313
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "e51c89b84b0d084cf3a646821046e65c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85871775,
+        "region_id": 85688637,
+        "venue_id": 404013313
+      }
     ],
-    "wof:id":404013313,
-    "wof:lastmodified":1509201187,
-    "wof:name":"GameStop",
-    "wof:parent_id":85871775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "toy",
-        "video",
-        "store"
+    "wof:id": 404013313,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "GameStop",
+    "wof:parent_id": 85871775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "toy",
+      "video",
+      "store"
     ]
-},
+  },
   "bbox": [
     -118.190018,
     33.772612,
     -118.190018,
     33.772612
-],
-  "geometry": {"coordinates":[-118.19001799999999,33.772612],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.190018,33.772612],"type":"Point"}
 }

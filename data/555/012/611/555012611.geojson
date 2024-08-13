@@ -2,63 +2,71 @@
   "id": 555012611,
   "type": "Feature",
   "properties": {
-    "addr:full":"1616 W Shaw Ave Fresno CA 93711",
-    "addr:housenumber":"1616",
-    "addr:postcode":"93711",
-    "addr:street":"W Shaw Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.823858,36.808368,-119.823858,36.808368",
-    "geom:latitude":36.808368,
-    "geom:longitude":-119.823858,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1616 W Shaw Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "1616 W Shaw Ave Fresno CA 93711",
+    "addr:housenumber": "1616",
+    "addr:postcode": "93711",
+    "addr:street": "W Shaw Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.823858,36.808368,-119.823858,36.808368",
+    "geom:latitude": 36.808368,
+    "geom:longitude": -119.823858,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hinds Hospice, 2490 W Shaw Ave Fresno CA US",
+    "ovtr:similarity": 2.4660980701446533,
+    "sg:address": "1616 W Shaw Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 226 5683",
-    "sg:postcode":"93711",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospice"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 226 5683",
+    "sg:postcode": "93711",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospice"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_014q2MlFOcCdYOr9EhAWnJ_36.808368_-119.823858@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab83029e95603d5a22d88c67dbe",
+      "sg:id": "SG_014q2MlFOcCdYOr9EhAWnJ_36.808368_-119.823858@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ed4b4ac8838fa2762f409af8f11404d3",
-    "wof:hierarchy":[],
-    "wof:id":555012611,
-    "wof:lastmodified":1509201248,
-    "wof:name":"Hinds Hospice",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospice"
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "ed4b4ac8838fa2762f409af8f11404d3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555012611
+      }
+    ],
+    "wof:id": 555012611,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Hinds Hospice",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospice"
     ]
-},
+  },
   "bbox": [
     -119.823858,
     36.808368,
     -119.823858,
     36.808368
-],
+  ],
   "geometry": {"coordinates":[-119.823858,36.808368],"type":"Point"}
 }

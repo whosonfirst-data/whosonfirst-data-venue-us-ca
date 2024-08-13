@@ -2,82 +2,86 @@
   "id": 169444447,
   "type": "Feature",
   "properties": {
-    "addr:full":"1714 14th St Santa Monica CA 90404",
-    "addr:housenumber":"1714",
-    "addr:postcode":"90404",
-    "addr:street":"14Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.480191,34.019318,-118.480191,34.019318",
-    "geom:latitude":34.019318,
-    "geom:longitude":-118.480191,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1714 14th St",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Rubber & Plastics",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1714 14th St Santa Monica CA 90404",
+    "addr:housenumber": "1714",
+    "addr:postcode": "90404",
+    "addr:street": "14Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.480191,34.019318,-118.480191,34.019318",
+    "geom:latitude": 34.019318,
+    "geom:longitude": -118.480191,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "KAS Engineering Inc, 1714 14th St Santa Monica CA US",
+    "ovtr:similarity": 2.0291950702667236,
+    "sg:address": "1714 14th St",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Rubber \u0026 Plastics",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 450 8925",
-    "sg:postcode":"90404",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85841527,
-        85633793,
-        85923817,
-        102086957,
-        85688637,
-        85880865
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 450 8925",
+    "sg:postcode": "90404",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85841527,
+      85633793,
+      85923817,
+      102086957,
+      85688637,
+      85880865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1nwjZWYIOnm8Lx1cWnmfdM_34.019318_-118.480191@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19aa7aa38d036fae2fe6d625f3",
+      "sg:id": "SG_1nwjZWYIOnm8Lx1cWnmfdM_34.019318_-118.480191@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"08677c3d194f0ced62fb2a55e6427cd2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85841527,
-            "region_id":85688637,
-            "venue_id":169444447
-        },
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880865,
-            "region_id":85688637,
-            "venue_id":169444447
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "08677c3d194f0ced62fb2a55e6427cd2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85841527,
+        "region_id": 85688637,
+        "venue_id": 169444447
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85880865,
+        "region_id": 85688637,
+        "venue_id": 169444447
+      }
     ],
-    "wof:id":169444447,
-    "wof:lastmodified":1509199749,
-    "wof:name":"KAS Engineering Inc",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 169444447,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "KAS Engineering Inc",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.480191,
     34.019318,
     -118.480191,
     34.019318
-],
+  ],
   "geometry": {"coordinates":[-118.480191,34.019318],"type":"Point"}
 }

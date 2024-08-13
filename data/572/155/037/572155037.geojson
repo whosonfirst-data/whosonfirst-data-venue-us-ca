@@ -2,90 +2,94 @@
   "id": 572155037,
   "type": "Feature",
   "properties": {
-    "addr:full":"4583 Huntington Dr S Los Angeles CA 90032",
-    "addr:housenumber":"4583",
-    "addr:postcode":"90032",
-    "addr:street":"Huntington Dr S",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.186459,34.085616,-118.186459,34.085616",
-    "geom:latitude":34.085616,
-    "geom:longitude":-118.186459,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4583 Huntington Dr S",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "4583 Huntington Dr S Los Angeles CA 90032",
+    "addr:housenumber": "4583",
+    "addr:postcode": "90032",
+    "addr:street": "Huntington Dr S",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.186459,34.085616,-118.186459,34.085616",
+    "geom:latitude": 34.085616,
+    "geom:longitude": -118.186459,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Public Storage, 4583 Huntington Dr S Los Angeles CA US",
+    "ovtr:similarity": 1.7658779621124268,
+    "sg:address": "4583 Huntington Dr S",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 223 2917",
-    "sg:postcode":"90032",
-    "sg:province":"CA",
-    "sg:tags":[
-        "self",
-        "paper",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 223 2917",
+    "sg:postcode": "90032",
+    "sg:province": "CA",
+    "sg:tags": [
+      "self",
+      "paper",
+      "storage"
     ],
-    "sg:website":"www.publicstorage.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108691219,
-        "85869501",
-        102191575,
-        1108692433,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.publicstorage.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108691219,
+      102191575,
+      1108692433,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869501
     ],
-    "wof:brand_id":420574427,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7YDjf1YMajZNF5MxSiMYp7_34.085233_-118.186696@1293134755"
+    "wof:brand_id": 420574427,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d54ca480b03813ad7acdfd00d",
+      "sg:id": "SG_7YDjf1YMajZNF5MxSiMYp7_34.085233_-118.186696@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ce76ea1b1a0333f016544a0dc98dcd8e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692433,
-            "microhood_id":1108691219,
-            "neighbourhood_id":"85869501",
-            "region_id":85688637,
-            "venue_id":572155037
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "ce76ea1b1a0333f016544a0dc98dcd8e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692433,
+        "microhood_id": 1108691219,
+        "neighbourhood_id": 85869501,
+        "region_id": 85688637,
+        "venue_id": 572155037
+      }
     ],
-    "wof:id":572155037,
-    "wof:lastmodified":1511323809,
-    "wof:name":"Public Storage",
-    "wof:parent_id":1108691219,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self",
-        "paper",
-        "storage"
+    "wof:id": 572155037,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Public Storage",
+    "wof:parent_id": 1108691219,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self",
+      "paper",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -118.186459,
     34.085616,
     -118.186459,
     34.085616
-],
+  ],
   "geometry": {"coordinates":[-118.186459,34.085616],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 371000285,
   "type": "Feature",
   "properties": {
-    "addr:full":"1154 N La Brea Avenue West Hollywood CA 90038",
-    "addr:housenumber":"1154",
-    "addr:postcode":"90038",
-    "addr:street":"N La Brea Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.343925,34.092352,-118.343925,34.092352",
-    "geom:latitude":34.092352,
-    "geom:longitude":-118.343925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1154 N La Brea Avenue",
-    "sg:city":"West Hollywood",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1154 N La Brea Avenue West Hollywood CA 90038",
+    "addr:housenumber": "1154",
+    "addr:postcode": "90038",
+    "addr:street": "N La Brea Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.343925,34.092352,-118.343925,34.092352",
+    "geom:latitude": 34.092352,
+    "geom:longitude": -118.343925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "La Brea Test Only, 1154 N La Brea Ave West Hollywood CA US",
+    "ovtr:similarity": 2.369858980178833,
+    "sg:address": "1154 N La Brea Avenue",
+    "sg:city": "West Hollywood",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 463 0027",
-    "sg:postcode":"90038",
-    "sg:province":"CA",
-    "sg:tags":[
-        "smog",
-        "check"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 463 0027",
+    "sg:postcode": "90038",
+    "sg:province": "CA",
+    "sg:tags": [
+      "smog",
+      "check"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869471
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869471
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2H3k8VMkzs71cCwSF4odSK_34.092352_-118.343925@1303263161"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6839207503282ebb109e8fda",
+      "sg:id": "SG_2H3k8VMkzs71cCwSF4odSK_34.092352_-118.343925@1303263161"
     },
-    "wof:country":"US",
-    "wof:geomhash":"83197397cdb3076c9a578457b0e96918",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869471,
-            "region_id":85688637,
-            "venue_id":371000285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "83197397cdb3076c9a578457b0e96918",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869471,
+        "region_id": 85688637,
+        "venue_id": 371000285
+      }
     ],
-    "wof:id":371000285,
-    "wof:lastmodified":1509200869,
-    "wof:name":"La Brea Test Only",
-    "wof:parent_id":85869471,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "smog",
-        "check"
+    "wof:id": 371000285,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "La Brea Test Only",
+    "wof:parent_id": 85869471,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "smog",
+      "check"
     ]
-},
+  },
   "bbox": [
     -118.343925,
     34.092352,
     -118.343925,
     34.092352
-],
+  ],
   "geometry": {"coordinates":[-118.343925,34.092352],"type":"Point"}
 }

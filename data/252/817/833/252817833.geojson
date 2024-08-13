@@ -2,82 +2,86 @@
   "id": 252817833,
   "type": "Feature",
   "properties": {
-    "addr:full":"1385 Petaluma Blvd N Petaluma CA 94952",
-    "addr:housenumber":"1385",
-    "addr:postcode":"94952",
-    "addr:street":"Petaluma Blvd N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.646179,38.249025,-122.646179,38.249025",
-    "geom:latitude":38.249025,
-    "geom:longitude":-122.646179,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1385 Petaluma Blvd N",
-    "sg:city":"Petaluma",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "1385 Petaluma Blvd N Petaluma CA 94952",
+    "addr:housenumber": "1385",
+    "addr:postcode": "94952",
+    "addr:street": "Petaluma Blvd N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.646179,38.249025,-122.646179,38.249025",
+    "geom:latitude": 38.249025,
+    "geom:longitude": -122.646179,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 1385 Petaluma Blvd N Petaluma CA US",
+    "ovtr:similarity": 1.8926609754562378,
+    "sg:address": "1385 Petaluma Blvd N",
+    "sg:city": "Petaluma",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 778 7100",
-    "sg:postcode":"94952",
-    "sg:province":"CA",
-    "sg:tags":[
-        "passenger",
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 778 7100",
+    "sg:postcode": "94952",
+    "sg:province": "CA",
+    "sg:tags": [
+      "passenger",
+      "car"
     ],
-    "sg:website":"www.enterprise.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85813067,
-        85633793,
-        85922701,
-        102081671,
-        85688637
+    "sg:website": "www.enterprise.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85813067,
+      85633793,
+      85922701,
+      102081671,
+      85688637
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Osb9FkY5z1hvVMvtDBqOe_38.249025_-122.646179@1294081369"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830ad00730ae0393ba5d3e360ebc",
+      "sg:id": "SG_3Osb9FkY5z1hvVMvtDBqOe_38.249025_-122.646179@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6f5271ca7a46ab7375bd381d0cc8eef3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081671,
-            "locality_id":85922701,
-            "neighbourhood_id":85813067,
-            "region_id":85688637,
-            "venue_id":252817833
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "6f5271ca7a46ab7375bd381d0cc8eef3",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081671,
+        "locality_id": 85922701,
+        "neighbourhood_id": 85813067,
+        "region_id": 85688637,
+        "venue_id": 252817833
+      }
     ],
-    "wof:id":252817833,
-    "wof:lastmodified":1509200084,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85813067,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "passenger",
-        "car"
+    "wof:id": 252817833,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85813067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "passenger",
+      "car"
     ]
-},
+  },
   "bbox": [
     -122.646179,
     38.249025,
     -122.646179,
     38.249025
-],
+  ],
   "geometry": {"coordinates":[-122.646179,38.249025],"type":"Point"}
 }

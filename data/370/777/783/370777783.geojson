@@ -2,74 +2,78 @@
   "id": 370777783,
   "type": "Feature",
   "properties": {
-    "addr:full":"3351 Whittier Blvd Los Angeles CA 90023",
-    "addr:housenumber":"3351",
-    "addr:postcode":"90023",
-    "addr:street":"Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.200996,34.028,-118.200996,34.028",
-    "geom:latitude":34.028,
-    "geom:longitude":-118.200996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3351 Whittier Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3351 Whittier Blvd Los Angeles CA 90023",
+    "addr:housenumber": "3351",
+    "addr:postcode": "90023",
+    "addr:street": "Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.200996,34.028000,-118.200996,34.028000",
+    "geom:latitude": 34.028,
+    "geom:longitude": -118.200996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Yum Yum Donuts, 3351 Whittier Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.910391092300415,
+    "sg:address": "3351 Whittier Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 446 0225",
-    "sg:postcode":"90023",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85806935
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 446 0225",
+    "sg:postcode": "90023",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85806935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5W1EDEn8dUI8Qs5Snh20Cw_34.028000_-118.200996@1303263155"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d29233d1a033c17c1ab24afe7",
+      "sg:id": "SG_5W1EDEn8dUI8Qs5Snh20Cw_34.028000_-118.200996@1303263155"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8f63cc5a5e88900f8f0c2949af4a11cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85806935,
-            "region_id":85688637,
-            "venue_id":370777783
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "8f63cc5a5e88900f8f0c2949af4a11cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85806935,
+        "region_id": 85688637,
+        "venue_id": 370777783
+      }
     ],
-    "wof:id":370777783,
-    "wof:lastmodified":1509200817,
-    "wof:name":"Yum Yum Donut",
-    "wof:parent_id":85806935,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370777783,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Yum Yum Donut",
+    "wof:parent_id": 85806935,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.200996,
     34.028,
     -118.200996,
     34.028
-],
+  ],
   "geometry": {"coordinates":[-118.200996,34.028],"type":"Point"}
 }

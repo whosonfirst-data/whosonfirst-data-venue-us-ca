@@ -2,82 +2,86 @@
   "id": 571610081,
   "type": "Feature",
   "properties": {
-    "addr:full":"2002 Venice Blvd Los Angeles CA 90006",
-    "addr:housenumber":"2002",
-    "addr:postcode":"90006",
-    "addr:street":"Venice Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.301747,34.043524,-118.301747,34.043524",
-    "geom:latitude":34.043524,
-    "geom:longitude":-118.301747,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2002 Venice Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2002 Venice Blvd Los Angeles CA 90006",
+    "addr:housenumber": "2002",
+    "addr:postcode": "90006",
+    "addr:street": "Venice Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.301747,34.043524,-118.301747,34.043524",
+    "geom:latitude": 34.043524,
+    "geom:longitude": -118.301747,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "La Maquina Auto Repair, 2002 Venice Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.519442081451416,
+    "sg:address": "2002 Venice Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 737 3749",
-    "sg:postcode":"90006",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 737 3749",
+    "sg:postcode": "90006",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85869325
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85869325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3hO6xeVr3gdnyGcoozZ720_34.043524_-118.301747@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d60a896e903d9762b62b800c2",
+      "sg:id": "SG_3hO6xeVr3gdnyGcoozZ720_34.043524_-118.301747@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"12536e31b066b03ee4ec4d3cb58cebf5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869325,
-            "region_id":85688637,
-            "venue_id":571610081
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "12536e31b066b03ee4ec4d3cb58cebf5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869325,
+        "region_id": 85688637,
+        "venue_id": 571610081
+      }
     ],
-    "wof:id":571610081,
-    "wof:lastmodified":1509201536,
-    "wof:name":"LA Maquina Auto Repair",
-    "wof:parent_id":85869325,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 571610081,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "LA Maquina Auto Repair",
+    "wof:parent_id": 85869325,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -118.301747,
     34.043524,
     -118.301747,
     34.043524
-],
-  "geometry": {"coordinates":[-118.30174700000001,34.043524],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.301747,34.043524],"type":"Point"}
 }

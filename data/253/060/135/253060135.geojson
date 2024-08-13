@@ -2,75 +2,79 @@
   "id": 253060135,
   "type": "Feature",
   "properties": {
-    "addr:full":"19646 Rd 230 Strathmore CA 93267",
-    "addr:housenumber":"19646",
-    "addr:postcode":"93267",
-    "addr:street":"Rd 230",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.058221,36.145776,-119.058221,36.145776",
-    "geom:latitude":36.145776,
-    "geom:longitude":-119.058221,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"19646 Rd 230",
-    "sg:city":"Strathmore",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "19646 Rd 230 Strathmore CA 93267",
+    "addr:housenumber": "19646",
+    "addr:postcode": "93267",
+    "addr:street": "Rd 230",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.058221,36.145776,-119.058221,36.145776",
+    "geom:latitude": 36.145776,
+    "geom:longitude": -119.058221,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Strathmore Branch Library, 19646 Road 230 Strathmore CA US",
+    "ovtr:similarity": 3.604818105697632,
+    "sg:address": "19646 Rd 230",
+    "sg:city": "Strathmore",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 568 1087",
-    "sg:postcode":"93267",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922471,
-        102082895,
-        85830847
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 568 1087",
+    "sg:postcode": "93267",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922471,
+      102082895,
+      85830847
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":368170162,
-        "sg:id":"SG_0AVbWtjLi2qJsGRTqTKIff_36.145776_-119.058221@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 368170162,
+      "ovtr:id": "08f29a85ae32b674038fd2cefe62b4b8",
+      "sg:id": "SG_0AVbWtjLi2qJsGRTqTKIff_36.145776_-119.058221@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"74765884838972585a2e17af08a54ef3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922471,
-            "neighbourhood_id":85830847,
-            "region_id":85688637,
-            "venue_id":253060135
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "74765884838972585a2e17af08a54ef3",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922471,
+        "neighbourhood_id": 85830847,
+        "region_id": 85688637,
+        "venue_id": 253060135
+      }
     ],
-    "wof:id":253060135,
-    "wof:lastmodified":1510942584,
-    "wof:name":"Strathmore Branch Library",
-    "wof:parent_id":85830847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 253060135,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Strathmore Branch Library",
+    "wof:parent_id": 85830847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.058221,
     36.145776,
     -119.058221,
     36.145776
-],
+  ],
   "geometry": {"coordinates":[-119.058221,36.145776],"type":"Point"}
 }

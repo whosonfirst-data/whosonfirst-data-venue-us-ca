@@ -2,63 +2,71 @@
   "id": 571698609,
   "type": "Feature",
   "properties": {
-    "addr:full":"1337 Main St St Helena CA 94574",
-    "addr:housenumber":"1337",
-    "addr:postcode":"94574",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.469911,38.504859,-122.469911,38.504859",
-    "geom:latitude":38.504859,
-    "geom:longitude":-122.469911,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1337 Main St",
-    "sg:city":"St Helena",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Stationery & Office Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1337 Main St St Helena CA 94574",
+    "addr:housenumber": "1337",
+    "addr:postcode": "94574",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.469911,38.504859,-122.469911,38.504859",
+    "geom:latitude": 38.504859,
+    "geom:longitude": -122.469911,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pennyweight, 1337 Main St St Helena CA US",
+    "ovtr:similarity": 2.3210840225219727,
+    "sg:address": "1337 Main St",
+    "sg:city": "St Helena",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Stationery \u0026 Office Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 963 3198",
-    "sg:postcode":"94574",
-    "sg:province":"CA",
-    "sg:tags":[
-        "stationer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 963 3198",
+    "sg:postcode": "94574",
+    "sg:province": "CA",
+    "sg:tags": [
+      "stationer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uCGLnnHDtnuYFsmNivJkh_38.504859_-122.469911@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830212b8e29b03368de8276839a5",
+      "sg:id": "SG_1uCGLnnHDtnuYFsmNivJkh_38.504859_-122.469911@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b425dcdbb878781683ca73edf0b5279f",
-    "wof:hierarchy":[],
-    "wof:id":571698609,
-    "wof:lastmodified":1509201564,
-    "wof:name":"Pennyweight",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "stationer"
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "b425dcdbb878781683ca73edf0b5279f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571698609
+      }
+    ],
+    "wof:id": 571698609,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "Pennyweight",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "stationer"
     ]
-},
+  },
   "bbox": [
     -122.469911,
     38.504859,
     -122.469911,
     38.504859
-],
+  ],
   "geometry": {"coordinates":[-122.469911,38.504859],"type":"Point"}
 }

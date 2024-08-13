@@ -2,88 +2,92 @@
   "id": 572232599,
   "type": "Feature",
   "properties": {
-    "addr:full":"1808 Verdugo Blvd Ste 120 Glendale CA 91208",
-    "addr:housenumber":"1808",
-    "addr:postcode":"91208",
-    "addr:street":"Verdugo Blvd Ste 120",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.215362,34.205025,-118.215362,34.205025",
-    "geom:latitude":34.205025,
-    "geom:longitude":-118.215362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1808 Verdugo Blvd Ste 120",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Optician",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1808 Verdugo Blvd Ste 120 Glendale CA 91208",
+    "addr:housenumber": "1808",
+    "addr:postcode": "91208",
+    "addr:street": "Verdugo Blvd Ste 120",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.215362,34.205025,-118.215362,34.205025",
+    "geom:latitude": 34.205025,
+    "geom:longitude": -118.215362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Verdugo Optical, 1808 Verdugo Blvd Glendale CA US",
+    "ovtr:similarity": 3.2569429874420166,
+    "sg:address": "1808 Verdugo Blvd Ste 120",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Optician",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 952 1124",
-    "sg:postcode":"91208",
-    "sg:province":"CA",
-    "sg:tags":[
-        "optical",
-        "eyewear"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 952 1124",
+    "sg:postcode": "91208",
+    "sg:province": "CA",
+    "sg:tags": [
+      "optical",
+      "eyewear"
     ],
-    "sg:website":"www.verdugooptical.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923565,
-        102086957,
-        85835073
+    "sg:website": "www.verdugooptical.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923565,
+      102086957,
+      85835073
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7jF6yjq9bxEkdqTUssR07g_34.205025_-118.215362@1303263209"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c746b3ae80342a5f6fb2f6352",
+      "sg:id": "SG_7jF6yjq9bxEkdqTUssR07g_34.205025_-118.215362@1303263209"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0917e8845519bf17ea6e9b5f558170e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923565,
-            "neighbourhood_id":85835073,
-            "region_id":85688637,
-            "venue_id":572232599
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "0917e8845519bf17ea6e9b5f558170e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923565,
+        "neighbourhood_id": 85835073,
+        "region_id": 85688637,
+        "venue_id": 572232599
+      }
     ],
-    "wof:id":572232599,
-    "wof:lastmodified":1509201750,
-    "wof:name":"Verdugo Optical",
-    "wof:parent_id":85835073,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "optical",
-        "eyewear"
+    "wof:id": 572232599,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Verdugo Optical",
+    "wof:parent_id": 85835073,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "optical",
+      "eyewear"
     ]
-},
+  },
   "bbox": [
     -118.215362,
     34.205025,
     -118.215362,
     34.205025
-],
+  ],
   "geometry": {"coordinates":[-118.215362,34.205025],"type":"Point"}
 }

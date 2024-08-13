@@ -2,84 +2,88 @@
   "id": 386970841,
   "type": "Feature",
   "properties": {
-    "addr:full":"3560 E Cesar E Chavez Ave Los Angeles CA 90063",
-    "addr:housenumber":"3560",
-    "addr:postcode":"90063",
-    "addr:street":"E Cesar E Chavez Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.187719,34.038674,-118.187719,34.038674",
-    "geom:latitude":34.038674,
-    "geom:longitude":-118.187719,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3560 E Cesar E Chavez Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3560 E Cesar E Chavez Ave Los Angeles CA 90063",
+    "addr:housenumber": "3560",
+    "addr:postcode": "90063",
+    "addr:street": "E Cesar E Chavez Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.187719,34.038674,-118.187719,34.038674",
+    "geom:latitude": 34.038674,
+    "geom:longitude": -118.187719,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Cesar Carwash, 3560 E Cesar E Chavez Ave Los Angeles CA US",
+    "ovtr:similarity": 2.015712022781372,
+    "sg:address": "3560 E Cesar E Chavez Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 780 0003",
-    "sg:postcode":"90063",
-    "sg:province":"CA",
-    "sg:tags":[
-        "detailing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 780 0003",
+    "sg:postcode": "90063",
+    "sg:province": "CA",
+    "sg:tags": [
+      "detailing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928323,
-        102086957,
-        85855033
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928323,
+      102086957,
+      85855033
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TjF5teMeK1qMCJ6Fjd7vS_34.038674_-118.187719@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d76cadc4503bff45b6bee2433",
+      "sg:id": "SG_7TjF5teMeK1qMCJ6Fjd7vS_34.038674_-118.187719@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fe5acc7abaf656e19d090e55237f9bc1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928323,
-            "neighbourhood_id":85855033,
-            "region_id":85688637,
-            "venue_id":386970841
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "fe5acc7abaf656e19d090e55237f9bc1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928323,
+        "neighbourhood_id": 85855033,
+        "region_id": 85688637,
+        "venue_id": 386970841
+      }
     ],
-    "wof:id":386970841,
-    "wof:lastmodified":1509200924,
-    "wof:name":"Cesar Carwash",
-    "wof:parent_id":85855033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "detailing"
+    "wof:id": 386970841,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Cesar Carwash",
+    "wof:parent_id": 85855033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "detailing"
     ]
-},
+  },
   "bbox": [
     -118.187719,
     34.038674,
     -118.187719,
     34.038674
-],
+  ],
   "geometry": {"coordinates":[-118.187719,34.038674],"type":"Point"}
 }

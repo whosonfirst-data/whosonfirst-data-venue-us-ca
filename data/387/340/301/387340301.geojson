@@ -2,74 +2,78 @@
   "id": 387340301,
   "type": "Feature",
   "properties": {
-    "addr:full":"6300 Hetzler Rd Culver City CA 90232",
-    "addr:housenumber":"",
-    "addr:postcode":"6300;90232",
-    "addr:street":"Hetzler Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.382487,34.020364,-118.382487,34.020364",
-    "geom:latitude":34.020364,
-    "geom:longitude":-118.382487,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6300 Hetzler Rd",
-    "sg:city":"Culver City",
-    "sg:classifiers":[
-        {
-            "category":"Park",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "6300 Hetzler Rd Culver City CA 90232",
+    "addr:housenumber": "",
+    "addr:postcode": "6300;90232",
+    "addr:street": "Hetzler Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.382487,34.020364,-118.382487,34.020364",
+    "geom:latitude": 34.020364,
+    "geom:longitude": -118.382487,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Baldwin Hills Scenic Overlook, 6300 Hetzler Rd Culver City CA US",
+    "ovtr:similarity": 1.5866810083389282,
+    "sg:address": "6300 Hetzler Rd",
+    "sg:city": "Culver City",
+    "sg:classifiers": [
+      {
+        "category": "Park",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90232",
-    "sg:province":"CA",
-    "sg:website":"www.parks.ca.gov/?page_id=22790",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923649,
-        102086957,
-        85885817
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90232",
+    "sg:province": "CA",
+    "sg:website": "www.parks.ca.gov/?page_id=22790",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923649,
+      102086957,
+      85885817
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UQ16CfIDhuxQEOCowMv9i_34.020364_-118.382487@1303263175"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a199545c4e203e4d216b335e0e0",
+      "sg:id": "SG_6UQ16CfIDhuxQEOCowMv9i_34.020364_-118.382487@1303263175"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ebd9291a44e4c39f15ab9d863abf00e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885817,
-            "region_id":85688637,
-            "venue_id":387340301
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "ebd9291a44e4c39f15ab9d863abf00e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923649,
+        "neighbourhood_id": 85885817,
+        "region_id": 85688637,
+        "venue_id": 387340301
+      }
     ],
-    "wof:id":387340301,
-    "wof:lastmodified":1509201011,
-    "wof:name":"Baldwin Hills Scenic Overlook",
-    "wof:parent_id":85885817,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387340301,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Baldwin Hills Scenic Overlook",
+    "wof:parent_id": 85885817,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.382487,
     34.020364,
     -118.382487,
     34.020364
-],
+  ],
   "geometry": {"coordinates":[-118.382487,34.020364],"type":"Point"}
 }

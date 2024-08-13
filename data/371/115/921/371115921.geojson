@@ -2,86 +2,90 @@
   "id": 371115921,
   "type": "Feature",
   "properties": {
-    "addr:full":"7630 W Sunset Blvd Los Angeles CA 90046",
-    "addr:housenumber":"7630",
-    "addr:postcode":"90046",
-    "addr:street":"W Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.355682,34.097846,-118.355682,34.097846",
-    "geom:latitude":34.097846,
-    "geom:longitude":-118.355682,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7630 W Sunset Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"Printing & Photocopies",
-            "type":"Services"
-        }
+    "addr:full": "7630 W Sunset Blvd Los Angeles CA 90046",
+    "addr:housenumber": "7630",
+    "addr:postcode": "90046",
+    "addr:street": "W Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.355682,34.097846,-118.355682,34.097846",
+    "geom:latitude": 34.097846,
+    "geom:longitude": -118.355682,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "FedEx Office Print \u0026 Ship Center, 7630 W Sunset Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.4792720079421997,
+    "sg:address": "7630 W Sunset Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 845 4501",
-    "sg:postcode":"90046",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shipping"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 845 4501",
+    "sg:postcode": "90046",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shipping"
     ],
-    "sg:website":"www.fedex.com/us/office/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869715
+    "sg:website": "www.fedex.com/us/office/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869715
     ],
-    "wof:brand_id":420574513,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BFJUkkoWMhFFaWh1278e8_34.097846_-118.355682@1303263163"
+    "wof:brand_id": 420574513,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d695195a403a6fc37955cfefd",
+      "sg:id": "SG_4BFJUkkoWMhFFaWh1278e8_34.097846_-118.355682@1303263163"
     },
-    "wof:country":"US",
-    "wof:geomhash":"15558da7976adf841e4ed183366123b5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869715,
-            "region_id":85688637,
-            "venue_id":371115921
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "15558da7976adf841e4ed183366123b5",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869715,
+        "region_id": 85688637,
+        "venue_id": 371115921
+      }
     ],
-    "wof:id":371115921,
-    "wof:lastmodified":1509200896,
-    "wof:name":"FedEx Office Print & Ship Center",
-    "wof:parent_id":85869715,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shipping"
+    "wof:id": 371115921,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "FedEx Office Print \u0026 Ship Center",
+    "wof:parent_id": 85869715,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shipping"
     ]
-},
+  },
   "bbox": [
     -118.355682,
     34.097846,
     -118.355682,
     34.097846
-],
+  ],
   "geometry": {"coordinates":[-118.355682,34.097846],"type":"Point"}
 }

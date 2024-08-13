@@ -2,74 +2,78 @@
   "id": 354035477,
   "type": "Feature",
   "properties": {
-    "addr:full":"133 W Walnut Ave Visalia CA 93277",
-    "addr:housenumber":"133",
-    "addr:postcode":"93277",
-    "addr:street":"W Walnut Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.292407,36.312781,-119.292407,36.312781",
-    "geom:latitude":36.312781,
-    "geom:longitude":-119.292407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"133 W Walnut Ave",
-    "sg:city":"Visalia",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "133 W Walnut Ave Visalia CA 93277",
+    "addr:housenumber": "133",
+    "addr:postcode": "93277",
+    "addr:street": "W Walnut Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.292407,36.312781,-119.292407,36.312781",
+    "geom:latitude": 36.312781,
+    "geom:longitude": -119.292407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Prince Food \u0026 Gas, 133 W Walnut Ave Visalia CA US",
+    "ovtr:similarity": 2.335848093032837,
+    "sg:address": "133 W Walnut Ave",
+    "sg:city": "Visalia",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 733 5315",
-    "sg:postcode":"93277",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922461,
-        102082895,
-        85824871
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 733 5315",
+    "sg:postcode": "93277",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922461,
+      102082895,
+      85824871
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Pp3wFCTB7XFq6OriydPOo_36.312781_-119.292407@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a8455cda81e0328cb07a60427d1",
+      "sg:id": "SG_6Pp3wFCTB7XFq6OriydPOo_36.312781_-119.292407@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"172fc419c845028ba722eece8858afec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922461,
-            "neighbourhood_id":85824871,
-            "region_id":85688637,
-            "venue_id":354035477
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "172fc419c845028ba722eece8858afec",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922461,
+        "neighbourhood_id": 85824871,
+        "region_id": 85688637,
+        "venue_id": 354035477
+      }
     ],
-    "wof:id":354035477,
-    "wof:lastmodified":1509200634,
-    "wof:name":"Prince Food & Gas",
-    "wof:parent_id":85824871,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354035477,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Prince Food \u0026 Gas",
+    "wof:parent_id": 85824871,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.292407,
     36.312781,
     -119.292407,
     36.312781
-],
+  ],
   "geometry": {"coordinates":[-119.292407,36.312781],"type":"Point"}
 }

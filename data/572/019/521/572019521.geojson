@@ -2,64 +2,72 @@
   "id": 572019521,
   "type": "Feature",
   "properties": {
-    "addr:full":"2551 W Whittier Blvd La Habra CA 90631",
-    "addr:housenumber":"2551",
-    "addr:postcode":"90631",
-    "addr:street":"W Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.974998,33.9398,-117.974998,33.9398",
-    "geom:latitude":33.9398,
-    "geom:longitude":-117.974998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2551 W Whittier Blvd",
-    "sg:city":"La Habra",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "2551 W Whittier Blvd La Habra CA 90631",
+    "addr:housenumber": "2551",
+    "addr:postcode": "90631",
+    "addr:street": "W Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.974998,33.939800,-117.974998,33.939800",
+    "geom:latitude": 33.9398,
+    "geom:longitude": -117.974998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "County Line Animal Hospital, 2551 W Whittier Blvd La Habra CA US",
+    "ovtr:similarity": 1.9949400424957275,
+    "sg:address": "2551 W Whittier Blvd",
+    "sg:city": "La Habra",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 697 6725",
-    "sg:postcode":"90631",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 697 6725",
+    "sg:postcode": "90631",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.countylineanimalhospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_26IPmziUtD150UPm2zNbgu_33.939980_-117.975112@1293134755"
+    "sg:website": "www.countylineanimalhospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a6a8a61a103682b30e7f2c08a",
+      "sg:id": "SG_26IPmziUtD150UPm2zNbgu_33.939980_-117.975112@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6c6b44c38fa7a4a2c99f47b4a53ad4ad",
-    "wof:hierarchy":[],
-    "wof:id":572019521,
-    "wof:lastmodified":1509201666,
-    "wof:name":"County Line Animal Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "6c6b44c38fa7a4a2c99f47b4a53ad4ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572019521
+      }
+    ],
+    "wof:id": 572019521,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "County Line Animal Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -117.974998,
     33.9398,
     -117.974998,
     33.9398
-],
+  ],
   "geometry": {"coordinates":[-117.974998,33.9398],"type":"Point"}
 }

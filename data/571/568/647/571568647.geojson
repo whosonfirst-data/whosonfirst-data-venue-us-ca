@@ -2,75 +2,79 @@
   "id": 571568647,
   "type": "Feature",
   "properties": {
-    "addr:full":"603 S Atlantic Blvd Los Angeles CA 90022",
-    "addr:housenumber":"603",
-    "addr:postcode":"90022",
-    "addr:street":"S Atlantic Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.156059,34.02451,-118.156059,34.02451",
-    "geom:latitude":34.02451,
-    "geom:longitude":-118.156059,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"603 S Atlantic Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Self-service Laundry",
-            "type":"Services"
-        }
+    "addr:full": "603 S Atlantic Blvd Los Angeles CA 90022",
+    "addr:housenumber": "603",
+    "addr:postcode": "90022",
+    "addr:street": "S Atlantic Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.156059,34.024510,-118.156059,34.024510",
+    "geom:latitude": 34.02451,
+    "geom:longitude": -118.156059,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Laundry 2000, 601 S Atlantic Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.086333990097046,
+    "sg:address": "603 S Atlantic Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Self-service Laundry",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 780 8919",
-    "sg:postcode":"90022",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85928323,
-        102086957,
-        85877207
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 780 8919",
+    "sg:postcode": "90022",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85928323,
+      102086957,
+      85877207
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6R3fEoJ4cgkguiNsk33ax2_34.024510_-118.156059@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d2aaf3b9b03063141acf1f975",
+      "sg:id": "SG_6R3fEoJ4cgkguiNsk33ax2_34.024510_-118.156059@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5476c9db8c0fcb1750a343cd1070307e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928323,
-            "neighbourhood_id":85877207,
-            "region_id":85688637,
-            "venue_id":571568647
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "5476c9db8c0fcb1750a343cd1070307e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928323,
+        "neighbourhood_id": 85877207,
+        "region_id": 85688637,
+        "venue_id": 571568647
+      }
     ],
-    "wof:id":571568647,
-    "wof:lastmodified":1509201522,
-    "wof:name":"Laundry 2000",
-    "wof:parent_id":85877207,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571568647,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Laundry 2000",
+    "wof:parent_id": 85877207,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.156059,
     34.02451,
     -118.156059,
     34.02451
-],
+  ],
   "geometry": {"coordinates":[-118.156059,34.02451],"type":"Point"}
 }

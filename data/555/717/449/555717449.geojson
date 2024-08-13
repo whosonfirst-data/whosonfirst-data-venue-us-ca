@@ -2,58 +2,66 @@
   "id": 555717449,
   "type": "Feature",
   "properties": {
-    "addr:full":"37750 Sacramento St Yolo CA 95697",
-    "addr:housenumber":"37750",
-    "addr:postcode":"95697",
-    "addr:street":"Sacramento St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.807798,38.733174,-121.807798,38.733174",
-    "geom:latitude":38.733174,
-    "geom:longitude":-121.807798,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"37750 Sacramento St",
-    "sg:city":"Yolo",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "37750 Sacramento St Yolo CA 95697",
+    "addr:housenumber": "37750",
+    "addr:postcode": "95697",
+    "addr:street": "Sacramento St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.807798,38.733174,-121.807798,38.733174",
+    "geom:latitude": 38.733174,
+    "geom:longitude": -121.807798,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Yolo Branch Library, 37750 Sacramento St Yolo CA US",
+    "ovtr:similarity": 2.7850499153137207,
+    "sg:address": "37750 Sacramento St",
+    "sg:city": "Yolo",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 662 2363",
-    "sg:postcode":"95697",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VnAlunZXESDEPGx9SjqhN_38.733174_-121.807798@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 662 2363",
+    "sg:postcode": "95697",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283069329878c03c2bb4c884b9728",
+      "sg:id": "SG_5VnAlunZXESDEPGx9SjqhN_38.733174_-121.807798@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"376f270d8a6d5d99254c8f480ec47871",
-    "wof:hierarchy":[],
-    "wof:id":555717449,
-    "wof:lastmodified":1509201485,
-    "wof:name":"Yolo Branch Library",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "376f270d8a6d5d99254c8f480ec47871",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555717449
+      }
+    ],
+    "wof:id": 555717449,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Yolo Branch Library",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.807798,
     38.733174,
     -121.807798,
     38.733174
-],
-  "geometry": {"coordinates":[-121.80779800000001,38.733174],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.807798,38.733174],"type":"Point"}
 }

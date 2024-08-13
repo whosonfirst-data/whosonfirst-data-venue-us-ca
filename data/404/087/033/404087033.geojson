@@ -2,81 +2,85 @@
   "id": 404087033,
   "type": "Feature",
   "properties": {
-    "addr:full":"4100 E Donald Douglas Dr Long Beach CA 90808",
-    "addr:housenumber":"4100",
-    "addr:postcode":"90808",
-    "addr:street":"E Donald Douglas Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.144496,33.818101,-118.144496,33.818101",
-    "geom:latitude":33.818101,
-    "geom:longitude":-118.144496,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4100 E Donald Douglas Dr",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "4100 E Donald Douglas Dr Long Beach CA 90808",
+    "addr:housenumber": "4100",
+    "addr:postcode": "90808",
+    "addr:street": "E Donald Douglas Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.144496,33.818101,-118.144496,33.818101",
+    "geom:latitude": 33.818101,
+    "geom:longitude": -118.144496,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 4100 E Donald Douglas Dr Long Beach CA US",
+    "ovtr:similarity": 1.6659940481185913,
+    "sg:address": "4100 E Donald Douglas Dr",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 496 3134",
-    "sg:postcode":"90808",
-    "sg:province":"CA",
-    "sg:tags":[
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 496 3134",
+    "sg:postcode": "90808",
+    "sg:province": "CA",
+    "sg:tags": [
+      "car"
     ],
-    "sg:website":"www.enterprise.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85808865
+    "sg:website": "www.enterprise.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85808865
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_13INveoWjI5u18FQQkqDI3_33.818101_-118.144496@1303263200"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56a10c5ac8036e2c1aa5b9a5ca",
+      "sg:id": "SG_13INveoWjI5u18FQQkqDI3_33.818101_-118.144496@1303263200"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4519c0aaceb49cb27b213fcd59b5e5e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85808865,
-            "region_id":85688637,
-            "venue_id":404087033
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "4519c0aaceb49cb27b213fcd59b5e5e7",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85808865,
+        "region_id": 85688637,
+        "venue_id": 404087033
+      }
     ],
-    "wof:id":404087033,
-    "wof:lastmodified":1509201200,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85808865,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car"
+    "wof:id": 404087033,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85808865,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
     ]
-},
+  },
   "bbox": [
     -118.144496,
     33.818101,
     -118.144496,
     33.818101
-],
+  ],
   "geometry": {"coordinates":[-118.144496,33.818101],"type":"Point"}
 }

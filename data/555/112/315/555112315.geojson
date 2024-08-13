@@ -2,76 +2,80 @@
   "id": 555112315,
   "type": "Feature",
   "properties": {
-    "addr:full":"1123 Francisco Blvd E San Rafael CA 94901",
-    "addr:housenumber":"1123",
-    "addr:postcode":"94901",
-    "addr:street":"Francisco Blvd E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.502678,37.958263,-122.502678,37.958263",
-    "geom:latitude":37.958263,
-    "geom:longitude":-122.502678,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1123 Francisco Blvd E",
-    "sg:city":"San Rafael",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "1123 Francisco Blvd E San Rafael CA 94901",
+    "addr:housenumber": "1123",
+    "addr:postcode": "94901",
+    "addr:street": "Francisco Blvd E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.502678,37.958263,-122.502678,37.958263",
+    "geom:latitude": 37.958263,
+    "geom:longitude": -122.502678,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Planet Canine, 1123 Francisco Blvd E San Rafael CA US",
+    "ovtr:similarity": 2.059931993484497,
+    "sg:address": "1123 Francisco Blvd E",
+    "sg:city": "San Rafael",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 459 6130",
-    "sg:postcode":"94901",
-    "sg:province":"CA",
-    "sg:website":"www.planetcanine.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922003,
-        102084353,
-        85887905
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 459 6130",
+    "sg:postcode": "94901",
+    "sg:province": "CA",
+    "sg:website": "www.planetcanine.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922003,
+      102084353,
+      85887905
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51RjqIJVgzhNMuUdMq4WPF_37.958263_-122.502678@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830bb50112a8039af9a9beb15765",
+      "sg:id": "SG_51RjqIJVgzhNMuUdMq4WPF_37.958263_-122.502678@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"82ebec11224752189a379a0ff5c1b688",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922003,
-            "neighbourhood_id":85887905,
-            "region_id":85688637,
-            "venue_id":555112315
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "82ebec11224752189a379a0ff5c1b688",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922003,
+        "neighbourhood_id": 85887905,
+        "region_id": 85688637,
+        "venue_id": 555112315
+      }
     ],
-    "wof:id":555112315,
-    "wof:lastmodified":1509201280,
-    "wof:name":"Planet Canine",
-    "wof:parent_id":85887905,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555112315,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Planet Canine",
+    "wof:parent_id": 85887905,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.502678,
     37.958263,
     -122.502678,
     37.958263
-],
+  ],
   "geometry": {"coordinates":[-122.502678,37.958263],"type":"Point"}
 }

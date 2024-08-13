@@ -2,74 +2,78 @@
   "id": 387955581,
   "type": "Feature",
   "properties": {
-    "addr:full":"230 E Chestnut St Exeter CA 93221",
-    "addr:housenumber":"230",
-    "addr:postcode":"93221",
-    "addr:street":"E Chestnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.138664,36.294153,-119.138664,36.294153",
-    "geom:latitude":36.294153,
-    "geom:longitude":-119.138664,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"230 E Chestnut St",
-    "sg:city":"Exeter",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "230 E Chestnut St Exeter CA 93221",
+    "addr:housenumber": "230",
+    "addr:postcode": "93221",
+    "addr:street": "E Chestnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.138664,36.294153,-119.138664,36.294153",
+    "geom:latitude": 36.294153,
+    "geom:longitude": -119.138664,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Exeter Branch Library, 230 E Chestnut St Exeter CA US",
+    "ovtr:similarity": 3.122530937194824,
+    "sg:address": "230 E Chestnut St",
+    "sg:city": "Exeter",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 592 5361",
-    "sg:postcode":"93221",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102082895,
-        85852349
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 592 5361",
+    "sg:postcode": "93221",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102082895,
+      85852349
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":368170184,
-        "sg:id":"SG_07NlB0EwMXuXEv3HpeoxGl_36.294153_-119.138664@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 368170184,
+      "ovtr:id": "08f29a841e26480c03d432266d317bd8",
+      "sg:id": "SG_07NlB0EwMXuXEv3HpeoxGl_36.294153_-119.138664@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"07875bb91f2dee4972f94950b2a3885e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":-1,
-            "neighbourhood_id":85852349,
-            "region_id":85688637,
-            "venue_id":387955581
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "07875bb91f2dee4972f94950b2a3885e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": -1,
+        "neighbourhood_id": 85852349,
+        "region_id": 85688637,
+        "venue_id": 387955581
+      }
     ],
-    "wof:id":387955581,
-    "wof:lastmodified":1510942596,
-    "wof:name":"Exeter Branch Library",
-    "wof:parent_id":85852349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387955581,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Exeter Branch Library",
+    "wof:parent_id": 85852349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.138664,
     36.294153,
     -119.138664,
     36.294153
-],
-  "geometry": {"coordinates":[-119.13866400000001,36.294153],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.138664,36.294153],"type":"Point"}
 }

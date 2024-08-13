@@ -2,75 +2,79 @@
   "id": 555142735,
   "type": "Feature",
   "properties": {
-    "addr:full":"345 Arneill Rd Camarillo CA 93010",
-    "addr:housenumber":"345",
-    "addr:postcode":"93010",
-    "addr:street":"Arneill Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.039144,34.22168,-119.039144,34.22168",
-    "geom:latitude":34.22168,
-    "geom:longitude":-119.039144,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"345 Arneill Rd",
-    "sg:city":"Camarillo",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "345 Arneill Rd Camarillo CA 93010",
+    "addr:housenumber": "345",
+    "addr:postcode": "93010",
+    "addr:street": "Arneill Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.039144,34.221680,-119.039144,34.221680",
+    "geom:latitude": 34.22168,
+    "geom:longitude": -119.039144,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taqueria El Tapatio, 345 Arneill Rd Camarillo CA US",
+    "ovtr:similarity": 2.563483953475952,
+    "sg:address": "345 Arneill Rd",
+    "sg:city": "Camarillo",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 389 3301",
-    "sg:postcode":"93010",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923249,
-        102086933,
-        85867439
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 389 3301",
+    "sg:postcode": "93010",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923249,
+      102086933,
+      85867439
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2oEdgeM70KK1cOs5CHez6V_34.221680_-119.039144@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1b2d686c6d039f33415b50dd28",
+      "sg:id": "SG_2oEdgeM70KK1cOs5CHez6V_34.221680_-119.039144@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f496a986489c02089ba66732b9f27496",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086933,
-            "locality_id":85923249,
-            "neighbourhood_id":85867439,
-            "region_id":85688637,
-            "venue_id":555142735
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "f496a986489c02089ba66732b9f27496",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "locality_id": 85923249,
+        "neighbourhood_id": 85867439,
+        "region_id": 85688637,
+        "venue_id": 555142735
+      }
     ],
-    "wof:id":555142735,
-    "wof:lastmodified":1510942876,
-    "wof:name":"Taqueria El Tapatio",
-    "wof:parent_id":85867439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        588290201
+    "wof:id": 555142735,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Taqueria El Tapatio",
+    "wof:parent_id": 85867439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      588290201
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -119.039144,
     34.22168,
     -119.039144,
     34.22168
-],
-  "geometry": {"coordinates":[-119.03914399999999,34.22168],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.039144,34.22168],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 371036621,
   "type": "Feature",
   "properties": {
-    "addr:full":"4557 York Blvd Los Angeles CA 90041",
-    "addr:housenumber":"4557",
-    "addr:postcode":"90041",
-    "addr:street":"York Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.217003,34.123501,-118.217003,34.123501",
-    "geom:latitude":34.123501,
-    "geom:longitude":-118.217003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4557 York Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Electrical",
-            "type":"Services"
-        }
+    "addr:full": "4557 York Blvd Los Angeles CA 90041",
+    "addr:housenumber": "4557",
+    "addr:postcode": "90041",
+    "addr:street": "York Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.217003,34.123501,-118.217003,34.123501",
+    "geom:latitude": 34.123501,
+    "geom:longitude": -118.217003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Southwest Industrial Electric, 4557 York Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.116313934326172,
+    "sg:address": "4557 York Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Electrical",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 255 6563",
-    "sg:postcode":"90041",
-    "sg:province":"CA",
-    "sg:tags":[
-        "electrician"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 255 6563",
+    "sg:postcode": "90041",
+    "sg:province": "CA",
+    "sg:tags": [
+      "electrician"
     ],
-    "sg:website":"www.southwestelectric.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85815751
+    "sg:website": "www.southwestelectric.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85815751
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000374003-0001-2",
-        "sg:id":"SG_4JNTTDffSimaXVqT1nfJAE_34.123501_-118.217003@1303263161"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000374003-0001-2",
+      "ovtr:id": "08f29a1d511b2845030c8b31828c5512",
+      "sg:id": "SG_4JNTTDffSimaXVqT1nfJAE_34.123501_-118.217003@1303263161"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7f5fbfb92f7e30c777b149476fc5db67",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85815751,
-            "region_id":85688637,
-            "venue_id":371036621
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "7f5fbfb92f7e30c777b149476fc5db67",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85815751,
+        "region_id": 85688637,
+        "venue_id": 371036621
+      }
     ],
-    "wof:id":371036621,
-    "wof:lastmodified":1509200878,
-    "wof:name":"Southwest Industrial Electric",
-    "wof:parent_id":85815751,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electrician"
+    "wof:id": 371036621,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Southwest Industrial Electric",
+    "wof:parent_id": 85815751,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electrician"
     ]
-},
+  },
   "bbox": [
     -118.217003,
     34.123501,
     -118.217003,
     34.123501
-],
-  "geometry": {"coordinates":[-118.21700300000001,34.123501],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.217003,34.123501],"type":"Point"}
 }

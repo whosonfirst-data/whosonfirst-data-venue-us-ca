@@ -2,74 +2,78 @@
   "id": 370737589,
   "type": "Feature",
   "properties": {
-    "addr:full":"3732 W 3rd Street Los Angeles CA 90020",
-    "addr:housenumber":"3732",
-    "addr:postcode":"90020",
-    "addr:street":"W 3Rd Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.297723,34.069139,-118.297723,34.069139",
-    "geom:latitude":34.069139,
-    "geom:longitude":-118.297723,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3732 W 3rd Street",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3732 W 3rd Street Los Angeles CA 90020",
+    "addr:housenumber": "3732",
+    "addr:postcode": "90020",
+    "addr:street": "W 3Rd Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.297723,34.069139,-118.297723,34.069139",
+    "geom:latitude": 34.069139,
+    "geom:longitude": -118.297723,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Asian Mart, 3732 W 3rd St Los Angeles CA US",
+    "ovtr:similarity": 2.5161139965057373,
+    "sg:address": "3732 W 3rd Street",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 385 1231",
-    "sg:postcode":"90020",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865819
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 385 1231",
+    "sg:postcode": "90020",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865819
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1H4i1aOQQlBWsLsIAOX6t7_34.069139_-118.297723@1303263154"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d633a540c032df58b341471ff",
+      "sg:id": "SG_1H4i1aOQQlBWsLsIAOX6t7_34.069139_-118.297723@1303263154"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9f92de3bd1b23dd6a00b562bf6036d63",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865819,
-            "region_id":85688637,
-            "venue_id":370737589
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "9f92de3bd1b23dd6a00b562bf6036d63",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865819,
+        "region_id": 85688637,
+        "venue_id": 370737589
+      }
     ],
-    "wof:id":370737589,
-    "wof:lastmodified":1509200808,
-    "wof:name":"Asian Mart",
-    "wof:parent_id":85865819,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370737589,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Asian Mart",
+    "wof:parent_id": 85865819,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.297723,
     34.069139,
     -118.297723,
     34.069139
-],
+  ],
   "geometry": {"coordinates":[-118.297723,34.069139],"type":"Point"}
 }

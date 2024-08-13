@@ -2,88 +2,92 @@
   "id": 588640831,
   "type": "Feature",
   "properties": {
-    "addr:full":"3575 Reed Avenue West Sacramento CA 95605",
-    "addr:housenumber":"3575",
-    "addr:postcode":"95605",
-    "addr:street":"Reed Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.561896,38.592446,-121.561896,38.592446",
-    "geom:latitude":38.592446,
-    "geom:longitude":-121.561896,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3575 Reed Avenue",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Cheese",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3575 Reed Avenue West Sacramento CA 95605",
+    "addr:housenumber": "3575",
+    "addr:postcode": "95605",
+    "addr:street": "Reed Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.561896,38.592446,-121.561896,38.592446",
+    "geom:latitude": 38.592446,
+    "geom:longitude": -121.561896,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tony's Fine Foods, 3575 Reed Ave West Sacramento CA US",
+    "ovtr:similarity": 2.375312089920044,
+    "sg:address": "3575 Reed Avenue",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Cheese",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 952 5429",
-    "sg:postcode":"95605",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 952 5429",
+    "sg:postcode": "95605",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85834181,
-        85633793,
-        85922413,
-        102082309,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85834181,
+      85633793,
+      85922413,
+      102082309,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QgHt8v6xn36P6Cn56dynR_38.592446_-121.561896@1303263381"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b0e34dad0030cc5ec204cc0ac",
+      "sg:id": "SG_4QgHt8v6xn36P6Cn56dynR_38.592446_-121.561896@1303263381"
     },
-    "wof:country":"US",
-    "wof:geomhash":"065cd8a66614cc53621699b74061571a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":588640831
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "065cd8a66614cc53621699b74061571a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 588640831
+      }
     ],
-    "wof:id":588640831,
-    "wof:lastmodified":1509202186,
-    "wof:name":"Tony's Fine Foods",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 588640831,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Tony's Fine Foods",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -121.561896,
     38.592446,
     -121.561896,
     38.592446
-],
+  ],
   "geometry": {"coordinates":[-121.561896,38.592446],"type":"Point"}
 }

@@ -2,74 +2,78 @@
   "id": 387351455,
   "type": "Feature",
   "properties": {
-    "addr:full":"11003 Lakewood Blvd Downey CA 90241",
-    "addr:housenumber":"11003",
-    "addr:postcode":"90241",
-    "addr:street":"Lakewood Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.123366,33.937413,-118.123366,33.937413",
-    "geom:latitude":33.937413,
-    "geom:longitude":-118.123366,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11003 Lakewood Blvd",
-    "sg:city":"Downey",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "11003 Lakewood Blvd Downey CA 90241",
+    "addr:housenumber": "11003",
+    "addr:postcode": "90241",
+    "addr:street": "Lakewood Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.123366,33.937413,-118.123366,33.937413",
+    "geom:latitude": 33.937413,
+    "geom:longitude": -118.123366,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Downey Urgent Care, 11003 Lakewood Blvd Downey CA US",
+    "ovtr:similarity": 1.7773480415344238,
+    "sg:address": "11003 Lakewood Blvd",
+    "sg:city": "Downey",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 904 2273",
-    "sg:postcode":"90241",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923637,
-        102086957,
-        85815103
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 904 2273",
+    "sg:postcode": "90241",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923637,
+      102086957,
+      85815103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SIjUFOD2rF1ZqDlveQdli_33.937413_-118.123366@1303263176"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d248f4649036df305a8d0f248",
+      "sg:id": "SG_0SIjUFOD2rF1ZqDlveQdli_33.937413_-118.123366@1303263176"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d2b67edc9ff12b6f3299b4aa6dc5fb3e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923637,
-            "neighbourhood_id":85815103,
-            "region_id":85688637,
-            "venue_id":387351455
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "d2b67edc9ff12b6f3299b4aa6dc5fb3e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923637,
+        "neighbourhood_id": 85815103,
+        "region_id": 85688637,
+        "venue_id": 387351455
+      }
     ],
-    "wof:id":387351455,
-    "wof:lastmodified":1509201013,
-    "wof:name":"Downey Urgent Care",
-    "wof:parent_id":85815103,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387351455,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Downey Urgent Care",
+    "wof:parent_id": 85815103,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.123366,
     33.937413,
     -118.123366,
     33.937413
-],
+  ],
   "geometry": {"coordinates":[-118.123366,33.937413],"type":"Point"}
 }

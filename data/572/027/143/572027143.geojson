@@ -2,87 +2,91 @@
   "id": 572027143,
   "type": "Feature",
   "properties": {
-    "addr:full":"2626 High St Oakland CA 94619",
-    "addr:housenumber":"2626",
-    "addr:postcode":"94619",
-    "addr:street":"High St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.204002,37.7826,-122.204002,37.7826",
-    "geom:latitude":37.7826,
-    "geom:longitude":-122.204002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2626 High St",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "2626 High St Oakland CA 94619",
+    "addr:housenumber": "2626",
+    "addr:postcode": "94619",
+    "addr:street": "High St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.204002,37.782600,-122.204002,37.782600",
+    "geom:latitude": 37.7826,
+    "geom:longitude": -122.204002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Colonial Chapel, 2626 High St Oakland CA US",
+    "ovtr:similarity": 2.38598895072937,
+    "sg:address": "2626 High St",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 536 5454",
-    "sg:postcode":"94619",
-    "sg:province":"CA",
-    "sg:tags":[
-        "director",
-        "cemetery",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 536 5454",
+    "sg:postcode": "94619",
+    "sg:province": "CA",
+    "sg:tags": [
+      "director",
+      "cemetery",
+      "supply"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872247,
-        102191575,
-        1108794081,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872247,
+      102191575,
+      1108794081,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":464464072,
-        "sg:id":"SG_2HY6DMPhrZ15ipwzepMCPy_37.782745_-122.203509@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 464464072,
+      "ovtr:id": "08f283098a31e0480378aecc50837bd7",
+      "sg:id": "SG_2HY6DMPhrZ15ipwzepMCPy_37.782745_-122.203509@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7b7bd9682519f2058f5145c802287aeb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794081,
-            "neighbourhood_id":85872247,
-            "region_id":85688637,
-            "venue_id":572027143
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "7b7bd9682519f2058f5145c802287aeb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794081,
+        "neighbourhood_id": 85872247,
+        "region_id": 85688637,
+        "venue_id": 572027143
+      }
     ],
-    "wof:id":572027143,
-    "wof:lastmodified":1510942832,
-    "wof:name":"Colonial Chapel",
-    "wof:parent_id":85872247,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "director",
-        "cemetery",
-        "supply"
+    "wof:id": 572027143,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Colonial Chapel",
+    "wof:parent_id": 85872247,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "director",
+      "cemetery",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -122.204002,
     37.7826,
     -122.204002,
     37.7826
-],
+  ],
   "geometry": {"coordinates":[-122.204002,37.7826],"type":"Point"}
 }

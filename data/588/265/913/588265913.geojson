@@ -2,88 +2,92 @@
   "id": 588265913,
   "type": "Feature",
   "properties": {
-    "addr:full":"10549 Stanford Ave Garden Grove CA 92840",
-    "addr:housenumber":"10549",
-    "addr:postcode":"92840",
-    "addr:street":"Stanford Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.948797,33.777741,-117.948797,33.777741",
-    "geom:latitude":33.777741,
-    "geom:longitude":-117.948797,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10549 Stanford Ave",
-    "sg:city":"Garden Grove",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10549 Stanford Ave Garden Grove CA 92840",
+    "addr:housenumber": "10549",
+    "addr:postcode": "92840",
+    "addr:street": "Stanford Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.948797,33.777741,-117.948797,33.777741",
+    "geom:latitude": 33.777741,
+    "geom:longitude": -117.948797,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Henry's Bar and Grill, 10549 Stanford Ave Garden Grove CA US",
+    "ovtr:similarity": 2.4549150466918945,
+    "sg:address": "10549 Stanford Ave",
+    "sg:city": "Garden Grove",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 537 9884",
-    "sg:postcode":"92840",
-    "sg:province":"CA",
-    "sg:tags":[
-        "traditional",
-        "american"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 537 9884",
+    "sg:postcode": "92840",
+    "sg:province": "CA",
+    "sg:tags": [
+      "traditional",
+      "american"
     ],
-    "sg:website":"www.henrysbarandgrill.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923141,
-        102080847,
-        85811885
+    "sg:website": "www.henrysbarandgrill.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923141,
+      102080847,
+      85811885
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7beRi8LOivSQYpuwe5iHDd_33.777741_-117.948797@1303263284"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b450c541403fe12870171ed66",
+      "sg:id": "SG_7beRi8LOivSQYpuwe5iHDd_33.777741_-117.948797@1303263284"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bbf75378bdce1c82aa10002dc11870ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923141,
-            "neighbourhood_id":85811885,
-            "region_id":85688637,
-            "venue_id":588265913
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "bbf75378bdce1c82aa10002dc11870ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923141,
+        "neighbourhood_id": 85811885,
+        "region_id": 85688637,
+        "venue_id": 588265913
+      }
     ],
-    "wof:id":588265913,
-    "wof:lastmodified":1509201955,
-    "wof:name":"Henry's Bar & Grill",
-    "wof:parent_id":85811885,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "traditional",
-        "american"
+    "wof:id": 588265913,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Henry's Bar \u0026 Grill",
+    "wof:parent_id": 85811885,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "traditional",
+      "american"
     ]
-},
+  },
   "bbox": [
     -117.948797,
     33.777741,
     -117.948797,
     33.777741
-],
+  ],
   "geometry": {"coordinates":[-117.948797,33.777741],"type":"Point"}
 }

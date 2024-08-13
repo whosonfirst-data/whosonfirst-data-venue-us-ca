@@ -2,85 +2,89 @@
   "id": 588660159,
   "type": "Feature",
   "properties": {
-    "addr:full":"2031 W Capitol Avenue West Sacramento CA 95691",
-    "addr:housenumber":"2031",
-    "addr:postcode":"95691",
-    "addr:street":"W Capitol Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.53679,38.579791,-121.53679,38.579791",
-    "geom:latitude":38.579791,
-    "geom:longitude":-121.53679,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2031 W Capitol Avenue",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "2031 W Capitol Avenue West Sacramento CA 95691",
+    "addr:housenumber": "2031",
+    "addr:postcode": "95691",
+    "addr:street": "W Capitol Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.536790,38.579791,-121.536790,38.579791",
+    "geom:latitude": 38.579791,
+    "geom:longitude": -121.53679,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Broadway Auto Services, 2031 W Capitol Ave West Sacramento CA US",
+    "ovtr:similarity": 2.685762882232666,
+    "sg:address": "2031 W Capitol Avenue",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 373 0867",
-    "sg:postcode":"95691",
-    "sg:province":"CA",
-    "sg:tags":[
-        "smog",
-        "check"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 373 0867",
+    "sg:postcode": "95691",
+    "sg:province": "CA",
+    "sg:tags": [
+      "smog",
+      "check"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85834181,
-        85633793,
-        85922413,
-        102082309,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85834181,
+      85633793,
+      85922413,
+      102082309,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Uqe7gQUFsfcgYzo1teY4G_38.579791_-121.536790@1303263386"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b0ed802eb03d8435f07d96269",
+      "sg:id": "SG_3Uqe7gQUFsfcgYzo1teY4G_38.579791_-121.536790@1303263386"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5909c979358b25ebf98568d410ea172f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":588660159
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "5909c979358b25ebf98568d410ea172f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 588660159
+      }
     ],
-    "wof:id":588660159,
-    "wof:lastmodified":1509202198,
-    "wof:name":"Broadway Auto Service",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "smog",
-        "check"
+    "wof:id": 588660159,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Broadway Auto Service",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "smog",
+      "check"
     ]
-},
+  },
   "bbox": [
     -121.53679,
     38.579791,
     -121.53679,
     38.579791
-],
+  ],
   "geometry": {"coordinates":[-121.53679,38.579791],"type":"Point"}
 }

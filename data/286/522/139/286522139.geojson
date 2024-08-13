@@ -2,80 +2,84 @@
   "id": 286522139,
   "type": "Feature",
   "properties": {
-    "addr:full":"1525 Grass Valley Hwy Auburn CA 95603",
-    "addr:housenumber":"1525",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Grass Valley Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.085776,38.926251,-121.085776,38.926251",
-    "geom:latitude":38.926251,
-    "geom:longitude":-121.085776,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1525 Grass Valley Hwy",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1525 Grass Valley Hwy Auburn CA 95603",
+    "addr:housenumber": "1525",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Grass Valley Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.085776,38.926251,-121.085776,38.926251",
+    "geom:latitude": 38.926251,
+    "geom:longitude": -121.085776,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Animal Medical Center, 1525 Grass Valley Hwy Auburn CA US",
+    "ovtr:similarity": 2.101850986480713,
+    "sg:address": "1525 Grass Valley Hwy",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 823 5166",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 823 5166",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080863,
-        85841911
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080863,
+      85841911
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2jGOSeYm3wHwqgkuyxQff7_38.926251_-121.085776@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283205271b10e0375626c903e49fe",
+      "sg:id": "SG_2jGOSeYm3wHwqgkuyxQff7_38.926251_-121.085776@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8e8acecadec7c8688c669cf86c2b9ff0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":-1,
-            "neighbourhood_id":85841911,
-            "region_id":85688637,
-            "venue_id":286522139
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "8e8acecadec7c8688c669cf86c2b9ff0",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": -1,
+        "neighbourhood_id": 85841911,
+        "region_id": 85688637,
+        "venue_id": 286522139
+      }
     ],
-    "wof:id":286522139,
-    "wof:lastmodified":1509200262,
-    "wof:name":"Animal Medical Center",
-    "wof:parent_id":85841911,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian",
-        "animal"
+    "wof:id": 286522139,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Animal Medical Center",
+    "wof:parent_id": 85841911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -121.085776,
     38.926251,
     -121.085776,
     38.926251
-],
+  ],
   "geometry": {"coordinates":[-121.085776,38.926251],"type":"Point"}
 }

@@ -2,76 +2,80 @@
   "id": 387390701,
   "type": "Feature",
   "properties": {
-    "addr:full":"960 Main Street El Segundo CA 90245",
-    "addr:housenumber":"960",
-    "addr:postcode":"90245",
-    "addr:street":"Main Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.416,33.93,-118.416,33.93",
-    "geom:latitude":33.93,
-    "geom:longitude":-118.416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"960 Main Street",
-    "sg:city":"El Segundo",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "960 Main Street El Segundo CA 90245",
+    "addr:housenumber": "960",
+    "addr:postcode": "90245",
+    "addr:street": "Main Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.416000,33.930000,-118.416000,33.930000",
+    "geom:latitude": 33.93,
+    "geom:longitude": -118.416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 960 Main St El Segundo CA US",
+    "ovtr:similarity": 3.6184580326080322,
+    "sg:address": "960 Main Street",
+    "sg:city": "El Segundo",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 322 0567",
-    "sg:postcode":"90245",
-    "sg:province":"CA",
-    "sg:website":"www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923625,
-        102086957,
-        85885941
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 322 0567",
+    "sg:postcode": "90245",
+    "sg:province": "CA",
+    "sg:website": "www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923625,
+      102086957,
+      85885941
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7RWgskwPRtISdlRFcM1rkW_33.930000_-118.416000@1303263177"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a565b1662430365d7c63d1ece2e",
+      "sg:id": "SG_7RWgskwPRtISdlRFcM1rkW_33.930000_-118.416000@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f8c44a214ad8ea7f7d6ed573ca9f5cb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923625,
-            "neighbourhood_id":85885941,
-            "region_id":85688637,
-            "venue_id":387390701
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "f8c44a214ad8ea7f7d6ed573ca9f5cb4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923625,
+        "neighbourhood_id": 85885941,
+        "region_id": 85688637,
+        "venue_id": 387390701
+      }
     ],
-    "wof:id":387390701,
-    "wof:lastmodified":1511322193,
-    "wof:name":"Subway",
-    "wof:parent_id":85885941,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387390701,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Subway",
+    "wof:parent_id": 85885941,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.416,
     33.93,
     -118.416,
     33.93
-],
+  ],
   "geometry": {"coordinates":[-118.416,33.93],"type":"Point"}
 }

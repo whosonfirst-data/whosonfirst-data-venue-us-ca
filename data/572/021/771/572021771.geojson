@@ -2,87 +2,91 @@
   "id": 572021771,
   "type": "Feature",
   "properties": {
-    "addr:full":"904 15th St Sacramento CA 95814",
-    "addr:housenumber":"904",
-    "addr:postcode":"95814",
-    "addr:street":"15Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.486,38.579498,-121.486,38.579498",
-    "geom:latitude":38.579498,
-    "geom:longitude":-121.486,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"904 15th St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "904 15th St Sacramento CA 95814",
+    "addr:housenumber": "904",
+    "addr:postcode": "95814",
+    "addr:street": "15Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.486000,38.579498,-121.486000,38.579498",
+    "geom:latitude": 38.579498,
+    "geom:longitude": -121.486,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Torch Club, 904 15th St Sacramento CA US",
+    "ovtr:similarity": 2.4665141105651855,
+    "sg:address": "904 15th St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 443 2797",
-    "sg:postcode":"95814",
-    "sg:province":"CA",
-    "sg:tags":[
-        "lounge",
-        "venue",
-        "music",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 443 2797",
+    "sg:postcode": "95814",
+    "sg:province": "CA",
+    "sg:tags": [
+      "lounge",
+      "venue",
+      "music",
+      "cocktail"
     ],
-    "sg:website":"www.torchclub.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872201
+    "sg:website": "www.torchclub.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872201
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2B2zM4NCn7VCTuGYqew5JI_38.579086_-121.486362@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b11a46b84030fc5faaf1e35d9",
+      "sg:id": "SG_2B2zM4NCn7VCTuGYqew5JI_38.579086_-121.486362@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"aac2600e45bc787d9bce6b200f78344a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872201,
-            "region_id":85688637,
-            "venue_id":572021771
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "aac2600e45bc787d9bce6b200f78344a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872201,
+        "region_id": 85688637,
+        "venue_id": 572021771
+      }
     ],
-    "wof:id":572021771,
-    "wof:lastmodified":1509201667,
-    "wof:name":"The Torch Club",
-    "wof:parent_id":85872201,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lounge",
-        "venue",
-        "music",
-        "cocktail"
+    "wof:id": 572021771,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "The Torch Club",
+    "wof:parent_id": 85872201,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lounge",
+      "venue",
+      "music",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -121.486,
     38.579498,
     -121.486,
     38.579498
-],
+  ],
   "geometry": {"coordinates":[-121.486,38.579498],"type":"Point"}
 }

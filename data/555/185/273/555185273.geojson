@@ -2,58 +2,66 @@
   "id": 555185273,
   "type": "Feature",
   "properties": {
-    "addr:full":"20002 N Thornton Rd Lodi CA 95242",
-    "addr:housenumber":"20002",
-    "addr:postcode":"95242",
-    "addr:street":"N Thornton Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.399205,38.17008,-121.399205,38.17008",
-    "geom:latitude":38.17008,
-    "geom:longitude":-121.399205,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"20002 N Thornton Rd",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Farming",
-            "subcategory":"Dairy Farm",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "20002 N Thornton Rd Lodi CA 95242",
+    "addr:housenumber": "20002",
+    "addr:postcode": "95242",
+    "addr:street": "N Thornton Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.399205,38.170080,-121.399205,38.170080",
+    "geom:latitude": 38.17008,
+    "geom:longitude": -121.399205,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Van Exel Dairy, 20002 N Thornton Rd Lodi CA US",
+    "ovtr:similarity": 2.0980629920959473,
+    "sg:address": "20002 N Thornton Rd",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Farming",
+        "subcategory": "Dairy Farm",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 368 4322",
-    "sg:postcode":"95242",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XJ0jxYcnR0kxcqG3kaRSv_38.170080_-121.399205@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 368 4322",
+    "sg:postcode": "95242",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28362e8705130038a3a878c110e57",
+      "sg:id": "SG_5XJ0jxYcnR0kxcqG3kaRSv_38.170080_-121.399205@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"31dca87d1bda91ef0889edb549f97c1e",
-    "wof:hierarchy":[],
-    "wof:id":555185273,
-    "wof:lastmodified":1509201306,
-    "wof:name":"Van Exel Dairy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561704,
+    "wof:geomhash": "31dca87d1bda91ef0889edb549f97c1e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555185273
+      }
+    ],
+    "wof:id": 555185273,
+    "wof:lastmodified": 1723561704,
+    "wof:name": "Van Exel Dairy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.399205,
     38.17008,
     -121.399205,
     38.17008
-],
-  "geometry": {"coordinates":[-121.39920499999999,38.17008],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.399205,38.17008],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 354173843,
   "type": "Feature",
   "properties": {
-    "addr:full":"1229 E Main St Woodland CA 95776",
-    "addr:housenumber":"1229",
-    "addr:postcode":"95776",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.76518,38.677531,-121.76518,38.677531",
-    "geom:latitude":38.677531,
-    "geom:longitude":-121.76518,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1229 E Main St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1229 E Main St Woodland CA 95776",
+    "addr:housenumber": "1229",
+    "addr:postcode": "95776",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.765180,38.677531,-121.765180,38.677531",
+    "geom:latitude": 38.677531,
+    "geom:longitude": -121.76518,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 1229 E Main St Woodland CA US",
+    "ovtr:similarity": 2.9706499576568604,
+    "sg:address": "1229 E Main St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 666 6288",
-    "sg:postcode":"95776",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922405,
-        102082309,
-        85885383
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 666 6288",
+    "sg:postcode": "95776",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922405,
+      102082309,
+      85885383
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Fr2pB4iFyQtXpzLEo3sVx_38.677531_-121.765180@1294081369"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b4bb748980331187ac8b9c82f",
+      "sg:id": "SG_3Fr2pB4iFyQtXpzLEo3sVx_38.677531_-121.765180@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"71a5af81ff21b385443a8f87c7adebd9",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922405,
-            "neighbourhood_id":85885383,
-            "region_id":85688637,
-            "venue_id":354173843
-        }
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "71a5af81ff21b385443a8f87c7adebd9",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922405,
+        "neighbourhood_id": 85885383,
+        "region_id": 85688637,
+        "venue_id": 354173843
+      }
     ],
-    "wof:id":354173843,
-    "wof:lastmodified":1509200654,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85885383,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354173843,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85885383,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.76518,
     38.677531,
     -121.76518,
     38.677531
-],
+  ],
   "geometry": {"coordinates":[-121.76518,38.677531],"type":"Point"}
 }

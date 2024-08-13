@@ -2,77 +2,81 @@
   "id": 371007241,
   "type": "Feature",
   "properties": {
-    "addr:full":"2738 Hyperion Ave Los Angeles CA 90039",
-    "addr:housenumber":"2738",
-    "addr:postcode":"90039",
-    "addr:street":"Hyperion Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.271364,34.107669,-118.271364,34.107669",
-    "geom:latitude":34.107669,
-    "geom:longitude":-118.271364,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2738 Hyperion Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2738 Hyperion Ave Los Angeles CA 90039",
+    "addr:housenumber": "2738",
+    "addr:postcode": "90039",
+    "addr:street": "Hyperion Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.271364,34.107669,-118.271364,34.107669",
+    "geom:latitude": 34.107669,
+    "geom:longitude": -118.271364,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 2738 Hyperion Ave Los Angeles CA US",
+    "ovtr:similarity": 3.5240139961242676,
+    "sg:address": "2738 Hyperion Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 665 6774",
-    "sg:postcode":"90039",
-    "sg:province":"CA",
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85868367
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 665 6774",
+    "sg:postcode": "90039",
+    "sg:province": "CA",
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85868367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000554496-0008-7",
-        "osm:way":427289893,
-        "sg:id":"SG_0OVjpAm4hfGmlLYCzUtwky_34.107669_-118.271364@1303263161"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000554496-0008-7",
+      "osm:way": 427289893,
+      "ovtr:id": "08f29a1d40769640039549af94ca37e3",
+      "sg:id": "SG_0OVjpAm4hfGmlLYCzUtwky_34.107669_-118.271364@1303263161"
     },
-    "wof:country":"US",
-    "wof:geomhash":"75f93ce2368ef04cf5d92bd61696475e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868367,
-            "region_id":85688637,
-            "venue_id":371007241
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "75f93ce2368ef04cf5d92bd61696475e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868367,
+        "region_id": 85688637,
+        "venue_id": 371007241
+      }
     ],
-    "wof:id":371007241,
-    "wof:lastmodified":1510942305,
-    "wof:name":"Trader Joes",
-    "wof:parent_id":85868367,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371007241,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Trader Joes",
+    "wof:parent_id": 85868367,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.271364,
     34.107669,
     -118.271364,
     34.107669
-],
-  "geometry": {"coordinates":[-118.27136400000001,34.107669],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.271364,34.107669],"type":"Point"}
 }

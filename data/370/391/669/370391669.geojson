@@ -2,84 +2,88 @@
   "id": 370391669,
   "type": "Feature",
   "properties": {
-    "addr:full":"4554 Beverly Boulevard Los Angeles CA 90004",
-    "addr:housenumber":"4554",
-    "addr:postcode":"90004",
-    "addr:street":"Beverly Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308246,34.07637,-118.308246,34.07637",
-    "geom:latitude":34.07637,
-    "geom:longitude":-118.308246,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4554 Beverly Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        }
+    "addr:full": "4554 Beverly Boulevard Los Angeles CA 90004",
+    "addr:housenumber": "4554",
+    "addr:postcode": "90004",
+    "addr:street": "Beverly Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308246,34.076370,-118.308246,34.076370",
+    "geom:latitude": 34.07637,
+    "geom:longitude": -118.308246,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "D \u0026 R Upholstery, 4554 Beverly Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.4004039764404297,
+    "sg:address": "4554 Beverly Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 466 1120",
-    "sg:postcode":"90004",
-    "sg:province":"CA",
-    "sg:tags":[
-        "reupholstery",
-        "furniture"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 466 1120",
+    "sg:postcode": "90004",
+    "sg:province": "CA",
+    "sg:tags": [
+      "reupholstery",
+      "furniture"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865827",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865827
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4e6BBK4oamfXhL0rl3cwZx_34.076370_-118.308246@1303263146"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6e50b99003b173e997c5e545",
+      "sg:id": "SG_4e6BBK4oamfXhL0rl3cwZx_34.076370_-118.308246@1303263146"
     },
-    "wof:country":"US",
-    "wof:geomhash":"96070bcc20ae1ea5894b3bd5ba06254b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865827",
-            "region_id":85688637,
-            "venue_id":370391669
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "96070bcc20ae1ea5894b3bd5ba06254b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865827,
+        "region_id": 85688637,
+        "venue_id": 370391669
+      }
     ],
-    "wof:id":370391669,
-    "wof:lastmodified":1509200728,
-    "wof:name":"D & R Upholstery",
-    "wof:parent_id":"85865827",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "reupholstery",
-        "furniture"
+    "wof:id": 370391669,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "D \u0026 R Upholstery",
+    "wof:parent_id": "85865827",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "reupholstery",
+      "furniture"
     ]
-},
+  },
   "bbox": [
     -118.308246,
     34.07637,
     -118.308246,
     34.07637
-],
+  ],
   "geometry": {"coordinates":[-118.308246,34.07637],"type":"Point"}
 }

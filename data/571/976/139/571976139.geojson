@@ -2,82 +2,86 @@
   "id": 571976139,
   "type": "Feature",
   "properties": {
-    "addr:full":"10531 W Pico Blvd Los Angeles CA 90064",
-    "addr:housenumber":"10531",
-    "addr:postcode":"90064",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.420005,34.0446,-118.420005,34.0446",
-    "geom:latitude":34.0446,
-    "geom:longitude":-118.420005,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"10531 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "10531 W Pico Blvd Los Angeles CA 90064",
+    "addr:housenumber": "10531",
+    "addr:postcode": "90064",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.420005,34.044600,-118.420005,34.044600",
+    "geom:latitude": 34.0446,
+    "geom:longitude": -118.420005,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Perfect Cleaners, 10531 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.5197609663009644,
+    "sg:address": "10531 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 470 0330",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cleaner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 470 0330",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cleaner"
     ],
-    "sg:website":"www.perfectcleaners.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85886327
+    "sg:website": "www.perfectcleaners.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85886327
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000950485-0001-4",
-        "sg:id":"SG_0fONtNDWHdLUsKhb1eSkMV_34.044568_-118.420373@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000950485-0001-4",
+      "ovtr:id": "08f29a199cbb429803e0ae6bd700d2dc",
+      "sg:id": "SG_0fONtNDWHdLUsKhb1eSkMV_34.044568_-118.420373@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2cd8aa0ed26738ee864c14120c4d83fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886327,
-            "region_id":85688637,
-            "venue_id":571976139
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "2cd8aa0ed26738ee864c14120c4d83fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886327,
+        "region_id": 85688637,
+        "venue_id": 571976139
+      }
     ],
-    "wof:id":571976139,
-    "wof:lastmodified":1509201652,
-    "wof:name":"Perfect Cleaners",
-    "wof:parent_id":85886327,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaner"
+    "wof:id": 571976139,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Perfect Cleaners",
+    "wof:parent_id": 85886327,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaner"
     ]
-},
+  },
   "bbox": [
     -118.420005,
     34.0446,
     -118.420005,
     34.0446
-],
+  ],
   "geometry": {"coordinates":[-118.420005,34.0446],"type":"Point"}
 }

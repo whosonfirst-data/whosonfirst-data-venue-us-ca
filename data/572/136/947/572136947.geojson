@@ -2,83 +2,87 @@
   "id": 572136947,
   "type": "Feature",
   "properties": {
-    "addr:full":"105 E Maude Ave Sunnyvale CA 94085",
-    "addr:housenumber":"105",
-    "addr:postcode":"94085",
-    "addr:street":"E Maude Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.025416,37.388239,-122.025416,37.388239",
-    "geom:latitude":37.388239,
-    "geom:longitude":-122.025416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"105 E Maude Ave",
-    "sg:city":"Sunnyvale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "105 E Maude Ave Sunnyvale CA 94085",
+    "addr:housenumber": "105",
+    "addr:postcode": "94085",
+    "addr:street": "E Maude Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.025416,37.388239,-122.025416,37.388239",
+    "geom:latitude": 37.388239,
+    "geom:longitude": -122.025416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "American European Auto Clinic, 105 E Maude Ave Sunnyvale CA US",
+    "ovtr:similarity": 2.2046220302581787,
+    "sg:address": "105 E Maude Ave",
+    "sg:city": "Sunnyvale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 733 7075",
-    "sg:postcode":"94085",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 733 7075",
+    "sg:postcode": "94085",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922333,
-        102081673,
-        85881221
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922333,
+      102081673,
+      85881221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4331562820,
-        "sg:id":"SG_70OOeHJYLzLVTPPGVWEx9W_37.388092_-122.025350@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4331562820,
+      "ovtr:id": "08f28347080ae9630398b6522de61ba0",
+      "sg:id": "SG_70OOeHJYLzLVTPPGVWEx9W_37.388092_-122.025350@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ddd3fb6afae1eec48d0fd34960c1d7b2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922333,
-            "neighbourhood_id":85881221,
-            "region_id":85688637,
-            "venue_id":572136947
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "ddd3fb6afae1eec48d0fd34960c1d7b2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922333,
+        "neighbourhood_id": 85881221,
+        "region_id": 85688637,
+        "venue_id": 572136947
+      }
     ],
-    "wof:id":572136947,
-    "wof:lastmodified":1510942729,
-    "wof:name":"American European Auto Clinic",
-    "wof:parent_id":85881221,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 572136947,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "American European Auto Clinic",
+    "wof:parent_id": 85881221,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -122.025416,
     37.388239,
     -122.025416,
     37.388239
-],
-  "geometry": {"coordinates":[-122.02541600000001,37.388239],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.025416,37.388239],"type":"Point"}
 }

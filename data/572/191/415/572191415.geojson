@@ -2,86 +2,90 @@
   "id": 572191415,
   "type": "Feature",
   "properties": {
-    "addr:full":"5411 3rd St San Francisco CA 94124",
-    "addr:housenumber":"5411",
-    "addr:postcode":"94124",
-    "addr:street":"3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.39256,37.727942,-122.39256,37.727942",
-    "geom:latitude":37.727942,
-    "geom:longitude":-122.39256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"5411 3rd St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5411 3rd St San Francisco CA 94124",
+    "addr:housenumber": "5411",
+    "addr:postcode": "94124",
+    "addr:street": "3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.392560,37.727942,-122.392560,37.727942",
+    "geom:latitude": 37.727942,
+    "geom:longitude": -122.39256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 5411 3rd St San Francisco CA US",
+    "ovtr:similarity": 2.8122711181640625,
+    "sg:address": "5411 3rd St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/216539-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"94124",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/216539-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "94124",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831973,
-        85865995,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831973,
+      85865995,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"1035430-07-151",
-        "sg:id":"SG_4ZJXc72Y1BKb5BwpiMtwZJ_37.727942_-122.392560@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308252935a203a70d4791f58739",
+      "sfgov_rbl:id": "1035430-07-151",
+      "sg:id": "SG_4ZJXc72Y1BKb5BwpiMtwZJ_37.727942_-122.392560@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5e43325f61c693b7a5f0fb1c3f36bf4b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831973,
-            "neighbourhood_id":85865995,
-            "region_id":85688637,
-            "venue_id":572191415
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "5e43325f61c693b7a5f0fb1c3f36bf4b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831973,
+        "neighbourhood_id": 85865995,
+        "region_id": 85688637,
+        "venue_id": 572191415
+      }
     ],
-    "wof:id":572191415,
-    "wof:lastmodified":1512142862,
-    "wof:name":"McDonald's",
-    "wof:parent_id":1108831973,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572191415,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 1108831973,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.39256,
     37.727942,
     -122.39256,
     37.727942
-],
+  ],
   "geometry": {"coordinates":[-122.39256,37.727942],"type":"Point"}
 }

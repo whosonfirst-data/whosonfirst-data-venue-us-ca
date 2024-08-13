@@ -2,83 +2,87 @@
   "id": 387100615,
   "type": "Feature",
   "properties": {
-    "addr:full":"2721 East St Anderson CA 96007",
-    "addr:housenumber":"2721",
-    "addr:postcode":"96007",
-    "addr:street":"East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.295924,40.449722,-122.295924,40.449722",
-    "geom:latitude":40.449722,
-    "geom:longitude":-122.295924,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2721 East St",
-    "sg:city":"Anderson",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2721 East St Anderson CA 96007",
+    "addr:housenumber": "2721",
+    "addr:postcode": "96007",
+    "addr:street": "East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.295924,40.449722,-122.295924,40.449722",
+    "geom:latitude": 40.449722,
+    "geom:longitude": -122.295924,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "George's Muffler, 2721 East St Anderson CA US",
+    "ovtr:similarity": 2.4238359928131104,
+    "sg:address": "2721 East St",
+    "sg:city": "Anderson",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 365 3777",
-    "sg:postcode":"96007",
-    "sg:province":"CA",
-    "sg:tags":[
-        "muffler",
-        "exhaust",
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 365 3777",
+    "sg:postcode": "96007",
+    "sg:province": "CA",
+    "sg:tags": [
+      "muffler",
+      "exhaust",
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85831393
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85831393
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ZUsqKI8q9Axi2PFAp4pTU_40.449722_-122.295924@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28150f5caa1660351d643632a5558",
+      "sg:id": "SG_7ZUsqKI8q9Axi2PFAp4pTU_40.449722_-122.295924@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6982888c0e88f3a62cc7ceaa9de92b96",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85831393,
-            "region_id":85688637,
-            "venue_id":387100615
-        }
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "6982888c0e88f3a62cc7ceaa9de92b96",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85831393,
+        "region_id": 85688637,
+        "venue_id": 387100615
+      }
     ],
-    "wof:id":387100615,
-    "wof:lastmodified":1509200954,
-    "wof:name":"George's Muffler",
-    "wof:parent_id":85831393,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "muffler",
-        "exhaust",
-        "system"
+    "wof:id": 387100615,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "George's Muffler",
+    "wof:parent_id": 85831393,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "muffler",
+      "exhaust",
+      "system"
     ]
-},
+  },
   "bbox": [
     -122.295924,
     40.449722,
     -122.295924,
     40.449722
-],
+  ],
   "geometry": {"coordinates":[-122.295924,40.449722],"type":"Point"}
 }

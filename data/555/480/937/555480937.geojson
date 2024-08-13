@@ -2,75 +2,79 @@
   "id": 555480937,
   "type": "Feature",
   "properties": {
-    "addr:full":"5448 Santa Monica Blvd Los Angeles CA 90029",
-    "addr:housenumber":"5448",
-    "addr:postcode":"90029",
-    "addr:street":"Santa Monica Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308356,34.0907,-118.308356,34.0907",
-    "geom:latitude":34.0907,
-    "geom:longitude":-118.308356,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5448 Santa Monica Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "5448 Santa Monica Blvd Los Angeles CA 90029",
+    "addr:housenumber": "5448",
+    "addr:postcode": "90029",
+    "addr:street": "Santa Monica Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308356,34.090700,-118.308356,34.090700",
+    "geom:latitude": 34.0907,
+    "geom:longitude": -118.308356,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Maricruz Beauty Salon, 5448 Santa Monica Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.8371750116348267,
+    "sg:address": "5448 Santa Monica Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 466 5829",
-    "sg:postcode":"90029",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85869473
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 466 5829",
+    "sg:postcode": "90029",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85869473
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3NnQNtMtNOj8ueUWU8Q0r4_34.090700_-118.308356@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6ada3cd4033fe644a3e779fb",
+      "sg:id": "SG_3NnQNtMtNOj8ueUWU8Q0r4_34.090700_-118.308356@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1a39f8304e52cd170f0811e69931e353",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869473,
-            "region_id":85688637,
-            "venue_id":555480937
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "1a39f8304e52cd170f0811e69931e353",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869473,
+        "region_id": 85688637,
+        "venue_id": 555480937
+      }
     ],
-    "wof:id":555480937,
-    "wof:lastmodified":1509201406,
-    "wof:name":"Maricruz Beauty Salon",
-    "wof:parent_id":85869473,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555480937,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Maricruz Beauty Salon",
+    "wof:parent_id": 85869473,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.308356,
     34.0907,
     -118.308356,
     34.0907
-],
+  ],
   "geometry": {"coordinates":[-118.308356,34.0907],"type":"Point"}
 }

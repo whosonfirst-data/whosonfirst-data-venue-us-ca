@@ -2,84 +2,88 @@
   "id": 588312085,
   "type": "Feature",
   "properties": {
-    "addr:full":"545 Main St Morro Bay CA 93442",
-    "addr:housenumber":"545",
-    "addr:postcode":"93442",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.850148,35.36303,-120.850148,35.36303",
-    "geom:latitude":35.36303,
-    "geom:longitude":-120.850148,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"545 Main St",
-    "sg:city":"Morro Bay",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Massage",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Day Spa",
-            "type":"Services"
-        }
+    "addr:full": "545 Main St Morro Bay CA 93442",
+    "addr:housenumber": "545",
+    "addr:postcode": "93442",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.850148,35.363030,-120.850148,35.363030",
+    "geom:latitude": 35.36303,
+    "geom:longitude": -120.850148,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Serenity by the Sea, 545 Main St Morro Bay CA US",
+    "ovtr:similarity": 2.167332887649536,
+    "sg:address": "545 Main St",
+    "sg:city": "Morro Bay",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Massage",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Day Spa",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 772 7333",
-    "sg:postcode":"93442",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922317,
-        102085385,
-        85803827
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 772 7333",
+    "sg:postcode": "93442",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922317,
+      102085385,
+      85803827
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":163743755,
-        "sg:id":"SG_11BkZRmsoB7uSon64MnU2p_35.363030_-120.850148@1303263296"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 163743755,
+      "ovtr:id": "08f29ad1006abd1d031ff174ca1abaec",
+      "sg:id": "SG_11BkZRmsoB7uSon64MnU2p_35.363030_-120.850148@1303263296"
     },
-    "wof:country":"US",
-    "wof:geomhash":"afb66cf015b77500c231c893da0e8672",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085385,
-            "locality_id":85922317,
-            "neighbourhood_id":85803827,
-            "region_id":85688637,
-            "venue_id":588312085
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "afb66cf015b77500c231c893da0e8672",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085385,
+        "locality_id": 85922317,
+        "neighbourhood_id": 85803827,
+        "region_id": 85688637,
+        "venue_id": 588312085
+      }
     ],
-    "wof:id":588312085,
-    "wof:lastmodified":1510941938,
-    "wof:name":"Serenity By The Sea",
-    "wof:parent_id":85803827,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588312085,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Serenity By The Sea",
+    "wof:parent_id": 85803827,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.850148,
     35.36303,
     -120.850148,
     35.36303
-],
+  ],
   "geometry": {"coordinates":[-120.850148,35.36303],"type":"Point"}
 }

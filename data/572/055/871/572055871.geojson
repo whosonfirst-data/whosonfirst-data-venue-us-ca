@@ -2,82 +2,86 @@
   "id": 572055871,
   "type": "Feature",
   "properties": {
-    "addr:full":"4501 N Figueroa St Los Angeles CA 90065",
-    "addr:housenumber":"4501",
-    "addr:postcode":"90065",
-    "addr:street":"N Figueroa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.207379,34.096144,-118.207379,34.096144",
-    "geom:latitude":34.096144,
-    "geom:longitude":-118.207379,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4501 N Figueroa St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4501 N Figueroa St Los Angeles CA 90065",
+    "addr:housenumber": "4501",
+    "addr:postcode": "90065",
+    "addr:street": "N Figueroa St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.207379,34.096144,-118.207379,34.096144",
+    "geom:latitude": 34.096144,
+    "geom:longitude": -118.207379,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Fiesta, 4501 N Figueroa St Los Angeles CA US",
+    "ovtr:similarity": 2.312932014465332,
+    "sg:address": "4501 N Figueroa St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 223 5478",
-    "sg:postcode":"90065",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican",
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 223 5478",
+    "sg:postcode": "90065",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican",
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85869501
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85869501
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ndstlu6zS9aSrwMdaSN96_34.096154_-118.207148@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d54345c120338651c2303a701",
+      "sg:id": "SG_3ndstlu6zS9aSrwMdaSN96_34.096154_-118.207148@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3eef3bc94291384bb7afbfab5ee8f5ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869501,
-            "region_id":85688637,
-            "venue_id":572055871
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "3eef3bc94291384bb7afbfab5ee8f5ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869501,
+        "region_id": 85688637,
+        "venue_id": 572055871
+      }
     ],
-    "wof:id":572055871,
-    "wof:lastmodified":1509201678,
-    "wof:name":"Taco Fiesta",
-    "wof:parent_id":85869501,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican",
-        "eating"
+    "wof:id": 572055871,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Taco Fiesta",
+    "wof:parent_id": 85869501,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican",
+      "eating"
     ]
-},
+  },
   "bbox": [
     -118.207379,
     34.096144,
     -118.207379,
     34.096144
-],
+  ],
   "geometry": {"coordinates":[-118.207379,34.096144],"type":"Point"}
 }

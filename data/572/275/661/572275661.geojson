@@ -2,87 +2,91 @@
   "id": 572275661,
   "type": "Feature",
   "properties": {
-    "addr:full":"4002 W Riverside Dr Burbank CA 91505",
-    "addr:housenumber":"4002",
-    "addr:postcode":"91505",
-    "addr:street":"W Riverside Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.344002,34.152,-118.344002,34.152",
-    "geom:latitude":34.152,
-    "geom:longitude":-118.344002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4002 W Riverside Dr",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4002 W Riverside Dr Burbank CA 91505",
+    "addr:housenumber": "4002",
+    "addr:postcode": "91505",
+    "addr:street": "W Riverside Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.344002,34.152000,-118.344002,34.152000",
+    "geom:latitude": 34.152,
+    "geom:longitude": -118.344002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 4002 W Riverside Dr Burbank CA US",
+    "ovtr:similarity": 2.695549964904785,
+    "sg:address": "4002 W Riverside Dr",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 848 4644",
-    "sg:postcode":"91505",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 848 4644",
+    "sg:postcode": "91505",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"subwayburbank.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923691,
-        102086957,
-        85869155
+    "sg:website": "subwayburbank.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923691,
+      102086957,
+      85869155
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_52XASil78OBDxroGBWVDyr_34.152000_-118.344002@1303263219"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d4989b65903b00bf06f25b74b",
+      "sg:id": "SG_52XASil78OBDxroGBWVDyr_34.152000_-118.344002@1303263219"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7f5b75460bbc83f9ffa9cebb055cd3d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923691,
-            "neighbourhood_id":85869155,
-            "region_id":85688637,
-            "venue_id":572275661
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "7f5b75460bbc83f9ffa9cebb055cd3d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923691,
+        "neighbourhood_id": 85869155,
+        "region_id": 85688637,
+        "venue_id": 572275661
+      }
     ],
-    "wof:id":572275661,
-    "wof:lastmodified":1511322214,
-    "wof:name":"Subway",
-    "wof:parent_id":85869155,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 572275661,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Subway",
+    "wof:parent_id": 85869155,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.344002,
     34.152,
     -118.344002,
     34.152
-],
+  ],
   "geometry": {"coordinates":[-118.344002,34.152],"type":"Point"}
 }

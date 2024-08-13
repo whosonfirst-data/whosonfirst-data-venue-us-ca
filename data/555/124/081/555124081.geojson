@@ -2,75 +2,79 @@
   "id": 555124081,
   "type": "Feature",
   "properties": {
-    "addr:full":"850 N Eaton Ave Dinuba CA 93618",
-    "addr:housenumber":"850",
-    "addr:postcode":"93618",
-    "addr:street":"N Eaton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.390501,36.551649,-119.390501,36.551649",
-    "geom:latitude":36.551649,
-    "geom:longitude":-119.390501,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"850 N Eaton Ave",
-    "sg:city":"Dinuba",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "850 N Eaton Ave Dinuba CA 93618",
+    "addr:housenumber": "850",
+    "addr:postcode": "93618",
+    "addr:street": "N Eaton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.390501,36.551649,-119.390501,36.551649",
+    "geom:latitude": 36.551649,
+    "geom:longitude": -119.390501,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lincoln Elementary School, 850 N Eaton Ave Dinuba CA US",
+    "ovtr:similarity": 2.74625301361084,
+    "sg:address": "850 N Eaton Ave",
+    "sg:city": "Dinuba",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 595 7260",
-    "sg:postcode":"93618",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922491,
-        102082895,
-        85818191
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 595 7260",
+    "sg:postcode": "93618",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922491,
+      102082895,
+      85818191
     ],
-    "wof:brand_id":1125149325,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":200795824,
-        "sg:id":"SG_2tiiO9SIX65N0fQoMXdVFY_36.551649_-119.390501@1294081369"
+    "wof:brand_id": 1125149325,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 200795824,
+      "ovtr:id": "08f29a86a432eadc03a2aeed3963fecd",
+      "sg:id": "SG_2tiiO9SIX65N0fQoMXdVFY_36.551649_-119.390501@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b7a958a4e742ba45c04b8bd5dcd2a1b3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922491,
-            "neighbourhood_id":85818191,
-            "region_id":85688637,
-            "venue_id":555124081
-        }
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "b7a958a4e742ba45c04b8bd5dcd2a1b3",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922491,
+        "neighbourhood_id": 85818191,
+        "region_id": 85688637,
+        "venue_id": 555124081
+      }
     ],
-    "wof:id":555124081,
-    "wof:lastmodified":1511317627,
-    "wof:name":"Lincoln Elementary School",
-    "wof:parent_id":85818191,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555124081,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "Lincoln Elementary School",
+    "wof:parent_id": 85818191,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.390501,
     36.551649,
     -119.390501,
     36.551649
-],
+  ],
   "geometry": {"coordinates":[-119.390501,36.551649],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 370769981,
   "type": "Feature",
   "properties": {
-    "addr:full":"1002 S Atlantic Boulevard Los Angeles CA 90022",
-    "addr:housenumber":"1002",
-    "addr:postcode":"90022",
-    "addr:street":"S Atlantic Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.158125,34.018114,-118.158125,34.018114",
-    "geom:latitude":34.018114,
-    "geom:longitude":-118.158125,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1002 S Atlantic Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1002 S Atlantic Boulevard Los Angeles CA 90022",
+    "addr:housenumber": "1002",
+    "addr:postcode": "90022",
+    "addr:street": "S Atlantic Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.158125,34.018114,-118.158125,34.018114",
+    "geom:latitude": 34.018114,
+    "geom:longitude": -118.158125,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Wienerschnitzel at 1002 S. Atlantic Boulevard, 1002 S Atlantic Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.4156339168548584,
+    "sg:address": "1002 S Atlantic Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 269 1864",
-    "sg:postcode":"90022",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928323,
-        102086957,
-        85877207
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 269 1864",
+    "sg:postcode": "90022",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928323,
+      102086957,
+      85877207
     ],
-    "wof:brand_id":1125148931,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0mbd5Gh7MModvko2WCssDJ_34.018114_-118.158125@1303263154"
+    "wof:brand_id": 1125148931,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d2ab232b003301379337e52c3",
+      "sg:id": "SG_0mbd5Gh7MModvko2WCssDJ_34.018114_-118.158125@1303263154"
     },
-    "wof:country":"US",
-    "wof:geomhash":"75b1e7b0f37a993f42fb9c892b26ab54",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928323,
-            "neighbourhood_id":85877207,
-            "region_id":85688637,
-            "venue_id":370769981
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "75b1e7b0f37a993f42fb9c892b26ab54",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928323,
+        "neighbourhood_id": 85877207,
+        "region_id": 85688637,
+        "venue_id": 370769981
+      }
     ],
-    "wof:id":370769981,
-    "wof:lastmodified":1511319647,
-    "wof:name":"Wienerschnitzel",
-    "wof:parent_id":85877207,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370769981,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Wienerschnitzel",
+    "wof:parent_id": 85877207,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.158125,
     34.018114,
     -118.158125,
     34.018114
-],
+  ],
   "geometry": {"coordinates":[-118.158125,34.018114],"type":"Point"}
 }

@@ -2,74 +2,78 @@
   "id": 370706503,
   "type": "Feature",
   "properties": {
-    "addr:full":"1905 S Western Ave Ste 20 Los Angeles CA 90018",
-    "addr:housenumber":"1905",
-    "addr:postcode":"90018",
-    "addr:street":"S Western Ave Ste 20",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308998,34.039902,-118.308998,34.039902",
-    "geom:latitude":34.039902,
-    "geom:longitude":-118.308998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1905 S Western Ave Ste 20",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1905 S Western Ave Ste 20 Los Angeles CA 90018",
+    "addr:housenumber": "1905",
+    "addr:postcode": "90018",
+    "addr:street": "S Western Ave Ste 20",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308998,34.039902,-118.308998,34.039902",
+    "geom:latitude": 34.039902,
+    "geom:longitude": -118.308998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Daily Donut House, 1905 S Western Ave Los Angeles CA US",
+    "ovtr:similarity": 3.7094669342041016,
+    "sg:address": "1905 S Western Ave Ste 20",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 734 8822",
-    "sg:postcode":"90018",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869325
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 734 8822",
+    "sg:postcode": "90018",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1d0E5ndQsPzVsA0yp551Qz_34.039902_-118.308998@1303263153"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d65686974032dc4e3ef59f254",
+      "sg:id": "SG_1d0E5ndQsPzVsA0yp551Qz_34.039902_-118.308998@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"64e6c3bce1b2c5ee9f425846cc544c43",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869325,
-            "region_id":85688637,
-            "venue_id":370706503
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "64e6c3bce1b2c5ee9f425846cc544c43",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869325,
+        "region_id": 85688637,
+        "venue_id": 370706503
+      }
     ],
-    "wof:id":370706503,
-    "wof:lastmodified":1509200801,
-    "wof:name":"Daily Donut House",
-    "wof:parent_id":85869325,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370706503,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Daily Donut House",
+    "wof:parent_id": 85869325,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.308998,
     34.039902,
     -118.308998,
     34.039902
-],
+  ],
   "geometry": {"coordinates":[-118.308998,34.039902],"type":"Point"}
 }

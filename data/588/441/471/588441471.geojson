@@ -2,84 +2,88 @@
   "id": 588441471,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Hoffman Ln Brentwood CA 94513",
-    "addr:housenumber":"555",
-    "addr:postcode":"94513",
-    "addr:street":"Hoffman Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.6713,37.888342,-121.6713,37.888342",
-    "geom:latitude":37.888342,
-    "geom:longitude":-121.6713,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"555 Hoffman Ln",
-    "sg:city":"Brentwood",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Farmers Market",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "555 Hoffman Ln Brentwood CA 94513",
+    "addr:housenumber": "555",
+    "addr:postcode": "94513",
+    "addr:street": "Hoffman Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.671300,37.888342,-121.671300,37.888342",
+    "geom:latitude": 37.888342,
+    "geom:longitude": -121.6713,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Freitas Cherry Ranch, 555 Hoffman Ln Brentwood CA US",
+    "ovtr:similarity": 2.744546890258789,
+    "sg:address": "555 Hoffman Ln",
+    "sg:city": "Brentwood",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Farmers Market",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 634 5461",
-    "sg:postcode":"94513",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veggie"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 634 5461",
+    "sg:postcode": "94513",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veggie"
     ],
-    "sg:website":"www.freitascherryranch.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85925163,
-        102086225
+    "sg:website": "www.freitascherryranch.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85925163,
+      102086225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1XQWbCM4TAJDVeICe0fQW9_37.888342_-121.671300@1303263329"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830d9d37442803f5c5f891c1b62d",
+      "sg:id": "SG_1XQWbCM4TAJDVeICe0fQW9_37.888342_-121.671300@1303263329"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3be18ca1ff33dad98f227297dce343a5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85925163,
-            "region_id":85688637,
-            "venue_id":588441471
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "3be18ca1ff33dad98f227297dce343a5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85925163,
+        "region_id": 85688637,
+        "venue_id": 588441471
+      }
     ],
-    "wof:id":588441471,
-    "wof:lastmodified":1509202065,
-    "wof:name":"Freitas Cherry Ranch",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veggie"
+    "wof:id": 588441471,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Freitas Cherry Ranch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veggie"
     ]
-},
+  },
   "bbox": [
     -121.6713,
     37.888342,
     -121.6713,
     37.888342
-],
+  ],
   "geometry": {"coordinates":[-121.6713,37.888342],"type":"Point"}
 }

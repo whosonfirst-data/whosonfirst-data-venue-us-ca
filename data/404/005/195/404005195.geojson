@@ -2,80 +2,84 @@
   "id": 404005195,
   "type": "Feature",
   "properties": {
-    "addr:full":"2550 Cherry Ave Signal Hill CA 90755",
-    "addr:housenumber":"2550",
-    "addr:postcode":"90755",
-    "addr:street":"Cherry Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.167,33.803799,-118.167,33.803799",
-    "geom:latitude":33.803799,
-    "geom:longitude":-118.167,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2550 Cherry Ave",
-    "sg:city":"Signal Hill",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "2550 Cherry Ave Signal Hill CA 90755",
+    "addr:housenumber": "2550",
+    "addr:postcode": "90755",
+    "addr:street": "Cherry Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.167000,33.803799,-118.167000,33.803799",
+    "geom:latitude": 33.803799,
+    "geom:longitude": -118.167,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Banfield Pet Hospital, 2550 Cherry Ave Signal Hill CA US",
+    "ovtr:similarity": 2.674910068511963,
+    "sg:address": "2550 Cherry Ave",
+    "sg:city": "Signal Hill",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 427 7122",
-    "sg:postcode":"90755",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 427 7122",
+    "sg:postcode": "90755",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85808865
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85808865
     ],
-    "wof:brand_id":1125149223,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_26tcCZBtNSt9CtW7rzSVS0_33.803799_-118.167000@1303263197"
+    "wof:brand_id": 1125149223,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a561201104e03e0dec4213be861",
+      "sg:id": "SG_26tcCZBtNSt9CtW7rzSVS0_33.803799_-118.167000@1303263197"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e978a8ae4a130edaec8c9fc0311a12f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85808865,
-            "region_id":85688637,
-            "venue_id":404005195
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "e978a8ae4a130edaec8c9fc0311a12f8",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85808865,
+        "region_id": 85688637,
+        "venue_id": 404005195
+      }
     ],
-    "wof:id":404005195,
-    "wof:lastmodified":1511319264,
-    "wof:name":"Banfield the Pet Hospital",
-    "wof:parent_id":85808865,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 404005195,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Banfield the Pet Hospital",
+    "wof:parent_id": 85808865,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -118.167,
     33.803799,
     -118.167,
     33.803799
-],
+  ],
   "geometry": {"coordinates":[-118.167,33.803799],"type":"Point"}
 }

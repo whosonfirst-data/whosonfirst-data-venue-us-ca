@@ -2,74 +2,78 @@
   "id": 286469101,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 N Gateway Dr Madera CA 93637",
-    "addr:housenumber":"225",
-    "addr:postcode":"93637",
-    "addr:street":"N Gateway Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.062165,36.962904,-120.062165,36.962904",
-    "geom:latitude":36.962904,
-    "geom:longitude":-120.062165,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"225 N Gateway Dr",
-    "sg:city":"Madera",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "225 N Gateway Dr Madera CA 93637",
+    "addr:housenumber": "225",
+    "addr:postcode": "93637",
+    "addr:street": "N Gateway Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.062165,36.962904,-120.062165,36.962904",
+    "geom:latitude": 36.962904,
+    "geom:longitude": -120.062165,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "B J's Gas \u0026 Liquor, 225 N Gateway Dr Madera CA US",
+    "ovtr:similarity": 2.365802049636841,
+    "sg:address": "225 N Gateway Dr",
+    "sg:city": "Madera",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 675 0112",
-    "sg:postcode":"93637",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922995,
-        102084347,
-        85824691
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 675 0112",
+    "sg:postcode": "93637",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922995,
+      102084347,
+      85824691
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4dWBLZU0jYoxGkk5TAsXzQ_36.962904_-120.062165@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab85d0db14403bc6539a56414f2",
+      "sg:id": "SG_4dWBLZU0jYoxGkk5TAsXzQ_36.962904_-120.062165@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ec82f1d8f5bb3dcb3b3b862a65d914ae",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85824691,
-            "region_id":85688637,
-            "venue_id":286469101
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "ec82f1d8f5bb3dcb3b3b862a65d914ae",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85824691,
+        "region_id": 85688637,
+        "venue_id": 286469101
+      }
     ],
-    "wof:id":286469101,
-    "wof:lastmodified":1509200258,
-    "wof:name":"B J's Gas & Liquor",
-    "wof:parent_id":85824691,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 286469101,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "B J's Gas \u0026 Liquor",
+    "wof:parent_id": 85824691,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.062165,
     36.962904,
     -120.062165,
     36.962904
-],
-  "geometry": {"coordinates":[-120.06216499999999,36.962904],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.062165,36.962904],"type":"Point"}
 }

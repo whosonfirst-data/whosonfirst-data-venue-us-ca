@@ -2,78 +2,82 @@
   "id": 572283609,
   "type": "Feature",
   "properties": {
-    "addr:full":"12653 Sherman Way North Hollywood CA 91605",
-    "addr:housenumber":"12653",
-    "addr:postcode":"91605",
-    "addr:street":"Sherman Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.408985,34.20122,-118.408985,34.20122",
-    "geom:latitude":34.20122,
-    "geom:longitude":-118.408985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12653 Sherman Way",
-    "sg:city":"North Hollywood",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12653 Sherman Way North Hollywood CA 91605",
+    "addr:housenumber": "12653",
+    "addr:postcode": "91605",
+    "addr:street": "Sherman Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.408985,34.201220,-118.408985,34.201220",
+    "geom:latitude": 34.20122,
+    "geom:longitude": -118.408985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Carl's Jr., 12653 Sherman Way North Hollywood CA US",
+    "ovtr:similarity": 2.515625,
+    "sg:address": "12653 Sherman Way",
+    "sg:city": "North Hollywood",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 764 5888",
-    "sg:postcode":"91605",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865849",
-        102191575,
-        1108692439,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 764 5888",
+    "sg:postcode": "91605",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692439,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865849
     ],
-    "wof:brand_id":1125148741,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3amF5135XOLCsQp3TdnLi7_34.201220_-118.408985@1303263221"
+    "wof:brand_id": 1125148741,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a189cd33cad03671fbfb126268a",
+      "sg:id": "SG_3amF5135XOLCsQp3TdnLi7_34.201220_-118.408985@1303263221"
     },
-    "wof:country":"US",
-    "wof:geomhash":"71a8775ca3c775bd5b18b4e8abb11215",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692439,
-            "neighbourhood_id":"85865849",
-            "region_id":85688637,
-            "venue_id":572283609
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "71a8775ca3c775bd5b18b4e8abb11215",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692439,
+        "neighbourhood_id": 85865849,
+        "region_id": 85688637,
+        "venue_id": 572283609
+      }
     ],
-    "wof:id":572283609,
-    "wof:lastmodified":1511318268,
-    "wof:name":"Carl's Jr.",
-    "wof:parent_id":"85865849",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572283609,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "Carl's Jr.",
+    "wof:parent_id": "85865849",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.408985,
     34.20122,
     -118.408985,
     34.20122
-],
+  ],
   "geometry": {"coordinates":[-118.408985,34.20122],"type":"Point"}
 }

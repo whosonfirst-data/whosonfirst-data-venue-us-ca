@@ -2,81 +2,85 @@
   "id": 404135197,
   "type": "Feature",
   "properties": {
-    "addr:full":"2171 N. Fair Oaks Ave Altadena CA 91001",
-    "addr:housenumber":"2171",
-    "addr:postcode":"91001",
-    "addr:street":"N. Fair Oaks Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.151244,34.182852,-118.151244,34.182852",
-    "geom:latitude":34.182852,
-    "geom:longitude":-118.151244,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2171 N. Fair Oaks Ave",
-    "sg:city":"Altadena",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2171 N. Fair Oaks Ave Altadena CA 91001",
+    "addr:housenumber": "2171",
+    "addr:postcode": "91001",
+    "addr:street": "N. Fair Oaks Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.151244,34.182852,-118.151244,34.182852",
+    "geom:latitude": 34.182852,
+    "geom:longitude": -118.151244,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "ARCO, 2171 Fair Oaks Ave Altadena CA US",
+    "ovtr:similarity": 2.6238698959350586,
+    "sg:address": "2171 N. Fair Oaks Ave",
+    "sg:city": "Altadena",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 296 0030",
-    "sg:postcode":"91001",
-    "sg:province":"CA",
-    "sg:website":"www.arco.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928289,
-        102086957,
-        85885565
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 296 0030",
+    "sg:postcode": "91001",
+    "sg:province": "CA",
+    "sg:website": "www.arco.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928289,
+      102086957,
+      85885565
     ],
-    "wof:brand_id":1125153841,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7keHD4YtexiQxYMcEaSN2M_34.182852_-118.151244@1303263201"
+    "wof:brand_id": 1125153841,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c2a12838d03c804430e28bbeb",
+      "sg:id": "SG_7keHD4YtexiQxYMcEaSN2M_34.182852_-118.151244@1303263201"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4e62cd87a272e473a31ad18f5a1271cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928289,
-            "neighbourhood_id":85885565,
-            "region_id":85688637,
-            "venue_id":404135197
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "4e62cd87a272e473a31ad18f5a1271cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928289,
+        "neighbourhood_id": 85885565,
+        "region_id": 85688637,
+        "venue_id": 404135197
+      }
     ],
-    "wof:id":404135197,
-    "wof:lastmodified":1511318112,
-    "wof:name":"Arco",
-    "wof:parent_id":85885565,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404135197,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Arco",
+    "wof:parent_id": 85885565,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.151244,
     34.182852,
     -118.151244,
     34.182852
-],
-  "geometry": {"coordinates":[-118.15124400000001,34.182852],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.151244,34.182852],"type":"Point"}
 }

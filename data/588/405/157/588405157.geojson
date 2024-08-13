@@ -2,78 +2,82 @@
   "id": 588405157,
   "type": "Feature",
   "properties": {
-    "addr:full":"1520 Lyon Street San Francisco CA 94115",
-    "addr:housenumber":"1520",
-    "addr:postcode":"94115",
-    "addr:street":"Lyon Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.445,37.785198,-122.445,37.785198",
-    "geom:latitude":37.785198,
-    "geom:longitude":-122.445,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1520 Lyon Street",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Preschool",
-            "type":"Public Place"
-        }
+    "addr:full": "1520 Lyon Street San Francisco CA 94115",
+    "addr:housenumber": "1520",
+    "addr:postcode": "94115",
+    "addr:street": "Lyon Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.445000,37.785198,-122.445000,37.785198",
+    "geom:latitude": 37.785198,
+    "geom:longitude": -122.445,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Little School, 1520 Lyon St San Francisco CA US",
+    "ovtr:similarity": 3.301750898361206,
+    "sg:address": "1520 Lyon Street",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Preschool",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 567 0430",
-    "sg:postcode":"94115",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108832051,
-        85865927,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 567 0430",
+    "sg:postcode": "94115",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108832051,
+      85865927,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0342586-01-001",
-        "sg:id":"SG_0Zn9UozWP4EGfThKePAViX_37.785198_-122.445000@1303263320"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308290e165d036c3b73da95fe28",
+      "sfgov_rbl:id": "0342586-01-001",
+      "sg:id": "SG_0Zn9UozWP4EGfThKePAViX_37.785198_-122.445000@1303263320"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1e6eda772f57ebd04a94b3b7995b593f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108832051,
-            "neighbourhood_id":85865927,
-            "region_id":85688637,
-            "venue_id":588405157
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "1e6eda772f57ebd04a94b3b7995b593f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108832051,
+        "neighbourhood_id": 85865927,
+        "region_id": 85688637,
+        "venue_id": 588405157
+      }
     ],
-    "wof:id":588405157,
-    "wof:lastmodified":1509202043,
-    "wof:name":"The Little School",
-    "wof:parent_id":1108832051,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588405157,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "The Little School",
+    "wof:parent_id": 1108832051,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.445,
     37.785198,
     -122.445,
     37.785198
-],
-  "geometry": {"coordinates":[-122.44499999999999,37.785198],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.445,37.785198],"type":"Point"}
 }

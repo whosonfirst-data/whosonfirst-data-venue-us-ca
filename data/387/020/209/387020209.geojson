@@ -2,79 +2,83 @@
   "id": 387020209,
   "type": "Feature",
   "properties": {
-    "addr:full":"3906 Grand View Blvd Los Angeles CA 90066",
-    "addr:housenumber":"3906",
-    "addr:postcode":"90066",
-    "addr:street":"Grand View Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.429287,34.00306,-118.429287,34.00306",
-    "geom:latitude":34.00306,
-    "geom:longitude":-118.429287,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3906 Grand View Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3906 Grand View Blvd Los Angeles CA 90066",
+    "addr:housenumber": "3906",
+    "addr:postcode": "90066",
+    "addr:street": "Grand View Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.429287,34.003060,-118.429287,34.003060",
+    "geom:latitude": 34.00306,
+    "geom:longitude": -118.429287,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Check Point Automotive, 3906 Grand View Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.6947250366210938,
+    "sg:address": "3906 Grand View Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 391 9774",
-    "sg:postcode":"90066",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108561757,
-        "85832373",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 391 9774",
+    "sg:postcode": "90066",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108561757,
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85832373
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5ilpmXxab5zXgm2eH67DkQ_34.003060_-118.429287@1303263167"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1980d34561034d90ca6e17d73e",
+      "sg:id": "SG_5ilpmXxab5zXgm2eH67DkQ_34.003060_-118.429287@1303263167"
     },
-    "wof:country":"US",
-    "wof:geomhash":"34b3385b6ae7527e1669d56f69ed545c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "microhood_id":1108561757,
-            "neighbourhood_id":"85832373",
-            "region_id":85688637,
-            "venue_id":387020209
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "34b3385b6ae7527e1669d56f69ed545c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "microhood_id": 1108561757,
+        "neighbourhood_id": 85832373,
+        "region_id": 85688637,
+        "venue_id": 387020209
+      }
     ],
-    "wof:id":387020209,
-    "wof:lastmodified":1509200935,
-    "wof:name":"Check Point Automotive",
-    "wof:parent_id":1108561757,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387020209,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Check Point Automotive",
+    "wof:parent_id": 1108561757,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.429287,
     34.00306,
     -118.429287,
     34.00306
-],
+  ],
   "geometry": {"coordinates":[-118.429287,34.00306],"type":"Point"}
 }

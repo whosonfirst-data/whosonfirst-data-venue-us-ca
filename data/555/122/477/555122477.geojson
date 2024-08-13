@@ -2,82 +2,86 @@
   "id": 555122477,
   "type": "Feature",
   "properties": {
-    "addr:full":"11915 Carmel Mountain Rd San Diego CA 92129",
-    "addr:housenumber":"11915",
-    "addr:postcode":"92129",
-    "addr:street":"Carmel Mountain Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.077076,32.981403,-117.077076,32.981403",
-    "geom:latitude":32.981403,
-    "geom:longitude":-117.077076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"11915 Carmel Mountain Rd",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11915 Carmel Mountain Rd San Diego CA 92129",
+    "addr:housenumber": "11915",
+    "addr:postcode": "92129",
+    "addr:street": "Carmel Mountain Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.077076,32.981403,-117.077076,32.981403",
+    "geom:latitude": 32.981403,
+    "geom:longitude": -117.077076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 11915 Carmel Mountain Rd San Diego CA US",
+    "ovtr:similarity": 3.1326019763946533,
+    "sg:address": "11915 Carmel Mountain Rd",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 673 4175",
-    "sg:postcode":"92129",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 673 4175",
+    "sg:postcode": "92129",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85871143
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85871143
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":596040672,
-        "sg:id":"SG_29WRbDY3syc6eccRX4A6GZ_32.981403_-117.077076@1294081369"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 596040672,
+      "ovtr:id": "08f29a4099aabdb403eb5e3e86812627",
+      "sg:id": "SG_29WRbDY3syc6eccRX4A6GZ_32.981403_-117.077076@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"03aa5d9ffb539272f356564e6fe8a01d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85871143,
-            "region_id":85688637,
-            "venue_id":555122477
-        }
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "03aa5d9ffb539272f356564e6fe8a01d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85871143,
+        "region_id": 85688637,
+        "venue_id": 555122477
+      }
     ],
-    "wof:id":555122477,
-    "wof:lastmodified":1512142969,
-    "wof:name":"McDonalds",
-    "wof:parent_id":85871143,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:id": 555122477,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "McDonalds",
+    "wof:parent_id": 85871143,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -117.077076,
     32.981403,
     -117.077076,
     32.981403
-],
-  "geometry": {"coordinates":[-117.07707600000001,32.981403],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.077076,32.981403],"type":"Point"}
 }

@@ -2,58 +2,66 @@
   "id": 572063405,
   "type": "Feature",
   "properties": {
-    "addr:full":"38801 10th St W Palmdale CA 93551",
-    "addr:housenumber":"38801",
-    "addr:postcode":"ca 93551",
-    "addr:street":"10Th St W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.147499,34.58717,-118.147499,34.58717",
-    "geom:latitude":34.58717,
-    "geom:longitude":-118.147499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"38801 10th St W",
-    "sg:city":"Palmdale",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "38801 10th St W Palmdale CA 93551",
+    "addr:housenumber": "38801",
+    "addr:postcode": "ca 93551",
+    "addr:street": "10Th St W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.147499,34.587170,-118.147499,34.587170",
+    "geom:latitude": 34.58717,
+    "geom:longitude": -118.147499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Toreo West, 38801 10th St W Palmdale CA US",
+    "ovtr:similarity": 1.8384150266647339,
+    "sg:address": "38801 10th St W",
+    "sg:city": "Palmdale",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 273 4050",
-    "sg:postcode":"93551",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Xcc6FmgsQ2vUewl0Qk9lL_34.587643_-118.147563@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 273 4050",
+    "sg:postcode": "93551",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1464b6c12803212a195afdd1a3",
+      "sg:id": "SG_3Xcc6FmgsQ2vUewl0Qk9lL_34.587643_-118.147563@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1a07274ad976cf0ae9b8cd58f7c96ad5",
-    "wof:hierarchy":[],
-    "wof:id":572063405,
-    "wof:lastmodified":1509201680,
-    "wof:name":"El Toreo West",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "1a07274ad976cf0ae9b8cd58f7c96ad5",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572063405
+      }
+    ],
+    "wof:id": 572063405,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "El Toreo West",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.147499,
     34.58717,
     -118.147499,
     34.58717
-],
+  ],
   "geometry": {"coordinates":[-118.147499,34.58717],"type":"Point"}
 }

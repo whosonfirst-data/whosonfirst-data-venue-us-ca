@@ -2,84 +2,88 @@
   "id": 571900309,
   "type": "Feature",
   "properties": {
-    "addr:full":"2216 Catalina Blvd San Diego CA 92107",
-    "addr:housenumber":"2216",
-    "addr:postcode":"92107",
-    "addr:street":"Catalina Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.234601,32.743949,-117.234601,32.743949",
-    "geom:latitude":32.743949,
-    "geom:longitude":-117.234601,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2216 Catalina Blvd",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2216 Catalina Blvd San Diego CA 92107",
+    "addr:housenumber": "2216",
+    "addr:postcode": "92107",
+    "addr:street": "Catalina Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.234601,32.743949,-117.234601,32.743949",
+    "geom:latitude": 32.743949,
+    "geom:longitude": -117.234601,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Diego Bus \u0026 Auto Repair, 2216 Catalina Blvd San Diego CA US",
+    "ovtr:similarity": 2.107395887374878,
+    "sg:address": "2216 Catalina Blvd",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 222 4520",
-    "sg:postcode":"92107",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 222 4520",
+    "sg:postcode": "92107",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871193,
-        102191575,
-        1108802083,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871193,
+      102191575,
+      1108802083,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4HZXWf5ULwq58ZNQQ1ObSi_32.743949_-117.234601@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a411965948b03c229951016e227",
+      "sg:id": "SG_4HZXWf5ULwq58ZNQQ1ObSi_32.743949_-117.234601@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9a85d6292caf3ecad76a545139cea7d3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108802083,
-            "neighbourhood_id":85871193,
-            "region_id":85688637,
-            "venue_id":571900309
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "9a85d6292caf3ecad76a545139cea7d3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108802083,
+        "neighbourhood_id": 85871193,
+        "region_id": 85688637,
+        "venue_id": 571900309
+      }
     ],
-    "wof:id":571900309,
-    "wof:lastmodified":1509201629,
-    "wof:name":"San Diego Bus & Auto Repair",
-    "wof:parent_id":85871193,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 571900309,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "San Diego Bus \u0026 Auto Repair",
+    "wof:parent_id": 85871193,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.234601,
     32.743949,
     -117.234601,
     32.743949
-],
+  ],
   "geometry": {"coordinates":[-117.234601,32.743949],"type":"Point"}
 }

@@ -2,85 +2,91 @@
   "id": 588504013,
   "type": "Feature",
   "properties": {
-    "addr:full":"146 Grand Ave Oakland CA 94612",
-    "addr:housenumber":"146",
-    "addr:postcode":"94612",
-    "addr:street":"Grand Ave",
-    "addr:website":"http://trueburgeroakland.com/",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"2010",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.264025,37.811507,-122.264025,37.811507",
-    "geom:latitude":37.811507,
-    "geom:longitude":-122.264025,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"146 Grand Ave",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "146 Grand Ave Oakland CA 94612",
+    "addr:housenumber": "146",
+    "addr:postcode": "94612",
+    "addr:street": "Grand Ave",
+    "addr:website": "http://trueburgeroakland.com/",
+    "date:inception_lower": "2010-01-01",
+    "date:inception_upper": "2010-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "2010",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.264025,37.811507,-122.264025,37.811507",
+    "geom:latitude": 37.811507,
+    "geom:longitude": -122.264025,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trueburger, 146 Grand Ave Oakland CA US",
+    "ovtr:similarity": 2.378931999206543,
+    "sg:address": "146 Grand Ave",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 208 5678",
-    "sg:postcode":"94612",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 208 5678",
+    "sg:postcode": "94612",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "sg:website":"www.trueburgeroakland.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872407,
-        102191575,
-        1108794093,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "sg:website": "www.trueburgeroakland.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872407,
+      102191575,
+      1108794093,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "4sq:id":"4b6c87f5f964a52031412ce3",
-        "sg:id":"SG_4yWJZDck1121wIYwWdZ0b3_37.811507_-122.264025@1303263345"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "4sq:id": "4b6c87f5f964a52031412ce3",
+      "ovtr:id": "08f28308104523ab034ce6757c908df9",
+      "sg:id": "SG_4yWJZDck1121wIYwWdZ0b3_37.811507_-122.264025@1303263345"
     },
-    "wof:country":"US",
-    "wof:geomhash":"be63a0572f1a7f142b20c689e73210db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794093,
-            "neighbourhood_id":85872407,
-            "region_id":85688637,
-            "venue_id":588504013
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "be63a0572f1a7f142b20c689e73210db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794093,
+        "neighbourhood_id": 85872407,
+        "region_id": 85688637,
+        "venue_id": 588504013
+      }
     ],
-    "wof:id":588504013,
-    "wof:lastmodified":1509202103,
-    "wof:name":"TrueBurger",
-    "wof:parent_id":85872407,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 588504013,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "TrueBurger",
+    "wof:parent_id": 85872407,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -122.264025,
     37.811507,
     -122.264025,
     37.811507
-],
+  ],
   "geometry": {"coordinates":[-122.264025,37.811507],"type":"Point"}
 }

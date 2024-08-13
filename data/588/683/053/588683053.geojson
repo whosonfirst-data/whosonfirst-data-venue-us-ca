@@ -2,77 +2,81 @@
   "id": 588683053,
   "type": "Feature",
   "properties": {
-    "addr:full":"2100 X St Sacramento CA 95818",
-    "addr:housenumber":"2100",
-    "addr:postcode":"95818",
-    "addr:street":"X St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.485001,38.560799,-121.485001,38.560799",
-    "geom:latitude":38.560799,
-    "geom:longitude":-121.485001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2100 X St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Antiques",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2100 X St Sacramento CA 95818",
+    "addr:housenumber": "2100",
+    "addr:postcode": "95818",
+    "addr:street": "X St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.485001,38.560799,-121.485001,38.560799",
+    "geom:latitude": 38.560799,
+    "geom:longitude": -121.485001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Antique Company, 2100 X St Sacramento CA US",
+    "ovtr:similarity": 2.1018080711364746,
+    "sg:address": "2100 X St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Antiques",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 457 1099",
-    "sg:postcode":"95818",
-    "sg:province":"CA",
-    "sg:website":"www.theantiqueco.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872171
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 457 1099",
+    "sg:postcode": "95818",
+    "sg:province": "CA",
+    "sg:website": "www.theantiqueco.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4704625860,
-        "sg:id":"SG_6oGhBy8T83MkFEYk63ilzi_38.560799_-121.485001@1303263392"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4704625860,
+      "ovtr:id": "08f2832b02d82c95034a2cd86714fb90",
+      "sg:id": "SG_6oGhBy8T83MkFEYk63ilzi_38.560799_-121.485001@1303263392"
     },
-    "wof:country":"US",
-    "wof:geomhash":"48699f16f41af67643b7ee4a04dffea7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872171,
-            "region_id":85688637,
-            "venue_id":588683053
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "48699f16f41af67643b7ee4a04dffea7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872171,
+        "region_id": 85688637,
+        "venue_id": 588683053
+      }
     ],
-    "wof:id":588683053,
-    "wof:lastmodified":1510941701,
-    "wof:name":"The Antique Company",
-    "wof:parent_id":85872171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588683053,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "The Antique Company",
+    "wof:parent_id": 85872171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.485001,
     38.560799,
     -121.485001,
     38.560799
-],
+  ],
   "geometry": {"coordinates":[-121.485001,38.560799],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 404064219,
   "type": "Feature",
   "properties": {
-    "addr:full":"3001 Pacific Ave Long Beach CA 90806",
-    "addr:housenumber":"3001",
-    "addr:postcode":"90806",
-    "addr:street":"Pacific Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.193885,33.81165,-118.193885,33.81165",
-    "geom:latitude":33.81165,
-    "geom:longitude":-118.193885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3001 Pacific Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3001 Pacific Ave Long Beach CA 90806",
+    "addr:housenumber": "3001",
+    "addr:postcode": "90806",
+    "addr:street": "Pacific Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.193885,33.811650,-118.193885,33.811650",
+    "geom:latitude": 33.81165,
+    "geom:longitude": -118.193885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 3001 Pacific Ave Long Beach CA US",
+    "ovtr:similarity": 2.5489349365234375,
+    "sg:address": "3001 Pacific Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 426 8909",
-    "sg:postcode":"90806",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85854007
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 426 8909",
+    "sg:postcode": "90806",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85854007
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_75yYwdeyDpB04NrN3jwFD5_33.811650_-118.193885@1303263199"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56131553a403102fd32f247ded",
+      "sg:id": "SG_75yYwdeyDpB04NrN3jwFD5_33.811650_-118.193885@1303263199"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8e3b8c1d41a31b3fe41bb7f06d9ea8f8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85854007,
-            "region_id":85688637,
-            "venue_id":404064219
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "8e3b8c1d41a31b3fe41bb7f06d9ea8f8",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85854007,
+        "region_id": 85688637,
+        "venue_id": 404064219
+      }
     ],
-    "wof:id":404064219,
-    "wof:lastmodified":1511321756,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85854007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404064219,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85854007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.193885,
     33.81165,
     -118.193885,
     33.81165
-],
-  "geometry": {"coordinates":[-118.19388499999999,33.81165],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.193885,33.81165],"type":"Point"}
 }

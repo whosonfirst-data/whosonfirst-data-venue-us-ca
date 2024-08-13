@@ -2,76 +2,80 @@
   "id": 588694245,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Fulton Avenue Sacramento CA 95825",
-    "addr:housenumber":"1100",
-    "addr:postcode":"95825",
-    "addr:street":"Fulton Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.40131,38.586309,-121.40131,38.586309",
-    "geom:latitude":38.586309,
-    "geom:longitude":-121.40131,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1100 Fulton Avenue",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1100 Fulton Avenue Sacramento CA 95825",
+    "addr:housenumber": "1100",
+    "addr:postcode": "95825",
+    "addr:street": "Fulton Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.401310,38.586309,-121.401310,38.586309",
+    "geom:latitude": 38.586309,
+    "geom:longitude": -121.40131,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pizza Hut, 1100 Fulton Ave Sacramento CA US",
+    "ovtr:similarity": 2.711319923400879,
+    "sg:address": "1100 Fulton Avenue",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 978 9700",
-    "sg:postcode":"95825",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85926841,
-        102082889,
-        420551925
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 978 9700",
+    "sg:postcode": "95825",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85926841,
+      102082889,
+      420551925
     ],
-    "wof:brand_id":420573787,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Mm8CJITbiMBELN1k7zQID_38.586309_-121.401310@1303263395"
+    "wof:brand_id": 420573787,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832ba190619d0379ec459b3a32ec",
+      "sg:id": "SG_7Mm8CJITbiMBELN1k7zQID_38.586309_-121.401310@1303263395"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f095726bdc98c59c18b25ed10d0c136f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926841,
-            "neighbourhood_id":420551925,
-            "region_id":85688637,
-            "venue_id":588694245
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "f095726bdc98c59c18b25ed10d0c136f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926841,
+        "neighbourhood_id": 420551925,
+        "region_id": 85688637,
+        "venue_id": 588694245
+      }
     ],
-    "wof:id":588694245,
-    "wof:lastmodified":1511321140,
-    "wof:name":"Pizza Hut",
-    "wof:parent_id":420551925,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588694245,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Pizza Hut",
+    "wof:parent_id": 420551925,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.40131,
     38.586309,
     -121.40131,
     38.586309
-],
+  ],
   "geometry": {"coordinates":[-121.40131,38.586309],"type":"Point"}
 }

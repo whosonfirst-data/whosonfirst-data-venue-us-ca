@@ -2,63 +2,71 @@
   "id": 555679965,
   "type": "Feature",
   "properties": {
-    "addr:full":"5775 Thornwood Dr Goleta CA 93117",
-    "addr:housenumber":"5775",
-    "addr:postcode":"93117",
-    "addr:street":"Thornwood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.825278,34.42843,-119.825278,34.42843",
-    "geom:latitude":34.42843,
-    "geom:longitude":-119.825278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5775 Thornwood Dr",
-    "sg:city":"Goleta",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "5775 Thornwood Dr Goleta CA 93117",
+    "addr:housenumber": "5775",
+    "addr:postcode": "93117",
+    "addr:street": "Thornwood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.825278,34.428430,-119.825278,34.428430",
+    "geom:latitude": 34.42843,
+    "geom:longitude": -119.825278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Smitty's Towing, 5755 Thornwood Dr Goleta CA US",
+    "ovtr:similarity": 2.0778400897979736,
+    "sg:address": "5775 Thornwood Dr",
+    "sg:city": "Goleta",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 967 7161",
-    "sg:postcode":"93117",
-    "sg:province":"CA",
-    "sg:tags":[
-        "wrecker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 967 7161",
+    "sg:postcode": "93117",
+    "sg:province": "CA",
+    "sg:tags": [
+      "wrecker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5w3aeaF2bgZkSQjWm6aszQ_34.428430_-119.825278@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ac9051aa38c034b35d87ff0412e",
+      "sg:id": "SG_5w3aeaF2bgZkSQjWm6aszQ_34.428430_-119.825278@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ecbd475a0a491c58c4f18ce09ad96660",
-    "wof:hierarchy":[],
-    "wof:id":555679965,
-    "wof:lastmodified":1509201472,
-    "wof:name":"Smitty's Towing",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrecker"
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "ecbd475a0a491c58c4f18ce09ad96660",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555679965
+      }
+    ],
+    "wof:id": 555679965,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Smitty's Towing",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrecker"
     ]
-},
+  },
   "bbox": [
     -119.825278,
     34.42843,
     -119.825278,
     34.42843
-],
+  ],
   "geometry": {"coordinates":[-119.825278,34.42843],"type":"Point"}
 }

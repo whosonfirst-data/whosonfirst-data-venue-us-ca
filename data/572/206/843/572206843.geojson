@@ -2,87 +2,91 @@
   "id": 572206843,
   "type": "Feature",
   "properties": {
-    "addr:full":"839 Clay St San Francisco CA 94108",
-    "addr:housenumber":"839",
-    "addr:postcode":"94108",
-    "addr:street":"Clay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.40703,37.794203,-122.40703,37.794203",
-    "geom:latitude":37.794203,
-    "geom:longitude":-122.40703,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"839 Clay St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "839 Clay St San Francisco CA 94108",
+    "addr:housenumber": "839",
+    "addr:postcode": "94108",
+    "addr:street": "Clay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.407030,37.794203,-122.407030,37.794203",
+    "geom:latitude": 37.794203,
+    "geom:longitude": -122.40703,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Capital Restaurant, 839 Clay St San Francisco CA US",
+    "ovtr:similarity": 2.2143800258636475,
+    "sg:address": "839 Clay St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/46654-capital-restaurant/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 397 6269",
-    "sg:postcode":"94108",
-    "sg:province":"CA",
-    "sg:tags":[
-        "asian",
-        "chinese"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/46654-capital-restaurant/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 397 6269",
+    "sg:postcode": "94108",
+    "sg:province": "CA",
+    "sg:tags": [
+      "asian",
+      "chinese"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85810881,
-        102191575,
-        1108830801,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85810881,
+      102191575,
+      1108830801,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4336167126,
-        "sfgov_rbl:id":"0436743-01-001",
-        "sg:id":"SG_4dwrY0y4IRVKIpoKR0aHIT_37.794078_-122.407194@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4336167126,
+      "ovtr:id": "08f283082a24d94c03cb86a921b3d8ae",
+      "sfgov_rbl:id": "0436743-01-001",
+      "sg:id": "SG_4dwrY0y4IRVKIpoKR0aHIT_37.794078_-122.407194@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"46ef365c4ace20231de1f9827133c0e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830801,
-            "neighbourhood_id":85810881,
-            "region_id":85688637,
-            "venue_id":572206843
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "46ef365c4ace20231de1f9827133c0e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830801,
+        "neighbourhood_id": 85810881,
+        "region_id": 85688637,
+        "venue_id": 572206843
+      }
     ],
-    "wof:id":572206843,
-    "wof:lastmodified":1510942445,
-    "wof:name":"Capital Restaurant",
-    "wof:parent_id":85810881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "asian",
-        "chinese"
+    "wof:id": 572206843,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Capital Restaurant",
+    "wof:parent_id": 85810881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "asian",
+      "chinese"
     ]
-},
+  },
   "bbox": [
     -122.40703,
     37.794203,
     -122.40703,
     37.794203
-],
-  "geometry": {"coordinates":[-122.40703000000001,37.794203],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.40703,37.794203],"type":"Point"}
 }

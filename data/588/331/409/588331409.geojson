@@ -2,83 +2,87 @@
   "id": 588331409,
   "type": "Feature",
   "properties": {
-    "addr:full":"1320 S Main St Salinas CA 93901",
-    "addr:housenumber":"1320",
-    "addr:postcode":"93901",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.660375,36.655325,-121.660375,36.655325",
-    "geom:latitude":36.655325,
-    "geom:longitude":-121.660375,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1320 S Main St",
-    "sg:city":"Salinas",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1320 S Main St Salinas CA 93901",
+    "addr:housenumber": "1320",
+    "addr:postcode": "93901",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.660375,36.655325,-121.660375,36.655325",
+    "geom:latitude": 36.655325,
+    "geom:longitude": -121.660375,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Nob Hill Foods, 1320 S Main St Salinas CA US",
+    "ovtr:similarity": 2.0834689140319824,
+    "sg:address": "1320 S Main St",
+    "sg:city": "Salinas",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 758 8481",
-    "sg:postcode":"93901",
-    "sg:province":"CA",
-    "sg:website":"http://www.nobhill.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85880625,
-        102080859
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 758 8481",
+    "sg:postcode": "93901",
+    "sg:province": "CA",
+    "sg:website": "http://www.nobhill.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85880625,
+      102080859
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":529123311,
-        "sg:id":"SG_3axaqt5Cz3mHpe2Nq5PJVI_36.655325_-121.660375@1303263301"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 529123311,
+      "ovtr:id": "08f2834d1650d98403d05213995eeca3",
+      "sg:id": "SG_3axaqt5Cz3mHpe2Nq5PJVI_36.655325_-121.660375@1303263301"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a81bf4de8efa154c7a4e66690d78abdf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080859,
-            "neighbourhood_id":85880625,
-            "region_id":85688637,
-            "venue_id":588331409
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "a81bf4de8efa154c7a4e66690d78abdf",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102080859,
+        "neighbourhood_id": 85880625,
+        "region_id": 85688637,
+        "venue_id": 588331409
+      }
     ],
-    "wof:id":588331409,
-    "wof:lastmodified":1510944157,
-    "wof:name":"Nob Hill Foods",
-    "wof:parent_id":85880625,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588331409,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Nob Hill Foods",
+    "wof:parent_id": 85880625,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.660375,
     36.655325,
     -121.660375,
     36.655325
-],
+  ],
   "geometry": {"coordinates":[-121.660375,36.655325],"type":"Point"}
 }

@@ -2,76 +2,80 @@
   "id": 370929045,
   "type": "Feature",
   "properties": {
-    "addr:full":"10401 Venice Blvd Los Angeles CA 90034",
-    "addr:housenumber":"10401",
-    "addr:postcode":"90034",
-    "addr:street":"Venice Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.404,34.020483,-118.404,34.020483",
-    "geom:latitude":34.020483,
-    "geom:longitude":-118.404,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10401 Venice Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10401 Venice Blvd Los Angeles CA 90034",
+    "addr:housenumber": "10401",
+    "addr:postcode": "90034",
+    "addr:street": "Venice Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.404000,34.020483,-118.404000,34.020483",
+    "geom:latitude": 34.020483,
+    "geom:longitude": -118.404,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Coffee Bean \u0026 Tea Leaf, 9829 Venice Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.005505084991455,
+    "sg:address": "10401 Venice Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 842 9330",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:website":"www.coffeebean.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840349
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 842 9330",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:website": "www.coffeebean.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840349
     ],
-    "wof:brand_id":1125152175,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sbgZhKhBGDebrXDoAviyF_34.020483_-118.404000@1303263159"
+    "wof:brand_id": 1125152175,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1995250a4303b764241aad47d4",
+      "sg:id": "SG_1sbgZhKhBGDebrXDoAviyF_34.020483_-118.404000@1303263159"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c0515550ccfbf9f1ae3ba53eabcee267",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840349,
-            "region_id":85688637,
-            "venue_id":370929045
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "c0515550ccfbf9f1ae3ba53eabcee267",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840349,
+        "region_id": 85688637,
+        "venue_id": 370929045
+      }
     ],
-    "wof:id":370929045,
-    "wof:lastmodified":1510699943,
-    "wof:name":"The Coffee Bean & Tea Leaf",
-    "wof:parent_id":85840349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370929045,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "The Coffee Bean \u0026 Tea Leaf",
+    "wof:parent_id": 85840349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.404,
     34.020483,
     -118.404,
     34.020483
-],
+  ],
   "geometry": {"coordinates":[-118.404,34.020483],"type":"Point"}
 }

@@ -2,87 +2,91 @@
   "id": 370528647,
   "type": "Feature",
   "properties": {
-    "addr:full":"333 S Alameda St Ste 317 Los Angeles CA 90012",
-    "addr:housenumber":"333",
-    "addr:postcode":"90012",
-    "addr:street":"S Alameda St Ste 317",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.238297,34.04505,-118.238297,34.04505",
-    "geom:latitude":34.04505,
-    "geom:longitude":-118.238297,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"333 S Alameda St Ste 317",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "333 S Alameda St Ste 317 Los Angeles CA 90012",
+    "addr:housenumber": "333",
+    "addr:postcode": "90012",
+    "addr:street": "S Alameda St Ste 317",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.238297,34.045050,-118.238297,34.045050",
+    "geom:latitude": 34.04505,
+    "geom:longitude": -118.238297,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sushi Go 55, 333 S Alameda St Los Angeles CA US",
+    "ovtr:similarity": 3.121159076690674,
+    "sg:address": "333 S Alameda St Ste 317",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 687 0777",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sushi",
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 687 0777",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sushi",
+      "bar"
     ],
-    "sg:website":"www.sushigo55.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108691227,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.sushigo55.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108691227,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2oGFI6FbYtdKdTkf5Npgmh_34.045050_-118.238297@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d7554b93303b562f243cfd79c",
+      "sg:id": "SG_2oGFI6FbYtdKdTkf5Npgmh_34.045050_-118.238297@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4295013e0f4a073217674c50087e8b60",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1108691227,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370528647
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "4295013e0f4a073217674c50087e8b60",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1108691227,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370528647
+      }
     ],
-    "wof:id":370528647,
-    "wof:lastmodified":1509200759,
-    "wof:name":"Sushi Go 55",
-    "wof:parent_id":1108691227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sushi",
-        "bar"
+    "wof:id": 370528647,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Sushi Go 55",
+    "wof:parent_id": 1108691227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sushi",
+      "bar"
     ]
-},
+  },
   "bbox": [
     -118.238297,
     34.04505,
     -118.238297,
     34.04505
-],
+  ],
   "geometry": {"coordinates":[-118.238297,34.04505],"type":"Point"}
 }

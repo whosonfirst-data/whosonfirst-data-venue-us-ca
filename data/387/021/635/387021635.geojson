@@ -2,91 +2,95 @@
   "id": 387021635,
   "type": "Feature",
   "properties": {
-    "addr:full":"12681 W Jefferson Blvd Los Angeles CA 90066",
-    "addr:housenumber":"12681",
-    "addr:postcode":"90066",
-    "addr:street":"W Jefferson Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.416303,33.97822,-118.416303,33.97822",
-    "geom:latitude":33.97822,
-    "geom:longitude":-118.416303,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12681 W Jefferson Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "12681 W Jefferson Blvd Los Angeles CA 90066",
+    "addr:housenumber": "12681",
+    "addr:postcode": "90066",
+    "addr:street": "W Jefferson Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.416303,33.978220,-118.416303,33.978220",
+    "geom:latitude": 33.97822,
+    "geom:longitude": -118.416303,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Public Storage, 12681 W Jefferson Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.13572096824646,
+    "sg:address": "12681 W Jefferson Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 877 788 2028",
-    "sg:postcode":"90066",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automotive",
-        "mover",
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 877 788 2028",
+    "sg:postcode": "90066",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automotive",
+      "mover",
+      "self"
     ],
-    "sg:website":"www.publicstorage.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688637
+    "sg:website": "www.publicstorage.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      85688637
     ],
-    "wof:brand_id":420574427,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5BQDEKnVD9LxswVUkzlqXg_33.978220_-118.416303@1303263167"
+    "wof:brand_id": 420574427,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19b114262203c5d3fb548c8804",
+      "sg:id": "SG_5BQDEKnVD9LxswVUkzlqXg_33.978220_-118.416303@1303263167"
     },
-    "wof:country":"US",
-    "wof:geomhash":"90401ab17ee1a22dd2dce96d1187662e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":387021635
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "90401ab17ee1a22dd2dce96d1187662e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 387021635
+      }
     ],
-    "wof:id":387021635,
-    "wof:lastmodified":1509200936,
-    "wof:name":"Public Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automotive",
-        "mover",
-        "self"
+    "wof:id": 387021635,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Public Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automotive",
+      "mover",
+      "self"
     ]
-},
+  },
   "bbox": [
     -118.416303,
     33.97822,
     -118.416303,
     33.97822
-],
+  ],
   "geometry": {"coordinates":[-118.416303,33.97822],"type":"Point"}
 }

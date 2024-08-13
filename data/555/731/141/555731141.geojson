@@ -2,59 +2,67 @@
   "id": 555731141,
   "type": "Feature",
   "properties": {
-    "addr:full":"2900 Green St Merced CA 95340",
-    "addr:housenumber":"2900",
-    "addr:postcode":"95340",
-    "addr:street":"Green St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.453683,37.304912,-120.453683,37.304912",
-    "geom:latitude":37.304912,
-    "geom:longitude":-120.453683,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2900 Green St",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "2900 Green St Merced CA 95340",
+    "addr:housenumber": "2900",
+    "addr:postcode": "95340",
+    "addr:street": "Green St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.453683,37.304912,-120.453683,37.304912",
+    "geom:latitude": 37.304912,
+    "geom:longitude": -120.453683,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ada Givens Elementary School, 2900 Green St Merced CA US",
+    "ovtr:similarity": 2.154892921447754,
+    "sg:address": "2900 Green St",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 385 6610",
-    "sg:postcode":"95340",
-    "sg:province":"CA",
-    "sg:website":"www.mcsd.k12.ca.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1QbpHWJDYnlHVFBqVBFzDU_37.304912_-120.453683@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 385 6610",
+    "sg:postcode": "95340",
+    "sg:province": "CA",
+    "sg:website": "www.mcsd.k12.ca.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836da0ba311003b606e70ac9c9fe",
+      "sg:id": "SG_1QbpHWJDYnlHVFBqVBFzDU_37.304912_-120.453683@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"341d21f71db1038af59ff55c7320231a",
-    "wof:hierarchy":[],
-    "wof:id":555731141,
-    "wof:lastmodified":1509201490,
-    "wof:name":"Ada Givens Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "341d21f71db1038af59ff55c7320231a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555731141
+      }
+    ],
+    "wof:id": 555731141,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Ada Givens Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.453683,
     37.304912,
     -120.453683,
     37.304912
-],
+  ],
   "geometry": {"coordinates":[-120.453683,37.304912],"type":"Point"}
 }

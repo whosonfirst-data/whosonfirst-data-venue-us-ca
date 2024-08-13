@@ -2,83 +2,87 @@
   "id": 370933531,
   "type": "Feature",
   "properties": {
-    "addr:full":"10000 National Blvd Los Angeles CA 90034",
-    "addr:housenumber":"10000",
-    "addr:postcode":"90034",
-    "addr:street":"National Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.403999,34.029202,-118.403999,34.029202",
-    "geom:latitude":34.029202,
-    "geom:longitude":-118.403999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10000 National Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10000 National Blvd Los Angeles CA 90034",
+    "addr:housenumber": "10000",
+    "addr:postcode": "90034",
+    "addr:street": "National Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.403999,34.029202,-118.403999,34.029202",
+    "geom:latitude": 34.029202,
+    "geom:longitude": -118.403999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bob's Food Mart \u0026 Liquors, 10000 National Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.9404730796813965,
+    "sg:address": "10000 National Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 839 2331",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 839 2331",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840349
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840349
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3GPsx2WJSIGgBerpnhVdr4_34.029202_-118.403999@1303263159"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1982403d2a03969c5f95c052e5",
+      "sg:id": "SG_3GPsx2WJSIGgBerpnhVdr4_34.029202_-118.403999@1303263159"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bc1e745c42bd0d8a2a80ad7d0116ccb1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840349,
-            "region_id":85688637,
-            "venue_id":370933531
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "bc1e745c42bd0d8a2a80ad7d0116ccb1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840349,
+        "region_id": 85688637,
+        "venue_id": 370933531
+      }
     ],
-    "wof:id":370933531,
-    "wof:lastmodified":1509200854,
-    "wof:name":"Bob's Food Mart & Liquors",
-    "wof:parent_id":85840349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 370933531,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Bob's Food Mart \u0026 Liquors",
+    "wof:parent_id": 85840349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.403999,
     34.029202,
     -118.403999,
     34.029202
-],
+  ],
   "geometry": {"coordinates":[-118.403999,34.029202],"type":"Point"}
 }

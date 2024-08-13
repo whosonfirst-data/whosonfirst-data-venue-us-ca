@@ -2,85 +2,89 @@
   "id": 387326677,
   "type": "Feature",
   "properties": {
-    "addr:full":"3812 Main St Culver City CA 90232",
-    "addr:housenumber":"3812",
-    "addr:postcode":"90232",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.394896,34.025258,-118.394896,34.025258",
-    "geom:latitude":34.025258,
-    "geom:longitude":-118.394896,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3812 Main St",
-    "sg:city":"Culver City",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Massage",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Day Spa",
-            "type":"Services"
-        }
+    "addr:full": "3812 Main St Culver City CA 90232",
+    "addr:housenumber": "3812",
+    "addr:postcode": "90232",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.394896,34.025258,-118.394896,34.025258",
+    "geom:latitude": 34.025258,
+    "geom:longitude": -118.394896,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Massage Garage, 3812 Main St Culver City CA US",
+    "ovtr:similarity": 2.731796979904175,
+    "sg:address": "3812 Main St",
+    "sg:city": "Culver City",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Massage",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Day Spa",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 202 0082",
-    "sg:postcode":"90232",
-    "sg:province":"CA",
-    "sg:website":"www.themassagegarage.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923649,
-        102086957,
-        85885825
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 202 0082",
+    "sg:postcode": "90232",
+    "sg:province": "CA",
+    "sg:website": "www.themassagegarage.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923649,
+      102086957,
+      85885825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_44HUPBxIIxCsfgE80U9M0D_34.025258_-118.394896@1303263175"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a199528925b03b0cfc9bceae778",
+      "sg:id": "SG_44HUPBxIIxCsfgE80U9M0D_34.025258_-118.394896@1303263175"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e2b547816ac2d8be3c928b026779970e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923649,
-            "neighbourhood_id":85885825,
-            "region_id":85688637,
-            "venue_id":387326677
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "e2b547816ac2d8be3c928b026779970e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923649,
+        "neighbourhood_id": 85885825,
+        "region_id": 85688637,
+        "venue_id": 387326677
+      }
     ],
-    "wof:id":387326677,
-    "wof:lastmodified":1509201008,
-    "wof:name":"Massage Garage",
-    "wof:parent_id":85885825,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387326677,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Massage Garage",
+    "wof:parent_id": 85885825,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.394896,
     34.025258,
     -118.394896,
     34.025258
-],
+  ],
   "geometry": {"coordinates":[-118.394896,34.025258],"type":"Point"}
 }

@@ -2,88 +2,92 @@
   "id": 572061575,
   "type": "Feature",
   "properties": {
-    "addr:full":"1044 Grant Ave San Francisco CA 94133",
-    "addr:housenumber":"1044",
-    "addr:postcode":"94133",
-    "addr:street":"Grant Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.406746,37.796461,-122.406746,37.796461",
-    "geom:latitude":37.796461,
-    "geom:longitude":-122.406746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1044 Grant Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1044 Grant Ave San Francisco CA 94133",
+    "addr:housenumber": "1044",
+    "addr:postcode": "94133",
+    "addr:street": "Grant Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.406746,37.796461,-122.406746,37.796461",
+    "geom:latitude": 37.796461,
+    "geom:longitude": -122.406746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vital Tea Leaf, 1044 Grant Ave San Francisco CA US",
+    "ovtr:similarity": 1.7133680582046509,
+    "sg:address": "1044 Grant Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 981 2388",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "tea",
-        "coffee",
-        "room"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 981 2388",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "tea",
+      "coffee",
+      "room"
     ],
-    "sg:website":"www.vitaltleaf.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85810881,
-        102191575,
-        1108830801,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:website": "www.vitaltleaf.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85810881,
+      102191575,
+      1108830801,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0388301-01-001",
-        "sg:id":"SG_3uyxZJdwMIKeqwVnd0p0AH_37.796519_-122.406691@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082b5aa97203db7da2433e1f3e",
+      "sfgov_rbl:id": "0388301-01-001",
+      "sg:id": "SG_3uyxZJdwMIKeqwVnd0p0AH_37.796519_-122.406691@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dbee3bad9036c132ebaa6e2f88b56bda",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830801,
-            "neighbourhood_id":85810881,
-            "region_id":85688637,
-            "venue_id":572061575
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "dbee3bad9036c132ebaa6e2f88b56bda",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830801,
+        "neighbourhood_id": 85810881,
+        "region_id": 85688637,
+        "venue_id": 572061575
+      }
     ],
-    "wof:id":572061575,
-    "wof:lastmodified":1509201680,
-    "wof:name":"Vital Tea Leaf",
-    "wof:parent_id":85810881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tea",
-        "coffee",
-        "room"
+    "wof:id": 572061575,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Vital Tea Leaf",
+    "wof:parent_id": 85810881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tea",
+      "coffee",
+      "room"
     ]
-},
+  },
   "bbox": [
     -122.406746,
     37.796461,
     -122.406746,
     37.796461
-],
+  ],
   "geometry": {"coordinates":[-122.406746,37.796461],"type":"Point"}
 }

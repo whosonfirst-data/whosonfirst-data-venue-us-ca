@@ -2,81 +2,85 @@
   "id": 387567931,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 Cherokee Ln Lodi CA 95240",
-    "addr:housenumber":"123",
-    "addr:postcode":"95240",
-    "addr:street":"Cherokee Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.260788,38.136108,-121.260788,38.136108",
-    "geom:latitude":38.136108,
-    "geom:longitude":-121.260788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"123 Cherokee Ln",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "123 Cherokee Ln Lodi CA 95240",
+    "addr:housenumber": "123",
+    "addr:postcode": "95240",
+    "addr:street": "Cherokee Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.260788,38.136108,-121.260788,38.136108",
+    "geom:latitude": 38.136108,
+    "geom:longitude": -121.260788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Express Donuts, 123 N Cherokee Ln Lodi CA US",
+    "ovtr:similarity": 3.0796210765838623,
+    "sg:address": "123 Cherokee Ln",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 367 1149",
-    "sg:postcode":"95240",
-    "sg:province":"CA",
-    "sg:tags":[
-        "product",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 367 1149",
+    "sg:postcode": "95240",
+    "sg:province": "CA",
+    "sg:tags": [
+      "product",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923265,
-        102085393,
-        85886277
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923265,
+      102085393,
+      85886277
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_30lFZ2iUEQr5snHxok6PWu_38.136108_-121.260788@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28362f05b3c12032c46c0c384d869",
+      "sg:id": "SG_30lFZ2iUEQr5snHxok6PWu_38.136108_-121.260788@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"077bb978d6b48e3161c1a38c7b02f3bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085393,
-            "locality_id":85923265,
-            "neighbourhood_id":85886277,
-            "region_id":85688637,
-            "venue_id":387567931
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "077bb978d6b48e3161c1a38c7b02f3bc",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "locality_id": 85923265,
+        "neighbourhood_id": 85886277,
+        "region_id": 85688637,
+        "venue_id": 387567931
+      }
     ],
-    "wof:id":387567931,
-    "wof:lastmodified":1509201056,
-    "wof:name":"Express Donuts",
-    "wof:parent_id":85886277,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product",
-        "mfg"
+    "wof:id": 387567931,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Express Donuts",
+    "wof:parent_id": 85886277,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -121.260788,
     38.136108,
     -121.260788,
     38.136108
-],
-  "geometry": {"coordinates":[-121.26078800000001,38.136108],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.260788,38.136108],"type":"Point"}
 }

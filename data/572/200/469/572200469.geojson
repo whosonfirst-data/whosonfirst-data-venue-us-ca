@@ -2,84 +2,88 @@
   "id": 572200469,
   "type": "Feature",
   "properties": {
-    "addr:full":"3994 Foothills Blvd Roseville CA 95747",
-    "addr:housenumber":"3994",
-    "addr:postcode":"95747",
-    "addr:street":"Foothills Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.309467,38.751742,-121.309467,38.751742",
-    "geom:latitude":38.751742,
-    "geom:longitude":-121.309467,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3994 Foothills Blvd",
-    "sg:city":"Roseville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3994 Foothills Blvd Roseville CA 95747",
+    "addr:housenumber": "3994",
+    "addr:postcode": "95747",
+    "addr:street": "Foothills Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.309467,38.751742,-121.309467,38.751742",
+    "geom:latitude": 38.751742,
+    "geom:longitude": -121.309467,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 3994 Foothills Blvd Roseville CA US",
+    "ovtr:similarity": 2.673616886138916,
+    "sg:address": "3994 Foothills Blvd",
+    "sg:city": "Roseville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/roseville/216417-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95747",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/roseville/216417-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95747",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921799,
-        102080863,
-        420551833
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921799,
+      102080863,
+      420551833
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":86256830,
-        "sg:id":"SG_59z7oRjG2AGvYJpRRwu0fA_38.751742_-121.309467@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 86256830,
+      "ovtr:id": "08f2832ab0822c910316ccc909120d96",
+      "sg:id": "SG_59z7oRjG2AGvYJpRRwu0fA_38.751742_-121.309467@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"445bfe11987c94064faf4d881010df87",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":85921799,
-            "neighbourhood_id":420551833,
-            "region_id":85688637,
-            "venue_id":572200469
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "445bfe11987c94064faf4d881010df87",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": 85921799,
+        "neighbourhood_id": 420551833,
+        "region_id": 85688637,
+        "venue_id": 572200469
+      }
     ],
-    "wof:id":572200469,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420551833,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572200469,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420551833,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.309467,
     38.751742,
     -121.309467,
     38.751742
-],
+  ],
   "geometry": {"coordinates":[-121.309467,38.751742],"type":"Point"}
 }

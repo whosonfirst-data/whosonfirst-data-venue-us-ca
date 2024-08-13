@@ -2,82 +2,86 @@
   "id": 354391709,
   "type": "Feature",
   "properties": {
-    "addr:full":"3770 Hancock St San Diego CA 92110",
-    "addr:housenumber":"3770",
-    "addr:postcode":"92110",
-    "addr:street":"Hancock St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.21572,32.757743,-117.21572,32.757743",
-    "geom:latitude":32.757743,
-    "geom:longitude":-117.21572,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3770 Hancock St",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3770 Hancock St San Diego CA 92110",
+    "addr:housenumber": "3770",
+    "addr:postcode": "92110",
+    "addr:street": "Hancock St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.215720,32.757743,-117.215720,32.757743",
+    "geom:latitude": 32.757743,
+    "geom:longitude": -117.21572,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Autohaus Munich, 3770 Hancock St San Diego CA US",
+    "ovtr:similarity": 2.187653064727783,
+    "sg:address": "3770 Hancock St",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 491 9300",
-    "sg:postcode":"92110",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 491 9300",
+    "sg:postcode": "92110",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85839461
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85839461
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3c1By3aT0VqSrrndrclLT0_32.757743_-117.215720@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a40359a872e03261f7892bca196",
+      "sg:id": "SG_3c1By3aT0VqSrrndrclLT0_32.757743_-117.215720@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"216f4cd783edee5776ee679c97cb8261",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85839461,
-            "region_id":85688637,
-            "venue_id":354391709
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "216f4cd783edee5776ee679c97cb8261",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85839461,
+        "region_id": 85688637,
+        "venue_id": 354391709
+      }
     ],
-    "wof:id":354391709,
-    "wof:lastmodified":1509200686,
-    "wof:name":"Autohaus Munich",
-    "wof:parent_id":85839461,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 354391709,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Autohaus Munich",
+    "wof:parent_id": 85839461,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.21572,
     32.757743,
     -117.21572,
     32.757743
-],
+  ],
   "geometry": {"coordinates":[-117.21572,32.757743],"type":"Point"}
 }

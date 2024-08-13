@@ -2,74 +2,78 @@
   "id": 371070233,
   "type": "Feature",
   "properties": {
-    "addr:full":"11805 S Vermont Avenue Los Angeles CA 90044",
-    "addr:housenumber":"11805",
-    "addr:postcode":"90044",
-    "addr:street":"S Vermont Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.291793,33.926444,-118.291793,33.926444",
-    "geom:latitude":33.926444,
-    "geom:longitude":-118.291793,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11805 S Vermont Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11805 S Vermont Avenue Los Angeles CA 90044",
+    "addr:housenumber": "11805",
+    "addr:postcode": "90044",
+    "addr:street": "S Vermont Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.291793,33.926444,-118.291793,33.926444",
+    "geom:latitude": 33.926444,
+    "geom:longitude": -118.291793,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Rancho Fresh Market, 11805 S Vermont Ave Los Angeles CA US",
+    "ovtr:similarity": 2.1519439220428467,
+    "sg:address": "11805 S Vermont Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 777 0145",
-    "sg:postcode":"90044",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85849847
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 777 0145",
+    "sg:postcode": "90044",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85849847
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7fLh7ax5xUZYz3pMoEcKUk_33.926444_-118.291793@1303263162"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c502b86d03cd0e12c24c64c3",
+      "sg:id": "SG_7fLh7ax5xUZYz3pMoEcKUk_33.926444_-118.291793@1303263162"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2c4aa2cdd0a4703bbe5e654e8cb20a61",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85849847,
-            "region_id":85688637,
-            "venue_id":371070233
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "2c4aa2cdd0a4703bbe5e654e8cb20a61",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85849847,
+        "region_id": 85688637,
+        "venue_id": 371070233
+      }
     ],
-    "wof:id":371070233,
-    "wof:lastmodified":1509200886,
-    "wof:name":"El Rancho Fresh Market",
-    "wof:parent_id":85849847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371070233,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "El Rancho Fresh Market",
+    "wof:parent_id": 85849847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.291793,
     33.926444,
     -118.291793,
     33.926444
-],
+  ],
   "geometry": {"coordinates":[-118.291793,33.926444],"type":"Point"}
 }

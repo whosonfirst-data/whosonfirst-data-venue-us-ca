@@ -2,91 +2,95 @@
   "id": 588721097,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Lake Blvd Redding CA 96003",
-    "addr:housenumber":"40",
-    "addr:postcode":"96003",
-    "addr:street":"Lake Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.377503,40.609492,-122.377503,40.609492",
-    "geom:latitude":40.609492,
-    "geom:longitude":-122.377503,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"40 Lake Blvd",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "40 Lake Blvd Redding CA 96003",
+    "addr:housenumber": "40",
+    "addr:postcode": "96003",
+    "addr:street": "Lake Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.377503,40.609492,-122.377503,40.609492",
+    "geom:latitude": 40.609492,
+    "geom:longitude": -122.377503,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Dollar Tree, 40 Lake Blvd Redding CA US",
+    "ovtr:similarity": 3.1930348873138428,
+    "sg:address": "40 Lake Blvd",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 244 9800",
-    "sg:postcode":"96003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 244 9800",
+    "sg:postcode": "96003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "merchandise"
     ],
-    "sg:website":"http://www.dollartree.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85818197
+    "sg:website": "http://www.dollartree.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85818197
     ],
-    "wof:brand_id":420573823,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":453363315,
-        "sg:id":"SG_3ZnCcSKWHQpyUcpuGQmNBO_40.609492_-122.377503@1303263402"
+    "wof:brand_id": 420573823,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 453363315,
+      "ovtr:id": "08f28157615355500387ab4f4b841a75",
+      "sg:id": "SG_3ZnCcSKWHQpyUcpuGQmNBO_40.609492_-122.377503@1303263402"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8f7ae3712bf8770dfa3c94489bc2b0dc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":588721097
-        }
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "8f7ae3712bf8770dfa3c94489bc2b0dc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 588721097
+      }
     ],
-    "wof:id":588721097,
-    "wof:lastmodified":1511322077,
-    "wof:name":"Dollar Tree",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "merchandise"
+    "wof:id": 588721097,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Dollar Tree",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -122.377503,
     40.609492,
     -122.377503,
     40.609492
-],
+  ],
   "geometry": {"coordinates":[-122.377503,40.609492],"type":"Point"}
 }

@@ -2,91 +2,95 @@
   "id": 588315037,
   "type": "Feature",
   "properties": {
-    "addr:full":"1825 W Avenue J Lancaster CA 93534",
-    "addr:housenumber":"1825",
-    "addr:postcode":"93534",
-    "addr:street":"W Avenue J",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.16456,34.689419,-118.16456,34.689419",
-    "geom:latitude":34.689419,
-    "geom:longitude":-118.16456,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1825 W Avenue J",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Day Spa",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Nail Salon",
-            "type":"Services"
-        }
+    "addr:full": "1825 W Avenue J Lancaster CA 93534",
+    "addr:housenumber": "1825",
+    "addr:postcode": "93534",
+    "addr:street": "W Avenue J",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.164560,34.689419,-118.164560,34.689419",
+    "geom:latitude": 34.689419,
+    "geom:longitude": -118.16456,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Monticello Salon \u0026 Spa, 1825 W Avenue J Lancaster CA US",
+    "ovtr:similarity": 3.0856919288635254,
+    "sg:address": "1825 W Avenue J",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Day Spa",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Nail Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 974 8288",
-    "sg:postcode":"93534",
-    "sg:province":"CA",
-    "sg:website":"http://www.monticelloandspa.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923547,
-        102086957,
-        85882205
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 974 8288",
+    "sg:postcode": "93534",
+    "sg:province": "CA",
+    "sg:website": "http://www.monticelloandspa.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923547,
+      102086957,
+      85882205
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_09zZZRu3gR6KfIkBscSvxC_34.689419_-118.164560@1303263297"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a144c85a4a9037dbcc0e5bf2961",
+      "sg:id": "SG_09zZZRu3gR6KfIkBscSvxC_34.689419_-118.164560@1303263297"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c04fa5596f875f362d14e6fb5aae29ab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923547,
-            "neighbourhood_id":85882205,
-            "region_id":85688637,
-            "venue_id":588315037
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "c04fa5596f875f362d14e6fb5aae29ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923547,
+        "neighbourhood_id": 85882205,
+        "region_id": 85688637,
+        "venue_id": 588315037
+      }
     ],
-    "wof:id":588315037,
-    "wof:lastmodified":1509201986,
-    "wof:name":"Monticello Salon & Spa",
-    "wof:parent_id":85882205,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588315037,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Monticello Salon \u0026 Spa",
+    "wof:parent_id": 85882205,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.16456,
     34.689419,
     -118.16456,
     34.689419
-],
-  "geometry": {"coordinates":[-118.16455999999999,34.689419],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.16456,34.689419],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 404058299,
   "type": "Feature",
   "properties": {
-    "addr:full":"2614 Pacific Ave Long Beach CA 90806",
-    "addr:housenumber":"2614",
-    "addr:postcode":"90806",
-    "addr:street":"Pacific Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.194,33.804798,-118.194,33.804798",
-    "geom:latitude":33.804798,
-    "geom:longitude":-118.194,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2614 Pacific Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2614 Pacific Ave Long Beach CA 90806",
+    "addr:housenumber": "2614",
+    "addr:postcode": "90806",
+    "addr:street": "Pacific Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.194000,33.804798,-118.194000,33.804798",
+    "geom:latitude": 33.804798,
+    "geom:longitude": -118.194,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "England Fish \u0026 Chips, 2614 Pacific Ave Long Beach CA US",
+    "ovtr:similarity": 1.9405759572982788,
+    "sg:address": "2614 Pacific Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 426 7400",
-    "sg:postcode":"90806",
-    "sg:province":"CA",
-    "sg:tags":[
-        "seafood",
-        "fish",
-        "chip"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 426 7400",
+    "sg:postcode": "90806",
+    "sg:province": "CA",
+    "sg:tags": [
+      "seafood",
+      "fish",
+      "chip"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85854007
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85854007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3ovGR0tUC3pSgGa5AsKpnC_33.804798_-118.194000@1303263199"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56138145620323c2a60f2fd502",
+      "sg:id": "SG_3ovGR0tUC3pSgGa5AsKpnC_33.804798_-118.194000@1303263199"
     },
-    "wof:country":"US",
-    "wof:geomhash":"971e62dc7aeea39acce046c49b24cd17",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85854007,
-            "region_id":85688637,
-            "venue_id":404058299
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "971e62dc7aeea39acce046c49b24cd17",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85854007,
+        "region_id": 85688637,
+        "venue_id": 404058299
+      }
     ],
-    "wof:id":404058299,
-    "wof:lastmodified":1509201195,
-    "wof:name":"England Fish & Chips",
-    "wof:parent_id":85854007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood",
-        "fish",
-        "chip"
+    "wof:id": 404058299,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "England Fish \u0026 Chips",
+    "wof:parent_id": 85854007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood",
+      "fish",
+      "chip"
     ]
-},
+  },
   "bbox": [
     -118.194,
     33.804798,
     -118.194,
     33.804798
-],
+  ],
   "geometry": {"coordinates":[-118.194,33.804798],"type":"Point"}
 }

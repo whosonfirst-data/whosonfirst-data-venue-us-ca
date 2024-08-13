@@ -2,74 +2,78 @@
   "id": 370742113,
   "type": "Feature",
   "properties": {
-    "addr:full":"2302 E 1st St Los Angeles CA 90033",
-    "addr:housenumber":"2302",
-    "addr:postcode":"90033",
-    "addr:street":"E 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.20982,34.043649,-118.20982,34.043649",
-    "geom:latitude":34.043649,
-    "geom:longitude":-118.20982,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2302 E 1st St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "2302 E 1st St Los Angeles CA 90033",
+    "addr:housenumber": "2302",
+    "addr:postcode": "90033",
+    "addr:street": "E 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.209820,34.043649,-118.209820,34.043649",
+    "geom:latitude": 34.043649,
+    "geom:longitude": -118.20982,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Carol’s Beauty Salon, 2302 E 1st St Los Angeles CA US",
+    "ovtr:similarity": 3.2702550888061523,
+    "sg:address": "2302 E 1st St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 260 7265",
-    "sg:postcode":"90033",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85806935
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 260 7265",
+    "sg:postcode": "90033",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85806935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Wd3s87gtk1XxGPrro9Ud1_34.043649_-118.209820@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d76a61a0903f77e8ee2e7f452",
+      "sg:id": "SG_5Wd3s87gtk1XxGPrro9Ud1_34.043649_-118.209820@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"150ab14fdc16a3c97aa14a5e4564c50e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85806935,
-            "region_id":85688637,
-            "venue_id":370742113
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "150ab14fdc16a3c97aa14a5e4564c50e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85806935,
+        "region_id": 85688637,
+        "venue_id": 370742113
+      }
     ],
-    "wof:id":370742113,
-    "wof:lastmodified":1509200809,
-    "wof:name":"Carol Beauty Salon",
-    "wof:parent_id":85806935,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370742113,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Carol Beauty Salon",
+    "wof:parent_id": 85806935,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.20982,
     34.043649,
     -118.20982,
     34.043649
-],
-  "geometry": {"coordinates":[-118.20981999999999,34.043649],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.20982,34.043649],"type":"Point"}
 }

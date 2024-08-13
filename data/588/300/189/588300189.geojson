@@ -2,80 +2,84 @@
   "id": 588300189,
   "type": "Feature",
   "properties": {
-    "addr:full":"825 W Henderson Ave Porterville CA 93257",
-    "addr:housenumber":"825",
-    "addr:postcode":"93257",
-    "addr:street":"W Henderson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.035159,36.08045,-119.035159,36.08045",
-    "geom:latitude":36.08045,
-    "geom:longitude":-119.035159,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"825 W Henderson Ave",
-    "sg:city":"Porterville",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "825 W Henderson Ave Porterville CA 93257",
+    "addr:housenumber": "825",
+    "addr:postcode": "93257",
+    "addr:street": "W Henderson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.035159,36.080450,-119.035159,36.080450",
+    "geom:latitude": 36.08045,
+    "geom:longitude": -119.035159,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 825 W Henderson Ave Porterville CA US",
+    "ovtr:similarity": 1.7126729488372803,
+    "sg:address": "825 W Henderson Ave",
+    "sg:city": "Porterville",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 789 9912",
-    "sg:postcode":"93257",
-    "sg:province":"CA",
-    "sg:website":"http://www.bargainw.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922471,
-        102082895,
-        85830847
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 789 9912",
+    "sg:postcode": "93257",
+    "sg:province": "CA",
+    "sg:website": "http://www.bargainw.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922471,
+      102082895,
+      85830847
     ],
-    "wof:brand_id":1125158017,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_751xE9L1bLGRZV8WjmKF04_36.080450_-119.035159@1303263293"
+    "wof:brand_id": 1125158017,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ae24b4f348103f27fe8a60fb941",
+      "sg:id": "SG_751xE9L1bLGRZV8WjmKF04_36.080450_-119.035159@1303263293"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7e37fe107d441bb93c9b07659bf371e3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922471,
-            "neighbourhood_id":85830847,
-            "region_id":85688637,
-            "venue_id":588300189
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "7e37fe107d441bb93c9b07659bf371e3",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922471,
+        "neighbourhood_id": 85830847,
+        "region_id": 85688637,
+        "venue_id": 588300189
+      }
     ],
-    "wof:id":588300189,
-    "wof:lastmodified":1510698494,
-    "wof:name":"99 Cents Only Stores",
-    "wof:parent_id":85830847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588300189,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "99 Cents Only Stores",
+    "wof:parent_id": 85830847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.035159,
     36.08045,
     -119.035159,
     36.08045
-],
-  "geometry": {"coordinates":[-119.03515899999999,36.08045],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.035159,36.08045],"type":"Point"}
 }

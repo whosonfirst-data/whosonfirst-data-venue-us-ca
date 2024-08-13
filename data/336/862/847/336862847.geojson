@@ -2,78 +2,82 @@
   "id": 336862847,
   "type": "Feature",
   "properties": {
-    "addr:full":"12130 Santa Monica Blvd Los Angeles CA 90025",
-    "addr:housenumber":"12130",
-    "addr:postcode":"90025",
-    "addr:street":"Santa Monica Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.464082,34.040158,-118.464082,34.040158",
-    "geom:latitude":34.040158,
-    "geom:longitude":-118.464082,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"12130 Santa Monica Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12130 Santa Monica Blvd Los Angeles CA 90025",
+    "addr:housenumber": "12130",
+    "addr:postcode": "90025",
+    "addr:street": "Santa Monica Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.464082,34.040158,-118.464082,34.040158",
+    "geom:latitude": 34.040158,
+    "geom:longitude": -118.464082,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Darya Restaurant, 12130 Santa Monica Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.2410149574279785,
+    "sg:address": "12130 Santa Monica Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 442 9000",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 442 9000",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000200283-0001-9",
-        "sg:id":"SG_7SLXxbyCSYKgVha2ejoBcN_34.040158_-118.464082@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000200283-0001-9",
+      "ovtr:id": "08f29a198e8124520376ff24ff236a60",
+      "sg:id": "SG_7SLXxbyCSYKgVha2ejoBcN_34.040158_-118.464082@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ac970697d80326fe08e648fd14cea024",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":336862847
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "ac970697d80326fe08e648fd14cea024",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 336862847
+      }
     ],
-    "wof:id":336862847,
-    "wof:lastmodified":1509200525,
-    "wof:name":"Darya Restaurant Santa Monica",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 336862847,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Darya Restaurant Santa Monica",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.464082,
     34.040158,
     -118.464082,
     34.040158
-],
+  ],
   "geometry": {"coordinates":[-118.464082,34.040158],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 404166739,
   "type": "Feature",
   "properties": {
-    "addr:full":"2222 Foothill Blvd Ste E La Canada Flintridge CA 91011",
-    "addr:housenumber":"2222",
-    "addr:postcode":"91011",
-    "addr:street":"Foothill Blvd Ste E La Canada",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.22571,34.216162,-118.22571,34.216162",
-    "geom:latitude":34.216162,
-    "geom:longitude":-118.22571,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2222 Foothill Blvd Ste E",
-    "sg:city":"La Canada Flintridge",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Post Office",
-            "type":"Public Place"
-        }
+    "addr:full": "2222 Foothill Blvd Ste E La Canada Flintridge CA 91011",
+    "addr:housenumber": "2222",
+    "addr:postcode": "91011",
+    "addr:street": "Foothill Blvd Ste E La Canada",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.225710,34.216162,-118.225710,34.216162",
+    "geom:latitude": 34.216162,
+    "geom:longitude": -118.22571,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "La Canada Mailboxes, 2222 Foothill Blvd La Canada Flintridge CA US",
+    "ovtr:similarity": 2.7530300617218018,
+    "sg:address": "2222 Foothill Blvd Ste E",
+    "sg:city": "La Canada Flintridge",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Post Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 248 1078",
-    "sg:postcode":"91011",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shipping"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 248 1078",
+    "sg:postcode": "91011",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shipping"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923565,
-        102086957,
-        85835073
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923565,
+      102086957,
+      85835073
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BkLDns8z9igvrQ148oOEO_34.216162_-118.225710@1303263202"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c70171d5803019453c8db0dcb",
+      "sg:id": "SG_3BkLDns8z9igvrQ148oOEO_34.216162_-118.225710@1303263202"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c3d2dac9cf6a4fc2a162c14f8be32412",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923565,
-            "neighbourhood_id":85835073,
-            "region_id":85688637,
-            "venue_id":404166739
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "c3d2dac9cf6a4fc2a162c14f8be32412",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923565,
+        "neighbourhood_id": 85835073,
+        "region_id": 85688637,
+        "venue_id": 404166739
+      }
     ],
-    "wof:id":404166739,
-    "wof:lastmodified":1509201215,
-    "wof:name":"La Canada Mailboxes",
-    "wof:parent_id":85835073,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shipping"
+    "wof:id": 404166739,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "La Canada Mailboxes",
+    "wof:parent_id": 85835073,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shipping"
     ]
-},
+  },
   "bbox": [
     -118.22571,
     34.216162,
     -118.22571,
     34.216162
-],
-  "geometry": {"coordinates":[-118.22571000000001,34.216162],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.22571,34.216162],"type":"Point"}
 }

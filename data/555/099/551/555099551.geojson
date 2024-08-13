@@ -2,71 +2,75 @@
   "id": 555099551,
   "type": "Feature",
   "properties": {
-    "addr:full":"1119 Lincoln Ave Napa CA 94558",
-    "addr:housenumber":"1119",
-    "addr:postcode":"94558",
-    "addr:street":"Lincoln Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.295607,38.308338,-122.295607,38.308338",
-    "geom:latitude":38.308338,
-    "geom:longitude":-122.295607,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1119 Lincoln Ave",
-    "sg:city":"Napa",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "1119 Lincoln Ave Napa CA 94558",
+    "addr:housenumber": "1119",
+    "addr:postcode": "94558",
+    "addr:street": "Lincoln Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.295607,38.308338,-122.295607,38.308338",
+    "geom:latitude": 38.308338,
+    "geom:longitude": -122.295607,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pet Cuts, 1119 Lincoln Ave Napa CA US",
+    "ovtr:similarity": 1.8002159595489502,
+    "sg:address": "1119 Lincoln Ave",
+    "sg:city": "Napa",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 258 1164",
-    "sg:postcode":"94558",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102085383,
-        85633793,
-        85688637,
-        85886543
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 258 1164",
+    "sg:postcode": "94558",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102085383,
+      85633793,
+      85688637,
+      85886543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dviRL5JMstUX98YmHL077_38.308338_-122.295607@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283005369d6d503c865b8fcb67f28",
+      "sg:id": "SG_1dviRL5JMstUX98YmHL077_38.308338_-122.295607@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e2b702446ae50c3cc45ed618435af82b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085383,
-            "neighbourhood_id":85886543,
-            "region_id":85688637,
-            "venue_id":555099551
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "e2b702446ae50c3cc45ed618435af82b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085383,
+        "neighbourhood_id": 85886543,
+        "region_id": 85688637,
+        "venue_id": 555099551
+      }
     ],
-    "wof:id":555099551,
-    "wof:lastmodified":1509201275,
-    "wof:name":"Pet Cuts",
-    "wof:parent_id":85886543,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555099551,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Pet Cuts",
+    "wof:parent_id": 85886543,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.295607,
     38.308338,
     -122.295607,
     38.308338
-],
+  ],
   "geometry": {"coordinates":[-122.295607,38.308338],"type":"Point"}
 }

@@ -2,89 +2,93 @@
   "id": 588546431,
   "type": "Feature",
   "properties": {
-    "addr:full":"19805 Stevens Creek Blvd Cupertino CA 95014",
-    "addr:housenumber":"19805",
-    "addr:postcode":"95014",
-    "addr:street":"Stevens Creek Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.01976,37.322994,-122.01976,37.322994",
-    "geom:latitude":37.322994,
-    "geom:longitude":-122.01976,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"19805 Stevens Creek Blvd",
-    "sg:city":"Cupertino",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Recreation",
-            "subcategory":"Playground",
-            "type":"Entertainment"
-        }
+    "addr:full": "19805 Stevens Creek Blvd Cupertino CA 95014",
+    "addr:housenumber": "19805",
+    "addr:postcode": "95014",
+    "addr:street": "Stevens Creek Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.019760,37.322994,-122.019760,37.322994",
+    "geom:latitude": 37.322994,
+    "geom:longitude": -122.01976,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chuck E. Cheese, 19805 Stevens Creek Blvd Cupertino CA US",
+    "ovtr:similarity": 3.811224937438965,
+    "sg:address": "19805 Stevens Creek Blvd",
+    "sg:city": "Cupertino",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Recreation",
+        "subcategory": "Playground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 873 8485",
-    "sg:postcode":"95014",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 873 8485",
+    "sg:postcode": "95014",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"www.chuckecheese.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420552489,
-        102191575,
-        1108782547,
-        85633793,
-        85922347,
-        102081673,
-        85688637
+    "sg:website": "www.chuckecheese.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420552489,
+      102191575,
+      1108782547,
+      85633793,
+      85922347,
+      102081673,
+      85688637
     ],
-    "wof:brand_id":1125148901,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6lEXVzAjYNcT4fldZgVU34_37.322994_-122.019760@1303263357"
+    "wof:brand_id": 1125148901,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283472e736caa03947a3d37bd2e5f",
+      "sg:id": "SG_6lEXVzAjYNcT4fldZgVU34_37.322994_-122.019760@1303263357"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c2b0eb3cb1a9d49b462eae5da00739e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782547,
-            "neighbourhood_id":420552489,
-            "region_id":85688637,
-            "venue_id":588546431
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "c2b0eb3cb1a9d49b462eae5da00739e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782547,
+        "neighbourhood_id": 420552489,
+        "region_id": 85688637,
+        "venue_id": 588546431
+      }
     ],
-    "wof:id":588546431,
-    "wof:lastmodified":1511320590,
-    "wof:name":"Chuck E. Cheese's",
-    "wof:parent_id":420552489,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 588546431,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Chuck E. Cheese's",
+    "wof:parent_id": 420552489,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -122.01976,
     37.322994,
     -122.01976,
     37.322994
-],
-  "geometry": {"coordinates":[-122.01976000000001,37.322994],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.01976,37.322994],"type":"Point"}
 }

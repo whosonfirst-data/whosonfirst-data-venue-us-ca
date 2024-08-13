@@ -2,75 +2,79 @@
   "id": 269648367,
   "type": "Feature",
   "properties": {
-    "addr:full":"1560 N Minnewawa Ave Clovis CA 93619",
-    "addr:housenumber":"1560",
-    "addr:postcode":"93619",
-    "addr:street":"N Minnewawa Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.71105,36.847357,-119.71105,36.847357",
-    "geom:latitude":36.847357,
-    "geom:longitude":-119.71105,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1560 N Minnewawa Ave",
-    "sg:city":"Clovis",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1560 N Minnewawa Ave Clovis CA 93619",
+    "addr:housenumber": "1560",
+    "addr:postcode": "93619",
+    "addr:street": "N Minnewawa Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.711050,36.847357,-119.711050,36.847357",
+    "geom:latitude": 36.847357,
+    "geom:longitude": -119.71105,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Buchanan High School, 1560 N Minnewawa Ave Clovis CA US",
+    "ovtr:similarity": 2.3511269092559814,
+    "sg:address": "1560 N Minnewawa Ave",
+    "sg:city": "Clovis",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 327 3000",
-    "sg:postcode":"93619",
-    "sg:province":"CA",
-    "sg:website":"www.buchananband.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923015,
-        102084347,
-        85822067
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 327 3000",
+    "sg:postcode": "93619",
+    "sg:province": "CA",
+    "sg:website": "www.buchananband.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923015,
+      102084347,
+      85822067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43cJqx2iOiBuVg201w7gKd_36.847357_-119.711050@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab8a688c745035bf6ee562d73c5",
+      "sg:id": "SG_43cJqx2iOiBuVg201w7gKd_36.847357_-119.711050@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"91858136310aa777fbabba7289ab5334",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85923015,
-            "neighbourhood_id":85822067,
-            "region_id":85688637,
-            "venue_id":269648367
-        }
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "91858136310aa777fbabba7289ab5334",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85923015,
+        "neighbourhood_id": 85822067,
+        "region_id": 85688637,
+        "venue_id": 269648367
+      }
     ],
-    "wof:id":269648367,
-    "wof:lastmodified":1509200169,
-    "wof:name":"Buchanan High School",
-    "wof:parent_id":85822067,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 269648367,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "Buchanan High School",
+    "wof:parent_id": 85822067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.71105,
     36.847357,
     -119.71105,
     36.847357
-],
+  ],
   "geometry": {"coordinates":[-119.71105,36.847357],"type":"Point"}
 }

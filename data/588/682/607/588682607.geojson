@@ -2,92 +2,96 @@
   "id": 588682607,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 Broadway Sacramento CA 95818",
-    "addr:housenumber":"1401",
-    "addr:postcode":"95818",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.494377,38.562515,-121.494377,38.562515",
-    "geom:latitude":38.562515,
-    "geom:longitude":-121.494377,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1401 Broadway",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1401 Broadway Sacramento CA 95818",
+    "addr:housenumber": "1401",
+    "addr:postcode": "95818",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.494377,38.562515,-121.494377,38.562515",
+    "geom:latitude": 38.562515,
+    "geom:longitude": -121.494377,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Walgreens, 1401 Broadway Sacramento CA US",
+    "ovtr:similarity": 2.7130110263824463,
+    "sg:address": "1401 Broadway",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 440 0953",
-    "sg:postcode":"95818",
-    "sg:province":"CA",
-    "sg:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 440 0953",
+    "sg:postcode": "95818",
+    "sg:province": "CA",
+    "sg:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872169
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872169
     ],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":406512027,
-        "sg:id":"SG_2aY1oUEHqNJyiDfCYte6dL_38.562515_-121.494377@1303263392"
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 406512027,
+      "ovtr:id": "08f2832b02c6c09e0347ecd49770bb81",
+      "sg:id": "SG_2aY1oUEHqNJyiDfCYte6dL_38.562515_-121.494377@1303263392"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e78d2cd56e69740b4a972e62649e92da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872169,
-            "region_id":85688637,
-            "venue_id":588682607
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "e78d2cd56e69740b4a972e62649e92da",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872169,
+        "region_id": 85688637,
+        "venue_id": 588682607
+      }
     ],
-    "wof:id":588682607,
-    "wof:lastmodified":1511322331,
-    "wof:name":"Walgreens",
-    "wof:parent_id":85872169,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "wof:id": 588682607,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 85872169,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ]
-},
+  },
   "bbox": [
     -121.494377,
     38.562515,
     -121.494377,
     38.562515
-],
+  ],
   "geometry": {"coordinates":[-121.494377,38.562515],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 555454055,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Leavesley Rd Gilroy CA 95020",
-    "addr:housenumber":"101",
-    "addr:postcode":"95020",
-    "addr:street":"Leavesley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.573724,37.019652,-121.573724,37.019652",
-    "geom:latitude":37.019652,
-    "geom:longitude":-121.573724,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"101 Leavesley Rd",
-    "sg:city":"Gilroy",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Groceries",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "101 Leavesley Rd Gilroy CA 95020",
+    "addr:housenumber": "101",
+    "addr:postcode": "95020",
+    "addr:street": "Leavesley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.573724,37.019652,-121.573724,37.019652",
+    "geom:latitude": 37.019652,
+    "geom:longitude": -121.573724,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Wheat Valley Bakery, 101 Leavesley Rd Gilroy CA US",
+    "ovtr:similarity": 2.382934093475342,
+    "sg:address": "101 Leavesley Rd",
+    "sg:city": "Gilroy",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Groceries",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 846 7705",
-    "sg:postcode":"95020",
-    "sg:province":"CA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 846 7705",
+    "sg:postcode": "95020",
+    "sg:province": "CA",
+    "sg:tags": [
+      "baker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102081673,
-        85633793,
-        85688637,
-        85831375,
-        85885991
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102081673,
+      85633793,
+      85688637,
+      85831375,
+      85885991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4S8DFld20BdgYNyhyVOiyz_37.019652_-121.573724@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283453020ed6503b4eb534ee3f349",
+      "sg:id": "SG_4S8DFld20BdgYNyhyVOiyz_37.019652_-121.573724@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5a13e846c2650e2766e1e042482e300a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85831375,
-            "region_id":85688637,
-            "venue_id":555454055
-        },
-        {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85885991,
-            "region_id":85688637,
-            "venue_id":555454055
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "5a13e846c2650e2766e1e042482e300a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "neighbourhood_id": 85831375,
+        "region_id": 85688637,
+        "venue_id": 555454055
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "neighbourhood_id": 85885991,
+        "region_id": 85688637,
+        "venue_id": 555454055
+      }
     ],
-    "wof:id":555454055,
-    "wof:lastmodified":1509201397,
-    "wof:name":"Wheat Valley Bakery",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:id": 555454055,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Wheat Valley Bakery",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -121.573724,
     37.019652,
     -121.573724,
     37.019652
-],
+  ],
   "geometry": {"coordinates":[-121.573724,37.019652],"type":"Point"}
 }

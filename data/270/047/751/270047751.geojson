@@ -2,74 +2,78 @@
   "id": 270047751,
   "type": "Feature",
   "properties": {
-    "addr:full":"3712 W 3rd St Los Angeles CA 90020",
-    "addr:housenumber":"3712",
-    "addr:postcode":"90020",
-    "addr:street":"W 3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.297811,34.068953,-118.297811,34.068953",
-    "geom:latitude":34.068953,
-    "geom:longitude":-118.297811,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3712 W 3rd St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "3712 W 3rd St Los Angeles CA 90020",
+    "addr:housenumber": "3712",
+    "addr:postcode": "90020",
+    "addr:street": "W 3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.297811,34.068953,-118.297811,34.068953",
+    "geom:latitude": 34.068953,
+    "geom:longitude": -118.297811,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Studio 555, 3712 W 3rd St Los Angeles CA US",
+    "ovtr:similarity": 2.013468027114868,
+    "sg:address": "3712 W 3rd St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 385 6555",
-    "sg:postcode":"90020",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865819
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 385 6555",
+    "sg:postcode": "90020",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865819
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5oqKQTUYMqHFThUwZKwnsU_34.068953_-118.297811@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d633a0d660372c95bf3f7721b",
+      "sg:id": "SG_5oqKQTUYMqHFThUwZKwnsU_34.068953_-118.297811@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1835c4681e290fe94077ec157f49951b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865819,
-            "region_id":85688637,
-            "venue_id":270047751
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "1835c4681e290fe94077ec157f49951b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865819,
+        "region_id": 85688637,
+        "venue_id": 270047751
+      }
     ],
-    "wof:id":270047751,
-    "wof:lastmodified":1509200202,
-    "wof:name":"Studio 555",
-    "wof:parent_id":85865819,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270047751,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Studio 555",
+    "wof:parent_id": 85865819,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.297811,
     34.068953,
     -118.297811,
     34.068953
-],
+  ],
   "geometry": {"coordinates":[-118.297811,34.068953],"type":"Point"}
 }

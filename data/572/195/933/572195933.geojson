@@ -2,84 +2,88 @@
   "id": 572195933,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Spinnaker Dr Sausalito CA 94965",
-    "addr:housenumber":"100",
-    "addr:postcode":"94965",
-    "addr:street":"Spinnaker Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.479376,37.85715,-122.479376,37.85715",
-    "geom:latitude":37.85715,
-    "geom:longitude":-122.479376,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"100 Spinnaker Dr",
-    "sg:city":"Sausalito",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "100 Spinnaker Dr Sausalito CA 94965",
+    "addr:housenumber": "100",
+    "addr:postcode": "94965",
+    "addr:street": "Spinnaker Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.479376,37.857150,-122.479376,37.857150",
+    "geom:latitude": 37.85715,
+    "geom:longitude": -122.479376,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Spinnaker, 100 Spinnaker Dr Sausalito CA US",
+    "ovtr:similarity": 3.2552731037139893,
+    "sg:address": "100 Spinnaker Dr",
+    "sg:city": "Sausalito",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/southeast-marin/22243-the-spinnaker/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 332 1500",
-    "sg:postcode":"94965",
-    "sg:province":"CA",
-    "sg:tags":[
-        "seafood",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/southeast-marin/22243-the-spinnaker/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 332 1500",
+    "sg:postcode": "94965",
+    "sg:province": "CA",
+    "sg:tags": [
+      "seafood",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921959,
-        102084353,
-        85867349
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921959,
+      102084353,
+      85867349
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":388154189,
-        "sg:id":"SG_3sxPLiVAsj8bBmilsTUM6b_37.857150_-122.479376@1299784598"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 388154189,
+      "ovtr:id": "08f2830855a90299032eff399718ada6",
+      "sg:id": "SG_3sxPLiVAsj8bBmilsTUM6b_37.857150_-122.479376@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"04f081c026821c952476403248e3fd30",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85921959,
-            "neighbourhood_id":85867349,
-            "region_id":85688637,
-            "venue_id":572195933
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "04f081c026821c952476403248e3fd30",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85921959,
+        "neighbourhood_id": 85867349,
+        "region_id": 85688637,
+        "venue_id": 572195933
+      }
     ],
-    "wof:id":572195933,
-    "wof:lastmodified":1510944116,
-    "wof:name":"The Spinnaker",
-    "wof:parent_id":85867349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood",
-        "american"
+    "wof:id": 572195933,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "The Spinnaker",
+    "wof:parent_id": 85867349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood",
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.479376,
     37.85715,
     -122.479376,
     37.85715
-],
+  ],
   "geometry": {"coordinates":[-122.479376,37.85715],"type":"Point"}
 }

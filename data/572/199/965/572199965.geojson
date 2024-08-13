@@ -2,84 +2,88 @@
   "id": 572199965,
   "type": "Feature",
   "properties": {
-    "addr:full":"73 Fair Ln Placerville CA 95667",
-    "addr:housenumber":"73",
-    "addr:postcode":"95667",
-    "addr:street":"Fair Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.831276,38.722417,-120.831276,38.722417",
-    "geom:latitude":38.722417,
-    "geom:longitude":-120.831276,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"73 Fair Ln",
-    "sg:city":"Placerville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "73 Fair Ln Placerville CA 95667",
+    "addr:housenumber": "73",
+    "addr:postcode": "95667",
+    "addr:street": "Fair Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.831276,38.722417,-120.831276,38.722417",
+    "geom:latitude": 38.722417,
+    "geom:longitude": -120.831276,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 73 Fair Ln Placerville CA US",
+    "ovtr:similarity": 3.296437978744507,
+    "sg:address": "73 Fair Ln",
+    "sg:city": "Placerville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/placerville/144661-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 626 2000",
-    "sg:postcode":"95667",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/placerville/144661-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 626 2000",
+    "sg:postcode": "95667",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921761,
-        102086953,
-        85803251
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921761,
+      102086953,
+      85803251
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0cXv0mPckme16GE4DTQl9z_38.722417_-120.831276@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28321a266b6f603d43d3afebcc5c2",
+      "sg:id": "SG_0cXv0mPckme16GE4DTQl9z_38.722417_-120.831276@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fc4dab9fff4c0f7d8291139e3070334a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086953,
-            "locality_id":85921761,
-            "neighbourhood_id":85803251,
-            "region_id":85688637,
-            "venue_id":572199965
-        }
+    "wof:country": "US",
+    "wof:created": 1723561695,
+    "wof:geomhash": "fc4dab9fff4c0f7d8291139e3070334a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086953,
+        "locality_id": 85921761,
+        "neighbourhood_id": 85803251,
+        "region_id": 85688637,
+        "venue_id": 572199965
+      }
     ],
-    "wof:id":572199965,
-    "wof:lastmodified":1511322226,
-    "wof:name":"Subway",
-    "wof:parent_id":85803251,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572199965,
+    "wof:lastmodified": 1723561695,
+    "wof:name": "Subway",
+    "wof:parent_id": 85803251,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -120.831276,
     38.722417,
     -120.831276,
     38.722417
-],
+  ],
   "geometry": {"coordinates":[-120.831276,38.722417],"type":"Point"}
 }

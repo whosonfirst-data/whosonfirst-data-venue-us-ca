@@ -2,82 +2,86 @@
   "id": 588542977,
   "type": "Feature",
   "properties": {
-    "addr:full":"1549 41ST Ave Capitola CA 95010",
-    "addr:housenumber":"1549",
-    "addr:postcode":"95010",
-    "addr:street":"41St Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.964969,36.97158,-121.964969,36.97158",
-    "geom:latitude":36.97158,
-    "geom:longitude":-121.964969,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1549 41ST Ave",
-    "sg:city":"Capitola",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1549 41ST Ave Capitola CA 95010",
+    "addr:housenumber": "1549",
+    "addr:postcode": "95010",
+    "addr:street": "41St Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.964969,36.971580,-121.964969,36.971580",
+    "geom:latitude": 36.97158,
+    "geom:longitude": -121.964969,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "IHOP, 1549 41st Ave Capitola CA US",
+    "ovtr:similarity": 2.3126440048217773,
+    "sg:address": "1549 41ST Ave",
+    "sg:city": "Capitola",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 475 0540",
-    "sg:postcode":"95010",
-    "sg:province":"CA",
-    "sg:tags":[
-        "diner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 475 0540",
+    "sg:postcode": "95010",
+    "sg:province": "CA",
+    "sg:tags": [
+      "diner"
     ],
-    "sg:website":"www.ihop.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85924281,
-        102087581,
-        85880717
+    "sg:website": "www.ihop.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85924281,
+      102087581,
+      85880717
     ],
-    "wof:brand_id":1125148709,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5iUWTVjAQ9trajGoltKNse_36.971580_-121.964969@1303263356"
+    "wof:brand_id": 1125148709,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28341a62ed328032442baa5abf99f",
+      "sg:id": "SG_5iUWTVjAQ9trajGoltKNse_36.971580_-121.964969@1303263356"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bf3ed1cd92c72ca07cd878658de07002",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087581,
-            "locality_id":85924281,
-            "neighbourhood_id":85880717,
-            "region_id":85688637,
-            "venue_id":588542977
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "bf3ed1cd92c72ca07cd878658de07002",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087581,
+        "locality_id": 85924281,
+        "neighbourhood_id": 85880717,
+        "region_id": 85688637,
+        "venue_id": 588542977
+      }
     ],
-    "wof:id":588542977,
-    "wof:lastmodified":1511318871,
-    "wof:name":"IHOP",
-    "wof:parent_id":85880717,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "diner"
+    "wof:id": 588542977,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "IHOP",
+    "wof:parent_id": 85880717,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "diner"
     ]
-},
+  },
   "bbox": [
     -121.964969,
     36.97158,
     -121.964969,
     36.97158
-],
+  ],
   "geometry": {"coordinates":[-121.964969,36.97158],"type":"Point"}
 }

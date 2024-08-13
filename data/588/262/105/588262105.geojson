@@ -2,77 +2,81 @@
   "id": 588262105,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 N Harbor Blvd Fullerton CA 92832",
-    "addr:housenumber":"315",
-    "addr:postcode":"92832",
-    "addr:street":"N Harbor Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.924004,33.872398,-117.924004,33.872398",
-    "geom:latitude":33.872398,
-    "geom:longitude":-117.924004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"315 N Harbor Blvd",
-    "sg:city":"Fullerton",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "315 N Harbor Blvd Fullerton CA 92832",
+    "addr:housenumber": "315",
+    "addr:postcode": "92832",
+    "addr:street": "N Harbor Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.924004,33.872398,-117.924004,33.872398",
+    "geom:latitude": 33.872398,
+    "geom:longitude": -117.924004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Farmers \u0026 Merchants Bank, 315 N Harbor Blvd Fullerton CA US",
+    "ovtr:similarity": 2.2217330932617188,
+    "sg:address": "315 N Harbor Blvd",
+    "sg:city": "Fullerton",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 578 1945",
-    "sg:postcode":"92832",
-    "sg:province":"CA",
-    "sg:website":"www.fmb.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923145,
-        102080847,
-        85877585
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 578 1945",
+    "sg:postcode": "92832",
+    "sg:province": "CA",
+    "sg:website": "www.fmb.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923145,
+      102080847,
+      85877585
     ],
-    "wof:brand_id":1125152939,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5PeUf8afJAJ9xBI3mfFfw9_33.872398_-117.924004@1303263283"
+    "wof:brand_id": 1125152939,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a668b308003772a7f50e13f02",
+      "sg:id": "SG_5PeUf8afJAJ9xBI3mfFfw9_33.872398_-117.924004@1303263283"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a60297e4920aa967b7ca4714c79cdc40",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923145,
-            "neighbourhood_id":85877585,
-            "region_id":85688637,
-            "venue_id":588262105
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "a60297e4920aa967b7ca4714c79cdc40",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923145,
+        "neighbourhood_id": 85877585,
+        "region_id": 85688637,
+        "venue_id": 588262105
+      }
     ],
-    "wof:id":588262105,
-    "wof:lastmodified":1510697467,
-    "wof:name":"Farmers & Merchants Bank",
-    "wof:parent_id":85877585,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588262105,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Farmers \u0026 Merchants Bank",
+    "wof:parent_id": 85877585,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.924004,
     33.872398,
     -117.924004,
     33.872398
-],
+  ],
   "geometry": {"coordinates":[-117.924004,33.872398],"type":"Point"}
 }

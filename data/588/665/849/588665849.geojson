@@ -2,81 +2,85 @@
   "id": 588665849,
   "type": "Feature",
   "properties": {
-    "addr:full":"1021 R St Sacramento CA 95811",
-    "addr:housenumber":"1021",
-    "addr:postcode":"95811",
-    "addr:street":"R St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.496616,38.571312,-121.496616,38.571312",
-    "geom:latitude":38.571312,
-    "geom:longitude":-121.496616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1021 R St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Tea Room",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1021 R St Sacramento CA 95811",
+    "addr:housenumber": "1021",
+    "addr:postcode": "95811",
+    "addr:street": "R St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.496616,38.571312,-121.496616,38.571312",
+    "geom:latitude": 38.571312,
+    "geom:longitude": -121.496616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tea Cozy, 1021 R St Sacramento CA US",
+    "ovtr:similarity": 2.0778470039367676,
+    "sg:address": "1021 R St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Tea Room",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 441 3546",
-    "sg:postcode":"95811",
-    "sg:province":"CA",
-    "sg:website":"www.tea-cozy.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872169
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 441 3546",
+    "sg:postcode": "95811",
+    "sg:province": "CA",
+    "sg:website": "www.tea-cozy.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872169
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Xyss8iAghlAc4qJV3aSeG_38.571312_-121.496616@1303263387"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b020dc8c0036aa3a2743ca172",
+      "sg:id": "SG_6Xyss8iAghlAc4qJV3aSeG_38.571312_-121.496616@1303263387"
     },
-    "wof:country":"US",
-    "wof:geomhash":"359cb1a344525bc09bbafd32ecaa6bb4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872169,
-            "region_id":85688637,
-            "venue_id":588665849
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "359cb1a344525bc09bbafd32ecaa6bb4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872169,
+        "region_id": 85688637,
+        "venue_id": 588665849
+      }
     ],
-    "wof:id":588665849,
-    "wof:lastmodified":1509202202,
-    "wof:name":"Tea Cozy",
-    "wof:parent_id":85872169,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588665849,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Tea Cozy",
+    "wof:parent_id": 85872169,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.496616,
     38.571312,
     -121.496616,
     38.571312
-],
+  ],
   "geometry": {"coordinates":[-121.496616,38.571312],"type":"Point"}
 }

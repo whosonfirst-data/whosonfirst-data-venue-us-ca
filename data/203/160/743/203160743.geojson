@@ -2,82 +2,86 @@
   "id": 203160743,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 3rd St San Rafael CA 94901",
-    "addr:housenumber":"340",
-    "addr:postcode":"94901",
-    "addr:street":"3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.517225,37.970725,-122.517225,37.970725",
-    "geom:latitude":37.970725,
-    "geom:longitude":-122.517225,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"340 3rd St",
-    "sg:city":"San Rafael",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "340 3rd St San Rafael CA 94901",
+    "addr:housenumber": "340",
+    "addr:postcode": "94901",
+    "addr:street": "3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.517225,37.970725,-122.517225,37.970725",
+    "geom:latitude": 37.970725,
+    "geom:longitude": -122.517225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Whole Foods Market, 340 3rd St San Rafael CA US",
+    "ovtr:similarity": 3.118135929107666,
+    "sg:address": "340 3rd St",
+    "sg:city": "San Rafael",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 451 6333",
-    "sg:postcode":"94901",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 451 6333",
+    "sg:postcode": "94901",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.wholefoods.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922003,
-        102084353,
-        85887921
+    "sg:website": "www.wholefoods.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922003,
+      102084353,
+      85887921
     ],
-    "wof:brand_id":1125150113,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0YwG7xJ8IhvM5rjQxV252d_37.970725_-122.517225@1294081369"
+    "wof:brand_id": 1125150113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830ba24f0564032609a1eb402cba",
+      "sg:id": "SG_0YwG7xJ8IhvM5rjQxV252d_37.970725_-122.517225@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4c1241d05285da7f5dd8a441a2fe53ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922003,
-            "neighbourhood_id":85887921,
-            "region_id":85688637,
-            "venue_id":203160743
-        }
+    "wof:country": "US",
+    "wof:created": 1723561695,
+    "wof:geomhash": "4c1241d05285da7f5dd8a441a2fe53ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922003,
+        "neighbourhood_id": 85887921,
+        "region_id": 85688637,
+        "venue_id": 203160743
+      }
     ],
-    "wof:id":203160743,
-    "wof:lastmodified":1510697248,
-    "wof:name":"Whole Foods Market",
-    "wof:parent_id":85887921,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 203160743,
+    "wof:lastmodified": 1723561695,
+    "wof:name": "Whole Foods Market",
+    "wof:parent_id": 85887921,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.517225,
     37.970725,
     -122.517225,
     37.970725
-],
+  ],
   "geometry": {"coordinates":[-122.517225,37.970725],"type":"Point"}
 }

@@ -2,64 +2,72 @@
   "id": 588537181,
   "type": "Feature",
   "properties": {
-    "addr:full":"10404 Soquel Dr Aptos CA 95003",
-    "addr:housenumber":"10404",
-    "addr:postcode":"ca 95003",
-    "addr:street":"Soquel Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.871737,36.970362,-121.871737,36.970362",
-    "geom:latitude":36.970362,
-    "geom:longitude":-121.871737,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10404 Soquel Dr",
-    "sg:city":"Aptos",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "10404 Soquel Dr Aptos CA 95003",
+    "addr:housenumber": "10404",
+    "addr:postcode": "ca 95003",
+    "addr:street": "Soquel Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.871737,36.970362,-121.871737,36.970362",
+    "geom:latitude": 36.970362,
+    "geom:longitude": -121.871737,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Aptos-Creekside Pet Hospital, 10404 Soquel Dr Aptos CA US",
+    "ovtr:similarity": 1.8339929580688477,
+    "sg:address": "10404 Soquel Dr",
+    "sg:city": "Aptos",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 688 4242",
-    "sg:postcode":"95003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 688 4242",
+    "sg:postcode": "95003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"aptos-creeksidepets.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0vUDEIUjkYPB5MnJdyK00B_36.970362_-121.871737@1303263354"
+    "sg:website": "aptos-creeksidepets.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834ceba422f20349a98d1fd88335",
+      "sg:id": "SG_0vUDEIUjkYPB5MnJdyK00B_36.970362_-121.871737@1303263354"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b6563bc2a0aac82827a1b929cbb5518c",
-    "wof:hierarchy":[],
-    "wof:id":588537181,
-    "wof:lastmodified":1509202123,
-    "wof:name":"Aptos-Creekside Pet Hospital",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "b6563bc2a0aac82827a1b929cbb5518c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588537181
+      }
+    ],
+    "wof:id": 588537181,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Aptos-Creekside Pet Hospital",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -121.871737,
     36.970362,
     -121.871737,
     36.970362
-],
+  ],
   "geometry": {"coordinates":[-121.871737,36.970362],"type":"Point"}
 }

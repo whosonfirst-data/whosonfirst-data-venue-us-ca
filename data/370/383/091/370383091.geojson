@@ -2,77 +2,81 @@
   "id": 370383091,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 E Century Boulevard Los Angeles CA 90003",
-    "addr:housenumber":"100",
-    "addr:postcode":"90003",
-    "addr:street":"E Century Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.273765,33.945464,-118.273765,33.945464",
-    "geom:latitude":33.945464,
-    "geom:longitude":-118.273765,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"100 E Century Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Nail Salon",
-            "type":"Services"
-        }
+    "addr:full": "100 E Century Boulevard Los Angeles CA 90003",
+    "addr:housenumber": "100",
+    "addr:postcode": "90003",
+    "addr:street": "E Century Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.273765,33.945464,-118.273765,33.945464",
+    "geom:latitude": 33.945464,
+    "geom:longitude": -118.273765,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "On La Nails, 100 E Century Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.625977039337158,
+    "sg:address": "100 E Century Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Nail Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 756 1620",
-    "sg:postcode":"90003",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85868337",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 756 1620",
+    "sg:postcode": "90003",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85868337
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_23fczduw6GAPCfgJ9wFFOt_33.945464_-118.273765@1303263145"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c02006e003873295dde74b2f",
+      "sg:id": "SG_23fczduw6GAPCfgJ9wFFOt_33.945464_-118.273765@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"66bc412584342290624c0d1791c20c0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85868337",
-            "region_id":85688637,
-            "venue_id":370383091
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "66bc412584342290624c0d1791c20c0c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85868337,
+        "region_id": 85688637,
+        "venue_id": 370383091
+      }
     ],
-    "wof:id":370383091,
-    "wof:lastmodified":1509200726,
-    "wof:name":"On La Nails",
-    "wof:parent_id":"85868337",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370383091,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "On La Nails",
+    "wof:parent_id": "85868337",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.273765,
     33.945464,
     -118.273765,
     33.945464
-],
+  ],
   "geometry": {"coordinates":[-118.273765,33.945464],"type":"Point"}
 }

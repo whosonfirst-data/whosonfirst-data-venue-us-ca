@@ -2,82 +2,86 @@
   "id": 387132907,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 N E St Madera CA 93638",
-    "addr:housenumber":"123",
-    "addr:postcode":"93638",
-    "addr:street":"N E St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.060231,36.96268,-120.060231,36.96268",
-    "geom:latitude":36.96268,
-    "geom:longitude":-120.060231,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"123 N E St",
-    "sg:city":"Madera",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "123 N E St Madera CA 93638",
+    "addr:housenumber": "123",
+    "addr:postcode": "93638",
+    "addr:street": "N E St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.060231,36.962680,-120.060231,36.962680",
+    "geom:latitude": 36.96268,
+    "geom:longitude": -120.060231,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Greyhound Bus, 123 N E St Madera CA US",
+    "ovtr:similarity": 3.6937789916992188,
+    "sg:address": "123 N E St",
+    "sg:city": "Madera",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 674 4664",
-    "sg:postcode":"93638",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 674 4664",
+    "sg:postcode": "93638",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922995,
-        102084347,
-        85824691
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922995,
+      102084347,
+      85824691
     ],
-    "wof:brand_id":420574441,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1MRk5mkaBBVxUnYYoDsnhy_36.962680_-120.060231@1294081369"
+    "wof:brand_id": 420574441,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab85d72eb7303c76c90baad71b0",
+      "sg:id": "SG_1MRk5mkaBBVxUnYYoDsnhy_36.962680_-120.060231@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e19f832bb258a719c71a7ff761e2d1ce",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85824691,
-            "region_id":85688637,
-            "venue_id":387132907
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "e19f832bb258a719c71a7ff761e2d1ce",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85824691,
+        "region_id": 85688637,
+        "venue_id": 387132907
+      }
     ],
-    "wof:id":387132907,
-    "wof:lastmodified":1509200962,
-    "wof:name":"Greyhound Bus Lines",
-    "wof:parent_id":85824691,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:id": 387132907,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Greyhound Bus Lines",
+    "wof:parent_id": 85824691,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -120.060231,
     36.96268,
     -120.060231,
     36.96268
-],
+  ],
   "geometry": {"coordinates":[-120.060231,36.96268],"type":"Point"}
 }

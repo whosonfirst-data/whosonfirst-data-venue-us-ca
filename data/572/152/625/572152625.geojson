@@ -2,84 +2,88 @@
   "id": 572152625,
   "type": "Feature",
   "properties": {
-    "addr:full":"1412 W 1st St Santa Ana CA 92703",
-    "addr:housenumber":"1412",
-    "addr:postcode":"92703",
-    "addr:street":"W 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.888,33.745499,-117.888,33.745499",
-    "geom:latitude":33.745499,
-    "geom:longitude":-117.888,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1412 W 1st St",
-    "sg:city":"Santa Ana",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1412 W 1st St Santa Ana CA 92703",
+    "addr:housenumber": "1412",
+    "addr:postcode": "92703",
+    "addr:street": "W 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.888000,33.745499,-117.888000,33.745499",
+    "geom:latitude": 33.745499,
+    "geom:longitude": -117.888,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Toreo Liquor, 1412 W 1st St Santa Ana CA US",
+    "ovtr:similarity": 2.003933906555176,
+    "sg:address": "1412 W 1st St",
+    "sg:city": "Santa Ana",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 667 6801",
-    "sg:postcode":"92703",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 667 6801",
+    "sg:postcode": "92703",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923049,
-        102080847,
-        85866805
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923049,
+      102080847,
+      85866805
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Rpmzb15ChgWnu1Mvj67cC_33.745365_-117.888284@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b71d9614e0325b9ae34b2172a",
+      "sg:id": "SG_7Rpmzb15ChgWnu1Mvj67cC_33.745365_-117.888284@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5e0d91506ca1a8f43afe03cd49458845",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":85866805,
-            "region_id":85688637,
-            "venue_id":572152625
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "5e0d91506ca1a8f43afe03cd49458845",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 85866805,
+        "region_id": 85688637,
+        "venue_id": 572152625
+      }
     ],
-    "wof:id":572152625,
-    "wof:lastmodified":1509201709,
-    "wof:name":"El Toreo Liquor",
-    "wof:parent_id":85866805,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572152625,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "El Toreo Liquor",
+    "wof:parent_id": 85866805,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -117.888,
     33.745499,
     -117.888,
     33.745499
-],
-  "geometry": {"coordinates":[-117.88800000000001,33.745499],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.888,33.745499],"type":"Point"}
 }

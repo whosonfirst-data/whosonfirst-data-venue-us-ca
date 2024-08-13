@@ -2,83 +2,87 @@
   "id": 370468987,
   "type": "Feature",
   "properties": {
-    "addr:full":"3339 W 43rd St Los Angeles CA 90008",
-    "addr:housenumber":"3339",
-    "addr:postcode":"90008",
-    "addr:street":"W 43Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.330002,34.005901,-118.330002,34.005901",
-    "geom:latitude":34.005901,
-    "geom:longitude":-118.330002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3339 W 43rd St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Music",
-            "type":"Entertainment"
-        }
+    "addr:full": "3339 W 43rd St Los Angeles CA 90008",
+    "addr:housenumber": "3339",
+    "addr:postcode": "90008",
+    "addr:street": "W 43Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.330002,34.005901,-118.330002,34.005901",
+    "geom:latitude": 34.005901,
+    "geom:longitude": -118.330002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Regency West, 3339 W 43rd St Los Angeles CA US",
+    "ovtr:similarity": 2.3867859840393066,
+    "sg:address": "3339 W 43rd St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Music",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 292 5143",
-    "sg:postcode":"90008",
-    "sg:province":"CA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 292 5143",
+    "sg:postcode": "90008",
+    "sg:province": "CA",
+    "sg:tags": [
+      "venue"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420780759",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420780759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000305258-0001-2",
-        "sg:id":"SG_6rusCRXI1VMj5gk9vlCCN6_34.005901_-118.330002@1303263147"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000305258-0001-2",
+      "ovtr:id": "08f29a56cba6a492038d83339bc13630",
+      "sg:id": "SG_6rusCRXI1VMj5gk9vlCCN6_34.005901_-118.330002@1303263147"
     },
-    "wof:country":"US",
-    "wof:geomhash":"721d9135a433fbc3f47b3d899e522394",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420780759",
-            "region_id":85688637,
-            "venue_id":370468987
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "721d9135a433fbc3f47b3d899e522394",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420780759,
+        "region_id": 85688637,
+        "venue_id": 370468987
+      }
     ],
-    "wof:id":370468987,
-    "wof:lastmodified":1509200745,
-    "wof:name":"Regency West",
-    "wof:parent_id":"420780759",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 370468987,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Regency West",
+    "wof:parent_id": "420780759",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -118.330002,
     34.005901,
     -118.330002,
     34.005901
-],
-  "geometry": {"coordinates":[-118.33000199999999,34.005901],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.330002,34.005901],"type":"Point"}
 }

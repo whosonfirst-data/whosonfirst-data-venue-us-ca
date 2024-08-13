@@ -2,79 +2,83 @@
   "id": 286585365,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 Valencia Ave San Bernardino CA 92404",
-    "addr:housenumber":"1300",
-    "addr:postcode":"92404",
-    "addr:street":"Valencia Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.272021,34.123126,-117.272021,34.123126",
-    "geom:latitude":34.123126,
-    "geom:longitude":-117.272021,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1300 Valencia Ave",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1300 Valencia Ave San Bernardino CA 92404",
+    "addr:housenumber": "1300",
+    "addr:postcode": "92404",
+    "addr:street": "Valencia Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.272021,34.123126,-117.272021,34.123126",
+    "geom:latitude": 34.123126,
+    "geom:longitude": -117.272021,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bradley Elementary School, 1300 Valencia Ave San Bernardino CA US",
+    "ovtr:similarity": 2.356204032897949,
+    "sg:address": "1300 Valencia Ave",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 388 6317",
-    "sg:postcode":"92404",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 388 6317",
+    "sg:postcode": "92404",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85853365
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85853365
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TdkiG89RrQk7Jpci1oDql_34.123126_-117.272021@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00c50cec9e03c4350fc660d5df",
+      "sg:id": "SG_2TdkiG89RrQk7Jpci1oDql_34.123126_-117.272021@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1c8b9f18a296d29c302d2be49bc32701",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85853365,
-            "region_id":85688637,
-            "venue_id":286585365
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "1c8b9f18a296d29c302d2be49bc32701",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85853365,
+        "region_id": 85688637,
+        "venue_id": 286585365
+      }
     ],
-    "wof:id":286585365,
-    "wof:lastmodified":1509200267,
-    "wof:name":"Bradley Elementary School",
-    "wof:parent_id":85853365,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 286585365,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Bradley Elementary School",
+    "wof:parent_id": 85853365,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -117.272021,
     34.123126,
     -117.272021,
     34.123126
-],
+  ],
   "geometry": {"coordinates":[-117.272021,34.123126],"type":"Point"}
 }

@@ -2,74 +2,78 @@
   "id": 571617049,
   "type": "Feature",
   "properties": {
-    "addr:full":"2635 N Texas St Fairfield CA 94533",
-    "addr:housenumber":"2635",
-    "addr:postcode":"94533",
-    "addr:street":"N Texas St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.034276,38.274651,-122.034276,38.274651",
-    "geom:latitude":38.274651,
-    "geom:longitude":-122.034276,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2635 N Texas St",
-    "sg:city":"Fairfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2635 N Texas St Fairfield CA 94533",
+    "addr:housenumber": "2635",
+    "addr:postcode": "94533",
+    "addr:street": "N Texas St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.034276,38.274651,-122.034276,38.274651",
+    "geom:latitude": 38.274651,
+    "geom:longitude": -122.034276,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chicken Express, 2285 N Texas St Fairfield CA US",
+    "ovtr:similarity": 2.488306999206543,
+    "sg:address": "2635 N Texas St",
+    "sg:city": "Fairfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 422 2310",
-    "sg:postcode":"94533",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922653,
-        102087589,
-        85852313
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 422 2310",
+    "sg:postcode": "94533",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922653,
+      102087589,
+      85852313
     ],
-    "wof:brand_id":1125150793,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_23ysX30cXLEorKfrTiSHrP_38.274651_-122.034276@1294081369"
+    "wof:brand_id": 1125150793,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28300842c075d0352276f7ea6a427",
+      "sg:id": "SG_23ysX30cXLEorKfrTiSHrP_38.274651_-122.034276@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f162e6d0d982a3a4d278d89a3c5a0b48",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087589,
-            "locality_id":85922653,
-            "neighbourhood_id":85852313,
-            "region_id":85688637,
-            "venue_id":571617049
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "f162e6d0d982a3a4d278d89a3c5a0b48",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102087589,
+        "locality_id": 85922653,
+        "neighbourhood_id": 85852313,
+        "region_id": 85688637,
+        "venue_id": 571617049
+      }
     ],
-    "wof:id":571617049,
-    "wof:lastmodified":1511319075,
-    "wof:name":"Chicken Express",
-    "wof:parent_id":85852313,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571617049,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Chicken Express",
+    "wof:parent_id": 85852313,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.034276,
     38.274651,
     -122.034276,
     38.274651
-],
-  "geometry": {"coordinates":[-122.03427600000001,38.274651],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.034276,38.274651],"type":"Point"}
 }

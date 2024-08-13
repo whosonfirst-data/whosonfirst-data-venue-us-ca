@@ -2,87 +2,91 @@
   "id": 588408251,
   "type": "Feature",
   "properties": {
-    "addr:full":"350 Parnassus Ave #100 San Francisco CA 94117",
-    "addr:housenumber":"350",
-    "addr:postcode":"94117",
-    "addr:street":"Parnassus Ave # 100",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.456249,37.764217,-122.456249,37.764217",
-    "geom:latitude":37.764217,
-    "geom:longitude":-122.456249,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"350 Parnassus Ave #100",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "350 Parnassus Ave #100 San Francisco CA 94117",
+    "addr:housenumber": "350",
+    "addr:postcode": "94117",
+    "addr:street": "Parnassus Ave # 100",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.456249,37.764217,-122.456249,37.764217",
+    "geom:latitude": 37.764217,
+    "geom:longitude": -122.456249,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Parnassus Heights Pharmacy, 350 Parnassus Ave San Francisco CA US",
+    "ovtr:similarity": 3.257560968399048,
+    "sg:address": "350 Parnassus Ave #100",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 564 9191",
-    "sg:postcode":"94117",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet",
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 564 9191",
+    "sg:postcode": "94117",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet",
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865957
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7j9uGnotMh2a83eObmqPrQ_37.764217_-122.456249@1303263320"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283095aca6d2b03dee41067f2f7e7",
+      "sg:id": "SG_7j9uGnotMh2a83eObmqPrQ_37.764217_-122.456249@1303263320"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8f204b824ac65e4e53b17ed3f41f6220",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865957,
-            "region_id":85688637,
-            "venue_id":588408251
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "8f204b824ac65e4e53b17ed3f41f6220",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865957,
+        "region_id": 85688637,
+        "venue_id": 588408251
+      }
     ],
-    "wof:id":588408251,
-    "wof:lastmodified":1509202046,
-    "wof:name":"Parnassus Heights Pharmacy",
-    "wof:parent_id":85865957,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "drugstore"
+    "wof:id": 588408251,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Parnassus Heights Pharmacy",
+    "wof:parent_id": 85865957,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -122.456249,
     37.764217,
     -122.456249,
     37.764217
-],
+  ],
   "geometry": {"coordinates":[-122.456249,37.764217],"type":"Point"}
 }

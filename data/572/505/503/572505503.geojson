@@ -2,88 +2,92 @@
   "id": 572505503,
   "type": "Feature",
   "properties": {
-    "addr:full":"1526 S Flower St Santa Ana CA 92707",
-    "addr:housenumber":"1526",
-    "addr:postcode":"92707",
-    "addr:street":"S Flower St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.876999,33.7267,-117.876999,33.7267",
-    "geom:latitude":33.7267,
-    "geom:longitude":-117.876999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1526 S Flower St",
-    "sg:city":"Santa Ana",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1526 S Flower St Santa Ana CA 92707",
+    "addr:housenumber": "1526",
+    "addr:postcode": "92707",
+    "addr:street": "S Flower St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.876999,33.726700,-117.876999,33.726700",
+    "geom:latitude": 33.7267,
+    "geom:longitude": -117.876999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Giovanni's Pizza, 1526 S Flower St Santa Ana CA US",
+    "ovtr:similarity": 2.5679891109466553,
+    "sg:address": "1526 S Flower St",
+    "sg:city": "Santa Ana",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 557 0900",
-    "sg:postcode":"92707",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 557 0900",
+    "sg:postcode": "92707",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923049,
-        102080847,
-        85866805
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923049,
+      102080847,
+      85866805
     ],
-    "wof:brand_id":1125154999,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7gSF8qHr94a5IOZtMDHPRO_33.726700_-117.876999@1303263276"
+    "wof:brand_id": 1125154999,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b742b2cf603319b5ba1f66ee3",
+      "sg:id": "SG_7gSF8qHr94a5IOZtMDHPRO_33.726700_-117.876999@1303263276"
     },
-    "wof:country":"US",
-    "wof:geomhash":"750f5b5c03cec0bb21867a747390ba9e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":85866805,
-            "region_id":85688637,
-            "venue_id":572505503
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "750f5b5c03cec0bb21867a747390ba9e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 85866805,
+        "region_id": 85688637,
+        "venue_id": 572505503
+      }
     ],
-    "wof:id":572505503,
-    "wof:lastmodified":1510698770,
-    "wof:name":"Giovanni's Pizza",
-    "wof:parent_id":85866805,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich",
-        "pizza"
+    "wof:id": 572505503,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Giovanni's Pizza",
+    "wof:parent_id": 85866805,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -117.876999,
     33.7267,
     -117.876999,
     33.7267
-],
+  ],
   "geometry": {"coordinates":[-117.876999,33.7267],"type":"Point"}
 }

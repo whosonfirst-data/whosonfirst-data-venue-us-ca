@@ -2,82 +2,86 @@
   "id": 572289421,
   "type": "Feature",
   "properties": {
-    "addr:full":"12110 Central Ave Chino CA 91710",
-    "addr:housenumber":"",
-    "addr:postcode":"12110;91710",
-    "addr:street":"Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.689555,34.032854,-117.689555,34.032854",
-    "geom:latitude":34.032854,
-    "geom:longitude":-117.689555,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12110 Central Ave",
-    "sg:city":"Chino",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12110 Central Ave Chino CA 91710",
+    "addr:housenumber": "",
+    "addr:postcode": "12110;91710",
+    "addr:street": "Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.689555,34.032854,-117.689555,34.032854",
+    "geom:latitude": 34.032854,
+    "geom:longitude": -117.689555,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chevron Chino, 12110 Central Ave Chino CA US",
+    "ovtr:similarity": 3.6125850677490234,
+    "sg:address": "12110 Central Ave",
+    "sg:city": "Chino",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 591 1051",
-    "sg:postcode":"91710",
-    "sg:province":"CA",
-    "sg:website":"http://www.chevron.com/products/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923923,
-        102085395,
-        85851611
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 591 1051",
+    "sg:postcode": "91710",
+    "sg:province": "CA",
+    "sg:website": "http://www.chevron.com/products/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923923,
+      102085395,
+      85851611
     ],
-    "wof:brand_id":420574043,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hvG7Rt1edDQGgt6A24cZu_34.032854_-117.689555@1303263223"
+    "wof:brand_id": 420574043,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ad438b20003eb1b3a66e7cf91",
+      "sg:id": "SG_0hvG7Rt1edDQGgt6A24cZu_34.032854_-117.689555@1303263223"
     },
-    "wof:country":"US",
-    "wof:geomhash":"acb43313a580abdbd50a43363d65fe5f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923923,
-            "neighbourhood_id":85851611,
-            "region_id":85688637,
-            "venue_id":572289421
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "acb43313a580abdbd50a43363d65fe5f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923923,
+        "neighbourhood_id": 85851611,
+        "region_id": 85688637,
+        "venue_id": 572289421
+      }
     ],
-    "wof:id":572289421,
-    "wof:lastmodified":1511324636,
-    "wof:name":"Chevron",
-    "wof:parent_id":85851611,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572289421,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Chevron",
+    "wof:parent_id": 85851611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.689555,
     34.032854,
     -117.689555,
     34.032854
-],
+  ],
   "geometry": {"coordinates":[-117.689555,34.032854],"type":"Point"}
 }

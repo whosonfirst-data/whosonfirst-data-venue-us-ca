@@ -2,87 +2,91 @@
   "id": 588415069,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 Marina Blvd San Francisco CA 94123",
-    "addr:housenumber":"700",
-    "addr:postcode":"94123",
-    "addr:street":"Marina Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.445672,37.805401,-122.445672,37.805401",
-    "geom:latitude":37.805401,
-    "geom:longitude":-122.445672,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"700 Marina Blvd",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"Boat Charter",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "700 Marina Blvd San Francisco CA 94123",
+    "addr:housenumber": "700",
+    "addr:postcode": "94123",
+    "addr:street": "Marina Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.445672,37.805401,-122.445672,37.805401",
+    "geom:latitude": 37.805401,
+    "geom:longitude": -122.445672,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "St. Francis Yacht Club, 700 Marina Blvd San Francisco CA US",
+    "ovtr:similarity": 3.007085084915161,
+    "sg:address": "700 Marina Blvd",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Boat Charter",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 563 6363",
-    "sg:postcode":"94123",
-    "sg:province":"CA",
-    "sg:tags":[
-        "boating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 563 6363",
+    "sg:postcode": "94123",
+    "sg:province": "CA",
+    "sg:tags": [
+      "boating"
     ],
-    "sg:website":"www.stfyc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85832447
+    "sg:website": "www.stfyc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85832447
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0351142-01-001",
-        "sg:id":"SG_399OS1JRPFPlHOXyAutqPA_37.805401_-122.445672@1303263322"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283087605373103c29d0115618044",
+      "sfgov_rbl:id": "0351142-01-001",
+      "sg:id": "SG_399OS1JRPFPlHOXyAutqPA_37.805401_-122.445672@1303263322"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8efce2037ede4c158d32781b568a32c8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85832447,
-            "region_id":85688637,
-            "venue_id":588415069
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "8efce2037ede4c158d32781b568a32c8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85832447,
+        "region_id": 85688637,
+        "venue_id": 588415069
+      }
     ],
-    "wof:id":588415069,
-    "wof:lastmodified":1509202050,
-    "wof:name":"St. Francis Yacht Club",
-    "wof:parent_id":85832447,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boating"
+    "wof:id": 588415069,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "St. Francis Yacht Club",
+    "wof:parent_id": 85832447,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boating"
     ]
-},
+  },
   "bbox": [
     -122.445672,
     37.805401,
     -122.445672,
     37.805401
-],
+  ],
   "geometry": {"coordinates":[-122.445672,37.805401],"type":"Point"}
 }

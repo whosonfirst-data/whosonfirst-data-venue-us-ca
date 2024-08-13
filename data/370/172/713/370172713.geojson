@@ -2,79 +2,83 @@
   "id": 370172713,
   "type": "Feature",
   "properties": {
-    "addr:full":"1127 Nadeau St Los Angeles CA 90001",
-    "addr:housenumber":"1127",
-    "addr:postcode":"90001",
-    "addr:street":"Nadeau St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.255689,33.967548,-118.255689,33.967548",
-    "geom:latitude":33.967548,
-    "geom:longitude":-118.255689,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1127 Nadeau St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1127 Nadeau St Los Angeles CA 90001",
+    "addr:housenumber": "1127",
+    "addr:postcode": "90001",
+    "addr:street": "Nadeau St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.255689,33.967548,-118.255689,33.967548",
+    "geom:latitude": 33.967548,
+    "geom:longitude": -118.255689,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Nadeau Street Church of God, 1127 Nadeau St Los Angeles CA US",
+    "ovtr:similarity": 3.103174924850464,
+    "sg:address": "1127 Nadeau St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 582 1598",
-    "sg:postcode":"90001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 582 1598",
+    "sg:postcode": "90001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928335,
-        102086957,
-        85819643
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928335,
+      102086957,
+      85819643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6sfanW5ASSCrNn3yGR83Wx_33.967548_-118.255689@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c34d0348033f4ce9d8ce2db7",
+      "sg:id": "SG_6sfanW5ASSCrNn3yGR83Wx_33.967548_-118.255689@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"51a9d4e84000af92eaa80c02cc2a4481",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928335,
-            "neighbourhood_id":85819643,
-            "region_id":85688637,
-            "venue_id":370172713
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "51a9d4e84000af92eaa80c02cc2a4481",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928335,
+        "neighbourhood_id": 85819643,
+        "region_id": 85688637,
+        "venue_id": 370172713
+      }
     ],
-    "wof:id":370172713,
-    "wof:lastmodified":1509200694,
-    "wof:name":"Nadeau Street Church Of God",
-    "wof:parent_id":85819643,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 370172713,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Nadeau Street Church Of God",
+    "wof:parent_id": 85819643,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.255689,
     33.967548,
     -118.255689,
     33.967548
-],
+  ],
   "geometry": {"coordinates":[-118.255689,33.967548],"type":"Point"}
 }

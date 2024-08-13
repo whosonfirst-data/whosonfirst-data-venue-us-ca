@@ -2,84 +2,88 @@
   "id": 370929365,
   "type": "Feature",
   "properties": {
-    "addr:full":"9824 National Blvd Los Angeles CA 90034",
-    "addr:housenumber":"9824",
-    "addr:postcode":"90034",
-    "addr:street":"National Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.400002,34.0313,-118.400002,34.0313",
-    "geom:latitude":34.0313,
-    "geom:longitude":-118.400002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9824 National Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "9824 National Blvd Los Angeles CA 90034",
+    "addr:housenumber": "9824",
+    "addr:postcode": "90034",
+    "addr:street": "National Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.400002,34.031300,-118.400002,34.031300",
+    "geom:latitude": 34.0313,
+    "geom:longitude": -118.400002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sushi Zo, 9824 National Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.433094024658203,
+    "sg:address": "9824 National Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 842 3977",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sushi",
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 842 3977",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sushi",
+      "bar"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4YZRmyxnpwHIuhTe2OqGUe_34.031300_-118.400002@1303263159"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198248859503fbb991a09eeb7e",
+      "sg:id": "SG_4YZRmyxnpwHIuhTe2OqGUe_34.031300_-118.400002@1303263159"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d33a14edb3a916f8371307d8ded4aa6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370929365
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "3d33a14edb3a916f8371307d8ded4aa6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370929365
+      }
     ],
-    "wof:id":370929365,
-    "wof:lastmodified":1509200853,
-    "wof:name":"Sushi Zo",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sushi",
-        "bar"
+    "wof:id": 370929365,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Sushi Zo",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sushi",
+      "bar"
     ]
-},
+  },
   "bbox": [
     -118.400002,
     34.0313,
     -118.400002,
     34.0313
-],
+  ],
   "geometry": {"coordinates":[-118.400002,34.0313],"type":"Point"}
 }

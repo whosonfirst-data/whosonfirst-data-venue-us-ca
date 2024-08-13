@@ -2,82 +2,86 @@
   "id": 572216493,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 E Mountain St Pasadena CA 91104",
-    "addr:housenumber":"1800",
-    "addr:postcode":"91104",
-    "addr:street":"E Mountain St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.112999,34.161701,-118.112999,34.161701",
-    "geom:latitude":34.161701,
-    "geom:longitude":-118.112999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1800 E Mountain St",
-    "sg:city":"Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Preschool",
-            "type":"Public Place"
-        },
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1800 E Mountain St Pasadena CA 91104",
+    "addr:housenumber": "1800",
+    "addr:postcode": "91104",
+    "addr:street": "E Mountain St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.112999,34.161701,-118.112999,34.161701",
+    "geom:latitude": 34.161701,
+    "geom:longitude": -118.112999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Our School, 1800 E Mountain St Pasadena CA US",
+    "ovtr:similarity": 2.5865368843078613,
+    "sg:address": "1800 E Mountain St",
+    "sg:city": "Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Preschool",
+        "type": "Public Place"
+      },
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 798 0911",
-    "sg:postcode":"91104",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 798 0911",
+    "sg:postcode": "91104",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "sg:website":"www.ourschoolofpasadena.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102086957,
-        85633793,
-        85688637,
-        85879757
+    "sg:website": "www.ourschoolofpasadena.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102086957,
+      85633793,
+      85688637,
+      85879757
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5m1q8hiisiimGyTUk4Yz5D_34.161701_-118.112999@1303263204"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c04b511a303f72a142931e244",
+      "sg:id": "SG_5m1q8hiisiimGyTUk4Yz5D_34.161701_-118.112999@1303263204"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a71af6084d0b864fa991a73154b1b8fc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85879757,
-            "region_id":85688637,
-            "venue_id":572216493
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "a71af6084d0b864fa991a73154b1b8fc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "neighbourhood_id": 85879757,
+        "region_id": 85688637,
+        "venue_id": 572216493
+      }
     ],
-    "wof:id":572216493,
-    "wof:lastmodified":1509201741,
-    "wof:name":"Our School",
-    "wof:parent_id":85879757,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 572216493,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Our School",
+    "wof:parent_id": 85879757,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.112999,
     34.161701,
     -118.112999,
     34.161701
-],
+  ],
   "geometry": {"coordinates":[-118.112999,34.161701],"type":"Point"}
 }

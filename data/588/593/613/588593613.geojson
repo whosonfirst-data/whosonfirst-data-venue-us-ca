@@ -2,81 +2,85 @@
   "id": 588593613,
   "type": "Feature",
   "properties": {
-    "addr:full":"2055 Camden Ave San Jose CA 95124",
-    "addr:housenumber":"2055",
-    "addr:postcode":"95124",
-    "addr:street":"Camden Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.93,37.2617,-121.93,37.2617",
-    "geom:latitude":37.2617,
-    "geom:longitude":-121.93,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2055 Camden Ave",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2055 Camden Ave San Jose CA 95124",
+    "addr:housenumber": "2055",
+    "addr:postcode": "95124",
+    "addr:street": "Camden Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.930000,37.261700,-121.930000,37.261700",
+    "geom:latitude": 37.2617,
+    "geom:longitude": -121.93,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Burrito Factory, 2055 Camden Ave San Jose CA US",
+    "ovtr:similarity": 2.3884739875793457,
+    "sg:address": "2055 Camden Ave",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 369 8564",
-    "sg:postcode":"95124",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 369 8564",
+    "sg:postcode": "95124",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "sg:website":"www.burritofactoryinc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85925497,
-        102081673,
-        85887685
+    "sg:website": "www.burritofactoryinc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85925497,
+      102081673,
+      85887685
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yubPLTONtdAjGaYw8ilqR_37.261700_-121.930000@1303263369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283409a363d71039b194014417f30",
+      "sg:id": "SG_3yubPLTONtdAjGaYw8ilqR_37.261700_-121.930000@1303263369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6ab96be26f493569e88455241eee0afd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85925497,
-            "neighbourhood_id":85887685,
-            "region_id":85688637,
-            "venue_id":588593613
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "6ab96be26f493569e88455241eee0afd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85925497,
+        "neighbourhood_id": 85887685,
+        "region_id": 85688637,
+        "venue_id": 588593613
+      }
     ],
-    "wof:id":588593613,
-    "wof:lastmodified":1509202157,
-    "wof:name":"Burrito Factory",
-    "wof:parent_id":85887685,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 588593613,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Burrito Factory",
+    "wof:parent_id": 85887685,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -121.93,
     37.2617,
     -121.93,
     37.2617
-],
-  "geometry": {"coordinates":[-121.93000000000001,37.2617],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.93,37.2617],"type":"Point"}
 }

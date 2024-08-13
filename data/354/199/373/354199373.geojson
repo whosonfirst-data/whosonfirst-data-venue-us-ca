@@ -2,85 +2,89 @@
   "id": 354199373,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Park Pl Coronado CA 92118",
-    "addr:housenumber":"1000",
-    "addr:postcode":"92118",
-    "addr:street":"Park Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.180247,32.685235,-117.180247,32.685235",
-    "geom:latitude":32.685235,
-    "geom:longitude":-117.180247,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1000 Park Pl",
-    "sg:city":"Coronado",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1000 Park Pl Coronado CA 92118",
+    "addr:housenumber": "1000",
+    "addr:postcode": "92118",
+    "addr:street": "Park Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.180247,32.685235,-117.180247,32.685235",
+    "geom:latitude": 32.685235,
+    "geom:longitude": -117.180247,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Park Place Liquor \u0026 Deli, 1000 Park Pl Coronado CA US",
+    "ovtr:similarity": 2.92419695854187,
+    "sg:address": "1000 Park Pl",
+    "sg:city": "Coronado",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 435 0116",
-    "sg:postcode":"92118",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922281,
-        102083569,
-        85867395,
-        85922227,
-        85885359
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 435 0116",
+    "sg:postcode": "92118",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922281,
+      102083569,
+      85867395,
+      85922227,
+      85885359
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qwZtNB5f8QXcHUAM5gDXF_32.685235_-117.180247@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4111ccb208037439a36a8f9759",
+      "sg:id": "SG_0qwZtNB5f8QXcHUAM5gDXF_32.685235_-117.180247@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5fb858951d0b44b124e983da4cd0627d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922281,
-            "neighbourhood_id":85867395,
-            "region_id":85688637,
-            "venue_id":354199373
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85885359,
-            "region_id":85688637,
-            "venue_id":354199373
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "5fb858951d0b44b124e983da4cd0627d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922281,
+        "neighbourhood_id": 85867395,
+        "region_id": 85688637,
+        "venue_id": 354199373
+      },
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85885359,
+        "region_id": 85688637,
+        "venue_id": 354199373
+      }
     ],
-    "wof:id":354199373,
-    "wof:lastmodified":1509200658,
-    "wof:name":"Park Place Liquor & Deli",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354199373,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Park Place Liquor \u0026 Deli",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.180247,
     32.685235,
     -117.180247,
     32.685235
-],
-  "geometry": {"coordinates":[-117.18024699999999,32.685235],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.180247,32.685235],"type":"Point"}
 }

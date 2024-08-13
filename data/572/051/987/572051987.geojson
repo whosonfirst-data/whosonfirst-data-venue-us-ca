@@ -2,81 +2,85 @@
   "id": 572051987,
   "type": "Feature",
   "properties": {
-    "addr:full":"523 N Harbor Blvd Fullerton CA 92832",
-    "addr:housenumber":"523",
-    "addr:postcode":"92832",
-    "addr:street":"N Harbor Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.924004,33.875,-117.924004,33.875",
-    "geom:latitude":33.875,
-    "geom:longitude":-117.924004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"523 N Harbor Blvd",
-    "sg:city":"Fullerton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "523 N Harbor Blvd Fullerton CA 92832",
+    "addr:housenumber": "523",
+    "addr:postcode": "92832",
+    "addr:street": "N Harbor Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.924004,33.875000,-117.924004,33.875000",
+    "geom:latitude": 33.875,
+    "geom:longitude": -117.924004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Big Slice Pizza, 523 N Harbor Blvd Fullerton CA US",
+    "ovtr:similarity": 2.192765951156616,
+    "sg:address": "523 N Harbor Blvd",
+    "sg:city": "Fullerton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 680 9123",
-    "sg:postcode":"92832",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 680 9123",
+    "sg:postcode": "92832",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"www.bigsliceweb.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923145,
-        102080847,
-        85877585
+    "sg:website": "www.bigsliceweb.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923145,
+      102080847,
+      85877585
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3iDr4Ae0fMdIvOpUfdpJWv_33.874495_-117.924387@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a66c6d66203adc3fe3707f08e",
+      "sg:id": "SG_3iDr4Ae0fMdIvOpUfdpJWv_33.874495_-117.924387@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dfb4b921cc870dffbf70c6ffe00a1eb1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923145,
-            "neighbourhood_id":85877585,
-            "region_id":85688637,
-            "venue_id":572051987
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "dfb4b921cc870dffbf70c6ffe00a1eb1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923145,
+        "neighbourhood_id": 85877585,
+        "region_id": 85688637,
+        "venue_id": 572051987
+      }
     ],
-    "wof:id":572051987,
-    "wof:lastmodified":1509201677,
-    "wof:name":"Big Slice Pizza",
-    "wof:parent_id":85877585,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 572051987,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Big Slice Pizza",
+    "wof:parent_id": 85877585,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -117.924004,
     33.875,
     -117.924004,
     33.875
-],
+  ],
   "geometry": {"coordinates":[-117.924004,33.875],"type":"Point"}
 }

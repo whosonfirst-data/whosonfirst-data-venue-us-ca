@@ -2,80 +2,84 @@
   "id": 572405317,
   "type": "Feature",
   "properties": {
-    "addr:full":"1420 N Indian Canyon Dr Palm Springs CA 92262",
-    "addr:housenumber":"1420",
-    "addr:postcode":"92262",
-    "addr:street":"N Indian Canyon Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.54524,33.842437,-116.54524,33.842437",
-    "geom:latitude":33.842437,
-    "geom:longitude":-116.54524,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1420 N Indian Canyon Dr",
-    "sg:city":"Palm Springs",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "1420 N Indian Canyon Dr Palm Springs CA 92262",
+    "addr:housenumber": "1420",
+    "addr:postcode": "92262",
+    "addr:street": "N Indian Canyon Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.545240,33.842437,-116.545240,33.842437",
+    "geom:latitude": 33.842437,
+    "geom:longitude": -116.54524,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Palm Springs Rendezvous, 1420 N Indian Canyon Dr Palm Springs CA US",
+    "ovtr:similarity": 2.1595919132232666,
+    "sg:address": "1420 N Indian Canyon Dr",
+    "sg:city": "Palm Springs",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 485 2808",
-    "sg:postcode":"92262",
-    "sg:province":"CA",
-    "sg:website":"www.palmspringsrendezvous.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923357,
-        102086221,
-        85821143
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 485 2808",
+    "sg:postcode": "92262",
+    "sg:province": "CA",
+    "sg:website": "www.palmspringsrendezvous.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923357,
+      102086221,
+      85821143
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2984616848,
-        "sg:id":"SG_7Ixf0KodHcO9dSVZmytifg_33.842437_-116.545240@1303263251"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2984616848,
+      "ovtr:id": "08f29a62422e6419031a8b829ec05985",
+      "sg:id": "SG_7Ixf0KodHcO9dSVZmytifg_33.842437_-116.545240@1303263251"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f4518b678a4def40fa1363031c79ce51",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923357,
-            "neighbourhood_id":85821143,
-            "region_id":85688637,
-            "venue_id":572405317
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "f4518b678a4def40fa1363031c79ce51",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923357,
+        "neighbourhood_id": 85821143,
+        "region_id": 85688637,
+        "venue_id": 572405317
+      }
     ],
-    "wof:id":572405317,
-    "wof:lastmodified":1510943684,
-    "wof:name":"Palm Springs Rendezvous",
-    "wof:parent_id":85821143,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572405317,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "Palm Springs Rendezvous",
+    "wof:parent_id": 85821143,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.54524,
     33.842437,
     -116.54524,
     33.842437
-],
-  "geometry": {"coordinates":[-116.54524000000001,33.842437],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-116.54524,33.842437],"type":"Point"}
 }

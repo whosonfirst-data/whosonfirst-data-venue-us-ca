@@ -2,81 +2,85 @@
   "id": 387418175,
   "type": "Feature",
   "properties": {
-    "addr:full":"15700 S Western Ave Gardena CA 90247",
-    "addr:housenumber":"15700",
-    "addr:postcode":"90247",
-    "addr:street":"S Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.30898,33.88795,-118.30898,33.88795",
-    "geom:latitude":33.88795,
-    "geom:longitude":-118.30898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"15700 S Western Ave",
-    "sg:city":"Gardena",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "15700 S Western Ave Gardena CA 90247",
+    "addr:housenumber": "15700",
+    "addr:postcode": "90247",
+    "addr:street": "S Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308980,33.887950,-118.308980,33.887950",
+    "geom:latitude": 33.88795,
+    "geom:longitude": -118.30898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "CVS Pharmacy, 15700 S Western Ave Gardena CA US",
+    "ovtr:similarity": 2.154247999191284,
+    "sg:address": "15700 S Western Ave",
+    "sg:city": "Gardena",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 538 3131",
-    "sg:postcode":"90247",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 538 3131",
+    "sg:postcode": "90247",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923619,
-        102086957,
-        85885969
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923619,
+      102086957,
+      85885969
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1N3dvihTo6lefVBP0Muyg4_33.887950_-118.308980@1303263177"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56e1ceb4a90372afc5cb3aea92",
+      "sg:id": "SG_1N3dvihTo6lefVBP0Muyg4_33.887950_-118.308980@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b09d0871cdc1961e7ed87ce798482746",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923619,
-            "neighbourhood_id":85885969,
-            "region_id":85688637,
-            "venue_id":387418175
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "b09d0871cdc1961e7ed87ce798482746",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923619,
+        "neighbourhood_id": 85885969,
+        "region_id": 85688637,
+        "venue_id": 387418175
+      }
     ],
-    "wof:id":387418175,
-    "wof:lastmodified":1512142701,
-    "wof:name":"CVS pharmacy",
-    "wof:parent_id":85885969,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 387418175,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "CVS pharmacy",
+    "wof:parent_id": 85885969,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.30898,
     33.88795,
     -118.30898,
     33.88795
-],
-  "geometry": {"coordinates":[-118.30898000000001,33.88795],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.30898,33.88795],"type":"Point"}
 }

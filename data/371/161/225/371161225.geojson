@@ -2,74 +2,78 @@
   "id": 371161225,
   "type": "Feature",
   "properties": {
-    "addr:full":"3128 McHenry Ave Modesto CA 95350",
-    "addr:housenumber":"3128",
-    "addr:postcode":"ca 95350",
-    "addr:street":"Mchenry Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.994121,37.68236,-120.994121,37.68236",
-    "geom:latitude":37.68236,
-    "geom:longitude":-120.994121,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3128 McHenry Ave",
-    "sg:city":"Modesto",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3128 McHenry Ave Modesto CA 95350",
+    "addr:housenumber": "3128",
+    "addr:postcode": "ca 95350",
+    "addr:street": "Mchenry Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.994121,37.682360,-120.994121,37.682360",
+    "geom:latitude": 37.68236,
+    "geom:longitude": -120.994121,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lee's Chinese Kitchen, 3128 McHenry Ave Modesto CA US",
+    "ovtr:similarity": 2.2879960536956787,
+    "sg:address": "3128 McHenry Ave",
+    "sg:city": "Modesto",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 521 9030",
-    "sg:postcode":"95350",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922777,
-        102083579,
-        85879015
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 521 9030",
+    "sg:postcode": "95350",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922777,
+      102083579,
+      85879015
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_64a5BOzWWpJ9ozFiC2Ez0d_37.682360_-120.994121@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28360214a54e503c94beef2a87845",
+      "sg:id": "SG_64a5BOzWWpJ9ozFiC2Ez0d_37.682360_-120.994121@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d330e4df908b80d07ecc626b6f5a2547",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85879015,
-            "region_id":85688637,
-            "venue_id":371161225
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "d330e4df908b80d07ecc626b6f5a2547",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85879015,
+        "region_id": 85688637,
+        "venue_id": 371161225
+      }
     ],
-    "wof:id":371161225,
-    "wof:lastmodified":1509200907,
-    "wof:name":"Lee's Chinese Kitchen",
-    "wof:parent_id":85879015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371161225,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Lee's Chinese Kitchen",
+    "wof:parent_id": 85879015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.994121,
     37.68236,
     -120.994121,
     37.68236
-],
-  "geometry": {"coordinates":[-120.99412100000001,37.68236],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.994121,37.68236],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 387020681,
   "type": "Feature",
   "properties": {
-    "addr:full":"405 Lincoln Blvd Venice CA 90291",
-    "addr:housenumber":"405",
-    "addr:postcode":"90291",
-    "addr:street":"Lincoln Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.466301,34.000524,-118.466301,34.000524",
-    "geom:latitude":34.000524,
-    "geom:longitude":-118.466301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"405 Lincoln Blvd",
-    "sg:city":"Venice",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        }
+    "addr:full": "405 Lincoln Blvd Venice CA 90291",
+    "addr:housenumber": "405",
+    "addr:postcode": "90291",
+    "addr:street": "Lincoln Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.466301,34.000524,-118.466301,34.000524",
+    "geom:latitude": 34.000524,
+    "geom:longitude": -118.466301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Nutritional Warehouse, 2118 Lincoln Blvd Venice CA US",
+    "ovtr:similarity": 2.581044912338257,
+    "sg:address": "405 Lincoln Blvd",
+    "sg:city": "Venice",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 392 3636",
-    "sg:postcode":"90291",
-    "sg:province":"CA",
-    "sg:tags":[
-        "health",
-        "diet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 392 3636",
+    "sg:postcode": "90291",
+    "sg:province": "CA",
+    "sg:tags": [
+      "health",
+      "diet"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85853579
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85853579
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5TtWwmimBJhrn5EByqjezx_34.000524_-118.466301@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1985c0121303a2b20469d405e6",
+      "sg:id": "SG_5TtWwmimBJhrn5EByqjezx_34.000524_-118.466301@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"039883fdadc9aad56f58c09259969e30",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85853579,
-            "region_id":85688637,
-            "venue_id":387020681
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "039883fdadc9aad56f58c09259969e30",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85853579,
+        "region_id": 85688637,
+        "venue_id": 387020681
+      }
     ],
-    "wof:id":387020681,
-    "wof:lastmodified":1509200935,
-    "wof:name":"Nutritional Warehouse",
-    "wof:parent_id":85853579,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "health",
-        "diet"
+    "wof:id": 387020681,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Nutritional Warehouse",
+    "wof:parent_id": 85853579,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "health",
+      "diet"
     ]
-},
+  },
   "bbox": [
     -118.466301,
     34.000524,
     -118.466301,
     34.000524
-],
+  ],
   "geometry": {"coordinates":[-118.466301,34.000524],"type":"Point"}
 }

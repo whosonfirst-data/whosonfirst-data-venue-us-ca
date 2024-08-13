@@ -2,85 +2,89 @@
   "id": 588452495,
   "type": "Feature",
   "properties": {
-    "addr:full":"1602 Washington Blvd Fremont CA 94539",
-    "addr:housenumber":"1602",
-    "addr:postcode":"94539",
-    "addr:street":"Washington Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.937308,37.531249,-121.937308,37.531249",
-    "geom:latitude":37.531249,
-    "geom:longitude":-121.937308,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1602 Washington Blvd",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1602 Washington Blvd Fremont CA 94539",
+    "addr:housenumber": "1602",
+    "addr:postcode": "94539",
+    "addr:street": "Washington Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.937308,37.531249,-121.937308,37.531249",
+    "geom:latitude": 37.531249,
+    "geom:longitude": -121.937308,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Royal Food Market, 1602 Washington Blvd Fremont CA US",
+    "ovtr:similarity": 2.651772975921631,
+    "sg:address": "1602 Washington Blvd",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 668 1107",
-    "sg:postcode":"94539",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocers-specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 668 1107",
+    "sg:postcode": "94539",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocers-specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85924495,
-        102086959,
-        85834653
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85924495,
+      102086959,
+      85834653
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5bWOmU2ofJJ2e4a405hNPR_37.531249_-121.937308@1303263332"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28346110e2b5003933cacdcd79f9a",
+      "sg:id": "SG_5bWOmU2ofJJ2e4a405hNPR_37.531249_-121.937308@1303263332"
     },
-    "wof:country":"US",
-    "wof:geomhash":"74151085b745158ef663e51fecfb4737",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85924495,
-            "neighbourhood_id":85834653,
-            "region_id":85688637,
-            "venue_id":588452495
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "74151085b745158ef663e51fecfb4737",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85924495,
+        "neighbourhood_id": 85834653,
+        "region_id": 85688637,
+        "venue_id": 588452495
+      }
     ],
-    "wof:id":588452495,
-    "wof:lastmodified":1509202072,
-    "wof:name":"Royal Food Market",
-    "wof:parent_id":85834653,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocers-specialty"
+    "wof:id": 588452495,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "Royal Food Market",
+    "wof:parent_id": 85834653,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocers-specialty"
     ]
-},
+  },
   "bbox": [
     -121.937308,
     37.531249,
     -121.937308,
     37.531249
-],
+  ],
   "geometry": {"coordinates":[-121.937308,37.531249],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 572113293,
   "type": "Feature",
   "properties": {
-    "addr:full":"12249 San Pablo Ave Richmond CA 94805",
-    "addr:housenumber":"12249",
-    "addr:postcode":"94805",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.324997,37.934299,-122.324997,37.934299",
-    "geom:latitude":37.934299,
-    "geom:longitude":-122.324997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12249 San Pablo Ave",
-    "sg:city":"Richmond",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12249 San Pablo Ave Richmond CA 94805",
+    "addr:housenumber": "12249",
+    "addr:postcode": "94805",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.324997,37.934299,-122.324997,37.934299",
+    "geom:latitude": 37.934299,
+    "geom:longitude": -122.324997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "William's Natural Foods, 12249 San Pablo Ave Richmond CA US",
+    "ovtr:similarity": 2.0561161041259766,
+    "sg:address": "12249 San Pablo Ave",
+    "sg:city": "Richmond",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 232 1911",
-    "sg:postcode":"94805",
-    "sg:province":"CA",
-    "sg:tags":[
-        "health",
-        "market",
-        "diet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 232 1911",
+    "sg:postcode": "94805",
+    "sg:province": "CA",
+    "sg:tags": [
+      "health",
+      "market",
+      "diet"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922131,
-        102086225,
-        85816707
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922131,
+      102086225,
+      85816707
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61eVJfrwNdR7yZhef5UqNz_37.934461_-122.324763@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308c61b540403b0216afb4f916e",
+      "sg:id": "SG_61eVJfrwNdR7yZhef5UqNz_37.934461_-122.324763@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"183cfb4e739c3201b82421dd0f8611b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922131,
-            "neighbourhood_id":85816707,
-            "region_id":85688637,
-            "venue_id":572113293
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "183cfb4e739c3201b82421dd0f8611b7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922131,
+        "neighbourhood_id": 85816707,
+        "region_id": 85688637,
+        "venue_id": 572113293
+      }
     ],
-    "wof:id":572113293,
-    "wof:lastmodified":1509201696,
-    "wof:name":"William's Natural Foods",
-    "wof:parent_id":85816707,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "health",
-        "market",
-        "diet"
+    "wof:id": 572113293,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "William's Natural Foods",
+    "wof:parent_id": 85816707,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "health",
+      "market",
+      "diet"
     ]
-},
+  },
   "bbox": [
     -122.324997,
     37.934299,
     -122.324997,
     37.934299
-],
+  ],
   "geometry": {"coordinates":[-122.324997,37.934299],"type":"Point"}
 }

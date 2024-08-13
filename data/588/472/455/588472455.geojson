@@ -2,81 +2,85 @@
   "id": 588472455,
   "type": "Feature",
   "properties": {
-    "addr:full":"1156 Davis St San Leandro CA 94577",
-    "addr:housenumber":"1156",
-    "addr:postcode":"94577",
-    "addr:street":"Davis St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.167999,37.721802,-122.167999,37.721802",
-    "geom:latitude":37.721802,
-    "geom:longitude":-122.167999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1156 Davis St",
-    "sg:city":"San Leandro",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1156 Davis St San Leandro CA 94577",
+    "addr:housenumber": "1156",
+    "addr:postcode": "94577",
+    "addr:street": "Davis St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.167999,37.721802,-122.167999,37.721802",
+    "geom:latitude": 37.721802,
+    "geom:longitude": -122.167999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "ARCO, 1156 Davis St San Leandro CA US",
+    "ovtr:similarity": 2.6185879707336426,
+    "sg:address": "1156 Davis St",
+    "sg:city": "San Leandro",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 562 4275",
-    "sg:postcode":"94577",
-    "sg:province":"CA",
-    "sg:website":"www.arco.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921867,
-        102086959,
-        420550315
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 562 4275",
+    "sg:postcode": "94577",
+    "sg:province": "CA",
+    "sg:website": "www.arco.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921867,
+      102086959,
+      420550315
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5LyDainvTonKXvZpw0pXiD_37.721802_-122.167999@1303263337"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830980115a5003b8e4820ec29719",
+      "sg:id": "SG_5LyDainvTonKXvZpw0pXiD_37.721802_-122.167999@1303263337"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1ac1a771266539bed993470212d73cd8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921867,
-            "neighbourhood_id":420550315,
-            "region_id":85688637,
-            "venue_id":588472455
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "1ac1a771266539bed993470212d73cd8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921867,
+        "neighbourhood_id": 420550315,
+        "region_id": 85688637,
+        "venue_id": 588472455
+      }
     ],
-    "wof:id":588472455,
-    "wof:lastmodified":1509202084,
-    "wof:name":"ARCO",
-    "wof:parent_id":420550315,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588472455,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "ARCO",
+    "wof:parent_id": 420550315,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.167999,
     37.721802,
     -122.167999,
     37.721802
-],
-  "geometry": {"coordinates":[-122.16799899999999,37.721802],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.167999,37.721802],"type":"Point"}
 }

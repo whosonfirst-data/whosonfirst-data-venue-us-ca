@@ -2,75 +2,79 @@
   "id": 387305503,
   "type": "Feature",
   "properties": {
-    "addr:full":"698 H St Chula Vista CA 91910",
-    "addr:housenumber":"698",
-    "addr:postcode":"91910",
-    "addr:street":"H St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.093913,32.62972,-117.093913,32.62972",
-    "geom:latitude":32.62972,
-    "geom:longitude":-117.093913,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"698 H St",
-    "sg:city":"Chula Vista",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "698 H St Chula Vista CA 91910",
+    "addr:housenumber": "698",
+    "addr:postcode": "91910",
+    "addr:street": "H St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.093913,32.629720,-117.093913,32.629720",
+    "geom:latitude": 32.62972,
+    "geom:longitude": -117.093913,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 698 H St Chula Vista CA US",
+    "ovtr:similarity": 2.351422071456909,
+    "sg:address": "698 H St",
+    "sg:city": "Chula Vista",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 422 6520",
-    "sg:postcode":"91910",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922285,
-        102083569,
-        85876777
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 422 6520",
+    "sg:postcode": "91910",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922285,
+      102083569,
+      85876777
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7c8SNyrs9FxqnKFgVsXF79_32.629720_-117.093913@1294081369"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4c4a92234c038e3809285cf435",
+      "sg:id": "SG_7c8SNyrs9FxqnKFgVsXF79_32.629720_-117.093913@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"aac159b58a960120621d8fedd43ea090",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922285,
-            "neighbourhood_id":85876777,
-            "region_id":85688637,
-            "venue_id":387305503
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "aac159b58a960120621d8fedd43ea090",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922285,
+        "neighbourhood_id": 85876777,
+        "region_id": 85688637,
+        "venue_id": 387305503
+      }
     ],
-    "wof:id":387305503,
-    "wof:lastmodified":1511321761,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85876777,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387305503,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85876777,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.093913,
     32.62972,
     -117.093913,
     32.62972
-],
+  ],
   "geometry": {"coordinates":[-117.093913,32.62972],"type":"Point"}
 }

@@ -2,90 +2,94 @@
   "id": 588691027,
   "type": "Feature",
   "properties": {
-    "addr:full":"6844 Franklin Blvd Sacramento CA 95823",
-    "addr:housenumber":"6844",
-    "addr:postcode":"95823",
-    "addr:street":"Franklin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.46348,38.502131,-121.46348,38.502131",
-    "geom:latitude":38.502131,
-    "geom:longitude":-121.46348,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6844 Franklin Blvd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "6844 Franklin Blvd Sacramento CA 95823",
+    "addr:housenumber": "6844",
+    "addr:postcode": "95823",
+    "addr:street": "Franklin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.463480,38.502131,-121.463480,38.502131",
+    "geom:latitude": 38.502131,
+    "geom:longitude": -121.46348,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Southgate Veterinary Hospital, 6844 Franklin Blvd Sacramento CA US",
+    "ovtr:similarity": 1.8680219650268555,
+    "sg:address": "6844 Franklin Blvd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 428 6298",
-    "sg:postcode":"95823",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 428 6298",
+    "sg:postcode": "95823",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ],
-    "sg:website":"www.southgatevet.vetsuite.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85926651,
-        102082889,
-        420551929
+    "sg:website": "www.southgatevet.vetsuite.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85926651,
+      102082889,
+      420551929
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_60H0gkCflM0nUS3zng9GZB_38.502131_-121.463480@1303263394"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b3468d10b03420a8d2b8c80a4",
+      "sg:id": "SG_60H0gkCflM0nUS3zng9GZB_38.502131_-121.463480@1303263394"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6e8b110f53011712b9d08f0bb5664fa2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926651,
-            "neighbourhood_id":420551929,
-            "region_id":85688637,
-            "venue_id":588691027
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "6e8b110f53011712b9d08f0bb5664fa2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926651,
+        "neighbourhood_id": 420551929,
+        "region_id": 85688637,
+        "venue_id": 588691027
+      }
     ],
-    "wof:id":588691027,
-    "wof:lastmodified":1509202217,
-    "wof:name":"Southgate Veterinary Hospital",
-    "wof:parent_id":420551929,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "wof:id": 588691027,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Southgate Veterinary Hospital",
+    "wof:parent_id": 420551929,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -121.46348,
     38.502131,
     -121.46348,
     38.502131
-],
+  ],
   "geometry": {"coordinates":[-121.46348,38.502131],"type":"Point"}
 }

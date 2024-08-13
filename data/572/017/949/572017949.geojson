@@ -2,82 +2,86 @@
   "id": 572017949,
   "type": "Feature",
   "properties": {
-    "addr:full":"3300 12th Ave Sacramento CA 95817",
-    "addr:housenumber":"3300",
-    "addr:postcode":"95817",
-    "addr:street":"12Th Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.471169,38.54121,-121.471169,38.54121",
-    "geom:latitude":38.54121,
-    "geom:longitude":-121.471169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3300 12th Ave",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3300 12th Ave Sacramento CA 95817",
+    "addr:housenumber": "3300",
+    "addr:postcode": "95817",
+    "addr:street": "12Th Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.471169,38.541210,-121.471169,38.541210",
+    "geom:latitude": 38.54121,
+    "geom:longitude": -121.471169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Oak Park Market, 3300 12th Ave Sacramento CA US",
+    "ovtr:similarity": 2.2914140224456787,
+    "sg:address": "3300 12th Ave",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 451 0711",
-    "sg:postcode":"95817",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer",
-        "grocers-specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 451 0711",
+    "sg:postcode": "95817",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer",
+      "grocers-specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872165
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872165
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_22E8m5OoCcuIFoWGvl8Gz7_38.541211_-121.470754@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b3376442203005d4cbb087b09",
+      "sg:id": "SG_22E8m5OoCcuIFoWGvl8Gz7_38.541211_-121.470754@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0af77a42ecb0bf533e205afa3e1f74d9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872165,
-            "region_id":85688637,
-            "venue_id":572017949
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "0af77a42ecb0bf533e205afa3e1f74d9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872165,
+        "region_id": 85688637,
+        "venue_id": 572017949
+      }
     ],
-    "wof:id":572017949,
-    "wof:lastmodified":1509201666,
-    "wof:name":"Oak Park Market",
-    "wof:parent_id":85872165,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer",
-        "grocers-specialty"
+    "wof:id": 572017949,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Oak Park Market",
+    "wof:parent_id": 85872165,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer",
+      "grocers-specialty"
     ]
-},
+  },
   "bbox": [
     -121.471169,
     38.54121,
     -121.471169,
     38.54121
-],
+  ],
   "geometry": {"coordinates":[-121.471169,38.54121],"type":"Point"}
 }

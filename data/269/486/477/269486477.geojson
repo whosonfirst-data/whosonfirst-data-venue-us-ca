@@ -2,82 +2,86 @@
   "id": 269486477,
   "type": "Feature",
   "properties": {
-    "addr:full":"4408 Avalon Blvd Los Angeles CA 90011",
-    "addr:housenumber":"4408",
-    "addr:postcode":"90011",
-    "addr:street":"Avalon Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.26515,34.002628,-118.26515,34.002628",
-    "geom:latitude":34.002628,
-    "geom:longitude":-118.26515,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4408 Avalon Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "4408 Avalon Blvd Los Angeles CA 90011",
+    "addr:housenumber": "4408",
+    "addr:postcode": "90011",
+    "addr:street": "Avalon Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.265150,34.002628,-118.265150,34.002628",
+    "geom:latitude": 34.002628,
+    "geom:longitude": -118.26515,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Expert Nails, 4408 Avalon Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.5935859680175781,
+    "sg:address": "4408 Avalon Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 233 3790",
-    "sg:postcode":"90011",
-    "sg:province":"CA",
-    "sg:tags":[
-        "manicuring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 233 3790",
+    "sg:postcode": "90011",
+    "sg:province": "CA",
+    "sg:tags": [
+      "manicuring"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85868345",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85868345
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0D32Obbfkw6WkkDigxT0Ww_34.002628_-118.265150@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d9c41d4603142aed07462fb4",
+      "sg:id": "SG_0D32Obbfkw6WkkDigxT0Ww_34.002628_-118.265150@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cd4094910ebc8ad441659cef051542bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85868345",
-            "region_id":85688637,
-            "venue_id":269486477
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "cd4094910ebc8ad441659cef051542bc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85868345,
+        "region_id": 85688637,
+        "venue_id": 269486477
+      }
     ],
-    "wof:id":269486477,
-    "wof:lastmodified":1509200155,
-    "wof:name":"Expert Nails",
-    "wof:parent_id":"85868345",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "manicuring"
+    "wof:id": 269486477,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Expert Nails",
+    "wof:parent_id": "85868345",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "manicuring"
     ]
-},
+  },
   "bbox": [
     -118.26515,
     34.002628,
     -118.26515,
     34.002628
-],
-  "geometry": {"coordinates":[-118.26515000000001,34.002628],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.26515,34.002628],"type":"Point"}
 }

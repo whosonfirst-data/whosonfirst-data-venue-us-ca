@@ -2,77 +2,81 @@
   "id": 404013029,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Long Beach Blvd Long Beach CA 90802",
-    "addr:housenumber":"500",
-    "addr:postcode":"90802",
-    "addr:street":"Long Beach Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.189288,33.772932,-118.189288,33.772932",
-    "geom:latitude":33.772932,
-    "geom:longitude":-118.189288,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"500 Long Beach Blvd",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "500 Long Beach Blvd Long Beach CA 90802",
+    "addr:housenumber": "500",
+    "addr:postcode": "90802",
+    "addr:street": "Long Beach Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.189288,33.772932,-118.189288,33.772932",
+    "geom:latitude": 33.772932,
+    "geom:longitude": -118.189288,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Starbucks, 500 Long Beach Blvd Long Beach CA US",
+    "ovtr:similarity": 3.128995895385742,
+    "sg:address": "500 Long Beach Blvd",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 590 5996",
-    "sg:postcode":"90802",
-    "sg:province":"CA",
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85871775
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 590 5996",
+    "sg:postcode": "90802",
+    "sg:province": "CA",
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85871775
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1M7Xz70s0tj63BSL0ewsS1_33.772932_-118.189288@1303263198"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a561470d30d0396d8397e0d4404",
+      "sg:id": "SG_1M7Xz70s0tj63BSL0ewsS1_33.772932_-118.189288@1303263198"
     },
-    "wof:country":"US",
-    "wof:geomhash":"82d7f6c0d8b59dbb9944dc5b04ac1f9e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85871775,
-            "region_id":85688637,
-            "venue_id":404013029
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "82d7f6c0d8b59dbb9944dc5b04ac1f9e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85871775,
+        "region_id": 85688637,
+        "venue_id": 404013029
+      }
     ],
-    "wof:id":404013029,
-    "wof:lastmodified":1509201187,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85871775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404013029,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85871775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.189288,
     33.772932,
     -118.189288,
     33.772932
-],
+  ],
   "geometry": {"coordinates":[-118.189288,33.772932],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 572092741,
   "type": "Feature",
   "properties": {
-    "addr:full":"121 E E St Ontario CA 91764",
-    "addr:housenumber":"121",
-    "addr:postcode":"91764",
-    "addr:street":"E E St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.650579,34.068211,-117.650579,34.068211",
-    "geom:latitude":34.068211,
-    "geom:longitude":-117.650579,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"121 E E St",
-    "sg:city":"Ontario",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "121 E E St Ontario CA 91764",
+    "addr:housenumber": "121",
+    "addr:postcode": "91764",
+    "addr:street": "E E St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.650579,34.068211,-117.650579,34.068211",
+    "geom:latitude": 34.068211,
+    "geom:longitude": -117.650579,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ontario Veterinary Hospital, 121 E E St Ontario CA US",
+    "ovtr:similarity": 3.314178943634033,
+    "sg:address": "121 E E St",
+    "sg:city": "Ontario",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 984 2211",
-    "sg:postcode":"91764",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 984 2211",
+    "sg:postcode": "91764",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet"
     ],
-    "sg:website":"http://www.ontarioveterinaryhospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923933,
-        102085395,
-        85886759
+    "sg:website": "http://www.ontarioveterinaryhospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923933,
+      102085395,
+      85886759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5a9aLBC41ZHpYP5pC2SF94_34.068309_-117.649918@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ad24de31003d6df2333efec95",
+      "sg:id": "SG_5a9aLBC41ZHpYP5pC2SF94_34.068309_-117.649918@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1d59bb7e428ebe5776909cf48bad670a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923933,
-            "neighbourhood_id":85886759,
-            "region_id":85688637,
-            "venue_id":572092741
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "1d59bb7e428ebe5776909cf48bad670a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923933,
+        "neighbourhood_id": 85886759,
+        "region_id": 85688637,
+        "venue_id": 572092741
+      }
     ],
-    "wof:id":572092741,
-    "wof:lastmodified":1509201690,
-    "wof:name":"Ontario Veterinary Hospital",
-    "wof:parent_id":85886759,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet"
+    "wof:id": 572092741,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Ontario Veterinary Hospital",
+    "wof:parent_id": 85886759,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet"
     ]
-},
+  },
   "bbox": [
     -117.650579,
     34.068211,
     -117.650579,
     34.068211
-],
-  "geometry": {"coordinates":[-117.65057899999999,34.068211],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.650579,34.068211],"type":"Point"}
 }

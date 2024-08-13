@@ -2,91 +2,95 @@
   "id": 386959691,
   "type": "Feature",
   "properties": {
-    "addr:full":"2270 E 108th Street Los Angeles CA 90059",
-    "addr:housenumber":"2270",
-    "addr:postcode":"90059",
-    "addr:street":"E 108Th Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.231354,33.937147,-118.231354,33.937147",
-    "geom:latitude":33.937147,
-    "geom:longitude":-118.231354,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2270 E 108th Street",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        },
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "2270 E 108th Street Los Angeles CA 90059",
+    "addr:housenumber": "2270",
+    "addr:postcode": "90059",
+    "addr:street": "E 108Th Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.231354,33.937147,-118.231354,33.937147",
+    "geom:latitude": 33.937147,
+    "geom:longitude": -118.231354,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Miguel Catholic School, 2270 E 108th St Los Angeles CA US",
+    "ovtr:similarity": 2.6927480697631836,
+    "sg:address": "2270 E 108th Street",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 567 6892",
-    "sg:postcode":"90059",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 567 6892",
+    "sg:postcode": "90059",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85854791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85854791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7eqTq7hkxWkdAapJRFBsCs_33.937147_-118.231354@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d5b430f503364318b6349524",
+      "sg:id": "SG_7eqTq7hkxWkdAapJRFBsCs_33.937147_-118.231354@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"424d9d40ab45d0db76fb08100e814fd8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85854791",
-            "region_id":85688637,
-            "venue_id":386959691
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "424d9d40ab45d0db76fb08100e814fd8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85854791,
+        "region_id": 85688637,
+        "venue_id": 386959691
+      }
     ],
-    "wof:id":386959691,
-    "wof:lastmodified":1509200921,
-    "wof:name":"San Miguel Catholic School",
-    "wof:parent_id":"85854791",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 386959691,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "San Miguel Catholic School",
+    "wof:parent_id": "85854791",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.231354,
     33.937147,
     -118.231354,
     33.937147
-],
+  ],
   "geometry": {"coordinates":[-118.231354,33.937147],"type":"Point"}
 }

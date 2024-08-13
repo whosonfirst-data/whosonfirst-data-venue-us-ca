@@ -2,65 +2,73 @@
   "id": 555698303,
   "type": "Feature",
   "properties": {
-    "addr:full":"723 Reddick St Santa Barbara CA 93103",
-    "addr:housenumber":"723",
-    "addr:postcode":"93103",
-    "addr:street":"Reddick St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.686092,34.424604,-119.686092,34.424604",
-    "geom:latitude":34.424604,
-    "geom:longitude":-119.686092,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"723 Reddick St",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "723 Reddick St Santa Barbara CA 93103",
+    "addr:housenumber": "723",
+    "addr:postcode": "93103",
+    "addr:street": "Reddick St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.686092,34.424604,-119.686092,34.424604",
+    "geom:latitude": 34.424604,
+    "geom:longitude": -119.686092,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Westside Auto Repair, 723 Reddick St Santa Barbara CA US",
+    "ovtr:similarity": 1.8611470460891724,
+    "sg:address": "723 Reddick St",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 963 5053",
-    "sg:postcode":"93103",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 963 5053",
+    "sg:postcode": "93103",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0E69cuSBnxXacINc14LWBO_34.424604_-119.686092@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f291264b922ce203bf0a85e852a17d",
+      "sg:id": "SG_0E69cuSBnxXacINc14LWBO_34.424604_-119.686092@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"db4d800c183da75931489ebf2739674a",
-    "wof:hierarchy":[],
-    "wof:id":555698303,
-    "wof:lastmodified":1509201478,
-    "wof:name":"Westside Auto Repair",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "db4d800c183da75931489ebf2739674a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555698303
+      }
+    ],
+    "wof:id": 555698303,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Westside Auto Repair",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -119.686092,
     34.424604,
     -119.686092,
     34.424604
-],
+  ],
   "geometry": {"coordinates":[-119.686092,34.424604],"type":"Point"}
 }

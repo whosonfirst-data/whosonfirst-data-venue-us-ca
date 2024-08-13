@@ -2,82 +2,86 @@
   "id": 572307279,
   "type": "Feature",
   "properties": {
-    "addr:full":"909 E Main St Alhambra CA 91801",
-    "addr:housenumber":"909",
-    "addr:postcode":"91801",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.117996,34.099701,-118.117996,34.099701",
-    "geom:latitude":34.099701,
-    "geom:longitude":-118.117996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"909 E Main St",
-    "sg:city":"Alhambra",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "909 E Main St Alhambra CA 91801",
+    "addr:housenumber": "909",
+    "addr:postcode": "91801",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.117996,34.099701,-118.117996,34.099701",
+    "geom:latitude": 34.099701,
+    "geom:longitude": -118.117996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 909 E Main St Alhambra CA US",
+    "ovtr:similarity": 2.407895088195801,
+    "sg:address": "909 E Main St",
+    "sg:city": "Alhambra",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 571 2639",
-    "sg:postcode":"91801",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 571 2639",
+    "sg:postcode": "91801",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "sg:website":"www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923745,
-        102086957,
-        85885555
+    "sg:website": "www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923745,
+      102086957,
+      85885555
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0jFx01vpmszXCOYyuioLIE_34.099701_-118.117996@1303263227"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c24c0cc1e036a726c9745f4ea",
+      "sg:id": "SG_0jFx01vpmszXCOYyuioLIE_34.099701_-118.117996@1303263227"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5173b6b0f9c1011527fd9efedb6739e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923745,
-            "neighbourhood_id":85885555,
-            "region_id":85688637,
-            "venue_id":572307279
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "5173b6b0f9c1011527fd9efedb6739e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923745,
+        "neighbourhood_id": 85885555,
+        "region_id": 85688637,
+        "venue_id": 572307279
+      }
     ],
-    "wof:id":572307279,
-    "wof:lastmodified":1512142953,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85885555,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 572307279,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85885555,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -118.117996,
     34.099701,
     -118.117996,
     34.099701
-],
-  "geometry": {"coordinates":[-118.11799600000001,34.099701],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.117996,34.099701],"type":"Point"}
 }

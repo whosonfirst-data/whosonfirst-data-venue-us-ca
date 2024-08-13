@@ -2,66 +2,74 @@
   "id": 572032087,
   "type": "Feature",
   "properties": {
-    "addr:full":"562 N Main St Bishop CA 93514",
-    "addr:housenumber":"562",
-    "addr:postcode":"93514",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.395332,37.365402,-118.395332,37.365402",
-    "geom:latitude":37.365402,
-    "geom:longitude":-118.395332,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"562 N Main St",
-    "sg:city":"Bishop",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "562 N Main St Bishop CA 93514",
+    "addr:housenumber": "562",
+    "addr:postcode": "93514",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.395332,37.365402,-118.395332,37.365402",
+    "geom:latitude": 37.365402,
+    "geom:longitude": -118.395332,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 562 N Main St Bishop CA US",
+    "ovtr:similarity": 2.812347888946533,
+    "sg:address": "562 N Main St",
+    "sg:city": "Bishop",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 872 1211",
-    "sg:postcode":"93514",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 872 1211",
+    "sg:postcode": "93514",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eating"
     ],
-    "sg:website":"http://www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":316105277,
-        "sg:id":"SG_2nTfunrWnqnbZ8od910jpa_37.365050_-118.395244@1293134755"
+    "sg:website": "http://www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 316105277,
+      "ovtr:id": "08f29aa6c95a514b03fef9f0e066b077",
+      "sg:id": "SG_2nTfunrWnqnbZ8od910jpa_37.365050_-118.395244@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bbbeda837b57c8a9ad2dc98144bd1d14",
-    "wof:hierarchy":[],
-    "wof:id":572032087,
-    "wof:lastmodified":1512143013,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "bbbeda837b57c8a9ad2dc98144bd1d14",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572032087
+      }
+    ],
+    "wof:id": 572032087,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -118.395332,
     37.365402,
     -118.395332,
     37.365402
-],
+  ],
   "geometry": {"coordinates":[-118.395332,37.365402],"type":"Point"}
 }

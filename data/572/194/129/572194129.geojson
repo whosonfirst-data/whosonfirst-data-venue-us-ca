@@ -2,68 +2,76 @@
   "id": 572194129,
   "type": "Feature",
   "properties": {
-    "addr:full":"6505 Regional St Dublin CA 94568",
-    "addr:housenumber":"6505",
-    "addr:postcode":"94568",
-    "addr:street":"Regional St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.932539,37.700596,-121.932539,37.700596",
-    "geom:latitude":37.700596,
-    "geom:longitude":-121.932539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"6505 Regional St",
-    "sg:city":"Dublin",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6505 Regional St Dublin CA 94568",
+    "addr:housenumber": "6505",
+    "addr:postcode": "94568",
+    "addr:street": "Regional St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.932539,37.700596,-121.932539,37.700596",
+    "geom:latitude": 37.700596,
+    "geom:longitude": -121.932539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Outback Steakhouse, 6505 Regional St Dublin CA US",
+    "ovtr:similarity": 2.397665023803711,
+    "sg:address": "6505 Regional St",
+    "sg:city": "Dublin",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/livermore-pleasanton/97929-outback-steakhouse/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 833 9335",
-    "sg:postcode":"94568",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "steakhouse"
+    "sg:menulink": "http://www.allmenus.com/ca/livermore-pleasanton/97929-outback-steakhouse/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 833 9335",
+    "sg:postcode": "94568",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "steakhouse"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420575933,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":235768523,
-        "sg:id":"SG_7fSIiywA7WivwCki7UA3aj_37.700596_-121.932539@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420575933,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 235768523,
+      "ovtr:id": "08f28346d3adc18b031bc7492d5a8bd6",
+      "sg:id": "SG_7fSIiywA7WivwCki7UA3aj_37.700596_-121.932539@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d8872cb6e119846eb134b258d59c90a9",
-    "wof:hierarchy":[],
-    "wof:id":572194129,
-    "wof:lastmodified":1510943402,
-    "wof:name":"Outback Steakhouse",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "steakhouse"
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "d8872cb6e119846eb134b258d59c90a9",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572194129
+      }
+    ],
+    "wof:id": 572194129,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Outback Steakhouse",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "steakhouse"
     ]
-},
+  },
   "bbox": [
     -121.932539,
     37.700596,
     -121.932539,
     37.700596
-],
-  "geometry": {"coordinates":[-121.93253900000001,37.700596],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.932539,37.700596],"type":"Point"}
 }

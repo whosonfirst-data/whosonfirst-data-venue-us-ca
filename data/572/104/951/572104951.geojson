@@ -2,64 +2,72 @@
   "id": 572104951,
   "type": "Feature",
   "properties": {
-    "addr:full":"437 San Pablo Ave Albany CA 94706",
-    "addr:housenumber":"437",
-    "addr:postcode":"94706",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.301267,37.897698,-122.301267,37.897698",
-    "geom:latitude":37.897698,
-    "geom:longitude":-122.301267,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"437 San Pablo Ave",
-    "sg:city":"Albany",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "437 San Pablo Ave Albany CA 94706",
+    "addr:housenumber": "437",
+    "addr:postcode": "94706",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.301267,37.897698,-122.301267,37.897698",
+    "geom:latitude": 37.897698,
+    "geom:longitude": -122.301267,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Al's Big Burger, 437 San Pablo Ave Albany CA US",
+    "ovtr:similarity": 2.75946307182312,
+    "sg:address": "437 San Pablo Ave",
+    "sg:city": "Albany",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 527 1523",
-    "sg:postcode":"94706",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 527 1523",
+    "sg:postcode": "94706",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":227282079,
-        "sg:id":"SG_5QgbPoei9bVROyTvnyo4WQ_37.897965_-122.301324@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 227282079,
+      "ovtr:id": "08f28308f099378003b5847d98227350",
+      "sg:id": "SG_5QgbPoei9bVROyTvnyo4WQ_37.897965_-122.301324@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"847c35d21b4b12f8523069ea59067b57",
-    "wof:hierarchy":[],
-    "wof:id":572104951,
-    "wof:lastmodified":1510943965,
-    "wof:name":"Al's Big Burger",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "847c35d21b4b12f8523069ea59067b57",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572104951
+      }
+    ],
+    "wof:id": 572104951,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Al's Big Burger",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -122.301267,
     37.897698,
     -122.301267,
     37.897698
-],
+  ],
   "geometry": {"coordinates":[-122.301267,37.897698],"type":"Point"}
 }

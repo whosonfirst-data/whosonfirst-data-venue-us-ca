@@ -2,82 +2,86 @@
   "id": 555458411,
   "type": "Feature",
   "properties": {
-    "addr:full":"815 Olive Ave Novato CA 94945",
-    "addr:housenumber":"815",
-    "addr:postcode":"94945",
-    "addr:street":"Olive Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.568667,38.111177,-122.568667,38.111177",
-    "geom:latitude":38.111177,
-    "geom:longitude":-122.568667,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"815 Olive Ave",
-    "sg:city":"Novato",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "815 Olive Ave Novato CA 94945",
+    "addr:housenumber": "815",
+    "addr:postcode": "94945",
+    "addr:street": "Olive Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.568667,38.111177,-122.568667,38.111177",
+    "geom:latitude": 38.111177,
+    "geom:longitude": -122.568667,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hans Foreign Car Repair Services, 815 Olive Ave Novato CA US",
+    "ovtr:similarity": 2.7953600883483887,
+    "sg:address": "815 Olive Ave",
+    "sg:city": "Novato",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 892 6016",
-    "sg:postcode":"94945",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 892 6016",
+    "sg:postcode": "94945",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922017,
-        102084353,
-        85886671
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922017,
+      102084353,
+      85886671
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03EhUe3C0ydYn2yjV0weAo_38.111177_-122.568667@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830aa00684740332950cb52a98e8",
+      "sg:id": "SG_03EhUe3C0ydYn2yjV0weAo_38.111177_-122.568667@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e4538a7aa9234a543d00b09cb7383b51",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922017,
-            "neighbourhood_id":85886671,
-            "region_id":85688637,
-            "venue_id":555458411
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "e4538a7aa9234a543d00b09cb7383b51",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922017,
+        "neighbourhood_id": 85886671,
+        "region_id": 85688637,
+        "venue_id": 555458411
+      }
     ],
-    "wof:id":555458411,
-    "wof:lastmodified":1509201399,
-    "wof:name":"Hans Foreign Car Repair",
-    "wof:parent_id":85886671,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 555458411,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Hans Foreign Car Repair",
+    "wof:parent_id": 85886671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -122.568667,
     38.111177,
     -122.568667,
     38.111177
-],
+  ],
   "geometry": {"coordinates":[-122.568667,38.111177],"type":"Point"}
 }

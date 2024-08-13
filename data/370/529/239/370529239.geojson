@@ -2,77 +2,81 @@
   "id": 370529239,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Ramirez Street Los Angeles CA 90012",
-    "addr:housenumber":"555",
-    "addr:postcode":"90012",
-    "addr:street":"Ramirez Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.229885,34.054295,-118.229885,34.054295",
-    "geom:latitude":34.054295,
-    "geom:longitude":-118.229885,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"555 Ramirez Street",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"City Hall",
-            "type":"Public Place"
-        }
+    "addr:full": "555 Ramirez Street Los Angeles CA 90012",
+    "addr:housenumber": "555",
+    "addr:postcode": "90012",
+    "addr:street": "Ramirez Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.229885,34.054295,-118.229885,34.054295",
+    "geom:latitude": 34.054295,
+    "geom:longitude": -118.229885,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "C. Erwin Piper Technical Center, 555 Ramirez St Los Angeles CA US",
+    "ovtr:similarity": 2.485253095626831,
+    "sg:address": "555 Ramirez Street",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "City Hall",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 473 8440",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865837",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 473 8440",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865837
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_209VkxzhS017G8VMKlAby0_34.054295_-118.229885@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d70a017ae0309ad975469d308",
+      "sg:id": "SG_209VkxzhS017G8VMKlAby0_34.054295_-118.229885@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"755e069c0a983a22e7d0ccb0d841b10d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865837",
-            "region_id":85688637,
-            "venue_id":370529239
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "755e069c0a983a22e7d0ccb0d841b10d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865837,
+        "region_id": 85688637,
+        "venue_id": 370529239
+      }
     ],
-    "wof:id":370529239,
-    "wof:lastmodified":1509200759,
-    "wof:name":"C. Erwin Piper Technical Center",
-    "wof:parent_id":"85865837",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370529239,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "C. Erwin Piper Technical Center",
+    "wof:parent_id": "85865837",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.229885,
     34.054295,
     -118.229885,
     34.054295
-],
+  ],
   "geometry": {"coordinates":[-118.229885,34.054295],"type":"Point"}
 }

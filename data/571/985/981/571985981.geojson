@@ -2,83 +2,87 @@
   "id": 571985981,
   "type": "Feature",
   "properties": {
-    "addr:full":"8722 W Pico Blvd Los Angeles CA 90035",
-    "addr:housenumber":"8722",
-    "addr:postcode":"90035",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.382004,34.0546,-118.382004,34.0546",
-    "geom:latitude":34.0546,
-    "geom:longitude":-118.382004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"8722 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8722 W Pico Blvd Los Angeles CA 90035",
+    "addr:housenumber": "8722",
+    "addr:postcode": "90035",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.382004,34.054600,-118.382004,34.054600",
+    "geom:latitude": 34.0546,
+    "geom:longitude": -118.382004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Century Pico Pharmacy, 8722 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.2723588943481445,
+    "sg:address": "8722 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 657 6999",
-    "sg:postcode":"90035",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 657 6999",
+    "sg:postcode": "90035",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865815",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000402103-0001-7",
-        "sg:id":"SG_0rvw8yoId4K27wMIZEHrhs_34.054394_-118.382232@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000402103-0001-7",
+      "ovtr:id": "08f29a199ec34a8103915b4200c59ab1",
+      "sg:id": "SG_0rvw8yoId4K27wMIZEHrhs_34.054394_-118.382232@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5e5eeef8ed016290a84285aab9da2c54",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85865815",
-            "region_id":85688637,
-            "venue_id":571985981
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "5e5eeef8ed016290a84285aab9da2c54",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85865815,
+        "region_id": 85688637,
+        "venue_id": 571985981
+      }
     ],
-    "wof:id":571985981,
-    "wof:lastmodified":1509201656,
-    "wof:name":"Century Pico Pharmacy Inc",
-    "wof:parent_id":"85865815",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 571985981,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Century Pico Pharmacy Inc",
+    "wof:parent_id": "85865815",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.382004,
     34.0546,
     -118.382004,
     34.0546
-],
-  "geometry": {"coordinates":[-118.38200399999999,34.0546],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.382004,34.0546],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 588514101,
   "type": "Feature",
   "properties": {
-    "addr:full":"1245 University Ave Berkeley CA 94702",
-    "addr:housenumber":"1245",
-    "addr:postcode":"94702",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.288274,37.869924,-122.288274,37.869924",
-    "geom:latitude":37.869924,
-    "geom:longitude":-122.288274,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1245 University Ave",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1245 University Ave Berkeley CA 94702",
+    "addr:housenumber": "1245",
+    "addr:postcode": "94702",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.288274,37.869924,-122.288274,37.869924",
+    "geom:latitude": 37.869924,
+    "geom:longitude": -122.288274,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Frank's Engineering Clinic, 1245 University Ave Berkeley CA US",
+    "ovtr:similarity": 2.12923002243042,
+    "sg:address": "1245 University Ave",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 845 3202",
-    "sg:postcode":"94702",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921915,
-        102086959,
-        85876225
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 845 3202",
+    "sg:postcode": "94702",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921915,
+      102086959,
+      85876225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TNBXjvHLOxQYdZ2b77eev_37.869924_-122.288274@1303263348"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308a9b561ad0361169374ecb007",
+      "sg:id": "SG_2TNBXjvHLOxQYdZ2b77eev_37.869924_-122.288274@1303263348"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1846a6ae4899e67d8f262e1ddbd0f818",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921915,
-            "neighbourhood_id":85876225,
-            "region_id":85688637,
-            "venue_id":588514101
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "1846a6ae4899e67d8f262e1ddbd0f818",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921915,
+        "neighbourhood_id": 85876225,
+        "region_id": 85688637,
+        "venue_id": 588514101
+      }
     ],
-    "wof:id":588514101,
-    "wof:lastmodified":1509202109,
-    "wof:name":"Frank's Engineering Clinic",
-    "wof:parent_id":85876225,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588514101,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Frank's Engineering Clinic",
+    "wof:parent_id": 85876225,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.288274,
     37.869924,
     -122.288274,
     37.869924
-],
+  ],
   "geometry": {"coordinates":[-122.288274,37.869924],"type":"Point"}
 }

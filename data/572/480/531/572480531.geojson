@@ -2,82 +2,86 @@
   "id": 572480531,
   "type": "Feature",
   "properties": {
-    "addr:full":"123 23rd St. Newport Beach CA 92663",
-    "addr:housenumber":"123",
-    "addr:postcode":"92663",
-    "addr:street":"23Rd St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.929062,33.610126,-117.929062,33.610126",
-    "geom:latitude":33.610126,
-    "geom:longitude":-117.929062,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"123 23rd St.",
-    "sg:city":"Newport Beach",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "123 23rd St. Newport Beach CA 92663",
+    "addr:housenumber": "123",
+    "addr:postcode": "92663",
+    "addr:street": "23Rd St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.929062,33.610126,-117.929062,33.610126",
+    "geom:latitude": 33.610126,
+    "geom:longitude": -117.929062,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sakae Sushi, 123 23rd St Newport Beach CA US",
+    "ovtr:similarity": 2.8007729053497314,
+    "sg:address": "123 23rd St.",
+    "sg:city": "Newport Beach",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 675 8899",
-    "sg:postcode":"92663",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sushi",
-        "bar"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 675 8899",
+    "sg:postcode": "92663",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sushi",
+      "bar"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923075,
-        102080847,
-        85895881
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923075,
+      102080847,
+      85895881
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1eBwAOIhcRAabZhhe15fpG_33.610126_-117.929062@1303263270"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a54c42e30960303e66db717fa70",
+      "sg:id": "SG_1eBwAOIhcRAabZhhe15fpG_33.610126_-117.929062@1303263270"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ee88c195e872caae7670bd204ce6b7f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923075,
-            "neighbourhood_id":85895881,
-            "region_id":85688637,
-            "venue_id":572480531
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "ee88c195e872caae7670bd204ce6b7f3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923075,
+        "neighbourhood_id": 85895881,
+        "region_id": 85688637,
+        "venue_id": 572480531
+      }
     ],
-    "wof:id":572480531,
-    "wof:lastmodified":1509201917,
-    "wof:name":"Sakae Sushi",
-    "wof:parent_id":85895881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sushi",
-        "bar"
+    "wof:id": 572480531,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Sakae Sushi",
+    "wof:parent_id": 85895881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sushi",
+      "bar"
     ]
-},
+  },
   "bbox": [
     -117.929062,
     33.610126,
     -117.929062,
     33.610126
-],
+  ],
   "geometry": {"coordinates":[-117.929062,33.610126],"type":"Point"}
 }

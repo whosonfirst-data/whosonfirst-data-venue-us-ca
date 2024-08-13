@@ -2,92 +2,96 @@
   "id": 572395883,
   "type": "Feature",
   "properties": {
-    "addr:full":"42250 Jackson St Indio CA 92203",
-    "addr:housenumber":"42250",
-    "addr:postcode":"92203",
-    "addr:street":"Jackson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.216613,33.742755,-116.216613,33.742755",
-    "geom:latitude":33.742755,
-    "geom:longitude":-116.216613,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"42250 Jackson St",
-    "sg:city":"Indio",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        },
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Financial Services",
-            "type":"Services"
-        }
+    "addr:full": "42250 Jackson St Indio CA 92203",
+    "addr:housenumber": "42250",
+    "addr:postcode": "92203",
+    "addr:street": "Jackson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.216613,33.742755,-116.216613,33.742755",
+    "geom:latitude": 33.742755,
+    "geom:longitude": -116.216613,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "U.S. Bank, 42250 Jackson St Indio CA US",
+    "ovtr:similarity": 2.3062100410461426,
+    "sg:address": "42250 Jackson St",
+    "sg:city": "Indio",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      },
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 863 0863",
-    "sg:postcode":"92203",
-    "sg:province":"CA",
-    "sg:tags":[
-        "saving",
-        "loan",
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 863 0863",
+    "sg:postcode": "92203",
+    "sg:province": "CA",
+    "sg:tags": [
+      "saving",
+      "loan",
+      "commercial"
     ],
-    "sg:website":"http://www.usbank.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923417,
-        102086221,
-        85836161
+    "sg:website": "http://www.usbank.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923417,
+      102086221,
+      85836161
     ],
-    "wof:brand_id":1125150269,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":152290504,
-        "sg:id":"SG_7dE3jzLliUvwgofpSfPlHh_33.742755_-116.216613@1303263249"
+    "wof:brand_id": 1125150269,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 152290504,
+      "ovtr:id": "08f29a63997adda6034fbac718766f2d",
+      "sg:id": "SG_7dE3jzLliUvwgofpSfPlHh_33.742755_-116.216613@1303263249"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f2b199e5e1c4992e2851e2b5741b687a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923417,
-            "neighbourhood_id":85836161,
-            "region_id":85688637,
-            "venue_id":572395883
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "f2b199e5e1c4992e2851e2b5741b687a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923417,
+        "neighbourhood_id": 85836161,
+        "region_id": 85688637,
+        "venue_id": 572395883
+      }
     ],
-    "wof:id":572395883,
-    "wof:lastmodified":1510942688,
-    "wof:name":"U.S. Bank",
-    "wof:parent_id":85836161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "saving",
-        "loan",
-        "commercial"
+    "wof:id": 572395883,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "U.S. Bank",
+    "wof:parent_id": 85836161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "saving",
+      "loan",
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -116.216613,
     33.742755,
     -116.216613,
     33.742755
-],
+  ],
   "geometry": {"coordinates":[-116.216613,33.742755],"type":"Point"}
 }

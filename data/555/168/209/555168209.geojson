@@ -2,58 +2,66 @@
   "id": 555168209,
   "type": "Feature",
   "properties": {
-    "addr:full":"508 Main St Woodland CA 95695",
-    "addr:housenumber":"508",
-    "addr:postcode":"95695",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.773266,38.677418,-121.773266,38.677418",
-    "geom:latitude":38.677418,
-    "geom:longitude":-121.773266,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"508 Main St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Shoes",
-            "type":"Retail Goods"
-        }
+    "addr:full": "508 Main St Woodland CA 95695",
+    "addr:housenumber": "508",
+    "addr:postcode": "95695",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.773266,38.677418,-121.773266,38.677418",
+    "geom:latitude": 38.677418,
+    "geom:longitude": -121.773266,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Emil's Family Shoe Store, 508 Main St Woodland CA US",
+    "ovtr:similarity": 2.653881072998047,
+    "sg:address": "508 Main St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Shoes",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 662 3827",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71Lf725TjMbPTnNjCevqM0_38.677418_-121.773266@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 662 3827",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b49752c340398cf5f49880c3f",
+      "sg:id": "SG_71Lf725TjMbPTnNjCevqM0_38.677418_-121.773266@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"97ac670f396f3d490f23802f5b67cf45",
-    "wof:hierarchy":[],
-    "wof:id":555168209,
-    "wof:lastmodified":1509201300,
-    "wof:name":"Emil's Family Shoe Store",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "97ac670f396f3d490f23802f5b67cf45",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555168209
+      }
+    ],
+    "wof:id": 555168209,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Emil's Family Shoe Store",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.773266,
     38.677418,
     -121.773266,
     38.677418
-],
-  "geometry": {"coordinates":[-121.77326600000001,38.677418],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.773266,38.677418],"type":"Point"}
 }

@@ -2,79 +2,83 @@
   "id": 370542079,
   "type": "Feature",
   "properties": {
-    "addr:full":"1245 N Spring St Los Angeles CA 90012",
-    "addr:housenumber":"1245",
-    "addr:postcode":"90012",
-    "addr:street":"N Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.236072,34.063655,-118.236072,34.063655",
-    "geom:latitude":34.063655,
-    "geom:longitude":-118.236072,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1245 N Spring St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Park",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "1245 N Spring St Los Angeles CA 90012",
+    "addr:housenumber": "1245",
+    "addr:postcode": "90012",
+    "addr:street": "N Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.236072,34.063655,-118.236072,34.063655",
+    "geom:latitude": 34.063655,
+    "geom:longitude": -118.236072,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Los Angeles State Historic Park, 1245 N Spring St Los Angeles CA US",
+    "ovtr:similarity": 2.927215099334717,
+    "sg:address": "1245 N Spring St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Park",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:website":"www.parks.ca.gov",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1041531499,
-        "85866825",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:website": "www.parks.ca.gov",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1041531499,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85866825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dYNrmZitlw6JnsNuM1FFo_34.063655_-118.236072@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d7158c6f3032a866491210194",
+      "sg:id": "SG_3dYNrmZitlw6JnsNuM1FFo_34.063655_-118.236072@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dc74a1639acbd49ff458140408390cd2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1041531499,
-            "neighbourhood_id":"85866825",
-            "region_id":85688637,
-            "venue_id":370542079
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "dc74a1639acbd49ff458140408390cd2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1041531499,
+        "neighbourhood_id": 85866825,
+        "region_id": 85688637,
+        "venue_id": 370542079
+      }
     ],
-    "wof:id":370542079,
-    "wof:lastmodified":1509200761,
-    "wof:name":"Los Angeles State Historic Park",
-    "wof:parent_id":1041531499,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370542079,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Los Angeles State Historic Park",
+    "wof:parent_id": 1041531499,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.236072,
     34.063655,
     -118.236072,
     34.063655
-],
-  "geometry": {"coordinates":[-118.23607199999999,34.063655],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.236072,34.063655],"type":"Point"}
 }

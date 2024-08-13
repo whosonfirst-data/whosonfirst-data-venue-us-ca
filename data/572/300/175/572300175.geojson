@@ -2,84 +2,88 @@
   "id": 572300175,
   "type": "Feature",
   "properties": {
-    "addr:full":"2125 San Gabriel Blvd Rosemead CA 91770",
-    "addr:housenumber":"2125",
-    "addr:postcode":"91770",
-    "addr:street":"San Gabriel Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.091003,34.053101,-118.091003,34.053101",
-    "geom:latitude":34.053101,
-    "geom:longitude":-118.091003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2125 San Gabriel Blvd",
-    "sg:city":"Rosemead",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2125 San Gabriel Blvd Rosemead CA 91770",
+    "addr:housenumber": "2125",
+    "addr:postcode": "91770",
+    "addr:street": "San Gabriel Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.091003,34.053101,-118.091003,34.053101",
+    "geom:latitude": 34.053101,
+    "geom:longitude": -118.091003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vito Liquor, 2125 San Gabriel Blvd Rosemead CA US",
+    "ovtr:similarity": 1.9371559619903564,
+    "sg:address": "2125 San Gabriel Blvd",
+    "sg:city": "Rosemead",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 572 9086",
-    "sg:postcode":"91770",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 572 9086",
+    "sg:postcode": "91770",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923499,
-        102086957,
-        85858049
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923499,
+      102086957,
+      85858049
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ZZUnh4P4DPtMtzcLiVRzs_34.053101_-118.091003@1303263225"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d034510d903f9dda8a93d007e",
+      "sg:id": "SG_2ZZUnh4P4DPtMtzcLiVRzs_34.053101_-118.091003@1303263225"
     },
-    "wof:country":"US",
-    "wof:geomhash":"64772022ff1b75412eeeab335beb87e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923499,
-            "neighbourhood_id":85858049,
-            "region_id":85688637,
-            "venue_id":572300175
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "64772022ff1b75412eeeab335beb87e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923499,
+        "neighbourhood_id": 85858049,
+        "region_id": 85688637,
+        "venue_id": 572300175
+      }
     ],
-    "wof:id":572300175,
-    "wof:lastmodified":1509201796,
-    "wof:name":"Vito Liquor",
-    "wof:parent_id":85858049,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572300175,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Vito Liquor",
+    "wof:parent_id": 85858049,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.091003,
     34.053101,
     -118.091003,
     34.053101
-],
+  ],
   "geometry": {"coordinates":[-118.091003,34.053101],"type":"Point"}
 }

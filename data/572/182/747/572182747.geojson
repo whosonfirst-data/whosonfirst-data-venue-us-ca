@@ -2,66 +2,74 @@
   "id": 572182747,
   "type": "Feature",
   "properties": {
-    "addr:full":"3940 State St Santa Barbara CA 93105",
-    "addr:housenumber":"3940",
-    "addr:postcode":"93105",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.753051,34.440891,-119.753051,34.440891",
-    "geom:latitude":34.440891,
-    "geom:longitude":-119.753051,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3940 State St",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3940 State St Santa Barbara CA 93105",
+    "addr:housenumber": "3940",
+    "addr:postcode": "93105",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.753051,34.440891,-119.753051,34.440891",
+    "geom:latitude": 34.440891,
+    "geom:longitude": -119.753051,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 3940 State St Santa Barbara CA US",
+    "ovtr:similarity": 2.694936990737915,
+    "sg:address": "3940 State St",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/santa-barbara/216414-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"93105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/santa-barbara/216414-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "93105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1BiOQRujRbARU9aHZ7KEsQ_34.440891_-119.753051@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ac915c4143303ec4fbf70e13681",
+      "sg:id": "SG_1BiOQRujRbARU9aHZ7KEsQ_34.440891_-119.753051@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"90ac1de9d902f2d64c790c8aeeabbca2",
-    "wof:hierarchy":[],
-    "wof:id":572182747,
-    "wof:lastmodified":1512142830,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "90ac1de9d902f2d64c790c8aeeabbca2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572182747
+      }
+    ],
+    "wof:id": 572182747,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -119.753051,
     34.440891,
     -119.753051,
     34.440891
-],
+  ],
   "geometry": {"coordinates":[-119.753051,34.440891],"type":"Point"}
 }

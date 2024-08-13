@@ -2,83 +2,87 @@
   "id": 404135933,
   "type": "Feature",
   "properties": {
-    "addr:full":"27 E Woodbury Rd Altadena CA 91001",
-    "addr:housenumber":"27",
-    "addr:postcode":"91001",
-    "addr:street":"E Woodbury Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.151001,34.183399,-118.151001,34.183399",
-    "geom:latitude":34.183399,
-    "geom:longitude":-118.151001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"27 E Woodbury Rd",
-    "sg:city":"Altadena",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "27 E Woodbury Rd Altadena CA 91001",
+    "addr:housenumber": "27",
+    "addr:postcode": "91001",
+    "addr:street": "E Woodbury Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.151001,34.183399,-118.151001,34.183399",
+    "geom:latitude": 34.183399,
+    "geom:longitude": -118.151001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "R J's Liquor, 27 E Woodbury Rd Altadena CA US",
+    "ovtr:similarity": 3.3623299598693848,
+    "sg:address": "27 E Woodbury Rd",
+    "sg:city": "Altadena",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 798 4314",
-    "sg:postcode":"91001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 798 4314",
+    "sg:postcode": "91001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928289,
-        102086957,
-        85885565
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928289,
+      102086957,
+      85885565
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nDmdGTUOD47k0FIFg80aw_34.183399_-118.151001@1303263201"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c2a1016090333ed1720463b07",
+      "sg:id": "SG_0nDmdGTUOD47k0FIFg80aw_34.183399_-118.151001@1303263201"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7b5e170eb795414403513bd4ee56ba69",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928289,
-            "neighbourhood_id":85885565,
-            "region_id":85688637,
-            "venue_id":404135933
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "7b5e170eb795414403513bd4ee56ba69",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928289,
+        "neighbourhood_id": 85885565,
+        "region_id": 85688637,
+        "venue_id": 404135933
+      }
     ],
-    "wof:id":404135933,
-    "wof:lastmodified":1509201209,
-    "wof:name":"Rj's Liquor",
-    "wof:parent_id":85885565,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 404135933,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Rj's Liquor",
+    "wof:parent_id": 85885565,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.151001,
     34.183399,
     -118.151001,
     34.183399
-],
-  "geometry": {"coordinates":[-118.15100099999999,34.183399],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.151001,34.183399],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 370913047,
   "type": "Feature",
   "properties": {
-    "addr:full":"2320 E 4th St Los Angeles CA 90033",
-    "addr:housenumber":"2320",
-    "addr:postcode":"90033",
-    "addr:street":"E 4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.212609,34.040954,-118.212609,34.040954",
-    "geom:latitude":34.040954,
-    "geom:longitude":-118.212609,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2320 E 4th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2320 E 4th St Los Angeles CA 90033",
+    "addr:housenumber": "2320",
+    "addr:postcode": "90033",
+    "addr:street": "E 4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.212609,34.040954,-118.212609,34.040954",
+    "geom:latitude": 34.040954,
+    "geom:longitude": -118.212609,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Carl's Jr., 2320 E 4th St Los Angeles CA US",
+    "ovtr:similarity": 2.7017459869384766,
+    "sg:address": "2320 E 4th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90033",
-    "sg:province":"CA",
-    "sg:website":"www.carlsjr.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85806935
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90033",
+    "sg:province": "CA",
+    "sg:website": "www.carlsjr.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85806935
     ],
-    "wof:brand_id":1125148741,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Px1nj4C57VlMFaHY8A5H1_34.040954_-118.212609@1303263158"
+    "wof:brand_id": 1125148741,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d74791a6d03f0b649941f007d",
+      "sg:id": "SG_7Px1nj4C57VlMFaHY8A5H1_34.040954_-118.212609@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a1e28352ee18a68a34401c091a204a48",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85806935,
-            "region_id":85688637,
-            "venue_id":370913047
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "a1e28352ee18a68a34401c091a204a48",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85806935,
+        "region_id": 85688637,
+        "venue_id": 370913047
+      }
     ],
-    "wof:id":370913047,
-    "wof:lastmodified":1510874719,
-    "wof:name":"Carl's Jr.",
-    "wof:parent_id":85806935,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370913047,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Carl's Jr.",
+    "wof:parent_id": 85806935,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.212609,
     34.040954,
     -118.212609,
     34.040954
-],
+  ],
   "geometry": {"coordinates":[-118.212609,34.040954],"type":"Point"}
 }

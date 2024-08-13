@@ -2,86 +2,90 @@
   "id": 572018675,
   "type": "Feature",
   "properties": {
-    "addr:full":"4355 S Main St Los Angeles CA 90037",
-    "addr:housenumber":"4355",
-    "addr:postcode":"90037",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.274457,34.00407,-118.274457,34.00407",
-    "geom:latitude":34.00407,
-    "geom:longitude":-118.274457,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4355 S Main St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4355 S Main St Los Angeles CA 90037",
+    "addr:housenumber": "4355",
+    "addr:postcode": "90037",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.274457,34.004070,-118.274457,34.004070",
+    "geom:latitude": 34.00407,
+    "geom:longitude": -118.274457,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "AutoZone, 4355 S Main St Los Angeles CA US",
+    "ovtr:similarity": 2.454180955886841,
+    "sg:address": "4355 S Main St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 231 9450",
-    "sg:postcode":"90037",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automotive",
-        "part",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 231 9450",
+    "sg:postcode": "90037",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automotive",
+      "part",
+      "automobile"
     ],
-    "sg:website":"www.autozone.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85865789
+    "sg:website": "www.autozone.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85865789
     ],
-    "wof:brand_id":1125149025,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24Am4VVQ3J2nv5un4YBXY4_34.003828_-118.273978@1293134755"
+    "wof:brand_id": 1125149025,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d9bb1a8b031a6c8910740b49",
+      "sg:id": "SG_24Am4VVQ3J2nv5un4YBXY4_34.003828_-118.273978@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3f1a4a55228a2b1e405f201721029655",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865789,
-            "region_id":85688637,
-            "venue_id":572018675
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "3f1a4a55228a2b1e405f201721029655",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865789,
+        "region_id": 85688637,
+        "venue_id": 572018675
+      }
     ],
-    "wof:id":572018675,
-    "wof:lastmodified":1511319732,
-    "wof:name":"AutoZone",
-    "wof:parent_id":85865789,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automotive",
-        "part",
-        "automobile"
+    "wof:id": 572018675,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "AutoZone",
+    "wof:parent_id": 85865789,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automotive",
+      "part",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -118.274457,
     34.00407,
     -118.274457,
     34.00407
-],
+  ],
   "geometry": {"coordinates":[-118.274457,34.00407],"type":"Point"}
 }

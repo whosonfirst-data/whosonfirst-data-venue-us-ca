@@ -2,85 +2,89 @@
   "id": 404114939,
   "type": "Feature",
   "properties": {
-    "addr:full":"6332 E Spring St Long Beach CA 90815",
-    "addr:housenumber":"6332",
-    "addr:postcode":"90815",
-    "addr:street":"E Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.108627,33.810404,-118.108627,33.810404",
-    "geom:latitude":33.810404,
-    "geom:longitude":-118.108627,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6332 E Spring St",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Optician",
-            "type":"Retail Goods"
-        }
+    "addr:full": "6332 E Spring St Long Beach CA 90815",
+    "addr:housenumber": "6332",
+    "addr:postcode": "90815",
+    "addr:street": "E Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.108627,33.810404,-118.108627,33.810404",
+    "geom:latitude": 33.810404,
+    "geom:longitude": -118.108627,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Long Beach Family Optometry, 6332 E Spring St Long Beach CA US",
+    "ovtr:similarity": 2.279719114303589,
+    "sg:address": "6332 E Spring St",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Optician",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 421 4488",
-    "sg:postcode":"90815",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eyewear"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 421 4488",
+    "sg:postcode": "90815",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eyewear"
     ],
-    "sg:website":"www.longbeachoptometry.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85831437
+    "sg:website": "www.longbeachoptometry.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85831437
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2sfwyC29rRfYGM3AqTV0G6_33.810404_-118.108627@1303263200"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56a04ceca603ad7cdab584aa8c",
+      "sg:id": "SG_2sfwyC29rRfYGM3AqTV0G6_33.810404_-118.108627@1303263200"
     },
-    "wof:country":"US",
-    "wof:geomhash":"17ce0030cf925323731c3c3f090c7aab",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85831437,
-            "region_id":85688637,
-            "venue_id":404114939
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "17ce0030cf925323731c3c3f090c7aab",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85831437,
+        "region_id": 85688637,
+        "venue_id": 404114939
+      }
     ],
-    "wof:id":404114939,
-    "wof:lastmodified":1509201205,
-    "wof:name":"Long Beach Family Optometry",
-    "wof:parent_id":85831437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eyewear"
+    "wof:id": 404114939,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Long Beach Family Optometry",
+    "wof:parent_id": 85831437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eyewear"
     ]
-},
+  },
   "bbox": [
     -118.108627,
     33.810404,
     -118.108627,
     33.810404
-],
+  ],
   "geometry": {"coordinates":[-118.108627,33.810404],"type":"Point"}
 }

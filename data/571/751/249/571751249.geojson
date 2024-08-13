@@ -2,74 +2,78 @@
   "id": 571751249,
   "type": "Feature",
   "properties": {
-    "addr:full":"2501 Rd 88 Dunnigan CA 95912",
-    "addr:housenumber":"2501",
-    "addr:postcode":"95912",
-    "addr:street":"Rd 88",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.990925,38.910524,-121.990925,38.910524",
-    "geom:latitude":38.910524,
-    "geom:longitude":-121.990925,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2501 Rd 88",
-    "sg:city":"Dunnigan",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "2501 Rd 88 Dunnigan CA 95912",
+    "addr:housenumber": "2501",
+    "addr:postcode": "95912",
+    "addr:street": "Rd 88",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.990925,38.910524,-121.990925,38.910524",
+    "geom:latitude": 38.910524,
+    "geom:longitude": -121.990925,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Campers Inn RV Park, 2501 County Road 88 Dunnigan CA US",
+    "ovtr:similarity": 3.5564229488372803,
+    "sg:address": "2501 Rd 88",
+    "sg:city": "Dunnigan",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 724 3350",
-    "sg:postcode":"95912",
-    "sg:province":"CA",
-    "sg:website":"www.campersinnrv.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85803661,
-        85633793,
-        85922409,
-        102082309,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 724 3350",
+    "sg:postcode": "95912",
+    "sg:province": "CA",
+    "sg:website": "www.campersinnrv.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85803661,
+      85633793,
+      85922409,
+      102082309,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2iNpgHbx7jfGDwuXK5bt8v_38.910524_-121.990925@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2833d540c260b039674de054169d9",
+      "sg:id": "SG_2iNpgHbx7jfGDwuXK5bt8v_38.910524_-121.990925@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5735b0cdf97d2c1b7209562458f0baa6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922409,
-            "neighbourhood_id":85803661,
-            "region_id":85688637,
-            "venue_id":571751249
-        }
+    "wof:country": "US",
+    "wof:created": 1723561704,
+    "wof:geomhash": "5735b0cdf97d2c1b7209562458f0baa6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922409,
+        "neighbourhood_id": 85803661,
+        "region_id": 85688637,
+        "venue_id": 571751249
+      }
     ],
-    "wof:id":571751249,
-    "wof:lastmodified":1509201580,
-    "wof:name":"Campers Inn Rv Park",
-    "wof:parent_id":85803661,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571751249,
+    "wof:lastmodified": 1723561704,
+    "wof:name": "Campers Inn Rv Park",
+    "wof:parent_id": 85803661,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.990925,
     38.910524,
     -121.990925,
     38.910524
-],
+  ],
   "geometry": {"coordinates":[-121.990925,38.910524],"type":"Point"}
 }

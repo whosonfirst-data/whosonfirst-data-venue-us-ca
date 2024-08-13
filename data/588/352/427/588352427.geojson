@@ -2,75 +2,79 @@
   "id": 588352427,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 El Camino Real San Bruno CA 94066",
-    "addr:housenumber":"200",
-    "addr:postcode":"94066",
-    "addr:street":"El Camino Real",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.40874,37.618136,-122.40874,37.618136",
-    "geom:latitude":37.618136,
-    "geom:longitude":-122.40874,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"200 El Camino Real",
-    "sg:city":"San Bruno",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "200 El Camino Real San Bruno CA 94066",
+    "addr:housenumber": "200",
+    "addr:postcode": "94066",
+    "addr:street": "El Camino Real",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.408740,37.618136,-122.408740,37.618136",
+    "geom:latitude": 37.618136,
+    "geom:longitude": -122.40874,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Peninsula Transmission, 200 El Camino Real San Bruno CA US",
+    "ovtr:similarity": 2.9384210109710693,
+    "sg:address": "200 El Camino Real",
+    "sg:city": "San Bruno",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 589 8737",
-    "sg:postcode":"94066",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922441,
-        102085387,
-        85887217
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 589 8737",
+    "sg:postcode": "94066",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922441,
+      102085387,
+      85887217
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2cpRzmW8hVjXdRK6vIxKZd_37.618136_-122.408740@1303263307"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283092801c2c603060ec096229802",
+      "sg:id": "SG_2cpRzmW8hVjXdRK6vIxKZd_37.618136_-122.408740@1303263307"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1701a3ba43ec815c8082fa79e565c905",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922441,
-            "neighbourhood_id":85887217,
-            "region_id":85688637,
-            "venue_id":588352427
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "1701a3ba43ec815c8082fa79e565c905",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922441,
+        "neighbourhood_id": 85887217,
+        "region_id": 85688637,
+        "venue_id": 588352427
+      }
     ],
-    "wof:id":588352427,
-    "wof:lastmodified":1509202010,
-    "wof:name":"Peninsula Transmission",
-    "wof:parent_id":85887217,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588352427,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Peninsula Transmission",
+    "wof:parent_id": 85887217,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.40874,
     37.618136,
     -122.40874,
     37.618136
-],
-  "geometry": {"coordinates":[-122.40873999999999,37.618136],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.40874,37.618136],"type":"Point"}
 }

@@ -2,87 +2,91 @@
   "id": 588420681,
   "type": "Feature",
   "properties": {
-    "addr:full":"1541 Sloat Boulevard San Francisco CA 94132",
-    "addr:housenumber":"1541",
-    "addr:postcode":"94132",
-    "addr:street":"Sloat Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.489998,37.733898,-122.489998,37.733898",
-    "geom:latitude":37.733898,
-    "geom:longitude":-122.489998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1541 Sloat Boulevard",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Optician",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1541 Sloat Boulevard San Francisco CA 94132",
+    "addr:housenumber": "1541",
+    "addr:postcode": "94132",
+    "addr:street": "Sloat Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.489998,37.733898,-122.489998,37.733898",
+    "geom:latitude": 37.733898,
+    "geom:longitude": -122.489998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Visionarium Optometry, 1551 Sloat Blvd San Francisco CA US",
+    "ovtr:similarity": 3.126677989959717,
+    "sg:address": "1541 Sloat Boulevard",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Optician",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 753 5338",
-    "sg:postcode":"94132",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eyewear"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 753 5338",
+    "sg:postcode": "94132",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eyewear"
     ],
-    "sg:website":"www.visionarium-sf.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865981
+    "sg:website": "www.visionarium-sf.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865981
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0200812-02-001",
-        "sg:id":"SG_2uBHFyt8l2jfUlwYOdIv52_37.733898_-122.489998@1303263323"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283095c15628c030f4895f87b3def",
+      "sfgov_rbl:id": "0200812-02-001",
+      "sg:id": "SG_2uBHFyt8l2jfUlwYOdIv52_37.733898_-122.489998@1303263323"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d9c9cdee57b9a896e9da3f0f6a04629",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865981,
-            "region_id":85688637,
-            "venue_id":588420681
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "3d9c9cdee57b9a896e9da3f0f6a04629",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865981,
+        "region_id": 85688637,
+        "venue_id": 588420681
+      }
     ],
-    "wof:id":588420681,
-    "wof:lastmodified":1509202053,
-    "wof:name":"Visionarium Optometry",
-    "wof:parent_id":85865981,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eyewear"
+    "wof:id": 588420681,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Visionarium Optometry",
+    "wof:parent_id": 85865981,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eyewear"
     ]
-},
+  },
   "bbox": [
     -122.489998,
     37.733898,
     -122.489998,
     37.733898
-],
+  ],
   "geometry": {"coordinates":[-122.489998,37.733898],"type":"Point"}
 }

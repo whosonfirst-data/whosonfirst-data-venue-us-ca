@@ -2,81 +2,85 @@
   "id": 219184955,
   "type": "Feature",
   "properties": {
-    "addr:full":"785 Edison Ave Long Beach CA 90813",
-    "addr:housenumber":"785",
-    "addr:postcode":"90813",
-    "addr:street":"Edison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.21876,33.778255,-118.21876,33.778255",
-    "geom:latitude":33.778255,
-    "geom:longitude":-118.21876,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"785 Edison Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "785 Edison Ave Long Beach CA 90813",
+    "addr:housenumber": "785",
+    "addr:postcode": "90813",
+    "addr:street": "Edison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.218760,33.778255,-118.218760,33.778255",
+    "geom:latitude": 33.778255,
+    "geom:longitude": -118.21876,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Toyota Logistics Services Inc, 785 Edison Ave Long Beach CA US",
+    "ovtr:similarity": 2.0243968963623047,
+    "sg:address": "785 Edison Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 901 1202",
-    "sg:postcode":"90813",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automotive",
-        "vehicle"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 901 1202",
+    "sg:postcode": "90813",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automotive",
+      "vehicle"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85858057
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85858057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4gVkKUELnVHk9j2PAbx7QM_33.778255_-118.218760@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56150604ee03d06e5ad0ac2fd7",
+      "sg:id": "SG_4gVkKUELnVHk9j2PAbx7QM_33.778255_-118.218760@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"393e876c59d23dc59691057bda84e066",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85858057,
-            "region_id":85688637,
-            "venue_id":219184955
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "393e876c59d23dc59691057bda84e066",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85858057,
+        "region_id": 85688637,
+        "venue_id": 219184955
+      }
     ],
-    "wof:id":219184955,
-    "wof:lastmodified":1509199942,
-    "wof:name":"Toyota Logistics Services Inc",
-    "wof:parent_id":85858057,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automotive",
-        "vehicle"
+    "wof:id": 219184955,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Toyota Logistics Services Inc",
+    "wof:parent_id": 85858057,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automotive",
+      "vehicle"
     ]
-},
+  },
   "bbox": [
     -118.21876,
     33.778255,
     -118.21876,
     33.778255
-],
+  ],
   "geometry": {"coordinates":[-118.21876,33.778255],"type":"Point"}
 }

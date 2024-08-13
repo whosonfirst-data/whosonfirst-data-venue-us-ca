@@ -2,86 +2,90 @@
   "id": 588632173,
   "type": "Feature",
   "properties": {
-    "addr:full":"1231 W Taylor Rd Turlock CA 95382",
-    "addr:housenumber":"1231",
-    "addr:postcode":"95382",
-    "addr:street":"W Taylor Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.861,37.536598,-120.861,37.536598",
-    "geom:latitude":37.536598,
-    "geom:longitude":-120.861,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1231 W Taylor Rd",
-    "sg:city":"Turlock",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "1231 W Taylor Rd Turlock CA 95382",
+    "addr:housenumber": "1231",
+    "addr:postcode": "95382",
+    "addr:street": "W Taylor Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.861000,37.536598,-120.861000,37.536598",
+    "geom:latitude": 37.536598,
+    "geom:longitude": -120.861,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taylor ER Veterinary Emergency Hospital, 1231 W Taylor Rd Turlock CA US",
+    "ovtr:similarity": 3.0388290882110596,
+    "sg:address": "1231 W Taylor Rd",
+    "sg:city": "Turlock",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 669 8600",
-    "sg:postcode":"95382",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 669 8600",
+    "sg:postcode": "95382",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ],
-    "sg:website":"www.taylorveterinary.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102083579,
-        85633793,
-        85688637,
-        85869025
+    "sg:website": "www.taylorveterinary.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102083579,
+      85633793,
+      85688637,
+      85869025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7bb1sEulKg2D2rF7cyZSjE_37.536598_-120.861000@1303263378"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836c4d37051603447e7a0e16aa21",
+      "sg:id": "SG_7bb1sEulKg2D2rF7cyZSjE_37.536598_-120.861000@1303263378"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2e7f7c7dbc91d999521f44b585bb31ca",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083579,
-            "neighbourhood_id":85869025,
-            "region_id":85688637,
-            "venue_id":588632173
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "2e7f7c7dbc91d999521f44b585bb31ca",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "neighbourhood_id": 85869025,
+        "region_id": 85688637,
+        "venue_id": 588632173
+      }
     ],
-    "wof:id":588632173,
-    "wof:lastmodified":1509202181,
-    "wof:name":"Taylor ER Veterinary Emergency Hospital Inc",
-    "wof:parent_id":85869025,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian",
-        "boarding/pet",
-        "sitting"
+    "wof:id": 588632173,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Taylor ER Veterinary Emergency Hospital Inc",
+    "wof:parent_id": 85869025,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian",
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -120.861,
     37.536598,
     -120.861,
     37.536598
-],
+  ],
   "geometry": {"coordinates":[-120.861,37.536598],"type":"Point"}
 }

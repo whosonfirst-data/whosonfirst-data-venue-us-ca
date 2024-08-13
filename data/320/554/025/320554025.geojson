@@ -2,74 +2,78 @@
   "id": 320554025,
   "type": "Feature",
   "properties": {
-    "addr:full":"909 Panorama Dr Bakersfield CA 93305",
-    "addr:housenumber":"909",
-    "addr:postcode":"93305",
-    "addr:street":"Panorama Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.983132,35.409161,-118.983132,35.409161",
-    "geom:latitude":35.409161,
-    "geom:longitude":-118.983132,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"909 Panorama Dr",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "909 Panorama Dr Bakersfield CA 93305",
+    "addr:housenumber": "909",
+    "addr:postcode": "93305",
+    "addr:street": "Panorama Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.983132,35.409161,-118.983132,35.409161",
+    "geom:latitude": 35.409161,
+    "geom:longitude": -118.983132,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Panorama Liquors, 909 Panorama Dr Bakersfield CA US",
+    "ovtr:similarity": 2.1721460819244385,
+    "sg:address": "909 Panorama Dr",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 872 0411",
-    "sg:postcode":"93305",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85867325
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 872 0411",
+    "sg:postcode": "93305",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85867325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6NwR3ZZpthfMUaBx2wENz3_35.409161_-118.983132@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb1d8dd631034855dcb5e01cb6",
+      "sg:id": "SG_6NwR3ZZpthfMUaBx2wENz3_35.409161_-118.983132@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b17c913c93a29918ee7c88a1c8159e33",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85867325,
-            "region_id":85688637,
-            "venue_id":320554025
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "b17c913c93a29918ee7c88a1c8159e33",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85867325,
+        "region_id": 85688637,
+        "venue_id": 320554025
+      }
     ],
-    "wof:id":320554025,
-    "wof:lastmodified":1509200476,
-    "wof:name":"Panorama Liquors",
-    "wof:parent_id":85867325,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 320554025,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Panorama Liquors",
+    "wof:parent_id": 85867325,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.983132,
     35.409161,
     -118.983132,
     35.409161
-],
+  ],
   "geometry": {"coordinates":[-118.983132,35.409161],"type":"Point"}
 }

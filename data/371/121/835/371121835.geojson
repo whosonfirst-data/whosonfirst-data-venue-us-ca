@@ -2,89 +2,93 @@
   "id": 371121835,
   "type": "Feature",
   "properties": {
-    "addr:full":"7360 Sunset Blvd Los Angeles CA 90046",
-    "addr:housenumber":"7360",
-    "addr:postcode":"90046",
-    "addr:street":"Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.351081,34.097596,-118.351081,34.097596",
-    "geom:latitude":34.097596,
-    "geom:longitude":-118.351081,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7360 Sunset Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Music School",
-            "type":"Public Place"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Computers & Home Electronics",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7360 Sunset Blvd Los Angeles CA 90046",
+    "addr:housenumber": "7360",
+    "addr:postcode": "90046",
+    "addr:street": "Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.351081,34.097596,-118.351081,34.097596",
+    "geom:latitude": 34.097596,
+    "geom:longitude": -118.351081,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sam Ash Music Stores, 7360 W Sunset Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.6092549562454224,
+    "sg:address": "7360 Sunset Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Music School",
+        "type": "Public Place"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Computers \u0026 Home Electronics",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 850 1050",
-    "sg:postcode":"90046",
-    "sg:province":"CA",
-    "sg:tags":[
-        "instrument",
-        "teacher",
-        "musical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 850 1050",
+    "sg:postcode": "90046",
+    "sg:province": "CA",
+    "sg:tags": [
+      "instrument",
+      "teacher",
+      "musical"
     ],
-    "sg:website":"www.samashmusic.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869715
+    "sg:website": "www.samashmusic.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869715
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ZXEJUmdPSLCcA6yfEy1MZ_34.097596_-118.351081@1303263163"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d682c9a2a03a708070c185939",
+      "sg:id": "SG_0ZXEJUmdPSLCcA6yfEy1MZ_34.097596_-118.351081@1303263163"
     },
-    "wof:country":"US",
-    "wof:geomhash":"62fa11a199bfaeddb594523f82d8be7a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869715,
-            "region_id":85688637,
-            "venue_id":371121835
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "62fa11a199bfaeddb594523f82d8be7a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869715,
+        "region_id": 85688637,
+        "venue_id": 371121835
+      }
     ],
-    "wof:id":371121835,
-    "wof:lastmodified":1509200898,
-    "wof:name":"Sam Ash Music Stores",
-    "wof:parent_id":85869715,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instrument",
-        "teacher",
-        "musical"
+    "wof:id": 371121835,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Sam Ash Music Stores",
+    "wof:parent_id": 85869715,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instrument",
+      "teacher",
+      "musical"
     ]
-},
+  },
   "bbox": [
     -118.351081,
     34.097596,
     -118.351081,
     34.097596
-],
-  "geometry": {"coordinates":[-118.35108099999999,34.097596],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.351081,34.097596],"type":"Point"}
 }

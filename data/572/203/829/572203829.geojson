@@ -2,83 +2,87 @@
   "id": 572203829,
   "type": "Feature",
   "properties": {
-    "addr:full":"950 W Floral Dr Monterey Park CA 91754",
-    "addr:housenumber":"950",
-    "addr:postcode":"91754",
-    "addr:street":"W Floral Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.144372,34.03972,-118.144372,34.03972",
-    "geom:latitude":34.03972,
-    "geom:longitude":-118.144372,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"950 W Floral Dr",
-    "sg:city":"Monterey Park",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "950 W Floral Dr Monterey Park CA 91754",
+    "addr:housenumber": "950",
+    "addr:postcode": "91754",
+    "addr:street": "W Floral Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.144372,34.039720,-118.144372,34.039720",
+    "geom:latitude": 34.03972,
+    "geom:longitude": -118.144372,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 950 W Floral Dr Monterey Park CA US",
+    "ovtr:similarity": 2.945797920227051,
+    "sg:address": "950 W Floral Dr",
+    "sg:city": "Monterey Park",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/southwest-san-gabriel-valley/216778-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"91754",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/southwest-san-gabriel-valley/216778-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "91754",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923499,
-        102086957,
-        85886519
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923499,
+      102086957,
+      85886519
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35VMiXkMZTAJQTlWnb0Gua_34.039730_-118.144021@1294081369"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d0cd4e225034152653acb9816",
+      "sg:id": "SG_35VMiXkMZTAJQTlWnb0Gua_34.039730_-118.144021@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ac61db577019c8e77222a73fe0a46ff7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923499,
-            "neighbourhood_id":85886519,
-            "region_id":85688637,
-            "venue_id":572203829
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "ac61db577019c8e77222a73fe0a46ff7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923499,
+        "neighbourhood_id": 85886519,
+        "region_id": 85688637,
+        "venue_id": 572203829
+      }
     ],
-    "wof:id":572203829,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85886519,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572203829,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85886519,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -118.144372,
     34.03972,
     -118.144372,
     34.03972
-],
+  ],
   "geometry": {"coordinates":[-118.144372,34.03972],"type":"Point"}
 }

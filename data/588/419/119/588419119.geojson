@@ -2,86 +2,90 @@
   "id": 588419119,
   "type": "Feature",
   "properties": {
-    "addr:full":"610 Old Mason St San Francisco CA 94129",
-    "addr:housenumber":"610",
-    "addr:postcode":"94129",
-    "addr:street":"Old Mason St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.45975,37.802731,-122.45975,37.802731",
-    "geom:latitude":37.802731,
-    "geom:longitude":-122.45975,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"610 Old Mason St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Bicycle Rental",
-            "type":"Entertainment"
-        }
+    "addr:full": "610 Old Mason St San Francisco CA 94129",
+    "addr:housenumber": "610",
+    "addr:postcode": "94129",
+    "addr:street": "Old Mason St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.459750,37.802731,-122.459750,37.802731",
+    "geom:latitude": 37.802731,
+    "geom:longitude": -122.45975,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sports Basement, 610 Old Mason St San Francisco CA US",
+    "ovtr:similarity": 2.0264620780944824,
+    "sg:address": "610 Old Mason St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Bicycle Rental",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 437 0100",
-    "sg:postcode":"94129",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bike"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 437 0100",
+    "sg:postcode": "94129",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bike"
     ],
-    "sg:website":"www.sportsbasement.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865991
+    "sg:website": "www.sportsbasement.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865991
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3JpJ9ThmX5uWMiyiD2tgFj_37.802731_-122.459750@1303263323"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830876a662c9033544caef84529d",
+      "sg:id": "SG_3JpJ9ThmX5uWMiyiD2tgFj_37.802731_-122.459750@1303263323"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c1b07be4db4969d9172518cd10b95326",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865991,
-            "region_id":85688637,
-            "venue_id":588419119
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "c1b07be4db4969d9172518cd10b95326",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865991,
+        "region_id": 85688637,
+        "venue_id": 588419119
+      }
     ],
-    "wof:id":588419119,
-    "wof:lastmodified":1509202052,
-    "wof:name":"Sports Basement",
-    "wof:parent_id":85865991,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bike"
+    "wof:id": 588419119,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "Sports Basement",
+    "wof:parent_id": 85865991,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bike"
     ]
-},
+  },
   "bbox": [
     -122.45975,
     37.802731,
     -122.45975,
     37.802731
-],
+  ],
   "geometry": {"coordinates":[-122.45975,37.802731],"type":"Point"}
 }

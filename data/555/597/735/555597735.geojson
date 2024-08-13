@@ -2,64 +2,72 @@
   "id": 555597735,
   "type": "Feature",
   "properties": {
-    "addr:full":"414 Grass Valley Hwy Auburn CA 95603",
-    "addr:housenumber":"414",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Grass Valley Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.076355,38.904448,-121.076355,38.904448",
-    "geom:latitude":38.904448,
-    "geom:longitude":-121.076355,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"414 Grass Valley Hwy",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "414 Grass Valley Hwy Auburn CA 95603",
+    "addr:housenumber": "414",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Grass Valley Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.076355,38.904448,-121.076355,38.904448",
+    "geom:latitude": 38.904448,
+    "geom:longitude": -121.076355,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Grocery Outlet, 414 Grass Valley Hwy Auburn CA US",
+    "ovtr:similarity": 1.9431350231170654,
+    "sg:address": "414 Grass Valley Hwy",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 885 0250",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 885 0250",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125154875,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6APN4oBqJoozXpOlS9heIZ_38.904448_-121.076355@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125154875,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320e5b0e2f1038a16f24bc16529",
+      "sg:id": "SG_6APN4oBqJoozXpOlS9heIZ_38.904448_-121.076355@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"07d67469995984a560a0287d81139a88",
-    "wof:hierarchy":[],
-    "wof:id":555597735,
-    "wof:lastmodified":1510696907,
-    "wof:name":"Grocery Outlet",
-    "wof:parent_id":420551843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "07d67469995984a560a0287d81139a88",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555597735
+      }
+    ],
+    "wof:id": 555597735,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Grocery Outlet",
+    "wof:parent_id": 420551843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -121.076355,
     38.904448,
     -121.076355,
     38.904448
-],
-  "geometry": {"coordinates":[-121.07635500000001,38.904448],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.076355,38.904448],"type":"Point"}
 }

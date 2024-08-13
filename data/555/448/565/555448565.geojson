@@ -2,59 +2,67 @@
   "id": 555448565,
   "type": "Feature",
   "properties": {
-    "addr:full":"5275 Mission Oaks Blvd Camarillo CA 93012",
-    "addr:housenumber":"5275",
-    "addr:postcode":"93012",
-    "addr:street":"Mission Oaks Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.998227,34.228316,-118.998227,34.228316",
-    "geom:latitude":34.228316,
-    "geom:longitude":-118.998227,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"5275 Mission Oaks Blvd",
-    "sg:city":"Camarillo",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5275 Mission Oaks Blvd Camarillo CA 93012",
+    "addr:housenumber": "5275",
+    "addr:postcode": "93012",
+    "addr:street": "Mission Oaks Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.998227,34.228316,-118.998227,34.228316",
+    "geom:latitude": 34.228316,
+    "geom:longitude": -118.998227,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vons, 5275 Mission Oaks Blvd Camarillo CA US",
+    "ovtr:similarity": 3.2038838863372803,
+    "sg:address": "5275 Mission Oaks Blvd",
+    "sg:city": "Camarillo",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 482 7933",
-    "sg:postcode":"93012",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":130005196,
-        "sg:id":"SG_2xPlO3IVK6TWLt7J6LkB5h_34.228316_-118.998227@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 482 7933",
+    "sg:postcode": "93012",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 130005196,
+      "ovtr:id": "08f29a1b2a893924031f478acacaf121",
+      "sg:id": "SG_2xPlO3IVK6TWLt7J6LkB5h_34.228316_-118.998227@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"99a85d045c8dab5381384c32b1ca8b6f",
-    "wof:hierarchy":[],
-    "wof:id":555448565,
-    "wof:lastmodified":1510943311,
-    "wof:name":"Vons 2094",
-    "wof:parent_id":420553075,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "99a85d045c8dab5381384c32b1ca8b6f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555448565
+      }
+    ],
+    "wof:id": 555448565,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Vons 2094",
+    "wof:parent_id": 420553075,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.998227,
     34.228316,
     -118.998227,
     34.228316
-],
+  ],
   "geometry": {"coordinates":[-118.998227,34.228316],"type":"Point"}
 }

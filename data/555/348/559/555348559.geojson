@@ -2,65 +2,73 @@
   "id": 555348559,
   "type": "Feature",
   "properties": {
-    "addr:full":"42116 4th St E Lancaster CA 93535",
-    "addr:housenumber":"42116",
-    "addr:postcode":"93535",
-    "addr:street":"4Th St E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.123124,34.646138,-118.123124,34.646138",
-    "geom:latitude":34.646138,
-    "geom:longitude":-118.123124,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"42116 4th St E",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "42116 4th St E Lancaster CA 93535",
+    "addr:housenumber": "42116",
+    "addr:postcode": "93535",
+    "addr:street": "4Th St E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.123124,34.646138,-118.123124,34.646138",
+    "geom:latitude": 34.646138,
+    "geom:longitude": -118.123124,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Canine Country Club, 42116 4th St E Lancaster CA US",
+    "ovtr:similarity": 2.212800979614258,
+    "sg:address": "42116 4th St E",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 942 4251",
-    "sg:postcode":"93535",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dog",
-        "kennel"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 942 4251",
+    "sg:postcode": "93535",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dog",
+      "kennel"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KM1E6jpG08QEc5WsILvcJ_34.646138_-118.123124@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1444b598130380ae3cdccb72f6",
+      "sg:id": "SG_5KM1E6jpG08QEc5WsILvcJ_34.646138_-118.123124@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"98504b074eb7423239ea5dd37e71aae4",
-    "wof:hierarchy":[],
-    "wof:id":555348559,
-    "wof:lastmodified":1509201361,
-    "wof:name":"Canine Country Club",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dog",
-        "kennel"
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "98504b074eb7423239ea5dd37e71aae4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555348559
+      }
+    ],
+    "wof:id": 555348559,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Canine Country Club",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dog",
+      "kennel"
     ]
-},
+  },
   "bbox": [
     -118.123124,
     34.646138,
     -118.123124,
     34.646138
-],
+  ],
   "geometry": {"coordinates":[-118.123124,34.646138],"type":"Point"}
 }

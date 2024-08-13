@@ -2,82 +2,86 @@
   "id": 572330109,
   "type": "Feature",
   "properties": {
-    "addr:full":"1560 Leucadia Blvd Encinitas CA 92024",
-    "addr:housenumber":"1560",
-    "addr:postcode":"92024",
-    "addr:street":"Leucadia Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.264999,33.068199,-117.264999,33.068199",
-    "geom:latitude":33.068199,
-    "geom:longitude":-117.264999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1560 Leucadia Blvd",
-    "sg:city":"Encinitas",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1560 Leucadia Blvd Encinitas CA 92024",
+    "addr:housenumber": "1560",
+    "addr:postcode": "92024",
+    "addr:street": "Leucadia Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.264999,33.068199,-117.264999,33.068199",
+    "geom:latitude": 33.068199,
+    "geom:longitude": -117.264999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 1560 Leucadia Blvd Encinitas CA US",
+    "ovtr:similarity": 3.4095048904418945,
+    "sg:address": "1560 Leucadia Blvd",
+    "sg:city": "Encinitas",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 944 6382",
-    "sg:postcode":"92024",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 944 6382",
+    "sg:postcode": "92024",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922267,
-        102083569,
-        85885949
+    "sg:website": "www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922267,
+      102083569,
+      85885949
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4E8BnlxuPwpWzpZUYvaxVo_33.068199_-117.264999@1303263233"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4764171a1c030824e563b00e4a",
+      "sg:id": "SG_4E8BnlxuPwpWzpZUYvaxVo_33.068199_-117.264999@1303263233"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d610d9caabbc7d0a7704463934240312",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922267,
-            "neighbourhood_id":85885949,
-            "region_id":85688637,
-            "venue_id":572330109
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "d610d9caabbc7d0a7704463934240312",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922267,
+        "neighbourhood_id": 85885949,
+        "region_id": 85688637,
+        "venue_id": 572330109
+      }
     ],
-    "wof:id":572330109,
-    "wof:lastmodified":1511322183,
-    "wof:name":"Subway",
-    "wof:parent_id":85885949,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 572330109,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Subway",
+    "wof:parent_id": 85885949,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -117.264999,
     33.068199,
     -117.264999,
     33.068199
-],
+  ],
   "geometry": {"coordinates":[-117.264999,33.068199],"type":"Point"}
 }

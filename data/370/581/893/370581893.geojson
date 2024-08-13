@@ -2,82 +2,86 @@
   "id": 370581893,
   "type": "Feature",
   "properties": {
-    "addr:full":"3011 Vine St Riverside CA 92507",
-    "addr:housenumber":"3011",
-    "addr:postcode":"92507",
-    "addr:street":"Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.364047,33.986078,-117.364047,33.986078",
-    "geom:latitude":33.986078,
-    "geom:longitude":-117.364047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3011 Vine St",
-    "sg:city":"Riverside",
-    "sg:classifiers":[
-        {
-            "category":"Building & Trades",
-            "subcategory":"Electrical",
-            "type":"Services"
-        }
+    "addr:full": "3011 Vine St Riverside CA 92507",
+    "addr:housenumber": "3011",
+    "addr:postcode": "92507",
+    "addr:street": "Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.364047,33.986078,-117.364047,33.986078",
+    "geom:latitude": 33.986078,
+    "geom:longitude": -117.364047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "B \u0026 B Electric, 3011 Vine St Riverside CA US",
+    "ovtr:similarity": 2.5265979766845703,
+    "sg:address": "3011 Vine St",
+    "sg:city": "Riverside",
+    "sg:classifiers": [
+      {
+        "category": "Building \u0026 Trades",
+        "subcategory": "Electrical",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 781 7139",
-    "sg:postcode":"92507",
-    "sg:province":"CA",
-    "sg:tags":[
-        "electric",
-        "contractor"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 781 7139",
+    "sg:postcode": "92507",
+    "sg:province": "CA",
+    "sg:tags": [
+      "electric",
+      "contractor"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923345,
-        102086221,
-        85845053
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923345,
+      102086221,
+      85845053
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GDfBMbbudcphU78Sv7bjJ_33.986078_-117.364047@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00746138c80350a83d82332bf7",
+      "sg:id": "SG_1GDfBMbbudcphU78Sv7bjJ_33.986078_-117.364047@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"486aa9f0fc48a4fe64e0a90aa56860b5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923345,
-            "neighbourhood_id":85845053,
-            "region_id":85688637,
-            "venue_id":370581893
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "486aa9f0fc48a4fe64e0a90aa56860b5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923345,
+        "neighbourhood_id": 85845053,
+        "region_id": 85688637,
+        "venue_id": 370581893
+      }
     ],
-    "wof:id":370581893,
-    "wof:lastmodified":1509200771,
-    "wof:name":"B & B Electric",
-    "wof:parent_id":85845053,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "electric",
-        "contractor"
+    "wof:id": 370581893,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "B \u0026 B Electric",
+    "wof:parent_id": 85845053,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "electric",
+      "contractor"
     ]
-},
+  },
   "bbox": [
     -117.364047,
     33.986078,
     -117.364047,
     33.986078
-],
+  ],
   "geometry": {"coordinates":[-117.364047,33.986078],"type":"Point"}
 }

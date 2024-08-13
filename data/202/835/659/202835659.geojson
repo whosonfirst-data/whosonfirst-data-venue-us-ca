@@ -2,82 +2,86 @@
   "id": 202835659,
   "type": "Feature",
   "properties": {
-    "addr:full":"1903 S Barrington Ave Los Angeles CA 90025",
-    "addr:housenumber":"1903",
-    "addr:postcode":"90025",
-    "addr:street":"S Barrington Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.450357,34.03703,-118.450357,34.03703",
-    "geom:latitude":34.03703,
-    "geom:longitude":-118.450357,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1903 S Barrington Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1903 S Barrington Ave Los Angeles CA 90025",
+    "addr:housenumber": "1903",
+    "addr:postcode": "90025",
+    "addr:street": "S Barrington Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.450357,34.037030,-118.450357,34.037030",
+    "geom:latitude": 34.03703,
+    "geom:longitude": -118.450357,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Barrington Avenue Baptist, 1903 S Barrington Ave Los Angeles CA US",
+    "ovtr:similarity": 2.909075975418091,
+    "sg:address": "1903 S Barrington Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 477 4383",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 477 4383",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7FzO31mvvzNPAHAvwN9ELg_34.037030_-118.450357@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1983a5b8b203921693c415a79c",
+      "sg:id": "SG_7FzO31mvvzNPAHAvwN9ELg_34.037030_-118.450357@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a9ae95fdc9384b379df4960e1c342695",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":202835659
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "a9ae95fdc9384b379df4960e1c342695",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 202835659
+      }
     ],
-    "wof:id":202835659,
-    "wof:lastmodified":1509199903,
-    "wof:name":"Barrington Avenue Baptist",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 202835659,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Barrington Avenue Baptist",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.450357,
     34.03703,
     -118.450357,
     34.03703
-],
+  ],
   "geometry": {"coordinates":[-118.450357,34.03703],"type":"Point"}
 }

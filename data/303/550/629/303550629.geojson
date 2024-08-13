@@ -2,78 +2,82 @@
   "id": 303550629,
   "type": "Feature",
   "properties": {
-    "addr:full":"1911 D St Antioch CA 94509",
-    "addr:housenumber":"1911",
-    "addr:postcode":"ca 94509",
-    "addr:street":"D St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.809953,38.004454,-121.809953,38.004454",
-    "geom:latitude":38.004454,
-    "geom:longitude":-121.809953,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1911 D St",
-    "sg:city":"Antioch",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1911 D St Antioch CA 94509",
+    "addr:housenumber": "1911",
+    "addr:postcode": "ca 94509",
+    "addr:street": "D St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.809953,38.004454,-121.809953,38.004454",
+    "geom:latitude": 38.004454,
+    "geom:longitude": -121.809953,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Joe's Liquor \u0026 Foods, 1911 D St Antioch CA US",
+    "ovtr:similarity": 3.5368480682373047,
+    "sg:address": "1911 D St",
+    "sg:city": "Antioch",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 779 1995",
-    "sg:postcode":"94509",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 779 1995",
+    "sg:postcode": "94509",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922201,
-        102086225
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922201,
+      102086225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4KNXrxf83xWPc4VuzkN0Re_38.004454_-121.809953@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830cf5c5446b036f9a948eb09cdb",
+      "sg:id": "SG_4KNXrxf83xWPc4VuzkN0Re_38.004454_-121.809953@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b06447ddee343e16ef48955d1f931574",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922201,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":303550629
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "b06447ddee343e16ef48955d1f931574",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922201,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 303550629
+      }
     ],
-    "wof:id":303550629,
-    "wof:lastmodified":1509200370,
-    "wof:name":"Joe's Liquor & Foods",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 303550629,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Joe's Liquor \u0026 Foods",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -121.809953,
     38.004454,
     -121.809953,
     38.004454
-],
-  "geometry": {"coordinates":[-121.80995299999999,38.004454],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.809953,38.004454],"type":"Point"}
 }

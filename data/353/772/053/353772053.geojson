@@ -2,81 +2,85 @@
   "id": 353772053,
   "type": "Feature",
   "properties": {
-    "addr:full":"1248 Main St Newman CA 95360",
-    "addr:housenumber":"1248",
-    "addr:postcode":"95360",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.022991,37.316532,-121.022991,37.316532",
-    "geom:latitude":37.316532,
-    "geom:longitude":-121.022991,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1248 Main St",
-    "sg:city":"Newman",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1248 Main St Newman CA 95360",
+    "addr:housenumber": "1248",
+    "addr:postcode": "95360",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.022991,37.316532,-121.022991,37.316532",
+    "geom:latitude": 37.316532,
+    "geom:longitude": -121.022991,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Dr. Manuel L. Canga, MD, 1248 Main St Newman CA US",
+    "ovtr:similarity": 3.9328908920288086,
+    "sg:address": "1248 Main St",
+    "sg:city": "Newman",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 862 2991",
-    "sg:postcode":"95360",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 862 2991",
+    "sg:postcode": "95360",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85926301,
-        102083579,
-        85879025
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85926301,
+      102083579,
+      85879025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2yiupH8h3L1RbGfzy1S9oo_37.316532_-121.022991@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283698920aaa3032b478034e67ade",
+      "sg:id": "SG_2yiupH8h3L1RbGfzy1S9oo_37.316532_-121.022991@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"54f7d80b09f41342e46b3c32dccd0da1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85926301,
-            "neighbourhood_id":85879025,
-            "region_id":85688637,
-            "venue_id":353772053
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "54f7d80b09f41342e46b3c32dccd0da1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85926301,
+        "neighbourhood_id": 85879025,
+        "region_id": 85688637,
+        "venue_id": 353772053
+      }
     ],
-    "wof:id":353772053,
-    "wof:lastmodified":1509200595,
-    "wof:name":"Manuel Canga MD",
-    "wof:parent_id":85879025,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 353772053,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Manuel Canga MD",
+    "wof:parent_id": 85879025,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -121.022991,
     37.316532,
     -121.022991,
     37.316532
-],
+  ],
   "geometry": {"coordinates":[-121.022991,37.316532],"type":"Point"}
 }

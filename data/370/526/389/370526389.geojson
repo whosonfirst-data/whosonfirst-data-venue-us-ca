@@ -2,83 +2,87 @@
   "id": 370526389,
   "type": "Feature",
   "properties": {
-    "addr:full":"1900 S Central Ave Los Angeles CA 90011",
-    "addr:housenumber":"1900",
-    "addr:postcode":"90011",
-    "addr:street":"S Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.25,34.024399,-118.25,34.024399",
-    "geom:latitude":34.024399,
-    "geom:longitude":-118.25,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1900 S Central Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1900 S Central Ave Los Angeles CA 90011",
+    "addr:housenumber": "1900",
+    "addr:postcode": "90011",
+    "addr:street": "S Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.250000,34.024399,-118.250000,34.024399",
+    "geom:latitude": 34.024399,
+    "geom:longitude": -118.25,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tacos Gavilan, 1900 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 3.362886905670166,
+    "sg:address": "1900 S Central Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 742 6677",
-    "sg:postcode":"90011",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 742 6677",
+    "sg:postcode": "90011",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000469319-0001-3",
-        "sg:id":"SG_079pzfdFy8Wz4oirmqpXqr_34.024399_-118.250000@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000469319-0001-3",
+      "ovtr:id": "08f29a56db302315035bafb81bad3365",
+      "sg:id": "SG_079pzfdFy8Wz4oirmqpXqr_34.024399_-118.250000@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1571f2cd25c4fbed163a2e0bbc9467f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370526389
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "1571f2cd25c4fbed163a2e0bbc9467f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370526389
+      }
     ],
-    "wof:id":370526389,
-    "wof:lastmodified":1509200758,
-    "wof:name":"Tacos El Gavilan",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 370526389,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Tacos El Gavilan",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -118.25,
     34.024399,
     -118.25,
     34.024399
-],
+  ],
   "geometry": {"coordinates":[-118.25,34.024399],"type":"Point"}
 }

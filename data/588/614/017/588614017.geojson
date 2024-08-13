@@ -2,73 +2,81 @@
   "id": 588614017,
   "type": "Feature",
   "properties": {
-    "addr:full":"22769 N Bender Rd Acampo CA 95220",
-    "addr:housenumber":"22769",
-    "addr:postcode":"95220",
-    "addr:street":"N Bender Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.317486,38.190726,-121.317486,38.190726",
-    "geom:latitude":38.190726,
-    "geom:longitude":-121.317486,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"22769 N Bender Rd",
-    "sg:city":"Acampo",
-    "sg:classifiers":[
-        {
-            "category":"Winery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Wine & Distilled Alcoholic Beverages",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "22769 N Bender Rd Acampo CA 95220",
+    "addr:housenumber": "22769",
+    "addr:postcode": "95220",
+    "addr:street": "N Bender Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.317486,38.190726,-121.317486,38.190726",
+    "geom:latitude": 38.190726,
+    "geom:longitude": -121.317486,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "St. Jorge Winery, 22769 N Bender Rd Acampo CA US",
+    "ovtr:similarity": 1.9140100479125977,
+    "sg:address": "22769 N Bender Rd",
+    "sg:city": "Acampo",
+    "sg:classifiers": [
+      {
+        "category": "Winery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Wine \u0026 Distilled Alcoholic Beverages",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 365 0202",
-    "sg:postcode":"95220",
-    "sg:province":"CA",
-    "sg:tags":[
-        "broker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 365 0202",
+    "sg:postcode": "95220",
+    "sg:province": "CA",
+    "sg:tags": [
+      "broker"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46e0ONKqLkaTmfUPdko0Ko_38.190726_-121.317486@1303263374"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28362c3d81c960312c87bdfeb03d5",
+      "sg:id": "SG_46e0ONKqLkaTmfUPdko0Ko_38.190726_-121.317486@1303263374"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7ec947b785ef009674b9fc852ebe6481",
-    "wof:hierarchy":[],
-    "wof:id":588614017,
-    "wof:lastmodified":1509202170,
-    "wof:name":"St. Jorge Winery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broker"
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "7ec947b785ef009674b9fc852ebe6481",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588614017
+      }
+    ],
+    "wof:id": 588614017,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "St. Jorge Winery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broker"
     ]
-},
+  },
   "bbox": [
     -121.317486,
     38.190726,
     -121.317486,
     38.190726
-],
+  ],
   "geometry": {"coordinates":[-121.317486,38.190726],"type":"Point"}
 }

@@ -2,87 +2,91 @@
   "id": 370378457,
   "type": "Feature",
   "properties": {
-    "addr:full":"10401 Weigand Avenue Los Angeles CA 90002",
-    "addr:housenumber":"10401",
-    "addr:postcode":"90002",
-    "addr:street":"Weigand Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.229503,33.941727,-118.229503,33.941727",
-    "geom:latitude":33.941727,
-    "geom:longitude":-118.229503,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10401 Weigand Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "10401 Weigand Avenue Los Angeles CA 90002",
+    "addr:housenumber": "10401",
+    "addr:postcode": "90002",
+    "addr:street": "Weigand Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.229503,33.941727,-118.229503,33.941727",
+    "geom:latitude": 33.941727,
+    "geom:longitude": -118.229503,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Weigand Avenue Elementary School, 10401 Weigand Ave Los Angeles CA US",
+    "ovtr:similarity": 3.4389679431915283,
+    "sg:address": "10401 Weigand Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 567 9606",
-    "sg:postcode":"90002",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 567 9606",
+    "sg:postcode": "90002",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "sg:website":"www.lausd.k12.ca.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85854791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.lausd.k12.ca.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85854791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1enLnHC18oIuUW26mzPwnG_33.941727_-118.229503@1303263145"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d5aebd910305e32067a60dfa",
+      "sg:id": "SG_1enLnHC18oIuUW26mzPwnG_33.941727_-118.229503@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0f0e54c31f4af8c585dea58f71752bbc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85854791",
-            "region_id":85688637,
-            "venue_id":370378457
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "0f0e54c31f4af8c585dea58f71752bbc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85854791,
+        "region_id": 85688637,
+        "venue_id": 370378457
+      }
     ],
-    "wof:id":370378457,
-    "wof:lastmodified":1509200724,
-    "wof:name":"Weigand Avenue Elementary School",
-    "wof:parent_id":"85854791",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 370378457,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Weigand Avenue Elementary School",
+    "wof:parent_id": "85854791",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.229503,
     33.941727,
     -118.229503,
     33.941727
-],
-  "geometry": {"coordinates":[-118.22950299999999,33.941727],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.229503,33.941727],"type":"Point"}
 }

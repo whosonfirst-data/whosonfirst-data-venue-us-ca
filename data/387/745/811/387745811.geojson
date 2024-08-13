@@ -2,74 +2,78 @@
   "id": 387745811,
   "type": "Feature",
   "properties": {
-    "addr:full":"1525 Sepulveda Blvd Torrance CA 90501",
-    "addr:housenumber":"1525",
-    "addr:postcode":"90501",
-    "addr:street":"Sepulveda Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.306,33.8158,-118.306,33.8158",
-    "geom:latitude":33.8158,
-    "geom:longitude":-118.306,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1525 Sepulveda Blvd",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1525 Sepulveda Blvd Torrance CA 90501",
+    "addr:housenumber": "1525",
+    "addr:postcode": "90501",
+    "addr:street": "Sepulveda Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.306000,33.815800,-118.306000,33.815800",
+    "geom:latitude": 33.8158,
+    "geom:longitude": -118.306,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Arby's, 1525 Sepulveda Blvd Torrance CA US",
+    "ovtr:similarity": 3.7435131072998047,
+    "sg:address": "1525 Sepulveda Blvd",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 530 9148",
-    "sg:postcode":"90501",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928433,
-        102086957,
-        85827067
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 530 9148",
+    "sg:postcode": "90501",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928433,
+      102086957,
+      85827067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6xz4l0ZKWqtOz0XA4tR1KU_33.815800_-118.306000@1303263185"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a5608c1e4da03944cd80f28ff24",
+      "sg:id": "SG_6xz4l0ZKWqtOz0XA4tR1KU_33.815800_-118.306000@1303263185"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c5d61786cbbc54eed26ef038a69dbb99",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928433,
-            "neighbourhood_id":85827067,
-            "region_id":85688637,
-            "venue_id":387745811
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "c5d61786cbbc54eed26ef038a69dbb99",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928433,
+        "neighbourhood_id": 85827067,
+        "region_id": 85688637,
+        "venue_id": 387745811
+      }
     ],
-    "wof:id":387745811,
-    "wof:lastmodified":1509201088,
-    "wof:name":"Arby's Restaurant",
-    "wof:parent_id":85827067,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387745811,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Arby's Restaurant",
+    "wof:parent_id": 85827067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.306,
     33.8158,
     -118.306,
     33.8158
-],
+  ],
   "geometry": {"coordinates":[-118.306,33.8158],"type":"Point"}
 }

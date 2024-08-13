@@ -2,82 +2,86 @@
   "id": 370665515,
   "type": "Feature",
   "properties": {
-    "addr:full":"5552 W Adams Boulevard Los Angeles CA 90016",
-    "addr:housenumber":"5552",
-    "addr:postcode":"90016",
-    "addr:street":"W Adams Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.364317,34.032571,-118.364317,34.032571",
-    "geom:latitude":34.032571,
-    "geom:longitude":-118.364317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5552 W Adams Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Optician",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5552 W Adams Boulevard Los Angeles CA 90016",
+    "addr:housenumber": "5552",
+    "addr:postcode": "90016",
+    "addr:street": "W Adams Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.364317,34.032571,-118.364317,34.032571",
+    "geom:latitude": 34.032571,
+    "geom:longitude": -118.364317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Opti-Lite Optical, 5552 W Adams Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.2927539348602295,
+    "sg:address": "5552 W Adams Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Optician",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 932 6828",
-    "sg:postcode":"90016",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eyewear"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 932 6828",
+    "sg:postcode": "90016",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eyewear"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865803",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865803
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2XekQL4c1cqPesQMtQvpfN_34.032571_-118.364317@1303263152"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19900d336003bb21953231917d",
+      "sg:id": "SG_2XekQL4c1cqPesQMtQvpfN_34.032571_-118.364317@1303263152"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6e5de2ba4ea3b80a1d0a8adfd2fe1f35",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85865803",
-            "region_id":85688637,
-            "venue_id":370665515
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "6e5de2ba4ea3b80a1d0a8adfd2fe1f35",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85865803,
+        "region_id": 85688637,
+        "venue_id": 370665515
+      }
     ],
-    "wof:id":370665515,
-    "wof:lastmodified":1509200791,
-    "wof:name":"Opti-Lite Optical",
-    "wof:parent_id":"85865803",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eyewear"
+    "wof:id": 370665515,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Opti-Lite Optical",
+    "wof:parent_id": "85865803",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eyewear"
     ]
-},
+  },
   "bbox": [
     -118.364317,
     34.032571,
     -118.364317,
     34.032571
-],
+  ],
   "geometry": {"coordinates":[-118.364317,34.032571],"type":"Point"}
 }

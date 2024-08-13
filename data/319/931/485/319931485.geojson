@@ -2,84 +2,88 @@
   "id": 319931485,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 Powell St San Francisco CA 94133",
-    "addr:housenumber":"1400",
-    "addr:postcode":"94133",
-    "addr:street":"Powell St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.410456,37.798373,-122.410456,37.798373",
-    "geom:latitude":37.798373,
-    "geom:longitude":-122.410456,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1400 Powell St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1400 Powell St San Francisco CA 94133",
+    "addr:housenumber": "1400",
+    "addr:postcode": "94133",
+    "addr:street": "Powell St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.410456,37.798373,-122.410456,37.798373",
+    "geom:latitude": 37.798373,
+    "geom:longitude": -122.410456,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tai Yick Trading Co, 1400 Powell St San Francisco CA US",
+    "ovtr:similarity": 2.335345983505249,
+    "sg:address": "1400 Powell St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 986 0961",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "m"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 986 0961",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "m"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831957,
-        85837317,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831957,
+      85837317,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3987038853,
-        "sfgov_rbl:id":"0123311-01-001",
-        "sg:id":"SG_7RFy8Qz7TPx5ylaRsHeggx_37.798373_-122.410456@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3987038853,
+      "ovtr:id": "08f283082b42ecf1034bf32caf5ecc93",
+      "sfgov_rbl:id": "0123311-01-001",
+      "sg:id": "SG_7RFy8Qz7TPx5ylaRsHeggx_37.798373_-122.410456@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"596872163f763852dcb51422ecee8264",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831957,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":319931485
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "596872163f763852dcb51422ecee8264",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831957,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 319931485
+      }
     ],
-    "wof:id":319931485,
-    "wof:lastmodified":1510941840,
-    "wof:name":"Tai Yick Trading Co",
-    "wof:parent_id":1108831957,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "m"
+    "wof:id": 319931485,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Tai Yick Trading Co",
+    "wof:parent_id": 1108831957,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "m"
     ]
-},
+  },
   "bbox": [
     -122.410456,
     37.798373,
     -122.410456,
     37.798373
-],
+  ],
   "geometry": {"coordinates":[-122.410456,37.798373],"type":"Point"}
 }

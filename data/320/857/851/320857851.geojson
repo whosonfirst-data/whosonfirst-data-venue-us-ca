@@ -2,82 +2,86 @@
   "id": 320857851,
   "type": "Feature",
   "properties": {
-    "addr:full":"6714 Thornton Ave Newark CA 94560",
-    "addr:housenumber":"6714",
-    "addr:postcode":"94560",
-    "addr:street":"Thornton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.035208,37.531071,-122.035208,37.531071",
-    "geom:latitude":37.531071,
-    "geom:longitude":-122.035208,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6714 Thornton Ave",
-    "sg:city":"Newark",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6714 Thornton Ave Newark CA 94560",
+    "addr:housenumber": "6714",
+    "addr:postcode": "94560",
+    "addr:street": "Thornton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.035208,37.531071,-122.035208,37.531071",
+    "geom:latitude": 37.531071,
+    "geom:longitude": -122.035208,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Automotive Service \u0026 Repair, 6714 Thornton Ave Newark CA US",
+    "ovtr:similarity": 1.7593289613723755,
+    "sg:address": "6714 Thornton Ave",
+    "sg:city": "Newark",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 745 7178",
-    "sg:postcode":"94560",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "smog"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 745 7178",
+    "sg:postcode": "94560",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "smog"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921885,
-        102086959,
-        85886575
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921885,
+      102086959,
+      85886575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Ahiih6X3fEOI6ElGGYnQk_37.531071_-122.035208@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283460c6519b403768c702bd5fa56",
+      "sg:id": "SG_1Ahiih6X3fEOI6ElGGYnQk_37.531071_-122.035208@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"362566e341e3a4659979baaed58d37a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921885,
-            "neighbourhood_id":85886575,
-            "region_id":85688637,
-            "venue_id":320857851
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "362566e341e3a4659979baaed58d37a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921885,
+        "neighbourhood_id": 85886575,
+        "region_id": 85688637,
+        "venue_id": 320857851
+      }
     ],
-    "wof:id":320857851,
-    "wof:lastmodified":1509200503,
-    "wof:name":"Automotive Service & Repair",
-    "wof:parent_id":85886575,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "smog"
+    "wof:id": 320857851,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "Automotive Service \u0026 Repair",
+    "wof:parent_id": 85886575,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "smog"
     ]
-},
+  },
   "bbox": [
     -122.035208,
     37.531071,
     -122.035208,
     37.531071
-],
+  ],
   "geometry": {"coordinates":[-122.035208,37.531071],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 572199607,
   "type": "Feature",
   "properties": {
-    "addr:full":"170 Iron Point Rd Folsom CA 95630",
-    "addr:housenumber":"170",
-    "addr:postcode":"95630",
-    "addr:street":"Iron Point Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.18945,38.643541,-121.18945,38.643541",
-    "geom:latitude":38.643541,
-    "geom:longitude":-121.18945,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"170 Iron Point Rd",
-    "sg:city":"Folsom",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "170 Iron Point Rd Folsom CA 95630",
+    "addr:housenumber": "170",
+    "addr:postcode": "95630",
+    "addr:street": "Iron Point Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.189450,38.643541,-121.189450,38.643541",
+    "geom:latitude": 38.643541,
+    "geom:longitude": -121.18945,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 170 Iron Point Rd Folsom CA US",
+    "ovtr:similarity": 2.7939510345458984,
+    "sg:address": "170 Iron Point Rd",
+    "sg:city": "Folsom",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/folsom/216084-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95630",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/folsom/216084-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95630",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922863,
-        102082889,
-        85836371
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922863,
+      102082889,
+      85836371
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_17pfzet02AnRfVm1W2k2am_38.643541_-121.189450@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28328d9a70cc903b3d008463a5a86",
+      "sg:id": "SG_17pfzet02AnRfVm1W2k2am_38.643541_-121.189450@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ba048dab737226d3a1b6784643f7a149",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922863,
-            "neighbourhood_id":85836371,
-            "region_id":85688637,
-            "venue_id":572199607
-        }
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "ba048dab737226d3a1b6784643f7a149",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922863,
+        "neighbourhood_id": 85836371,
+        "region_id": 85688637,
+        "venue_id": 572199607
+      }
     ],
-    "wof:id":572199607,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85836371,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572199607,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85836371,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.18945,
     38.643541,
     -121.18945,
     38.643541
-],
-  "geometry": {"coordinates":[-121.18944999999999,38.643541],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.18945,38.643541],"type":"Point"}
 }

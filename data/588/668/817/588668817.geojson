@@ -2,59 +2,67 @@
   "id": 588668817,
   "type": "Feature",
   "properties": {
-    "addr:full":"808 J St Sacramento CA 95814",
-    "addr:housenumber":"808",
-    "addr:postcode":"95814",
-    "addr:street":"J St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.49566,38.58088,-121.49566,38.58088",
-    "geom:latitude":38.58088,
-    "geom:longitude":-121.49566,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"808 J St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        }
+    "addr:full": "808 J St Sacramento CA 95814",
+    "addr:housenumber": "808",
+    "addr:postcode": "95814",
+    "addr:street": "J St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.495660,38.580880,-121.495660,38.580880",
+    "geom:latitude": 38.58088,
+    "geom:longitude": -121.49566,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Eyes on J Optometry, 808 J St Sacramento CA US",
+    "ovtr:similarity": 2.182356119155884,
+    "sg:address": "808 J St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 447 3000",
-    "sg:postcode":"95814",
-    "sg:province":"CA",
-    "sg:website":"www.eyesonj.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_723zq98G9sYjZF9hQeMTRo_38.580880_-121.495660@1303263388"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 447 3000",
+    "sg:postcode": "95814",
+    "sg:province": "CA",
+    "sg:website": "www.eyesonj.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b1c99042d03f80a192097ca34",
+      "sg:id": "SG_723zq98G9sYjZF9hQeMTRo_38.580880_-121.495660@1303263388"
     },
-    "wof:country":"US",
-    "wof:geomhash":"464d6c46c7cddd1f8cffa92fdbcab702",
-    "wof:hierarchy":[],
-    "wof:id":588668817,
-    "wof:lastmodified":1509202204,
-    "wof:name":"Eyes On J Optometry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "464d6c46c7cddd1f8cffa92fdbcab702",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588668817
+      }
+    ],
+    "wof:id": 588668817,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Eyes On J Optometry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.49566,
     38.58088,
     -121.49566,
     38.58088
-],
+  ],
   "geometry": {"coordinates":[-121.49566,38.58088],"type":"Point"}
 }

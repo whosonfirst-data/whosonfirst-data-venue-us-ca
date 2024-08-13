@@ -2,87 +2,91 @@
   "id": 572207325,
   "type": "Feature",
   "properties": {
-    "addr:full":"3536 Balboa St San Francisco CA 94121",
-    "addr:housenumber":"3536",
-    "addr:postcode":"94121",
-    "addr:street":"Balboa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.496702,37.775796,-122.496702,37.775796",
-    "geom:latitude":37.775796,
-    "geom:longitude":-122.496702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3536 Balboa St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3536 Balboa St San Francisco CA 94121",
+    "addr:housenumber": "3536",
+    "addr:postcode": "94121",
+    "addr:street": "Balboa St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.496702,37.775796,-122.496702,37.775796",
+    "geom:latitude": 37.775796,
+    "geom:longitude": -122.496702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Balboa Teriyaki, 3536 Balboa St San Francisco CA US",
+    "ovtr:similarity": 2.770895004272461,
+    "sg:address": "3536 Balboa St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/141535-balboa-teriyaki/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 751 8895",
-    "sg:postcode":"94121",
-    "sg:province":"CA",
-    "sg:tags":[
-        "japanese",
-        "asian"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/141535-balboa-teriyaki/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 751 8895",
+    "sg:postcode": "94121",
+    "sg:province": "CA",
+    "sg:tags": [
+      "japanese",
+      "asian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865923,
-        102191575,
-        1108830805,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865923,
+      102191575,
+      1108830805,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4349255896,
-        "sfgov_rbl:id":"0433405-02-001",
-        "sg:id":"SG_57dqpvuP7hNmlWmyR8epo9_37.775808_-122.497016@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4349255896,
+      "ovtr:id": "08f283095b16526203dd28ff98cec431",
+      "sfgov_rbl:id": "0433405-02-001",
+      "sg:id": "SG_57dqpvuP7hNmlWmyR8epo9_37.775808_-122.497016@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7a3b35fda35e68dddbd9e77431a0aa88",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830805,
-            "neighbourhood_id":85865923,
-            "region_id":85688637,
-            "venue_id":572207325
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "7a3b35fda35e68dddbd9e77431a0aa88",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830805,
+        "neighbourhood_id": 85865923,
+        "region_id": 85688637,
+        "venue_id": 572207325
+      }
     ],
-    "wof:id":572207325,
-    "wof:lastmodified":1510941699,
-    "wof:name":"Balboa Teriyaki",
-    "wof:parent_id":85865923,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "japanese",
-        "asian"
+    "wof:id": 572207325,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Balboa Teriyaki",
+    "wof:parent_id": 85865923,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "japanese",
+      "asian"
     ]
-},
+  },
   "bbox": [
     -122.496702,
     37.775796,
     -122.496702,
     37.775796
-],
+  ],
   "geometry": {"coordinates":[-122.496702,37.775796],"type":"Point"}
 }

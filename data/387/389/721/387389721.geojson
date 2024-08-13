@@ -2,83 +2,87 @@
   "id": 387389721,
   "type": "Feature",
   "properties": {
-    "addr:full":"506 Center St El Segundo CA 90245",
-    "addr:housenumber":"506",
-    "addr:postcode":"90245",
-    "addr:street":"Center St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.404999,33.922401,-118.404999,33.922401",
-    "geom:latitude":33.922401,
-    "geom:longitude":-118.404999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"506 Center St",
-    "sg:city":"El Segundo",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "506 Center St El Segundo CA 90245",
+    "addr:housenumber": "506",
+    "addr:postcode": "90245",
+    "addr:street": "Center St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.404999,33.922401,-118.404999,33.922401",
+    "geom:latitude": 33.922401,
+    "geom:longitude": -118.404999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Village Liquor, 506 Center St El Segundo CA US",
+    "ovtr:similarity": 1.868759036064148,
+    "sg:address": "506 Center St",
+    "sg:city": "El Segundo",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 322 2030",
-    "sg:postcode":"90245",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 322 2030",
+    "sg:postcode": "90245",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923625,
-        102086957,
-        85885939
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923625,
+      102086957,
+      85885939
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Iz4px6MknPJujunPOSJNh_33.922401_-118.404999@1303263177"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a565bd26d4c031f31d5e1d379b2",
+      "sg:id": "SG_4Iz4px6MknPJujunPOSJNh_33.922401_-118.404999@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5a807affbc3dcbdda85196be2c265017",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923625,
-            "neighbourhood_id":85885939,
-            "region_id":85688637,
-            "venue_id":387389721
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "5a807affbc3dcbdda85196be2c265017",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923625,
+        "neighbourhood_id": 85885939,
+        "region_id": 85688637,
+        "venue_id": 387389721
+      }
     ],
-    "wof:id":387389721,
-    "wof:lastmodified":1509201022,
-    "wof:name":"Village Liquor",
-    "wof:parent_id":85885939,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 387389721,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Village Liquor",
+    "wof:parent_id": 85885939,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.404999,
     33.922401,
     -118.404999,
     33.922401
-],
+  ],
   "geometry": {"coordinates":[-118.404999,33.922401],"type":"Point"}
 }

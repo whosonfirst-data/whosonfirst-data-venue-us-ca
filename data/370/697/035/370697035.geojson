@@ -2,89 +2,93 @@
   "id": 370697035,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 S Flower St Los Angeles CA 90017",
-    "addr:housenumber":"801",
-    "addr:postcode":"90017",
-    "addr:street":"S Flower St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.260595,34.047365,-118.260595,34.047365",
-    "geom:latitude":34.047365,
-    "geom:longitude":-118.260595,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"801 S Flower St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "801 S Flower St Los Angeles CA 90017",
+    "addr:housenumber": "801",
+    "addr:postcode": "90017",
+    "addr:street": "S Flower St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.260595,34.047365,-118.260595,34.047365",
+    "geom:latitude": 34.047365,
+    "geom:longitude": -118.260595,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 801 S Flower St Los Angeles CA US",
+    "ovtr:similarity": 2.6137640476226807,
+    "sg:address": "801 S Flower St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 892 0926",
-    "sg:postcode":"90017",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 892 0926",
+    "sg:postcode": "90017",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ZShyLNc088Lp2suiG7viK_34.047365_-118.260595@1303263153"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d62c362b103bb1d4a4e411768",
+      "sg:id": "SG_7ZShyLNc088Lp2suiG7viK_34.047365_-118.260595@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c329516f555068c2ba9b3657e6411f85",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370697035
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "c329516f555068c2ba9b3657e6411f85",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370697035
+      }
     ],
-    "wof:id":370697035,
-    "wof:lastmodified":1511322178,
-    "wof:name":"Subway",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 370697035,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Subway",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.260595,
     34.047365,
     -118.260595,
     34.047365
-],
+  ],
   "geometry": {"coordinates":[-118.260595,34.047365],"type":"Point"}
 }

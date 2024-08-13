@@ -2,77 +2,81 @@
   "id": 202816321,
   "type": "Feature",
   "properties": {
-    "addr:full":"15141 Whittier Blvd Whittier CA 90603",
-    "addr:housenumber":"15141",
-    "addr:postcode":"90603",
-    "addr:street":"Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.003795,33.947982,-118.003795,33.947982",
-    "geom:latitude":33.947982,
-    "geom:longitude":-118.003795,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"15141 Whittier Blvd",
-    "sg:city":"Whittier",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "15141 Whittier Blvd Whittier CA 90603",
+    "addr:housenumber": "15141",
+    "addr:postcode": "90603",
+    "addr:street": "Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.003795,33.947982,-118.003795,33.947982",
+    "geom:latitude": 33.947982,
+    "geom:longitude": -118.003795,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Center for Outpatient Surgery, 15141 Whittier Blvd Whittier CA US",
+    "ovtr:similarity": 2.5720009803771973,
+    "sg:address": "15141 Whittier Blvd",
+    "sg:city": "Whittier",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 945 2832",
-    "sg:postcode":"90603",
-    "sg:province":"CA",
-    "sg:tags":[
-        "surgical",
-        "center"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 945 2832",
+    "sg:postcode": "90603",
+    "sg:province": "CA",
+    "sg:tags": [
+      "surgical",
+      "center"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7PfHGyydWIsPVRoqumxYNs_33.947982_-118.003795@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a6b90a5210360e6ab30fe023e",
+      "sg:id": "SG_7PfHGyydWIsPVRoqumxYNs_33.947982_-118.003795@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"424dd4586b4b20738c6b090db14e1008",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":202816321
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "424dd4586b4b20738c6b090db14e1008",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 202816321
+      }
     ],
-    "wof:id":202816321,
-    "wof:lastmodified":1509199902,
-    "wof:name":"Center For Outpatient Surgery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "surgical",
-        "center"
+    "wof:id": 202816321,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Center For Outpatient Surgery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "surgical",
+      "center"
     ]
-},
+  },
   "bbox": [
     -118.003795,
     33.947982,
     -118.003795,
     33.947982
-],
+  ],
   "geometry": {"coordinates":[-118.003795,33.947982],"type":"Point"}
 }

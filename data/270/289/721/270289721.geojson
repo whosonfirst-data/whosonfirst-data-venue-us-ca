@@ -2,74 +2,78 @@
   "id": 270289721,
   "type": "Feature",
   "properties": {
-    "addr:full":"1930 Lake Blvd Davis CA 95616",
-    "addr:housenumber":"1930",
-    "addr:postcode":"95616",
-    "addr:street":"Lake Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.786102,38.55947,-121.786102,38.55947",
-    "geom:latitude":38.55947,
-    "geom:longitude":-121.786102,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1930 Lake Blvd",
-    "sg:city":"Davis",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1930 Lake Blvd Davis CA 95616",
+    "addr:housenumber": "1930",
+    "addr:postcode": "95616",
+    "addr:street": "Lake Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.786102,38.559470,-121.786102,38.559470",
+    "geom:latitude": 38.55947,
+    "geom:longitude": -121.786102,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Circle K, 1930 Lake Blvd Davis CA US",
+    "ovtr:similarity": 3.0488948822021484,
+    "sg:address": "1930 Lake Blvd",
+    "sg:city": "Davis",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 756 0604",
-    "sg:postcode":"95616",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102082309,
-        85876943
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 756 0604",
+    "sg:postcode": "95616",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102082309,
+      85876943
     ],
-    "wof:brand_id":420573875,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1a9WFLVxjIJWCjZH0FGXFt_38.559470_-121.786102@1294081369"
+    "wof:brand_id": 420573875,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830793da5a82031573e26dd62963",
+      "sg:id": "SG_1a9WFLVxjIJWCjZH0FGXFt_38.559470_-121.786102@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7836fff98bb25130ef91944e5644a395",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":-1,
-            "neighbourhood_id":85876943,
-            "region_id":85688637,
-            "venue_id":270289721
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "7836fff98bb25130ef91944e5644a395",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": -1,
+        "neighbourhood_id": 85876943,
+        "region_id": 85688637,
+        "venue_id": 270289721
+      }
     ],
-    "wof:id":270289721,
-    "wof:lastmodified":1509200221,
-    "wof:name":"Circle K",
-    "wof:parent_id":85876943,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270289721,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Circle K",
+    "wof:parent_id": 85876943,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.786102,
     38.55947,
     -121.786102,
     38.55947
-],
+  ],
   "geometry": {"coordinates":[-121.786102,38.55947],"type":"Point"}
 }

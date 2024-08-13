@@ -2,82 +2,86 @@
   "id": 370529529,
   "type": "Feature",
   "properties": {
-    "addr:full":"625 N Hill Street Los Angeles CA 90012",
-    "addr:housenumber":"625",
-    "addr:postcode":"90012",
-    "addr:street":"N Hill Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.241359,34.059367,-118.241359,34.059367",
-    "geom:latitude":34.059367,
-    "geom:longitude":-118.241359,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"625 N Hill Street",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "625 N Hill Street Los Angeles CA 90012",
+    "addr:housenumber": "625",
+    "addr:postcode": "90012",
+    "addr:street": "N Hill Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.241359,34.059367,-118.241359,34.059367",
+    "geom:latitude": 34.059367,
+    "geom:longitude": -118.241359,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Castelar Apartments, 625 N Hill St Los Angeles CA US",
+    "ovtr:similarity": 2.8520400524139404,
+    "sg:address": "625 N Hill Street",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 626 3947",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 626 3947",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85866825",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85866825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61UWmLEbjtO628aRQZtZbf_34.059367_-118.241359@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d71d5da2c0334af0a0d6d7e92",
+      "sg:id": "SG_61UWmLEbjtO628aRQZtZbf_34.059367_-118.241359@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0369605fcfd1adf300ecde282d6c74ee",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85866825",
-            "region_id":85688637,
-            "venue_id":370529529
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "0369605fcfd1adf300ecde282d6c74ee",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85866825,
+        "region_id": 85688637,
+        "venue_id": 370529529
+      }
     ],
-    "wof:id":370529529,
-    "wof:lastmodified":1509200759,
-    "wof:name":"Castelar Apartments",
-    "wof:parent_id":"85866825",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:id": 370529529,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Castelar Apartments",
+    "wof:parent_id": "85866825",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -118.241359,
     34.059367,
     -118.241359,
     34.059367
-],
+  ],
   "geometry": {"coordinates":[-118.241359,34.059367],"type":"Point"}
 }

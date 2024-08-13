@@ -2,91 +2,95 @@
   "id": 588720047,
   "type": "Feature",
   "properties": {
-    "addr:full":"2900 Eureka Way Redding CA 96001",
-    "addr:housenumber":"2900",
-    "addr:postcode":"96001",
-    "addr:street":"Eureka Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.416252,40.58551,-122.416252,40.58551",
-    "geom:latitude":40.58551,
-    "geom:longitude":-122.416252,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2900 Eureka Way",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        },
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "2900 Eureka Way Redding CA 96001",
+    "addr:housenumber": "2900",
+    "addr:postcode": "96001",
+    "addr:street": "Eureka Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.416252,40.585510,-122.416252,40.585510",
+    "geom:latitude": 40.58551,
+    "geom:longitude": -122.416252,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Patients Hospital, 2900 Eureka Way Redding CA US",
+    "ovtr:similarity": 2.236043930053711,
+    "sg:address": "2900 Eureka Way",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      },
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 225 8700",
-    "sg:postcode":"96001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "medical",
-        "surgery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 225 8700",
+    "sg:postcode": "96001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "medical",
+      "surgery"
     ],
-    "sg:website":"http://www.patientshospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85818197,
-        85633793,
-        85923859,
-        102083577,
-        85688637
+    "sg:website": "http://www.patientshospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85818197,
+      85633793,
+      85923859,
+      102083577,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4mVbbWYUHnnXEFFUWsbN9Y_40.585510_-122.416252@1303263402"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f281539293302e039cf6ce95f5ddfa",
+      "sg:id": "SG_4mVbbWYUHnnXEFFUWsbN9Y_40.585510_-122.416252@1303263402"
     },
-    "wof:country":"US",
-    "wof:geomhash":"473023cfa45ddbf46465b89b89f39481",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":588720047
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "473023cfa45ddbf46465b89b89f39481",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 588720047
+      }
     ],
-    "wof:id":588720047,
-    "wof:lastmodified":1509202235,
-    "wof:name":"Patients Hospital",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical",
-        "surgery"
+    "wof:id": 588720047,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Patients Hospital",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical",
+      "surgery"
     ]
-},
+  },
   "bbox": [
     -122.416252,
     40.58551,
     -122.416252,
     40.58551
-],
+  ],
   "geometry": {"coordinates":[-122.416252,40.58551],"type":"Point"}
 }

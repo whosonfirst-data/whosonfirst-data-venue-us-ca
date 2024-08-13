@@ -2,81 +2,85 @@
   "id": 572069495,
   "type": "Feature",
   "properties": {
-    "addr:full":"3421 Ocean View Blvd Glendale CA 91208",
-    "addr:housenumber":"3421",
-    "addr:postcode":"91208",
-    "addr:street":"Ocean View Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.228996,34.200401,-118.228996,34.200401",
-    "geom:latitude":34.200401,
-    "geom:longitude":-118.228996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3421 Ocean View Blvd",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3421 Ocean View Blvd Glendale CA 91208",
+    "addr:housenumber": "3421",
+    "addr:postcode": "91208",
+    "addr:street": "Ocean View Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.228996,34.200401,-118.228996,34.200401",
+    "geom:latitude": 34.200401,
+    "geom:longitude": -118.228996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Berolina Bakery \u0026 Pastry Shop, 3421 Ocean View Blvd Glendale CA US",
+    "ovtr:similarity": 2.041961908340454,
+    "sg:address": "3421 Ocean View Blvd",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 249 6506",
-    "sg:postcode":"91208",
-    "sg:province":"CA",
-    "sg:tags":[
-        "baker"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 249 6506",
+    "sg:postcode": "91208",
+    "sg:province": "CA",
+    "sg:tags": [
+      "baker"
     ],
-    "sg:website":"www.berolinabakery.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        85850413
+    "sg:website": "www.berolinabakery.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85850413
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_49XbRNlcQSOjFqX2vrGzbZ_34.200512_-118.228586@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c742362d803af69380d8d1618",
+      "sg:id": "SG_49XbRNlcQSOjFqX2vrGzbZ_34.200512_-118.228586@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8906fa15c757c9875445f75d98e6e7b7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":85850413,
-            "region_id":85688637,
-            "venue_id":572069495
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "8906fa15c757c9875445f75d98e6e7b7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85850413,
+        "region_id": 85688637,
+        "venue_id": 572069495
+      }
     ],
-    "wof:id":572069495,
-    "wof:lastmodified":1509201683,
-    "wof:name":"Berolina Bakery & Pastry Shop",
-    "wof:parent_id":85850413,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker"
+    "wof:id": 572069495,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Berolina Bakery \u0026 Pastry Shop",
+    "wof:parent_id": 85850413,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker"
     ]
-},
+  },
   "bbox": [
     -118.228996,
     34.200401,
     -118.228996,
     34.200401
-],
+  ],
   "geometry": {"coordinates":[-118.228996,34.200401],"type":"Point"}
 }

@@ -2,79 +2,83 @@
   "id": 320233973,
   "type": "Feature",
   "properties": {
-    "addr:full":"715 N Chester Ave Bakersfield CA 93308",
-    "addr:housenumber":"715",
-    "addr:postcode":"93308",
-    "addr:street":"N Chester Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.02112,35.413683,-119.02112,35.413683",
-    "geom:latitude":35.413683,
-    "geom:longitude":-119.02112,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"715 N Chester Ave",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "715 N Chester Ave Bakersfield CA 93308",
+    "addr:housenumber": "715",
+    "addr:postcode": "93308",
+    "addr:street": "N Chester Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.021120,35.413683,-119.021120,35.413683",
+    "geom:latitude": 35.413683,
+    "geom:longitude": -119.02112,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Smile Dental, 715 N Chester Ave Bakersfield CA US",
+    "ovtr:similarity": 1.9042049646377563,
+    "sg:address": "715 N Chester Ave",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 399 5788",
-    "sg:postcode":"93308",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 399 5788",
+    "sg:postcode": "93308",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85876059
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85876059
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_64GKWdaEDuX8tL1qacDSiN_35.413683_-119.021120@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb0840d356035c036ff4286c56",
+      "sg:id": "SG_64GKWdaEDuX8tL1qacDSiN_35.413683_-119.021120@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ceeb71b12212b75e6bf6ce083926d669",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":320233973
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "ceeb71b12212b75e6bf6ce083926d669",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 320233973
+      }
     ],
-    "wof:id":320233973,
-    "wof:lastmodified":1509200450,
-    "wof:name":"Smile Dental",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 320233973,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Smile Dental",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -119.02112,
     35.413683,
     -119.02112,
     35.413683
-],
+  ],
   "geometry": {"coordinates":[-119.02112,35.413683],"type":"Point"}
 }

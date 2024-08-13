@@ -2,66 +2,74 @@
   "id": 572200081,
   "type": "Feature",
   "properties": {
-    "addr:full":"4211 Sierra College Blvd Rocklin CA 95677",
-    "addr:housenumber":"4211",
-    "addr:postcode":"95677",
-    "addr:street":"Sierra College Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.20544,38.807807,-121.20544,38.807807",
-    "geom:latitude":38.807807,
-    "geom:longitude":-121.20544,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4211 Sierra College Blvd",
-    "sg:city":"Rocklin",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4211 Sierra College Blvd Rocklin CA 95677",
+    "addr:housenumber": "4211",
+    "addr:postcode": "95677",
+    "addr:street": "Sierra College Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.205440,38.807807,-121.205440,38.807807",
+    "geom:latitude": 38.807807,
+    "geom:longitude": -121.20544,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 4211 Sierra College Blvd Rocklin CA US",
+    "ovtr:similarity": 2.513277053833008,
+    "sg:address": "4211 Sierra College Blvd",
+    "sg:city": "Rocklin",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/loomis-basin-folsom-lake/216443-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95677",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/loomis-basin-folsom-lake/216443-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95677",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5lcWTDCt3MM1XoChGkG8iA_38.807807_-121.205440@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832064c5e2e103746a8470508fa5",
+      "sg:id": "SG_5lcWTDCt3MM1XoChGkG8iA_38.807807_-121.205440@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"57f7243b238b10303c8d084e4703a9c7",
-    "wof:hierarchy":[],
-    "wof:id":572200081,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420551843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "57f7243b238b10303c8d084e4703a9c7",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572200081
+      }
+    ],
+    "wof:id": 572200081,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420551843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.20544,
     38.807807,
     -121.20544,
     38.807807
-],
+  ],
   "geometry": {"coordinates":[-121.20544,38.807807],"type":"Point"}
 }

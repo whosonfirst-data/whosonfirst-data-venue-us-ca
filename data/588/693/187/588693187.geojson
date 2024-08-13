@@ -2,87 +2,91 @@
   "id": 588693187,
   "type": "Feature",
   "properties": {
-    "addr:full":"5930 Stockton Blvd Sacramento CA 95824",
-    "addr:housenumber":"5930",
-    "addr:postcode":"95824",
-    "addr:street":"Stockton Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.440716,38.518351,-121.440716,38.518351",
-    "geom:latitude":38.518351,
-    "geom:longitude":-121.440716,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5930 Stockton Blvd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5930 Stockton Blvd Sacramento CA 95824",
+    "addr:housenumber": "5930",
+    "addr:postcode": "95824",
+    "addr:street": "Stockton Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.440716,38.518351,-121.440716,38.518351",
+    "geom:latitude": 38.518351,
+    "geom:longitude": -121.440716,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 5930 Stockton Blvd Sacramento CA US",
+    "ovtr:similarity": 1.9156559705734253,
+    "sg:address": "5930 Stockton Blvd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 393 1784",
-    "sg:postcode":"95824",
-    "sg:province":"CA",
-    "sg:website":"www.99only.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85820795
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 393 1784",
+    "sg:postcode": "95824",
+    "sg:province": "CA",
+    "sg:website": "www.99only.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85820795
     ],
-    "wof:brand_id":1125158017,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3vWi3X9IyhuNNpotb19KIl_38.518351_-121.440716@1303263395"
+    "wof:brand_id": 1125158017,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b32d448a103882f91f57541b2",
+      "sg:id": "SG_3vWi3X9IyhuNNpotb19KIl_38.518351_-121.440716@1303263395"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f3233f1801cd8ee2173da23fc79a57e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85820795,
-            "region_id":85688637,
-            "venue_id":588693187
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "f3233f1801cd8ee2173da23fc79a57e0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85820795,
+        "region_id": 85688637,
+        "venue_id": 588693187
+      }
     ],
-    "wof:id":588693187,
-    "wof:lastmodified":1510698494,
-    "wof:name":"99 Cents Only Stores",
-    "wof:parent_id":85820795,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588693187,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "99 Cents Only Stores",
+    "wof:parent_id": 85820795,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.440716,
     38.518351,
     -121.440716,
     38.518351
-],
-  "geometry": {"coordinates":[-121.44071599999999,38.518351],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.440716,38.518351],"type":"Point"}
 }

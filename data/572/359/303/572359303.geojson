@@ -2,91 +2,95 @@
   "id": 572359303,
   "type": "Feature",
   "properties": {
-    "addr:full":"1880 Harbor Island Dr San Diego CA 92101",
-    "addr:housenumber":"1880",
-    "addr:postcode":"92101",
-    "addr:street":"Harbor Island Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.20641,32.725318,-117.20641,32.725318",
-    "geom:latitude":32.725318,
-    "geom:longitude":-117.20641,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1880 Harbor Island Dr",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"Boat Charter",
-            "type":"Entertainment"
-        }
+    "addr:full": "1880 Harbor Island Dr San Diego CA 92101",
+    "addr:housenumber": "1880",
+    "addr:postcode": "92101",
+    "addr:street": "Harbor Island Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.206410,32.725318,-117.206410,32.725318",
+    "geom:latitude": 32.725318,
+    "geom:longitude": -117.20641,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Harbor Island Yacht Club, 1880 Harbor Island Dr San Diego CA US",
+    "ovtr:similarity": 3.357445001602173,
+    "sg:address": "1880 Harbor Island Dr",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Boat Charter",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 291 7245",
-    "sg:postcode":"92101",
-    "sg:province":"CA",
-    "sg:tags":[
-        "boating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 291 7245",
+    "sg:postcode": "92101",
+    "sg:province": "CA",
+    "sg:tags": [
+      "boating"
     ],
-    "sg:website":"www.harboryc.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85871191,
-        85882405
+    "sg:website": "www.harboryc.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85871191,
+      85882405
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6TnJNPHrH6pB8aJupc5G7I_32.725318_-117.206410@1303263240"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a411844d36e0333844439c59b12",
+      "sg:id": "SG_6TnJNPHrH6pB8aJupc5G7I_32.725318_-117.206410@1303263240"
     },
-    "wof:country":"US",
-    "wof:geomhash":"810f725eb9f2c09bf451b88d54fb6548",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85871191,
-            "region_id":85688637,
-            "venue_id":572359303
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85882405,
-            "region_id":85688637,
-            "venue_id":572359303
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "810f725eb9f2c09bf451b88d54fb6548",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85871191,
+        "region_id": 85688637,
+        "venue_id": 572359303
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85882405,
+        "region_id": 85688637,
+        "venue_id": 572359303
+      }
     ],
-    "wof:id":572359303,
-    "wof:lastmodified":1509201840,
-    "wof:name":"Harbor Island Yacht Club",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boating"
+    "wof:id": 572359303,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Harbor Island Yacht Club",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boating"
     ]
-},
+  },
   "bbox": [
     -117.20641,
     32.725318,
     -117.20641,
     32.725318
-],
-  "geometry": {"coordinates":[-117.20641000000001,32.725318],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.20641,32.725318],"type":"Point"}
 }

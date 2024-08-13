@@ -2,83 +2,87 @@
   "id": 572201701,
   "type": "Feature",
   "properties": {
-    "addr:full":"88 Lake Blvd Redding CA 96003",
-    "addr:housenumber":"88",
-    "addr:postcode":"96003",
-    "addr:street":"Lake Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.379306,40.60991,-122.379306,40.60991",
-    "geom:latitude":40.60991,
-    "geom:longitude":-122.379306,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"88 Lake Blvd",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "88 Lake Blvd Redding CA 96003",
+    "addr:housenumber": "88",
+    "addr:postcode": "96003",
+    "addr:street": "Lake Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.379306,40.609910,-122.379306,40.609910",
+    "geom:latitude": 40.60991,
+    "geom:longitude": -122.379306,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 88 Lake Blvd Redding CA US",
+    "ovtr:similarity": 3.150536060333252,
+    "sg:address": "88 Lake Blvd",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/redding-anderson/216741-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"96003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/redding-anderson/216741-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "96003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85818197
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85818197
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0y1cJPWbYPZ8diBqlqDWoS_40.609910_-122.379306@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28157615069ac03eee0f0384ba1b7",
+      "sg:id": "SG_0y1cJPWbYPZ8diBqlqDWoS_40.609910_-122.379306@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7543cd030176466cea25e9b368530dfd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":572201701
-        }
+    "wof:country": "US",
+    "wof:created": 1723561695,
+    "wof:geomhash": "7543cd030176466cea25e9b368530dfd",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 572201701
+      }
     ],
-    "wof:id":572201701,
-    "wof:lastmodified":1512142846,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        354410249
+    "wof:id": 572201701,
+    "wof:lastmodified": 1723561695,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      354410249
     ],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.379306,
     40.60991,
     -122.379306,
     40.60991
-],
+  ],
   "geometry": {"coordinates":[-122.379306,40.60991],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 572135701,
   "type": "Feature",
   "properties": {
-    "addr:full":"968 W Vernon Ave Los Angeles CA 90037",
-    "addr:housenumber":"968",
-    "addr:postcode":"90037",
-    "addr:street":"W Vernon Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.291,34.003799,-118.291,34.003799",
-    "geom:latitude":34.003799,
-    "geom:longitude":-118.291,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"968 W Vernon Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "968 W Vernon Ave Los Angeles CA 90037",
+    "addr:housenumber": "968",
+    "addr:postcode": "90037",
+    "addr:street": "W Vernon Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.291000,34.003799,-118.291000,34.003799",
+    "geom:latitude": 34.003799,
+    "geom:longitude": -118.291,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vernon Family Dental, 968 W Vernon Ave Los Angeles CA US",
+    "ovtr:similarity": 2.2384328842163086,
+    "sg:address": "968 W Vernon Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 234 4889",
-    "sg:postcode":"90037",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 234 4889",
+    "sg:postcode": "90037",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85865793
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85865793
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6yNfQIAvVkFLtfaxB26VKO_34.003603_-118.291222@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56ca62d94e034ad23730c8f4ab",
+      "sg:id": "SG_6yNfQIAvVkFLtfaxB26VKO_34.003603_-118.291222@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"41dd891c08dea7c7defc97c4312185e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865793,
-            "region_id":85688637,
-            "venue_id":572135701
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "41dd891c08dea7c7defc97c4312185e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865793,
+        "region_id": 85688637,
+        "venue_id": 572135701
+      }
     ],
-    "wof:id":572135701,
-    "wof:lastmodified":1509201703,
-    "wof:name":"Vernon Family Dental",
-    "wof:parent_id":85865793,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 572135701,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Vernon Family Dental",
+    "wof:parent_id": 85865793,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -118.291,
     34.003799,
     -118.291,
     34.003799
-],
+  ],
   "geometry": {"coordinates":[-118.291,34.003799],"type":"Point"}
 }

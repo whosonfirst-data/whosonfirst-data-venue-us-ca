@@ -2,81 +2,85 @@
   "id": 555495323,
   "type": "Feature",
   "properties": {
-    "addr:full":"2801 Pico Blvd Santa Monica CA 90405",
-    "addr:housenumber":"2801",
-    "addr:postcode":"90405",
-    "addr:street":"Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.459561,34.024708,-118.459561,34.024708",
-    "geom:latitude":34.024708,
-    "geom:longitude":-118.459561,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2801 Pico Blvd",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2801 Pico Blvd Santa Monica CA 90405",
+    "addr:housenumber": "2801",
+    "addr:postcode": "90405",
+    "addr:street": "Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.459561,34.024708,-118.459561,34.024708",
+    "geom:latitude": 34.024708,
+    "geom:longitude": -118.459561,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 2801 Pico Blvd Santa Monica CA US",
+    "ovtr:similarity": 2.5789589881896973,
+    "sg:address": "2801 Pico Blvd",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 449 6939",
-    "sg:postcode":"90405",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 449 6939",
+    "sg:postcode": "90405",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923817,
-        102086957,
-        85847231
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923817,
+      102086957,
+      85847231
     ],
-    "wof:brand_id":1125154585,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3IoqVRgWK2r1tu66AtMdVT_34.024708_-118.459561@1294081369"
+    "wof:brand_id": 1125154585,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19811892ee033ca33afec1ceaa",
+      "sg:id": "SG_3IoqVRgWK2r1tu66AtMdVT_34.024708_-118.459561@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8cebd427757da047b3c6dba82402fa4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85847231,
-            "region_id":85688637,
-            "venue_id":555495323
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "8cebd427757da047b3c6dba82402fa4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 555495323
+      }
     ],
-    "wof:id":555495323,
-    "wof:lastmodified":1510613337,
-    "wof:name":"99 Cents Only Store",
-    "wof:parent_id":85847231,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 555495323,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "99 Cents Only Store",
+    "wof:parent_id": 85847231,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -118.459561,
     34.024708,
     -118.459561,
     34.024708
-],
-  "geometry": {"coordinates":[-118.45956099999999,34.024708],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.459561,34.024708],"type":"Point"}
 }

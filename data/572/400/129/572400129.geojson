@@ -2,68 +2,76 @@
   "id": 572400129,
   "type": "Feature",
   "properties": {
-    "addr:full":"583 Pine Ave Holtville CA 92250",
-    "addr:housenumber":"583",
-    "addr:postcode":"92250",
-    "addr:street":"Pine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.381409,32.812539,-115.381409,32.812539",
-    "geom:latitude":32.812539,
-    "geom:longitude":-115.381409,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"583 Pine Ave",
-    "sg:city":"Holtville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "583 Pine Ave Holtville CA 92250",
+    "addr:housenumber": "583",
+    "addr:postcode": "92250",
+    "addr:street": "Pine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.381409,32.812539,-115.381409,32.812539",
+    "geom:latitude": 32.812539,
+    "geom:longitude": -115.381409,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Donut Avenue, 583 Pine Ave Holtville CA US",
+    "ovtr:similarity": 2.6900949478149414,
+    "sg:address": "583 Pine Ave",
+    "sg:city": "Holtville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 356 5583",
-    "sg:postcode":"92250",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 356 5583",
+    "sg:postcode": "92250",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4W22ZSmtX97bAFYkcxpYXb_32.812539_-115.381409@1303263250"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f485ba0e49551a03a22e7b92824976",
+      "sg:id": "SG_4W22ZSmtX97bAFYkcxpYXb_32.812539_-115.381409@1303263250"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ccc65c2cbcbd8afd98ff09b83ec92cc3",
-    "wof:hierarchy":[],
-    "wof:id":572400129,
-    "wof:lastmodified":1509201867,
-    "wof:name":"Donut Avenue",
-    "wof:parent_id":420550977,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "ccc65c2cbcbd8afd98ff09b83ec92cc3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572400129
+      }
+    ],
+    "wof:id": 572400129,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Donut Avenue",
+    "wof:parent_id": 420550977,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -115.381409,
     32.812539,
     -115.381409,
     32.812539
-],
+  ],
   "geometry": {"coordinates":[-115.381409,32.812539],"type":"Point"}
 }

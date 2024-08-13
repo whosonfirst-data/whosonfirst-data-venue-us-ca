@@ -2,76 +2,80 @@
   "id": 404043809,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Rose Ave Pleasanton CA 94566",
-    "addr:housenumber":"200",
-    "addr:postcode":"94566",
-    "addr:street":"Rose Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.877101,37.660893,-121.877101,37.660893",
-    "geom:latitude":37.660893,
-    "geom:longitude":-121.877101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"200 Rose Ave",
-    "sg:city":"Pleasanton",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "200 Rose Ave Pleasanton CA 94566",
+    "addr:housenumber": "200",
+    "addr:postcode": "94566",
+    "addr:street": "Rose Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.877101,37.660893,-121.877101,37.660893",
+    "geom:latitude": 37.660893,
+    "geom:longitude": -121.877101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Victoria's Salon, 200 Rose Ave Pleasanton CA US",
+    "ovtr:similarity": 2.9306139945983887,
+    "sg:address": "200 Rose Ave",
+    "sg:city": "Pleasanton",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 461 0133",
-    "sg:postcode":"94566",
-    "sg:province":"CA",
-    "sg:website":"www.victoriassalon.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921871,
-        102086959,
-        85843615
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 461 0133",
+    "sg:postcode": "94566",
+    "sg:province": "CA",
+    "sg:website": "www.victoriassalon.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921871,
+      102086959,
+      85843615
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Mr1pBhRPSN0RN8vr9MTIc_37.660893_-121.877101@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283468b313aa3031fc840e74deb81",
+      "sg:id": "SG_3Mr1pBhRPSN0RN8vr9MTIc_37.660893_-121.877101@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d4dd2e10c1cd6bf8d4bd18383ec58db",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921871,
-            "neighbourhood_id":85843615,
-            "region_id":85688637,
-            "venue_id":404043809
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "3d4dd2e10c1cd6bf8d4bd18383ec58db",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921871,
+        "neighbourhood_id": 85843615,
+        "region_id": 85688637,
+        "venue_id": 404043809
+      }
     ],
-    "wof:id":404043809,
-    "wof:lastmodified":1509201192,
-    "wof:name":"Victoria's Salon",
-    "wof:parent_id":85843615,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404043809,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Victoria's Salon",
+    "wof:parent_id": 85843615,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.877101,
     37.660893,
     -121.877101,
     37.660893
-],
+  ],
   "geometry": {"coordinates":[-121.877101,37.660893],"type":"Point"}
 }

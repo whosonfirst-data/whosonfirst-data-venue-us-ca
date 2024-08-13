@@ -2,86 +2,90 @@
   "id": 588566227,
   "type": "Feature",
   "properties": {
-    "addr:full":"1126 Pacific Ave Santa Cruz CA 95060",
-    "addr:housenumber":"1126",
-    "addr:postcode":"95060",
-    "addr:street":"Pacific Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.025698,36.972593,-122.025698,36.972593",
-    "geom:latitude":36.972593,
-    "geom:longitude":-122.025698,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1126 Pacific Ave",
-    "sg:city":"Santa Cruz",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1126 Pacific Ave Santa Cruz CA 95060",
+    "addr:housenumber": "1126",
+    "addr:postcode": "95060",
+    "addr:street": "Pacific Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.025698,36.972593,-122.025698,36.972593",
+    "geom:latitude": 36.972593,
+    "geom:longitude": -122.025698,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Cafe Delmarette, 1126 Pacific Ave Santa Cruz CA US",
+    "ovtr:similarity": 2.055875062942505,
+    "sg:address": "1126 Pacific Ave",
+    "sg:city": "Santa Cruz",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 420 1025",
-    "sg:postcode":"95060",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 420 1025",
+    "sg:postcode": "95060",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921769,
-        102087581,
-        85880729
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921769,
+      102087581,
+      85880729
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":674542332,
-        "sg:id":"SG_27udvArVv3MTwnJM5h6FCa_36.972593_-122.025698@1303263362"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 674542332,
+      "ovtr:id": "08f283411209c88d0325dc73cc2cf258",
+      "sg:id": "SG_27udvArVv3MTwnJM5h6FCa_36.972593_-122.025698@1303263362"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dd2e5a76bfa63d3aa8702fb3f5051e5d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087581,
-            "locality_id":85921769,
-            "neighbourhood_id":85880729,
-            "region_id":85688637,
-            "venue_id":588566227
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "dd2e5a76bfa63d3aa8702fb3f5051e5d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087581,
+        "locality_id": 85921769,
+        "neighbourhood_id": 85880729,
+        "region_id": 85688637,
+        "venue_id": 588566227
+      }
     ],
-    "wof:id":588566227,
-    "wof:lastmodified":1510941896,
-    "wof:name":"Cafe Delmarette",
-    "wof:parent_id":85880729,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 588566227,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Cafe Delmarette",
+    "wof:parent_id": 85880729,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -122.025698,
     36.972593,
     -122.025698,
     36.972593
-],
-  "geometry": {"coordinates":[-122.02569800000001,36.972593],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.025698,36.972593],"type":"Point"}
 }

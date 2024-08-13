@@ -2,82 +2,86 @@
   "id": 270434283,
   "type": "Feature",
   "properties": {
-    "addr:city":"Crescent City",
-    "addr:full":"577 H St Crescent City, Ca 95531-3743",
-    "addr:house_number":"577",
-    "addr:housenumber":"577",
-    "addr:phone":"+1 707-464-3922",
-    "addr:postcode":"95531-3743",
-    "addr:road":"H St",
-    "addr:state":"CA",
-    "addr:street":"H St Crescent",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.19932,41.75385,-124.19932,41.75385",
-    "geom:latitude":41.75385,
-    "geom:longitude":-124.19932,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"577 H St",
-    "sg:city":"Crescent City",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Crescent City",
+    "addr:full": "577 H St Crescent City, Ca 95531-3743",
+    "addr:house_number": "577",
+    "addr:housenumber": "577",
+    "addr:phone": "+1 707-464-3922",
+    "addr:postcode": "95531-3743",
+    "addr:road": "H St",
+    "addr:state": "CA",
+    "addr:street": "H St Crescent",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.199320,41.753850,-124.199320,41.753850",
+    "geom:latitude": 41.75385,
+    "geom:longitude": -124.19932,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Del Norte County Historical Society, 577 H St Crescent City CA US",
+    "ovtr:similarity": 3.7931230068206787,
+    "sg:address": "577 H St",
+    "sg:city": "Crescent City",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 464 3922",
-    "sg:postcode":"95531",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102534223
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 464 3922",
+    "sg:postcode": "95531",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102534223
     ],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85921927,
-        102084361
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85921927,
+      102084361
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400602546,
-        "sg:id":"SG_3BADyElDjHmQN7MG22T8dJ_41.753729_-124.199348@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "mudf:mid": 8400602546,
+      "ovtr:id": "08f281ca1d3ab77603e05e03d2b7d4c4",
+      "sg:id": "SG_3BADyElDjHmQN7MG22T8dJ_41.753729_-124.199348@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c75049372e92c069422e37048164b6a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084361,
-            "locality_id":85921927,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":270434283
-        }
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "c75049372e92c069422e37048164b6a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084361,
+        "locality_id": 85921927,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 270434283
+      }
     ],
-    "wof:id":270434283,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Del Norte County Historical Society",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270434283,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "Del Norte County Historical Society",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -124.19932,
     41.75385,
     -124.19932,
     41.75385
-],
+  ],
   "geometry": {"coordinates":[-124.19932,41.75385],"type":"Point"}
 }

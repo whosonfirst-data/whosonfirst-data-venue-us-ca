@@ -2,91 +2,95 @@
   "id": 370453647,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Exposition Blvd Los Angeles CA 90007",
-    "addr:housenumber":"900",
-    "addr:postcode":"90007",
-    "addr:street":"Exposition Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.291,34.018299,-118.291,34.018299",
-    "geom:latitude":34.018299,
-    "geom:longitude":-118.291,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"900 Exposition Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Landmark",
-            "subcategory":"Historic",
-            "type":"Public Place"
-        },
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "900 Exposition Blvd Los Angeles CA 90007",
+    "addr:housenumber": "900",
+    "addr:postcode": "90007",
+    "addr:street": "Exposition Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.291000,34.018299,-118.291000,34.018299",
+    "geom:latitude": 34.018299,
+    "geom:longitude": -118.291,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Natural History Museum of Los Angeles County, 900 Exposition Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.2360739707946777,
+    "sg:address": "900 Exposition Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Landmark",
+        "subcategory": "Historic",
+        "type": "Public Place"
+      },
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 763 3466",
-    "sg:postcode":"90007",
-    "sg:province":"CA",
-    "sg:tags":[
-        "building",
-        "historical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 763 3466",
+    "sg:postcode": "90007",
+    "sg:province": "CA",
+    "sg:tags": [
+      "building",
+      "historical"
     ],
-    "sg:website":"www.nhm.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85869223",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.nhm.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869223
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000624570-0001-0",
-        "sg:id":"SG_1Hksc55s4W0irMglInslqL_34.018299_-118.291000@1303263147"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000624570-0001-0",
+      "ovtr:id": "08f29a1d64184d0a036da182bc679920",
+      "sg:id": "SG_1Hksc55s4W0irMglInslqL_34.018299_-118.291000@1303263147"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0b69bf57ac3e4d387b1a67733b158eb9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85869223",
-            "region_id":85688637,
-            "venue_id":370453647
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "0b69bf57ac3e4d387b1a67733b158eb9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85869223,
+        "region_id": 85688637,
+        "venue_id": 370453647
+      }
     ],
-    "wof:id":370453647,
-    "wof:lastmodified":1509200741,
-    "wof:name":"Natural History Museum of Los Angeles County",
-    "wof:parent_id":"85869223",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "building",
-        "historical"
+    "wof:id": 370453647,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Natural History Museum of Los Angeles County",
+    "wof:parent_id": "85869223",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "historical"
     ]
-},
+  },
   "bbox": [
     -118.291,
     34.018299,
     -118.291,
     34.018299
-],
+  ],
   "geometry": {"coordinates":[-118.291,34.018299],"type":"Point"}
 }

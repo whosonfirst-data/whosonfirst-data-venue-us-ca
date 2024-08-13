@@ -2,84 +2,88 @@
   "id": 370260031,
   "type": "Feature",
   "properties": {
-    "addr:full":"1809 West Blvd Los Angeles CA 90019",
-    "addr:housenumber":"1809",
-    "addr:postcode":"90019",
-    "addr:street":"West Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.337393,34.039955,-118.337393,34.039955",
-    "geom:latitude":34.039955,
-    "geom:longitude":-118.337393,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1809 West Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "1809 West Blvd Los Angeles CA 90019",
+    "addr:housenumber": "1809",
+    "addr:postcode": "90019",
+    "addr:street": "West Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.337393,34.039955,-118.337393,34.039955",
+    "geom:latitude": 34.039955,
+    "geom:longitude": -118.337393,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "First Presbyterian Church of Los Angeles, 1809 West Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.7022531032562256,
+    "sg:address": "1809 West Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 935 5204",
-    "sg:postcode":"90019",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 935 5204",
+    "sg:postcode": "90019",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:brand_id":420573959,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3736232516,
-        "sg:id":"SG_3zpaqU72Z0MeTPsqhJmjxn_34.039955_-118.337393@1294081369"
+    "wof:brand_id": 420573959,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3736232516,
+      "ovtr:id": "08f29a1992198602039805a2b1d4d9de",
+      "sg:id": "SG_3zpaqU72Z0MeTPsqhJmjxn_34.039955_-118.337393@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"26d950806203059ee7b3d4e9b149df8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370260031
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "26d950806203059ee7b3d4e9b149df8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370260031
+      }
     ],
-    "wof:id":370260031,
-    "wof:lastmodified":1510943756,
-    "wof:name":"First Presbyterian Church",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 370260031,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "First Presbyterian Church",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.337393,
     34.039955,
     -118.337393,
     34.039955
-],
-  "geometry": {"coordinates":[-118.33739300000001,34.039955],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.337393,34.039955],"type":"Point"}
 }

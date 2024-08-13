@@ -2,63 +2,71 @@
   "id": 588620009,
   "type": "Feature",
   "properties": {
-    "addr:full":"1220 V St Merced CA 95341",
-    "addr:housenumber":"1220",
-    "addr:postcode":"95341",
-    "addr:street":"V St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.501336,37.30188,-120.501336,37.30188",
-    "geom:latitude":37.30188,
-    "geom:longitude":-120.501336,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1220 V St",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1220 V St Merced CA 95341",
+    "addr:housenumber": "1220",
+    "addr:postcode": "95341",
+    "addr:street": "V St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.501336,37.301880,-120.501336,37.301880",
+    "geom:latitude": 37.30188,
+    "geom:longitude": -120.501336,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Gateway Pizza N Subs, 1220 V St Merced CA US",
+    "ovtr:similarity": 2.4954440593719482,
+    "sg:address": "1220 V St",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 723 7273",
-    "sg:postcode":"95341",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 723 7273",
+    "sg:postcode": "95341",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1paTopXoRNPiu0ze9M5wIr_37.301880_-120.501336@1303263375"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836d128e8baa03b9982a82ae35de",
+      "sg:id": "SG_1paTopXoRNPiu0ze9M5wIr_37.301880_-120.501336@1303263375"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2a1e7119400eb842f7db490f8ae7bc3c",
-    "wof:hierarchy":[],
-    "wof:id":588620009,
-    "wof:lastmodified":1509202173,
-    "wof:name":"Gateway Pizza N Subs",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "2a1e7119400eb842f7db490f8ae7bc3c",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588620009
+      }
+    ],
+    "wof:id": 588620009,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Gateway Pizza N Subs",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -120.501336,
     37.30188,
     -120.501336,
     37.30188
-],
-  "geometry": {"coordinates":[-120.50133599999999,37.30188],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.501336,37.30188],"type":"Point"}
 }

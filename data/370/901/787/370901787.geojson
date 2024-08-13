@@ -2,80 +2,84 @@
   "id": 370901787,
   "type": "Feature",
   "properties": {
-    "addr:full":"5597 Huntington Dr. N. Los Angeles CA 90032",
-    "addr:housenumber":"5597",
-    "addr:postcode":"90032",
-    "addr:street":"Huntington Dr. N.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.158125,34.09535,-118.158125,34.09535",
-    "geom:latitude":34.09535,
-    "geom:longitude":-118.158125,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5597 Huntington Dr. N.",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5597 Huntington Dr. N. Los Angeles CA 90032",
+    "addr:housenumber": "5597",
+    "addr:postcode": "90032",
+    "addr:street": "Huntington Dr. N.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.158125,34.095350,-118.158125,34.095350",
+    "geom:latitude": 34.09535,
+    "geom:longitude": -118.158125,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Antigua Bread, 5597 N Huntington Dr Los Angeles CA US",
+    "ovtr:similarity": 3.2661099433898926,
+    "sg:address": "5597 Huntington Dr. N.",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 276 7820",
-    "sg:postcode":"90032",
-    "sg:province":"CA",
-    "sg:website":"www.antiguabread.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923745,
-        102086957,
-        85848653
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 276 7820",
+    "sg:postcode": "90032",
+    "sg:province": "CA",
+    "sg:website": "www.antiguabread.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923745,
+      102086957,
+      85848653
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0iEurgxFURVdeQ0r7ZZlMX_34.095350_-118.158125@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d0badc86b03543823515ae4b1",
+      "sg:id": "SG_0iEurgxFURVdeQ0r7ZZlMX_34.095350_-118.158125@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"65c3fcad0943b1d31c3a855e530c79cc",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923745,
-            "neighbourhood_id":85848653,
-            "region_id":85688637,
-            "venue_id":370901787
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "65c3fcad0943b1d31c3a855e530c79cc",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923745,
+        "neighbourhood_id": 85848653,
+        "region_id": 85688637,
+        "venue_id": 370901787
+      }
     ],
-    "wof:id":370901787,
-    "wof:lastmodified":1509200846,
-    "wof:name":"Antigua Bread",
-    "wof:parent_id":85848653,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370901787,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Antigua Bread",
+    "wof:parent_id": 85848653,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.158125,
     34.09535,
     -118.158125,
     34.09535
-],
+  ],
   "geometry": {"coordinates":[-118.158125,34.09535],"type":"Point"}
 }

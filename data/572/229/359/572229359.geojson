@@ -2,89 +2,93 @@
   "id": 572229359,
   "type": "Feature",
   "properties": {
-    "addr:full":"1210 E Broadway Glendale CA 91205",
-    "addr:housenumber":"1210",
-    "addr:postcode":"91205",
-    "addr:street":"E Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.238998,34.146099,-118.238998,34.146099",
-    "geom:latitude":34.146099,
-    "geom:longitude":-118.238998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1210 E Broadway",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1210 E Broadway Glendale CA 91205",
+    "addr:housenumber": "1210",
+    "addr:postcode": "91205",
+    "addr:street": "E Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.238998,34.146099,-118.238998,34.146099",
+    "geom:latitude": 34.146099,
+    "geom:longitude": -118.238998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Arnold's Independent Service, 1210 E Broadway Glendale CA US",
+    "ovtr:similarity": 1.8563350439071655,
+    "sg:address": "1210 E Broadway",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 243 8356",
-    "sg:postcode":"91205",
-    "sg:province":"CA",
-    "sg:tags":[
-        "fuel",
-        "injection",
-        "brake"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 243 8356",
+    "sg:postcode": "91205",
+    "sg:province": "CA",
+    "sg:tags": [
+      "fuel",
+      "injection",
+      "brake"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        85877713
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85877713
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ILjI995cL7uDlgXIRurnc_34.146099_-118.238998@1303263208"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d5c6a26200308bb8419f27489",
+      "sg:id": "SG_0ILjI995cL7uDlgXIRurnc_34.146099_-118.238998@1303263208"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7b1c6784b4008dfa3899525cf1e91164",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":85877713,
-            "region_id":85688637,
-            "venue_id":572229359
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "7b1c6784b4008dfa3899525cf1e91164",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85877713,
+        "region_id": 85688637,
+        "venue_id": 572229359
+      }
     ],
-    "wof:id":572229359,
-    "wof:lastmodified":1509201748,
-    "wof:name":"Arnold's Independent Service",
-    "wof:parent_id":85877713,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fuel",
-        "injection",
-        "brake"
+    "wof:id": 572229359,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Arnold's Independent Service",
+    "wof:parent_id": 85877713,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fuel",
+      "injection",
+      "brake"
     ]
-},
+  },
   "bbox": [
     -118.238998,
     34.146099,
     -118.238998,
     34.146099
-],
+  ],
   "geometry": {"coordinates":[-118.238998,34.146099],"type":"Point"}
 }

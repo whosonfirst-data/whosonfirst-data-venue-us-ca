@@ -2,74 +2,78 @@
   "id": 370962651,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 S La Brea Ave Los Angeles CA 90036",
-    "addr:housenumber":"900",
-    "addr:postcode":"90036",
-    "addr:street":"S;Brea Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.346001,34.058498,-118.346001,34.058498",
-    "geom:latitude":34.058498,
-    "geom:longitude":-118.346001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"900 S La Brea Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "900 S La Brea Ave Los Angeles CA 90036",
+    "addr:housenumber": "900",
+    "addr:postcode": "90036",
+    "addr:street": "S;Brea Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.346001,34.058498,-118.346001,34.058498",
+    "geom:latitude": 34.058498,
+    "geom:longitude": -118.346001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Expert Car Wash, 900 S La Brea Ave Los Angeles CA US",
+    "ovtr:similarity": 1.948091983795166,
+    "sg:address": "900 S La Brea Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 938 1777",
-    "sg:postcode":"90036",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85886323
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 938 1777",
+    "sg:postcode": "90036",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85886323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0AUwwvEscdFynxwvzVA9Ht_34.058498_-118.346001@1303263160"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6c8c0d49032d82fd4d04c369",
+      "sg:id": "SG_0AUwwvEscdFynxwvzVA9Ht_34.058498_-118.346001@1303263160"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8884c908255ce28b11b734dca89e555f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886323,
-            "region_id":85688637,
-            "venue_id":370962651
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "8884c908255ce28b11b734dca89e555f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886323,
+        "region_id": 85688637,
+        "venue_id": 370962651
+      }
     ],
-    "wof:id":370962651,
-    "wof:lastmodified":1509200860,
-    "wof:name":"Expert Car Wash",
-    "wof:parent_id":85886323,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370962651,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Expert Car Wash",
+    "wof:parent_id": 85886323,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.346001,
     34.058498,
     -118.346001,
     34.058498
-],
+  ],
   "geometry": {"coordinates":[-118.346001,34.058498],"type":"Point"}
 }

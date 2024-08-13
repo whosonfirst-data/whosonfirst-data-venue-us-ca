@@ -2,90 +2,94 @@
   "id": 588641025,
   "type": "Feature",
   "properties": {
-    "addr:full":"24989 State Highway 16 Capay CA 95607",
-    "addr:housenumber":"24989",
-    "addr:postcode":"95607",
-    "addr:street":"State Highway 16",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.050424,38.707638,-122.050424,38.707638",
-    "geom:latitude":38.707638,
-    "geom:longitude":-122.050424,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24989 State Highway 16",
-    "sg:city":"Capay",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24989 State Highway 16 Capay CA 95607",
+    "addr:housenumber": "24989",
+    "addr:postcode": "95607",
+    "addr:street": "State Highway 16",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.050424,38.707638,-122.050424,38.707638",
+    "geom:latitude": 38.707638,
+    "geom:longitude": -122.050424,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Road Trip Bar \u0026 Grill, 24989 CA-16 Capay CA US",
+    "ovtr:similarity": 2.7080070972442627,
+    "sg:address": "24989 State Highway 16",
+    "sg:city": "Capay",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 796 3777",
-    "sg:postcode":"95607",
-    "sg:province":"CA",
-    "sg:tags":[
-        "brew",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 796 3777",
+    "sg:postcode": "95607",
+    "sg:province": "CA",
+    "sg:tags": [
+      "brew",
+      "cocktail"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85803661,
-        85633793,
-        85922409,
-        102082309,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85803661,
+      85633793,
+      85922409,
+      102082309,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_67eCWXs6NP85cUX8HzNilF_38.707638_-122.050424@1303263381"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28306e20a34eb03e8228a24fa24c1",
+      "sg:id": "SG_67eCWXs6NP85cUX8HzNilF_38.707638_-122.050424@1303263381"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0d3dd4544d18d03b32039788c277d0db",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922409,
-            "neighbourhood_id":85803661,
-            "region_id":85688637,
-            "venue_id":588641025
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "0d3dd4544d18d03b32039788c277d0db",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922409,
+        "neighbourhood_id": 85803661,
+        "region_id": 85688637,
+        "venue_id": 588641025
+      }
     ],
-    "wof:id":588641025,
-    "wof:lastmodified":1509202187,
-    "wof:name":"Road Trip Bar & Grill",
-    "wof:parent_id":85803661,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "brew",
-        "cocktail"
+    "wof:id": 588641025,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Road Trip Bar \u0026 Grill",
+    "wof:parent_id": 85803661,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "brew",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -122.050424,
     38.707638,
     -122.050424,
     38.707638
-],
-  "geometry": {"coordinates":[-122.05042400000001,38.707638],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.050424,38.707638],"type":"Point"}
 }

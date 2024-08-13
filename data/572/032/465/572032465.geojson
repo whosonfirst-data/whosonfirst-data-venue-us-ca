@@ -2,91 +2,95 @@
   "id": 572032465,
   "type": "Feature",
   "properties": {
-    "addr:full":"6060 Wilshire Blvd Los Angeles CA 90036",
-    "addr:housenumber":"6060",
-    "addr:postcode":"90036",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.361,34.063,-118.361,34.063",
-    "geom:latitude":34.063,
-    "geom:longitude":-118.361,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"6060 Wilshire Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:full": "6060 Wilshire Blvd Los Angeles CA 90036",
+    "addr:housenumber": "6060",
+    "addr:postcode": "90036",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.361000,34.063000,-118.361000,34.063000",
+    "geom:latitude": 34.063,
+    "geom:longitude": -118.361,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Petersen Automotive Museum, 6060 Wilshire Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.3737289905548096,
+    "sg:address": "6060 Wilshire Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 964 6356",
-    "sg:postcode":"90036",
-    "sg:province":"CA",
-    "sg:tags":[
-        "gallery",
-        "executive",
-        "venue",
-        "event",
-        "space"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 964 6356",
+    "sg:postcode": "90036",
+    "sg:province": "CA",
+    "sg:tags": [
+      "gallery",
+      "executive",
+      "venue",
+      "event",
+      "space"
     ],
-    "sg:website":"www.petersen.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85865817
+    "sg:website": "www.petersen.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85865817
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000000837-0001-7",
-        "osm:way":426398482,
-        "sg:id":"SG_2oBciH8kF1IkmGP9rcBklE_34.062821_-118.361264@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000000837-0001-7",
+      "osm:way": 426398482,
+      "ovtr:id": "08f29a19936f0ca90329939391d359d5",
+      "sg:id": "SG_2oBciH8kF1IkmGP9rcBklE_34.062821_-118.361264@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ab4ac62ebc8ea78fb04ddd79f1c8add9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865817,
-            "region_id":85688637,
-            "venue_id":572032465
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "ab4ac62ebc8ea78fb04ddd79f1c8add9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865817,
+        "region_id": 85688637,
+        "venue_id": 572032465
+      }
     ],
-    "wof:id":572032465,
-    "wof:lastmodified":1510943447,
-    "wof:name":"Petersen Automotive Museum",
-    "wof:parent_id":85865817,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "gallery",
-        "executive",
-        "venue",
-        "event",
-        "space"
+    "wof:id": 572032465,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Petersen Automotive Museum",
+    "wof:parent_id": 85865817,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "gallery",
+      "executive",
+      "venue",
+      "event",
+      "space"
     ]
-},
+  },
   "bbox": [
     -118.361,
     34.063,
     -118.361,
     34.063
-],
+  ],
   "geometry": {"coordinates":[-118.361,34.063],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 588407525,
   "type": "Feature",
   "properties": {
-    "addr:full":"668 Haight St San Francisco CA 94117",
-    "addr:housenumber":"668",
-    "addr:postcode":"94117",
-    "addr:street":"Haight St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.433228,37.771936,-122.433228,37.771936",
-    "geom:latitude":37.771936,
-    "geom:longitude":-122.433228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"668 Haight St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Sports Bar",
-            "type":"Food & Drink"
-        }
+    "addr:full": "668 Haight St San Francisco CA 94117",
+    "addr:housenumber": "668",
+    "addr:postcode": "94117",
+    "addr:street": "Haight St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.433228,37.771936,-122.433228,37.771936",
+    "geom:latitude": 37.771936,
+    "geom:longitude": -122.433228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Danny Coyle's, 668 Haight St San Francisco CA US",
+    "ovtr:similarity": 2.34818696975708,
+    "sg:address": "668 Haight St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Sports Bar",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 558 8375",
-    "sg:postcode":"94117",
-    "sg:province":"CA",
-    "sg:website":"www.dannycoyles.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85866847
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 558 8375",
+    "sg:postcode": "94117",
+    "sg:province": "CA",
+    "sg:website": "www.dannycoyles.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85866847
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":61673273,
-        "sfgov_rbl:id":"0414068-01-001",
-        "sg:id":"SG_32pcAo0yqlg5evaNwuQB5V_37.771936_-122.433228@1303263320"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 61673273,
+      "ovtr:id": "08f2830828a6e04403453b3c4df4a533",
+      "sfgov_rbl:id": "0414068-01-001",
+      "sg:id": "SG_32pcAo0yqlg5evaNwuQB5V_37.771936_-122.433228@1303263320"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6e8f5269d18b2620dea38ad895ad7ffc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85866847,
-            "region_id":85688637,
-            "venue_id":588407525
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "6e8f5269d18b2620dea38ad895ad7ffc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85866847,
+        "region_id": 85688637,
+        "venue_id": 588407525
+      }
     ],
-    "wof:id":588407525,
-    "wof:lastmodified":1510943878,
-    "wof:name":"Danny Coyle's",
-    "wof:parent_id":85866847,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588407525,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Danny Coyle's",
+    "wof:parent_id": 85866847,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.433228,
     37.771936,
     -122.433228,
     37.771936
-],
+  ],
   "geometry": {"coordinates":[-122.433228,37.771936],"type":"Point"}
 }

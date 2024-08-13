@@ -2,78 +2,82 @@
   "id": 555187307,
   "type": "Feature",
   "properties": {
-    "addr:full":"537 Abbott St Salinas CA 93901",
-    "addr:housenumber":"537",
-    "addr:postcode":"93901",
-    "addr:street":"Abbott St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.642163,36.663299,-121.642163,36.663299",
-    "geom:latitude":36.663299,
-    "geom:longitude":-121.642163,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"537 Abbott St",
-    "sg:city":"Salinas",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "537 Abbott St Salinas CA 93901",
+    "addr:housenumber": "537",
+    "addr:postcode": "93901",
+    "addr:street": "Abbott St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.642163,36.663299,-121.642163,36.663299",
+    "geom:latitude": 36.663299,
+    "geom:longitude": -121.642163,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Acme Car Wash, 537 Abbott St Salinas CA US",
+    "ovtr:similarity": 2.68019700050354,
+    "sg:address": "537 Abbott St",
+    "sg:city": "Salinas",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 422 3332",
-    "sg:postcode":"93901",
-    "sg:province":"CA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 422 3332",
+    "sg:postcode": "93901",
+    "sg:province": "CA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102080859,
-        85633793,
-        85688637,
-        85880625
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102080859,
+      85633793,
+      85688637,
+      85880625
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7dUqHUnhEGVWhCkVIY8vAx_36.663299_-121.642163@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834da5c70012034c081a082a1298",
+      "sg:id": "SG_7dUqHUnhEGVWhCkVIY8vAx_36.663299_-121.642163@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3125bcf1080d0ec27682d3aeb910c2d6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102080859,
-            "neighbourhood_id":85880625,
-            "region_id":85688637,
-            "venue_id":555187307
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "3125bcf1080d0ec27682d3aeb910c2d6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102080859,
+        "neighbourhood_id": 85880625,
+        "region_id": 85688637,
+        "venue_id": 555187307
+      }
     ],
-    "wof:id":555187307,
-    "wof:lastmodified":1509201306,
-    "wof:name":"Acme Car Wash",
-    "wof:parent_id":85880625,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:id": 555187307,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Acme Car Wash",
+    "wof:parent_id": 85880625,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -121.642163,
     36.663299,
     -121.642163,
     36.663299
-],
+  ],
   "geometry": {"coordinates":[-121.642163,36.663299],"type":"Point"}
 }

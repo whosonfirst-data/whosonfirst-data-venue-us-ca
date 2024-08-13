@@ -2,87 +2,91 @@
   "id": 370922845,
   "type": "Feature",
   "properties": {
-    "addr:full":"10201 Venice Blvd Los Angeles CA 90034",
-    "addr:housenumber":"10201",
-    "addr:postcode":"90034",
-    "addr:street":"Venice Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.402,34.0215,-118.402,34.0215",
-    "geom:latitude":34.0215,
-    "geom:longitude":-118.402,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10201 Venice Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10201 Venice Blvd Los Angeles CA 90034",
+    "addr:housenumber": "10201",
+    "addr:postcode": "90034",
+    "addr:street": "Venice Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.402000,34.021500,-118.402000,34.021500",
+    "geom:latitude": 34.0215,
+    "geom:longitude": -118.402,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Kavita Grocery, 10201 Venice Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.01688289642334,
+    "sg:address": "10201 Venice Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 559 0106",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pakistani",
-        "indian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 559 0106",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pakistani",
+      "indian"
     ],
-    "sg:website":"kavitagrocery.globalsmartlink.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840349
+    "sg:website": "kavitagrocery.globalsmartlink.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840349
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3SZV72DseKYk0JTzygYBUF_34.021500_-118.402000@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1982c95c8e035db40c9f543750",
+      "sg:id": "SG_3SZV72DseKYk0JTzygYBUF_34.021500_-118.402000@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"60849196e287aa3b29df3a733e29c995",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840349,
-            "region_id":85688637,
-            "venue_id":370922845
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "60849196e287aa3b29df3a733e29c995",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840349,
+        "region_id": 85688637,
+        "venue_id": 370922845
+      }
     ],
-    "wof:id":370922845,
-    "wof:lastmodified":1509200851,
-    "wof:name":"Kavita Grocery",
-    "wof:parent_id":85840349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pakistani",
-        "indian"
+    "wof:id": 370922845,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Kavita Grocery",
+    "wof:parent_id": 85840349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pakistani",
+      "indian"
     ]
-},
+  },
   "bbox": [
     -118.402,
     34.0215,
     -118.402,
     34.0215
-],
+  ],
   "geometry": {"coordinates":[-118.402,34.0215],"type":"Point"}
 }

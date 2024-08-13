@@ -2,87 +2,91 @@
   "id": 370809303,
   "type": "Feature",
   "properties": {
-    "addr:full":"1803 Sawtelle Blvd Los Angeles CA 90025",
-    "addr:housenumber":"1803",
-    "addr:postcode":"90025",
-    "addr:street":"Sawtelle Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.446158,34.043873,-118.446158,34.043873",
-    "geom:latitude":34.043873,
-    "geom:longitude":-118.446158,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1803 Sawtelle Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1803 Sawtelle Blvd Los Angeles CA 90025",
+    "addr:housenumber": "1803",
+    "addr:postcode": "90025",
+    "addr:street": "Sawtelle Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.446158,34.043873,-118.446158,34.043873",
+    "geom:latitude": 34.043873,
+    "geom:longitude": -118.446158,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bar Hayama, 1803 Sawtelle Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.9261020421981812,
+    "sg:address": "1803 Sawtelle Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 235 2000",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sushi",
-        "bar",
-        "japanese"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 235 2000",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sushi",
+      "bar",
+      "japanese"
     ],
-    "sg:website":"www.bar-hayama.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.bar-hayama.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cSgBwPnQyAO5IVfCM2AVr_34.043873_-118.446158@1303263155"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198322a29603a776799e3673d5",
+      "sg:id": "SG_7cSgBwPnQyAO5IVfCM2AVr_34.043873_-118.446158@1303263155"
     },
-    "wof:country":"US",
-    "wof:geomhash":"14aa054f9e8e56c5276de641a6a1c6da",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":370809303
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "14aa054f9e8e56c5276de641a6a1c6da",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 370809303
+      }
     ],
-    "wof:id":370809303,
-    "wof:lastmodified":1509200824,
-    "wof:name":"Bar Hayama",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sushi",
-        "bar",
-        "japanese"
+    "wof:id": 370809303,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Bar Hayama",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sushi",
+      "bar",
+      "japanese"
     ]
-},
+  },
   "bbox": [
     -118.446158,
     34.043873,
     -118.446158,
     34.043873
-],
+  ],
   "geometry": {"coordinates":[-118.446158,34.043873],"type":"Point"}
 }

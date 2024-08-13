@@ -2,75 +2,79 @@
   "id": 555603739,
   "type": "Feature",
   "properties": {
-    "addr:full":"9630 Carlton Hills Blvd Santee CA 92071",
-    "addr:housenumber":"9630",
-    "addr:postcode":"92071",
-    "addr:street":"Carlton Hills Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.999307,32.853317,-116.999307,32.853317",
-    "geom:latitude":32.853317,
-    "geom:longitude":-116.999307,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9630 Carlton Hills Blvd",
-    "sg:city":"Santee",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "9630 Carlton Hills Blvd Santee CA 92071",
+    "addr:housenumber": "9630",
+    "addr:postcode": "92071",
+    "addr:street": "Carlton Hills Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.999307,32.853317,-116.999307,32.853317",
+    "geom:latitude": 32.853317,
+    "geom:longitude": -116.999307,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Estrada's Taco Shop, 9630 Carlton Hills Blvd Santee CA US",
+    "ovtr:similarity": 2.193912982940674,
+    "sg:address": "9630 Carlton Hills Blvd",
+    "sg:city": "Santee",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 449 2103",
-    "sg:postcode":"92071",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922219,
-        102083569,
-        85809523
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 449 2103",
+    "sg:postcode": "92071",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922219,
+      102083569,
+      85809523
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0InOqBB2bzlaAYg603RyVI_32.853317_-116.999307@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a40b6169d180345bfaca9cddc87",
+      "sg:id": "SG_0InOqBB2bzlaAYg603RyVI_32.853317_-116.999307@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"10394c2687e6b218dea59f1a33b4befd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922219,
-            "neighbourhood_id":85809523,
-            "region_id":85688637,
-            "venue_id":555603739
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "10394c2687e6b218dea59f1a33b4befd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922219,
+        "neighbourhood_id": 85809523,
+        "region_id": 85688637,
+        "venue_id": 555603739
+      }
     ],
-    "wof:id":555603739,
-    "wof:lastmodified":1509201446,
-    "wof:name":"Estrada's Taco Shop",
-    "wof:parent_id":85809523,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555603739,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Estrada's Taco Shop",
+    "wof:parent_id": 85809523,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.999307,
     32.853317,
     -116.999307,
     32.853317
-],
+  ],
   "geometry": {"coordinates":[-116.999307,32.853317],"type":"Point"}
 }

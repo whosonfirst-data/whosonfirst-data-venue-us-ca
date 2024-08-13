@@ -2,87 +2,91 @@
   "id": 572218429,
   "type": "Feature",
   "properties": {
-    "addr:full":"465 S Arroyo Pkwy Pasadena CA 91105",
-    "addr:housenumber":"465",
-    "addr:postcode":"91105",
-    "addr:street":"S Arroyo Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.147428,34.13788,-118.147428,34.13788",
-    "geom:latitude":34.13788,
-    "geom:longitude":-118.147428,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"465 S Arroyo Pkwy",
-    "sg:city":"Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Insurance",
-            "subcategory":"Health Insurance",
-            "type":"Services"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "465 S Arroyo Pkwy Pasadena CA 91105",
+    "addr:housenumber": "465",
+    "addr:postcode": "91105",
+    "addr:street": "S Arroyo Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.147428,34.137880,-118.147428,34.137880",
+    "geom:latitude": 34.13788,
+    "geom:longitude": -118.147428,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Whole Foods Market, 465 S Arroyo Pkwy Pasadena CA US",
+    "ovtr:similarity": 2.150665044784546,
+    "sg:address": "465 S Arroyo Pkwy",
+    "sg:city": "Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Insurance",
+        "subcategory": "Health Insurance",
+        "type": "Services"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 204 2266",
-    "sg:postcode":"91105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 204 2266",
+    "sg:postcode": "91105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "market"
     ],
-    "sg:website":"www.wholefoodsmarket.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923487,
-        102086957,
-        85882199
+    "sg:website": "www.wholefoodsmarket.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923487,
+      102086957,
+      85882199
     ],
-    "wof:brand_id":1125150113,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hZX8SqwPjejR1l5ck1qyI_34.137880_-118.147428@1303263205"
+    "wof:brand_id": 1125150113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c2111e6ad037ce074ffb491b4",
+      "sg:id": "SG_0hZX8SqwPjejR1l5ck1qyI_34.137880_-118.147428@1303263205"
     },
-    "wof:country":"US",
-    "wof:geomhash":"403743fb3c3766a1d68fc887643c8bb6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923487,
-            "neighbourhood_id":85882199,
-            "region_id":85688637,
-            "venue_id":572218429
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "403743fb3c3766a1d68fc887643c8bb6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923487,
+        "neighbourhood_id": 85882199,
+        "region_id": 85688637,
+        "venue_id": 572218429
+      }
     ],
-    "wof:id":572218429,
-    "wof:lastmodified":1510697248,
-    "wof:name":"Whole Foods Market",
-    "wof:parent_id":85882199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market"
+    "wof:id": 572218429,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Whole Foods Market",
+    "wof:parent_id": 85882199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market"
     ]
-},
+  },
   "bbox": [
     -118.147428,
     34.13788,
     -118.147428,
     34.13788
-],
+  ],
   "geometry": {"coordinates":[-118.147428,34.13788],"type":"Point"}
 }

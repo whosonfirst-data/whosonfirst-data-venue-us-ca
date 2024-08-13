@@ -2,83 +2,87 @@
   "id": 303840199,
   "type": "Feature",
   "properties": {
-    "addr:full":"14350 Victory Blvd Van Nuys CA 91401",
-    "addr:housenumber":"14350",
-    "addr:postcode":"91401",
-    "addr:street":"Victory Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.44561,34.186587,-118.44561,34.186587",
-    "geom:latitude":34.186587,
-    "geom:longitude":-118.44561,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"14350 Victory Blvd",
-    "sg:city":"Van Nuys",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "14350 Victory Blvd Van Nuys CA 91401",
+    "addr:housenumber": "14350",
+    "addr:postcode": "91401",
+    "addr:street": "Victory Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.445610,34.186587,-118.445610,34.186587",
+    "geom:latitude": 34.186587,
+    "geom:longitude": -118.44561,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Donuts \u0026 Delites, 14350 Victory Blvd Van Nuys CA US",
+    "ovtr:similarity": 1.9942500591278076,
+    "sg:address": "14350 Victory Blvd",
+    "sg:city": "Van Nuys",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 781 4622",
-    "sg:postcode":"91401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "product",
-        "doughnut",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 781 4622",
+    "sg:postcode": "91401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "product",
+      "doughnut",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85853501
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85853501
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_30NtCjHRKsFZ9Fk1bBzRlP_34.186587_-118.445610@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18802d2455032487c6e83c1c06",
+      "sg:id": "SG_30NtCjHRKsFZ9Fk1bBzRlP_34.186587_-118.445610@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ba29b2fb8a65a88a62db82db6ba1c193",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85853501,
-            "region_id":85688637,
-            "venue_id":303840199
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "ba29b2fb8a65a88a62db82db6ba1c193",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85853501,
+        "region_id": 85688637,
+        "venue_id": 303840199
+      }
     ],
-    "wof:id":303840199,
-    "wof:lastmodified":1509200394,
-    "wof:name":"Donuts & Delites",
-    "wof:parent_id":85853501,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product",
-        "doughnut",
-        "mfg"
+    "wof:id": 303840199,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Donuts \u0026 Delites",
+    "wof:parent_id": 85853501,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "doughnut",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -118.44561,
     34.186587,
     -118.44561,
     34.186587
-],
+  ],
   "geometry": {"coordinates":[-118.44561,34.186587],"type":"Point"}
 }

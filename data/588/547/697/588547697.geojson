@@ -2,87 +2,91 @@
   "id": 588547697,
   "type": "Feature",
   "properties": {
-    "addr:full":"231 1st St Gilroy CA 95020",
-    "addr:housenumber":"231",
-    "addr:postcode":"95020",
-    "addr:street":"1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.575023,37.013882,-121.575023,37.013882",
-    "geom:latitude":37.013882,
-    "geom:longitude":-121.575023,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"231 1st St",
-    "sg:city":"Gilroy",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Gifts & Souvenirs",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "231 1st St Gilroy CA 95020",
+    "addr:housenumber": "231",
+    "addr:postcode": "95020",
+    "addr:street": "1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.575023,37.013882,-121.575023,37.013882",
+    "geom:latitude": 37.013882,
+    "geom:longitude": -121.575023,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tony's Smoke Shop, 231 1st St Gilroy CA US",
+    "ovtr:similarity": 3.6115829944610596,
+    "sg:address": "231 1st St",
+    "sg:city": "Gilroy",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Gifts \u0026 Souvenirs",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 848 5792",
-    "sg:postcode":"95020",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "merchandise"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 848 5792",
+    "sg:postcode": "95020",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "merchandise"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922389,
-        102081673,
-        85885989
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922389,
+      102081673,
+      85885989
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51EU48PF89RR4BtDNZC8kU_37.013882_-121.575023@1303263357"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834530af264603320b61e2edf7af",
+      "sg:id": "SG_51EU48PF89RR4BtDNZC8kU_37.013882_-121.575023@1303263357"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6144bca78bc7a764935281c280c0f4f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922389,
-            "neighbourhood_id":85885989,
-            "region_id":85688637,
-            "venue_id":588547697
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "6144bca78bc7a764935281c280c0f4f4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922389,
+        "neighbourhood_id": 85885989,
+        "region_id": 85688637,
+        "venue_id": 588547697
+      }
     ],
-    "wof:id":588547697,
-    "wof:lastmodified":1509202129,
-    "wof:name":"Tonys Smoke Shop",
-    "wof:parent_id":85885989,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "merchandise"
+    "wof:id": 588547697,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Tonys Smoke Shop",
+    "wof:parent_id": 85885989,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "merchandise"
     ]
-},
+  },
   "bbox": [
     -121.575023,
     37.013882,
     -121.575023,
     37.013882
-],
+  ],
   "geometry": {"coordinates":[-121.575023,37.013882],"type":"Point"}
 }

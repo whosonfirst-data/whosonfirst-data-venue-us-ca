@@ -2,81 +2,85 @@
   "id": 320025821,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Buttermilk Ln Arcata CA 95521",
-    "addr:housenumber":"900",
-    "addr:postcode":"95521",
-    "addr:street":"Buttermilk Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.071939,40.857613,-124.071939,40.857613",
-    "geom:latitude":40.857613,
-    "geom:longitude":-124.071939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"900 Buttermilk Ln",
-    "sg:city":"Arcata",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "900 Buttermilk Ln Arcata CA 95521",
+    "addr:housenumber": "900",
+    "addr:postcode": "95521",
+    "addr:street": "Buttermilk Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.071939,40.857613,-124.071939,40.857613",
+    "geom:latitude": 40.857613,
+    "geom:longitude": -124.071939,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sunny Brae Animal Clinic, 900 Buttermilk Ln Arcata CA US",
+    "ovtr:similarity": 2.3274850845336914,
+    "sg:address": "900 Buttermilk Ln",
+    "sg:city": "Arcata",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 822 5124",
-    "sg:postcode":"95521",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 822 5124",
+    "sg:postcode": "95521",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922795,
-        102087587,
-        85851439
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922795,
+      102087587,
+      85851439
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_188AB9ImEPlsLrZUQFZQGm_40.857613_-124.071939@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2802ade0caa8303ae6ea7f6d03194",
+      "sg:id": "SG_188AB9ImEPlsLrZUQFZQGm_40.857613_-124.071939@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c32459d6214a597e4d9426a894ea374f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087587,
-            "locality_id":85922795,
-            "neighbourhood_id":85851439,
-            "region_id":85688637,
-            "venue_id":320025821
-        }
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "c32459d6214a597e4d9426a894ea374f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102087587,
+        "locality_id": 85922795,
+        "neighbourhood_id": 85851439,
+        "region_id": 85688637,
+        "venue_id": 320025821
+      }
     ],
-    "wof:id":320025821,
-    "wof:lastmodified":1509200433,
-    "wof:name":"Sunny Brae Animal Clinic",
-    "wof:parent_id":85851439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 320025821,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Sunny Brae Animal Clinic",
+    "wof:parent_id": 85851439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -124.071939,
     40.857613,
     -124.071939,
     40.857613
-],
+  ],
   "geometry": {"coordinates":[-124.071939,40.857613],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 588655337,
   "type": "Feature",
   "properties": {
-    "addr:full":"312 Main St Ste 105 Placerville CA 95667",
-    "addr:housenumber":"312",
-    "addr:postcode":"95667",
-    "addr:street":"Main St Ste 105",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.802418,38.728289,-120.802418,38.728289",
-    "geom:latitude":38.728289,
-    "geom:longitude":-120.802418,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"312 Main St Ste 105",
-    "sg:city":"Placerville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Cheese",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "312 Main St Ste 105 Placerville CA 95667",
+    "addr:housenumber": "312",
+    "addr:postcode": "95667",
+    "addr:street": "Main St Ste 105",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.802418,38.728289,-120.802418,38.728289",
+    "geom:latitude": 38.728289,
+    "geom:longitude": -120.802418,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Dedrick's Main Street Cheese, 312 Main St Placerville CA US",
+    "ovtr:similarity": 3.7636799812316895,
+    "sg:address": "312 Main St Ste 105",
+    "sg:city": "Placerville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Cheese",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 344 8282",
-    "sg:postcode":"95667",
-    "sg:province":"CA",
-    "sg:website":"http://www.dedrickscheese.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921761,
-        102086953,
-        85886907
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 344 8282",
+    "sg:postcode": "95667",
+    "sg:province": "CA",
+    "sg:website": "http://www.dedrickscheese.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921761,
+      102086953,
+      85886907
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3cOCZsdo1WiTyBFq7BjbfT_38.728289_-120.802418@1303263384"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28321b108e26603b2cef6a50b939b",
+      "sg:id": "SG_3cOCZsdo1WiTyBFq7BjbfT_38.728289_-120.802418@1303263384"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8bd612cee85feeb31ff76cb442529f53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086953,
-            "locality_id":85921761,
-            "neighbourhood_id":85886907,
-            "region_id":85688637,
-            "venue_id":588655337
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "8bd612cee85feeb31ff76cb442529f53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086953,
+        "locality_id": 85921761,
+        "neighbourhood_id": 85886907,
+        "region_id": 85688637,
+        "venue_id": 588655337
+      }
     ],
-    "wof:id":588655337,
-    "wof:lastmodified":1509202195,
-    "wof:name":"Dedrick's Main Street Cheese",
-    "wof:parent_id":85886907,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588655337,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Dedrick's Main Street Cheese",
+    "wof:parent_id": 85886907,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.802418,
     38.728289,
     -120.802418,
     38.728289
-],
+  ],
   "geometry": {"coordinates":[-120.802418,38.728289],"type":"Point"}
 }

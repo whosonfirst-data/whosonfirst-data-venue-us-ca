@@ -2,82 +2,86 @@
   "id": 387819265,
   "type": "Feature",
   "properties": {
-    "addr:full":"24050 Madison St Ste 111 Torrance CA 90505",
-    "addr:housenumber":"24050",
-    "addr:postcode":"90505",
-    "addr:street":"Madison St Ste 111",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.348,33.805599,-118.348,33.805599",
-    "geom:latitude":33.805599,
-    "geom:longitude":-118.348,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24050 Madison St Ste 111",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        }
+    "addr:full": "24050 Madison St Ste 111 Torrance CA 90505",
+    "addr:housenumber": "24050",
+    "addr:postcode": "90505",
+    "addr:street": "Madison St Ste 111",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.348000,33.805599,-118.348000,33.805599",
+    "geom:latitude": 33.805599,
+    "geom:longitude": -118.348,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "ADD Treatment Center, 24050 Madison St Torrance CA US",
+    "ovtr:similarity": 2.4230198860168457,
+    "sg:address": "24050 Madison St Ste 111",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 378 0547",
-    "sg:postcode":"90505",
-    "sg:province":"CA",
-    "sg:tags":[
-        "counseling",
-        "mental"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 378 0547",
+    "sg:postcode": "90505",
+    "sg:province": "CA",
+    "sg:tags": [
+      "counseling",
+      "mental"
     ],
-    "sg:website":"www.addtreatmentcenters.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923785,
-        102086957,
-        85888133
+    "sg:website": "www.addtreatmentcenters.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923785,
+      102086957,
+      85888133
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xzMwpKB9RyLpwSKBu8k4k_33.805599_-118.348000@1303263187"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a560da2e4890362d1dc0e6b2a0e",
+      "sg:id": "SG_0xzMwpKB9RyLpwSKBu8k4k_33.805599_-118.348000@1303263187"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f040c0b26f8e2ecadd6c4690c901c2ad",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923785,
-            "neighbourhood_id":85888133,
-            "region_id":85688637,
-            "venue_id":387819265
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "f040c0b26f8e2ecadd6c4690c901c2ad",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85888133,
+        "region_id": 85688637,
+        "venue_id": 387819265
+      }
     ],
-    "wof:id":387819265,
-    "wof:lastmodified":1509201104,
-    "wof:name":"Add Treatment Center",
-    "wof:parent_id":85888133,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counseling",
-        "mental"
+    "wof:id": 387819265,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Add Treatment Center",
+    "wof:parent_id": 85888133,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counseling",
+      "mental"
     ]
-},
+  },
   "bbox": [
     -118.348,
     33.805599,
     -118.348,
     33.805599
-],
+  ],
   "geometry": {"coordinates":[-118.348,33.805599],"type":"Point"}
 }

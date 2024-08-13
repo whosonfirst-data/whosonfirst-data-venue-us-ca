@@ -2,81 +2,85 @@
   "id": 588570429,
   "type": "Feature",
   "properties": {
-    "addr:full":"12299 Saratoga Sunnyvale Rd Saratoga CA 95070",
-    "addr:housenumber":"12299",
-    "addr:postcode":"95070",
-    "addr:street":"Saratoga Sunnyvale Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.03241,37.289806,-122.03241,37.289806",
-    "geom:latitude":37.289806,
-    "geom:longitude":-122.03241,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12299 Saratoga Sunnyvale Rd",
-    "sg:city":"Saratoga",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "12299 Saratoga Sunnyvale Rd Saratoga CA 95070",
+    "addr:housenumber": "12299",
+    "addr:postcode": "95070",
+    "addr:street": "Saratoga Sunnyvale Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.032410,37.289806,-122.032410,37.289806",
+    "geom:latitude": 37.289806,
+    "geom:longitude": -122.03241,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Public Storage, 12299 Saratoga Sunnyvale Rd Saratoga CA US",
+    "ovtr:similarity": 1.588083028793335,
+    "sg:address": "12299 Saratoga Sunnyvale Rd",
+    "sg:city": "Saratoga",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 996 9754",
-    "sg:postcode":"95070",
-    "sg:province":"CA",
-    "sg:tags":[
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 996 9754",
+    "sg:postcode": "95070",
+    "sg:province": "CA",
+    "sg:tags": [
+      "self"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922393,
-        102081673,
-        85887523
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922393,
+      102081673,
+      85887523
     ],
-    "wof:brand_id":420574427,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Xo5N4T6ZfvDVm0PpmBu88_37.289806_-122.032410@1303263363"
+    "wof:brand_id": 420574427,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28340d249d65303a5563d7eec1e4f",
+      "sg:id": "SG_2Xo5N4T6ZfvDVm0PpmBu88_37.289806_-122.032410@1303263363"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4f698a1e53c10dd4c28ce02dbc7068dc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922393,
-            "neighbourhood_id":85887523,
-            "region_id":85688637,
-            "venue_id":588570429
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "4f698a1e53c10dd4c28ce02dbc7068dc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922393,
+        "neighbourhood_id": 85887523,
+        "region_id": 85688637,
+        "venue_id": 588570429
+      }
     ],
-    "wof:id":588570429,
-    "wof:lastmodified":1511323811,
-    "wof:name":"Public Storage",
-    "wof:parent_id":85887523,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self"
+    "wof:id": 588570429,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Public Storage",
+    "wof:parent_id": 85887523,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self"
     ]
-},
+  },
   "bbox": [
     -122.03241,
     37.289806,
     -122.03241,
     37.289806
-],
+  ],
   "geometry": {"coordinates":[-122.03241,37.289806],"type":"Point"}
 }

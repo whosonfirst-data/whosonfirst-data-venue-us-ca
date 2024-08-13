@@ -2,81 +2,85 @@
   "id": 169710661,
   "type": "Feature",
   "properties": {
-    "addr:full":"2557 Chino Hills Pkwy Chino Hills CA 91709",
-    "addr:housenumber":"2557",
-    "addr:postcode":"91709",
-    "addr:street":"Chino Hills Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.748718,33.985422,-117.748718,33.985422",
-    "geom:latitude":33.985422,
-    "geom:longitude":-117.748718,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2557 Chino Hills Pkwy",
-    "sg:city":"Chino Hills",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2557 Chino Hills Pkwy Chino Hills CA 91709",
+    "addr:housenumber": "2557",
+    "addr:postcode": "91709",
+    "addr:street": "Chino Hills Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.748718,33.985422,-117.748718,33.985422",
+    "geom:latitude": 33.985422,
+    "geom:longitude": -117.748718,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Family Healthcare, 2557 Chino Hills Pkwy Chino Hills CA US",
+    "ovtr:similarity": 2.0012850761413574,
+    "sg:address": "2557 Chino Hills Pkwy",
+    "sg:city": "Chino Hills",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 393 4334",
-    "sg:postcode":"91709",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 393 4334",
+    "sg:postcode": "91709",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923889,
-        102085395,
-        85806953
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923889,
+      102085395,
+      85806953
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2WtQcIQn6a3YqJ4ilQkdvo_33.985422_-117.748718@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ae2c130a103f89062671e3ccf",
+      "sg:id": "SG_2WtQcIQn6a3YqJ4ilQkdvo_33.985422_-117.748718@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f2c3d0ae777fc1066330eb9fd7ec2fdf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923889,
-            "neighbourhood_id":85806953,
-            "region_id":85688637,
-            "venue_id":169710661
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "f2c3d0ae777fc1066330eb9fd7ec2fdf",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923889,
+        "neighbourhood_id": 85806953,
+        "region_id": 85688637,
+        "venue_id": 169710661
+      }
     ],
-    "wof:id":169710661,
-    "wof:lastmodified":1509199802,
-    "wof:name":"Family Healthcare",
-    "wof:parent_id":85806953,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 169710661,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Family Healthcare",
+    "wof:parent_id": 85806953,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -117.748718,
     33.985422,
     -117.748718,
     33.985422
-],
+  ],
   "geometry": {"coordinates":[-117.748718,33.985422],"type":"Point"}
 }

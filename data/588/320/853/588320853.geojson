@@ -2,91 +2,95 @@
   "id": 588320853,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 W El Monte Way Dinuba CA 93618",
-    "addr:housenumber":"1401",
-    "addr:postcode":"93618",
-    "addr:street":"W El Monte Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.409813,36.546066,-119.409813,36.546066",
-    "geom:latitude":36.546066,
-    "geom:longitude":-119.409813,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1401 W El Monte Way",
-    "sg:city":"Dinuba",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Electrical",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1401 W El Monte Way Dinuba CA 93618",
+    "addr:housenumber": "1401",
+    "addr:postcode": "93618",
+    "addr:street": "W El Monte Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.409813,36.546066,-119.409813,36.546066",
+    "geom:latitude": 36.546066,
+    "geom:longitude": -119.409813,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "O'Reilly Auto Parts, 1401 W El Monte Way Dinuba CA US",
+    "ovtr:similarity": 2.4802300930023193,
+    "sg:address": "1401 W El Monte Way",
+    "sg:city": "Dinuba",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Electrical",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 595 9140",
-    "sg:postcode":"93618",
-    "sg:province":"CA",
-    "sg:tags":[
-        "battery",
-        "automobile",
-        "part",
-        "accessory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 595 9140",
+    "sg:postcode": "93618",
+    "sg:province": "CA",
+    "sg:tags": [
+      "battery",
+      "automobile",
+      "part",
+      "accessory"
     ],
-    "sg:website":"http://www.oreillyautoparts.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922491,
-        102082895,
-        85818191
+    "sg:website": "http://www.oreillyautoparts.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922491,
+      102082895,
+      85818191
     ],
-    "wof:brand_id":420573989,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6iKkmKWQk0QkrhzdQfuF71_36.546066_-119.409813@1303263298"
+    "wof:brand_id": 420573989,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a878b2d47030307fe58dee02f80",
+      "sg:id": "SG_6iKkmKWQk0QkrhzdQfuF71_36.546066_-119.409813@1303263298"
     },
-    "wof:country":"US",
-    "wof:geomhash":"85561f1511591fcd9949979e09843dc0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922491,
-            "neighbourhood_id":85818191,
-            "region_id":85688637,
-            "venue_id":588320853
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "85561f1511591fcd9949979e09843dc0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922491,
+        "neighbourhood_id": 85818191,
+        "region_id": 85688637,
+        "venue_id": 588320853
+      }
     ],
-    "wof:id":588320853,
-    "wof:lastmodified":1511321195,
-    "wof:name":"O'Reilly Auto Parts",
-    "wof:parent_id":85818191,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "battery",
-        "automobile",
-        "part",
-        "accessory"
+    "wof:id": 588320853,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "O'Reilly Auto Parts",
+    "wof:parent_id": 85818191,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "battery",
+      "automobile",
+      "part",
+      "accessory"
     ]
-},
+  },
   "bbox": [
     -119.409813,
     36.546066,
     -119.409813,
     36.546066
-],
+  ],
   "geometry": {"coordinates":[-119.409813,36.546066],"type":"Point"}
 }

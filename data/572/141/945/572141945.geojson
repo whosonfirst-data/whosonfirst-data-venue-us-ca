@@ -2,84 +2,88 @@
   "id": 572141945,
   "type": "Feature",
   "properties": {
-    "addr:full":"7201 Boulder Ave Highland CA 92346",
-    "addr:housenumber":"7201",
-    "addr:postcode":"92346",
-    "addr:street":"Boulder Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.195421,34.124003,-117.195421,34.124003",
-    "geom:latitude":34.124003,
-    "geom:longitude":-117.195421,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7201 Boulder Ave",
-    "sg:city":"Highland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7201 Boulder Ave Highland CA 92346",
+    "addr:housenumber": "7201",
+    "addr:postcode": "92346",
+    "addr:street": "Boulder Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.195421,34.124003,-117.195421,34.124003",
+    "geom:latitude": 34.124003,
+    "geom:longitude": -117.195421,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Albertsons, 7201 Boulder Ave Highland CA US",
+    "ovtr:similarity": 2.5804030895233154,
+    "sg:address": "7201 Boulder Ave",
+    "sg:city": "Highland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 425 9100",
-    "sg:postcode":"92346",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer",
-        "super",
-        "supermarket"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 425 9100",
+    "sg:postcode": "92346",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer",
+      "super",
+      "supermarket"
     ],
-    "sg:website":"http://www.albertsons.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85880641
+    "sg:website": "http://www.albertsons.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85880641
     ],
-    "wof:brand_id":420574415,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Bv2fszsIThlySJ1xdciWF_34.124417_-117.195467@1293134755"
+    "wof:brand_id": 420574415,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00d5d0dcec034dc2b78f51ddd5",
+      "sg:id": "SG_7Bv2fszsIThlySJ1xdciWF_34.124417_-117.195467@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e9fc23b7e7bd5e48090cdf6be2eb367c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85880641,
-            "region_id":85688637,
-            "venue_id":572141945
-        }
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "e9fc23b7e7bd5e48090cdf6be2eb367c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85880641,
+        "region_id": 85688637,
+        "venue_id": 572141945
+      }
     ],
-    "wof:id":572141945,
-    "wof:lastmodified":1511324065,
-    "wof:name":"Albertsons",
-    "wof:parent_id":85880641,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer",
-        "super",
-        "supermarket"
+    "wof:id": 572141945,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Albertsons",
+    "wof:parent_id": 85880641,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer",
+      "super",
+      "supermarket"
     ]
-},
+  },
   "bbox": [
     -117.195421,
     34.124003,
     -117.195421,
     34.124003
-],
+  ],
   "geometry": {"coordinates":[-117.195421,34.124003],"type":"Point"}
 }

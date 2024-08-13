@@ -2,82 +2,86 @@
   "id": 572350583,
   "type": "Feature",
   "properties": {
-    "addr:full":"915 Lomas Santa Fe Dr Solana Beach CA 92075",
-    "addr:housenumber":"915",
-    "addr:postcode":"92075",
-    "addr:street":"Lomas Santa Fe Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.255343,32.995793,-117.255343,32.995793",
-    "geom:latitude":32.995793,
-    "geom:longitude":-117.255343,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"915 Lomas Santa Fe Dr",
-    "sg:city":"Solana Beach",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "915 Lomas Santa Fe Dr Solana Beach CA 92075",
+    "addr:housenumber": "915",
+    "addr:postcode": "92075",
+    "addr:street": "Lomas Santa Fe Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.255343,32.995793,-117.255343,32.995793",
+    "geom:latitude": 32.995793,
+    "geom:longitude": -117.255343,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jersey Mike's Subs, 915 Lomas Santa Fe Dr Solana Beach CA US",
+    "ovtr:similarity": 2.04259991645813,
+    "sg:address": "915 Lomas Santa Fe Dr",
+    "sg:city": "Solana Beach",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 259 9111",
-    "sg:postcode":"92075",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 259 9111",
+    "sg:postcode": "92075",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.jerseymikes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922267,
-        102083569,
-        85868399
+    "sg:website": "www.jerseymikes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922267,
+      102083569,
+      85868399
     ],
-    "wof:brand_id":1125154655,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JNMsmjH6HUNxWYoy5fL7C_32.995793_-117.255343@1303263238"
+    "wof:brand_id": 1125154655,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a40c1c05a940399e33515517721",
+      "sg:id": "SG_0JNMsmjH6HUNxWYoy5fL7C_32.995793_-117.255343@1303263238"
     },
-    "wof:country":"US",
-    "wof:geomhash":"00a9b744e8074f881541d19df5ca12af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922267,
-            "neighbourhood_id":85868399,
-            "region_id":85688637,
-            "venue_id":572350583
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "00a9b744e8074f881541d19df5ca12af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922267,
+        "neighbourhood_id": 85868399,
+        "region_id": 85688637,
+        "venue_id": 572350583
+      }
     ],
-    "wof:id":572350583,
-    "wof:lastmodified":1510694716,
-    "wof:name":"Jersey Mike's Subs",
-    "wof:parent_id":85868399,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 572350583,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Jersey Mike's Subs",
+    "wof:parent_id": 85868399,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -117.255343,
     32.995793,
     -117.255343,
     32.995793
-],
+  ],
   "geometry": {"coordinates":[-117.255343,32.995793],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 387874285,
   "type": "Feature",
   "properties": {
-    "addr:full":"929 S 29th St San Diego CA 92113",
-    "addr:housenumber":"929",
-    "addr:postcode":"92113",
-    "addr:street":"S 29Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.131581,32.696758,-117.131581,32.696758",
-    "geom:latitude":32.696758,
-    "geom:longitude":-117.131581,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"929 S 29th St",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "929 S 29th St San Diego CA 92113",
+    "addr:housenumber": "929",
+    "addr:postcode": "92113",
+    "addr:street": "S 29Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.131581,32.696758,-117.131581,32.696758",
+    "geom:latitude": 32.696758,
+    "geom:longitude": -117.131581,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Guzman's Garage, 929 S 29th St San Diego CA US",
+    "ovtr:similarity": 2.077022075653076,
+    "sg:address": "929 S 29th St",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 234 9251",
-    "sg:postcode":"92113",
-    "sg:province":"CA",
-    "sg:tags":[
-        "truck"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 234 9251",
+    "sg:postcode": "92113",
+    "sg:province": "CA",
+    "sg:tags": [
+      "truck"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108801253,
-        85831213,
-        102191575,
-        1108802093,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108801253,
+      85831213,
+      102191575,
+      1108802093,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1wW1lxFxF7WtmROOugCka1_32.696758_-117.131581@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4112799a4b03d8808dca151fd3",
+      "sg:id": "SG_1wW1lxFxF7WtmROOugCka1_32.696758_-117.131581@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ac6a85cdfe0d00112725d671fd09fe4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108802093,
-            "microhood_id":1108801253,
-            "neighbourhood_id":85831213,
-            "region_id":85688637,
-            "venue_id":387874285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "ac6a85cdfe0d00112725d671fd09fe4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108802093,
+        "microhood_id": 1108801253,
+        "neighbourhood_id": 85831213,
+        "region_id": 85688637,
+        "venue_id": 387874285
+      }
     ],
-    "wof:id":387874285,
-    "wof:lastmodified":1509201113,
-    "wof:name":"Guzman's Garage",
-    "wof:parent_id":1108801253,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "truck"
+    "wof:id": 387874285,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Guzman's Garage",
+    "wof:parent_id": 1108801253,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "truck"
     ]
-},
+  },
   "bbox": [
     -117.131581,
     32.696758,
     -117.131581,
     32.696758
-],
+  ],
   "geometry": {"coordinates":[-117.131581,32.696758],"type":"Point"}
 }

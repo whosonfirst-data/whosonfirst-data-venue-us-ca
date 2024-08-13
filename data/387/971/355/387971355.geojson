@@ -2,91 +2,95 @@
   "id": 387971355,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 White Ln St Helena CA 94574",
-    "addr:housenumber":"1111",
-    "addr:postcode":"94574",
-    "addr:street":"White Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.446704,38.491417,-122.446704,38.491417",
-    "geom:latitude":38.491417,
-    "geom:longitude":-122.446704,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1111 White Ln",
-    "sg:city":"St Helena",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Food",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1111 White Ln St Helena CA 94574",
+    "addr:housenumber": "1111",
+    "addr:postcode": "94574",
+    "addr:street": "White Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.446704,38.491417,-122.446704,38.491417",
+    "geom:latitude": 38.491417,
+    "geom:longitude": -122.446704,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "V. Sattui Winery, 1111 White Ln St Helena CA US",
+    "ovtr:similarity": 3.8038270473480225,
+    "sg:address": "1111 White Ln",
+    "sg:city": "St Helena",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Food",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 963 7774",
-    "sg:postcode":"94574",
-    "sg:province":"CA",
-    "sg:tags":[
-        "product",
-        "dairy",
-        "winery",
-        "alcoholic"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 963 7774",
+    "sg:postcode": "94574",
+    "sg:province": "CA",
+    "sg:tags": [
+      "product",
+      "dairy",
+      "winery",
+      "alcoholic"
     ],
-    "sg:website":"www.vsattui.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102085383,
-        85846841
+    "sg:website": "www.vsattui.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102085383,
+      85846841
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3926057161,
-        "sg:id":"SG_5bvGWlIRnaNfZpOkzOEYg0_38.491417_-122.446704@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3926057161,
+      "ovtr:id": "08f28302164136310355fe487f4eafee",
+      "sg:id": "SG_5bvGWlIRnaNfZpOkzOEYg0_38.491417_-122.446704@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"58e1af706a0b874f861e7c2d24aba330",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085383,
-            "locality_id":-1,
-            "neighbourhood_id":85846841,
-            "region_id":85688637,
-            "venue_id":387971355
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "58e1af706a0b874f861e7c2d24aba330",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085383,
+        "locality_id": -1,
+        "neighbourhood_id": 85846841,
+        "region_id": 85688637,
+        "venue_id": 387971355
+      }
     ],
-    "wof:id":387971355,
-    "wof:lastmodified":1510942692,
-    "wof:name":"V Sattui Winery",
-    "wof:parent_id":85846841,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product",
-        "dairy",
-        "winery",
-        "alcoholic"
+    "wof:id": 387971355,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "V Sattui Winery",
+    "wof:parent_id": 85846841,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "dairy",
+      "winery",
+      "alcoholic"
     ]
-},
+  },
   "bbox": [
     -122.446704,
     38.491417,
     -122.446704,
     38.491417
-],
+  ],
   "geometry": {"coordinates":[-122.446704,38.491417],"type":"Point"}
 }

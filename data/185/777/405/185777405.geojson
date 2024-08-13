@@ -2,81 +2,85 @@
   "id": 185777405,
   "type": "Feature",
   "properties": {
-    "addr:full":"1805 California St Stockton CA 95204",
-    "addr:housenumber":"1805",
-    "addr:postcode":"95204",
-    "addr:street":"California St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.289528,37.971382,-121.289528,37.971382",
-    "geom:latitude":37.971382,
-    "geom:longitude":-121.289528,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1805 California St",
-    "sg:city":"Stockton",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "1805 California St Stockton CA 95204",
+    "addr:housenumber": "1805",
+    "addr:postcode": "95204",
+    "addr:street": "California St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.289528,37.971382,-121.289528,37.971382",
+    "geom:latitude": 37.971382,
+    "geom:longitude": -121.289528,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Joaquin Laser \u0026 Surgery, 1805 N California St Stockton CA US",
+    "ovtr:similarity": 2.4357869625091553,
+    "sg:address": "1805 California St",
+    "sg:city": "Stockton",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 948 3241",
-    "sg:postcode":"95204",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 948 3241",
+    "sg:postcode": "95204",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923257,
-        102085393,
-        85895889
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923257,
+      102085393,
+      85895889
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GHa4GGmUGe4xHEqOZGebd_37.971382_-121.289528@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283623570090303db9b340a72347a",
+      "sg:id": "SG_1GHa4GGmUGe4xHEqOZGebd_37.971382_-121.289528@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c31d8a6253951e4e1c651873862ac122",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085393,
-            "locality_id":85923257,
-            "neighbourhood_id":85895889,
-            "region_id":85688637,
-            "venue_id":185777405
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "c31d8a6253951e4e1c651873862ac122",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "locality_id": 85923257,
+        "neighbourhood_id": 85895889,
+        "region_id": 85688637,
+        "venue_id": 185777405
+      }
     ],
-    "wof:id":185777405,
-    "wof:lastmodified":1509199829,
-    "wof:name":"San Joaquin Laser & Surgery",
-    "wof:parent_id":85895889,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 185777405,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "San Joaquin Laser \u0026 Surgery",
+    "wof:parent_id": 85895889,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -121.289528,
     37.971382,
     -121.289528,
     37.971382
-],
+  ],
   "geometry": {"coordinates":[-121.289528,37.971382],"type":"Point"}
 }

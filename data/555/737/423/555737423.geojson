@@ -2,59 +2,67 @@
   "id": 555737423,
   "type": "Feature",
   "properties": {
-    "addr:full":"1301 Las Virgenes Rd Calabasas CA 91302",
-    "addr:housenumber":"1301",
-    "addr:postcode":"91302",
-    "addr:street":"Las Virgenes Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.711125,34.095803,-118.711125,34.095803",
-    "geom:latitude":34.095803,
-    "geom:longitude":-118.711125,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1301 Las Virgenes Rd",
-    "sg:city":"Calabasas",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1301 Las Virgenes Rd Calabasas CA 91302",
+    "addr:housenumber": "1301",
+    "addr:postcode": "91302",
+    "addr:street": "Las Virgenes Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.711125,34.095803,-118.711125,34.095803",
+    "geom:latitude": 34.095803,
+    "geom:longitude": -118.711125,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "David Gonzales Camp School, 1301 Las Virgenes Rd Calabasas CA US",
+    "ovtr:similarity": 2.0930728912353516,
+    "sg:address": "1301 Las Virgenes Rd",
+    "sg:city": "Calabasas",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 222 1130",
-    "sg:postcode":"91302",
-    "sg:province":"CA",
-    "sg:website":"www.lacoe.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_404iXE0mHtiy2tRwuW2eoz_34.095803_-118.711125@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 222 1130",
+    "sg:postcode": "91302",
+    "sg:province": "CA",
+    "sg:website": "www.lacoe.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18290e9cd903d9a17e56fc79ad",
+      "sg:id": "SG_404iXE0mHtiy2tRwuW2eoz_34.095803_-118.711125@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fd37f1495331a6e23df4db9e04524220",
-    "wof:hierarchy":[],
-    "wof:id":555737423,
-    "wof:lastmodified":1509201492,
-    "wof:name":"David Gonzales Camp School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "fd37f1495331a6e23df4db9e04524220",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555737423
+      }
+    ],
+    "wof:id": 555737423,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "David Gonzales Camp School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.711125,
     34.095803,
     -118.711125,
     34.095803
-],
+  ],
   "geometry": {"coordinates":[-118.711125,34.095803],"type":"Point"}
 }

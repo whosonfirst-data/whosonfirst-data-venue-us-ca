@@ -2,87 +2,91 @@
   "id": 572147057,
   "type": "Feature",
   "properties": {
-    "addr:full":"240 Industrial St San Francisco CA 94124",
-    "addr:housenumber":"240",
-    "addr:postcode":"94124",
-    "addr:street":"Industrial St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.405317,37.738479,-122.405317,37.738479",
-    "geom:latitude":37.738479,
-    "geom:longitude":-122.405317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"240 Industrial St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "240 Industrial St San Francisco CA 94124",
+    "addr:housenumber": "240",
+    "addr:postcode": "94124",
+    "addr:street": "Industrial St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.405317,37.738479,-122.405317,37.738479",
+    "geom:latitude": 37.738479,
+    "geom:longitude": -122.405317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Big City Montessori School, 240 Industrial St San Francisco CA US",
+    "ovtr:similarity": 2.6436309814453125,
+    "sg:address": "240 Industrial St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 648 5777",
-    "sg:postcode":"94124",
-    "sg:province":"CA",
-    "sg:tags":[
-        "care",
-        "day",
-        "child"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 648 5777",
+    "sg:postcode": "94124",
+    "sg:province": "CA",
+    "sg:tags": [
+      "care",
+      "day",
+      "child"
     ],
-    "sg:website":"www.bigcitymontessorischool.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1108831859
+    "sg:website": "www.bigcitymontessorischool.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1108831859
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":259018291,
-        "sfgov_rbl:id":"0195548-01-001",
-        "sg:id":"SG_7i6l4qumETtsIJ3tqN7NEe_37.738597_-122.405117@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 259018291,
+      "ovtr:id": "08f2830821b5d485034d6d0b8c371c93",
+      "sfgov_rbl:id": "0195548-01-001",
+      "sg:id": "SG_7i6l4qumETtsIJ3tqN7NEe_37.738597_-122.405117@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6bbf41cc67b0d5a1799ccf6b204bf041",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":1108831859,
-            "region_id":85688637,
-            "venue_id":572147057
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "6bbf41cc67b0d5a1799ccf6b204bf041",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 1108831859,
+        "region_id": 85688637,
+        "venue_id": 572147057
+      }
     ],
-    "wof:id":572147057,
-    "wof:lastmodified":1510942744,
-    "wof:name":"Big City Montessori School",
-    "wof:parent_id":1108831859,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "care",
-        "day",
-        "child"
+    "wof:id": 572147057,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Big City Montessori School",
+    "wof:parent_id": 1108831859,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "care",
+      "day",
+      "child"
     ]
-},
+  },
   "bbox": [
     -122.405317,
     37.738479,
     -122.405317,
     37.738479
-],
+  ],
   "geometry": {"coordinates":[-122.405317,37.738479],"type":"Point"}
 }

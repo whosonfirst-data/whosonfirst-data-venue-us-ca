@@ -2,85 +2,89 @@
   "id": 370409293,
   "type": "Feature",
   "properties": {
-    "addr:full":"4401 W 8th St Los Angeles CA 90005",
-    "addr:housenumber":"4401",
-    "addr:postcode":"90005",
-    "addr:street":"W 8Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.324997,34.060299,-118.324997,34.060299",
-    "geom:latitude":34.060299,
-    "geom:longitude":-118.324997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4401 W 8th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        },
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "4401 W 8th St Los Angeles CA 90005",
+    "addr:housenumber": "4401",
+    "addr:postcode": "90005",
+    "addr:street": "W 8Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.324997,34.060299,-118.324997,34.060299",
+    "geom:latitude": 34.060299,
+    "geom:longitude": -118.324997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Wilshire Ebell Theatre, 4401 W 8th St Los Angeles CA US",
+    "ovtr:similarity": 2.7081480026245117,
+    "sg:address": "4401 W 8th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      },
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 939 0126",
-    "sg:postcode":"90005",
-    "sg:province":"CA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 939 0126",
+    "sg:postcode": "90005",
+    "sg:province": "CA",
+    "sg:tags": [
+      "venue"
     ],
-    "sg:website":"www.ebellla.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85886323
+    "sg:website": "www.ebellla.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85886323
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Xnjr5H72NTqVW8Y3r3aj4_34.060299_-118.324997@1303263146"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d612e493403eb49c92782c876",
+      "sg:id": "SG_2Xnjr5H72NTqVW8Y3r3aj4_34.060299_-118.324997@1303263146"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8f8b49752818857e7f627555c6051b99",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886323,
-            "region_id":85688637,
-            "venue_id":370409293
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "8f8b49752818857e7f627555c6051b99",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886323,
+        "region_id": 85688637,
+        "venue_id": 370409293
+      }
     ],
-    "wof:id":370409293,
-    "wof:lastmodified":1509200732,
-    "wof:name":"Wilshire Ebell Theatre",
-    "wof:parent_id":85886323,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 370409293,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Wilshire Ebell Theatre",
+    "wof:parent_id": 85886323,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -118.324997,
     34.060299,
     -118.324997,
     34.060299
-],
+  ],
   "geometry": {"coordinates":[-118.324997,34.060299],"type":"Point"}
 }

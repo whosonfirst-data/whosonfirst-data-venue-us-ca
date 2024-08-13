@@ -2,74 +2,78 @@
   "id": 404127347,
   "type": "Feature",
   "properties": {
-    "addr:full":"1413 Main St Ramona CA 92065",
-    "addr:housenumber":"1413",
-    "addr:postcode":"92065",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.876382,33.037822,-116.876382,33.037822",
-    "geom:latitude":33.037822,
-    "geom:longitude":-116.876382,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1413 Main St",
-    "sg:city":"Ramona",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1413 Main St Ramona CA 92065",
+    "addr:housenumber": "1413",
+    "addr:postcode": "92065",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.876382,33.037822,-116.876382,33.037822",
+    "geom:latitude": 33.037822,
+    "geom:longitude": -116.876382,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Nuevo Grill \u0026 Cantina, 1413 Main St Ramona CA US",
+    "ovtr:similarity": 2.1209189891815186,
+    "sg:address": "1413 Main St",
+    "sg:city": "Ramona",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 789 2801",
-    "sg:postcode":"92065",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85925215,
-        102083569
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 789 2801",
+    "sg:postcode": "92065",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85925215,
+      102083569
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2494029700,
-        "sg:id":"SG_6puvWothxLhztDCps6BlRi_33.037822_-116.876382@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2494029700,
+      "ovtr:id": "08f29a445c763aa603e61424884ada4b",
+      "sg:id": "SG_6puvWothxLhztDCps6BlRi_33.037822_-116.876382@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"777cd29f5dc8fda47fd6243ac12a471a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925215,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":404127347
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "777cd29f5dc8fda47fd6243ac12a471a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85925215,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 404127347
+      }
     ],
-    "wof:id":404127347,
-    "wof:lastmodified":1510941877,
-    "wof:name":"Nuevo Grill & Cantina",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404127347,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Nuevo Grill \u0026 Cantina",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.876382,
     33.037822,
     -116.876382,
     33.037822
-],
-  "geometry": {"coordinates":[-116.87638200000001,33.037822],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-116.876382,33.037822],"type":"Point"}
 }

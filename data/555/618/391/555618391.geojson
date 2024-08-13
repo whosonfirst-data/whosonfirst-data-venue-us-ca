@@ -2,63 +2,71 @@
   "id": 555618391,
   "type": "Feature",
   "properties": {
-    "addr:full":"525 E Citrus Ave Redlands CA 92373",
-    "addr:housenumber":"525",
-    "addr:postcode":"92373",
-    "addr:street":"E Citrus Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.17606,34.055599,-117.17606,34.055599",
-    "geom:latitude":34.055599,
-    "geom:longitude":-117.17606,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"525 E Citrus Ave",
-    "sg:city":"Redlands",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "525 E Citrus Ave Redlands CA 92373",
+    "addr:housenumber": "525",
+    "addr:postcode": "92373",
+    "addr:street": "E Citrus Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.176060,34.055599,-117.176060,34.055599",
+    "geom:latitude": 34.055599,
+    "geom:longitude": -117.17606,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Redlands Fire Department, 525 E Citrus Ave Redlands CA US",
+    "ovtr:similarity": 3.363332986831665,
+    "sg:address": "525 E Citrus Ave",
+    "sg:city": "Redlands",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 798 7600",
-    "sg:postcode":"92373",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 798 7600",
+    "sg:postcode": "92373",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5IZeTe8xKSJfiuh2t3JzHy_34.055599_-117.176060@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00a90e92cc0328f6be5d0a6b77",
+      "sg:id": "SG_5IZeTe8xKSJfiuh2t3JzHy_34.055599_-117.176060@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"23f1c7dbd2e5e5c46c99487b409d821a",
-    "wof:hierarchy":[],
-    "wof:id":555618391,
-    "wof:lastmodified":1509201451,
-    "wof:name":"Redlands Fire Dept",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "23f1c7dbd2e5e5c46c99487b409d821a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555618391
+      }
+    ],
+    "wof:id": 555618391,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Redlands Fire Dept",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -117.17606,
     34.055599,
     -117.17606,
     34.055599
-],
-  "geometry": {"coordinates":[-117.17606000000001,34.055599],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.17606,34.055599],"type":"Point"}
 }

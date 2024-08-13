@@ -2,78 +2,82 @@
   "id": 571533603,
   "type": "Feature",
   "properties": {
-    "addr:full":"21311 E Dinuba Ave Reedley CA 93654",
-    "addr:housenumber":"21311",
-    "addr:postcode":"93654",
-    "addr:street":"E Dinuba Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.40882,36.589464,-119.40882,36.589464",
-    "geom:latitude":36.589464,
-    "geom:longitude":-119.40882,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"21311 E Dinuba Ave",
-    "sg:city":"Reedley",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "21311 E Dinuba Ave Reedley CA 93654",
+    "addr:housenumber": "21311",
+    "addr:postcode": "93654",
+    "addr:street": "E Dinuba Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.408820,36.589464,-119.408820,36.589464",
+    "geom:latitude": 36.589464,
+    "geom:longitude": -119.40882,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Reedley Veterinary Hospital, 21311 E Dinuba Ave Reedley CA US",
+    "ovtr:similarity": 2.524075984954834,
+    "sg:address": "21311 E Dinuba Ave",
+    "sg:city": "Reedley",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 638 5466",
-    "sg:postcode":"93654",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 638 5466",
+    "sg:postcode": "93654",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871903,
-        85633793,
-        85922995,
-        102084347,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871903,
+      85633793,
+      85922995,
+      102084347,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1JFW0muGPqNkwM0cKCEYrD_36.589464_-119.408820@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a86a1746259036aa997bce082b3",
+      "sg:id": "SG_1JFW0muGPqNkwM0cKCEYrD_36.589464_-119.408820@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"53834ef98f9f7d5a120b780ff8267cba",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85871903,
-            "region_id":85688637,
-            "venue_id":571533603
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "53834ef98f9f7d5a120b780ff8267cba",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85871903,
+        "region_id": 85688637,
+        "venue_id": 571533603
+      }
     ],
-    "wof:id":571533603,
-    "wof:lastmodified":1509201513,
-    "wof:name":"Reedley Veterinary Hospital",
-    "wof:parent_id":85871903,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 571533603,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Reedley Veterinary Hospital",
+    "wof:parent_id": 85871903,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -119.40882,
     36.589464,
     -119.40882,
     36.589464
-],
-  "geometry": {"coordinates":[-119.40882000000001,36.589464],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.40882,36.589464],"type":"Point"}
 }

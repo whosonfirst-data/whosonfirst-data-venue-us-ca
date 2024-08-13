@@ -2,58 +2,66 @@
   "id": 555350919,
   "type": "Feature",
   "properties": {
-    "addr:full":"1296 San Juan Rd Hollister CA 95023",
-    "addr:housenumber":"1296",
-    "addr:postcode":"hollister ca 95023",
-    "addr:street":"San Juan Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.421257,36.853,-121.421257,36.853",
-    "geom:latitude":36.853,
-    "geom:longitude":-121.421257,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1296 San Juan Rd",
-    "sg:city":"Hollister",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1296 San Juan Rd Hollister CA 95023",
+    "addr:housenumber": "1296",
+    "addr:postcode": "hollister ca 95023",
+    "addr:street": "San Juan Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.421257,36.853000,-121.421257,36.853000",
+    "geom:latitude": 36.853,
+    "geom:longitude": -121.421257,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Michoacano Restaurant, 1296 San Juan Rd Hollister CA US",
+    "ovtr:similarity": 1.8003040552139282,
+    "sg:address": "1296 San Juan Rd",
+    "sg:city": "Hollister",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 638 9425",
-    "sg:postcode":"95023",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_06cPeS8HXqphZ6lb04a7SP_36.853000_-121.421257@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 638 9425",
+    "sg:postcode": "95023",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a934359594e036827650d61dd98",
+      "sg:id": "SG_06cPeS8HXqphZ6lb04a7SP_36.853000_-121.421257@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"86492acad2d3861fb763f502fba0e5ba",
-    "wof:hierarchy":[],
-    "wof:id":555350919,
-    "wof:lastmodified":1509201362,
-    "wof:name":"El Michoacano Restaurant",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "86492acad2d3861fb763f502fba0e5ba",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555350919
+      }
+    ],
+    "wof:id": 555350919,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "El Michoacano Restaurant",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.421257,
     36.853,
     -121.421257,
     36.853
-],
+  ],
   "geometry": {"coordinates":[-121.421257,36.853],"type":"Point"}
 }

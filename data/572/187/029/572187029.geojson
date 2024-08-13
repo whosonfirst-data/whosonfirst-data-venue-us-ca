@@ -2,82 +2,86 @@
   "id": 572187029,
   "type": "Feature",
   "properties": {
-    "addr:full":"1343 E Manning Ave Reedley CA 93654",
-    "addr:housenumber":"1343",
-    "addr:postcode":"93654",
-    "addr:street":"E Manning Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.435009,36.604065,-119.435009,36.604065",
-    "geom:latitude":36.604065,
-    "geom:longitude":-119.435009,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1343 E Manning Ave",
-    "sg:city":"Reedley",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1343 E Manning Ave Reedley CA 93654",
+    "addr:housenumber": "1343",
+    "addr:postcode": "93654",
+    "addr:street": "E Manning Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.435009,36.604065,-119.435009,36.604065",
+    "geom:latitude": 36.604065,
+    "geom:longitude": -119.435009,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 1343 E Manning Ave Reedley CA US",
+    "ovtr:similarity": 3.2718889713287354,
+    "sg:address": "1343 E Manning Ave",
+    "sg:city": "Reedley",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/reedley/150245-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 638 8030",
-    "sg:postcode":"93654",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/reedley/150245-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 638 8030",
+    "sg:postcode": "93654",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922995,
-        102084347,
-        85871903
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922995,
+      102084347,
+      85871903
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51DfcXktqmlz9FFRdzXMSE_36.604065_-119.435009@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a86a8932a5b032e98ca8664c0b1",
+      "sg:id": "SG_51DfcXktqmlz9FFRdzXMSE_36.604065_-119.435009@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cb32629ccf554b20de1822c4ff59adaa",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85871903,
-            "region_id":85688637,
-            "venue_id":572187029
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "cb32629ccf554b20de1822c4ff59adaa",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85871903,
+        "region_id": 85688637,
+        "venue_id": 572187029
+      }
     ],
-    "wof:id":572187029,
-    "wof:lastmodified":1511322182,
-    "wof:name":"Subway",
-    "wof:parent_id":85871903,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572187029,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Subway",
+    "wof:parent_id": 85871903,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -119.435009,
     36.604065,
     -119.435009,
     36.604065
-],
-  "geometry": {"coordinates":[-119.43500899999999,36.604065],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.435009,36.604065],"type":"Point"}
 }

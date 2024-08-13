@@ -2,87 +2,91 @@
   "id": 572040629,
   "type": "Feature",
   "properties": {
-    "addr:full":"4879 Topanga Canyon Blvd Woodland Hills CA 91364",
-    "addr:housenumber":"4879",
-    "addr:postcode":"91364",
-    "addr:street":"Topanga Canyon Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.606003,34.1567,-118.606003,34.1567",
-    "geom:latitude":34.1567,
-    "geom:longitude":-118.606003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4879 Topanga Canyon Blvd",
-    "sg:city":"Woodland Hills",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4879 Topanga Canyon Blvd Woodland Hills CA 91364",
+    "addr:housenumber": "4879",
+    "addr:postcode": "91364",
+    "addr:street": "Topanga Canyon Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.606003,34.156700,-118.606003,34.156700",
+    "geom:latitude": 34.1567,
+    "geom:longitude": -118.606003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Embassy Liquor, 4879 Topanga Canyon Blvd Woodland Hills CA US",
+    "ovtr:similarity": 1.8466789722442627,
+    "sg:address": "4879 Topanga Canyon Blvd",
+    "sg:city": "Woodland Hills",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 340 2092",
-    "sg:postcode":"91364",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 340 2092",
+    "sg:postcode": "91364",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85858757",
-        102191575,
-        1108692439,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692439,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85858757
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000839054-0001-3",
-        "sg:id":"SG_2ys813oDowycoMv76eVtc3_34.156488_-118.605886@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000839054-0001-3",
+      "ovtr:id": "08f29a18191b366103ef0d30ee66950a",
+      "sg:id": "SG_2ys813oDowycoMv76eVtc3_34.156488_-118.605886@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cb8dc237cc742bd2c181bc229fbc125e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692439,
-            "neighbourhood_id":"85858757",
-            "region_id":85688637,
-            "venue_id":572040629
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "cb8dc237cc742bd2c181bc229fbc125e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692439,
+        "neighbourhood_id": 85858757,
+        "region_id": 85688637,
+        "venue_id": 572040629
+      }
     ],
-    "wof:id":572040629,
-    "wof:lastmodified":1509201673,
-    "wof:name":"Embassy Liquor",
-    "wof:parent_id":"85858757",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572040629,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Embassy Liquor",
+    "wof:parent_id": "85858757",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.606003,
     34.1567,
     -118.606003,
     34.1567
-],
+  ],
   "geometry": {"coordinates":[-118.606003,34.1567],"type":"Point"}
 }

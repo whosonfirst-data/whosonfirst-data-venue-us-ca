@@ -2,81 +2,85 @@
   "id": 572205749,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 N Chester Ave Bakersfield CA 93308",
-    "addr:housenumber":"225",
-    "addr:postcode":"93308",
-    "addr:street":"N Chester Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.021433,35.408289,-119.021433,35.408289",
-    "geom:latitude":35.408289,
-    "geom:longitude":-119.021433,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"225 N Chester Ave",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "225 N Chester Ave Bakersfield CA 93308",
+    "addr:housenumber": "225",
+    "addr:postcode": "93308",
+    "addr:street": "N Chester Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.021433,35.408289,-119.021433,35.408289",
+    "geom:latitude": 35.408289,
+    "geom:longitude": -119.021433,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 225 N Chester Ave Bakersfield CA US",
+    "ovtr:similarity": 2.3237550258636475,
+    "sg:address": "225 N Chester Ave",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/bakersfield/216195-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"93308",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/bakersfield/216195-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "93308",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85876059
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85876059
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3UMTFLrtWrNWqhLhaMM0eM_35.408177_-119.021127@1294081369"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb08cd236a0370b3406b1142cf",
+      "sg:id": "SG_3UMTFLrtWrNWqhLhaMM0eM_35.408177_-119.021127@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"00cc1d5b26d804deb0393924c0ced5fb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":572205749
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "00cc1d5b26d804deb0393924c0ced5fb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 572205749
+      }
     ],
-    "wof:id":572205749,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572205749,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -119.021433,
     35.408289,
     -119.021433,
     35.408289
-],
+  ],
   "geometry": {"coordinates":[-119.021433,35.408289],"type":"Point"}
 }

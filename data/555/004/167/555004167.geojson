@@ -2,82 +2,86 @@
   "id": 555004167,
   "type": "Feature",
   "properties": {
-    "addr:full":"12913 Central Ave Chino CA 91710",
-    "addr:housenumber":"12913",
-    "addr:postcode":"91710",
-    "addr:street":"Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.689226,34.01754,-117.689226,34.01754",
-    "geom:latitude":34.01754,
-    "geom:longitude":-117.689226,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12913 Central Ave",
-    "sg:city":"Chino",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "12913 Central Ave Chino CA 91710",
+    "addr:housenumber": "12913",
+    "addr:postcode": "91710",
+    "addr:street": "Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.689226,34.017540,-117.689226,34.017540",
+    "geom:latitude": 34.01754,
+    "geom:longitude": -117.689226,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Auto Repair Foreign Domestic, 12949 Central Ave Chino CA US",
+    "ovtr:similarity": 1.9568840265274048,
+    "sg:address": "12913 Central Ave",
+    "sg:city": "Chino",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 627 5018",
-    "sg:postcode":"91710",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 627 5018",
+    "sg:postcode": "91710",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923933,
-        102085395,
-        85879401
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923933,
+      102085395,
+      85879401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7CxxIksVqYJAJX2zk7ntRB_34.017540_-117.689226@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ad480eda303e4a71399adde07",
+      "sg:id": "SG_7CxxIksVqYJAJX2zk7ntRB_34.017540_-117.689226@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9d349947320157a00783b50331ecd185",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923933,
-            "neighbourhood_id":85879401,
-            "region_id":85688637,
-            "venue_id":555004167
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "9d349947320157a00783b50331ecd185",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923933,
+        "neighbourhood_id": 85879401,
+        "region_id": 85688637,
+        "venue_id": 555004167
+      }
     ],
-    "wof:id":555004167,
-    "wof:lastmodified":1509201245,
-    "wof:name":"Auto Repair Foreign Domestic",
-    "wof:parent_id":85879401,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 555004167,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Auto Repair Foreign Domestic",
+    "wof:parent_id": 85879401,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.689226,
     34.01754,
     -117.689226,
     34.01754
-],
-  "geometry": {"coordinates":[-117.68922600000001,34.01754],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.689226,34.01754],"type":"Point"}
 }

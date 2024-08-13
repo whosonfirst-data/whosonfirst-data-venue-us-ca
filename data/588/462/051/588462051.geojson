@@ -2,85 +2,89 @@
   "id": 588462051,
   "type": "Feature",
   "properties": {
-    "addr:full":"3629 Mt Diablo Blvd Ste A Lafayette CA 94549",
-    "addr:housenumber":"3629",
-    "addr:postcode":"94549",
-    "addr:street":"Mt Diablo Blvd Ste A",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.12558,37.89114,-122.12558,37.89114",
-    "geom:latitude":37.89114,
-    "geom:longitude":-122.12558,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3629 Mt Diablo Blvd Ste A",
-    "sg:city":"Lafayette",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3629 Mt Diablo Blvd Ste A Lafayette CA 94549",
+    "addr:housenumber": "3629",
+    "addr:postcode": "94549",
+    "addr:street": "Mt Diablo Blvd Ste A",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.125580,37.891140,-122.125580,37.891140",
+    "geom:latitude": 37.89114,
+    "geom:longitude": -122.12558,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Johnny's Donuts, 3629 Mt Diablo Blvd Lafayette CA US",
+    "ovtr:similarity": 3.030630111694336,
+    "sg:address": "3629 Mt Diablo Blvd Ste A",
+    "sg:city": "Lafayette",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 283 9352",
-    "sg:postcode":"94549",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 283 9352",
+    "sg:postcode": "94549",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922169,
-        102086225,
-        85886131
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922169,
+      102086225,
+      85886131
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_50lD2BQwLBbhcU6yOUDZD8_37.891140_-122.125580@1303263334"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283089571c4f103087f28b23eb840",
+      "sg:id": "SG_50lD2BQwLBbhcU6yOUDZD8_37.891140_-122.125580@1303263334"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bd97ca4cd4fff60f61804f03c1b6570b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922169,
-            "neighbourhood_id":85886131,
-            "region_id":85688637,
-            "venue_id":588462051
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "bd97ca4cd4fff60f61804f03c1b6570b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922169,
+        "neighbourhood_id": 85886131,
+        "region_id": 85688637,
+        "venue_id": 588462051
+      }
     ],
-    "wof:id":588462051,
-    "wof:lastmodified":1509202077,
-    "wof:name":"Johnny's Donuts",
-    "wof:parent_id":85886131,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 588462051,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Johnny's Donuts",
+    "wof:parent_id": 85886131,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -122.12558,
     37.89114,
     -122.12558,
     37.89114
-],
+  ],
   "geometry": {"coordinates":[-122.12558,37.89114],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 403725793,
   "type": "Feature",
   "properties": {
-    "addr:full":"1202 Pine St Paso Robles CA 93446",
-    "addr:housenumber":"1202",
-    "addr:postcode":"93446",
-    "addr:street":"Pine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.6888,35.627295,-120.6888,35.627295",
-    "geom:latitude":35.627295,
-    "geom:longitude":-120.6888,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1202 Pine St",
-    "sg:city":"Paso Robles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1202 Pine St Paso Robles CA 93446",
+    "addr:housenumber": "1202",
+    "addr:postcode": "93446",
+    "addr:street": "Pine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.688800,35.627295,-120.688800,35.627295",
+    "geom:latitude": 35.627295,
+    "geom:longitude": -120.6888,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bistro Laurent, 1202 Pine St Paso Robles CA US",
+    "ovtr:similarity": 2.319422960281372,
+    "sg:address": "1202 Pine St",
+    "sg:city": "Paso Robles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 226 8191",
-    "sg:postcode":"93446",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922313,
-        102085385,
-        85809379
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 226 8191",
+    "sg:postcode": "93446",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922313,
+      102085385,
+      85809379
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":176039847,
-        "sg:id":"SG_6iMsbEQHeyQiyjaVKIjCSq_35.627295_-120.688800@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 176039847,
+      "ovtr:id": "08f29ad083429a1403ca76eec6ebc348",
+      "sg:id": "SG_6iMsbEQHeyQiyjaVKIjCSq_35.627295_-120.688800@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"69158f8af517f2df2fd653afa6b74546",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085385,
-            "locality_id":85922313,
-            "neighbourhood_id":85809379,
-            "region_id":85688637,
-            "venue_id":403725793
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "69158f8af517f2df2fd653afa6b74546",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085385,
+        "locality_id": 85922313,
+        "neighbourhood_id": 85809379,
+        "region_id": 85688637,
+        "venue_id": 403725793
+      }
     ],
-    "wof:id":403725793,
-    "wof:lastmodified":1510943886,
-    "wof:name":"Bistro Laurent",
-    "wof:parent_id":85809379,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403725793,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "Bistro Laurent",
+    "wof:parent_id": 85809379,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.6888,
     35.627295,
     -120.6888,
     35.627295
-],
+  ],
   "geometry": {"coordinates":[-120.6888,35.627295],"type":"Point"}
 }

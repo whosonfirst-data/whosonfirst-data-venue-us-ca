@@ -2,86 +2,90 @@
   "id": 404050407,
   "type": "Feature",
   "properties": {
-    "addr:full":"68421 Commercial Rd Cathedral City CA 92234",
-    "addr:housenumber":"68421",
-    "addr:postcode":"92234",
-    "addr:street":"Commercial Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.469272,33.782021,-116.469272,33.782021",
-    "geom:latitude":33.782021,
-    "geom:longitude":-116.469272,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"68421 Commercial Rd",
-    "sg:city":"Cathedral City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Repair Shop",
-            "type":"Services"
-        },
-        {
-            "category":"Home & Garden",
-            "subcategory":"Household Appliances",
-            "type":"Retail Goods"
-        }
+    "addr:full": "68421 Commercial Rd Cathedral City CA 92234",
+    "addr:housenumber": "68421",
+    "addr:postcode": "92234",
+    "addr:street": "Commercial Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.469272,33.782021,-116.469272,33.782021",
+    "geom:latitude": 33.782021,
+    "geom:longitude": -116.469272,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Commercial Vacuum Center, 68421 Commercial Rd Cathedral City CA US",
+    "ovtr:similarity": 1.9413349628448486,
+    "sg:address": "68421 Commercial Rd",
+    "sg:city": "Cathedral City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Repair Shop",
+        "type": "Services"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Household Appliances",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 321 7669",
-    "sg:postcode":"92234",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cleaners",
-        "vacuum"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 321 7669",
+    "sg:postcode": "92234",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cleaners",
+      "vacuum"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923421,
-        102086221,
-        85867381
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923421,
+      102086221,
+      85867381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VzlFuZuW2kGNYM2e0O77D_33.782021_-116.469272@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a620d386cd3036c1859bbc629fb",
+      "sg:id": "SG_6VzlFuZuW2kGNYM2e0O77D_33.782021_-116.469272@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4f822d507fadc35f1f6cdac9a8d940e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923421,
-            "neighbourhood_id":85867381,
-            "region_id":85688637,
-            "venue_id":404050407
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "4f822d507fadc35f1f6cdac9a8d940e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923421,
+        "neighbourhood_id": 85867381,
+        "region_id": 85688637,
+        "venue_id": 404050407
+      }
     ],
-    "wof:id":404050407,
-    "wof:lastmodified":1509201194,
-    "wof:name":"Commercial Vacuum Center",
-    "wof:parent_id":85867381,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners",
-        "vacuum"
+    "wof:id": 404050407,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Commercial Vacuum Center",
+    "wof:parent_id": 85867381,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners",
+      "vacuum"
     ]
-},
+  },
   "bbox": [
     -116.469272,
     33.782021,
     -116.469272,
     33.782021
-],
+  ],
   "geometry": {"coordinates":[-116.469272,33.782021],"type":"Point"}
 }

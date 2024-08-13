@@ -2,78 +2,82 @@
   "id": 169529143,
   "type": "Feature",
   "properties": {
-    "addr:full":"15664 Main St Hesperia CA 92345",
-    "addr:housenumber":"15664",
-    "addr:postcode":"92345",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.321186,34.424527,-117.321186,34.424527",
-    "geom:latitude":34.424527,
-    "geom:longitude":-117.321186,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"15664 Main St",
-    "sg:city":"Hesperia",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "15664 Main St Hesperia CA 92345",
+    "addr:housenumber": "15664",
+    "addr:postcode": "92345",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.321186,34.424527,-117.321186,34.424527",
+    "geom:latitude": 34.424527,
+    "geom:longitude": -117.321186,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Paws and Jaws, 15664 Main St Hesperia CA US",
+    "ovtr:similarity": 2.980318069458008,
+    "sg:address": "15664 Main St",
+    "sg:city": "Hesperia",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 244 0216",
-    "sg:postcode":"92345",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet",
-        "grooming",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 244 0216",
+    "sg:postcode": "92345",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet",
+      "grooming",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85867387,
-        85633793,
-        85923967,
-        102085395,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85867387,
+      85633793,
+      85923967,
+      102085395,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xHbNymkQqNTzEHJCWmiwV_34.424527_-117.321186@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a066c7056f40361de2e410578ea",
+      "sg:id": "SG_0xHbNymkQqNTzEHJCWmiwV_34.424527_-117.321186@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"834ba67974cae101ad4ba8e7a38e66cd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923967,
-            "neighbourhood_id":85867387,
-            "region_id":85688637,
-            "venue_id":169529143
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "834ba67974cae101ad4ba8e7a38e66cd",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923967,
+        "neighbourhood_id": 85867387,
+        "region_id": 85688637,
+        "venue_id": 169529143
+      }
     ],
-    "wof:id":169529143,
-    "wof:lastmodified":1509199776,
-    "wof:name":"Paws & Jaws",
-    "wof:parent_id":85867387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 169529143,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Paws \u0026 Jaws",
+    "wof:parent_id": 85867387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.321186,
     34.424527,
     -117.321186,
     34.424527
-],
+  ],
   "geometry": {"coordinates":[-117.321186,34.424527],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 572087139,
   "type": "Feature",
   "properties": {
-    "addr:full":"13301 Victory Blvd Van Nuys CA 91401",
-    "addr:housenumber":"13301",
-    "addr:postcode":"91401",
-    "addr:street":"Victory Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.422997,34.1866,-118.422997,34.1866",
-    "geom:latitude":34.1866,
-    "geom:longitude":-118.422997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13301 Victory Blvd",
-    "sg:city":"Van Nuys",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "13301 Victory Blvd Van Nuys CA 91401",
+    "addr:housenumber": "13301",
+    "addr:postcode": "91401",
+    "addr:street": "Victory Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.422997,34.186600,-118.422997,34.186600",
+    "geom:latitude": 34.1866,
+    "geom:longitude": -118.422997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Victory Donuts, 13301 Victory Blvd Van Nuys CA US",
+    "ovtr:similarity": 2.0806961059570312,
+    "sg:address": "13301 Victory Blvd",
+    "sg:city": "Van Nuys",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 780 3840",
-    "sg:postcode":"91401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "donut",
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 780 3840",
+    "sg:postcode": "91401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "donut",
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865849",
-        102191575,
-        1108692439,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692439,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865849
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4xhTC1FJVhrIqEplCG1iD4_34.186670_-118.423600@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1882ab44f403121fe5bc942f8f",
+      "sg:id": "SG_4xhTC1FJVhrIqEplCG1iD4_34.186670_-118.423600@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"467207c44e2477045d2e7da2e4b0bc7c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692439,
-            "neighbourhood_id":"85865849",
-            "region_id":85688637,
-            "venue_id":572087139
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "467207c44e2477045d2e7da2e4b0bc7c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692439,
+        "neighbourhood_id": 85865849,
+        "region_id": 85688637,
+        "venue_id": 572087139
+      }
     ],
-    "wof:id":572087139,
-    "wof:lastmodified":1509201688,
-    "wof:name":"Victory Donuts",
-    "wof:parent_id":"85865849",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "donut",
-        "doughnut"
+    "wof:id": 572087139,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Victory Donuts",
+    "wof:parent_id": "85865849",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "donut",
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -118.422997,
     34.1866,
     -118.422997,
     34.1866
-],
+  ],
   "geometry": {"coordinates":[-118.422997,34.1866],"type":"Point"}
 }

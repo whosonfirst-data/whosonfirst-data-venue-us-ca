@@ -2,86 +2,90 @@
   "id": 572406287,
   "type": "Feature",
   "properties": {
-    "addr:full":"5601 Ramon Rd E Palm Springs CA 92264",
-    "addr:housenumber":"5601",
-    "addr:postcode":"92264",
-    "addr:street":"Ramon Rd E",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.490576,33.81578,-116.490576,33.81578",
-    "geom:latitude":33.81578,
-    "geom:longitude":-116.490576,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5601 Ramon Rd E",
-    "sg:city":"Palm Springs",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5601 Ramon Rd E Palm Springs CA 92264",
+    "addr:housenumber": "5601",
+    "addr:postcode": "92264",
+    "addr:street": "Ramon Rd E",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.490576,33.815780,-116.490576,33.815780",
+    "geom:latitude": 33.81578,
+    "geom:longitude": -116.490576,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "PetSmart, 5601 E Ramon Rd Palm Springs CA US",
+    "ovtr:similarity": 2.487833023071289,
+    "sg:address": "5601 Ramon Rd E",
+    "sg:city": "Palm Springs",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 325 9711",
-    "sg:postcode":"92264",
-    "sg:province":"CA",
-    "sg:tags":[
-        "training",
-        "store",
-        "groomers"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 325 9711",
+    "sg:postcode": "92264",
+    "sg:province": "CA",
+    "sg:tags": [
+      "training",
+      "store",
+      "groomers"
     ],
-    "sg:website":"www.petsmart.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923357,
-        102086221,
-        85867379
+    "sg:website": "www.petsmart.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923357,
+      102086221,
+      85867379
     ],
-    "wof:brand_id":1125151661,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_36lGpfJyOJww3lY7nh58km_33.815780_-116.490576@1303263252"
+    "wof:brand_id": 1125151661,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a625473646903836df83cda376f",
+      "sg:id": "SG_36lGpfJyOJww3lY7nh58km_33.815780_-116.490576@1303263252"
     },
-    "wof:country":"US",
-    "wof:geomhash":"67758ac701e4e32951f6d80d801e030d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923357,
-            "neighbourhood_id":85867379,
-            "region_id":85688637,
-            "venue_id":572406287
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "67758ac701e4e32951f6d80d801e030d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923357,
+        "neighbourhood_id": 85867379,
+        "region_id": 85688637,
+        "venue_id": 572406287
+      }
     ],
-    "wof:id":572406287,
-    "wof:lastmodified":1511317282,
-    "wof:name":"PetSmart",
-    "wof:parent_id":85867379,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "training",
-        "store",
-        "groomers"
+    "wof:id": 572406287,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "PetSmart",
+    "wof:parent_id": 85867379,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "training",
+      "store",
+      "groomers"
     ]
-},
+  },
   "bbox": [
     -116.490576,
     33.81578,
     -116.490576,
     33.81578
-],
+  ],
   "geometry": {"coordinates":[-116.490576,33.81578],"type":"Point"}
 }

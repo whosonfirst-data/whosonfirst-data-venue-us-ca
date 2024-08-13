@@ -2,74 +2,78 @@
   "id": 387616559,
   "type": "Feature",
   "properties": {
-    "addr:full":"156 S K St San Bernardino CA 92410",
-    "addr:housenumber":"156",
-    "addr:postcode":"92410",
-    "addr:street":"S K St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.30773,34.099666,-117.30773,34.099666",
-    "geom:latitude":34.099666,
-    "geom:longitude":-117.30773,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"156 S K St",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "156 S K St San Bernardino CA 92410",
+    "addr:housenumber": "156",
+    "addr:postcode": "92410",
+    "addr:street": "S K St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.307730,34.099666,-117.307730,34.099666",
+    "geom:latitude": 34.099666,
+    "geom:longitude": -117.30773,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "K Street Market, 156 S K St San Bernardino CA US",
+    "ovtr:similarity": 3.038228988647461,
+    "sg:address": "156 S K St",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 381 2832",
-    "sg:postcode":"92410",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85843739
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 381 2832",
+    "sg:postcode": "92410",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85843739
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46Sbeq3MY7knPVzFaFMAip_34.099666_-117.307730@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00ec488c6003468562c357d457",
+      "sg:id": "SG_46Sbeq3MY7knPVzFaFMAip_34.099666_-117.307730@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0ce0cedd3bc0d15576c524d37c05b697",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85843739,
-            "region_id":85688637,
-            "venue_id":387616559
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "0ce0cedd3bc0d15576c524d37c05b697",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85843739,
+        "region_id": 85688637,
+        "venue_id": 387616559
+      }
     ],
-    "wof:id":387616559,
-    "wof:lastmodified":1509201065,
-    "wof:name":"K Street Market",
-    "wof:parent_id":85843739,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387616559,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "K Street Market",
+    "wof:parent_id": 85843739,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.30773,
     34.099666,
     -117.30773,
     34.099666
-],
-  "geometry": {"coordinates":[-117.30773000000001,34.099666],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.30773,34.099666],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 555601543,
   "type": "Feature",
   "properties": {
-    "addr:full":"4698 San Fernando Rd Glendale CA 91204",
-    "addr:housenumber":"4698",
-    "addr:postcode":"91204",
-    "addr:street":"San Fernando Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.26506,34.137074,-118.26506,34.137074",
-    "geom:latitude":34.137074,
-    "geom:longitude":-118.26506,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4698 San Fernando Rd",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4698 San Fernando Rd Glendale CA 91204",
+    "addr:housenumber": "4698",
+    "addr:postcode": "91204",
+    "addr:street": "San Fernando Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.265060,34.137074,-118.265060,34.137074",
+    "geom:latitude": 34.137074,
+    "geom:longitude": -118.26506,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pacific Auto Body \u0026 Paint, 4698 San Fernando Rd Glendale CA US",
+    "ovtr:similarity": 3.6010680198669434,
+    "sg:address": "4698 San Fernando Rd",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 244 8800",
-    "sg:postcode":"91204",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 244 8800",
+    "sg:postcode": "91204",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "automobile",
+      "painting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        85877727
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85877727
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5T1ZWR7QNspisMv6fwOYwi_34.137074_-118.265060@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d5dd668b003c456ce840c864b",
+      "sg:id": "SG_5T1ZWR7QNspisMv6fwOYwi_34.137074_-118.265060@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cc14ac5b4094a77483c18f1ec54f9a37",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":85877727,
-            "region_id":85688637,
-            "venue_id":555601543
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "cc14ac5b4094a77483c18f1ec54f9a37",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85877727,
+        "region_id": 85688637,
+        "venue_id": 555601543
+      }
     ],
-    "wof:id":555601543,
-    "wof:lastmodified":1509201446,
-    "wof:name":"Pacific Autobody & Paint",
-    "wof:parent_id":85877727,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "automobile",
-        "painting"
+    "wof:id": 555601543,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Pacific Autobody \u0026 Paint",
+    "wof:parent_id": 85877727,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "automobile",
+      "painting"
     ]
-},
+  },
   "bbox": [
     -118.26506,
     34.137074,
     -118.26506,
     34.137074
-],
-  "geometry": {"coordinates":[-118.26506000000001,34.137074],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.26506,34.137074],"type":"Point"}
 }

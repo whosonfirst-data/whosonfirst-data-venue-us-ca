@@ -2,81 +2,85 @@
   "id": 588661127,
   "type": "Feature",
   "properties": {
-    "addr:full":"3006 Evergreen Avenue West Sacramento CA 95691",
-    "addr:housenumber":"3006",
-    "addr:postcode":"95691",
-    "addr:street":"Evergreen Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.552287,38.576953,-121.552287,38.576953",
-    "geom:latitude":38.576953,
-    "geom:longitude":-121.552287,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3006 Evergreen Avenue",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "3006 Evergreen Avenue West Sacramento CA 95691",
+    "addr:housenumber": "3006",
+    "addr:postcode": "95691",
+    "addr:street": "Evergreen Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.552287,38.576953,-121.552287,38.576953",
+    "geom:latitude": 38.576953,
+    "geom:longitude": -121.552287,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 3006 Evergreen Ave West Sacramento CA US",
+    "ovtr:similarity": 2.01601505279541,
+    "sg:address": "3006 Evergreen Avenue",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 373 0880",
-    "sg:postcode":"95691",
-    "sg:province":"CA",
-    "sg:tags":[
-        "car"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 373 0880",
+    "sg:postcode": "95691",
+    "sg:province": "CA",
+    "sg:tags": [
+      "car"
     ],
-    "sg:website":"www.enterprise.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922413,
-        102082309,
-        85834181
+    "sg:website": "www.enterprise.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922413,
+      102082309,
+      85834181
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":120652402,
-        "sg:id":"SG_18qBFh2vrP1ZJnAJDaU8FU_38.576953_-121.552287@1303263386"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 120652402,
+      "ovtr:id": "08f2832b0e82006503f64f32b638f6cc",
+      "sg:id": "SG_18qBFh2vrP1ZJnAJDaU8FU_38.576953_-121.552287@1303263386"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2e345919a7c3fc62b0fe3c097325cde6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":588661127
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "2e345919a7c3fc62b0fe3c097325cde6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 588661127
+      }
     ],
-    "wof:id":588661127,
-    "wof:lastmodified":1511321724,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "car"
+    "wof:id": 588661127,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "car"
     ]
-},
+  },
   "bbox": [
     -121.552287,
     38.576953,
     -121.552287,
     38.576953
-],
-  "geometry": {"coordinates":[-121.55228700000001,38.576953],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.552287,38.576953],"type":"Point"}
 }

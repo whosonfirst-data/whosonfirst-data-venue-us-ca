@@ -2,74 +2,78 @@
   "id": 185804285,
   "type": "Feature",
   "properties": {
-    "addr:full":"13000 New Airport Rd Auburn CA 95603",
-    "addr:housenumber":"13000",
-    "addr:postcode":"ca 95603",
-    "addr:street":"New Airport Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.07935,38.948707,-121.07935,38.948707",
-    "geom:latitude":38.948707,
-    "geom:longitude":-121.07935,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13000 New Airport Rd",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "13000 New Airport Rd Auburn CA 95603",
+    "addr:housenumber": "13000",
+    "addr:postcode": "ca 95603",
+    "addr:street": "New Airport Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.079350,38.948707,-121.079350,38.948707",
+    "geom:latitude": 38.948707,
+    "geom:longitude": -121.07935,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Placer Union High School District, 13000 New Airport Rd Auburn CA US",
+    "ovtr:similarity": 3.956233024597168,
+    "sg:address": "13000 New Airport Rd",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 886 4400",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "sg:website":"www.puhsd.k12.ca.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080863,
-        85841911
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 886 4400",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "sg:website": "www.puhsd.k12.ca.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080863,
+      85841911
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0hgCuJAO1KmLoWkeqhEzip_38.948707_-121.079350@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320ec515b280331e5aa6d65b348",
+      "sg:id": "SG_0hgCuJAO1KmLoWkeqhEzip_38.948707_-121.079350@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"30f021722307567e616182b9eaec07be",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":-1,
-            "neighbourhood_id":85841911,
-            "region_id":85688637,
-            "venue_id":185804285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "30f021722307567e616182b9eaec07be",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": -1,
+        "neighbourhood_id": 85841911,
+        "region_id": 85688637,
+        "venue_id": 185804285
+      }
     ],
-    "wof:id":185804285,
-    "wof:lastmodified":1509199831,
-    "wof:name":"Placer Union School District",
-    "wof:parent_id":85841911,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 185804285,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Placer Union School District",
+    "wof:parent_id": 85841911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.07935,
     38.948707,
     -121.07935,
     38.948707
-],
-  "geometry": {"coordinates":[-121.07935000000001,38.948707],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.07935,38.948707],"type":"Point"}
 }

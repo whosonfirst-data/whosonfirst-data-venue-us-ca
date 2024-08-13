@@ -2,81 +2,85 @@
   "id": 386978127,
   "type": "Feature",
   "properties": {
-    "addr:full":"2275 Westwood Blvd Los Angeles CA 90064",
-    "addr:housenumber":"2275",
-    "addr:postcode":"90064",
-    "addr:street":"Westwood Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.431041,34.042569,-118.431041,34.042569",
-    "geom:latitude":34.042569,
-    "geom:longitude":-118.431041,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2275 Westwood Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "2275 Westwood Blvd Los Angeles CA 90064",
+    "addr:housenumber": "2275",
+    "addr:postcode": "90064",
+    "addr:street": "Westwood Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.431041,34.042569,-118.431041,34.042569",
+    "geom:latitude": 34.042569,
+    "geom:longitude": -118.431041,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mathnasium, 2275 Westwood Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.2961299419403076,
+    "sg:address": "2275 Westwood Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 475 2222",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "tutoring"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 475 2222",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "tutoring"
     ],
-    "sg:website":"www.Mathnasium.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85886327
+    "sg:website": "www.Mathnasium.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85886327
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000842837-0001-1",
-        "sg:id":"SG_5GppG0joNQvJacEsx0EiBo_34.042569_-118.431041@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000842837-0001-1",
+      "ovtr:id": "08f29a19837b59ac03a27bb773b74673",
+      "sg:id": "SG_5GppG0joNQvJacEsx0EiBo_34.042569_-118.431041@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2828192b017570342ccbc3edb6439899",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886327,
-            "region_id":85688637,
-            "venue_id":386978127
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "2828192b017570342ccbc3edb6439899",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886327,
+        "region_id": 85688637,
+        "venue_id": 386978127
+      }
     ],
-    "wof:id":386978127,
-    "wof:lastmodified":1509200926,
-    "wof:name":"Mathnasium",
-    "wof:parent_id":85886327,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tutoring"
+    "wof:id": 386978127,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Mathnasium",
+    "wof:parent_id": 85886327,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tutoring"
     ]
-},
+  },
   "bbox": [
     -118.431041,
     34.042569,
     -118.431041,
     34.042569
-],
-  "geometry": {"coordinates":[-118.43104099999999,34.042569],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.431041,34.042569],"type":"Point"}
 }

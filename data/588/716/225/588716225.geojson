@@ -2,80 +2,84 @@
   "id": 588716225,
   "type": "Feature",
   "properties": {
-    "addr:full":"11204 Midway Chico CA 95928",
-    "addr:housenumber":"11204",
-    "addr:postcode":"95928",
-    "addr:street":"Midway Chico",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.810669,39.71035,-121.810669,39.71035",
-    "geom:latitude":39.71035,
-    "geom:longitude":-121.810669,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11204 Midway",
-    "sg:city":"Chico",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Engineering",
-            "type":"Services"
-        }
+    "addr:full": "11204 Midway Chico CA 95928",
+    "addr:housenumber": "11204",
+    "addr:postcode": "95928",
+    "addr:street": "Midway Chico",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.810669,39.710350,-121.810669,39.710350",
+    "geom:latitude": 39.71035,
+    "geom:longitude": -121.810669,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Paul Component Engineering, 11204 Midway Chico CA US",
+    "ovtr:similarity": 3.4585819244384766,
+    "sg:address": "11204 Midway",
+    "sg:city": "Chico",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Engineering",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 345 4371",
-    "sg:postcode":"95928",
-    "sg:province":"CA",
-    "sg:tags":[
-        "consulting",
-        "engineer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 345 4371",
+    "sg:postcode": "95928",
+    "sg:province": "CA",
+    "sg:tags": [
+      "consulting",
+      "engineer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85851079,
-        85633793,
-        85923179,
-        102086941,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85851079,
+      85633793,
+      85923179,
+      102086941,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_28K99G3fFYN7hpf4zurWPg_39.710350_-121.810669@1303263401"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2814b4c91588d03c6b0949287114d",
+      "sg:id": "SG_28K99G3fFYN7hpf4zurWPg_39.710350_-121.810669@1303263401"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b32192a31ad1cb96a0649e4213330dab",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086941,
-            "locality_id":85923179,
-            "neighbourhood_id":85851079,
-            "region_id":85688637,
-            "venue_id":588716225
-        }
+    "wof:country": "US",
+    "wof:created": 1723561695,
+    "wof:geomhash": "b32192a31ad1cb96a0649e4213330dab",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086941,
+        "locality_id": 85923179,
+        "neighbourhood_id": 85851079,
+        "region_id": 85688637,
+        "venue_id": 588716225
+      }
     ],
-    "wof:id":588716225,
-    "wof:lastmodified":1509202233,
-    "wof:name":"Component Paul Engineering",
-    "wof:parent_id":85851079,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "consulting",
-        "engineer"
+    "wof:id": 588716225,
+    "wof:lastmodified": 1723561695,
+    "wof:name": "Component Paul Engineering",
+    "wof:parent_id": 85851079,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "consulting",
+      "engineer"
     ]
-},
+  },
   "bbox": [
     -121.810669,
     39.71035,
     -121.810669,
     39.71035
-],
+  ],
   "geometry": {"coordinates":[-121.810669,39.71035],"type":"Point"}
 }

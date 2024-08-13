@@ -2,82 +2,86 @@
   "id": 555425753,
   "type": "Feature",
   "properties": {
-    "addr:full":"12004 W Pico Blvd Los Angeles CA 90064",
-    "addr:housenumber":"12004",
-    "addr:postcode":"90064",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.449722,34.029578,-118.449722,34.029578",
-    "geom:latitude":34.029578,
-    "geom:longitude":-118.449722,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12004 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Printing & Photocopies",
-            "type":"Services"
-        }
+    "addr:full": "12004 W Pico Blvd Los Angeles CA 90064",
+    "addr:housenumber": "12004",
+    "addr:postcode": "90064",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.449722,34.029578,-118.449722,34.029578",
+    "geom:latitude": 34.029578,
+    "geom:longitude": -118.449722,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "ABC Imaging, 12004 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.8027900457382202,
+    "sg:address": "12004 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Printing \u0026 Photocopies",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 966 1066",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "blueprinting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 966 1066",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "blueprinting"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1z3Eqm0iwf99P7Q6PkZYRo_34.029578_-118.449722@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198148aa6e03c3b691a1f02f23",
+      "sg:id": "SG_1z3Eqm0iwf99P7Q6PkZYRo_34.029578_-118.449722@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8e4d4469ed23fb4a693ad51f1504e3aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":555425753
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "8e4d4469ed23fb4a693ad51f1504e3aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 555425753
+      }
     ],
-    "wof:id":555425753,
-    "wof:lastmodified":1509201387,
-    "wof:name":"ABC Imaging",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "blueprinting"
+    "wof:id": 555425753,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "ABC Imaging",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "blueprinting"
     ]
-},
+  },
   "bbox": [
     -118.449722,
     34.029578,
     -118.449722,
     34.029578
-],
-  "geometry": {"coordinates":[-118.44972199999999,34.029578],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.449722,34.029578],"type":"Point"}
 }

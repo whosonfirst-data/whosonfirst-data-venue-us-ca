@@ -2,75 +2,79 @@
   "id": 572235059,
   "type": "Feature",
   "properties": {
-    "addr:full":"28941 Canwood St Agoura Hills CA 91301",
-    "addr:housenumber":"28941",
-    "addr:postcode":"91301",
-    "addr:street":"Canwood St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.756191,34.145799,-118.756191,34.145799",
-    "geom:latitude":34.145799,
-    "geom:longitude":-118.756191,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"28941 Canwood St",
-    "sg:city":"Agoura Hills",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "28941 Canwood St Agoura Hills CA 91301",
+    "addr:housenumber": "28941",
+    "addr:postcode": "91301",
+    "addr:street": "Canwood St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.756191,34.145799,-118.756191,34.145799",
+    "geom:latitude": 34.145799,
+    "geom:longitude": -118.756191,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 28941 Canwood St Agoura Hills CA US",
+    "ovtr:similarity": 2.8731579780578613,
+    "sg:address": "28941 Canwood St",
+    "sg:city": "Agoura Hills",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"91301",
-    "sg:province":"CA",
-    "sg:website":"www.traderjoes.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923753,
-        102086957,
-        85832015
+    "sg:owner": "simplegeo",
+    "sg:postcode": "91301",
+    "sg:province": "CA",
+    "sg:website": "www.traderjoes.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923753,
+      102086957,
+      85832015
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":301796726,
-        "sg:id":"SG_12MS5JVrzOAGe9zoIhy9mp_34.145799_-118.756191@1303263209"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 301796726,
+      "ovtr:id": "08f29a18468aa62a034da9f2b352998f",
+      "sg:id": "SG_12MS5JVrzOAGe9zoIhy9mp_34.145799_-118.756191@1303263209"
     },
-    "wof:country":"US",
-    "wof:geomhash":"473574dc8aa2bfc041ac4952452b9ac0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923753,
-            "neighbourhood_id":85832015,
-            "region_id":85688637,
-            "venue_id":572235059
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "473574dc8aa2bfc041ac4952452b9ac0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923753,
+        "neighbourhood_id": 85832015,
+        "region_id": 85688637,
+        "venue_id": 572235059
+      }
     ],
-    "wof:id":572235059,
-    "wof:lastmodified":1510941601,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":85832015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572235059,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 85832015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.756191,
     34.145799,
     -118.756191,
     34.145799
-],
+  ],
   "geometry": {"coordinates":[-118.756191,34.145799],"type":"Point"}
 }

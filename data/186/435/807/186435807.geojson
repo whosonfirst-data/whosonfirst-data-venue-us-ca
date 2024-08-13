@@ -2,75 +2,79 @@
   "id": 186435807,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 S Mountain Ave Ontario CA 91762",
-    "addr:housenumber":"801",
-    "addr:postcode":"91762",
-    "addr:street":"S Mountain Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.669844,34.054223,-117.669844,34.054223",
-    "geom:latitude":34.054223,
-    "geom:longitude":-117.669844,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"801 S Mountain Ave",
-    "sg:city":"Ontario",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "801 S Mountain Ave Ontario CA 91762",
+    "addr:housenumber": "801",
+    "addr:postcode": "91762",
+    "addr:street": "S Mountain Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.669844,34.054223,-117.669844,34.054223",
+    "geom:latitude": 34.054223,
+    "geom:longitude": -117.669844,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 801 S Mountain Ave Ontario CA US",
+    "ovtr:similarity": 3.0286080837249756,
+    "sg:address": "801 S Mountain Ave",
+    "sg:city": "Ontario",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 986 3119",
-    "sg:postcode":"91762",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923933,
-        102085395,
-        85836297
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 986 3119",
+    "sg:postcode": "91762",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923933,
+      102085395,
+      85836297
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71rSpDCVt4G3eElXqvxYpG_34.054223_-117.669844@1294081369"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ad286a2500375547cb9a275d6",
+      "sg:id": "SG_71rSpDCVt4G3eElXqvxYpG_34.054223_-117.669844@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"08390af5089f2481dbd32e4cc6e2454c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923933,
-            "neighbourhood_id":85836297,
-            "region_id":85688637,
-            "venue_id":186435807
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "08390af5089f2481dbd32e4cc6e2454c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923933,
+        "neighbourhood_id": 85836297,
+        "region_id": 85688637,
+        "venue_id": 186435807
+      }
     ],
-    "wof:id":186435807,
-    "wof:lastmodified":1511321762,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85836297,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 186435807,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85836297,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.669844,
     34.054223,
     -117.669844,
     34.054223
-],
+  ],
   "geometry": {"coordinates":[-117.669844,34.054223],"type":"Point"}
 }

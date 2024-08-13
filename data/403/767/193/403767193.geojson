@@ -2,79 +2,83 @@
   "id": 403767193,
   "type": "Feature",
   "properties": {
-    "addr:full":"9231 Telegraph Road Pico Rivera CA 90660",
-    "addr:housenumber":"9231",
-    "addr:postcode":"90660",
-    "addr:street":"Telegraph Road",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.105304,33.958135,-118.105304,33.958135",
-    "geom:latitude":33.958135,
-    "geom:longitude":-118.105304,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9231 Telegraph Road",
-    "sg:city":"Pico Rivera",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "9231 Telegraph Road Pico Rivera CA 90660",
+    "addr:housenumber": "9231",
+    "addr:postcode": "90660",
+    "addr:street": "Telegraph Road",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.105304,33.958135,-118.105304,33.958135",
+    "geom:latitude": 33.958135,
+    "geom:longitude": -118.105304,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "City Line Pet Clinic, 9231 Telegraph Rd Pico Rivera CA US",
+    "ovtr:similarity": 2.0829389095306396,
+    "sg:address": "9231 Telegraph Road",
+    "sg:city": "Pico Rivera",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 801 9231",
-    "sg:postcode":"90660",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 801 9231",
+    "sg:postcode": "90660",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923637,
-        102086957,
-        85815103
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923637,
+      102086957,
+      85815103
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ltD3aTpQzLi7cpYqfKRPS_33.958135_-118.105304@1303263192"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d26ad269c0371a86629d6435a",
+      "sg:id": "SG_1ltD3aTpQzLi7cpYqfKRPS_33.958135_-118.105304@1303263192"
     },
-    "wof:country":"US",
-    "wof:geomhash":"61127be3a50e75c92a3a709eb085f068",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923637,
-            "neighbourhood_id":85815103,
-            "region_id":85688637,
-            "venue_id":403767193
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "61127be3a50e75c92a3a709eb085f068",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923637,
+        "neighbourhood_id": 85815103,
+        "region_id": 85688637,
+        "venue_id": 403767193
+      }
     ],
-    "wof:id":403767193,
-    "wof:lastmodified":1509201142,
-    "wof:name":"City Line Pet Clinic",
-    "wof:parent_id":85815103,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 403767193,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "City Line Pet Clinic",
+    "wof:parent_id": 85815103,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -118.105304,
     33.958135,
     -118.105304,
     33.958135
-],
+  ],
   "geometry": {"coordinates":[-118.105304,33.958135],"type":"Point"}
 }

@@ -2,93 +2,97 @@
   "id": 403967215,
   "type": "Feature",
   "properties": {
-    "addr:full":"1223 Blumenfeld Dr Sacramento CA 95815",
-    "addr:housenumber":"1223",
-    "addr:postcode":"95815",
-    "addr:street":"Blumenfeld Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.438228,38.605062,-121.438228,38.605062",
-    "geom:latitude":38.605062,
-    "geom:longitude":-121.438228,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1223 Blumenfeld Dr",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Non-durable Goods",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1223 Blumenfeld Dr Sacramento CA 95815",
+    "addr:housenumber": "1223",
+    "addr:postcode": "95815",
+    "addr:street": "Blumenfeld Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.438228,38.605062,-121.438228,38.605062",
+    "geom:latitude": 38.605062,
+    "geom:longitude": -121.438228,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Horseshoe Barn, 1223 Blumenfeld Dr Sacramento CA US",
+    "ovtr:similarity": 3.3019630908966064,
+    "sg:address": "1223 Blumenfeld Dr",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Non-durable Goods",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 925 6534",
-    "sg:postcode":"95815",
-    "sg:province":"CA",
-    "sg:tags":[
-        "blacksmith",
-        "shop",
-        "horseshoes",
-        "related",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 925 6534",
+    "sg:postcode": "95815",
+    "sg:province": "CA",
+    "sg:tags": [
+      "blacksmith",
+      "shop",
+      "horseshoes",
+      "related",
+      "supply"
     ],
-    "sg:website":"www.thehorseshoebarn.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922845,
-        102082889,
-        85872217
+    "sg:website": "www.thehorseshoebarn.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922845,
+      102082889,
+      85872217
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3mb8sQvBisqUY31KsW2XVc_38.605062_-121.438228@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b1369344d03305dae7985a19e",
+      "sg:id": "SG_3mb8sQvBisqUY31KsW2XVc_38.605062_-121.438228@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fc4f2152c4af8115260bcc7818640106",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872217,
-            "region_id":85688637,
-            "venue_id":403967215
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "fc4f2152c4af8115260bcc7818640106",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872217,
+        "region_id": 85688637,
+        "venue_id": 403967215
+      }
     ],
-    "wof:id":403967215,
-    "wof:lastmodified":1509201179,
-    "wof:name":"Horseshoe Barn The",
-    "wof:parent_id":85872217,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "blacksmith",
-        "shop",
-        "horseshoes",
-        "related",
-        "supply"
+    "wof:id": 403967215,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Horseshoe Barn The",
+    "wof:parent_id": 85872217,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "blacksmith",
+      "shop",
+      "horseshoes",
+      "related",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -121.438228,
     38.605062,
     -121.438228,
     38.605062
-],
+  ],
   "geometry": {"coordinates":[-121.438228,38.605062],"type":"Point"}
 }

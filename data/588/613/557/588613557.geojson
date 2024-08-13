@@ -2,76 +2,80 @@
   "id": 588613557,
   "type": "Feature",
   "properties": {
-    "addr:full":"4315 E Main St Stockton CA 95215",
-    "addr:housenumber":"4315",
-    "addr:postcode":"95215",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.232155,37.954476,-121.232155,37.954476",
-    "geom:latitude":37.954476,
-    "geom:longitude":-121.232155,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4315 E Main St",
-    "sg:city":"Stockton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4315 E Main St Stockton CA 95215",
+    "addr:housenumber": "4315",
+    "addr:postcode": "95215",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.232155,37.954476,-121.232155,37.954476",
+    "geom:latitude": 37.954476,
+    "geom:longitude": -121.232155,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Forlando's Food \u0026 Liquor, 4315 E Main St Stockton CA US",
+    "ovtr:similarity": 1.9609270095825195,
+    "sg:address": "4315 E Main St",
+    "sg:city": "Stockton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 463 3696",
-    "sg:postcode":"95215",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102085393,
-        85633793,
-        85688637,
-        85895905
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 463 3696",
+    "sg:postcode": "95215",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102085393,
+      85633793,
+      85688637,
+      85895905
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6tsRB0fYH5fEnJP3DJBgKa_37.954476_-121.232155@1303263374"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28363abb75b51039d2926f0e01d84",
+      "sg:id": "SG_6tsRB0fYH5fEnJP3DJBgKa_37.954476_-121.232155@1303263374"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b6d3e5e670696d8433be01f3eda1b8ba",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085393,
-            "neighbourhood_id":85895905,
-            "region_id":85688637,
-            "venue_id":588613557
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "b6d3e5e670696d8433be01f3eda1b8ba",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "neighbourhood_id": 85895905,
+        "region_id": 85688637,
+        "venue_id": 588613557
+      }
     ],
-    "wof:id":588613557,
-    "wof:lastmodified":1509202170,
-    "wof:name":"Forlando's Food & Liquor",
-    "wof:parent_id":85895905,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588613557,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Forlando's Food \u0026 Liquor",
+    "wof:parent_id": 85895905,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.232155,
     37.954476,
     -121.232155,
     37.954476
-],
-  "geometry": {"coordinates":[-121.23215500000001,37.954476],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.232155,37.954476],"type":"Point"}
 }

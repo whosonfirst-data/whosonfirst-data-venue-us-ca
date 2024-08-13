@@ -2,81 +2,85 @@
   "id": 386982851,
   "type": "Feature",
   "properties": {
-    "addr:full":"11755 W Olympic Blvd Los Angeles CA 90064",
-    "addr:housenumber":"11755",
-    "addr:postcode":"90064",
-    "addr:street":"W Olympic Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.449076,34.033576,-118.449076,34.033576",
-    "geom:latitude":34.033576,
-    "geom:longitude":-118.449076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"11755 W Olympic Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11755 W Olympic Blvd Los Angeles CA 90064",
+    "addr:housenumber": "11755",
+    "addr:postcode": "90064",
+    "addr:street": "W Olympic Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.449076,34.033576,-118.449076,34.033576",
+    "geom:latitude": 34.033576,
+    "geom:longitude": -118.449076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 11755 W Olympic Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.667283058166504,
+    "sg:address": "11755 W Olympic Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 477 5949",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 477 5949",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000554496-0017-6",
-        "osm:node":4015581473,
-        "sg:id":"SG_6UgqciKcAvD2HbBtenxLLi_34.033576_-118.449076@1303263166"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000554496-0017-6",
+      "osm:node": 4015581473,
+      "ovtr:id": "08f29a1983a25432037a5d849805d412",
+      "sg:id": "SG_6UgqciKcAvD2HbBtenxLLi_34.033576_-118.449076@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"98ce38d0134a806508fc6309647a4cfd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":386982851
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "98ce38d0134a806508fc6309647a4cfd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 386982851
+      }
     ],
-    "wof:id":386982851,
-    "wof:lastmodified":1510943874,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 386982851,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.449076,
     34.033576,
     -118.449076,
     34.033576
-],
-  "geometry": {"coordinates":[-118.44907600000001,34.033576],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.449076,34.033576],"type":"Point"}
 }

@@ -2,79 +2,83 @@
   "id": 235965175,
   "type": "Feature",
   "properties": {
-    "addr:full":"5301 W Centinela Ave Los Angeles CA 90045",
-    "addr:housenumber":"5301",
-    "addr:postcode":"90045",
-    "addr:street":"W Centinela Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.372865,33.97726,-118.372865,33.97726",
-    "geom:latitude":33.97726,
-    "geom:longitude":-118.372865,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5301 W Centinela Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5301 W Centinela Ave Los Angeles CA 90045",
+    "addr:housenumber": "5301",
+    "addr:postcode": "90045",
+    "addr:street": "W Centinela Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.372865,33.977260,-118.372865,33.977260",
+    "geom:latitude": 33.97726,
+    "geom:longitude": -118.372865,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Starbucks, 5245 W Centinela Ave Los Angeles CA US",
+    "ovtr:similarity": 3.9601380825042725,
+    "sg:address": "5301 W Centinela Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 338 1297",
-    "sg:postcode":"90045",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 338 1297",
+    "sg:postcode": "90045",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85633793,
-        85688637
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85633793,
+      85688637
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4g6Ia4RfKrOAmRL4cePEnY_33.977260_-118.372865@1294081369"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19b2b83ae803ba2a8c011d81bc",
+      "sg:id": "SG_4g6Ia4RfKrOAmRL4cePEnY_33.977260_-118.372865@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"87684ef5c6ec9db89d15f9e25a2d71e6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "locality_id":-1,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":235965175
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "87684ef5c6ec9db89d15f9e25a2d71e6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "locality_id": -1,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 235965175
+      }
     ],
-    "wof:id":235965175,
-    "wof:lastmodified":1509200009,
-    "wof:name":"Starbucks",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 235965175,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Starbucks",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -118.372865,
     33.97726,
     -118.372865,
     33.97726
-],
+  ],
   "geometry": {"coordinates":[-118.372865,33.97726],"type":"Point"}
 }

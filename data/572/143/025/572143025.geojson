@@ -2,64 +2,72 @@
   "id": 572143025,
   "type": "Feature",
   "properties": {
-    "addr:full":"316 6th St Marysville CA 95901",
-    "addr:housenumber":"316",
-    "addr:postcode":"95901",
-    "addr:street":"6Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.588297,39.141499,-121.588297,39.141499",
-    "geom:latitude":39.141499,
-    "geom:longitude":-121.588297,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"316 6th St",
-    "sg:city":"Marysville",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "316 6th St Marysville CA 95901",
+    "addr:housenumber": "316",
+    "addr:postcode": "95901",
+    "addr:street": "6Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.588297,39.141499,-121.588297,39.141499",
+    "geom:latitude": 39.141499,
+    "geom:longitude": -121.588297,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Marysville Police Department, 316 6th St Marysville CA US",
+    "ovtr:similarity": 3.452584981918335,
+    "sg:address": "316 6th St",
+    "sg:city": "Marysville",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 741 6611",
-    "sg:postcode":"95901",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 741 6611",
+    "sg:postcode": "95901",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.cityofmarysville.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7d7S5O2D9saGbkwF4I3phY_39.141489_-121.587748@1293134755"
+    "sg:website": "www.cityofmarysville.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832263aee08a03963ba626c4013f",
+      "sg:id": "SG_7d7S5O2D9saGbkwF4I3phY_39.141489_-121.587748@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7a90989953604376c89b53adca707468",
-    "wof:hierarchy":[],
-    "wof:id":572143025,
-    "wof:lastmodified":1509201706,
-    "wof:name":"Marysville Police Department",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "7a90989953604376c89b53adca707468",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572143025
+      }
+    ],
+    "wof:id": 572143025,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Marysville Police Department",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -121.588297,
     39.141499,
     -121.588297,
     39.141499
-],
+  ],
   "geometry": {"coordinates":[-121.588297,39.141499],"type":"Point"}
 }

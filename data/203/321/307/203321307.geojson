@@ -2,86 +2,90 @@
   "id": 203321307,
   "type": "Feature",
   "properties": {
-    "addr:full":"4230 S Figueroa St Los Angeles CA 90037",
-    "addr:housenumber":"4230",
-    "addr:postcode":"90037",
-    "addr:street":"S Figueroa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.282639,34.006493,-118.282639,34.006493",
-    "geom:latitude":34.006493,
-    "geom:longitude":-118.282639,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4230 S Figueroa St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "4230 S Figueroa St Los Angeles CA 90037",
+    "addr:housenumber": "4230",
+    "addr:postcode": "90037",
+    "addr:street": "S Figueroa St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.282639,34.006493,-118.282639,34.006493",
+    "geom:latitude": 34.006493,
+    "geom:longitude": -118.282639,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Maternity Center of Vermont, 4230 S Figueroa St Los Angeles CA US",
+    "ovtr:similarity": 1.8580689430236816,
+    "sg:address": "4230 S Figueroa St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 731 2229",
-    "sg:postcode":"90037",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "clinic",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 731 2229",
+    "sg:postcode": "90037",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "clinic",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85869759",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4Z8oGweMZb597pv6AD8W5K_34.006493_-118.282639@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d9a654c50320fd14b12951a3",
+      "sg:id": "SG_4Z8oGweMZb597pv6AD8W5K_34.006493_-118.282639@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"613c61ee13de5bb7172949fe2eaa75e1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85869759",
-            "region_id":85688637,
-            "venue_id":203321307
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "613c61ee13de5bb7172949fe2eaa75e1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85869759,
+        "region_id": 85688637,
+        "venue_id": 203321307
+      }
     ],
-    "wof:id":203321307,
-    "wof:lastmodified":1509199933,
-    "wof:name":"Maternity Center Of Vermont",
-    "wof:parent_id":"85869759",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "clinic",
-        "surgeon"
+    "wof:id": 203321307,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Maternity Center Of Vermont",
+    "wof:parent_id": "85869759",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "clinic",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -118.282639,
     34.006493,
     -118.282639,
     34.006493
-],
+  ],
   "geometry": {"coordinates":[-118.282639,34.006493],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 387573781,
   "type": "Feature",
   "properties": {
-    "addr:full":"5901 Atlantic Blvd Maywood CA 90270",
-    "addr:housenumber":"5901",
-    "addr:postcode":"90270",
-    "addr:street":"Atlantic Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.185986,33.986866,-118.185986,33.986866",
-    "geom:latitude":33.986866,
-    "geom:longitude":-118.185986,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5901 Atlantic Blvd",
-    "sg:city":"Maywood",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5901 Atlantic Blvd Maywood CA 90270",
+    "addr:housenumber": "5901",
+    "addr:postcode": "90270",
+    "addr:street": "Atlantic Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.185986,33.986866,-118.185986,33.986866",
+    "geom:latitude": 33.986866,
+    "geom:longitude": -118.185986,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 5901 Atlantic Blvd Maywood CA US",
+    "ovtr:similarity": 3.052445888519287,
+    "sg:address": "5901 Atlantic Blvd",
+    "sg:city": "Maywood",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 560 2300",
-    "sg:postcode":"90270",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 560 2300",
+    "sg:postcode": "90270",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "sg:website":"www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923717,
-        102086957,
-        85854241
+    "sg:website": "www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923717,
+      102086957,
+      85854241
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2P3es0CraVVQGItILN49FO_33.986866_-118.185986@1303263181"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d36922f3033670d1c13e1a69",
+      "sg:id": "SG_2P3es0CraVVQGItILN49FO_33.986866_-118.185986@1303263181"
     },
-    "wof:country":"US",
-    "wof:geomhash":"38085bbd05fa3172dbc52558b933337e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923717,
-            "neighbourhood_id":85854241,
-            "region_id":85688637,
-            "venue_id":387573781
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "38085bbd05fa3172dbc52558b933337e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923717,
+        "neighbourhood_id": 85854241,
+        "region_id": 85688637,
+        "venue_id": 387573781
+      }
     ],
-    "wof:id":387573781,
-    "wof:lastmodified":1512142964,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85854241,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 387573781,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85854241,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -118.185986,
     33.986866,
     -118.185986,
     33.986866
-],
+  ],
   "geometry": {"coordinates":[-118.185986,33.986866],"type":"Point"}
 }

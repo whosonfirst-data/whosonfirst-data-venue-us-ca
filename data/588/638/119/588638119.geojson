@@ -2,86 +2,90 @@
   "id": 588638119,
   "type": "Feature",
   "properties": {
-    "addr:full":"905 4th St Eureka CA 95501",
-    "addr:housenumber":"905",
-    "addr:postcode":"95501",
-    "addr:street":"4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.161737,40.803374,-124.161737,40.803374",
-    "geom:latitude":40.803374,
-    "geom:longitude":-124.161737,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"905 4th St",
-    "sg:city":"Eureka",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "905 4th St Eureka CA 95501",
+    "addr:housenumber": "905",
+    "addr:postcode": "95501",
+    "addr:street": "4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.161737,40.803374,-124.161737,40.803374",
+    "geom:latitude": 40.803374,
+    "geom:longitude": -124.161737,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Courthouse Market, 905 4th St Eureka CA US",
+    "ovtr:similarity": 2.566735029220581,
+    "sg:address": "905 4th St",
+    "sg:city": "Eureka",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 442 2159",
-    "sg:postcode":"95501",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocers-specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 442 2159",
+    "sg:postcode": "95501",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocers-specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922749,
-        102087587,
-        85804957
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922749,
+      102087587,
+      85804957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":238219442,
-        "sg:id":"SG_4wfQRxFbpNetE3QyFOaJTo_40.803374_-124.161737@1303263380"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 238219442,
+      "ovtr:id": "08f2802aea4613950385e9aec77dfee3",
+      "sg:id": "SG_4wfQRxFbpNetE3QyFOaJTo_40.803374_-124.161737@1303263380"
     },
-    "wof:country":"US",
-    "wof:geomhash":"00167f74db7189bb515385eeadb36b68",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087587,
-            "locality_id":85922749,
-            "neighbourhood_id":85804957,
-            "region_id":85688637,
-            "venue_id":588638119
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "00167f74db7189bb515385eeadb36b68",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087587,
+        "locality_id": 85922749,
+        "neighbourhood_id": 85804957,
+        "region_id": 85688637,
+        "venue_id": 588638119
+      }
     ],
-    "wof:id":588638119,
-    "wof:lastmodified":1510941513,
-    "wof:name":"Courthouse Market",
-    "wof:parent_id":85804957,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocers-specialty"
+    "wof:id": 588638119,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Courthouse Market",
+    "wof:parent_id": 85804957,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocers-specialty"
     ]
-},
+  },
   "bbox": [
     -124.161737,
     40.803374,
     -124.161737,
     40.803374
-],
+  ],
   "geometry": {"coordinates":[-124.161737,40.803374],"type":"Point"}
 }

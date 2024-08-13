@@ -2,65 +2,73 @@
   "id": 571910447,
   "type": "Feature",
   "properties": {
-    "addr:full":"3735 State St Santa Barbara CA 93105",
-    "addr:housenumber":"3735",
-    "addr:postcode":"93105",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.745088,34.4405,-119.745088,34.4405",
-    "geom:latitude":34.4405,
-    "geom:longitude":-119.745088,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3735 State St",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "3735 State St Santa Barbara CA 93105",
+    "addr:housenumber": "3735",
+    "addr:postcode": "93105",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.745088,34.440500,-119.745088,34.440500",
+    "geom:latitude": 34.4405,
+    "geom:longitude": -119.745088,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Educated Car Wash, 3735 State St Santa Barbara CA US",
+    "ovtr:similarity": 1.8952980041503906,
+    "sg:address": "3735 State St",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 687 8800",
-    "sg:postcode":"93105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 687 8800",
+    "sg:postcode": "93105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5t4pEH7gBuccGn6zOkLnE8_34.440500_-119.745088@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ac91434d08503da8c134b81257f",
+      "sg:id": "SG_5t4pEH7gBuccGn6zOkLnE8_34.440500_-119.745088@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1c89cec3b66cc4929a0d600b9d3fdbe3",
-    "wof:hierarchy":[],
-    "wof:id":571910447,
-    "wof:lastmodified":1509201632,
-    "wof:name":"Educated Car Wash",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:country": "US",
+    "wof:created": 1723561667,
+    "wof:geomhash": "1c89cec3b66cc4929a0d600b9d3fdbe3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571910447
+      }
+    ],
+    "wof:id": 571910447,
+    "wof:lastmodified": 1723561667,
+    "wof:name": "Educated Car Wash",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -119.745088,
     34.4405,
     -119.745088,
     34.4405
-],
+  ],
   "geometry": {"coordinates":[-119.745088,34.4405],"type":"Point"}
 }

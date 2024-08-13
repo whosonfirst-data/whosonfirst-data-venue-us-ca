@@ -2,74 +2,78 @@
   "id": 370481943,
   "type": "Feature",
   "properties": {
-    "addr:full":"238 N Yosemite Ave Oakdale CA 95361",
-    "addr:housenumber":"238",
-    "addr:postcode":"95361",
-    "addr:street":"N Yosemite Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.848416,37.768479,-120.848416,37.768479",
-    "geom:latitude":37.768479,
-    "geom:longitude":-120.848416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"238 N Yosemite Ave",
-    "sg:city":"Oakdale",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "238 N Yosemite Ave Oakdale CA 95361",
+    "addr:housenumber": "238",
+    "addr:postcode": "95361",
+    "addr:street": "N Yosemite Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.848416,37.768479,-120.848416,37.768479",
+    "geom:latitude": 37.768479,
+    "geom:longitude": -120.848416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Oakdale Food \u0026 Liquor, 238 N Yosemite Ave Oakdale CA US",
+    "ovtr:similarity": 2.1369810104370117,
+    "sg:address": "238 N Yosemite Ave",
+    "sg:city": "Oakdale",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 847 0287",
-    "sg:postcode":"95361",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922777,
-        102083579,
-        85811207
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 847 0287",
+    "sg:postcode": "95361",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922777,
+      102083579,
+      85811207
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WSAXPXOvWaAvm7IiGBzRG_37.768479_-120.848416@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28360a1a0598803ac9ac660ee2cbe",
+      "sg:id": "SG_0WSAXPXOvWaAvm7IiGBzRG_37.768479_-120.848416@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c06e0a883479797d8603c035ebc34966",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85811207,
-            "region_id":85688637,
-            "venue_id":370481943
-        }
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "c06e0a883479797d8603c035ebc34966",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85811207,
+        "region_id": 85688637,
+        "venue_id": 370481943
+      }
     ],
-    "wof:id":370481943,
-    "wof:lastmodified":1509200748,
-    "wof:name":"Oakdale Food & Liquor",
-    "wof:parent_id":85811207,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370481943,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "Oakdale Food \u0026 Liquor",
+    "wof:parent_id": 85811207,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.848416,
     37.768479,
     -120.848416,
     37.768479
-],
+  ],
   "geometry": {"coordinates":[-120.848416,37.768479],"type":"Point"}
 }

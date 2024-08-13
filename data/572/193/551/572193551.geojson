@@ -2,83 +2,87 @@
   "id": 572193551,
   "type": "Feature",
   "properties": {
-    "addr:full":"4528 Las Positas Rd Livermore CA 94551",
-    "addr:housenumber":"4528",
-    "addr:postcode":"94551",
-    "addr:street":"Las Positas Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.742594,37.69966,-121.742594,37.69966",
-    "geom:latitude":37.69966,
-    "geom:longitude":-121.742594,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4528 Las Positas Rd",
-    "sg:city":"Livermore",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4528 Las Positas Rd Livermore CA 94551",
+    "addr:housenumber": "4528",
+    "addr:postcode": "94551",
+    "addr:street": "Las Positas Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.742594,37.699660,-121.742594,37.699660",
+    "geom:latitude": 37.69966,
+    "geom:longitude": -121.742594,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 4528 Las Positas Rd Livermore CA US",
+    "ovtr:similarity": 2.5519750118255615,
+    "sg:address": "4528 Las Positas Rd",
+    "sg:city": "Livermore",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/livermore-pleasanton/216469-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"94551",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/livermore-pleasanton/216469-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "94551",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921889,
-        102086959,
-        85852639
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921889,
+      102086959,
+      85852639
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_38XfZPxn4Ww7mdYKCIoxki_37.699660_-121.742594@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830d36540b2a03e87cc9090235ac",
+      "sg:id": "SG_38XfZPxn4Ww7mdYKCIoxki_37.699660_-121.742594@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a1e6878e1460c0c4f49e75105a1652e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921889,
-            "neighbourhood_id":85852639,
-            "region_id":85688637,
-            "venue_id":572193551
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "a1e6878e1460c0c4f49e75105a1652e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921889,
+        "neighbourhood_id": 85852639,
+        "region_id": 85688637,
+        "venue_id": 572193551
+      }
     ],
-    "wof:id":572193551,
-    "wof:lastmodified":1512142863,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85852639,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572193551,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85852639,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.742594,
     37.69966,
     -121.742594,
     37.69966
-],
+  ],
   "geometry": {"coordinates":[-121.742594,37.69966],"type":"Point"}
 }

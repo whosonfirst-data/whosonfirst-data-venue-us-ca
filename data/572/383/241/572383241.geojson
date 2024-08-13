@@ -2,87 +2,91 @@
   "id": 572383241,
   "type": "Feature",
   "properties": {
-    "addr:full":"6104 University Ave San Diego CA 92115",
-    "addr:housenumber":"6104",
-    "addr:postcode":"92115",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.064301,32.753265,-117.064301,32.753265",
-    "geom:latitude":32.753265,
-    "geom:longitude":-117.064301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6104 University Ave",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6104 University Ave San Diego CA 92115",
+    "addr:housenumber": "6104",
+    "addr:postcode": "92115",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.064301,32.753265,-117.064301,32.753265",
+    "geom:latitude": 32.753265,
+    "geom:longitude": -117.064301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 6104 University Ave San Diego CA US",
+    "ovtr:similarity": 2.806670904159546,
+    "sg:address": "6104 University Ave",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 286 2756",
-    "sg:postcode":"92115",
-    "sg:province":"CA",
-    "sg:website":"www.tacobell.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        1108802139,
-        85871177
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 286 2756",
+    "sg:postcode": "92115",
+    "sg:province": "CA",
+    "sg:website": "www.tacobell.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      1108802139,
+      85871177
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6HC5W0bY8XwYfqWI5g3txP_32.753265_-117.064301@1303263246"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a418072b8850334c2b5159f5765",
+      "sg:id": "SG_6HC5W0bY8XwYfqWI5g3txP_32.753265_-117.064301@1303263246"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2139e3bc7780cdd5af31b6bde5b6249c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":1108802139,
-            "region_id":85688637,
-            "venue_id":572383241
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85871177,
-            "region_id":85688637,
-            "venue_id":572383241
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "2139e3bc7780cdd5af31b6bde5b6249c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 1108802139,
+        "region_id": 85688637,
+        "venue_id": 572383241
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85871177,
+        "region_id": 85688637,
+        "venue_id": 572383241
+      }
     ],
-    "wof:id":572383241,
-    "wof:lastmodified":1511321240,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572383241,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.064301,
     32.753265,
     -117.064301,
     32.753265
-],
+  ],
   "geometry": {"coordinates":[-117.064301,32.753265],"type":"Point"}
 }

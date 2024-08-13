@@ -2,59 +2,67 @@
   "id": 588673277,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 Richards Blvd Sacramento CA 95814",
-    "addr:housenumber":"900",
-    "addr:postcode":"95814",
-    "addr:street":"Richards Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.489086,38.594743,-121.489086,38.594743",
-    "geom:latitude":38.594743,
-    "geom:longitude":-121.489086,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"900 Richards Blvd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Taxi",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "900 Richards Blvd Sacramento CA 95814",
+    "addr:housenumber": "900",
+    "addr:postcode": "95814",
+    "addr:street": "Richards Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.489086,38.594743,-121.489086,38.594743",
+    "geom:latitude": 38.594743,
+    "geom:longitude": -121.489086,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Yellow Cab Company of Sacramento, 900 Richards Blvd Sacramento CA US",
+    "ovtr:similarity": 2.5186150074005127,
+    "sg:address": "900 Richards Blvd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Taxi",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 444 2222",
-    "sg:postcode":"95814",
-    "sg:province":"CA",
-    "sg:website":"www.yellowcabsacramento.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2sac7Jpa2BnfQV4DWq035a_38.594743_-121.489086@1303263389"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 444 2222",
+    "sg:postcode": "95814",
+    "sg:province": "CA",
+    "sg:website": "www.yellowcabsacramento.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b1c4ec0ac0369b55e8a04fba8",
+      "sg:id": "SG_2sac7Jpa2BnfQV4DWq035a_38.594743_-121.489086@1303263389"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5e66878aa307d738cd3b29a9ecf7f589",
-    "wof:hierarchy":[],
-    "wof:id":588673277,
-    "wof:lastmodified":1509202206,
-    "wof:name":"Yellow Cab Company of Sacramento",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "5e66878aa307d738cd3b29a9ecf7f589",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588673277
+      }
+    ],
+    "wof:id": 588673277,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Yellow Cab Company of Sacramento",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.489086,
     38.594743,
     -121.489086,
     38.594743
-],
+  ],
   "geometry": {"coordinates":[-121.489086,38.594743],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 386958689,
   "type": "Feature",
   "properties": {
-    "addr:full":"11123 S Central Avenue Los Angeles CA 90059",
-    "addr:housenumber":"11123",
-    "addr:postcode":"90059",
-    "addr:street":"S Central Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.254085,33.934523,-118.254085,33.934523",
-    "geom:latitude":33.934523,
-    "geom:longitude":-118.254085,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"11123 S Central Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11123 S Central Avenue Los Angeles CA 90059",
+    "addr:housenumber": "11123",
+    "addr:postcode": "90059",
+    "addr:street": "S Central Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.254085,33.934523,-118.254085,33.934523",
+    "geom:latitude": 33.934523,
+    "geom:longitude": -118.254085,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rcc Poultry, 11123 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 2.0904340744018555,
+    "sg:address": "11123 S Central Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 564 2030",
-    "sg:postcode":"90059",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 564 2030",
+    "sg:postcode": "90059",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85854791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85854791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000549567-0001-1",
-        "sg:id":"SG_5x7jcbTgKy8axZbQty9GSR_33.934523_-118.254085@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000549567-0001-1",
+      "ovtr:id": "08f29a56c0c904ca03d1641c24886baa",
+      "sg:id": "SG_5x7jcbTgKy8axZbQty9GSR_33.934523_-118.254085@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bdf489074f59a2e5343ba41770d212c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85854791",
-            "region_id":85688637,
-            "venue_id":386958689
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "bdf489074f59a2e5343ba41770d212c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85854791,
+        "region_id": 85688637,
+        "venue_id": 386958689
+      }
     ],
-    "wof:id":386958689,
-    "wof:lastmodified":1509200922,
-    "wof:name":"Rcc Poultry",
-    "wof:parent_id":"85854791",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 386958689,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Rcc Poultry",
+    "wof:parent_id": "85854791",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -118.254085,
     33.934523,
     -118.254085,
     33.934523
-],
+  ],
   "geometry": {"coordinates":[-118.254085,33.934523],"type":"Point"}
 }

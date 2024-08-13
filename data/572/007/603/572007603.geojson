@@ -2,82 +2,86 @@
   "id": 572007603,
   "type": "Feature",
   "properties": {
-    "addr:full":"10822 Wilshire Blvd Los Angeles CA 90024",
-    "addr:housenumber":"10822",
-    "addr:postcode":"90024",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.442001,34.059502,-118.442001,34.059502",
-    "geom:latitude":34.059502,
-    "geom:longitude":-118.442001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"10822 Wilshire Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "10822 Wilshire Blvd Los Angeles CA 90024",
+    "addr:housenumber": "10822",
+    "addr:postcode": "90024",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.442001,34.059502,-118.442001,34.059502",
+    "geom:latitude": 34.059502,
+    "geom:longitude": -118.442001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Westwood Presbyterian Church, 10822 Wilshire Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.3816819190979004,
+    "sg:address": "10822 Wilshire Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 474 4535",
-    "sg:postcode":"90024",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 474 4535",
+    "sg:postcode": "90024",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "sg:website":"www.westwoodpres.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85857293
+    "sg:website": "www.westwoodpres.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85857293
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000578204-0001-3",
-        "sg:id":"SG_1O85qrZt0FJl0PVqfVCiGv_34.059263_-118.441897@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000578204-0001-3",
+      "ovtr:id": "08f29a199d153b1903841a28a44a8f9c",
+      "sg:id": "SG_1O85qrZt0FJl0PVqfVCiGv_34.059263_-118.441897@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a2605e6cea608d878298790f8d12ae19",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85857293,
-            "region_id":85688637,
-            "venue_id":572007603
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "a2605e6cea608d878298790f8d12ae19",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85857293,
+        "region_id": 85688637,
+        "venue_id": 572007603
+      }
     ],
-    "wof:id":572007603,
-    "wof:lastmodified":1509201663,
-    "wof:name":"Westwood Presbyterian Church",
-    "wof:parent_id":85857293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 572007603,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Westwood Presbyterian Church",
+    "wof:parent_id": 85857293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.442001,
     34.059502,
     -118.442001,
     34.059502
-],
+  ],
   "geometry": {"coordinates":[-118.442001,34.059502],"type":"Point"}
 }

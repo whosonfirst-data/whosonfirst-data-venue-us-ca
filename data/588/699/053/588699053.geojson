@@ -2,87 +2,91 @@
   "id": 588699053,
   "type": "Feature",
   "properties": {
-    "addr:full":"9106 Kiefer Blvd Sacramento CA 95826",
-    "addr:housenumber":"9106",
-    "addr:postcode":"95826",
-    "addr:street":"Kiefer Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.362,38.547199,-121.362,38.547199",
-    "geom:latitude":38.547199,
-    "geom:longitude":-121.362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9106 Kiefer Blvd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Wine & Distilled Alcoholic Beverages",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "9106 Kiefer Blvd Sacramento CA 95826",
+    "addr:housenumber": "9106",
+    "addr:postcode": "95826",
+    "addr:street": "Kiefer Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.362000,38.547199,-121.362000,38.547199",
+    "geom:latitude": 38.547199,
+    "geom:longitude": -121.362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rosemont Wine \u0026 Liquor, 9106 Kiefer Blvd Sacramento CA US",
+    "ovtr:similarity": 2.977415084838867,
+    "sg:address": "9106 Kiefer Blvd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Wine \u0026 Distilled Alcoholic Beverages",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 366 6068",
-    "sg:postcode":"95826",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "broker",
-        "spirit"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 366 6068",
+    "sg:postcode": "95826",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "broker",
+      "spirit"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85887173,
-        85633793,
-        85926893,
-        102082889,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85887173,
+      85633793,
+      85926893,
+      102082889,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4GNzU7Ur68L3TXFEeUgDQj_38.547199_-121.362000@1303263396"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283284a4e5d6e039e82ff1fba4227",
+      "sg:id": "SG_4GNzU7Ur68L3TXFEeUgDQj_38.547199_-121.362000@1303263396"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bb803c1c30ac623a174ffe18e5be95a4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926893,
-            "neighbourhood_id":85887173,
-            "region_id":85688637,
-            "venue_id":588699053
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "bb803c1c30ac623a174ffe18e5be95a4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926893,
+        "neighbourhood_id": 85887173,
+        "region_id": 85688637,
+        "venue_id": 588699053
+      }
     ],
-    "wof:id":588699053,
-    "wof:lastmodified":1509202222,
-    "wof:name":"Rosemont Wines & Liquors",
-    "wof:parent_id":85887173,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "broker",
-        "spirit"
+    "wof:id": 588699053,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Rosemont Wines \u0026 Liquors",
+    "wof:parent_id": 85887173,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "broker",
+      "spirit"
     ]
-},
+  },
   "bbox": [
     -121.362,
     38.547199,
     -121.362,
     38.547199
-],
-  "geometry": {"coordinates":[-121.36199999999999,38.547199],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.362,38.547199],"type":"Point"}
 }

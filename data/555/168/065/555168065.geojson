@@ -2,83 +2,87 @@
   "id": 555168065,
   "type": "Feature",
   "properties": {
-    "addr:full":"4520 Sepulveda Blvd Sherman Oaks CA 91403",
-    "addr:housenumber":"4520",
-    "addr:postcode":"91403",
-    "addr:street":"Sepulveda Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.466586,34.15216,-118.466586,34.15216",
-    "geom:latitude":34.15216,
-    "geom:longitude":-118.466586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4520 Sepulveda Blvd",
-    "sg:city":"Sherman Oaks",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4520 Sepulveda Blvd Sherman Oaks CA 91403",
+    "addr:housenumber": "4520",
+    "addr:postcode": "91403",
+    "addr:street": "Sepulveda Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.466586,34.152160,-118.466586,34.152160",
+    "geom:latitude": 34.15216,
+    "geom:longitude": -118.466586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Whole Foods Market, 4520 Sepulveda Blvd Sherman Oaks CA US",
+    "ovtr:similarity": 2.400312900543213,
+    "sg:address": "4520 Sepulveda Blvd",
+    "sg:city": "Sherman Oaks",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 382 3700",
-    "sg:postcode":"91403",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 382 3700",
+    "sg:postcode": "91403",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.wholefoods.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85848285
+    "sg:website": "www.wholefoods.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85848285
     ],
-    "wof:brand_id":1125150113,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":432158888,
-        "sg:id":"SG_78DrzFoV4VCp1fqMdeWIEI_34.152160_-118.466586@1294081369"
+    "wof:brand_id": 1125150113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 432158888,
+      "ovtr:id": "08f29a1885914512038310d871a7145b",
+      "sg:id": "SG_78DrzFoV4VCp1fqMdeWIEI_34.152160_-118.466586@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e689ce48c9f8f6365d0ce6dff161f1ad",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85848285,
-            "region_id":85688637,
-            "venue_id":555168065
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "e689ce48c9f8f6365d0ce6dff161f1ad",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85848285,
+        "region_id": 85688637,
+        "venue_id": 555168065
+      }
     ],
-    "wof:id":555168065,
-    "wof:lastmodified":1510942729,
-    "wof:name":"Whole Foods Market",
-    "wof:parent_id":85848285,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 555168065,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Whole Foods Market",
+    "wof:parent_id": 85848285,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.466586,
     34.15216,
     -118.466586,
     34.15216
-],
-  "geometry": {"coordinates":[-118.46658600000001,34.15216],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.466586,34.15216],"type":"Point"}
 }

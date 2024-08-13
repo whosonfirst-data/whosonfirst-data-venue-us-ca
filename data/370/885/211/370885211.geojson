@@ -2,79 +2,83 @@
   "id": 370885211,
   "type": "Feature",
   "properties": {
-    "addr:full":"5465 Santa Monica Boulevard Los Angeles CA 90029",
-    "addr:housenumber":"5465",
-    "addr:postcode":"90029",
-    "addr:street":"Santa Monica Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308558,34.0908,-118.308558,34.0908",
-    "geom:latitude":34.0908,
-    "geom:longitude":-118.308558,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5465 Santa Monica Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Optician",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5465 Santa Monica Boulevard Los Angeles CA 90029",
+    "addr:housenumber": "5465",
+    "addr:postcode": "90029",
+    "addr:street": "Santa Monica Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308558,34.090800,-118.308558,34.090800",
+    "geom:latitude": 34.0908,
+    "geom:longitude": -118.308558,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Family's Optical, 5465 Santa Monica Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.75095796585083,
+    "sg:address": "5465 Santa Monica Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Optician",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 465 2774",
-    "sg:postcode":"90029",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eyewear"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 465 2774",
+    "sg:postcode": "90029",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eyewear"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85868377
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85868377
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1lPiK6rbSCMmJ0jd9QkU2x_34.090800_-118.308558@1303263157"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6ad858d80348e3d569805498",
+      "sg:id": "SG_1lPiK6rbSCMmJ0jd9QkU2x_34.090800_-118.308558@1303263157"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bb58392342aef0c017d5ddceec6d2f6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868377,
-            "region_id":85688637,
-            "venue_id":370885211
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "bb58392342aef0c017d5ddceec6d2f6b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868377,
+        "region_id": 85688637,
+        "venue_id": 370885211
+      }
     ],
-    "wof:id":370885211,
-    "wof:lastmodified":1509200841,
-    "wof:name":"The Family's Optical",
-    "wof:parent_id":85868377,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eyewear"
+    "wof:id": 370885211,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "The Family's Optical",
+    "wof:parent_id": 85868377,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eyewear"
     ]
-},
+  },
   "bbox": [
     -118.308558,
     34.0908,
     -118.308558,
     34.0908
-],
+  ],
   "geometry": {"coordinates":[-118.308558,34.0908],"type":"Point"}
 }

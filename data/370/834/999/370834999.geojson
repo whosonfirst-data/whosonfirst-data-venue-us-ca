@@ -2,74 +2,78 @@
   "id": 370834999,
   "type": "Feature",
   "properties": {
-    "addr:full":"1411 Echo Park Ave Ste 105 Los Angeles CA 90026",
-    "addr:housenumber":"1411",
-    "addr:postcode":"90026",
-    "addr:street":"Echo Park Ave Ste 105",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.256759,34.078233,-118.256759,34.078233",
-    "geom:latitude":34.078233,
-    "geom:longitude":-118.256759,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1411 Echo Park Ave Ste 105",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1411 Echo Park Ave Ste 105 Los Angeles CA 90026",
+    "addr:housenumber": "1411",
+    "addr:postcode": "90026",
+    "addr:street": "Echo Park Ave Ste 105",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.256759,34.078233,-118.256759,34.078233",
+    "geom:latitude": 34.078233,
+    "geom:longitude": -118.256759,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Echo Park Donut, 1411 Echo Park Ave Los Angeles CA US",
+    "ovtr:similarity": 3.478790044784546,
+    "sg:address": "1411 Echo Park Ave Ste 105",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 481 1489",
-    "sg:postcode":"90026",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865835
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 481 1489",
+    "sg:postcode": "90026",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865835
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4V2SSGJUhs9SbAdzvhhWkx_34.078233_-118.256759@1303263156"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d445aab4603cc6d9c7ecb2891",
+      "sg:id": "SG_4V2SSGJUhs9SbAdzvhhWkx_34.078233_-118.256759@1303263156"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c1f31ae7560afb56f629b5321c8c69fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865835,
-            "region_id":85688637,
-            "venue_id":370834999
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "c1f31ae7560afb56f629b5321c8c69fb",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865835,
+        "region_id": 85688637,
+        "venue_id": 370834999
+      }
     ],
-    "wof:id":370834999,
-    "wof:lastmodified":1509200830,
-    "wof:name":"Echo Park Donut",
-    "wof:parent_id":85865835,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370834999,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Echo Park Donut",
+    "wof:parent_id": 85865835,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.256759,
     34.078233,
     -118.256759,
     34.078233
-],
+  ],
   "geometry": {"coordinates":[-118.256759,34.078233],"type":"Point"}
 }

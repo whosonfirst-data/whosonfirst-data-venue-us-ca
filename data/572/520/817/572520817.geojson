@@ -2,84 +2,88 @@
   "id": 572520817,
   "type": "Feature",
   "properties": {
-    "addr:full":"1701 S Brookhurst St Anaheim CA 92804",
-    "addr:housenumber":"1701",
-    "addr:postcode":"92804",
-    "addr:street":"S Brookhurst St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.959,33.804901,-117.959,33.804901",
-    "geom:latitude":33.804901,
-    "geom:longitude":-117.959,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1701 S Brookhurst St",
-    "sg:city":"Anaheim",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1701 S Brookhurst St Anaheim CA 92804",
+    "addr:housenumber": "1701",
+    "addr:postcode": "92804",
+    "addr:street": "S Brookhurst St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.959000,33.804901,-117.959000,33.804901",
+    "geom:latitude": 33.804901,
+    "geom:longitude": -117.959,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "H \u0026 C Liquor, 1701 S Brookhurst St Anaheim CA US",
+    "ovtr:similarity": 2.0762240886688232,
+    "sg:address": "1701 S Brookhurst St",
+    "sg:city": "Anaheim",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 956 9740",
-    "sg:postcode":"92804",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 956 9740",
+    "sg:postcode": "92804",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923141,
-        102080847,
-        85877665
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923141,
+      102080847,
+      85877665
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_48v80H7r1PoqFI4ZDn4c0n_33.804901_-117.959000@1303263280"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b412406950306154e11d66131",
+      "sg:id": "SG_48v80H7r1PoqFI4ZDn4c0n_33.804901_-117.959000@1303263280"
     },
-    "wof:country":"US",
-    "wof:geomhash":"db7272bac84341ad9eaef8ab14fb6191",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923141,
-            "neighbourhood_id":85877665,
-            "region_id":85688637,
-            "venue_id":572520817
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "db7272bac84341ad9eaef8ab14fb6191",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923141,
+        "neighbourhood_id": 85877665,
+        "region_id": 85688637,
+        "venue_id": 572520817
+      }
     ],
-    "wof:id":572520817,
-    "wof:lastmodified":1509201943,
-    "wof:name":"H & C Liquor",
-    "wof:parent_id":85877665,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572520817,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "H \u0026 C Liquor",
+    "wof:parent_id": 85877665,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -117.959,
     33.804901,
     -117.959,
     33.804901
-],
+  ],
   "geometry": {"coordinates":[-117.959,33.804901],"type":"Point"}
 }

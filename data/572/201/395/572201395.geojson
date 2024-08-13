@@ -2,67 +2,75 @@
   "id": 572201395,
   "type": "Feature",
   "properties": {
-    "addr:full":"1011 Bridge St Colusa CA 95932",
-    "addr:housenumber":"1011",
-    "addr:postcode":"95932",
-    "addr:street":"Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.004018,39.205201,-122.004018,39.205201",
-    "geom:latitude":39.205201,
-    "geom:longitude":-122.004018,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1011 Bridge St",
-    "sg:city":"Colusa",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1011 Bridge St Colusa CA 95932",
+    "addr:housenumber": "1011",
+    "addr:postcode": "95932",
+    "addr:street": "Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.004018,39.205201,-122.004018,39.205201",
+    "geom:latitude": 39.205201,
+    "geom:longitude": -122.004018,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Burger King, 1011 Bridge St Colusa CA US",
+    "ovtr:similarity": 2.6168150901794434,
+    "sg:address": "1011 Bridge St",
+    "sg:city": "Colusa",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/east-colusa/172145-burger-king/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 458 8800",
-    "sg:postcode":"95932",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/east-colusa/172145-burger-king/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 458 8800",
+    "sg:postcode": "95932",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573801,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4G4cblzKpByuWT77LakLel_39.205201_-122.004018@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573801,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2833194c696d403b6b4bbb0f823da",
+      "sg:id": "SG_4G4cblzKpByuWT77LakLel_39.205201_-122.004018@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a6fa5553677c3db0adb2e0fa7f9fe2d2",
-    "wof:hierarchy":[],
-    "wof:id":572201395,
-    "wof:lastmodified":1510681357,
-    "wof:name":"Burger King",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "a6fa5553677c3db0adb2e0fa7f9fe2d2",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572201395
+      }
+    ],
+    "wof:id": 572201395,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Burger King",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.004018,
     39.205201,
     -122.004018,
     39.205201
-],
+  ],
   "geometry": {"coordinates":[-122.004018,39.205201],"type":"Point"}
 }

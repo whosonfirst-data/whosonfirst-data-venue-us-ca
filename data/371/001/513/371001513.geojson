@@ -2,85 +2,89 @@
   "id": 371001513,
   "type": "Feature",
   "properties": {
-    "addr:full":"916 N Citrus Ave Los Angeles CA 90038",
-    "addr:housenumber":"916",
-    "addr:postcode":"90038",
-    "addr:street":"N Citrus Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.339996,34.0882,-118.339996,34.0882",
-    "geom:latitude":34.0882,
-    "geom:longitude":-118.339996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"916 N Citrus Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "916 N Citrus Ave Los Angeles CA 90038",
+    "addr:housenumber": "916",
+    "addr:postcode": "90038",
+    "addr:street": "N Citrus Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.339996,34.088200,-118.339996,34.088200",
+    "geom:latitude": 34.0882,
+    "geom:longitude": -118.339996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bell Sound Studios, 916 N Citrus Ave Los Angeles CA US",
+    "ovtr:similarity": 2.41464900970459,
+    "sg:address": "916 N Citrus Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 461 3036",
-    "sg:postcode":"90038",
-    "sg:province":"CA",
-    "sg:tags":[
-        "recording",
-        "rehearsal",
-        "studio"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 461 3036",
+    "sg:postcode": "90038",
+    "sg:province": "CA",
+    "sg:tags": [
+      "recording",
+      "rehearsal",
+      "studio"
     ],
-    "sg:website":"www.bellsound.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869471
+    "sg:website": "www.bellsound.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869471
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000466034-0001-1",
-        "sg:id":"SG_0SPDzXNzxCfo9JruYqbcXZ_34.088200_-118.339996@1303263161"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000466034-0001-1",
+      "ovtr:id": "08f29a1d680a021c03f27d2a72847c05",
+      "sg:id": "SG_0SPDzXNzxCfo9JruYqbcXZ_34.088200_-118.339996@1303263161"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9f5c3790d3f3663d089111ec4326ffb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869471,
-            "region_id":85688637,
-            "venue_id":371001513
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "9f5c3790d3f3663d089111ec4326ffb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869471,
+        "region_id": 85688637,
+        "venue_id": 371001513
+      }
     ],
-    "wof:id":371001513,
-    "wof:lastmodified":1509200870,
-    "wof:name":"Bell Sound Studios",
-    "wof:parent_id":85869471,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "recording",
-        "rehearsal",
-        "studio"
+    "wof:id": 371001513,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Bell Sound Studios",
+    "wof:parent_id": 85869471,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "recording",
+      "rehearsal",
+      "studio"
     ]
-},
+  },
   "bbox": [
     -118.339996,
     34.0882,
     -118.339996,
     34.0882
-],
+  ],
   "geometry": {"coordinates":[-118.339996,34.0882],"type":"Point"}
 }

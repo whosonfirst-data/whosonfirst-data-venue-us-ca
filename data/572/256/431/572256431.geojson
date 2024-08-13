@@ -2,88 +2,92 @@
   "id": 572256431,
   "type": "Feature",
   "properties": {
-    "addr:full":"19170 Ventura Blvd Tarzana CA 91356",
-    "addr:housenumber":"19170",
-    "addr:postcode":"91356",
-    "addr:street":"Ventura Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.55101,34.172585,-118.55101,34.172585",
-    "geom:latitude":34.172585,
-    "geom:longitude":-118.55101,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"19170 Ventura Blvd",
-    "sg:city":"Tarzana",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Travel",
-            "subcategory":"Bed & Breakfast",
-            "type":"Entertainment"
-        }
+    "addr:full": "19170 Ventura Blvd Tarzana CA 91356",
+    "addr:housenumber": "19170",
+    "addr:postcode": "91356",
+    "addr:street": "Ventura Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.551010,34.172585,-118.551010,34.172585",
+    "geom:latitude": 34.172585,
+    "geom:longitude": -118.55101,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tarzana Inn, 19170 Ventura Blvd Tarzana CA US",
+    "ovtr:similarity": 3.2965810298919678,
+    "sg:address": "19170 Ventura Blvd",
+    "sg:city": "Tarzana",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Travel",
+        "subcategory": "Bed \u0026 Breakfast",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 345 9410",
-    "sg:postcode":"91356",
-    "sg:province":"CA",
-    "sg:tags":[
-        "inn",
-        "lodging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 345 9410",
+    "sg:postcode": "91356",
+    "sg:province": "CA",
+    "sg:tags": [
+      "inn",
+      "lodging"
     ],
-    "sg:website":"http://www.daysinn.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85851845
+    "sg:website": "http://www.daysinn.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85851845
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Jo7DehTB5uedFbBCjdg1I_34.172585_-118.551010@1303263215"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18a9a556450366fcd09c480347",
+      "sg:id": "SG_0Jo7DehTB5uedFbBCjdg1I_34.172585_-118.551010@1303263215"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b0c154f70e31d6ce882f694cf29e1faa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85851845,
-            "region_id":85688637,
-            "venue_id":572256431
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "b0c154f70e31d6ce882f694cf29e1faa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85851845,
+        "region_id": 85688637,
+        "venue_id": 572256431
+      }
     ],
-    "wof:id":572256431,
-    "wof:lastmodified":1509201766,
-    "wof:name":"Tarzana Inn",
-    "wof:parent_id":85851845,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "inn",
-        "lodging"
+    "wof:id": 572256431,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Tarzana Inn",
+    "wof:parent_id": 85851845,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "inn",
+      "lodging"
     ]
-},
+  },
   "bbox": [
     -118.55101,
     34.172585,
     -118.55101,
     34.172585
-],
-  "geometry": {"coordinates":[-118.55101000000001,34.172585],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.55101,34.172585],"type":"Point"}
 }

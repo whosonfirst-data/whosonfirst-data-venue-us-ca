@@ -2,65 +2,73 @@
   "id": 555503963,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Spring Grove Rd Hollister CA 95023",
-    "addr:housenumber":"500",
-    "addr:postcode":"hollister ca 95023",
-    "addr:street":"Spring Grove Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.356245,36.91521,-121.356245,36.91521",
-    "geom:latitude":36.91521,
-    "geom:longitude":-121.356245,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"500 Spring Grove Rd",
-    "sg:city":"Hollister",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "500 Spring Grove Rd Hollister CA 95023",
+    "addr:housenumber": "500",
+    "addr:postcode": "hollister ca 95023",
+    "addr:street": "Spring Grove Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.356245,36.915210,-121.356245,36.915210",
+    "geom:latitude": 36.91521,
+    "geom:longitude": -121.356245,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Spring Grove School, 500 Spring Grove Rd Hollister CA US",
+    "ovtr:similarity": 2.677786111831665,
+    "sg:address": "500 Spring Grove Rd",
+    "sg:city": "Hollister",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 637 3745",
-    "sg:postcode":"95023",
-    "sg:province":"CA",
-    "sg:tags":[
-        "school",
-        "district"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 637 3745",
+    "sg:postcode": "95023",
+    "sg:province": "CA",
+    "sg:tags": [
+      "school",
+      "district"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3NwcNmKr2f5Kw12TXkaoyE_36.915210_-121.356245@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a922954c142038fa48966d52ef9",
+      "sg:id": "SG_3NwcNmKr2f5Kw12TXkaoyE_36.915210_-121.356245@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4a99204d8903e74e7a08c3855439f201",
-    "wof:hierarchy":[],
-    "wof:id":555503963,
-    "wof:lastmodified":1509201413,
-    "wof:name":"Spring Grove School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "school",
-        "district"
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "4a99204d8903e74e7a08c3855439f201",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555503963
+      }
+    ],
+    "wof:id": 555503963,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Spring Grove School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "school",
+      "district"
     ]
-},
+  },
   "bbox": [
     -121.356245,
     36.91521,
     -121.356245,
     36.91521
-],
+  ],
   "geometry": {"coordinates":[-121.356245,36.91521],"type":"Point"}
 }

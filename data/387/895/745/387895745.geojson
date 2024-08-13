@@ -2,75 +2,79 @@
   "id": 387895745,
   "type": "Feature",
   "properties": {
-    "addr:full":"10010 Valley View St Buena Park CA 90620",
-    "addr:housenumber":"10010",
-    "addr:postcode":"90620",
-    "addr:street":"Valley View St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.028,33.816601,-118.028,33.816601",
-    "geom:latitude":33.816601,
-    "geom:longitude":-118.028,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10010 Valley View St",
-    "sg:city":"Buena Park",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10010 Valley View St Buena Park CA 90620",
+    "addr:housenumber": "10010",
+    "addr:postcode": "90620",
+    "addr:street": "Valley View St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.028000,33.816601,-118.028000,33.816601",
+    "geom:latitude": 33.816601,
+    "geom:longitude": -118.028,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 10010 Valley View St Buena Park CA US",
+    "ovtr:similarity": 2.4545769691467285,
+    "sg:address": "10010 Valley View St",
+    "sg:city": "Buena Park",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 816 1703",
-    "sg:postcode":"90620",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923159,
-        102080847,
-        85848475
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 816 1703",
+    "sg:postcode": "90620",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923159,
+      102080847,
+      85848475
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0KvtLoigD35lgaAQrdplfU_33.816601_-118.028000@1303263189"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56b62d4845034fadf073c630e4",
+      "sg:id": "SG_0KvtLoigD35lgaAQrdplfU_33.816601_-118.028000@1303263189"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5ce580bb22445403f02a6bcc4868cb8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923159,
-            "neighbourhood_id":85848475,
-            "region_id":85688637,
-            "venue_id":387895745
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "5ce580bb22445403f02a6bcc4868cb8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923159,
+        "neighbourhood_id": 85848475,
+        "region_id": 85688637,
+        "venue_id": 387895745
+      }
     ],
-    "wof:id":387895745,
-    "wof:lastmodified":1509201118,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85848475,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387895745,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85848475,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.028,
     33.816601,
     -118.028,
     33.816601
-],
-  "geometry": {"coordinates":[-118.02800000000001,33.816601],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.028,33.816601],"type":"Point"}
 }

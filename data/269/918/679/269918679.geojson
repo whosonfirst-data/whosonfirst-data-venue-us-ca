@@ -2,74 +2,78 @@
   "id": 269918679,
   "type": "Feature",
   "properties": {
-    "addr:full":"11000 Main St Lamont CA 93241",
-    "addr:housenumber":"11000",
-    "addr:postcode":"93241",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.914407,35.254909,-118.914407,35.254909",
-    "geom:latitude":35.254909,
-    "geom:longitude":-118.914407,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11000 Main St",
-    "sg:city":"Lamont",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11000 Main St Lamont CA 93241",
+    "addr:housenumber": "11000",
+    "addr:postcode": "93241",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.914407,35.254909,-118.914407,35.254909",
+    "geom:latitude": 35.254909,
+    "geom:longitude": -118.914407,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Root Beer King, 11000 Main St Lamont CA US",
+    "ovtr:similarity": 2.4664089679718018,
+    "sg:address": "11000 Main St",
+    "sg:city": "Lamont",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 845 1977",
-    "sg:postcode":"93241",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923311,
-        102081727,
-        85817603
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 845 1977",
+    "sg:postcode": "93241",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923311,
+      102081727,
+      85817603
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_08iRfQbG4pDz86g8rU7PQE_35.254909_-118.914407@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ac49e581c8203a2afe5cfa8ffaa",
+      "sg:id": "SG_08iRfQbG4pDz86g8rU7PQE_35.254909_-118.914407@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"237fa57a39bfb903548bc9efb18b22d0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923311,
-            "neighbourhood_id":85817603,
-            "region_id":85688637,
-            "venue_id":269918679
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "237fa57a39bfb903548bc9efb18b22d0",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923311,
+        "neighbourhood_id": 85817603,
+        "region_id": 85688637,
+        "venue_id": 269918679
+      }
     ],
-    "wof:id":269918679,
-    "wof:lastmodified":1509200192,
-    "wof:name":"Root Beer King",
-    "wof:parent_id":85817603,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 269918679,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Root Beer King",
+    "wof:parent_id": 85817603,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.914407,
     35.254909,
     -118.914407,
     35.254909
-],
+  ],
   "geometry": {"coordinates":[-118.914407,35.254909],"type":"Point"}
 }

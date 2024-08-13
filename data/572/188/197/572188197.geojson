@@ -2,86 +2,90 @@
   "id": 572188197,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 Main St Los Altos CA 94022",
-    "addr:housenumber":"301",
-    "addr:postcode":"94022",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.11672,37.378333,-122.11672,37.378333",
-    "geom:latitude":37.378333,
-    "geom:longitude":-122.11672,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"301 Main St",
-    "sg:city":"Los Altos",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "301 Main St Los Altos CA 94022",
+    "addr:housenumber": "301",
+    "addr:postcode": "94022",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.116720,37.378333,-122.116720,37.378333",
+    "geom:latitude": 37.378333,
+    "geom:longitude": -122.11672,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Le Boulanger, 301 Main St Los Altos CA US",
+    "ovtr:similarity": 2.2231180667877197,
+    "sg:address": "301 Main St",
+    "sg:city": "Los Altos",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-jose/232551-le-boulanger/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 949 3429",
-    "sg:postcode":"94022",
-    "sg:province":"CA",
-    "sg:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/san-jose/232551-le-boulanger/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 949 3429",
+    "sg:postcode": "94022",
+    "sg:province": "CA",
+    "sg:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922385,
-        102081673,
-        85886303
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922385,
+      102081673,
+      85886303
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":453951630,
-        "sg:id":"SG_2FuK7FN8DfxIuwKVpUkorH_37.378333_-122.116720@1299784598"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 453951630,
+      "ovtr:id": "08f2834771cd344303b212971d02b2ff",
+      "sg:id": "SG_2FuK7FN8DfxIuwKVpUkorH_37.378333_-122.116720@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"76f4219592256568fab9c02047597c39",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922385,
-            "neighbourhood_id":85886303,
-            "region_id":85688637,
-            "venue_id":572188197
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "76f4219592256568fab9c02047597c39",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922385,
+        "neighbourhood_id": 85886303,
+        "region_id": 85688637,
+        "venue_id": 572188197
+      }
     ],
-    "wof:id":572188197,
-    "wof:lastmodified":1510941476,
-    "wof:name":"Le Boulanger",
-    "wof:parent_id":85886303,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "wrap",
-        "american",
-        "sandwich"
+    "wof:id": 572188197,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Le Boulanger",
+    "wof:parent_id": 85886303,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "wrap",
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -122.11672,
     37.378333,
     -122.11672,
     37.378333
-],
+  ],
   "geometry": {"coordinates":[-122.11672,37.378333],"type":"Point"}
 }

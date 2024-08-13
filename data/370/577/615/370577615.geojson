@@ -2,93 +2,97 @@
   "id": 370577615,
   "type": "Feature",
   "properties": {
-    "addr:full":"529 S Central Ave Los Angeles CA 90013",
-    "addr:housenumber":"529",
-    "addr:postcode":"90013",
-    "addr:street":"S Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.239988,34.040766,-118.239988,34.040766",
-    "geom:latitude":34.040766,
-    "geom:longitude":-118.239988,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"529 S Central Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "529 S Central Ave Los Angeles CA 90013",
+    "addr:housenumber": "529",
+    "addr:postcode": "90013",
+    "addr:street": "S Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.239988,34.040766,-118.239988,34.040766",
+    "geom:latitude": 34.040766,
+    "geom:longitude": -118.239988,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Fisherman's Outlet, 529 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 2.222666025161743,
+    "sg:address": "529 S Central Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 627 7231",
-    "sg:postcode":"90013",
-    "sg:province":"CA",
-    "sg:tags":[
-        "seafood",
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 627 7231",
+    "sg:postcode": "90013",
+    "sg:province": "CA",
+    "sg:tags": [
+      "seafood",
+      "market"
     ],
-    "sg:website":"www.fishermansoutlet.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108691227,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.fishermansoutlet.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108691227,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000994864-0001-0",
-        "sg:id":"SG_5hiCoJnBKtqwXqsL9lOXlP_34.040766_-118.239988@1303263150"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000994864-0001-0",
+      "ovtr:id": "08f29a1d75c5b4d103a8f92d5e9eea19",
+      "sg:id": "SG_5hiCoJnBKtqwXqsL9lOXlP_34.040766_-118.239988@1303263150"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0d9eab140dc827c4a71f5e7523705d84",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1108691227,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370577615
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "0d9eab140dc827c4a71f5e7523705d84",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1108691227,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370577615
+      }
     ],
-    "wof:id":370577615,
-    "wof:lastmodified":1509200771,
-    "wof:name":"Fisherman's Outlet",
-    "wof:parent_id":1108691227,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "seafood",
-        "market"
+    "wof:id": 370577615,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Fisherman's Outlet",
+    "wof:parent_id": 1108691227,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "seafood",
+      "market"
     ]
-},
+  },
   "bbox": [
     -118.239988,
     34.040766,
     -118.239988,
     34.040766
-],
+  ],
   "geometry": {"coordinates":[-118.239988,34.040766],"type":"Point"}
 }

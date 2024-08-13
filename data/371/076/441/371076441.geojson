@@ -2,86 +2,90 @@
   "id": 371076441,
   "type": "Feature",
   "properties": {
-    "addr:full":"8647 S Sepulveda Blvd Los Angeles CA 90045",
-    "addr:housenumber":"8647",
-    "addr:postcode":"90045",
-    "addr:street":"S Sepulveda Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.396318,33.958565,-118.396318,33.958565",
-    "geom:latitude":33.958565,
-    "geom:longitude":-118.396318,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8647 S Sepulveda Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8647 S Sepulveda Blvd Los Angeles CA 90045",
+    "addr:housenumber": "8647",
+    "addr:postcode": "90045",
+    "addr:street": "S Sepulveda Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.396318,33.958565,-118.396318,33.958565",
+    "geom:latitude": 33.958565,
+    "geom:longitude": -118.396318,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Panera Bread, 8647 S Sepulveda Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.523202896118164,
+    "sg:address": "8647 S Sepulveda Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 641 9200",
-    "sg:postcode":"90045",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 641 9200",
+    "sg:postcode": "90045",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.panera.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865483
+    "sg:website": "www.panera.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865483
     ],
-    "wof:brand_id":1125148711,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5uiNOoE87M1pVeEc5ERcXp_33.958565_-118.396318@1303263162"
+    "wof:brand_id": 1125148711,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19b096c76a035629bdf5c3c500",
+      "sg:id": "SG_5uiNOoE87M1pVeEc5ERcXp_33.958565_-118.396318@1303263162"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5bfe75be5c214a71f44d11d8c95f8720",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865483,
-            "region_id":85688637,
-            "venue_id":371076441
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "5bfe75be5c214a71f44d11d8c95f8720",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865483,
+        "region_id": 85688637,
+        "venue_id": 371076441
+      }
     ],
-    "wof:id":371076441,
-    "wof:lastmodified":1511320371,
-    "wof:name":"Panera Bread",
-    "wof:parent_id":85865483,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 371076441,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Panera Bread",
+    "wof:parent_id": 85865483,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.396318,
     33.958565,
     -118.396318,
     33.958565
-],
-  "geometry": {"coordinates":[-118.39631799999999,33.958565],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.396318,33.958565],"type":"Point"}
 }

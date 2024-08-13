@@ -2,66 +2,74 @@
   "id": 571689283,
   "type": "Feature",
   "properties": {
-    "addr:full":"820 G St Los Banos CA 93635",
-    "addr:housenumber":"820",
-    "addr:postcode":"93635",
-    "addr:street":"G St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.843331,37.061596,-120.843331,37.061596",
-    "geom:latitude":37.061596,
-    "geom:longitude":-120.843331,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"820 G St",
-    "sg:city":"Los Banos",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "820 G St Los Banos CA 93635",
+    "addr:housenumber": "820",
+    "addr:postcode": "93635",
+    "addr:street": "G St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.843331,37.061596,-120.843331,37.061596",
+    "geom:latitude": 37.061596,
+    "geom:longitude": -120.843331,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Greyhound Bus, 820 G St Los Banos CA US",
+    "ovtr:similarity": 3.898660898208618,
+    "sg:address": "820 G St",
+    "sg:city": "Los Banos",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 826 4992",
-    "sg:postcode":"93635",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 826 4992",
+    "sg:postcode": "93635",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574441,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35i7qYGChj2pTkKaLk39cl_37.061596_-120.843331@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574441,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a960daee25803055d6d3552f458",
+      "sg:id": "SG_35i7qYGChj2pTkKaLk39cl_37.061596_-120.843331@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"136500affa3d4248b7e5fbda994274fa",
-    "wof:hierarchy":[],
-    "wof:id":571689283,
-    "wof:lastmodified":1510604893,
-    "wof:name":"Greyhound Bus Lines",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:country": "US",
+    "wof:created": 1723561695,
+    "wof:geomhash": "136500affa3d4248b7e5fbda994274fa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571689283
+      }
+    ],
+    "wof:id": 571689283,
+    "wof:lastmodified": 1723561695,
+    "wof:name": "Greyhound Bus Lines",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -120.843331,
     37.061596,
     -120.843331,
     37.061596
-],
-  "geometry": {"coordinates":[-120.84333100000001,37.061596],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.843331,37.061596],"type":"Point"}
 }

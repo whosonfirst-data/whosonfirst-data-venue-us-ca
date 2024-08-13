@@ -2,80 +2,84 @@
   "id": 370617509,
   "type": "Feature",
   "properties": {
-    "addr:full":"103 E 7th St Los Angeles CA 90014",
-    "addr:housenumber":"103",
-    "addr:postcode":"90014",
-    "addr:street":"E 7Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.251278,34.043983,-118.251278,34.043983",
-    "geom:latitude":34.043983,
-    "geom:longitude":-118.251278,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"103 E 7th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "103 E 7th St Los Angeles CA 90014",
+    "addr:housenumber": "103",
+    "addr:postcode": "90014",
+    "addr:street": "E 7Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.251278,34.043983,-118.251278,34.043983",
+    "geom:latitude": 34.043983,
+    "geom:longitude": -118.251278,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Margarita's Place, 103 E 7th St Los Angeles CA US",
+    "ovtr:similarity": 2.39914608001709,
+    "sg:address": "103 E 7th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 622 2663",
-    "sg:postcode":"90014",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456427,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 622 2663",
+    "sg:postcode": "90014",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456427,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4098601256,
-        "sg:id":"SG_5Gf4caqQX5D2k6sIBtNSB1_34.043983_-118.251278@1303263151"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4098601256,
+      "ovtr:id": "08f29a1d75a83d040394159614dbc1ea",
+      "sg:id": "SG_5Gf4caqQX5D2k6sIBtNSB1_34.043983_-118.251278@1303263151"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2248737d0d43148bb3a52d1f1c7fd777",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456427,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370617509
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "2248737d0d43148bb3a52d1f1c7fd777",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456427,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370617509
+      }
     ],
-    "wof:id":370617509,
-    "wof:lastmodified":1510942249,
-    "wof:name":"Margarita's Place",
-    "wof:parent_id":1092456427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370617509,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Margarita's Place",
+    "wof:parent_id": 1092456427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.251278,
     34.043983,
     -118.251278,
     34.043983
-],
+  ],
   "geometry": {"coordinates":[-118.251278,34.043983],"type":"Point"}
 }

@@ -2,88 +2,92 @@
   "id": 588427575,
   "type": "Feature",
   "properties": {
-    "addr:full":"12 Airport Blvd San Mateo CA 94401",
-    "addr:housenumber":"12",
-    "addr:postcode":"94401",
-    "addr:street":"Airport Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.328003,37.585602,-122.328003,37.585602",
-    "geom:latitude":37.585602,
-    "geom:longitude":-122.328003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12 Airport Blvd",
-    "sg:city":"San Mateo",
-    "sg:classifiers":[
-        {
-            "category":"Animal Shelter",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12 Airport Blvd San Mateo CA 94401",
+    "addr:housenumber": "12",
+    "addr:postcode": "94401",
+    "addr:street": "Airport Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.328003,37.585602,-122.328003,37.585602",
+    "geom:latitude": 37.585602,
+    "geom:longitude": -122.328003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Peninsula Humane Society \u0026 SPCA, 12 Airport Blvd San Mateo CA US",
+    "ovtr:similarity": 3.559691905975342,
+    "sg:address": "12 Airport Blvd",
+    "sg:city": "San Mateo",
+    "sg:classifiers": [
+      {
+        "category": "Animal Shelter",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 340 7022",
-    "sg:postcode":"94401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "training",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 340 7022",
+    "sg:postcode": "94401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "training",
+      "store"
     ],
-    "sg:website":"www.peninsulahumanesociety.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922431,
-        102085387,
-        85887841
+    "sg:website": "www.peninsulahumanesociety.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922431,
+      102085387,
+      85887841
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5grzHOkAk4pc8WJRrwWCsh_37.585602_-122.328003@1303263325"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28309221a225c0327d5e13d62c2ac",
+      "sg:id": "SG_5grzHOkAk4pc8WJRrwWCsh_37.585602_-122.328003@1303263325"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fcd7c77d9fded7642d5563c07764e630",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922431,
-            "neighbourhood_id":85887841,
-            "region_id":85688637,
-            "venue_id":588427575
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "fcd7c77d9fded7642d5563c07764e630",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922431,
+        "neighbourhood_id": 85887841,
+        "region_id": 85688637,
+        "venue_id": 588427575
+      }
     ],
-    "wof:id":588427575,
-    "wof:lastmodified":1509202057,
-    "wof:name":"Peninsula Humane Society",
-    "wof:parent_id":85887841,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "training",
-        "store"
+    "wof:id": 588427575,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Peninsula Humane Society",
+    "wof:parent_id": 85887841,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "training",
+      "store"
     ]
-},
+  },
   "bbox": [
     -122.328003,
     37.585602,
     -122.328003,
     37.585602
-],
+  ],
   "geometry": {"coordinates":[-122.328003,37.585602],"type":"Point"}
 }

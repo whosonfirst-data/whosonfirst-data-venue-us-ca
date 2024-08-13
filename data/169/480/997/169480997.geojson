@@ -2,83 +2,87 @@
   "id": 169480997,
   "type": "Feature",
   "properties": {
-    "addr:city":"Lakeside",
-    "addr:full":"9906 Maine Ave Lakeside, Ca 92040",
-    "addr:house_number":"9906",
-    "addr:housenumber":"9906",
-    "addr:phone":"+1 619-561-1886",
-    "addr:postcode":"92040",
-    "addr:road":"Maine Ave",
-    "addr:state":"CA",
-    "addr:street":"Maine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.92174,32.859,-116.92174,32.859",
-    "geom:latitude":32.859,
-    "geom:longitude":-116.92174,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"9906 Maine Ave",
-    "sg:city":"Lakeside",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Lakeside",
+    "addr:full": "9906 Maine Ave Lakeside, Ca 92040",
+    "addr:house_number": "9906",
+    "addr:housenumber": "9906",
+    "addr:phone": "+1 619-561-1886",
+    "addr:postcode": "92040",
+    "addr:road": "Maine Ave",
+    "addr:state": "CA",
+    "addr:street": "Maine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.921740,32.859000,-116.921740,32.859000",
+    "geom:latitude": 32.859,
+    "geom:longitude": -116.92174,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lakeside Historical Society, 9906 Maine Ave Lakeside CA US",
+    "ovtr:similarity": 2.3486080169677734,
+    "sg:address": "9906 Maine Ave",
+    "sg:city": "Lakeside",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 561 1886",
-    "sg:postcode":"92040",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102531019,
-        102528287
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 561 1886",
+    "sg:postcode": "92040",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102531019,
+      102528287
     ],
-    "wof:belongsto":[
-        85818279,
-        85633793,
-        85925189,
-        102083569,
-        85688637
+    "wof:belongsto": [
+      85818279,
+      85633793,
+      85925189,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400602672,
-        "sg:id":"SG_5DauzfYOFBo0tlYlyeqJJc_32.859799_-116.921884@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "mudf:mid": 8400602672,
+      "ovtr:id": "08f29a454e99cb340306d59eef53edf9",
+      "sg:id": "SG_5DauzfYOFBo0tlYlyeqJJc_32.859799_-116.921884@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"778a64c02a5e7bddcb286e8660787e37",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925189,
-            "neighbourhood_id":85818279,
-            "region_id":85688637,
-            "venue_id":169480997
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "778a64c02a5e7bddcb286e8660787e37",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85925189,
+        "neighbourhood_id": 85818279,
+        "region_id": 85688637,
+        "venue_id": 169480997
+      }
     ],
-    "wof:id":169480997,
-    "wof:lastmodified":1533149824,
-    "wof:name":"Lakeside Historical Society",
-    "wof:parent_id":85818279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 169480997,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Lakeside Historical Society",
+    "wof:parent_id": 85818279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.92174,
     32.859,
     -116.92174,
     32.859
-],
+  ],
   "geometry": {"coordinates":[-116.92174,32.859],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 572183875,
   "type": "Feature",
   "properties": {
-    "addr:full":"1301 W Houston Ave Visalia CA 93291",
-    "addr:housenumber":"1301",
-    "addr:postcode":"93291",
-    "addr:street":"W Houston Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.305734,36.341803,-119.305734,36.341803",
-    "geom:latitude":36.341803,
-    "geom:longitude":-119.305734,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1301 W Houston Ave",
-    "sg:city":"Visalia",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1301 W Houston Ave Visalia CA 93291",
+    "addr:housenumber": "1301",
+    "addr:postcode": "93291",
+    "addr:street": "W Houston Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.305734,36.341803,-119.305734,36.341803",
+    "geom:latitude": 36.341803,
+    "geom:longitude": -119.305734,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 1301 E Houston Ave Visalia CA US",
+    "ovtr:similarity": 3.1267518997192383,
+    "sg:address": "1301 W Houston Ave",
+    "sg:city": "Visalia",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/visalia/150421-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 738 8080",
-    "sg:postcode":"93291",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/visalia/150421-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 738 8080",
+    "sg:postcode": "93291",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922461,
-        102082895,
-        85810901
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922461,
+      102082895,
+      85810901
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Wj7ptS0MP6r4oZ56sWd3G_36.341803_-119.305734@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a8453816116038a2fe2aa51e9c6",
+      "sg:id": "SG_5Wj7ptS0MP6r4oZ56sWd3G_36.341803_-119.305734@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"29a619c1780aa15e6bcd2fb806939530",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922461,
-            "neighbourhood_id":85810901,
-            "region_id":85688637,
-            "venue_id":572183875
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "29a619c1780aa15e6bcd2fb806939530",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922461,
+        "neighbourhood_id": 85810901,
+        "region_id": 85688637,
+        "venue_id": 572183875
+      }
     ],
-    "wof:id":572183875,
-    "wof:lastmodified":1511322197,
-    "wof:name":"Subway",
-    "wof:parent_id":85810901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572183875,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Subway",
+    "wof:parent_id": 85810901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -119.305734,
     36.341803,
     -119.305734,
     36.341803
-],
+  ],
   "geometry": {"coordinates":[-119.305734,36.341803],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 555375451,
   "type": "Feature",
   "properties": {
-    "addr:full":"5245 Central Ave Fremont CA 94536",
-    "addr:housenumber":"5245",
-    "addr:postcode":"94536",
-    "addr:street":"Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.016586,37.540381,-122.016586,37.540381",
-    "geom:latitude":37.540381,
-    "geom:longitude":-122.016586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5245 Central Ave",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "5245 Central Ave Fremont CA 94536",
+    "addr:housenumber": "5245",
+    "addr:postcode": "94536",
+    "addr:street": "Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.016586,37.540381,-122.016586,37.540381",
+    "geom:latitude": 37.540381,
+    "geom:longitude": -122.016586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Central Veterinary Hospital, 5245 Central Ave Fremont CA US",
+    "ovtr:similarity": 2.466470956802368,
+    "sg:address": "5245 Central Ave",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 797 4850",
-    "sg:postcode":"94536",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 797 4850",
+    "sg:postcode": "94536",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921885,
-        102086959,
-        85886569
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921885,
+      102086959,
+      85886569
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5pBfjjUtsC24IOb66lExTg_37.540381_-122.016586@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283460e2a1355036a1d3bec335bef",
+      "sg:id": "SG_5pBfjjUtsC24IOb66lExTg_37.540381_-122.016586@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8b6731092ed13b27d4292eaf0a52d5d1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921885,
-            "neighbourhood_id":85886569,
-            "region_id":85688637,
-            "venue_id":555375451
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "8b6731092ed13b27d4292eaf0a52d5d1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921885,
+        "neighbourhood_id": 85886569,
+        "region_id": 85688637,
+        "venue_id": 555375451
+      }
     ],
-    "wof:id":555375451,
-    "wof:lastmodified":1509201371,
-    "wof:name":"Central Veterinary Hospital",
-    "wof:parent_id":85886569,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital"
+    "wof:id": 555375451,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Central Veterinary Hospital",
+    "wof:parent_id": 85886569,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital"
     ]
-},
+  },
   "bbox": [
     -122.016586,
     37.540381,
     -122.016586,
     37.540381
-],
+  ],
   "geometry": {"coordinates":[-122.016586,37.540381],"type":"Point"}
 }

@@ -2,63 +2,71 @@
   "id": 572153727,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 N East St Woodland CA 95776",
-    "addr:housenumber":"600",
-    "addr:postcode":"95776",
-    "addr:street":"N East St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.765213,38.69606,-121.765213,38.69606",
-    "geom:latitude":38.69606,
-    "geom:longitude":-121.765213,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"600 N East St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "600 N East St Woodland CA 95776",
+    "addr:housenumber": "600",
+    "addr:postcode": "95776",
+    "addr:street": "N East St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.765213,38.696060,-121.765213,38.696060",
+    "geom:latitude": 38.69606,
+    "geom:longitude": -121.765213,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Valley Oaks Inn, 600 N East St Woodland CA US",
+    "ovtr:similarity": 3.538050889968872,
+    "sg:address": "600 N East St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 666 5511",
-    "sg:postcode":"95776",
-    "sg:province":"CA",
-    "sg:tags":[
-        "lodging"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 666 5511",
+    "sg:postcode": "95776",
+    "sg:province": "CA",
+    "sg:tags": [
+      "lodging"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7UkKosehQ2ieEMUuVoFEgi_38.696449_-121.765211@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28306964aa6e5038db3ef661bcf74",
+      "sg:id": "SG_7UkKosehQ2ieEMUuVoFEgi_38.696449_-121.765211@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1ae1a52501d810341329893d45fae69a",
-    "wof:hierarchy":[],
-    "wof:id":572153727,
-    "wof:lastmodified":1509201709,
-    "wof:name":"Valley Oaks Inn",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "lodging"
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "1ae1a52501d810341329893d45fae69a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572153727
+      }
+    ],
+    "wof:id": 572153727,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "Valley Oaks Inn",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "lodging"
     ]
-},
+  },
   "bbox": [
     -121.765213,
     38.69606,
     -121.765213,
     38.69606
-],
+  ],
   "geometry": {"coordinates":[-121.765213,38.69606],"type":"Point"}
 }

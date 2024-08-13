@@ -2,82 +2,86 @@
   "id": 286967935,
   "type": "Feature",
   "properties": {
-    "addr:full":"41 S O St Livermore CA 94550",
-    "addr:housenumber":"41",
-    "addr:postcode":"94550",
-    "addr:street":"S O St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.775112,37.680044,-121.775112,37.680044",
-    "geom:latitude":37.680044,
-    "geom:longitude":-121.775112,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"41 S O St",
-    "sg:city":"Livermore",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "41 S O St Livermore CA 94550",
+    "addr:housenumber": "41",
+    "addr:postcode": "94550",
+    "addr:street": "S O St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.775112,37.680044,-121.775112,37.680044",
+    "geom:latitude": 37.680044,
+    "geom:longitude": -121.775112,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Animal Hospital of Livermore, 41 S O St Livermore CA US",
+    "ovtr:similarity": 2.6178619861602783,
+    "sg:address": "41 S O St",
+    "sg:city": "Livermore",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 443 1030",
-    "sg:postcode":"94550",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 443 1030",
+    "sg:postcode": "94550",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921889,
-        102086959,
-        85852639
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921889,
+      102086959,
+      85852639
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nn0g3L5G9fQ6pm5s7jQsq_37.680044_-121.775112@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830d348f082303eaa4c209548fa2",
+      "sg:id": "SG_0nn0g3L5G9fQ6pm5s7jQsq_37.680044_-121.775112@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"34a5a995d0da286ea3abde7531a44b5f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921889,
-            "neighbourhood_id":85852639,
-            "region_id":85688637,
-            "venue_id":286967935
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "34a5a995d0da286ea3abde7531a44b5f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921889,
+        "neighbourhood_id": 85852639,
+        "region_id": 85688637,
+        "venue_id": 286967935
+      }
     ],
-    "wof:id":286967935,
-    "wof:lastmodified":1509200300,
-    "wof:name":"Animal Hospital Of Livermore",
-    "wof:parent_id":85852639,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 286967935,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Animal Hospital Of Livermore",
+    "wof:parent_id": 85852639,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -121.775112,
     37.680044,
     -121.775112,
     37.680044
-],
-  "geometry": {"coordinates":[-121.77511199999999,37.680044],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.775112,37.680044],"type":"Point"}
 }

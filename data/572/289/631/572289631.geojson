@@ -2,81 +2,89 @@
   "id": 572289631,
   "type": "Feature",
   "properties": {
-    "addr:full":"594 E Baseline Rd Claremont CA 91711",
-    "addr:housenumber":"594",
-    "addr:postcode":"91711",
-    "addr:street":"E Baseline Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.705441,34.121621,-117.705441,34.121621",
-    "geom:latitude":34.121621,
-    "geom:longitude":-117.705441,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"594 E Baseline Rd",
-    "sg:city":"Claremont",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "594 E Baseline Rd Claremont CA 91711",
+    "addr:housenumber": "594",
+    "addr:postcode": "91711",
+    "addr:street": "E Baseline Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.705441,34.121621,-117.705441,34.121621",
+    "geom:latitude": 34.121621,
+    "geom:longitude": -117.705441,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 594 E Baseline Rd Claremont CA US",
+    "ovtr:similarity": 2.551481008529663,
+    "sg:address": "594 E Baseline Rd",
+    "sg:city": "Claremont",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 621 4567",
-    "sg:postcode":"91711",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "american",
-        "sandwich",
-        "take"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 621 4567",
+    "sg:postcode": "91711",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "american",
+      "sandwich",
+      "take"
     ],
-    "sg:website":"http://www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4rjMZjd7vgZnenN8av8Ic9_34.121621_-117.705441@1303263223"
+    "sg:website": "http://www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0374d2b42a03113789467e46df",
+      "sg:id": "SG_4rjMZjd7vgZnenN8av8Ic9_34.121621_-117.705441@1303263223"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d82d641bd8518154f8d41434e157cde6",
-    "wof:hierarchy":[],
-    "wof:id":572289631,
-    "wof:lastmodified":1511322227,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "american",
-        "sandwich",
-        "take"
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "d82d641bd8518154f8d41434e157cde6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572289631
+      }
+    ],
+    "wof:id": 572289631,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "american",
+      "sandwich",
+      "take"
     ]
-},
+  },
   "bbox": [
     -117.705441,
     34.121621,
     -117.705441,
     34.121621
-],
-  "geometry": {"coordinates":[-117.70544099999999,34.121621],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.705441,34.121621],"type":"Point"}
 }

@@ -2,92 +2,96 @@
   "id": 572279849,
   "type": "Feature",
   "properties": {
-    "addr:full":"10600 Riverside Dr North Hollywood CA 91602",
-    "addr:housenumber":"10600",
-    "addr:postcode":"91602",
-    "addr:street":"Riverside Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.362,34.152302,-118.362,34.152302",
-    "geom:latitude":34.152302,
-    "geom:longitude":-118.362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10600 Riverside Dr",
-    "sg:city":"North Hollywood",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Tobacco",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10600 Riverside Dr North Hollywood CA 91602",
+    "addr:housenumber": "10600",
+    "addr:postcode": "91602",
+    "addr:street": "Riverside Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.362000,34.152302,-118.362000,34.152302",
+    "geom:latitude": 34.152302,
+    "geom:longitude": -118.362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vendome Wines \u0026 Spirits, 10600 Riverside Dr North Hollywood CA US",
+    "ovtr:similarity": 2.369513988494873,
+    "sg:address": "10600 Riverside Dr",
+    "sg:city": "North Hollywood",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Tobacco",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 766 9593",
-    "sg:postcode":"91602",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 766 9593",
+    "sg:postcode": "91602",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "sg:website":"www.vendometolucalake.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85852321
+    "sg:website": "www.vendometolucalake.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85852321
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1jetFGprqEo94BKsb2KqZp_34.152302_-118.362000@1303263220"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18b278828c03c4acf6982fbe5c",
+      "sg:id": "SG_1jetFGprqEo94BKsb2KqZp_34.152302_-118.362000@1303263220"
     },
-    "wof:country":"US",
-    "wof:geomhash":"036ca32edf5a92eb764805a9c314cd8d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85852321,
-            "region_id":85688637,
-            "venue_id":572279849
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "036ca32edf5a92eb764805a9c314cd8d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85852321,
+        "region_id": 85688637,
+        "venue_id": 572279849
+      }
     ],
-    "wof:id":572279849,
-    "wof:lastmodified":1509201784,
-    "wof:name":"Vendome Wines and Spirits",
-    "wof:parent_id":85852321,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572279849,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Vendome Wines and Spirits",
+    "wof:parent_id": 85852321,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.362,
     34.152302,
     -118.362,
     34.152302
-],
-  "geometry": {"coordinates":[-118.36199999999999,34.152302],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.362,34.152302],"type":"Point"}
 }

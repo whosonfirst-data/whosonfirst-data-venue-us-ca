@@ -2,88 +2,92 @@
   "id": 387817935,
   "type": "Feature",
   "properties": {
-    "addr:full":"23441 Madison St Torrance CA 90505",
-    "addr:housenumber":"23441",
-    "addr:postcode":"90505",
-    "addr:street":"Madison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.347607,33.812946,-118.347607,33.812946",
-    "geom:latitude":33.812946,
-    "geom:longitude":-118.347607,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"23441 Madison St",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Testing Lab",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "23441 Madison St Torrance CA 90505",
+    "addr:housenumber": "23441",
+    "addr:postcode": "90505",
+    "addr:street": "Madison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.347607,33.812946,-118.347607,33.812946",
+    "geom:latitude": 33.812946,
+    "geom:longitude": -118.347607,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Quest Diagnostics, 23441 Madison St Torrance CA US",
+    "ovtr:similarity": 1.9380990266799927,
+    "sg:address": "23441 Madison St",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Testing Lab",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 378 0642",
-    "sg:postcode":"90505",
-    "sg:province":"CA",
-    "sg:tags":[
-        "analytical",
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 378 0642",
+    "sg:postcode": "90505",
+    "sg:province": "CA",
+    "sg:tags": [
+      "analytical",
+      "laboratory"
     ],
-    "sg:website":"http://www.questdiagnostics.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923785,
-        102086957,
-        85881907
+    "sg:website": "http://www.questdiagnostics.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923785,
+      102086957,
+      85881907
     ],
-    "wof:brand_id":420574409,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ct2zac5AStham3O5dgHGU_33.812946_-118.347607@1303263187"
+    "wof:brand_id": 420574409,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a560d36c5aa0375a051c8cb009c",
+      "sg:id": "SG_2ct2zac5AStham3O5dgHGU_33.812946_-118.347607@1303263187"
     },
-    "wof:country":"US",
-    "wof:geomhash":"466325b2a8ad9a846eb0418f4e57541e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923785,
-            "neighbourhood_id":85881907,
-            "region_id":85688637,
-            "venue_id":387817935
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "466325b2a8ad9a846eb0418f4e57541e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85881907,
+        "region_id": 85688637,
+        "venue_id": 387817935
+      }
     ],
-    "wof:id":387817935,
-    "wof:lastmodified":1509201103,
-    "wof:name":"Quest Diagnostics",
-    "wof:parent_id":85881907,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "analytical",
-        "laboratory"
+    "wof:id": 387817935,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Quest Diagnostics",
+    "wof:parent_id": 85881907,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "analytical",
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -118.347607,
     33.812946,
     -118.347607,
     33.812946
-],
+  ],
   "geometry": {"coordinates":[-118.347607,33.812946],"type":"Point"}
 }

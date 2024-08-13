@@ -2,84 +2,88 @@
   "id": 571634403,
   "type": "Feature",
   "properties": {
-    "addr:full":"245 Collins Ave Colma CA 94014",
-    "addr:housenumber":"245",
-    "addr:postcode":"94014",
-    "addr:street":"Collins Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.456412,37.674664,-122.456412,37.674664",
-    "geom:latitude":37.674664,
-    "geom:longitude":-122.456412,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"245 Collins Ave",
-    "sg:city":"Colma",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "245 Collins Ave Colma CA 94014",
+    "addr:housenumber": "245",
+    "addr:postcode": "94014",
+    "addr:street": "Collins Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.456412,37.674664,-122.456412,37.674664",
+    "geom:latitude": 37.674664,
+    "geom:longitude": -122.456412,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 245 Collins Ave Colma CA US",
+    "ovtr:similarity": 2.3836510181427,
+    "sg:address": "245 Collins Ave",
+    "sg:city": "Colma",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 992 1000",
-    "sg:postcode":"94014",
-    "sg:province":"CA",
-    "sg:tags":[
-        "renting",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 992 1000",
+    "sg:postcode": "94014",
+    "sg:province": "CA",
+    "sg:tags": [
+      "renting",
+      "automobile"
     ],
-    "sg:website":"www.erac.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922529,
-        102085387,
-        85866011
+    "sg:website": "www.erac.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922529,
+      102085387,
+      85866011
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7IGol0N5ESNXyNdOcA9Rjq_37.674664_-122.456412@1294081369"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830973c6611403b6fe05fa755da1",
+      "sg:id": "SG_7IGol0N5ESNXyNdOcA9Rjq_37.674664_-122.456412@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d9d7fd368b9d87dea2284e0f39ce7be",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922529,
-            "neighbourhood_id":85866011,
-            "region_id":85688637,
-            "venue_id":571634403
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "3d9d7fd368b9d87dea2284e0f39ce7be",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922529,
+        "neighbourhood_id": 85866011,
+        "region_id": 85688637,
+        "venue_id": 571634403
+      }
     ],
-    "wof:id":571634403,
-    "wof:lastmodified":1511321718,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85866011,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "renting",
-        "automobile"
+    "wof:id": 571634403,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85866011,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "renting",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -122.456412,
     37.674664,
     -122.456412,
     37.674664
-],
+  ],
   "geometry": {"coordinates":[-122.456412,37.674664],"type":"Point"}
 }

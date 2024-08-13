@@ -2,84 +2,88 @@
   "id": 555096053,
   "type": "Feature",
   "properties": {
-    "addr:full":"4333 1st St Livermore CA 94550",
-    "addr:housenumber":"4333",
-    "addr:postcode":"94550",
-    "addr:street":"1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.747031,37.69462,-121.747031,37.69462",
-    "geom:latitude":37.69462,
-    "geom:longitude":-121.747031,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4333 1st St",
-    "sg:city":"Livermore",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4333 1st St Livermore CA 94550",
+    "addr:housenumber": "4333",
+    "addr:postcode": "94550",
+    "addr:street": "1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.747031,37.694620,-121.747031,37.694620",
+    "geom:latitude": 37.69462,
+    "geom:longitude": -121.747031,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Starbucks, 4495 1st St Livermore CA US",
+    "ovtr:similarity": 3.564640998840332,
+    "sg:address": "4333 1st St",
+    "sg:city": "Livermore",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 606 8691",
-    "sg:postcode":"94550",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 606 8691",
+    "sg:postcode": "94550",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921889,
-        102086959,
-        85852639
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921889,
+      102086959,
+      85852639
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0x87kz7t55rAn7BBrEirl1_37.694620_-121.747031@1294081369"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830d36cc8032038206d1ac114f3e",
+      "sg:id": "SG_0x87kz7t55rAn7BBrEirl1_37.694620_-121.747031@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5654eb3413e36b6e1c0b3b0bf8bb3d0b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921889,
-            "neighbourhood_id":85852639,
-            "region_id":85688637,
-            "venue_id":555096053
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "5654eb3413e36b6e1c0b3b0bf8bb3d0b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921889,
+        "neighbourhood_id": 85852639,
+        "region_id": 85688637,
+        "venue_id": 555096053
+      }
     ],
-    "wof:id":555096053,
-    "wof:lastmodified":1511321002,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85852639,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 555096053,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85852639,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -121.747031,
     37.69462,
     -121.747031,
     37.69462
-],
-  "geometry": {"coordinates":[-121.74703100000001,37.69462],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.747031,37.69462],"type":"Point"}
 }

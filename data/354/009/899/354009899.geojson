@@ -2,74 +2,78 @@
   "id": 354009899,
   "type": "Feature",
   "properties": {
-    "addr:full":"8360 Paradise Valley Rd Spring Valley CA 91977",
-    "addr:housenumber":"8360",
-    "addr:postcode":"91977",
-    "addr:street":"Paradise Valley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.012913,32.70245,-117.012913,32.70245",
-    "geom:latitude":32.70245,
-    "geom:longitude":-117.012913,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8360 Paradise Valley Rd",
-    "sg:city":"Spring Valley",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8360 Paradise Valley Rd Spring Valley CA 91977",
+    "addr:housenumber": "8360",
+    "addr:postcode": "91977",
+    "addr:street": "Paradise Valley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.012913,32.702450,-117.012913,32.702450",
+    "geom:latitude": 32.70245,
+    "geom:longitude": -117.012913,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mesa Food \u0026 Liquor, 8360 Paradise Valley Rd Spring Valley CA US",
+    "ovtr:similarity": 2.0831470489501953,
+    "sg:address": "8360 Paradise Valley Rd",
+    "sg:city": "Spring Valley",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 470 6230",
-    "sg:postcode":"91977",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85925305,
-        102083569,
-        85887373
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 470 6230",
+    "sg:postcode": "91977",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85925305,
+      102083569,
+      85887373
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uAy94UT6Jzx9fFRyS6hyf_32.702450_-117.012913@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a41b08d2d63037aac7ec0c3ac1b",
+      "sg:id": "SG_1uAy94UT6Jzx9fFRyS6hyf_32.702450_-117.012913@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"86a2edf0157bdf7617c904a17373f243",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925305,
-            "neighbourhood_id":85887373,
-            "region_id":85688637,
-            "venue_id":354009899
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "86a2edf0157bdf7617c904a17373f243",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85925305,
+        "neighbourhood_id": 85887373,
+        "region_id": 85688637,
+        "venue_id": 354009899
+      }
     ],
-    "wof:id":354009899,
-    "wof:lastmodified":1509200630,
-    "wof:name":"Mesa Food & Liquor",
-    "wof:parent_id":85887373,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354009899,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Mesa Food \u0026 Liquor",
+    "wof:parent_id": 85887373,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.012913,
     32.70245,
     -117.012913,
     32.70245
-],
+  ],
   "geometry": {"coordinates":[-117.012913,32.70245],"type":"Point"}
 }

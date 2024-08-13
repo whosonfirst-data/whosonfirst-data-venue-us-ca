@@ -2,90 +2,94 @@
   "id": 370993543,
   "type": "Feature",
   "properties": {
-    "addr:full":"1014 N Highland Ave Los Angeles CA 90038",
-    "addr:housenumber":"1014",
-    "addr:postcode":"90038",
-    "addr:street":"N Highland Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.338198,34.08947,-118.338198,34.08947",
-    "geom:latitude":34.08947,
-    "geom:longitude":-118.338198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1014 N Highland Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "1014 N Highland Ave Los Angeles CA 90038",
+    "addr:housenumber": "1014",
+    "addr:postcode": "90038",
+    "addr:street": "N Highland Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.338198,34.089470,-118.338198,34.089470",
+    "geom:latitude": 34.08947,
+    "geom:longitude": -118.338198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "LA Dogworks, 1014 N Highland Ave Los Angeles CA US",
+    "ovtr:similarity": 2.109724998474121,
+    "sg:address": "1014 N Highland Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 461 5151",
-    "sg:postcode":"90038",
-    "sg:province":"CA",
-    "sg:tags":[
-        "boarding/pet",
-        "groomers",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 461 5151",
+    "sg:postcode": "90038",
+    "sg:province": "CA",
+    "sg:tags": [
+      "boarding/pet",
+      "groomers",
+      "sitting"
     ],
-    "sg:website":"www.ladogworks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85868365
+    "sg:website": "www.ladogworks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85868365
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000422467-0001-4",
-        "sg:id":"SG_0h37a3EA5mKIlMY4r7v4gY_34.089470_-118.338198@1303263160"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000422467-0001-4",
+      "ovtr:id": "08f29a1d6809c07603c337cf7c6ede24",
+      "sg:id": "SG_0h37a3EA5mKIlMY4r7v4gY_34.089470_-118.338198@1303263160"
     },
-    "wof:country":"US",
-    "wof:geomhash":"81a3ff547266bd869f5081c809e11c42",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868365,
-            "region_id":85688637,
-            "venue_id":370993543
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "81a3ff547266bd869f5081c809e11c42",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868365,
+        "region_id": 85688637,
+        "venue_id": 370993543
+      }
     ],
-    "wof:id":370993543,
-    "wof:lastmodified":1509200868,
-    "wof:name":"LA Dogworks",
-    "wof:parent_id":85868365,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "boarding/pet",
-        "groomers",
-        "sitting"
+    "wof:id": 370993543,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "LA Dogworks",
+    "wof:parent_id": 85868365,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "boarding/pet",
+      "groomers",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -118.338198,
     34.08947,
     -118.338198,
     34.08947
-],
-  "geometry": {"coordinates":[-118.33819800000001,34.08947],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.338198,34.08947],"type":"Point"}
 }

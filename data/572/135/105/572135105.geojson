@@ -2,82 +2,86 @@
   "id": 572135105,
   "type": "Feature",
   "properties": {
-    "addr:full":"1650 Colorado Blvd Los Angeles CA 90041",
-    "addr:housenumber":"1650",
-    "addr:postcode":"90041",
-    "addr:street":"Colorado Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.203003,34.1395,-118.203003,34.1395",
-    "geom:latitude":34.1395,
-    "geom:longitude":-118.203003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1650 Colorado Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1650 Colorado Blvd Los Angeles CA 90041",
+    "addr:housenumber": "1650",
+    "addr:postcode": "90041",
+    "addr:street": "Colorado Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.203003,34.139500,-118.203003,34.139500",
+    "geom:latitude": 34.1395,
+    "geom:longitude": -118.203003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Casa Bianca Pizza Pie, 1650 Colorado Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.6533451080322266,
+    "sg:address": "1650 Colorado Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 256 9617",
-    "sg:postcode":"90041",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 256 9617",
+    "sg:postcode": "90041",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"casabiancapizza.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85815751
+    "sg:website": "casabiancapizza.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85815751
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000381426-0001-1",
-        "sg:id":"SG_6xwRetM2lMFmwogDp2T9Nq_34.139505_-118.203357@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000381426-0001-1",
+      "ovtr:id": "08f29a1d5306dc4b0302b0d20bc3ec0b",
+      "sg:id": "SG_6xwRetM2lMFmwogDp2T9Nq_34.139505_-118.203357@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8492027a482b8ae30cb4892278f64082",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85815751,
-            "region_id":85688637,
-            "venue_id":572135105
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "8492027a482b8ae30cb4892278f64082",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85815751,
+        "region_id": 85688637,
+        "venue_id": 572135105
+      }
     ],
-    "wof:id":572135105,
-    "wof:lastmodified":1509201703,
-    "wof:name":"Casa Bianca Pizza Pie",
-    "wof:parent_id":85815751,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:id": 572135105,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Casa Bianca Pizza Pie",
+    "wof:parent_id": 85815751,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -118.203003,
     34.1395,
     -118.203003,
     34.1395
-],
+  ],
   "geometry": {"coordinates":[-118.203003,34.1395],"type":"Point"}
 }

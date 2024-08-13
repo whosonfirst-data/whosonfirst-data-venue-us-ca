@@ -2,86 +2,90 @@
   "id": 588684983,
   "type": "Feature",
   "properties": {
-    "addr:full":"5380 H Street Sacramento CA 95819",
-    "addr:housenumber":"5380",
-    "addr:postcode":"95819",
-    "addr:street":"H Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.436181,38.567842,-121.436181,38.567842",
-    "geom:latitude":38.567842,
-    "geom:longitude":-121.436181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5380 H Street",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5380 H Street Sacramento CA 95819",
+    "addr:housenumber": "5380",
+    "addr:postcode": "95819",
+    "addr:street": "H Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.436181,38.567842,-121.436181,38.567842",
+    "geom:latitude": 38.567842,
+    "geom:longitude": -121.436181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Metro Food \u0026 Liquor, 5380 H St Sacramento CA US",
+    "ovtr:similarity": 2.6201670169830322,
+    "sg:address": "5380 H Street",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 739 8571",
-    "sg:postcode":"95819",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "store",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 739 8571",
+    "sg:postcode": "95819",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "store",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872197
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872197
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43CjqhqLTOkAwNVOqTgAuB_38.567842_-121.436181@1303263392"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b10c8351403b41788c4ffcc20",
+      "sg:id": "SG_43CjqhqLTOkAwNVOqTgAuB_38.567842_-121.436181@1303263392"
     },
-    "wof:country":"US",
-    "wof:geomhash":"333a97d471261653a892bce392b5dbb5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872197,
-            "region_id":85688637,
-            "venue_id":588684983
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "333a97d471261653a892bce392b5dbb5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872197,
+        "region_id": 85688637,
+        "venue_id": 588684983
+      }
     ],
-    "wof:id":588684983,
-    "wof:lastmodified":1509202213,
-    "wof:name":"Metro Food & Liquor",
-    "wof:parent_id":85872197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "store",
-        "wine"
+    "wof:id": 588684983,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "Metro Food \u0026 Liquor",
+    "wof:parent_id": 85872197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "store",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -121.436181,
     38.567842,
     -121.436181,
     38.567842
-],
+  ],
   "geometry": {"coordinates":[-121.436181,38.567842],"type":"Point"}
 }

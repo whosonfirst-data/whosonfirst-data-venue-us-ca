@@ -2,81 +2,85 @@
   "id": 370531481,
   "type": "Feature",
   "properties": {
-    "addr:full":"259 S Broadway Los Angeles CA 90012",
-    "addr:housenumber":"259",
-    "addr:postcode":"90012",
-    "addr:street":"S Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.247849,34.051101,-118.247849,34.051101",
-    "geom:latitude":34.051101,
-    "geom:longitude":-118.247849,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"259 S Broadway",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Mobile Phones",
-            "type":"Retail Goods"
-        }
+    "addr:full": "259 S Broadway Los Angeles CA 90012",
+    "addr:housenumber": "259",
+    "addr:postcode": "90012",
+    "addr:street": "S Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.247849,34.051101,-118.247849,34.051101",
+    "geom:latitude": 34.051101,
+    "geom:longitude": -118.247849,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "T-Mobile, 259 S Broadway Los Angeles CA US",
+    "ovtr:similarity": 2.9768049716949463,
+    "sg:address": "259 S Broadway",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Mobile Phones",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 613 9523",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:website":"www.t-mobile.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456427,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 613 9523",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:website": "www.t-mobile.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456427,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:brand_id":420573885,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ysvBDvpUK3D8E4eRID6iQ_34.051101_-118.247849@1303263149"
+    "wof:brand_id": 420573885,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d752a2356035bd6567aaa8f18",
+      "sg:id": "SG_2ysvBDvpUK3D8E4eRID6iQ_34.051101_-118.247849@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cc6b7070edbff67b0f37be23ad5674a4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456427,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370531481
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "cc6b7070edbff67b0f37be23ad5674a4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456427,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370531481
+      }
     ],
-    "wof:id":370531481,
-    "wof:lastmodified":1509200759,
-    "wof:name":"T-Mobile",
-    "wof:parent_id":1092456427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370531481,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "T-Mobile",
+    "wof:parent_id": 1092456427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.247849,
     34.051101,
     -118.247849,
     34.051101
-],
+  ],
   "geometry": {"coordinates":[-118.247849,34.051101],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 572272089,
   "type": "Feature",
   "properties": {
-    "addr:full":"126 N San Fernando Blvd Burbank CA 91502",
-    "addr:housenumber":"126",
-    "addr:postcode":"91502",
-    "addr:street":"N San Fernando Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.309002,34.181056,-118.309002,34.181056",
-    "geom:latitude":34.181056,
-    "geom:longitude":-118.309002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"126 N San Fernando Blvd",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "126 N San Fernando Blvd Burbank CA 91502",
+    "addr:housenumber": "126",
+    "addr:postcode": "91502",
+    "addr:street": "N San Fernando Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.309002,34.181056,-118.309002,34.181056",
+    "geom:latitude": 34.181056,
+    "geom:longitude": -118.309002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Great Grill, 126 N San Fernando Blvd Burbank CA US",
+    "ovtr:similarity": 2.6977219581604004,
+    "sg:address": "126 N San Fernando Blvd",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 567 0060",
-    "sg:postcode":"91502",
-    "sg:province":"CA",
-    "sg:tags":[
-        "diner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 567 0060",
+    "sg:postcode": "91502",
+    "sg:province": "CA",
+    "sg:tags": [
+      "diner"
     ],
-    "sg:website":"www.thegreatgrillburbank.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923691,
-        102086957,
-        85885667
+    "sg:website": "www.thegreatgrillburbank.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923691,
+      102086957,
+      85885667
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2WWcADgMbk1Mavk2B9aO03_34.181056_-118.309002@1303263218"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c64a4349903b879fa2a5e2c2e",
+      "sg:id": "SG_2WWcADgMbk1Mavk2B9aO03_34.181056_-118.309002@1303263218"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ad20db3dae4fe1339e37f8dce91b8fe1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923691,
-            "neighbourhood_id":85885667,
-            "region_id":85688637,
-            "venue_id":572272089
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "ad20db3dae4fe1339e37f8dce91b8fe1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923691,
+        "neighbourhood_id": 85885667,
+        "region_id": 85688637,
+        "venue_id": 572272089
+      }
     ],
-    "wof:id":572272089,
-    "wof:lastmodified":1509201778,
-    "wof:name":"The Great Grill",
-    "wof:parent_id":85885667,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "diner"
+    "wof:id": 572272089,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "The Great Grill",
+    "wof:parent_id": 85885667,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "diner"
     ]
-},
+  },
   "bbox": [
     -118.309002,
     34.181056,
     -118.309002,
     34.181056
-],
-  "geometry": {"coordinates":[-118.30900200000001,34.181056],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.309002,34.181056],"type":"Point"}
 }

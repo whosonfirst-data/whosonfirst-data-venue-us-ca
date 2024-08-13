@@ -2,87 +2,91 @@
   "id": 404123269,
   "type": "Feature",
   "properties": {
-    "addr:full":"5555 E Stearns St Ste 103 Long Beach CA 90815",
-    "addr:housenumber":"5555",
-    "addr:postcode":"90815",
-    "addr:street":"E Stearns St Ste 103",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.124001,33.796101,-118.124001,33.796101",
-    "geom:latitude":33.796101,
-    "geom:longitude":-118.124001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5555 E Stearns St Ste 103",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Hobbies, Toys, & Games",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Comic Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5555 E Stearns St Ste 103 Long Beach CA 90815",
+    "addr:housenumber": "5555",
+    "addr:postcode": "90815",
+    "addr:street": "E Stearns St Ste 103",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.124001,33.796101,-118.124001,33.796101",
+    "geom:latitude": 33.796101,
+    "geom:longitude": -118.124001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Amazing Comics \u0026 Cards, 5555 E Stearns St Long Beach CA US",
+    "ovtr:similarity": 2.6673390865325928,
+    "sg:address": "5555 E Stearns St Ste 103",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Hobbies, Toys, \u0026 Games",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Comic Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 493 4427",
-    "sg:postcode":"90815",
-    "sg:province":"CA",
-    "sg:tags":[
-        "toy",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 493 4427",
+    "sg:postcode": "90815",
+    "sg:province": "CA",
+    "sg:tags": [
+      "toy",
+      "store"
     ],
-    "sg:website":"www.amazingcomics.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85831437
+    "sg:website": "www.amazingcomics.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85831437
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_71rDZfjHswsWTFa0j041sp_33.796101_-118.124001@1303263201"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56a080c18003881a3750526fbf",
+      "sg:id": "SG_71rDZfjHswsWTFa0j041sp_33.796101_-118.124001@1303263201"
     },
-    "wof:country":"US",
-    "wof:geomhash":"04696eb11b270d240b6a15a899d76a46",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85831437,
-            "region_id":85688637,
-            "venue_id":404123269
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "04696eb11b270d240b6a15a899d76a46",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85831437,
+        "region_id": 85688637,
+        "venue_id": 404123269
+      }
     ],
-    "wof:id":404123269,
-    "wof:lastmodified":1509201206,
-    "wof:name":"Amazing Comics & Cards",
-    "wof:parent_id":85831437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "toy",
-        "store"
+    "wof:id": 404123269,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Amazing Comics \u0026 Cards",
+    "wof:parent_id": 85831437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "toy",
+      "store"
     ]
-},
+  },
   "bbox": [
     -118.124001,
     33.796101,
     -118.124001,
     33.796101
-],
-  "geometry": {"coordinates":[-118.12400100000001,33.796101],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.124001,33.796101],"type":"Point"}
 }

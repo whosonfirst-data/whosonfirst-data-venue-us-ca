@@ -2,74 +2,78 @@
   "id": 387008335,
   "type": "Feature",
   "properties": {
-    "addr:full":"601 W Avenue 28 Los Angeles CA 90065",
-    "addr:housenumber":"601;28",
-    "addr:postcode":"90065",
-    "addr:street":"W Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.223772,34.086949,-118.223772,34.086949",
-    "geom:latitude":34.086949,
-    "geom:longitude":-118.223772,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"601 W Avenue 28",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "601 W Avenue 28 Los Angeles CA 90065",
+    "addr:housenumber": "601;28",
+    "addr:postcode": "90065",
+    "addr:street": "W Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.223772,34.086949,-118.223772,34.086949",
+    "geom:latitude": 34.086949,
+    "geom:longitude": -118.223772,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vidal's Auto Service, 601 W Avenue 28 Los Angeles CA US",
+    "ovtr:similarity": 1.9935590028762817,
+    "sg:address": "601 W Avenue 28",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 342 9405",
-    "sg:postcode":"90065",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85813775
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 342 9405",
+    "sg:postcode": "90065",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85813775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5NyiGTNLmuSQLullAa2Cyc_34.086949_-118.223772@1303263167"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d732b3b42037625a49b3d9dee",
+      "sg:id": "SG_5NyiGTNLmuSQLullAa2Cyc_34.086949_-118.223772@1303263167"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b93bb5154d203ffea74a006b39be3f94",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85813775,
-            "region_id":85688637,
-            "venue_id":387008335
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "b93bb5154d203ffea74a006b39be3f94",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85813775,
+        "region_id": 85688637,
+        "venue_id": 387008335
+      }
     ],
-    "wof:id":387008335,
-    "wof:lastmodified":1509200933,
-    "wof:name":"Vidal's Auto Service",
-    "wof:parent_id":85813775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387008335,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Vidal's Auto Service",
+    "wof:parent_id": 85813775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.223772,
     34.086949,
     -118.223772,
     34.086949
-],
+  ],
   "geometry": {"coordinates":[-118.223772,34.086949],"type":"Point"}
 }

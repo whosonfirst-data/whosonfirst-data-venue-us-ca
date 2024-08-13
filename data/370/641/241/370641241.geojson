@@ -2,93 +2,97 @@
   "id": 370641241,
   "type": "Feature",
   "properties": {
-    "addr:full":"903 S Main St Los Angeles CA 90015",
-    "addr:housenumber":"903",
-    "addr:postcode":"90015",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.255083,34.041587,-118.255083,34.041587",
-    "geom:latitude":34.041587,
-    "geom:longitude":-118.255083,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"903 S Main St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Art Gallery",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Gym",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        }
+    "addr:full": "903 S Main St Los Angeles CA 90015",
+    "addr:housenumber": "903",
+    "addr:postcode": "90015",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.255083,34.041587,-118.255083,34.041587",
+    "geom:latitude": 34.041587,
+    "geom:longitude": -118.255083,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Peace Yoga Gallery, 903 S Main St Los Angeles CA US",
+    "ovtr:similarity": 1.7762689590454102,
+    "sg:address": "903 S Main St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Art Gallery",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Gym",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 500 5007",
-    "sg:postcode":"90015",
-    "sg:province":"CA",
-    "sg:tags":[
-        "venue",
-        "yoga"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 500 5007",
+    "sg:postcode": "90015",
+    "sg:province": "CA",
+    "sg:tags": [
+      "venue",
+      "yoga"
     ],
-    "sg:website":"www.peaceyogagallery.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865811
+    "sg:website": "www.peaceyogagallery.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002486654-0001-0",
-        "sg:id":"SG_4vGAv4EMjlmaWeAgSQU4Kz_34.041587_-118.255083@1303263151"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002486654-0001-0",
+      "ovtr:id": "08f29a1d75a05b2903ccc97e1577da5c",
+      "sg:id": "SG_4vGAv4EMjlmaWeAgSQU4Kz_34.041587_-118.255083@1303263151"
     },
-    "wof:country":"US",
-    "wof:geomhash":"af2169042e5b7cac086e7813c0452d6b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865811,
-            "region_id":85688637,
-            "venue_id":370641241
-        }
+    "wof:country": "US",
+    "wof:created": 1723561667,
+    "wof:geomhash": "af2169042e5b7cac086e7813c0452d6b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370641241
+      }
     ],
-    "wof:id":370641241,
-    "wof:lastmodified":1509200786,
-    "wof:name":"peace yoga gallery",
-    "wof:parent_id":85865811,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue",
-        "yoga"
+    "wof:id": 370641241,
+    "wof:lastmodified": 1723561667,
+    "wof:name": "peace yoga gallery",
+    "wof:parent_id": 85865811,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue",
+      "yoga"
     ]
-},
+  },
   "bbox": [
     -118.255083,
     34.041587,
     -118.255083,
     34.041587
-],
+  ],
   "geometry": {"coordinates":[-118.255083,34.041587],"type":"Point"}
 }

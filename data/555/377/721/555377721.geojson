@@ -2,79 +2,83 @@
   "id": 555377721,
   "type": "Feature",
   "properties": {
-    "addr:full":"1501 White Ln Bakersfield CA 93307",
-    "addr:housenumber":"1501",
-    "addr:postcode":"93307",
-    "addr:street":"White Ln",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.019057,35.317585,-119.019057,35.317585",
-    "geom:latitude":35.317585,
-    "geom:longitude":-119.019057,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1501 White Ln",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1501 White Ln Bakersfield CA 93307",
+    "addr:housenumber": "1501",
+    "addr:postcode": "93307",
+    "addr:street": "White Ln",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.019057,35.317585,-119.019057,35.317585",
+    "geom:latitude": 35.317585,
+    "geom:longitude": -119.019057,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 1501 White Ln Bakersfield CA US",
+    "ovtr:similarity": 3.0768849849700928,
+    "sg:address": "1501 White Ln",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 397 7999",
-    "sg:postcode":"93307",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 397 7999",
+    "sg:postcode": "93307",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85857659
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85857659
     ],
-    "wof:brand_id":1125154585,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UBycmS5Mgux6btQ7n8dKF_35.317585_-119.019057@1294081369"
+    "wof:brand_id": 1125154585,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb21cd3a4a032375e835290dcd",
+      "sg:id": "SG_6UBycmS5Mgux6btQ7n8dKF_35.317585_-119.019057@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"39c728bfd6b7dee04fe49a715ffc000b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85857659,
-            "region_id":85688637,
-            "venue_id":555377721
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "39c728bfd6b7dee04fe49a715ffc000b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85857659,
+        "region_id": 85688637,
+        "venue_id": 555377721
+      }
     ],
-    "wof:id":555377721,
-    "wof:lastmodified":1510613338,
-    "wof:name":"99 Cents Only Store",
-    "wof:parent_id":85857659,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop"
+    "wof:id": 555377721,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "99 Cents Only Store",
+    "wof:parent_id": 85857659,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop"
     ]
-},
+  },
   "bbox": [
     -119.019057,
     35.317585,
     -119.019057,
     35.317585
-],
+  ],
   "geometry": {"coordinates":[-119.019057,35.317585],"type":"Point"}
 }

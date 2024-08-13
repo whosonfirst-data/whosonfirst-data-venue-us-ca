@@ -2,85 +2,89 @@
   "id": 588632543,
   "type": "Feature",
   "properties": {
-    "addr:full":"12201 Yosemite Blvd Waterford CA 95386",
-    "addr:housenumber":"12201",
-    "addr:postcode":"95386",
-    "addr:street":"Yosemite Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.767143,37.63821,-120.767143,37.63821",
-    "geom:latitude":37.63821,
-    "geom:longitude":-120.767143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12201 Yosemite Blvd",
-    "sg:city":"Waterford",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12201 Yosemite Blvd Waterford CA 95386",
+    "addr:housenumber": "12201",
+    "addr:postcode": "95386",
+    "addr:street": "Yosemite Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.767143,37.638210,-120.767143,37.638210",
+    "geom:latitude": 37.63821,
+    "geom:longitude": -120.767143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Su Casita Mexican Restaurant, 12201 Yosemite Blvd Waterford CA US",
+    "ovtr:similarity": 1.706712007522583,
+    "sg:address": "12201 Yosemite Blvd",
+    "sg:city": "Waterford",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 874 1895",
-    "sg:postcode":"95386",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican",
-        "caterer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 874 1895",
+    "sg:postcode": "95386",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican",
+      "caterer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85879013,
-        85633793,
-        85922777,
-        102083579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85879013,
+      85633793,
+      85922777,
+      102083579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0IbFYFVTnmGK8totwemZy9_37.638210_-120.767143@1303263378"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28361b125a5a60349d6c35d86408f",
+      "sg:id": "SG_0IbFYFVTnmGK8totwemZy9_37.638210_-120.767143@1303263378"
     },
-    "wof:country":"US",
-    "wof:geomhash":"de7e4ac3f30497da297508b37a7eb4d8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85879013,
-            "region_id":85688637,
-            "venue_id":588632543
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "de7e4ac3f30497da297508b37a7eb4d8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85879013,
+        "region_id": 85688637,
+        "venue_id": 588632543
+      }
     ],
-    "wof:id":588632543,
-    "wof:lastmodified":1509202181,
-    "wof:name":"Su Casita Mexican Restaurant",
-    "wof:parent_id":85879013,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican",
-        "caterer"
+    "wof:id": 588632543,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Su Casita Mexican Restaurant",
+    "wof:parent_id": 85879013,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican",
+      "caterer"
     ]
-},
+  },
   "bbox": [
     -120.767143,
     37.63821,
     -120.767143,
     37.63821
-],
+  ],
   "geometry": {"coordinates":[-120.767143,37.63821],"type":"Point"}
 }

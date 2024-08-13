@@ -2,83 +2,87 @@
   "id": 572168029,
   "type": "Feature",
   "properties": {
-    "addr:full":"7503 Garvey Ave Rosemead CA 91770",
-    "addr:housenumber":"7503",
-    "addr:postcode":"91770",
-    "addr:street":"Garvey Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.105424,34.063104,-118.105424,34.063104",
-    "geom:latitude":34.063104,
-    "geom:longitude":-118.105424,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7503 Garvey Ave",
-    "sg:city":"Rosemead",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7503 Garvey Ave Rosemead CA 91770",
+    "addr:housenumber": "7503",
+    "addr:postcode": "91770",
+    "addr:street": "Garvey Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.105424,34.063104,-118.105424,34.063104",
+    "geom:latitude": 34.063104,
+    "geom:longitude": -118.105424,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 7503 Garvey Ave Rosemead CA US",
+    "ovtr:similarity": 2.544019937515259,
+    "sg:address": "7503 Garvey Ave",
+    "sg:city": "Rosemead",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/southwest-san-gabriel-valley/216680-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"91770",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/southwest-san-gabriel-valley/216680-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "91770",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923499,
-        102086957,
-        85858049
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923499,
+      102086957,
+      85858049
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_48XebT01NfxOyMD41wpVK4_34.063104_-118.105424@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d1d95807403f4fcc6202d8949",
+      "sg:id": "SG_48XebT01NfxOyMD41wpVK4_34.063104_-118.105424@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0930f08766897e9594835b3a14434582",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923499,
-            "neighbourhood_id":85858049,
-            "region_id":85688637,
-            "venue_id":572168029
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "0930f08766897e9594835b3a14434582",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923499,
+        "neighbourhood_id": 85858049,
+        "region_id": 85688637,
+        "venue_id": 572168029
+      }
     ],
-    "wof:id":572168029,
-    "wof:lastmodified":1512142829,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85858049,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572168029,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85858049,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -118.105424,
     34.063104,
     -118.105424,
     34.063104
-],
+  ],
   "geometry": {"coordinates":[-118.105424,34.063104],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 337415813,
   "type": "Feature",
   "properties": {
-    "addr:full":"3410 Ross Ave San Jose CA 95124",
-    "addr:housenumber":"3410",
-    "addr:postcode":"95124",
-    "addr:street":"Ross Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.917554,37.265088,-121.917554,37.265088",
-    "geom:latitude":37.265088,
-    "geom:longitude":-121.917554,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3410 Ross Ave",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "3410 Ross Ave San Jose CA 95124",
+    "addr:housenumber": "3410",
+    "addr:postcode": "95124",
+    "addr:street": "Ross Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.917554,37.265088,-121.917554,37.265088",
+    "geom:latitude": 37.265088,
+    "geom:longitude": -121.917554,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Jose Fire Department Station 9, 3410 Ross Ave San Jose CA US",
+    "ovtr:similarity": 3.2655670642852783,
+    "sg:address": "3410 Ross Ave",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 277 4369",
-    "sg:postcode":"95124",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 277 4369",
+    "sg:postcode": "95124",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420552917,
-        102191575,
-        1108782557,
-        85633793,
-        85922347,
-        102081673,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420552917,
+      102191575,
+      1108782557,
+      85633793,
+      85922347,
+      102081673,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6VQXuM3Nq5sK1FHADA4nx5_37.265088_-121.917554@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283409a44115d03a766968bf5a033",
+      "sg:id": "SG_6VQXuM3Nq5sK1FHADA4nx5_37.265088_-121.917554@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bee8a00e5c5f8ba9b01eaa2a35ad1c52",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782557,
-            "neighbourhood_id":420552917,
-            "region_id":85688637,
-            "venue_id":337415813
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "bee8a00e5c5f8ba9b01eaa2a35ad1c52",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782557,
+        "neighbourhood_id": 420552917,
+        "region_id": 85688637,
+        "venue_id": 337415813
+      }
     ],
-    "wof:id":337415813,
-    "wof:lastmodified":1509200541,
-    "wof:name":"San Jose Fire Station 9",
-    "wof:parent_id":420552917,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 337415813,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "San Jose Fire Station 9",
+    "wof:parent_id": 420552917,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -121.917554,
     37.265088,
     -121.917554,
     37.265088
-],
+  ],
   "geometry": {"coordinates":[-121.917554,37.265088],"type":"Point"}
 }

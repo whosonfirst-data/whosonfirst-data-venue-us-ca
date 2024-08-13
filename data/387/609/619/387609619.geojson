@@ -2,81 +2,85 @@
   "id": 387609619,
   "type": "Feature",
   "properties": {
-    "addr:full":"2701 Manhattan Beach Blvd Redondo Beach CA 90278",
-    "addr:housenumber":"2701",
-    "addr:postcode":"90278",
-    "addr:street":"Manhattan Beach Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.362472,33.888643,-118.362472,33.888643",
-    "geom:latitude":33.888643,
-    "geom:longitude":-118.362472,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2701 Manhattan Beach Blvd",
-    "sg:city":"Redondo Beach",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Thrift Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2701 Manhattan Beach Blvd Redondo Beach CA 90278",
+    "addr:housenumber": "2701",
+    "addr:postcode": "90278",
+    "addr:street": "Manhattan Beach Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.362472,33.888643,-118.362472,33.888643",
+    "geom:latitude": 33.888643,
+    "geom:longitude": -118.362472,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 2701 Manhattan Beach Blvd Redondo Beach CA US",
+    "ovtr:similarity": 2.509542942047119,
+    "sg:address": "2701 Manhattan Beach Blvd",
+    "sg:city": "Redondo Beach",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Thrift Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 536 9221",
-    "sg:postcode":"90278",
-    "sg:province":"CA",
-    "sg:website":"99only.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923535,
-        102086957,
-        85886275
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 536 9221",
+    "sg:postcode": "90278",
+    "sg:province": "CA",
+    "sg:website": "99only.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923535,
+      102086957,
+      85886275
     ],
-    "wof:brand_id":1125154585,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ltoabvHlLK2RHbr90z7Uc_33.888643_-118.362472@1303263182"
+    "wof:brand_id": 1125154585,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a5653004da203dc2aae4e8e12ff",
+      "sg:id": "SG_6ltoabvHlLK2RHbr90z7Uc_33.888643_-118.362472@1303263182"
     },
-    "wof:country":"US",
-    "wof:geomhash":"11cd5c73d5d84351d8a4f40a188acfda",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923535,
-            "neighbourhood_id":85886275,
-            "region_id":85688637,
-            "venue_id":387609619
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "11cd5c73d5d84351d8a4f40a188acfda",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923535,
+        "neighbourhood_id": 85886275,
+        "region_id": 85688637,
+        "venue_id": 387609619
+      }
     ],
-    "wof:id":387609619,
-    "wof:lastmodified":1510613337,
-    "wof:name":"99 Cents Only Store",
-    "wof:parent_id":85886275,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387609619,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "99 Cents Only Store",
+    "wof:parent_id": 85886275,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.362472,
     33.888643,
     -118.362472,
     33.888643
-],
+  ],
   "geometry": {"coordinates":[-118.362472,33.888643],"type":"Point"}
 }

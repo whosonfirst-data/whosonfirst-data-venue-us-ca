@@ -2,71 +2,75 @@
   "id": 571618577,
   "type": "Feature",
   "properties": {
-    "addr:full":"192 E Elm Ave Coalinga CA 93210",
-    "addr:housenumber":"192",
-    "addr:postcode":"93210",
-    "addr:street":"E Elm Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.360136,36.139742,-120.360136,36.139742",
-    "geom:latitude":36.139742,
-    "geom:longitude":-120.360136,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"192 E Elm Ave",
-    "sg:city":"Coalinga",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "192 E Elm Ave Coalinga CA 93210",
+    "addr:housenumber": "192",
+    "addr:postcode": "93210",
+    "addr:street": "E Elm Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.360136,36.139742,-120.360136,36.139742",
+    "geom:latitude": 36.139742,
+    "geom:longitude": -120.360136,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hair \u0026 Co, 192 E Elm Ave Coalinga CA US",
+    "ovtr:similarity": 1.978253960609436,
+    "sg:address": "192 E Elm Ave",
+    "sg:city": "Coalinga",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 935 9361",
-    "sg:postcode":"93210",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102084347,
-        85633793,
-        85688637,
-        85871909
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 935 9361",
+    "sg:postcode": "93210",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102084347,
+      85633793,
+      85688637,
+      85871909
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0vFC5Kju25SDffpLgrC1xl_36.139742_-120.360136@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a8a5c2216cd0364a5ce1c881426",
+      "sg:id": "SG_0vFC5Kju25SDffpLgrC1xl_36.139742_-120.360136@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2d807c5a984ed175553b861c4704198c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084347,
-            "neighbourhood_id":85871909,
-            "region_id":85688637,
-            "venue_id":571618577
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "2d807c5a984ed175553b861c4704198c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "neighbourhood_id": 85871909,
+        "region_id": 85688637,
+        "venue_id": 571618577
+      }
     ],
-    "wof:id":571618577,
-    "wof:lastmodified":1509201539,
-    "wof:name":"Hair & Co",
-    "wof:parent_id":85871909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571618577,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Hair \u0026 Co",
+    "wof:parent_id": 85871909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.360136,
     36.139742,
     -120.360136,
     36.139742
-],
+  ],
   "geometry": {"coordinates":[-120.360136,36.139742],"type":"Point"}
 }

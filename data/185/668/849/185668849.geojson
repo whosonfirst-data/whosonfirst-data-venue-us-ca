@@ -2,74 +2,78 @@
   "id": 185668849,
   "type": "Feature",
   "properties": {
-    "addr:full":"5824 Riverside Dr Chino CA 91710",
-    "addr:housenumber":"5824",
-    "addr:postcode":"91710",
-    "addr:street":"Riverside Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.678659,34.019215,-117.678659,34.019215",
-    "geom:latitude":34.019215,
-    "geom:longitude":-117.678659,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5824 Riverside Dr",
-    "sg:city":"Chino",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5824 Riverside Dr Chino CA 91710",
+    "addr:housenumber": "5824",
+    "addr:postcode": "91710",
+    "addr:street": "Riverside Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.678659,34.019215,-117.678659,34.019215",
+    "geom:latitude": 34.019215,
+    "geom:longitude": -117.678659,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bernard's Liquor \u0026 Deli, 5824 Riverside Dr Chino CA US",
+    "ovtr:similarity": 2.118783950805664,
+    "sg:address": "5824 Riverside Dr",
+    "sg:city": "Chino",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 628 6478",
-    "sg:postcode":"91710",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923933,
-        102085395,
-        85879401
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 628 6478",
+    "sg:postcode": "91710",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923933,
+      102085395,
+      85879401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2D5vLJc0iNLMxB9FQWh98R_34.019215_-117.678659@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0ad4c31a23031e72c03b15683b",
+      "sg:id": "SG_2D5vLJc0iNLMxB9FQWh98R_34.019215_-117.678659@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5021560701f4b11a2c7f00b6e4c6fb5c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923933,
-            "neighbourhood_id":85879401,
-            "region_id":85688637,
-            "venue_id":185668849
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "5021560701f4b11a2c7f00b6e4c6fb5c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923933,
+        "neighbourhood_id": 85879401,
+        "region_id": 85688637,
+        "venue_id": 185668849
+      }
     ],
-    "wof:id":185668849,
-    "wof:lastmodified":1509199818,
-    "wof:name":"Bernard's Liquor & Deli",
-    "wof:parent_id":85879401,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 185668849,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Bernard's Liquor \u0026 Deli",
+    "wof:parent_id": 85879401,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.678659,
     34.019215,
     -117.678659,
     34.019215
-],
+  ],
   "geometry": {"coordinates":[-117.678659,34.019215],"type":"Point"}
 }

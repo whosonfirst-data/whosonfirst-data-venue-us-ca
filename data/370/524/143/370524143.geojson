@@ -2,78 +2,82 @@
   "id": 370524143,
   "type": "Feature",
   "properties": {
-    "addr:full":"2700 S Central Ave Los Angeles CA 90011",
-    "addr:housenumber":"2700",
-    "addr:postcode":"90011",
-    "addr:street":"S Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.255997,34.0177,-118.255997,34.0177",
-    "geom:latitude":34.0177,
-    "geom:longitude":-118.255997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2700 S Central Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2700 S Central Ave Los Angeles CA 90011",
+    "addr:housenumber": "2700",
+    "addr:postcode": "90011",
+    "addr:street": "S Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.255997,34.017700,-118.255997,34.017700",
+    "geom:latitude": 34.0177,
+    "geom:longitude": -118.255997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "27th Street Bakery, 2700 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 1.9095439910888672,
+    "sg:address": "2700 S Central Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 233 3469",
-    "sg:postcode":"90011",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1058996417,
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 233 3469",
+    "sg:postcode": "90011",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1058996417,
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002391580-0002-7",
-        "sg:id":"SG_5aJgQeyCm1tmxy5kuaLHxy_34.017700_-118.255997@1303263148"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002391580-0002-7",
+      "ovtr:id": "08f29a56dba256d4031da8b0c16f9c0f",
+      "sg:id": "SG_5aJgQeyCm1tmxy5kuaLHxy_34.017700_-118.255997@1303263148"
     },
-    "wof:country":"US",
-    "wof:geomhash":"06c86854521a9991a2a562ad346a3265",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":1058996417,
-            "region_id":85688637,
-            "venue_id":370524143
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "06c86854521a9991a2a562ad346a3265",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 1058996417,
+        "region_id": 85688637,
+        "venue_id": 370524143
+      }
     ],
-    "wof:id":370524143,
-    "wof:lastmodified":1509200757,
-    "wof:name":"27th Street Bakery",
-    "wof:parent_id":1058996417,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370524143,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "27th Street Bakery",
+    "wof:parent_id": 1058996417,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.255997,
     34.0177,
     -118.255997,
     34.0177
-],
-  "geometry": {"coordinates":[-118.25599699999999,34.0177],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.255997,34.0177],"type":"Point"}
 }

@@ -2,89 +2,93 @@
   "id": 371130947,
   "type": "Feature",
   "properties": {
-    "addr:full":"7900 W Sunset Blvd Los Angeles CA 90046",
-    "addr:housenumber":"7900",
-    "addr:postcode":"90046",
-    "addr:street":"W Sunset Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.362,34.098202,-118.362,34.098202",
-    "geom:latitude":34.098202,
-    "geom:longitude":-118.362,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7900 W Sunset Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7900 W Sunset Blvd Los Angeles CA 90046",
+    "addr:housenumber": "7900",
+    "addr:postcode": "90046",
+    "addr:street": "W Sunset Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.362000,34.098202,-118.362000,34.098202",
+    "geom:latitude": 34.098202,
+    "geom:longitude": -118.362,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rite Aid, 7900 W Sunset Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.8771820068359375,
+    "sg:address": "7900 W Sunset Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 876 4466",
-    "sg:postcode":"90046",
-    "sg:province":"CA",
-    "sg:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 876 4466",
+    "sg:postcode": "90046",
+    "sg:province": "CA",
+    "sg:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869687
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869687
     ],
-    "wof:brand_id":420573891,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6KAs06NELKNLHYnkLFHqzC_34.098202_-118.362000@1303263164"
+    "wof:brand_id": 420573891,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d695693150357f4fce6583d34",
+      "sg:id": "SG_6KAs06NELKNLHYnkLFHqzC_34.098202_-118.362000@1303263164"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1f8b2ca77d00a6bbf7adf759a13bf442",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869687,
-            "region_id":85688637,
-            "venue_id":371130947
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "1f8b2ca77d00a6bbf7adf759a13bf442",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869687,
+        "region_id": 85688637,
+        "venue_id": 371130947
+      }
     ],
-    "wof:id":371130947,
-    "wof:lastmodified":1512142548,
-    "wof:name":"Rite Aid",
-    "wof:parent_id":85869687,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "wof:id": 371130947,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Rite Aid",
+    "wof:parent_id": 85869687,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ]
-},
+  },
   "bbox": [
     -118.362,
     34.098202,
     -118.362,
     34.098202
-],
-  "geometry": {"coordinates":[-118.36199999999999,34.098202],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.362,34.098202],"type":"Point"}
 }

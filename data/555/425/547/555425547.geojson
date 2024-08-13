@@ -2,63 +2,71 @@
   "id": 555425547,
   "type": "Feature",
   "properties": {
-    "addr:full":"70 E Main St Heber CA 92249",
-    "addr:housenumber":"70",
-    "addr:postcode":"92249",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.526329,32.730703,-115.526329,32.730703",
-    "geom:latitude":32.730703,
-    "geom:longitude":-115.526329,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"70 E Main St",
-    "sg:city":"Heber",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "70 E Main St Heber CA 92249",
+    "addr:housenumber": "70",
+    "addr:postcode": "92249",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.526329,32.730703,-115.526329,32.730703",
+    "geom:latitude": 32.730703,
+    "geom:longitude": -115.526329,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Kennedy's Market Heber, 70 E Main St Heber CA US",
+    "ovtr:similarity": 3.55515193939209,
+    "sg:address": "70 E Main St",
+    "sg:city": "Heber",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 352 8790",
-    "sg:postcode":"92249",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 352 8790",
+    "sg:postcode": "92249",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0vo2cuXdAN62bY1ah08jLx_32.730703_-115.526329@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f485bb5c3420b503d608f278665f99",
+      "sg:id": "SG_0vo2cuXdAN62bY1ah08jLx_32.730703_-115.526329@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5a8bf09645725fc67f94e91a105f27ee",
-    "wof:hierarchy":[],
-    "wof:id":555425547,
-    "wof:lastmodified":1509201388,
-    "wof:name":"Kennedy's Market",
-    "wof:parent_id":420550977,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "5a8bf09645725fc67f94e91a105f27ee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555425547
+      }
+    ],
+    "wof:id": 555425547,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Kennedy's Market",
+    "wof:parent_id": 420550977,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -115.526329,
     32.730703,
     -115.526329,
     32.730703
-],
+  ],
   "geometry": {"coordinates":[-115.526329,32.730703],"type":"Point"}
 }

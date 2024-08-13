@@ -2,82 +2,86 @@
   "id": 572191769,
   "type": "Feature",
   "properties": {
-    "addr:full":"2598 San Bruno Ave San Francisco CA 94134",
-    "addr:housenumber":"2598",
-    "addr:postcode":"94134",
-    "addr:street":"San Bruno Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.404415,37.728881,-122.404415,37.728881",
-    "geom:latitude":37.728881,
-    "geom:longitude":-122.404415,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2598 San Bruno Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Deli",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2598 San Bruno Ave San Francisco CA 94134",
+    "addr:housenumber": "2598",
+    "addr:postcode": "94134",
+    "addr:street": "San Bruno Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.404415,37.728881,-122.404415,37.728881",
+    "geom:latitude": 37.728881,
+    "geom:longitude": -122.404415,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Fat Beli Deli, 2598 San Bruno Ave San Francisco CA US",
+    "ovtr:similarity": 2.280466079711914,
+    "sg:address": "2598 San Bruno Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/81770-fat-beli-deli/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 468 0131",
-    "sg:postcode":"94134",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/81770-fat-beli-deli/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 468 0131",
+    "sg:postcode": "94134",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85869597
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85869597
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0398114-01-001",
-        "sg:id":"SG_5Hmx7vFyYVtRybndDy1BLi_37.728881_-122.404415@1299784598"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283095251c48b03c32a0729fab501",
+      "sfgov_rbl:id": "0398114-01-001",
+      "sg:id": "SG_5Hmx7vFyYVtRybndDy1BLi_37.728881_-122.404415@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7451692f9310c62fa72f05b4434c83ca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85869597,
-            "region_id":85688637,
-            "venue_id":572191769
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "7451692f9310c62fa72f05b4434c83ca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85869597,
+        "region_id": 85688637,
+        "venue_id": 572191769
+      }
     ],
-    "wof:id":572191769,
-    "wof:lastmodified":1509201724,
-    "wof:name":"Fat Beli Deli",
-    "wof:parent_id":85869597,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:id": 572191769,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Fat Beli Deli",
+    "wof:parent_id": 85869597,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.404415,
     37.728881,
     -122.404415,
     37.728881
-],
+  ],
   "geometry": {"coordinates":[-122.404415,37.728881],"type":"Point"}
 }

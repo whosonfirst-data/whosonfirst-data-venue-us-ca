@@ -2,81 +2,85 @@
   "id": 235987267,
   "type": "Feature",
   "properties": {
-    "addr:full":"229 S E St San Bernardino CA 92401",
-    "addr:housenumber":"229",
-    "addr:postcode":"92401",
-    "addr:street":"S E St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.294095,34.096477,-117.294095,34.096477",
-    "geom:latitude":34.096477,
-    "geom:longitude":-117.294095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"229 S E St",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Rental",
-            "type":"Services"
-        }
+    "addr:full": "229 S E St San Bernardino CA 92401",
+    "addr:housenumber": "229",
+    "addr:postcode": "92401",
+    "addr:street": "S E St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.294095,34.096477,-117.294095,34.096477",
+    "geom:latitude": 34.096477,
+    "geom:longitude": -117.294095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Enterprise Rent-A-Car, 229 S E St San Bernardino CA US",
+    "ovtr:similarity": 2.1627140045166016,
+    "sg:address": "229 S E St",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Rental",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 888 3241",
-    "sg:postcode":"92401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "renting",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 888 3241",
+    "sg:postcode": "92401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "renting",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102085395,
-        85854505
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102085395,
+      85854505
     ],
-    "wof:brand_id":420573775,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7m7AopFlRIUxFhRxrUM8qD_34.096477_-117.294095@1294081369"
+    "wof:brand_id": 420573775,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00eed65d0803d971f40f2c64e0",
+      "sg:id": "SG_7m7AopFlRIUxFhRxrUM8qD_34.096477_-117.294095@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"db04564a01209aabf9529d470ecbda0f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":-1,
-            "neighbourhood_id":85854505,
-            "region_id":85688637,
-            "venue_id":235987267
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "db04564a01209aabf9529d470ecbda0f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": -1,
+        "neighbourhood_id": 85854505,
+        "region_id": 85688637,
+        "venue_id": 235987267
+      }
     ],
-    "wof:id":235987267,
-    "wof:lastmodified":1511321732,
-    "wof:name":"Enterprise Rent-A-Car",
-    "wof:parent_id":85854505,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "renting",
-        "automobile"
+    "wof:id": 235987267,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Enterprise Rent-A-Car",
+    "wof:parent_id": 85854505,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "renting",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.294095,
     34.096477,
     -117.294095,
     34.096477
-],
+  ],
   "geometry": {"coordinates":[-117.294095,34.096477],"type":"Point"}
 }

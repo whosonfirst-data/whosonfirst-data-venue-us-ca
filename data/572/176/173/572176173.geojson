@@ -2,83 +2,87 @@
   "id": 572176173,
   "type": "Feature",
   "properties": {
-    "addr:full":"24440 Alessandro Blvd Moreno Valley CA 92553",
-    "addr:housenumber":"24440",
-    "addr:postcode":"92553",
-    "addr:street":"Alessandro Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.235883,33.920064,-117.235883,33.920064",
-    "geom:latitude":33.920064,
-    "geom:longitude":-117.235883,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24440 Alessandro Blvd",
-    "sg:city":"Moreno Valley",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24440 Alessandro Blvd Moreno Valley CA 92553",
+    "addr:housenumber": "24440",
+    "addr:postcode": "92553",
+    "addr:street": "Alessandro Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.235883,33.920064,-117.235883,33.920064",
+    "geom:latitude": 33.920064,
+    "geom:longitude": -117.235883,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 24440 Alessandro Blvd Moreno Valley CA US",
+    "ovtr:similarity": 2.8987560272216797,
+    "sg:address": "24440 Alessandro Blvd",
+    "sg:city": "Moreno Valley",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/riverside/216232-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"92553",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/riverside/216232-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "92553",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923379,
-        102086221,
-        85851465
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923379,
+      102086221,
+      85851465
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cMuxmOOjx2y2zY1Oj3z9h_33.920064_-117.235883@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0022caac5603d4ec5ccd0a7683",
+      "sg:id": "SG_4cMuxmOOjx2y2zY1Oj3z9h_33.920064_-117.235883@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"29841db93d379c03cc1a81343109a7fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923379,
-            "neighbourhood_id":85851465,
-            "region_id":85688637,
-            "venue_id":572176173
-        }
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "29841db93d379c03cc1a81343109a7fb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923379,
+        "neighbourhood_id": 85851465,
+        "region_id": 85688637,
+        "venue_id": 572176173
+      }
     ],
-    "wof:id":572176173,
-    "wof:lastmodified":1512142829,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85851465,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572176173,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85851465,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -117.235883,
     33.920064,
     -117.235883,
     33.920064
-],
+  ],
   "geometry": {"coordinates":[-117.235883,33.920064],"type":"Point"}
 }

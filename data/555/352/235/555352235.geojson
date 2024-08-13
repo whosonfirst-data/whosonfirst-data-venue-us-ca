@@ -2,71 +2,75 @@
   "id": 555352235,
   "type": "Feature",
   "properties": {
-    "addr:full":"2017 Sir Francis Drake Blvd Fairfax CA 94930",
-    "addr:housenumber":"2017",
-    "addr:postcode":"94930",
-    "addr:street":"Sir Francis Drake Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.58956,37.987416,-122.58956,37.987416",
-    "geom:latitude":37.987416,
-    "geom:longitude":-122.58956,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2017 Sir Francis Drake Blvd",
-    "sg:city":"Fairfax",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2017 Sir Francis Drake Blvd Fairfax CA 94930",
+    "addr:housenumber": "2017",
+    "addr:postcode": "94930",
+    "addr:street": "Sir Francis Drake Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.589560,37.987416,-122.589560,37.987416",
+    "geom:latitude": 37.987416,
+    "geom:longitude": -122.58956,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "M \u0026 G Burgers \u0026 Beverages, 2017 Sir Francis Drake Blvd Fairfax CA US",
+    "ovtr:similarity": 3.338078022003174,
+    "sg:address": "2017 Sir Francis Drake Blvd",
+    "sg:city": "Fairfax",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 454 0655",
-    "sg:postcode":"94930",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102084353,
-        85633793,
-        85688637,
-        85832149
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 454 0655",
+    "sg:postcode": "94930",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102084353,
+      85633793,
+      85688637,
+      85832149
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6l51iJQ9Vl1lo17nTPQBJs_37.987416_-122.589560@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830bae36c95203427521c8545dc1",
+      "sg:id": "SG_6l51iJQ9Vl1lo17nTPQBJs_37.987416_-122.589560@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"86671961f529ef82d842863d84d0a222",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084353,
-            "neighbourhood_id":85832149,
-            "region_id":85688637,
-            "venue_id":555352235
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "86671961f529ef82d842863d84d0a222",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "neighbourhood_id": 85832149,
+        "region_id": 85688637,
+        "venue_id": 555352235
+      }
     ],
-    "wof:id":555352235,
-    "wof:lastmodified":1509201362,
-    "wof:name":"M & G Burgers & Beverages",
-    "wof:parent_id":85832149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555352235,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "M \u0026 G Burgers \u0026 Beverages",
+    "wof:parent_id": 85832149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.58956,
     37.987416,
     -122.58956,
     37.987416
-],
-  "geometry": {"coordinates":[-122.58956000000001,37.987416],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.58956,37.987416],"type":"Point"}
 }

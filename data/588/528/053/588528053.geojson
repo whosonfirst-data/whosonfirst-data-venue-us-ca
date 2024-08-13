@@ -2,88 +2,92 @@
   "id": 588528053,
   "type": "Feature",
   "properties": {
-    "addr:full":"1005 Harrison St Berkeley CA 94710",
-    "addr:housenumber":"1005",
-    "addr:postcode":"94710",
-    "addr:street":"Harrison St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.298506,37.882423,-122.298506,37.882423",
-    "geom:latitude":37.882423,
-    "geom:longitude":-122.298506,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1005 Harrison St",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Home & Garden",
-            "subcategory":"Carpets & Floor Coverings",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1005 Harrison St Berkeley CA 94710",
+    "addr:housenumber": "1005",
+    "addr:postcode": "94710",
+    "addr:street": "Harrison St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.298506,37.882423,-122.298506,37.882423",
+    "geom:latitude": 37.882423,
+    "geom:longitude": -122.298506,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tileshop, 1005 Harrison St Berkeley CA US",
+    "ovtr:similarity": 2.252042055130005,
+    "sg:address": "1005 Harrison St",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Carpets \u0026 Floor Coverings",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 525 4312",
-    "sg:postcode":"94710",
-    "sg:province":"CA",
-    "sg:tags":[
-        "flooring",
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 525 4312",
+    "sg:postcode": "94710",
+    "sg:province": "CA",
+    "sg:tags": [
+      "flooring",
+      "supply"
     ],
-    "sg:website":"www.tile-shop.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921919,
-        102086959,
-        85885547
+    "sg:website": "www.tile-shop.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921919,
+      102086959,
+      85885547
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1U4VStCzmsquiMVpA2K6g5_37.882423_-122.298506@1303263352"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308f418155a03a47f5a9a516aa4",
+      "sg:id": "SG_1U4VStCzmsquiMVpA2K6g5_37.882423_-122.298506@1303263352"
     },
-    "wof:country":"US",
-    "wof:geomhash":"73d23d9599e9f1e921230e6fec0afbca",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921919,
-            "neighbourhood_id":85885547,
-            "region_id":85688637,
-            "venue_id":588528053
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "73d23d9599e9f1e921230e6fec0afbca",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921919,
+        "neighbourhood_id": 85885547,
+        "region_id": 85688637,
+        "venue_id": 588528053
+      }
     ],
-    "wof:id":588528053,
-    "wof:lastmodified":1509202118,
-    "wof:name":"Tileshop",
-    "wof:parent_id":85885547,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "flooring",
-        "supply"
+    "wof:id": 588528053,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "Tileshop",
+    "wof:parent_id": 85885547,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "flooring",
+      "supply"
     ]
-},
+  },
   "bbox": [
     -122.298506,
     37.882423,
     -122.298506,
     37.882423
-],
+  ],
   "geometry": {"coordinates":[-122.298506,37.882423],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 370770927,
   "type": "Feature",
   "properties": {
-    "addr:full":"4605 E 3rd St Los Angeles CA 90022",
-    "addr:housenumber":"4605",
-    "addr:postcode":"90022",
-    "addr:street":"E 3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.160004,34.033501,-118.160004,34.033501",
-    "geom:latitude":34.033501,
-    "geom:longitude":-118.160004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4605 E 3rd St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "4605 E 3rd St Los Angeles CA 90022",
+    "addr:housenumber": "4605",
+    "addr:postcode": "90022",
+    "addr:street": "E 3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.160004,34.033501,-118.160004,34.033501",
+    "geom:latitude": 34.033501,
+    "geom:longitude": -118.160004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Duran's Body Shop, 4605 E 3rd St Los Angeles CA US",
+    "ovtr:similarity": 1.754662036895752,
+    "sg:address": "4605 E 3rd St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 721 3900",
-    "sg:postcode":"90022",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 721 3900",
+    "sg:postcode": "90022",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928323,
-        102086957,
-        85805671
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928323,
+      102086957,
+      85805671
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JlTrLmlHo95grTTuqggNr_34.033501_-118.160004@1303263154"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d2b191d96037da4c985458504",
+      "sg:id": "SG_7JlTrLmlHo95grTTuqggNr_34.033501_-118.160004@1303263154"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e84a33d433f4e82a5d3b9ac02b57596e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928323,
-            "neighbourhood_id":85805671,
-            "region_id":85688637,
-            "venue_id":370770927
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "e84a33d433f4e82a5d3b9ac02b57596e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928323,
+        "neighbourhood_id": 85805671,
+        "region_id": 85688637,
+        "venue_id": 370770927
+      }
     ],
-    "wof:id":370770927,
-    "wof:lastmodified":1509200815,
-    "wof:name":"Duran's Body Shop",
-    "wof:parent_id":85805671,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop"
+    "wof:id": 370770927,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Duran's Body Shop",
+    "wof:parent_id": 85805671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -118.160004,
     34.033501,
     -118.160004,
     34.033501
-],
+  ],
   "geometry": {"coordinates":[-118.160004,34.033501],"type":"Point"}
 }

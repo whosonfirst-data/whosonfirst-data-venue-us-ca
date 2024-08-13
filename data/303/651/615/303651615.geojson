@@ -2,65 +2,73 @@
   "id": 303651615,
   "type": "Feature",
   "properties": {
-    "addr:full":"374 W Main St Woodland CA 95695",
-    "addr:housenumber":"374",
-    "addr:postcode":"95695",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.799577,38.677741,-121.799577,38.677741",
-    "geom:latitude":38.677741,
-    "geom:longitude":-121.799577,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"374 W Main St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "374 W Main St Woodland CA 95695",
+    "addr:housenumber": "374",
+    "addr:postcode": "95695",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.799577,38.677741,-121.799577,38.677741",
+    "geom:latitude": 38.677741,
+    "geom:longitude": -121.799577,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Yolo Smog, 374 W Main St Woodland CA US",
+    "ovtr:similarity": 2.736354112625122,
+    "sg:address": "374 W Main St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 669 3505",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 669 3505",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3z8rd66NhQNUHLum51tD53_38.677741_-121.799577@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830694119c4203505ebf743d1f40",
+      "sg:id": "SG_3z8rd66NhQNUHLum51tD53_38.677741_-121.799577@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8eea29badbb487f6f9082a45642257c0",
-    "wof:hierarchy":[],
-    "wof:id":303651615,
-    "wof:lastmodified":1509200378,
-    "wof:name":"Yolo Smog",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "8eea29badbb487f6f9082a45642257c0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 303651615
+      }
+    ],
+    "wof:id": 303651615,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Yolo Smog",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -121.799577,
     38.677741,
     -121.799577,
     38.677741
-],
+  ],
   "geometry": {"coordinates":[-121.799577,38.677741],"type":"Point"}
 }

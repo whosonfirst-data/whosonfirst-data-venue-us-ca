@@ -2,75 +2,79 @@
   "id": 370234825,
   "type": "Feature",
   "properties": {
-    "addr:full":"43628 10th St W Lancaster CA 93534",
-    "addr:housenumber":"43628",
-    "addr:postcode":"93534",
-    "addr:street":"10Th St W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.147803,34.675093,-118.147803,34.675093",
-    "geom:latitude":34.675093,
-    "geom:longitude":-118.147803,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"43628 10th St W",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "43628 10th St W Lancaster CA 93534",
+    "addr:housenumber": "43628",
+    "addr:postcode": "93534",
+    "addr:street": "10Th St W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.147803,34.675093,-118.147803,34.675093",
+    "geom:latitude": 34.675093,
+    "geom:longitude": -118.147803,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jack in the Box, 43628 10th St W Lancaster CA US",
+    "ovtr:similarity": 2.5319740772247314,
+    "sg:address": "43628 10th St W",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 942 0522",
-    "sg:postcode":"93534",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923547,
-        102086957,
-        85851509
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 942 0522",
+    "sg:postcode": "93534",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923547,
+      102086957,
+      85851509
     ],
-    "wof:brand_id":1125148691,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03VrcofuOKBOAgGRgxXPEF_34.675093_-118.147803@1294081369"
+    "wof:brand_id": 1125148691,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a146a41b86303fbfd93e0dea9d1",
+      "sg:id": "SG_03VrcofuOKBOAgGRgxXPEF_34.675093_-118.147803@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3077642193b0d5cae1e7c1d09d52a516",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923547,
-            "neighbourhood_id":85851509,
-            "region_id":85688637,
-            "venue_id":370234825
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "3077642193b0d5cae1e7c1d09d52a516",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923547,
+        "neighbourhood_id": 85851509,
+        "region_id": 85688637,
+        "venue_id": 370234825
+      }
     ],
-    "wof:id":370234825,
-    "wof:lastmodified":1511999243,
-    "wof:name":"Jack In The Box",
-    "wof:parent_id":85851509,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370234825,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Jack In The Box",
+    "wof:parent_id": 85851509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.147803,
     34.675093,
     -118.147803,
     34.675093
-],
+  ],
   "geometry": {"coordinates":[-118.147803,34.675093],"type":"Point"}
 }

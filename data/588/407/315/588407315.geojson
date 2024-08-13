@@ -2,85 +2,89 @@
   "id": 588407315,
   "type": "Feature",
   "properties": {
-    "addr:full":"522 Frederick St San Francisco CA 94117",
-    "addr:housenumber":"522",
-    "addr:postcode":"94117",
-    "addr:street":"Frederick St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.45335,37.766323,-122.45335,37.766323",
-    "geom:latitude":37.766323,
-    "geom:longitude":-122.45335,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"522 Frederick St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "522 Frederick St San Francisco CA 94117",
+    "addr:housenumber": "522",
+    "addr:postcode": "94117",
+    "addr:street": "Frederick St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.453350,37.766323,-122.453350,37.766323",
+    "geom:latitude": 37.766323,
+    "geom:longitude": -122.45335,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Stan Carlsen Body Shop, 522 Frederick St San Francisco CA US",
+    "ovtr:similarity": 2.9194650650024414,
+    "sg:address": "522 Frederick St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 221 0100",
-    "sg:postcode":"94117",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 221 0100",
+    "sg:postcode": "94117",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "shop"
     ],
-    "sg:website":"www.stancarlsenautobody.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85882171
+    "sg:website": "www.stancarlsenautobody.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85882171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":288563071,
-        "sfgov_rbl:id":"0154730-01-001",
-        "sg:id":"SG_2F0PcDALahfIMKQoQDnjId_37.766323_-122.453350@1303263320"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 288563071,
+      "ovtr:id": "08f283082d261d06031f34a5b2bfe202",
+      "sfgov_rbl:id": "0154730-01-001",
+      "sg:id": "SG_2F0PcDALahfIMKQoQDnjId_37.766323_-122.453350@1303263320"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6392fc273eef8676eb8f70c84b2df987",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85882171,
-            "region_id":85688637,
-            "venue_id":588407315
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "6392fc273eef8676eb8f70c84b2df987",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85882171,
+        "region_id": 85688637,
+        "venue_id": 588407315
+      }
     ],
-    "wof:id":588407315,
-    "wof:lastmodified":1510943083,
-    "wof:name":"Stan Carlsen Body Shop",
-    "wof:parent_id":85882171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop"
+    "wof:id": 588407315,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Stan Carlsen Body Shop",
+    "wof:parent_id": 85882171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -122.45335,
     37.766323,
     -122.45335,
     37.766323
-],
+  ],
   "geometry": {"coordinates":[-122.45335,37.766323],"type":"Point"}
 }

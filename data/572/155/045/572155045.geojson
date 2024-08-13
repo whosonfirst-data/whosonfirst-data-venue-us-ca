@@ -2,83 +2,87 @@
   "id": 572155045,
   "type": "Feature",
   "properties": {
-    "addr:full":"613 Mission St South Pasadena CA 91030",
-    "addr:housenumber":"613",
-    "addr:postcode":"91030",
-    "addr:street":"Mission St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.163437,34.115734,-118.163437,34.115734",
-    "geom:latitude":34.115734,
-    "geom:longitude":-118.163437,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"613 Mission St",
-    "sg:city":"South Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "613 Mission St South Pasadena CA 91030",
+    "addr:housenumber": "613",
+    "addr:postcode": "91030",
+    "addr:street": "Mission St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.163437,34.115734,-118.163437,34.115734",
+    "geom:latitude": 34.115734,
+    "geom:longitude": -118.163437,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 613 Mission St South Pasadena CA US",
+    "ovtr:similarity": 2.4494500160217285,
+    "sg:address": "613 Mission St",
+    "sg:city": "South Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 441 6263",
-    "sg:postcode":"91030",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 441 6263",
+    "sg:postcode": "91030",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85821221
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85821221
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":486086747,
-        "sg:id":"SG_7YeD2okFATw0xvbw5ScL7j_34.115625_-118.163219@1293134755"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 486086747,
+      "ovtr:id": "08f29a1c25a6390c030d029b9b719887",
+      "sg:id": "SG_7YeD2okFATw0xvbw5ScL7j_34.115625_-118.163219@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a82988066ad1b8eac9e9a0bda37bb60b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85821221,
-            "region_id":85688637,
-            "venue_id":572155045
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "a82988066ad1b8eac9e9a0bda37bb60b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85821221,
+        "region_id": 85688637,
+        "venue_id": 572155045
+      }
     ],
-    "wof:id":572155045,
-    "wof:lastmodified":1510942706,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":85821221,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 572155045,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 85821221,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.163437,
     34.115734,
     -118.163437,
     34.115734
-],
+  ],
   "geometry": {"coordinates":[-118.163437,34.115734],"type":"Point"}
 }

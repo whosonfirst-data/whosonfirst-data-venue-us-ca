@@ -2,87 +2,91 @@
   "id": 572003283,
   "type": "Feature",
   "properties": {
-    "addr:full":"841 N Broadway Los Angeles CA 90012",
-    "addr:housenumber":"841",
-    "addr:postcode":"90012",
-    "addr:street":"N Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.237999,34.063702,-118.237999,34.063702",
-    "geom:latitude":34.063702,
-    "geom:longitude":-118.237999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"841 N Broadway",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        }
+    "addr:full": "841 N Broadway Los Angeles CA 90012",
+    "addr:housenumber": "841",
+    "addr:postcode": "90012",
+    "addr:street": "N Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.237999,34.063702,-118.237999,34.063702",
+    "geom:latitude": 34.063702,
+    "geom:longitude": -118.237999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tin Bo Co, 841 N Broadway Los Angeles CA US",
+    "ovtr:similarity": 2.3574469089508057,
+    "sg:address": "841 N Broadway",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 680 3395",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:tags":[
-        "health",
-        "market",
-        "diet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 680 3395",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:tags": [
+      "health",
+      "market",
+      "diet"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85866825",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85866825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000471948-0001-7",
-        "sg:id":"SG_1iRqrbocerOE0Vg2IddDRd_34.063358_-118.237820@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000471948-0001-7",
+      "ovtr:id": "08f29a1d71cc4a9a03500e37ddeada24",
+      "sg:id": "SG_1iRqrbocerOE0Vg2IddDRd_34.063358_-118.237820@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"604a9448909262bfa2991d4cbd10ae64",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85866825",
-            "region_id":85688637,
-            "venue_id":572003283
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "604a9448909262bfa2991d4cbd10ae64",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85866825,
+        "region_id": 85688637,
+        "venue_id": 572003283
+      }
     ],
-    "wof:id":572003283,
-    "wof:lastmodified":1509201661,
-    "wof:name":"Tin Bo Co",
-    "wof:parent_id":"85866825",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "health",
-        "market",
-        "diet"
+    "wof:id": 572003283,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Tin Bo Co",
+    "wof:parent_id": "85866825",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "health",
+      "market",
+      "diet"
     ]
-},
+  },
   "bbox": [
     -118.237999,
     34.063702,
     -118.237999,
     34.063702
-],
+  ],
   "geometry": {"coordinates":[-118.237999,34.063702],"type":"Point"}
 }

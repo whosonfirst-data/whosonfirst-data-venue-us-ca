@@ -2,79 +2,83 @@
   "id": 371192051,
   "type": "Feature",
   "properties": {
-    "addr:full":"3040 Beverly Blvd Los Angeles CA 90057",
-    "addr:housenumber":"3040",
-    "addr:postcode":"90057",
-    "addr:street":"Beverly Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.282078,34.071764,-118.282078,34.071764",
-    "geom:latitude":34.071764,
-    "geom:longitude":-118.282078,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3040 Beverly Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3040 Beverly Blvd Los Angeles CA 90057",
+    "addr:housenumber": "3040",
+    "addr:postcode": "90057",
+    "addr:street": "Beverly Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.282078,34.071764,-118.282078,34.071764",
+    "geom:latitude": 34.071764,
+    "geom:longitude": -118.282078,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jim's Burgers, 3040 Beverly Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.3667778968811035,
+    "sg:address": "3040 Beverly Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 384 3346",
-    "sg:postcode":"90057",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 384 3346",
+    "sg:postcode": "90057",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865825
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0zU87sKhpZ8KRFhZVdAHSg_34.071764_-118.282078@1303263165"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d634dc4b3038d8f8596964f6c",
+      "sg:id": "SG_0zU87sKhpZ8KRFhZVdAHSg_34.071764_-118.282078@1303263165"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0520aabca0d35c09ccaa2f63e59106be",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865825,
-            "region_id":85688637,
-            "venue_id":371192051
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "0520aabca0d35c09ccaa2f63e59106be",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865825,
+        "region_id": 85688637,
+        "venue_id": 371192051
+      }
     ],
-    "wof:id":371192051,
-    "wof:lastmodified":1509200913,
-    "wof:name":"Jim's Burgers",
-    "wof:parent_id":85865825,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 371192051,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Jim's Burgers",
+    "wof:parent_id": 85865825,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -118.282078,
     34.071764,
     -118.282078,
     34.071764
-],
+  ],
   "geometry": {"coordinates":[-118.282078,34.071764],"type":"Point"}
 }

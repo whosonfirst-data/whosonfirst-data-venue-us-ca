@@ -2,84 +2,88 @@
   "id": 387223441,
   "type": "Feature",
   "properties": {
-    "addr:full":"824 N Hill St Los Angeles CA 90012",
-    "addr:housenumber":"824",
-    "addr:postcode":"90012",
-    "addr:street":"N Hill St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.238804,34.063997,-118.238804,34.063997",
-    "geom:latitude":34.063997,
-    "geom:longitude":-118.238804,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"824 N Hill St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Medical Lab",
-            "type":"Services"
-        }
+    "addr:full": "824 N Hill St Los Angeles CA 90012",
+    "addr:housenumber": "824",
+    "addr:postcode": "90012",
+    "addr:street": "N Hill St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.238804,34.063997,-118.238804,34.063997",
+    "geom:latitude": 34.063997,
+    "geom:longitude": -118.238804,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hill Street Imaging, 824 N Hill St Los Angeles CA US",
+    "ovtr:similarity": 2.1132960319519043,
+    "sg:address": "824 N Hill St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Medical Lab",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 626 7816",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:tags":[
-        "x",
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 626 7816",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:tags": [
+      "x",
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85866825",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85866825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7UbPCbKoP1fCwT3EgG79z6_34.063997_-118.238804@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d71ceed6c03d42a93daabbcf9",
+      "sg:id": "SG_7UbPCbKoP1fCwT3EgG79z6_34.063997_-118.238804@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d05de4b6fafe8d364bf64f30b62b3076",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85866825",
-            "region_id":85688637,
-            "venue_id":387223441
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "d05de4b6fafe8d364bf64f30b62b3076",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85866825,
+        "region_id": 85688637,
+        "venue_id": 387223441
+      }
     ],
-    "wof:id":387223441,
-    "wof:lastmodified":1509200983,
-    "wof:name":"Hill Street Imaging",
-    "wof:parent_id":"85866825",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "x",
-        "laboratory"
+    "wof:id": 387223441,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Hill Street Imaging",
+    "wof:parent_id": "85866825",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "x",
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -118.238804,
     34.063997,
     -118.238804,
     34.063997
-],
+  ],
   "geometry": {"coordinates":[-118.238804,34.063997],"type":"Point"}
 }

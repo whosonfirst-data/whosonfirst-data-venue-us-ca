@@ -2,82 +2,86 @@
   "id": 555194497,
   "type": "Feature",
   "properties": {
-    "addr:full":"2121 Wilshire Blvd Santa Monica CA 90403",
-    "addr:housenumber":"2121",
-    "addr:postcode":"90403",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.481631,34.03267,-118.481631,34.03267",
-    "geom:latitude":34.03267,
-    "geom:longitude":-118.481631,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2121 Wilshire Blvd",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "2121 Wilshire Blvd Santa Monica CA 90403",
+    "addr:housenumber": "2121",
+    "addr:postcode": "90403",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.481631,34.032670,-118.481631,34.032670",
+    "geom:latitude": 34.03267,
+    "geom:longitude": -118.481631,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Westside Internal Medicine, 2121 Wilshire Blvd Santa Monica CA US",
+    "ovtr:similarity": 1.7020540237426758,
+    "sg:address": "2121 Wilshire Blvd",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 264 0565",
-    "sg:postcode":"90403",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 264 0565",
+    "sg:postcode": "90403",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923817,
-        102086957,
-        85880865
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923817,
+      102086957,
+      85880865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6NwtXGINkvq2whhF0RPckc_34.032670_-118.481631@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198c1b6b6e03ac6fe2254c52ac",
+      "sg:id": "SG_6NwtXGINkvq2whhF0RPckc_34.032670_-118.481631@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"44a7c88197ac66d30a03f4e04c691124",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880865,
-            "region_id":85688637,
-            "venue_id":555194497
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "44a7c88197ac66d30a03f4e04c691124",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85880865,
+        "region_id": 85688637,
+        "venue_id": 555194497
+      }
     ],
-    "wof:id":555194497,
-    "wof:lastmodified":1509201308,
-    "wof:name":"Westside Internal Medicine",
-    "wof:parent_id":85880865,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 555194497,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Westside Internal Medicine",
+    "wof:parent_id": 85880865,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -118.481631,
     34.03267,
     -118.481631,
     34.03267
-],
-  "geometry": {"coordinates":[-118.48163099999999,34.03267],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.481631,34.03267],"type":"Point"}
 }

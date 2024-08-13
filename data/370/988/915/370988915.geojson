@@ -2,79 +2,83 @@
   "id": 370988915,
   "type": "Feature",
   "properties": {
-    "addr:full":"231 W Vernon Avenue Los Angeles CA 90037",
-    "addr:housenumber":"231",
-    "addr:postcode":"90037",
-    "addr:street":"W Vernon Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.276836,34.003804,-118.276836,34.003804",
-    "geom:latitude":34.003804,
-    "geom:longitude":-118.276836,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"231 W Vernon Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "231 W Vernon Avenue Los Angeles CA 90037",
+    "addr:housenumber": "231",
+    "addr:postcode": "90037",
+    "addr:street": "W Vernon Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.276836,34.003804,-118.276836,34.003804",
+    "geom:latitude": 34.003804,
+    "geom:longitude": -118.276836,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vern-Bro Medical Group, 231 W Vernon Ave Los Angeles CA US",
+    "ovtr:similarity": 1.8526020050048828,
+    "sg:address": "231 W Vernon Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 234 0542",
-    "sg:postcode":"90037",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85868345",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 234 0542",
+    "sg:postcode": "90037",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85868345
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1VRU6XxtbPmj4r8EKR9zmc_34.003804_-118.276836@1303263160"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d9b1c68b03cf7e94e3fb767d",
+      "sg:id": "SG_1VRU6XxtbPmj4r8EKR9zmc_34.003804_-118.276836@1303263160"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5f9087196ad81dd6e270a6aa40284de5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85868345",
-            "region_id":85688637,
-            "venue_id":370988915
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "5f9087196ad81dd6e270a6aa40284de5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85868345,
+        "region_id": 85688637,
+        "venue_id": 370988915
+      }
     ],
-    "wof:id":370988915,
-    "wof:lastmodified":1510944136,
-    "wof:name":"Vern-Bro Medical Group",
-    "wof:parent_id":"85868345",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        320474913
+    "wof:id": 370988915,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Vern-Bro Medical Group",
+    "wof:parent_id": "85868345",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      320474913
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -118.276836,
     34.003804,
     -118.276836,
     34.003804
-],
+  ],
   "geometry": {"coordinates":[-118.276836,34.003804],"type":"Point"}
 }

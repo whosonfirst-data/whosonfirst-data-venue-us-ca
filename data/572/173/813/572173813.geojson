@@ -2,66 +2,74 @@
   "id": 572173813,
   "type": "Feature",
   "properties": {
-    "addr:full":"345 N Imperial Ave El Centro CA 92243",
-    "addr:housenumber":"345",
-    "addr:postcode":"92243",
-    "addr:street":"N Imperial Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.569939,32.795244,-115.569939,32.795244",
-    "geom:latitude":32.795244,
-    "geom:longitude":-115.569939,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"345 N Imperial Ave",
-    "sg:city":"El Centro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "345 N Imperial Ave El Centro CA 92243",
+    "addr:housenumber": "345",
+    "addr:postcode": "92243",
+    "addr:street": "N Imperial Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.569939,32.795244,-115.569939,32.795244",
+    "geom:latitude": 32.795244,
+    "geom:longitude": -115.569939,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 345 N Imperial Ave El Centro CA US",
+    "ovtr:similarity": 2.543483018875122,
+    "sg:address": "345 N Imperial Ave",
+    "sg:city": "El Centro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/el-centro/216374-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"92243",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/el-centro/216374-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "92243",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3yL6wLqT9HvPv0Rd45z9G1_32.795244_-115.569939@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f485ba6015b635038ee9e70e03b31c",
+      "sg:id": "SG_3yL6wLqT9HvPv0Rd45z9G1_32.795244_-115.569939@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"80122dd0c1a88d5a72bbd1de29e3f99d",
-    "wof:hierarchy":[],
-    "wof:id":572173813,
-    "wof:lastmodified":1512142863,
-    "wof:name":"McDonald's",
-    "wof:parent_id":420550977,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "80122dd0c1a88d5a72bbd1de29e3f99d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572173813
+      }
+    ],
+    "wof:id": 572173813,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 420550977,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -115.569939,
     32.795244,
     -115.569939,
     32.795244
-],
-  "geometry": {"coordinates":[-115.56993900000001,32.795244],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-115.569939,32.795244],"type":"Point"}
 }

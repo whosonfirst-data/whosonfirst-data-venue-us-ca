@@ -2,63 +2,71 @@
   "id": 588522587,
   "type": "Feature",
   "properties": {
-    "addr:full":"614 San Pablo Ave Albany CA 94706",
-    "addr:housenumber":"614",
-    "addr:postcode":"94706",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.300662,37.895598,-122.300662,37.895598",
-    "geom:latitude":37.895598,
-    "geom:longitude":-122.300662,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"614 San Pablo Ave",
-    "sg:city":"Albany",
-    "sg:classifiers":[
-        {
-            "category":"Arena",
-            "subcategory":"Sports Club",
-            "type":"Entertainment"
-        }
+    "addr:full": "614 San Pablo Ave Albany CA 94706",
+    "addr:housenumber": "614",
+    "addr:postcode": "94706",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.300662,37.895598,-122.300662,37.895598",
+    "geom:latitude": 37.895598,
+    "geom:longitude": -122.300662,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "All In One Fitness, 614 San Pablo Ave Albany CA US",
+    "ovtr:similarity": 3.7672441005706787,
+    "sg:address": "614 San Pablo Ave",
+    "sg:city": "Albany",
+    "sg:classifiers": [
+      {
+        "category": "Arena",
+        "subcategory": "Sports Club",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 705 1601",
-    "sg:postcode":"94706",
-    "sg:province":"CA",
-    "sg:tags":[
-        "health"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 705 1601",
+    "sg:postcode": "94706",
+    "sg:province": "CA",
+    "sg:tags": [
+      "health"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QOvMu65fPasEuyVfvrwRi_37.895598_-122.300662@1303263350"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308f09b26660352f72bad01a274",
+      "sg:id": "SG_2QOvMu65fPasEuyVfvrwRi_37.895598_-122.300662@1303263350"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8475329c8e25ae369930ba131a3b315f",
-    "wof:hierarchy":[],
-    "wof:id":588522587,
-    "wof:lastmodified":1509202114,
-    "wof:name":"All In One Fitness-Albany",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "health"
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "8475329c8e25ae369930ba131a3b315f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588522587
+      }
+    ],
+    "wof:id": 588522587,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "All In One Fitness-Albany",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "health"
     ]
-},
+  },
   "bbox": [
     -122.300662,
     37.895598,
     -122.300662,
     37.895598
-],
+  ],
   "geometry": {"coordinates":[-122.300662,37.895598],"type":"Point"}
 }

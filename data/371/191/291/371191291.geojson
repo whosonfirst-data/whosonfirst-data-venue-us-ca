@@ -2,74 +2,78 @@
   "id": 371191291,
   "type": "Feature",
   "properties": {
-    "addr:full":"5012 S La Brea Ave Los Angeles CA 90056",
-    "addr:housenumber":"5012",
-    "addr:postcode":"90056",
-    "addr:street":"S;Brea Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.358002,33.996399,-118.358002,33.996399",
-    "geom:latitude":33.996399,
-    "geom:longitude":-118.358002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5012 S La Brea Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "5012 S La Brea Ave Los Angeles CA 90056",
+    "addr:housenumber": "5012",
+    "addr:postcode": "90056",
+    "addr:street": "S;Brea Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.358002,33.996399,-118.358002,33.996399",
+    "geom:latitude": 33.996399,
+    "geom:longitude": -118.358002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Liberty Cleaners, 5012 S La Brea Ave Los Angeles CA US",
+    "ovtr:similarity": 1.7095600366592407,
+    "sg:address": "5012 S La Brea Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 291 9100",
-    "sg:postcode":"90056",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928413,
-        102086957,
-        85858237
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 291 9100",
+    "sg:postcode": "90056",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928413,
+      102086957,
+      85858237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0twOBYKxZt7ORR6vqIBUXx_33.996399_-118.358002@1303263165"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1994d0e4c803e39ac5a537d034",
+      "sg:id": "SG_0twOBYKxZt7ORR6vqIBUXx_33.996399_-118.358002@1303263165"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7711849ffa3a734b607f814db4ae533c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928413,
-            "neighbourhood_id":85858237,
-            "region_id":85688637,
-            "venue_id":371191291
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "7711849ffa3a734b607f814db4ae533c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928413,
+        "neighbourhood_id": 85858237,
+        "region_id": 85688637,
+        "venue_id": 371191291
+      }
     ],
-    "wof:id":371191291,
-    "wof:lastmodified":1509200913,
-    "wof:name":"Liberty Cleaners",
-    "wof:parent_id":85858237,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371191291,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Liberty Cleaners",
+    "wof:parent_id": 85858237,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.358002,
     33.996399,
     -118.358002,
     33.996399
-],
+  ],
   "geometry": {"coordinates":[-118.358002,33.996399],"type":"Point"}
 }

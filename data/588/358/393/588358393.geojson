@@ -2,81 +2,85 @@
   "id": 588358393,
   "type": "Feature",
   "properties": {
-    "addr:full":"174 N Sunnyvale Ave Sunnyvale CA 94086",
-    "addr:housenumber":"174",
-    "addr:postcode":"94086",
-    "addr:street":"N Sunnyvale Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.028,37.379398,-122.028,37.379398",
-    "geom:latitude":37.379398,
-    "geom:longitude":-122.028,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"174 N Sunnyvale Ave",
-    "sg:city":"Sunnyvale",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "174 N Sunnyvale Ave Sunnyvale CA 94086",
+    "addr:housenumber": "174",
+    "addr:postcode": "94086",
+    "addr:street": "N Sunnyvale Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.028000,37.379398,-122.028000,37.379398",
+    "geom:latitude": 37.379398,
+    "geom:longitude": -122.028,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Spangler Mortuary, 174 N Sunnyvale Ave Sunnyvale CA US",
+    "ovtr:similarity": 2.240070104598999,
+    "sg:address": "174 N Sunnyvale Ave",
+    "sg:city": "Sunnyvale",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 736 6294",
-    "sg:postcode":"94086",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 736 6294",
+    "sg:postcode": "94086",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cemetery"
     ],
-    "sg:website":"spanglermortuary.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922333,
-        102081673,
-        85881217
+    "sg:website": "spanglermortuary.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922333,
+      102081673,
+      85881217
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6B7JSSuAtLCvLH30erdG2c_37.379398_-122.028000@1303263308"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28347088a208d03b24b39f128403c",
+      "sg:id": "SG_6B7JSSuAtLCvLH30erdG2c_37.379398_-122.028000@1303263308"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1a146a04a5d3a0abe6bbf6332e2316b8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922333,
-            "neighbourhood_id":85881217,
-            "region_id":85688637,
-            "venue_id":588358393
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "1a146a04a5d3a0abe6bbf6332e2316b8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922333,
+        "neighbourhood_id": 85881217,
+        "region_id": 85688637,
+        "venue_id": 588358393
+      }
     ],
-    "wof:id":588358393,
-    "wof:lastmodified":1509202013,
-    "wof:name":"Spangler Mortuary",
-    "wof:parent_id":85881217,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:id": 588358393,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Spangler Mortuary",
+    "wof:parent_id": 85881217,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -122.028,
     37.379398,
     -122.028,
     37.379398
-],
-  "geometry": {"coordinates":[-122.02800000000001,37.379398],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.028,37.379398],"type":"Point"}
 }

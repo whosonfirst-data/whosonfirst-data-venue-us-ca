@@ -2,82 +2,86 @@
   "id": 169587215,
   "type": "Feature",
   "properties": {
-    "addr:full":"4300 E Main St Ventura CA 93003",
-    "addr:housenumber":"4300",
-    "addr:postcode":"93003",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.234595,34.262478,-119.234595,34.262478",
-    "geom:latitude":34.262478,
-    "geom:longitude":-119.234595,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4300 E Main St",
-    "sg:city":"Ventura",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4300 E Main St Ventura CA 93003",
+    "addr:housenumber": "4300",
+    "addr:postcode": "93003",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.234595,34.262478,-119.234595,34.262478",
+    "geom:latitude": 34.262478,
+    "geom:longitude": -119.234595,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Petco, 4300 E Main St Ventura CA US",
+    "ovtr:similarity": 2.7103960514068604,
+    "sg:address": "4300 E Main St",
+    "sg:city": "Ventura",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 639 3016",
-    "sg:postcode":"93003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 639 3016",
+    "sg:postcode": "93003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923223,
-        102086933,
-        85834875
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923223,
+      102086933,
+      85834875
     ],
-    "wof:brand_id":420574739,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1JDY1RSh1A6KeJvSDZgtHV_34.262478_-119.234595@1294081369"
+    "wof:brand_id": 420574739,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2912793a49aad032e068fdb984669",
+      "sg:id": "SG_1JDY1RSh1A6KeJvSDZgtHV_34.262478_-119.234595@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fb705dc7d43f5e2e7a01bbc31e291249",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086933,
-            "locality_id":85923223,
-            "neighbourhood_id":85834875,
-            "region_id":85688637,
-            "venue_id":169587215
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "fb705dc7d43f5e2e7a01bbc31e291249",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "locality_id": 85923223,
+        "neighbourhood_id": 85834875,
+        "region_id": 85688637,
+        "venue_id": 169587215
+      }
     ],
-    "wof:id":169587215,
-    "wof:lastmodified":1509199783,
-    "wof:name":"PETCO",
-    "wof:parent_id":85834875,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet",
-        "shop"
+    "wof:id": 169587215,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "PETCO",
+    "wof:parent_id": 85834875,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -119.234595,
     34.262478,
     -119.234595,
     34.262478
-],
+  ],
   "geometry": {"coordinates":[-119.234595,34.262478],"type":"Point"}
 }

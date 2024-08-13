@@ -2,82 +2,86 @@
   "id": 555187805,
   "type": "Feature",
   "properties": {
-    "addr:full":"17640 Burbank Blvd Encino CA 91316",
-    "addr:housenumber":"17640",
-    "addr:postcode":"91316",
-    "addr:street":"Burbank Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.515613,34.172197,-118.515613,34.172197",
-    "geom:latitude":34.172197,
-    "geom:longitude":-118.515613,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"17640 Burbank Blvd",
-    "sg:city":"Encino",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "17640 Burbank Blvd Encino CA 91316",
+    "addr:housenumber": "17640",
+    "addr:postcode": "91316",
+    "addr:street": "Burbank Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.515613,34.172197,-118.515613,34.172197",
+    "geom:latitude": 34.172197,
+    "geom:longitude": -118.515613,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 17640 Burbank Blvd Encino CA US",
+    "ovtr:similarity": 3.73020601272583,
+    "sg:address": "17640 Burbank Blvd",
+    "sg:city": "Encino",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 990 7751",
-    "sg:postcode":"91316",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 990 7751",
+    "sg:postcode": "91316",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85818083
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85818083
     ],
-    "wof:brand_id":1125159109,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000554496-0003-6",
-        "sg:id":"SG_16Zuvpflw69FArZnQkScFi_34.172197_-118.515613@1294081369"
+    "wof:brand_id": 1125159109,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000554496-0003-6",
+      "ovtr:id": "08f29a18ab92405203bdb5429613d7c7",
+      "sg:id": "SG_16Zuvpflw69FArZnQkScFi_34.172197_-118.515613@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6df73d31ece03f86f8330688fa21b460",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85818083,
-            "region_id":85688637,
-            "venue_id":555187805
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "6df73d31ece03f86f8330688fa21b460",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85818083,
+        "region_id": 85688637,
+        "venue_id": 555187805
+      }
     ],
-    "wof:id":555187805,
-    "wof:lastmodified":1510613417,
-    "wof:name":"Trader Joe's Co",
-    "wof:parent_id":85818083,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 555187805,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Trader Joe's Co",
+    "wof:parent_id": 85818083,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.515613,
     34.172197,
     -118.515613,
     34.172197
-],
+  ],
   "geometry": {"coordinates":[-118.515613,34.172197],"type":"Point"}
 }

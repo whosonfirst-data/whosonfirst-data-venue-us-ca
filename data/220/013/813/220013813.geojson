@@ -2,75 +2,79 @@
   "id": 220013813,
   "type": "Feature",
   "properties": {
-    "addr:full":"1291 Hilltop Dr Redding CA 96003",
-    "addr:housenumber":"1291",
-    "addr:postcode":"96003",
-    "addr:street":"Hilltop Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.358079,40.591072,-122.358079,40.591072",
-    "geom:latitude":40.591072,
-    "geom:longitude":-122.358079,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1291 Hilltop Dr",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1291 Hilltop Dr Redding CA 96003",
+    "addr:housenumber": "1291",
+    "addr:postcode": "96003",
+    "addr:street": "Hilltop Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.358079,40.591072,-122.358079,40.591072",
+    "geom:latitude": 40.591072,
+    "geom:longitude": -122.358079,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Macy's, 1291 Hilltop Dr Redding CA US",
+    "ovtr:similarity": 2.8769190311431885,
+    "sg:address": "1291 Hilltop Dr",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 722 9111",
-    "sg:postcode":"96003",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85818197
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 722 9111",
+    "sg:postcode": "96003",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85818197
     ],
-    "wof:brand_id":420575351,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Dyt9pTLBt1tNcoliI9VOA_40.591072_-122.358079@1294081369"
+    "wof:brand_id": 420575351,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28157646b311d0325d0083843bf71",
+      "sg:id": "SG_5Dyt9pTLBt1tNcoliI9VOA_40.591072_-122.358079@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"99a9ac2357e89274af2a6b210b609467",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":220013813
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "99a9ac2357e89274af2a6b210b609467",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 220013813
+      }
     ],
-    "wof:id":220013813,
-    "wof:lastmodified":1509199994,
-    "wof:name":"Macy's",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 220013813,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Macy's",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.358079,
     40.591072,
     -122.358079,
     40.591072
-],
+  ],
   "geometry": {"coordinates":[-122.358079,40.591072],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 588399673,
   "type": "Feature",
   "properties": {
-    "addr:full":"1818 San Jose Ave San Francisco CA 94112",
-    "addr:housenumber":"1818",
-    "addr:postcode":"94112",
-    "addr:street":"San Jose Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.440445,37.728565,-122.440445,37.728565",
-    "geom:latitude":37.728565,
-    "geom:longitude":-122.440445,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1818 San Jose Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1818 San Jose Ave San Francisco CA 94112",
+    "addr:housenumber": "1818",
+    "addr:postcode": "94112",
+    "addr:street": "San Jose Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.440445,37.728565,-122.440445,37.728565",
+    "geom:latitude": 37.728565,
+    "geom:longitude": -122.440445,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tasty Coffee, 1818 San Jose Ave San Francisco CA US",
+    "ovtr:similarity": 2.5883710384368896,
+    "sg:address": "1818 San Jose Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 585 8853",
-    "sg:postcode":"94112",
-    "sg:province":"CA",
-    "sg:website":"www.tastycoffeecompany.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85869497
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 585 8853",
+    "sg:postcode": "94112",
+    "sg:province": "CA",
+    "sg:website": "www.tastycoffeecompany.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85869497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4951873767,
-        "sfgov_rbl:id":"0447524-01-001",
-        "sg:id":"SG_3ZccjucMlNkVCLai25WO77_37.728565_-122.440445@1303263318"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4951873767,
+      "ovtr:id": "08f2830953981d1403f08392a9d55ea1",
+      "sfgov_rbl:id": "0447524-01-001",
+      "sg:id": "SG_3ZccjucMlNkVCLai25WO77_37.728565_-122.440445@1303263318"
     },
-    "wof:country":"US",
-    "wof:geomhash":"10ae43dc0227ed9ec155e0ae9d07892d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85869497,
-            "region_id":85688637,
-            "venue_id":588399673
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "10ae43dc0227ed9ec155e0ae9d07892d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85869497,
+        "region_id": 85688637,
+        "venue_id": 588399673
+      }
     ],
-    "wof:id":588399673,
-    "wof:lastmodified":1510941772,
-    "wof:name":"Tasty Coffee",
-    "wof:parent_id":85869497,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588399673,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Tasty Coffee",
+    "wof:parent_id": 85869497,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.440445,
     37.728565,
     -122.440445,
     37.728565
-],
+  ],
   "geometry": {"coordinates":[-122.440445,37.728565],"type":"Point"}
 }

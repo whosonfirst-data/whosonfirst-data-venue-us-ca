@@ -2,91 +2,95 @@
   "id": 588561931,
   "type": "Feature",
   "properties": {
-    "addr:full":"5001 Great America Pkwy Santa Clara CA 95054",
-    "addr:housenumber":"5001",
-    "addr:postcode":"95054",
-    "addr:street":"Great America Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.977997,37.4039,-121.977997,37.4039",
-    "geom:latitude":37.4039,
-    "geom:longitude":-121.977997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5001 Great America Pkwy",
-    "sg:city":"Santa Clara",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        }
+    "addr:full": "5001 Great America Pkwy Santa Clara CA 95054",
+    "addr:housenumber": "5001",
+    "addr:postcode": "95054",
+    "addr:street": "Great America Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.977997,37.403900,-121.977997,37.403900",
+    "geom:latitude": 37.4039,
+    "geom:longitude": -121.977997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Santa Clara Convention Center, 5001 Great America Pkwy Santa Clara CA US",
+    "ovtr:similarity": 2.5774118900299072,
+    "sg:address": "5001 Great America Pkwy",
+    "sg:city": "Santa Clara",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 748 7000",
-    "sg:postcode":"95054",
-    "sg:province":"CA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 748 7000",
+    "sg:postcode": "95054",
+    "sg:province": "CA",
+    "sg:tags": [
+      "venue"
     ],
-    "sg:website":"www.santaclara.org/conventioncen...",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85887705
+    "sg:website": "www.santaclara.org/conventioncen...",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85887705
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1QIcVmLxmi7fIjtuYA6eVC_37.403900_-121.977997@1303263361"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834719d71592035deac223a9f7aa",
+      "sg:id": "SG_1QIcVmLxmi7fIjtuYA6eVC_37.403900_-121.977997@1303263361"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a31377d048494aae20d122246a738821",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "neighbourhood_id":85887705,
-            "region_id":85688637,
-            "venue_id":588561931
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "a31377d048494aae20d122246a738821",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922341,
+        "neighbourhood_id": 85887705,
+        "region_id": 85688637,
+        "venue_id": 588561931
+      }
     ],
-    "wof:id":588561931,
-    "wof:lastmodified":1509202138,
-    "wof:name":"Santa Clara Convention Center",
-    "wof:parent_id":85887705,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 588561931,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Santa Clara Convention Center",
+    "wof:parent_id": 85887705,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -121.977997,
     37.4039,
     -121.977997,
     37.4039
-],
+  ],
   "geometry": {"coordinates":[-121.977997,37.4039],"type":"Point"}
 }

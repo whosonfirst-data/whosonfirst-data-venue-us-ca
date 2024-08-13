@@ -2,74 +2,78 @@
   "id": 370846641,
   "type": "Feature",
   "properties": {
-    "addr:full":"5001 Hollywood Blvd Los Angeles CA 90027",
-    "addr:housenumber":"5001",
-    "addr:postcode":"90027",
-    "addr:street":"Hollywood Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.297997,34.1017,-118.297997,34.1017",
-    "geom:latitude":34.1017,
-    "geom:longitude":-118.297997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5001 Hollywood Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5001 Hollywood Blvd Los Angeles CA 90027",
+    "addr:housenumber": "5001",
+    "addr:postcode": "90027",
+    "addr:street": "Hollywood Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.297997,34.101700,-118.297997,34.101700",
+    "geom:latitude": 34.1017,
+    "geom:longitude": -118.297997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Arbat Grocery \u0026 Deli, 5001 Hollywood Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.5574278831481934,
+    "sg:address": "5001 Hollywood Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 644 5454",
-    "sg:postcode":"90027",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869425
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 644 5454",
+    "sg:postcode": "90027",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869425
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Gw0jnKsXYiUXSGDK2wYDr_34.101700_-118.297997@1303263156"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d41825a8b03ef5804fe50f8db",
+      "sg:id": "SG_5Gw0jnKsXYiUXSGDK2wYDr_34.101700_-118.297997@1303263156"
     },
-    "wof:country":"US",
-    "wof:geomhash":"092a9c390fbf455cd0c40dcc79dcc265",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869425,
-            "region_id":85688637,
-            "venue_id":370846641
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "092a9c390fbf455cd0c40dcc79dcc265",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869425,
+        "region_id": 85688637,
+        "venue_id": 370846641
+      }
     ],
-    "wof:id":370846641,
-    "wof:lastmodified":1509200833,
-    "wof:name":"Arbat Grocery",
-    "wof:parent_id":85869425,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370846641,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Arbat Grocery",
+    "wof:parent_id": 85869425,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.297997,
     34.1017,
     -118.297997,
     34.1017
-],
+  ],
   "geometry": {"coordinates":[-118.297997,34.1017],"type":"Point"}
 }

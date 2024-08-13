@@ -2,79 +2,83 @@
   "id": 404079415,
   "type": "Feature",
   "properties": {
-    "addr:full":"3399 Atlantic Ave Long Beach CA 90807",
-    "addr:housenumber":"3399",
-    "addr:postcode":"90807",
-    "addr:street":"Atlantic Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.184998,33.818901,-118.184998,33.818901",
-    "geom:latitude":33.818901,
-    "geom:longitude":-118.184998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3399 Atlantic Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3399 Atlantic Ave Long Beach CA 90807",
+    "addr:housenumber": "3399",
+    "addr:postcode": "90807",
+    "addr:street": "Atlantic Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.184998,33.818901,-118.184998,33.818901",
+    "geom:latitude": 33.818901,
+    "geom:longitude": -118.184998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Granny's Donuts, 3399 Atlantic Ave Long Beach CA US",
+    "ovtr:similarity": 2.2308270931243896,
+    "sg:address": "3399 Atlantic Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 427 5005",
-    "sg:postcode":"90807",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85854007
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 427 5005",
+    "sg:postcode": "90807",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85854007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7g6lshqdxJ18ZPxCU2qiSy_33.818901_-118.184998@1303263199"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56137a43ab03a6f5a6d28eac34",
+      "sg:id": "SG_7g6lshqdxJ18ZPxCU2qiSy_33.818901_-118.184998@1303263199"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2703497984a73baece793bb2b8a47c00",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85854007,
-            "region_id":85688637,
-            "venue_id":404079415
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "2703497984a73baece793bb2b8a47c00",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85854007,
+        "region_id": 85688637,
+        "venue_id": 404079415
+      }
     ],
-    "wof:id":404079415,
-    "wof:lastmodified":1509201198,
-    "wof:name":"Granny's Donuts",
-    "wof:parent_id":85854007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404079415,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Granny's Donuts",
+    "wof:parent_id": 85854007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.184998,
     33.818901,
     -118.184998,
     33.818901
-],
-  "geometry": {"coordinates":[-118.18499799999999,33.818901],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.184998,33.818901],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 387882933,
   "type": "Feature",
   "properties": {
-    "addr:full":"12456 Lambert Rd Whittier CA 90606",
-    "addr:housenumber":"12456",
-    "addr:postcode":"90606",
-    "addr:street":"Lambert Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.047997,33.966202,-118.047997,33.966202",
-    "geom:latitude":33.966202,
-    "geom:longitude":-118.047997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12456 Lambert Rd",
-    "sg:city":"Whittier",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "12456 Lambert Rd Whittier CA 90606",
+    "addr:housenumber": "12456",
+    "addr:postcode": "90606",
+    "addr:street": "Lambert Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.047997,33.966202,-118.047997,33.966202",
+    "geom:latitude": 33.966202,
+    "geom:longitude": -118.047997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Golden West Coach \u0026 Auto Body, 12456 Lambert Rd Whittier CA US",
+    "ovtr:similarity": 3.1256139278411865,
+    "sg:address": "12456 Lambert Rd",
+    "sg:city": "Whittier",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 695 5466",
-    "sg:postcode":"90606",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "shop"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 695 5466",
+    "sg:postcode": "90606",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "shop"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923757,
-        102086957,
-        85888229
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923757,
+      102086957,
+      85888229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5fTrKP3HNBqrBbrVa2tZmW_33.966202_-118.047997@1303263189"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d34629aec03c0b9cb3f26a226",
+      "sg:id": "SG_5fTrKP3HNBqrBbrVa2tZmW_33.966202_-118.047997@1303263189"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0317a9f5c0c74477c4b2dd35ce0422be",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923757,
-            "neighbourhood_id":85888229,
-            "region_id":85688637,
-            "venue_id":387882933
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "0317a9f5c0c74477c4b2dd35ce0422be",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923757,
+        "neighbourhood_id": 85888229,
+        "region_id": 85688637,
+        "venue_id": 387882933
+      }
     ],
-    "wof:id":387882933,
-    "wof:lastmodified":1509201116,
-    "wof:name":"Golden West Coach Auto Body",
-    "wof:parent_id":85888229,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop"
+    "wof:id": 387882933,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Golden West Coach Auto Body",
+    "wof:parent_id": 85888229,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop"
     ]
-},
+  },
   "bbox": [
     -118.047997,
     33.966202,
     -118.047997,
     33.966202
-],
+  ],
   "geometry": {"coordinates":[-118.047997,33.966202],"type":"Point"}
 }

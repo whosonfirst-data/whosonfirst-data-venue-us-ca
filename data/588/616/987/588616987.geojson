@@ -2,81 +2,89 @@
   "id": 588616987,
   "type": "Feature",
   "properties": {
-    "addr:full":"2600 Mitchell Rd Ste P Ceres CA 95307",
-    "addr:housenumber":"2600",
-    "addr:postcode":"95307",
-    "addr:street":"Mitchell Rd Ste P",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.939003,37.593899,-120.939003,37.593899",
-    "geom:latitude":37.593899,
-    "geom:longitude":-120.939003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2600 Mitchell Rd Ste P",
-    "sg:city":"Ceres",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "2600 Mitchell Rd Ste P Ceres CA 95307",
+    "addr:housenumber": "2600",
+    "addr:postcode": "95307",
+    "addr:street": "Mitchell Rd Ste P",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.939003,37.593899,-120.939003,37.593899",
+    "geom:latitude": 37.593899,
+    "geom:longitude": -120.939003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pizza Hut, 2600 Mitchell Rd Ceres CA US",
+    "ovtr:similarity": 3.482896089553833,
+    "sg:address": "2600 Mitchell Rd Ste P",
+    "sg:city": "Ceres",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 537 5300",
-    "sg:postcode":"95307",
-    "sg:province":"CA",
-    "sg:tags":[
-        "delivery",
-        "take",
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 537 5300",
+    "sg:postcode": "95307",
+    "sg:province": "CA",
+    "sg:tags": [
+      "delivery",
+      "take",
+      "pizza"
     ],
-    "sg:website":"http://www.pizzahut.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573787,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1sPUMVbiGQEYIjGBnTdfKY_37.593899_-120.939003@1303263374"
+    "sg:website": "http://www.pizzahut.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573787,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283610225e91b03ee5238675793dc",
+      "sg:id": "SG_1sPUMVbiGQEYIjGBnTdfKY_37.593899_-120.939003@1303263374"
     },
-    "wof:country":"US",
-    "wof:geomhash":"460c050b8f7f7d4adbb48bc15ddbd385",
-    "wof:hierarchy":[],
-    "wof:id":588616987,
-    "wof:lastmodified":1511321124,
-    "wof:name":"Pizza Hut",
-    "wof:parent_id":420552961,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        572197733
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "460c050b8f7f7d4adbb48bc15ddbd385",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588616987
+      }
     ],
-    "wof:tags":[
-        "delivery",
-        "take",
-        "pizza"
+    "wof:id": 588616987,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Pizza Hut",
+    "wof:parent_id": 420552961,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      572197733
+    ],
+    "wof:tags": [
+      "delivery",
+      "take",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -120.939003,
     37.593899,
     -120.939003,
     37.593899
-],
+  ],
   "geometry": {"coordinates":[-120.939003,37.593899],"type":"Point"}
 }

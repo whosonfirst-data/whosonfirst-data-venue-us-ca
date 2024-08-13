@@ -2,73 +2,77 @@
   "id": 572089391,
   "type": "Feature",
   "properties": {
-    "addr:full":"1912 Ventura Blvd Camarillo CA 93010",
-    "addr:housenumber":"1912",
-    "addr:postcode":"93010",
-    "addr:street":"Ventura Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.044998,34.216999,-119.044998,34.216999",
-    "geom:latitude":34.216999,
-    "geom:longitude":-119.044998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1912 Ventura Blvd",
-    "sg:city":"Camarillo",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "1912 Ventura Blvd Camarillo CA 93010",
+    "addr:housenumber": "1912",
+    "addr:postcode": "93010",
+    "addr:street": "Ventura Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.044998,34.216999,-119.044998,34.216999",
+    "geom:latitude": 34.216999,
+    "geom:longitude": -119.044998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Camarillo Barber Shop, 1912 Ventura Blvd Camarillo CA US",
+    "ovtr:similarity": 3.0276010036468506,
+    "sg:address": "1912 Ventura Blvd",
+    "sg:city": "Camarillo",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 482 6817",
-    "sg:postcode":"93010",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85867439,
-        85633793,
-        85923249,
-        102086933,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 482 6817",
+    "sg:postcode": "93010",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85867439,
+      85633793,
+      85923249,
+      102086933,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_51f5oIdeLmFfcbb5zEvIHS_34.217115_-119.045116@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1b2d70a10403472f0572b08e8b",
+      "sg:id": "SG_51f5oIdeLmFfcbb5zEvIHS_34.217115_-119.045116@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"842e56514b40a74c1331e810ce526a3a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086933,
-            "locality_id":85923249,
-            "neighbourhood_id":85867439,
-            "region_id":85688637,
-            "venue_id":572089391
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "842e56514b40a74c1331e810ce526a3a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "locality_id": 85923249,
+        "neighbourhood_id": 85867439,
+        "region_id": 85688637,
+        "venue_id": 572089391
+      }
     ],
-    "wof:id":572089391,
-    "wof:lastmodified":1509201689,
-    "wof:name":"Camarillo Barber Shop",
-    "wof:parent_id":85867439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572089391,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "Camarillo Barber Shop",
+    "wof:parent_id": 85867439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.044998,
     34.216999,
     -119.044998,
     34.216999
-],
-  "geometry": {"coordinates":[-119.04499800000001,34.216999],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.044998,34.216999],"type":"Point"}
 }

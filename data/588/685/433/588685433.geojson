@@ -2,75 +2,79 @@
   "id": 588685433,
   "type": "Feature",
   "properties": {
-    "addr:full":"7900 Fruitridge Road Sacramento CA 95820",
-    "addr:housenumber":"7900",
-    "addr:postcode":"95820",
-    "addr:street":"Fruitridge Road",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.411534,38.524954,-121.411534,38.524954",
-    "geom:latitude":38.524954,
-    "geom:longitude":-121.411534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7900 Fruitridge Road",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7900 Fruitridge Road Sacramento CA 95820",
+    "addr:housenumber": "7900",
+    "addr:postcode": "95820",
+    "addr:street": "Fruitridge Road",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.411534,38.524954,-121.411534,38.524954",
+    "geom:latitude": 38.524954,
+    "geom:longitude": -121.411534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Choice Gas, 7900 Fruitridge Rd Sacramento CA US",
+    "ovtr:similarity": 1.991191029548645,
+    "sg:address": "7900 Fruitridge Road",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 381 5237",
-    "sg:postcode":"95820",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872187
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 381 5237",
+    "sg:postcode": "95820",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872187
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2HoZBdjfDcXIO6WOEhXM7m_38.524954_-121.411534@1303263392"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283284d7915b0032a59313898abac",
+      "sg:id": "SG_2HoZBdjfDcXIO6WOEhXM7m_38.524954_-121.411534@1303263392"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7383b04a8e7d719888665e603a69e0f0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872187,
-            "region_id":85688637,
-            "venue_id":588685433
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "7383b04a8e7d719888665e603a69e0f0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872187,
+        "region_id": 85688637,
+        "venue_id": 588685433
+      }
     ],
-    "wof:id":588685433,
-    "wof:lastmodified":1509202213,
-    "wof:name":"Choice Gas",
-    "wof:parent_id":85872187,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588685433,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "Choice Gas",
+    "wof:parent_id": 85872187,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.411534,
     38.524954,
     -121.411534,
     38.524954
-],
+  ],
   "geometry": {"coordinates":[-121.411534,38.524954],"type":"Point"}
 }

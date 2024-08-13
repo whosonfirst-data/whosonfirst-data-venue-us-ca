@@ -2,86 +2,90 @@
   "id": 572037233,
   "type": "Feature",
   "properties": {
-    "addr:full":"460 Broadway San Francisco CA 94133",
-    "addr:housenumber":"460",
-    "addr:postcode":"94133",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.404999,37.798199,-122.404999,37.798199",
-    "geom:latitude":37.798199,
-    "geom:longitude":-122.404999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"460 Broadway",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "460 Broadway San Francisco CA 94133",
+    "addr:housenumber": "460",
+    "addr:postcode": "94133",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.404999,37.798199,-122.404999,37.798199",
+    "geom:latitude": 37.798199,
+    "geom:longitude": -122.404999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Broadway Liquors, 460 Broadway San Francisco CA US",
+    "ovtr:similarity": 3.1299960613250732,
+    "sg:address": "460 Broadway",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 398 3484",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 398 3484",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831979,
-        85837317,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831979,
+      85837317,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2uHHStubQONHQK4pQHChhW_37.798142_-122.405163@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082b59aa16030645f0b05b2fcb",
+      "sg:id": "SG_2uHHStubQONHQK4pQHChhW_37.798142_-122.405163@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4b2996d7e2afe06d7e97fc79fa5b9cbc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831979,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":572037233
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "4b2996d7e2afe06d7e97fc79fa5b9cbc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831979,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 572037233
+      }
     ],
-    "wof:id":572037233,
-    "wof:lastmodified":1509201673,
-    "wof:name":"Broadway Liquors",
-    "wof:parent_id":1108831979,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572037233,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Broadway Liquors",
+    "wof:parent_id": 1108831979,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -122.404999,
     37.798199,
     -122.404999,
     37.798199
-],
+  ],
   "geometry": {"coordinates":[-122.404999,37.798199],"type":"Point"}
 }

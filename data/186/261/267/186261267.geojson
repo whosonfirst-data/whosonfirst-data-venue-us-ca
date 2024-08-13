@@ -2,84 +2,88 @@
   "id": 186261267,
   "type": "Feature",
   "properties": {
-    "addr:full":"1600 Grant Ave Novato CA 94945",
-    "addr:housenumber":"1600",
-    "addr:postcode":"94945",
-    "addr:street":"Grant Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.578292,38.1092,-122.578292,38.1092",
-    "geom:latitude":38.1092,
-    "geom:longitude":-122.578292,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1600 Grant Ave",
-    "sg:city":"Novato",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "1600 Grant Ave Novato CA 94945",
+    "addr:housenumber": "1600",
+    "addr:postcode": "94945",
+    "addr:street": "Grant Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.578292,38.109200,-122.578292,38.109200",
+    "geom:latitude": 38.1092,
+    "geom:longitude": -122.578292,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank of America, 1600 Grant Ave Novato CA US",
+    "ovtr:similarity": 2.494257926940918,
+    "sg:address": "1600 Grant Ave",
+    "sg:city": "Novato",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 499 5151",
-    "sg:postcode":"94945",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85886661,
-        102084353,
-        102191575,
-        85922017,
-        85886671
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 499 5151",
+    "sg:postcode": "94945",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85886661,
+      102084353,
+      102191575,
+      85922017,
+      85886671
     ],
-    "wof:brand_id":420573893,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0c07DwD2lhEmorU1nvLWpo_38.109200_-122.578292@1294081369"
+    "wof:brand_id": 420573893,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830aa0a493540308b27e6a67a882",
+      "sg:id": "SG_0c07DwD2lhEmorU1nvLWpo_38.109200_-122.578292@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f17fd1725826ded7bb10a01f59a2e2d4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084353,
-            "neighbourhood_id":85886661,
-            "region_id":85688637,
-            "venue_id":186261267
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922017,
-            "neighbourhood_id":85886671,
-            "region_id":85688637,
-            "venue_id":186261267
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "f17fd1725826ded7bb10a01f59a2e2d4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "neighbourhood_id": 85886661,
+        "region_id": 85688637,
+        "venue_id": 186261267
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922017,
+        "neighbourhood_id": 85886671,
+        "region_id": 85688637,
+        "venue_id": 186261267
+      }
     ],
-    "wof:id":186261267,
-    "wof:lastmodified":1512142579,
-    "wof:name":"Bank Of America",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 186261267,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Bank Of America",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.578292,
     38.1092,
     -122.578292,
     38.1092
-],
+  ],
   "geometry": {"coordinates":[-122.578292,38.1092],"type":"Point"}
 }

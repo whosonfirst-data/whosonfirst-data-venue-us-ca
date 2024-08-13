@@ -2,73 +2,77 @@
   "id": 354411505,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Old Airport Rd Auburn CA 95603",
-    "addr:housenumber":"100",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Old Airport Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.051248,38.941131,-121.051248,38.941131",
-    "geom:latitude":38.941131,
-    "geom:longitude":-121.051248,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"100 Old Airport Rd",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "100 Old Airport Rd Auburn CA 95603",
+    "addr:housenumber": "100",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Old Airport Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.051248,38.941131,-121.051248,38.941131",
+    "geom:latitude": 38.941131,
+    "geom:longitude": -121.051248,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bowman Veterinary Hospital, 100 Old Airport Rd Auburn CA US",
+    "ovtr:similarity": 2.175679922103882,
+    "sg:address": "100 Old Airport Rd",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 823 6306",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080863,
-        85841911
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 823 6306",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080863,
+      85841911
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5iAxeAinGA8GE4MYEnsXQh_38.941131_-121.051248@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320e3a2360e032cf1d2a7b7f70e",
+      "sg:id": "SG_5iAxeAinGA8GE4MYEnsXQh_38.941131_-121.051248@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f65e2896e000fa7ae40b3490a71c26bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":-1,
-            "neighbourhood_id":85841911,
-            "region_id":85688637,
-            "venue_id":354411505
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "f65e2896e000fa7ae40b3490a71c26bd",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": -1,
+        "neighbourhood_id": 85841911,
+        "region_id": 85688637,
+        "venue_id": 354411505
+      }
     ],
-    "wof:id":354411505,
-    "wof:lastmodified":1509200688,
-    "wof:name":"Bowman Veterinary Hospital",
-    "wof:parent_id":85841911,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354411505,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Bowman Veterinary Hospital",
+    "wof:parent_id": 85841911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.051248,
     38.941131,
     -121.051248,
     38.941131
-],
+  ],
   "geometry": {"coordinates":[-121.051248,38.941131],"type":"Point"}
 }

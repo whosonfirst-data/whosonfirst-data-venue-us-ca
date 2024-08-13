@@ -2,58 +2,66 @@
   "id": 555372683,
   "type": "Feature",
   "properties": {
-    "addr:full":"223 E Locust St Lone Pine CA 93545",
-    "addr:housenumber":"223",
-    "addr:postcode":"93545",
-    "addr:street":"E Locust St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.061453,36.608271,-118.061453,36.608271",
-    "geom:latitude":36.608271,
-    "geom:longitude":-118.061453,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"223 E Locust St",
-    "sg:city":"Lone Pine",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "223 E Locust St Lone Pine CA 93545",
+    "addr:housenumber": "223",
+    "addr:postcode": "93545",
+    "addr:street": "E Locust St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.061453,36.608271,-118.061453,36.608271",
+    "geom:latitude": 36.608271,
+    "geom:longitude": -118.061453,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lo-Inyo Elementary School, 223 E Locust St Lone Pine CA US",
+    "ovtr:similarity": 2.568950891494751,
+    "sg:address": "223 E Locust St",
+    "sg:city": "Lone Pine",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 876 5581",
-    "sg:postcode":"93545",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_67MgkIjJMoKGZIRTI9oQfV_36.608271_-118.061453@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 876 5581",
+    "sg:postcode": "93545",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aacd0d08780033715103edac159",
+      "sg:id": "SG_67MgkIjJMoKGZIRTI9oQfV_36.608271_-118.061453@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2a2c1ff7eedd74b85b973a6c3fd8bbb3",
-    "wof:hierarchy":[],
-    "wof:id":555372683,
-    "wof:lastmodified":1509201369,
-    "wof:name":"Lo-Inyo Elementary School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "2a2c1ff7eedd74b85b973a6c3fd8bbb3",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555372683
+      }
+    ],
+    "wof:id": 555372683,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Lo-Inyo Elementary School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.061453,
     36.608271,
     -118.061453,
     36.608271
-],
+  ],
   "geometry": {"coordinates":[-118.061453,36.608271],"type":"Point"}
 }

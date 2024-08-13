@@ -2,79 +2,83 @@
   "id": 370740795,
   "type": "Feature",
   "properties": {
-    "addr:full":"1310 E Olympic Blvd Los Angeles CA 90021",
-    "addr:housenumber":"1310",
-    "addr:postcode":"90021",
-    "addr:street":"E Olympic Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.244012,34.031408,-118.244012,34.031408",
-    "geom:latitude":34.031408,
-    "geom:longitude":-118.244012,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1310 E Olympic Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1310 E Olympic Blvd Los Angeles CA 90021",
+    "addr:housenumber": "1310",
+    "addr:postcode": "90021",
+    "addr:street": "E Olympic Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.244012,34.031408,-118.244012,34.031408",
+    "geom:latitude": 34.031408,
+    "geom:longitude": -118.244012,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 1310 E Olympic Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.5459818840026855,
+    "sg:address": "1310 E Olympic Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 612 0129",
-    "sg:postcode":"90021",
-    "sg:province":"CA",
-    "sg:website":"www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 612 0129",
+    "sg:postcode": "90021",
+    "sg:province": "CA",
+    "sg:website": "www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1pv2Yh1iMvYDoCgXDn0vZ0_34.031408_-118.244012@1303263154"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56db6436d903522030274afd0d",
+      "sg:id": "SG_1pv2Yh1iMvYDoCgXDn0vZ0_34.031408_-118.244012@1303263154"
     },
-    "wof:country":"US",
-    "wof:geomhash":"be25257df6462241d87dc2898b917180",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370740795
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "be25257df6462241d87dc2898b917180",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370740795
+      }
     ],
-    "wof:id":370740795,
-    "wof:lastmodified":1512142858,
-    "wof:name":"McDonald's",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370740795,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "McDonald's",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.244012,
     34.031408,
     -118.244012,
     34.031408
-],
+  ],
   "geometry": {"coordinates":[-118.244012,34.031408],"type":"Point"}
 }

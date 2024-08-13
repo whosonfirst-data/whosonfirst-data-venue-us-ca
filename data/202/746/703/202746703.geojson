@@ -2,77 +2,81 @@
   "id": 202746703,
   "type": "Feature",
   "properties": {
-    "addr:full":"206 S Ave 19 Los Angeles CA 90031",
-    "addr:housenumber":"206;19",
-    "addr:postcode":"90031",
-    "addr:street":"S Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.22005,34.070345,-118.22005,34.070345",
-    "geom:latitude":34.070345,
-    "geom:longitude":-118.22005,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"206 S Ave 19",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "206 S Ave 19 Los Angeles CA 90031",
+    "addr:housenumber": "206;19",
+    "addr:postcode": "90031",
+    "addr:street": "S Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.220050,34.070345,-118.220050,34.070345",
+    "geom:latitude": 34.070345,
+    "geom:longitude": -118.22005,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Duby's Beauty Salon, 206 S Avenue 19 Los Angeles CA US",
+    "ovtr:similarity": 2.9053471088409424,
+    "sg:address": "206 S Ave 19",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 342 0443",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 342 0443",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01zWcz6oncQGTsMToCPUEZ_34.070345_-118.220050@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d738a068203106b0e197ba48c",
+      "sg:id": "SG_01zWcz6oncQGTsMToCPUEZ_34.070345_-118.220050@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e4777eddc0cb7b00420481dc9396f49a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":202746703
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "e4777eddc0cb7b00420481dc9396f49a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 202746703
+      }
     ],
-    "wof:id":202746703,
-    "wof:lastmodified":1509199897,
-    "wof:name":"Duby's Beauty Salon",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 202746703,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Duby's Beauty Salon",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.22005,
     34.070345,
     -118.22005,
     34.070345
-],
+  ],
   "geometry": {"coordinates":[-118.22005,34.070345],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 252834481,
   "type": "Feature",
   "properties": {
-    "addr:full":"1107 W Ave K Lancaster CA 93534",
-    "addr:housenumber":"1107",
-    "addr:postcode":"93534",
-    "addr:street":"W Ave K",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.150169,34.674945,-118.150169,34.674945",
-    "geom:latitude":34.674945,
-    "geom:longitude":-118.150169,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1107 W Ave K",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Furniture",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1107 W Ave K Lancaster CA 93534",
+    "addr:housenumber": "1107",
+    "addr:postcode": "93534",
+    "addr:street": "W Ave K",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.150169,34.674945,-118.150169,34.674945",
+    "geom:latitude": 34.674945,
+    "geom:longitude": -118.150169,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ross Furniture, 1107 W Avenue K Lancaster CA US",
+    "ovtr:similarity": 3.961184024810791,
+    "sg:address": "1107 W Ave K",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Furniture",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 945 7609",
-    "sg:postcode":"93534",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923547,
-        102086957,
-        85851509
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 945 7609",
+    "sg:postcode": "93534",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923547,
+      102086957,
+      85851509
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2315418329,
-        "sg:id":"SG_2uIhdvchP0SCwo41sO1jtU_34.674945_-118.150169@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2315418329,
+      "ovtr:id": "08f29a146a4739a803d042fc3282d8bf",
+      "sg:id": "SG_2uIhdvchP0SCwo41sO1jtU_34.674945_-118.150169@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f9635d0ccb75be43e12d4cbc0f0bcbb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923547,
-            "neighbourhood_id":85851509,
-            "region_id":85688637,
-            "venue_id":252834481
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "f9635d0ccb75be43e12d4cbc0f0bcbb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923547,
+        "neighbourhood_id": 85851509,
+        "region_id": 85688637,
+        "venue_id": 252834481
+      }
     ],
-    "wof:id":252834481,
-    "wof:lastmodified":1510941433,
-    "wof:name":"Ross Furniture",
-    "wof:parent_id":85851509,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 252834481,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Ross Furniture",
+    "wof:parent_id": 85851509,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.150169,
     34.674945,
     -118.150169,
     34.674945
-],
-  "geometry": {"coordinates":[-118.15016900000001,34.674945],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.150169,34.674945],"type":"Point"}
 }

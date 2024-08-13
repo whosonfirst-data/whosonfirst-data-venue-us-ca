@@ -2,74 +2,78 @@
   "id": 404022859,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 Pico Ave Long Beach CA 90802",
-    "addr:housenumber":"555",
-    "addr:postcode":"90802",
-    "addr:street":"Pico Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.208,33.770802,-118.208,33.770802",
-    "geom:latitude":33.770802,
-    "geom:longitude":-118.208,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"555 Pico Ave",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "555 Pico Ave Long Beach CA 90802",
+    "addr:housenumber": "555",
+    "addr:postcode": "90802",
+    "addr:street": "Pico Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.208000,33.770802,-118.208000,33.770802",
+    "geom:latitude": 33.770802,
+    "geom:longitude": -118.208,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Queens Wharf Restaurant, 555 Pico Ave Long Beach CA US",
+    "ovtr:similarity": 2.1496710777282715,
+    "sg:address": "555 Pico Ave",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 495 3617",
-    "sg:postcode":"90802",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85858057
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 495 3617",
+    "sg:postcode": "90802",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85858057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UhuLlowrhw1hnADeEcs2S_33.770802_-118.208000@1303263198"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a5615c1d6f503ea0b269dda5cf8",
+      "sg:id": "SG_6UhuLlowrhw1hnADeEcs2S_33.770802_-118.208000@1303263198"
     },
-    "wof:country":"US",
-    "wof:geomhash":"df67c069efdd99fd6a9e1c347dc889f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85858057,
-            "region_id":85688637,
-            "venue_id":404022859
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "df67c069efdd99fd6a9e1c347dc889f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85858057,
+        "region_id": 85688637,
+        "venue_id": 404022859
+      }
     ],
-    "wof:id":404022859,
-    "wof:lastmodified":1509201189,
-    "wof:name":"Queens Wharf Restaurant",
-    "wof:parent_id":85858057,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404022859,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Queens Wharf Restaurant",
+    "wof:parent_id": 85858057,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.208,
     33.770802,
     -118.208,
     33.770802
-],
+  ],
   "geometry": {"coordinates":[-118.208,33.770802],"type":"Point"}
 }

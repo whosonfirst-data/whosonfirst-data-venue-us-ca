@@ -2,83 +2,87 @@
   "id": 403811245,
   "type": "Feature",
   "properties": {
-    "addr:full":"24361 Muirlands Blvd Lake Forest CA 92630",
-    "addr:housenumber":"24361",
-    "addr:postcode":"92630",
-    "addr:street":"Muirlands Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.70311,33.627899,-117.70311,33.627899",
-    "geom:latitude":33.627899,
-    "geom:longitude":-117.70311,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"24361 Muirlands Blvd",
-    "sg:city":"Lake Forest",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "24361 Muirlands Blvd Lake Forest CA 92630",
+    "addr:housenumber": "24361",
+    "addr:postcode": "92630",
+    "addr:street": "Muirlands Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.703110,33.627899,-117.703110,33.627899",
+    "geom:latitude": 33.627899,
+    "geom:longitude": -117.70311,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "AutoZone, 24361 Muirlands Blvd Lake Forest CA US",
+    "ovtr:similarity": 1.8880610466003418,
+    "sg:address": "24361 Muirlands Blvd",
+    "sg:city": "Lake Forest",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 455 1995",
-    "sg:postcode":"92630",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "parts"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 455 1995",
+    "sg:postcode": "92630",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "parts"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923103,
-        102080847,
-        85886477
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923103,
+      102080847,
+      85886477
     ],
-    "wof:brand_id":420573803,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":346945250,
-        "sg:id":"SG_7CufOvW4MiIffmXfqBYPyn_33.627899_-117.703110@1294081369"
+    "wof:brand_id": 420573803,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 346945250,
+      "ovtr:id": "08f29a549a66ad2a03a5b5f895d6aca3",
+      "sg:id": "SG_7CufOvW4MiIffmXfqBYPyn_33.627899_-117.703110@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c8e2d57e671de4e9847504beb8be0aef",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923103,
-            "neighbourhood_id":85886477,
-            "region_id":85688637,
-            "venue_id":403811245
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "c8e2d57e671de4e9847504beb8be0aef",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923103,
+        "neighbourhood_id": 85886477,
+        "region_id": 85688637,
+        "venue_id": 403811245
+      }
     ],
-    "wof:id":403811245,
-    "wof:lastmodified":1510941386,
-    "wof:name":"Autozone",
-    "wof:parent_id":85886477,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "parts"
+    "wof:id": 403811245,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Autozone",
+    "wof:parent_id": 85886477,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "parts"
     ]
-},
+  },
   "bbox": [
     -117.70311,
     33.627899,
     -117.70311,
     33.627899
-],
+  ],
   "geometry": {"coordinates":[-117.70311,33.627899],"type":"Point"}
 }

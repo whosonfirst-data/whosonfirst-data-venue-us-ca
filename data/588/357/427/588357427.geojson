@@ -2,83 +2,87 @@
   "id": 588357427,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 S Mathilda Avenue Sunnyvale CA 94085",
-    "addr:housenumber":"311",
-    "addr:postcode":"94085",
-    "addr:street":"S Mathilda Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.035725,37.374676,-122.035725,37.374676",
-    "geom:latitude":37.374676,
-    "geom:longitude":-122.035725,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"311 S Mathilda Avenue",
-    "sg:city":"Sunnyvale",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "311 S Mathilda Avenue Sunnyvale CA 94085",
+    "addr:housenumber": "311",
+    "addr:postcode": "94085",
+    "addr:street": "S Mathilda Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.035725,37.374676,-122.035725,37.374676",
+    "geom:latitude": 37.374676,
+    "geom:longitude": -122.035725,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Denny's, 311 S Mathilda Ave Sunnyvale CA US",
+    "ovtr:similarity": 3.5149989128112793,
+    "sg:address": "311 S Mathilda Avenue",
+    "sg:city": "Sunnyvale",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 245 7720",
-    "sg:postcode":"94085",
-    "sg:province":"CA",
-    "sg:tags":[
-        "diner"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 245 7720",
+    "sg:postcode": "94085",
+    "sg:province": "CA",
+    "sg:tags": [
+      "diner"
     ],
-    "sg:website":"www.dennys.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922333,
-        102081673,
-        85881237
+    "sg:website": "www.dennys.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922333,
+      102081673,
+      85881237
     ],
-    "wof:brand_id":420574613,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":214797589,
-        "sg:id":"SG_5no3pMfkvZLWfyWhHG1hMP_37.374676_-122.035725@1303263308"
+    "wof:brand_id": 420574613,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 214797589,
+      "ovtr:id": "08f283470c2c9442032f4ab3c19052d6",
+      "sg:id": "SG_5no3pMfkvZLWfyWhHG1hMP_37.374676_-122.035725@1303263308"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c5e1ed0631d12ad339557ada9f335dd8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922333,
-            "neighbourhood_id":85881237,
-            "region_id":85688637,
-            "venue_id":588357427
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "c5e1ed0631d12ad339557ada9f335dd8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922333,
+        "neighbourhood_id": 85881237,
+        "region_id": 85688637,
+        "venue_id": 588357427
+      }
     ],
-    "wof:id":588357427,
-    "wof:lastmodified":1511323509,
-    "wof:name":"Denny's",
-    "wof:parent_id":85881237,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "diner"
+    "wof:id": 588357427,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Denny's",
+    "wof:parent_id": 85881237,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "diner"
     ]
-},
+  },
   "bbox": [
     -122.035725,
     37.374676,
     -122.035725,
     37.374676
-],
+  ],
   "geometry": {"coordinates":[-122.035725,37.374676],"type":"Point"}
 }

@@ -2,63 +2,71 @@
   "id": 555340399,
   "type": "Feature",
   "properties": {
-    "addr:full":"27485 Jefferson Ave Temecula CA 92562",
-    "addr:housenumber":"27485",
-    "addr:postcode":"92562",
-    "addr:street":"Jefferson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.16374,33.519293,-117.16374,33.519293",
-    "geom:latitude":33.519293,
-    "geom:longitude":-117.16374,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"27485 Jefferson Ave",
-    "sg:city":"Temecula",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "27485 Jefferson Ave Temecula CA 92562",
+    "addr:housenumber": "27485",
+    "addr:postcode": "92562",
+    "addr:street": "Jefferson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.163740,33.519293,-117.163740,33.519293",
+    "geom:latitude": 33.519293,
+    "geom:longitude": -117.16374,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pam's Donuts, 27485 Jefferson Ave Temecula CA US",
+    "ovtr:similarity": 2.6826560497283936,
+    "sg:address": "27485 Jefferson Ave",
+    "sg:city": "Temecula",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 676 2696",
-    "sg:postcode":"92562",
-    "sg:province":"CA",
-    "sg:tags":[
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 676 2696",
+    "sg:postcode": "92562",
+    "sg:province": "CA",
+    "sg:tags": [
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0JXoFwsByEO32niLchhoq5_33.519293_-117.163740@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a09935419730321fefc554ed4cf",
+      "sg:id": "SG_0JXoFwsByEO32niLchhoq5_33.519293_-117.163740@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"519d5df599eaeceea072418d9cb16555",
-    "wof:hierarchy":[],
-    "wof:id":555340399,
-    "wof:lastmodified":1509201359,
-    "wof:name":"Pam's Donuts",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "doughnut"
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "519d5df599eaeceea072418d9cb16555",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555340399
+      }
+    ],
+    "wof:id": 555340399,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Pam's Donuts",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -117.16374,
     33.519293,
     -117.16374,
     33.519293
-],
+  ],
   "geometry": {"coordinates":[-117.16374,33.519293],"type":"Point"}
 }

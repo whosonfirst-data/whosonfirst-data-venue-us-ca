@@ -2,79 +2,83 @@
   "id": 370903983,
   "type": "Feature",
   "properties": {
-    "addr:full":"4590 Huntington Dr N Los Angeles CA 90032",
-    "addr:housenumber":"4590",
-    "addr:postcode":"90032",
-    "addr:street":"Huntington Dr N",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.188189,34.085798,-118.188189,34.085798",
-    "geom:latitude":34.085798,
-    "geom:longitude":-118.188189,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4590 Huntington Dr N",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4590 Huntington Dr N Los Angeles CA 90032",
+    "addr:housenumber": "4590",
+    "addr:postcode": "90032",
+    "addr:street": "Huntington Dr N",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.188189,34.085798,-118.188189,34.085798",
+    "geom:latitude": 34.085798,
+    "geom:longitude": -118.188189,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Shell, 4590 N Huntington Dr Los Angeles CA US",
+    "ovtr:similarity": 2.2976291179656982,
+    "sg:address": "4590 Huntington Dr N",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90032",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108691219,
-        "85869501",
-        102191575,
-        1108692433,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90032",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108691219,
+      102191575,
+      1108692433,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869501
     ],
-    "wof:brand_id":420573831,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3dDAwfoXwaWYFldJTDUFEl_34.085798_-118.188189@1303263158"
+    "wof:brand_id": 420573831,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d54c104e803de7fb49398a021",
+      "sg:id": "SG_3dDAwfoXwaWYFldJTDUFEl_34.085798_-118.188189@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7ca7f0fa663106ede836641d9d0f416c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692433,
-            "microhood_id":1108691219,
-            "neighbourhood_id":"85869501",
-            "region_id":85688637,
-            "venue_id":370903983
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "7ca7f0fa663106ede836641d9d0f416c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692433,
+        "microhood_id": 1108691219,
+        "neighbourhood_id": 85869501,
+        "region_id": 85688637,
+        "venue_id": 370903983
+      }
     ],
-    "wof:id":370903983,
-    "wof:lastmodified":1511321041,
-    "wof:name":"Shell",
-    "wof:parent_id":1108691219,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370903983,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Shell",
+    "wof:parent_id": 1108691219,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.188189,
     34.085798,
     -118.188189,
     34.085798
-],
-  "geometry": {"coordinates":[-118.18818899999999,34.085798],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.188189,34.085798],"type":"Point"}
 }

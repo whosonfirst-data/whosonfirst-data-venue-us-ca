@@ -2,79 +2,83 @@
   "id": 253160619,
   "type": "Feature",
   "properties": {
-    "addr:full":"1505 N St Newman CA 95360",
-    "addr:housenumber":"1505",
-    "addr:postcode":"95360",
-    "addr:street":"N St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.020195,37.312484,-121.020195,37.312484",
-    "geom:latitude":37.312484,
-    "geom:longitude":-121.020195,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1505 N St",
-    "sg:city":"Newman",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1505 N St Newman CA 95360",
+    "addr:housenumber": "1505",
+    "addr:postcode": "95360",
+    "addr:street": "N St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.020195,37.312484,-121.020195,37.312484",
+    "geom:latitude": 37.312484,
+    "geom:longitude": -121.020195,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Newman Food Store, 1505 N St Newman CA US",
+    "ovtr:similarity": 2.448960065841675,
+    "sg:address": "1505 N St",
+    "sg:city": "Newman",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 862 2512",
-    "sg:postcode":"95360",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 862 2512",
+    "sg:postcode": "95360",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85926301,
-        102083579,
-        85879025
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85926301,
+      102083579,
+      85879025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_43wjs5tWEeAQ7DDX4U5dOj_37.312484_-121.020195@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283698931a60003a7b67bc3365469",
+      "sg:id": "SG_43wjs5tWEeAQ7DDX4U5dOj_37.312484_-121.020195@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"140194a5a512eaf739ef4f853de37cac",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85926301,
-            "neighbourhood_id":85879025,
-            "region_id":85688637,
-            "venue_id":253160619
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "140194a5a512eaf739ef4f853de37cac",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85926301,
+        "neighbourhood_id": 85879025,
+        "region_id": 85688637,
+        "venue_id": 253160619
+      }
     ],
-    "wof:id":253160619,
-    "wof:lastmodified":1509200108,
-    "wof:name":"Newman Food Store",
-    "wof:parent_id":85879025,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 253160619,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Newman Food Store",
+    "wof:parent_id": 85879025,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -121.020195,
     37.312484,
     -121.020195,
     37.312484
-],
+  ],
   "geometry": {"coordinates":[-121.020195,37.312484],"type":"Point"}
 }

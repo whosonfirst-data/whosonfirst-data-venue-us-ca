@@ -2,80 +2,84 @@
   "id": 572034857,
   "type": "Feature",
   "properties": {
-    "addr:full":"11760 San Pablo Ave El Cerrito CA 94530",
-    "addr:housenumber":"11760",
-    "addr:postcode":"94530",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.319778,37.927377,-122.319778,37.927377",
-    "geom:latitude":37.927377,
-    "geom:longitude":-122.319778,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11760 San Pablo Ave",
-    "sg:city":"El Cerrito",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11760 San Pablo Ave El Cerrito CA 94530",
+    "addr:housenumber": "11760",
+    "addr:postcode": "94530",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.319778,37.927377,-122.319778,37.927377",
+    "geom:latitude": 37.927377,
+    "geom:longitude": -122.319778,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Uncle Wong's Restaurant, 11760 San Pablo Ave El Cerrito CA US",
+    "ovtr:similarity": 2.191756010055542,
+    "sg:address": "11760 San Pablo Ave",
+    "sg:city": "El Cerrito",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 236 9999",
-    "sg:postcode":"94530",
-    "sg:province":"CA",
-    "sg:tags":[
-        "chinese"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 236 9999",
+    "sg:postcode": "94530",
+    "sg:province": "CA",
+    "sg:tags": [
+      "chinese"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922177,
-        102086225,
-        85885903
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922177,
+      102086225,
+      85885903
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2R4zNV7CQmBpnBlP98R0i2_37.927597_-122.319955@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308f3a48115039d498a91da498c",
+      "sg:id": "SG_2R4zNV7CQmBpnBlP98R0i2_37.927597_-122.319955@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e136311219b65b6f1ff176ee30705066",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922177,
-            "neighbourhood_id":85885903,
-            "region_id":85688637,
-            "venue_id":572034857
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "e136311219b65b6f1ff176ee30705066",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922177,
+        "neighbourhood_id": 85885903,
+        "region_id": 85688637,
+        "venue_id": 572034857
+      }
     ],
-    "wof:id":572034857,
-    "wof:lastmodified":1509201672,
-    "wof:name":"Uncle Wong's Restaurant",
-    "wof:parent_id":85885903,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "chinese"
+    "wof:id": 572034857,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "Uncle Wong's Restaurant",
+    "wof:parent_id": 85885903,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "chinese"
     ]
-},
+  },
   "bbox": [
     -122.319778,
     37.927377,
     -122.319778,
     37.927377
-],
+  ],
   "geometry": {"coordinates":[-122.319778,37.927377],"type":"Point"}
 }

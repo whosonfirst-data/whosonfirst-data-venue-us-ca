@@ -2,65 +2,73 @@
   "id": 572153309,
   "type": "Feature",
   "properties": {
-    "addr:full":"45252 Industrial Dr Fremont CA 94538",
-    "addr:housenumber":"45252",
-    "addr:postcode":"94538",
-    "addr:street":"Industrial Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.949997,37.4967,-121.949997,37.4967",
-    "geom:latitude":37.4967,
-    "geom:longitude":-121.949997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"45252 Industrial Dr",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "45252 Industrial Dr Fremont CA 94538",
+    "addr:housenumber": "45252",
+    "addr:postcode": "94538",
+    "addr:street": "Industrial Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.949997,37.496700,-121.949997,37.496700",
+    "geom:latitude": 37.4967,
+    "geom:longitude": -121.949997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Fremont Mini Storage, 45252 Industrial Dr Fremont CA US",
+    "ovtr:similarity": 2.852389097213745,
+    "sg:address": "45252 Industrial Dr",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 657 1555",
-    "sg:postcode":"94538",
-    "sg:province":"CA",
-    "sg:tags":[
-        "self",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 657 1555",
+    "sg:postcode": "94538",
+    "sg:province": "CA",
+    "sg:tags": [
+      "self",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7TGMZmhBor03if6ps6Qy2J_37.497017_-121.949326@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28346064f5980035356310a1f4dcd",
+      "sg:id": "SG_7TGMZmhBor03if6ps6Qy2J_37.497017_-121.949326@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d992ae4e163199024df1129a28a188ff",
-    "wof:hierarchy":[],
-    "wof:id":572153309,
-    "wof:lastmodified":1509201709,
-    "wof:name":"Fremont Mini Storage",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self",
-        "storage"
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "d992ae4e163199024df1129a28a188ff",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572153309
+      }
+    ],
+    "wof:id": 572153309,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Fremont Mini Storage",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -121.949997,
     37.4967,
     -121.949997,
     37.4967
-],
+  ],
   "geometry": {"coordinates":[-121.949997,37.4967],"type":"Point"}
 }

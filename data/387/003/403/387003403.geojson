@@ -2,88 +2,92 @@
   "id": 387003403,
   "type": "Feature",
   "properties": {
-    "addr:full":"2801 S Central Ave Los Angeles CA 90011",
-    "addr:housenumber":"2801",
-    "addr:postcode":"90011",
-    "addr:street":"S Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.256181,34.015701,-118.256181,34.015701",
-    "geom:latitude":34.015701,
-    "geom:longitude":-118.256181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2801 S Central Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2801 S Central Ave Los Angeles CA 90011",
+    "addr:housenumber": "2801",
+    "addr:postcode": "90011",
+    "addr:street": "S Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.256181,34.015701,-118.256181,34.015701",
+    "geom:latitude": 34.015701,
+    "geom:longitude": -118.256181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tams Burger, 2801 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 2.2303318977355957,
+    "sg:address": "2801 S Central Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 234 5630",
-    "sg:postcode":"90011",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1058996417,
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637,
-        "85865791"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 234 5630",
+    "sg:postcode": "90011",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1058996417,
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3DjZDx5tSAafCRU3Nl0gtv_34.015701_-118.256181@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56dbb5489603093a09a387dd96",
+      "sg:id": "SG_3DjZDx5tSAafCRU3Nl0gtv_34.015701_-118.256181@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b502ec61cb49b9eb2604cc6308431750",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":1058996417,
-            "region_id":85688637,
-            "venue_id":387003403
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85865791",
-            "region_id":85688637,
-            "venue_id":387003403
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "b502ec61cb49b9eb2604cc6308431750",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 1058996417,
+        "region_id": 85688637,
+        "venue_id": 387003403
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85865791,
+        "region_id": 85688637,
+        "venue_id": 387003403
+      }
     ],
-    "wof:id":387003403,
-    "wof:lastmodified":1509200931,
-    "wof:name":"Tams Burger",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387003403,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Tams Burger",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.256181,
     34.015701,
     -118.256181,
     34.015701
-],
+  ],
   "geometry": {"coordinates":[-118.256181,34.015701],"type":"Point"}
 }

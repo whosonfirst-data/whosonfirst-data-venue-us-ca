@@ -2,79 +2,83 @@
   "id": 370691791,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 W 8th St Los Angeles CA 90017",
-    "addr:housenumber":"1000",
-    "addr:postcode":"90017",
-    "addr:street":"W 8Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.262724,34.048763,-118.262724,34.048763",
-    "geom:latitude":34.048763,
-    "geom:longitude":-118.262724,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1000 W 8th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1000 W 8th St Los Angeles CA 90017",
+    "addr:housenumber": "1000",
+    "addr:postcode": "90017",
+    "addr:street": "W 8Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.262724,34.048763,-118.262724,34.048763",
+    "geom:latitude": 34.048763,
+    "geom:longitude": -118.262724,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Joe's Auto Parks, 1000 W 8th St Los Angeles CA US",
+    "ovtr:similarity": 2.2618889808654785,
+    "sg:address": "1000 W 8th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90017",
-    "sg:province":"CA",
-    "sg:website":"joesautopark.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456421,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90017",
+    "sg:province": "CA",
+    "sg:website": "joesautopark.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456421,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0onOHSqY0qwHMJl2YCphlg_34.048763_-118.262724@1303263153"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d62c2acdc037a639cffa8bffe",
+      "sg:id": "SG_0onOHSqY0qwHMJl2YCphlg_34.048763_-118.262724@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f0b1f327f7a3e6240e30f688dd23107c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456421,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370691791
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "f0b1f327f7a3e6240e30f688dd23107c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456421,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370691791
+      }
     ],
-    "wof:id":370691791,
-    "wof:lastmodified":1509200797,
-    "wof:name":"Joe's Auto Parks",
-    "wof:parent_id":1092456421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370691791,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Joe's Auto Parks",
+    "wof:parent_id": 1092456421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.262724,
     34.048763,
     -118.262724,
     34.048763
-],
-  "geometry": {"coordinates":[-118.26272400000001,34.048763],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.262724,34.048763],"type":"Point"}
 }

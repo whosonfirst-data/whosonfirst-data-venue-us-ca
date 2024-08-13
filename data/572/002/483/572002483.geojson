@@ -2,82 +2,86 @@
   "id": 572002483,
   "type": "Feature",
   "properties": {
-    "addr:full":"7560 Topanga Canyon Blvd Canoga Park CA 91303",
-    "addr:housenumber":"7560",
-    "addr:postcode":"91303",
-    "addr:street":"Topanga Canyon Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.605784,34.207819,-118.605784,34.207819",
-    "geom:latitude":34.207819,
-    "geom:longitude":-118.605784,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7560 Topanga Canyon Blvd",
-    "sg:city":"Canoga Park",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "7560 Topanga Canyon Blvd Canoga Park CA 91303",
+    "addr:housenumber": "7560",
+    "addr:postcode": "91303",
+    "addr:street": "Topanga Canyon Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.605784,34.207819,-118.605784,34.207819",
+    "geom:latitude": 34.207819,
+    "geom:longitude": -118.605784,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Walgreens, 7560 Topanga Canyon Blvd Canoga Park CA US",
+    "ovtr:similarity": 2.3678460121154785,
+    "sg:address": "7560 Topanga Canyon Blvd",
+    "sg:city": "Canoga Park",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 340 4031",
-    "sg:postcode":"91303",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 340 4031",
+    "sg:postcode": "91303",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85809293
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85809293
     ],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1hs3coYkQ7dexDSEfogl5I_34.207989_-118.605795@1293134755"
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18e246ed58037f75d4ef53f629",
+      "sg:id": "SG_1hs3coYkQ7dexDSEfogl5I_34.207989_-118.605795@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"17832034371b2e80ce96acc1241438a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85809293,
-            "region_id":85688637,
-            "venue_id":572002483
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "17832034371b2e80ce96acc1241438a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85809293,
+        "region_id": 85688637,
+        "venue_id": 572002483
+      }
     ],
-    "wof:id":572002483,
-    "wof:lastmodified":1511322331,
-    "wof:name":"Walgreens",
-    "wof:parent_id":85809293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 572002483,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 85809293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.605784,
     34.207819,
     -118.605784,
     34.207819
-],
+  ],
   "geometry": {"coordinates":[-118.605784,34.207819],"type":"Point"}
 }

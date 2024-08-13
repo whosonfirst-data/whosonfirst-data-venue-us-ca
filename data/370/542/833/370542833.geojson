@@ -2,87 +2,91 @@
   "id": 370542833,
   "type": "Feature",
   "properties": {
-    "addr:full":"853 N Broadway Los Angeles CA 90012",
-    "addr:housenumber":"853",
-    "addr:postcode":"90012",
-    "addr:street":"N Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.237611,34.06378,-118.237611,34.06378",
-    "geom:latitude":34.06378,
-    "geom:longitude":-118.237611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"853 N Broadway",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "853 N Broadway Los Angeles CA 90012",
+    "addr:housenumber": "853",
+    "addr:postcode": "90012",
+    "addr:street": "N Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.237611,34.063780,-118.237611,34.063780",
+    "geom:latitude": 34.06378,
+    "geom:longitude": -118.237611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Gigo's Cafe \u0026 Deli, 853 N Broadway Los Angeles CA US",
+    "ovtr:similarity": 3.0867249965667725,
+    "sg:address": "853 N Broadway",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 229 8889",
-    "sg:postcode":"90012",
-    "sg:province":"CA",
-    "sg:tags":[
-        "vietnamese"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 229 8889",
+    "sg:postcode": "90012",
+    "sg:province": "CA",
+    "sg:tags": [
+      "vietnamese"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85866825",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85866825
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rDahlPMwpeDL3vzroZ5Ql_34.063780_-118.237611@1303263149"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d71cc09b103ef06bec43315af",
+      "sg:id": "SG_1rDahlPMwpeDL3vzroZ5Ql_34.063780_-118.237611@1303263149"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c48dfdbdb47cb0f92e334baf74cef794",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85866825",
-            "region_id":85688637,
-            "venue_id":370542833
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "c48dfdbdb47cb0f92e334baf74cef794",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85866825,
+        "region_id": 85688637,
+        "venue_id": 370542833
+      }
     ],
-    "wof:id":370542833,
-    "wof:lastmodified":1509200762,
-    "wof:name":"GIGO's Cafe & Deli",
-    "wof:parent_id":"85866825",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "vietnamese"
+    "wof:id": 370542833,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "GIGO's Cafe \u0026 Deli",
+    "wof:parent_id": "85866825",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "vietnamese"
     ]
-},
+  },
   "bbox": [
     -118.237611,
     34.06378,
     -118.237611,
     34.06378
-],
+  ],
   "geometry": {"coordinates":[-118.237611,34.06378],"type":"Point"}
 }

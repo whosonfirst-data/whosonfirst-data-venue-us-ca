@@ -2,74 +2,78 @@
   "id": 269833809,
   "type": "Feature",
   "properties": {
-    "addr:full":"16718 Valley Blvd Fontana CA 92335",
-    "addr:housenumber":"16718",
-    "addr:postcode":"92335",
-    "addr:street":"Valley Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.436013,34.070428,-117.436013,34.070428",
-    "geom:latitude":34.070428,
-    "geom:longitude":-117.436013,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"16718 Valley Blvd",
-    "sg:city":"Fontana",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "16718 Valley Blvd Fontana CA 92335",
+    "addr:housenumber": "16718",
+    "addr:postcode": "92335",
+    "addr:street": "Valley Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.436013,34.070428,-117.436013,34.070428",
+    "geom:latitude": 34.070428,
+    "geom:longitude": -117.436013,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "John's Liquor Market, 16718 Valley Blvd Fontana CA US",
+    "ovtr:similarity": 2.335692882537842,
+    "sg:address": "16718 Valley Blvd",
+    "sg:city": "Fontana",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 350 4196",
-    "sg:postcode":"92335",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923901,
-        102085395,
-        85877401
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 350 4196",
+    "sg:postcode": "92335",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923901,
+      102085395,
+      85877401
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_73LNHZF1gTe5grAyy96zQo_34.070428_-117.436013@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a004ed657a80349ac64e6495725",
+      "sg:id": "SG_73LNHZF1gTe5grAyy96zQo_34.070428_-117.436013@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9913fdea28e83210c2944b74d66d1096",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923901,
-            "neighbourhood_id":85877401,
-            "region_id":85688637,
-            "venue_id":269833809
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "9913fdea28e83210c2944b74d66d1096",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923901,
+        "neighbourhood_id": 85877401,
+        "region_id": 85688637,
+        "venue_id": 269833809
+      }
     ],
-    "wof:id":269833809,
-    "wof:lastmodified":1509200184,
-    "wof:name":"John's Liquor Market",
-    "wof:parent_id":85877401,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 269833809,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "John's Liquor Market",
+    "wof:parent_id": 85877401,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.436013,
     34.070428,
     -117.436013,
     34.070428
-],
+  ],
   "geometry": {"coordinates":[-117.436013,34.070428],"type":"Point"}
 }

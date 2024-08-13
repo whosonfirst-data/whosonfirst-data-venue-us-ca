@@ -2,75 +2,79 @@
   "id": 235939377,
   "type": "Feature",
   "properties": {
-    "addr:full":"8300 Parkway Dr La Mesa CA 91942",
-    "addr:housenumber":"8300",
-    "addr:postcode":"91942",
-    "addr:street":"Parkway Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.016575,32.77928,-117.016575,32.77928",
-    "geom:latitude":32.77928,
-    "geom:longitude":-117.016575,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"8300 Parkway Dr",
-    "sg:city":"La Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8300 Parkway Dr La Mesa CA 91942",
+    "addr:housenumber": "8300",
+    "addr:postcode": "91942",
+    "addr:street": "Parkway Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.016575,32.779280,-117.016575,32.779280",
+    "geom:latitude": 32.77928,
+    "geom:longitude": -117.016575,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 8300 Parkway Dr La Mesa CA US",
+    "ovtr:similarity": 2.8556010723114014,
+    "sg:address": "8300 Parkway Dr",
+    "sg:city": "La Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 461 2855",
-    "sg:postcode":"91942",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922251,
-        102083569
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 461 2855",
+    "sg:postcode": "91942",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922251,
+      102083569
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":365328398,
-        "sg:id":"SG_16aTmXJ9OxYtWDB6WwlEgI_32.779280_-117.016575@1294081369"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 365328398,
+      "ovtr:id": "08f29a419174446603ffd93e18ebf756",
+      "sg:id": "SG_16aTmXJ9OxYtWDB6WwlEgI_32.779280_-117.016575@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"26d311476cd52e8e74de9ecb4316b465",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922251,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":235939377
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "26d311476cd52e8e74de9ecb4316b465",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922251,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 235939377
+      }
     ],
-    "wof:id":235939377,
-    "wof:lastmodified":1511321779,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 235939377,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.016575,
     32.77928,
     -117.016575,
     32.77928
-],
+  ],
   "geometry": {"coordinates":[-117.016575,32.77928],"type":"Point"}
 }

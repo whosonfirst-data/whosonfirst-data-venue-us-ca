@@ -2,83 +2,87 @@
   "id": 572213381,
   "type": "Feature",
   "properties": {
-    "addr:full":"369 E Colorado Blvd Pasadena CA 91101",
-    "addr:housenumber":"369",
-    "addr:postcode":"91101",
-    "addr:street":"E Colorado Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.14273,34.145821,-118.14273,34.145821",
-    "geom:latitude":34.145821,
-    "geom:longitude":-118.14273,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"369 E Colorado Blvd",
-    "sg:city":"Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "369 E Colorado Blvd Pasadena CA 91101",
+    "addr:housenumber": "369",
+    "addr:postcode": "91101",
+    "addr:street": "E Colorado Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.142730,34.145821,-118.142730,34.145821",
+    "geom:latitude": 34.145821,
+    "geom:longitude": -118.14273,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ruth's Chris Steak House, 369 E Colorado Blvd Pasadena CA US",
+    "ovtr:similarity": 2.4276208877563477,
+    "sg:address": "369 E Colorado Blvd",
+    "sg:city": "Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 583 8122",
-    "sg:postcode":"91101",
-    "sg:province":"CA",
-    "sg:tags":[
-        "steakhouse"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 583 8122",
+    "sg:postcode": "91101",
+    "sg:province": "CA",
+    "sg:tags": [
+      "steakhouse"
     ],
-    "sg:website":"www.ruthschris.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923487,
-        102086957,
-        85882199
+    "sg:website": "www.ruthschris.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923487,
+      102086957,
+      85882199
     ],
-    "wof:brand_id":1125152375,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3180272737,
-        "sg:id":"SG_6XREY6Yl3WJs8oWYhWTXiZ_34.145821_-118.142730@1303263204"
+    "wof:brand_id": 1125152375,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3180272737,
+      "ovtr:id": "08f29a1c217a30280383577d32c7ff85",
+      "sg:id": "SG_6XREY6Yl3WJs8oWYhWTXiZ_34.145821_-118.142730@1303263204"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f9445d105769ec76d196366a704aeab0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923487,
-            "neighbourhood_id":85882199,
-            "region_id":85688637,
-            "venue_id":572213381
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "f9445d105769ec76d196366a704aeab0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923487,
+        "neighbourhood_id": 85882199,
+        "region_id": 85688637,
+        "venue_id": 572213381
+      }
     ],
-    "wof:id":572213381,
-    "wof:lastmodified":1510943724,
-    "wof:name":"Ruth's Chris Steak House",
-    "wof:parent_id":85882199,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "steakhouse"
+    "wof:id": 572213381,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Ruth's Chris Steak House",
+    "wof:parent_id": 85882199,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "steakhouse"
     ]
-},
+  },
   "bbox": [
     -118.14273,
     34.145821,
     -118.14273,
     34.145821
-],
+  ],
   "geometry": {"coordinates":[-118.14273,34.145821],"type":"Point"}
 }

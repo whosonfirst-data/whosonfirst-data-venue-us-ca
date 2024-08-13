@@ -2,68 +2,76 @@
   "id": 588314533,
   "type": "Feature",
   "properties": {
-    "addr:full":"135 S Edwards St Independence CA 93526",
-    "addr:housenumber":"135",
-    "addr:postcode":"93526",
-    "addr:street":"S Edwards St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.199705,36.802609,-118.199705,36.802609",
-    "geom:latitude":36.802609,
-    "geom:longitude":-118.199705,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"135 S Edwards St",
-    "sg:city":"Independence",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "135 S Edwards St Independence CA 93526",
+    "addr:housenumber": "135",
+    "addr:postcode": "93526",
+    "addr:street": "S Edwards St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.199705,36.802609,-118.199705,36.802609",
+    "geom:latitude": 36.802609,
+    "geom:longitude": -118.199705,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Still Life Cafe, 135 S Edwards St Independence CA US",
+    "ovtr:similarity": 3.1377739906311035,
+    "sg:address": "135 S Edwards St",
+    "sg:city": "Independence",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 878 2555",
-    "sg:postcode":"93526",
-    "sg:province":"CA",
-    "sg:tags":[
-        "espresso"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 878 2555",
+    "sg:postcode": "93526",
+    "sg:province": "CA",
+    "sg:tags": [
+      "espresso"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1DQhbNeuoM66oNayXw1Vr0_36.802609_-118.199705@1303263297"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aa5488d3328030f1d7346b618dd",
+      "sg:id": "SG_1DQhbNeuoM66oNayXw1Vr0_36.802609_-118.199705@1303263297"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a571a2cd91f0562ec08c6247bdfa8cc4",
-    "wof:hierarchy":[],
-    "wof:id":588314533,
-    "wof:lastmodified":1509201985,
-    "wof:name":"Still Life Cafe",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "espresso"
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "a571a2cd91f0562ec08c6247bdfa8cc4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588314533
+      }
+    ],
+    "wof:id": 588314533,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Still Life Cafe",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "espresso"
     ]
-},
+  },
   "bbox": [
     -118.199705,
     36.802609,
     -118.199705,
     36.802609
-],
-  "geometry": {"coordinates":[-118.19970499999999,36.802609],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.199705,36.802609],"type":"Point"}
 }

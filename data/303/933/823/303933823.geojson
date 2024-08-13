@@ -2,81 +2,85 @@
   "id": 303933823,
   "type": "Feature",
   "properties": {
-    "addr:city":"Fort Bragg",
-    "addr:full":"343 N Main St Fort Bragg, Ca 95437",
-    "addr:house_number":"343",
-    "addr:housenumber":"343",
-    "addr:phone":"+1 707-964-4251",
-    "addr:postcode":"95437",
-    "addr:road":"N Main St",
-    "addr:state":"CA",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.80608,39.43881,-123.80608,39.43881",
-    "geom:latitude":39.43881,
-    "geom:longitude":-123.80608,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"343 N Main St",
-    "sg:city":"Fort Bragg",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Fort Bragg",
+    "addr:full": "343 N Main St Fort Bragg, Ca 95437",
+    "addr:house_number": "343",
+    "addr:housenumber": "343",
+    "addr:phone": "+1 707-964-4251",
+    "addr:postcode": "95437",
+    "addr:road": "N Main St",
+    "addr:state": "CA",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.806080,39.438810,-123.806080,39.438810",
+    "geom:latitude": 39.43881,
+    "geom:longitude": -123.80608,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Guest House Museum, 343 N Main St Fort Bragg CA US",
+    "ovtr:similarity": 2.6223208904266357,
+    "sg:address": "343 N Main St",
+    "sg:city": "Fort Bragg",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 961 2840",
-    "sg:postcode":"95437",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922579,
-        102082885,
-        85821783
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 961 2840",
+    "sg:postcode": "95437",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [],
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922579,
+      102082885,
+      85821783
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600425,
-        "sg:id":"SG_6w4TXHn3BXa4WSpQvkKFbQ_39.444763_-123.806085@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "mudf:mid": 8400600425,
+      "ovtr:id": "08f280685868a591031f7302af447fb0",
+      "sg:id": "SG_6w4TXHn3BXa4WSpQvkKFbQ_39.444763_-123.806085@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cf8224ed6e128d8e3b52036754275cec",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082885,
-            "locality_id":85922579,
-            "neighbourhood_id":85821783,
-            "region_id":85688637,
-            "venue_id":303933823
-        }
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "cf8224ed6e128d8e3b52036754275cec",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082885,
+        "locality_id": 85922579,
+        "neighbourhood_id": 85821783,
+        "region_id": 85688637,
+        "venue_id": 303933823
+      }
     ],
-    "wof:id":303933823,
-    "wof:lastmodified":1533149828,
-    "wof:name":"Guest House Museum",
-    "wof:parent_id":85821783,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 303933823,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "Guest House Museum",
+    "wof:parent_id": 85821783,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -123.80608,
     39.43881,
     -123.80608,
     39.43881
-],
-  "geometry": {"coordinates":[-123.80607999999999,39.43881],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-123.80608,39.43881],"type":"Point"}
 }

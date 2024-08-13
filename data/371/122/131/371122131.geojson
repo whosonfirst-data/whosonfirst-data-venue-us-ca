@@ -2,84 +2,88 @@
   "id": 371122131,
   "type": "Feature",
   "properties": {
-    "addr:full":"7205 Santa Monica Blvd West Hollywood CA 90046",
-    "addr:housenumber":"7205",
-    "addr:postcode":"90046",
-    "addr:street":"Santa Monica Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.346001,34.090599,-118.346001,34.090599",
-    "geom:latitude":34.090599,
-    "geom:longitude":-118.346001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7205 Santa Monica Blvd",
-    "sg:city":"West Hollywood",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "7205 Santa Monica Blvd West Hollywood CA 90046",
+    "addr:housenumber": "7205",
+    "addr:postcode": "90046",
+    "addr:street": "Santa Monica Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.346001,34.090599,-118.346001,34.090599",
+    "geom:latitude": 34.090599,
+    "geom:longitude": -118.346001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jones, 7205 Santa Monica Blvd West Hollywood CA US",
+    "ovtr:similarity": 2.17376708984375,
+    "sg:address": "7205 Santa Monica Blvd",
+    "sg:city": "West Hollywood",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 850 1726",
-    "sg:postcode":"90046",
-    "sg:province":"CA",
-    "sg:tags":[
-        "italian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 850 1726",
+    "sg:postcode": "90046",
+    "sg:province": "CA",
+    "sg:tags": [
+      "italian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869471
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869471
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Q251J0z1spgtsVrfIF3vN_34.090599_-118.346001@1303263163"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d683a1492036175ae11f064a2",
+      "sg:id": "SG_3Q251J0z1spgtsVrfIF3vN_34.090599_-118.346001@1303263163"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fd1cbaaf19105ba4c107fca2e6d4572d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869471,
-            "region_id":85688637,
-            "venue_id":371122131
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "fd1cbaaf19105ba4c107fca2e6d4572d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869471,
+        "region_id": 85688637,
+        "venue_id": 371122131
+      }
     ],
-    "wof:id":371122131,
-    "wof:lastmodified":1509200898,
-    "wof:name":"Jones",
-    "wof:parent_id":85869471,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "italian"
+    "wof:id": 371122131,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Jones",
+    "wof:parent_id": 85869471,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "italian"
     ]
-},
+  },
   "bbox": [
     -118.346001,
     34.090599,
     -118.346001,
     34.090599
-],
+  ],
   "geometry": {"coordinates":[-118.346001,34.090599],"type":"Point"}
 }

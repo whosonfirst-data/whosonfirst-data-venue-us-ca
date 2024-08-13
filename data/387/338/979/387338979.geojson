@@ -2,79 +2,83 @@
   "id": 387338979,
   "type": "Feature",
   "properties": {
-    "addr:full":"10200 Venice Blvd Ste 105 Culver City CA 90232",
-    "addr:housenumber":"10200",
-    "addr:postcode":"90232",
-    "addr:street":"Venice Blvd Ste 105",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.401994,34.021153,-118.401994,34.021153",
-    "geom:latitude":34.021153,
-    "geom:longitude":-118.401994,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10200 Venice Blvd Ste 105",
-    "sg:city":"Culver City",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10200 Venice Blvd Ste 105 Culver City CA 90232",
+    "addr:housenumber": "10200",
+    "addr:postcode": "90232",
+    "addr:street": "Venice Blvd Ste 105",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.401994,34.021153,-118.401994,34.021153",
+    "geom:latitude": 34.021153,
+    "geom:longitude": -118.401994,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Asia Foods, 10200 Venice Blvd Culver City CA US",
+    "ovtr:similarity": 2.428736925125122,
+    "sg:address": "10200 Venice Blvd Ste 105",
+    "sg:city": "Culver City",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 836 6070",
-    "sg:postcode":"90232",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840349
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 836 6070",
+    "sg:postcode": "90232",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840349
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1O4AA2bs6XiSNfWzB92Spz_34.021153_-118.401994@1303263175"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1982cb28c103024df0dd81db95",
+      "sg:id": "SG_1O4AA2bs6XiSNfWzB92Spz_34.021153_-118.401994@1303263175"
     },
-    "wof:country":"US",
-    "wof:geomhash":"229d48c193351d9a94718f5016ef5255",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840349,
-            "region_id":85688637,
-            "venue_id":387338979
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "229d48c193351d9a94718f5016ef5255",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840349,
+        "region_id": 85688637,
+        "venue_id": 387338979
+      }
     ],
-    "wof:id":387338979,
-    "wof:lastmodified":1509201011,
-    "wof:name":"Asia Foods",
-    "wof:parent_id":85840349,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387338979,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Asia Foods",
+    "wof:parent_id": 85840349,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.401994,
     34.021153,
     -118.401994,
     34.021153
-],
+  ],
   "geometry": {"coordinates":[-118.401994,34.021153],"type":"Point"}
 }

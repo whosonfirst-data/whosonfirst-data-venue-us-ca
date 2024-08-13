@@ -2,81 +2,85 @@
   "id": 572323729,
   "type": "Feature",
   "properties": {
-    "addr:full":"901 Palomar Airport Rd Carlsbad CA 92009",
-    "addr:housenumber":"901",
-    "addr:postcode":"92009",
-    "addr:street":"Palomar Airport Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.318752,33.121624,-117.318752,33.121624",
-    "geom:latitude":33.121624,
-    "geom:longitude":-117.318752,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"901 Palomar Airport Rd",
-    "sg:city":"Carlsbad",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "901 Palomar Airport Rd Carlsbad CA 92009",
+    "addr:housenumber": "901",
+    "addr:postcode": "92009",
+    "addr:street": "Palomar Airport Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.318752,33.121624,-117.318752,33.121624",
+    "geom:latitude": 33.121624,
+    "geom:longitude": -117.318752,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 901 Palomar Airport Rd Carlsbad CA US",
+    "ovtr:similarity": 2.2938129901885986,
+    "sg:address": "901 Palomar Airport Rd",
+    "sg:city": "Carlsbad",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"92009",
-    "sg:province":"CA",
-    "sg:website":"www.7-eleven.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922291,
-        102083569,
-        85819007
+    "sg:owner": "simplegeo",
+    "sg:postcode": "92009",
+    "sg:province": "CA",
+    "sg:website": "www.7-eleven.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922291,
+      102083569,
+      85819007
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3FNayOKV81gMtXA15leDl1_33.121624_-117.318752@1303263231"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a476c22554403be974e1af09f8c",
+      "sg:id": "SG_3FNayOKV81gMtXA15leDl1_33.121624_-117.318752@1303263231"
     },
-    "wof:country":"US",
-    "wof:geomhash":"40b2ffc4786573e0d346e36dcb516eb8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922291,
-            "neighbourhood_id":85819007,
-            "region_id":85688637,
-            "venue_id":572323729
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "40b2ffc4786573e0d346e36dcb516eb8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922291,
+        "neighbourhood_id": 85819007,
+        "region_id": 85688637,
+        "venue_id": 572323729
+      }
     ],
-    "wof:id":572323729,
-    "wof:lastmodified":1511321761,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85819007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572323729,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85819007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.318752,
     33.121624,
     -117.318752,
     33.121624
-],
+  ],
   "geometry": {"coordinates":[-117.318752,33.121624],"type":"Point"}
 }

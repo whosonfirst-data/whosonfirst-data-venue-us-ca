@@ -2,74 +2,78 @@
   "id": 555448273,
   "type": "Feature",
   "properties": {
-    "addr:full":"8031 California City Blvd California City CA 93505",
-    "addr:housenumber":"8031",
-    "addr:postcode":"93505",
-    "addr:street":"California City Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.985162,35.125884,-117.985162,35.125884",
-    "geom:latitude":35.125884,
-    "geom:longitude":-117.985162,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8031 California City Blvd",
-    "sg:city":"California City",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "8031 California City Blvd California City CA 93505",
+    "addr:housenumber": "8031",
+    "addr:postcode": "93505",
+    "addr:street": "California City Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.985162,35.125884,-117.985162,35.125884",
+    "geom:latitude": 35.125884,
+    "geom:longitude": -117.985162,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank of the Sierra, 8031 California City Blvd California City CA US",
+    "ovtr:similarity": 2.315185070037842,
+    "sg:address": "8031 California City Blvd",
+    "sg:city": "California City",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 373 8602",
-    "sg:postcode":"93505",
-    "sg:province":"CA",
-    "sg:website":"www.bankofthesierra.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85851383,
-        85633793,
-        85923273,
-        102081727,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 373 8602",
+    "sg:postcode": "93505",
+    "sg:province": "CA",
+    "sg:website": "www.bankofthesierra.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85851383,
+      85633793,
+      85923273,
+      102081727,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7JUArOjeRxazlvraEMCGkQ_35.125884_-117.985162@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a3a4852302503cf9392ed91170b",
+      "sg:id": "SG_7JUArOjeRxazlvraEMCGkQ_35.125884_-117.985162@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"20d7fa24926f2ca53f81a016f2e571c6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923273,
-            "neighbourhood_id":85851383,
-            "region_id":85688637,
-            "venue_id":555448273
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "20d7fa24926f2ca53f81a016f2e571c6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923273,
+        "neighbourhood_id": 85851383,
+        "region_id": 85688637,
+        "venue_id": 555448273
+      }
     ],
-    "wof:id":555448273,
-    "wof:lastmodified":1509201395,
-    "wof:name":"Bank Of The Sierra",
-    "wof:parent_id":85851383,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555448273,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Bank Of The Sierra",
+    "wof:parent_id": 85851383,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.985162,
     35.125884,
     -117.985162,
     35.125884
-],
+  ],
   "geometry": {"coordinates":[-117.985162,35.125884],"type":"Point"}
 }

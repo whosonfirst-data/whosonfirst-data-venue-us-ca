@@ -2,63 +2,71 @@
   "id": 555432179,
   "type": "Feature",
   "properties": {
-    "addr:full":"4701 Church St El Dorado CA 95623",
-    "addr:housenumber":"4701",
-    "addr:postcode":"95623",
-    "addr:street":"Church St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.848565,38.68207,-120.848565,38.68207",
-    "geom:latitude":38.68207,
-    "geom:longitude":-120.848565,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4701 Church St",
-    "sg:city":"El Dorado",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "4701 Church St El Dorado CA 95623",
+    "addr:housenumber": "4701",
+    "addr:postcode": "95623",
+    "addr:street": "Church St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.848565,38.682070,-120.848565,38.682070",
+    "geom:latitude": 38.68207,
+    "geom:longitude": -120.848565,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Dorado Community Church, 4701 Church St El Dorado CA US",
+    "ovtr:similarity": 3.0316410064697266,
+    "sg:address": "4701 Church St",
+    "sg:city": "El Dorado",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 622 8868",
-    "sg:postcode":"95623",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 622 8868",
+    "sg:postcode": "95623",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3VZnW5cwqW6r9wZ1GHOK73_38.682070_-120.848565@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28321a4736b1403e8d9bcfa16d929",
+      "sg:id": "SG_3VZnW5cwqW6r9wZ1GHOK73_38.682070_-120.848565@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a4fbbbf1f1679d87cd05f586f5121799",
-    "wof:hierarchy":[],
-    "wof:id":555432179,
-    "wof:lastmodified":1509201389,
-    "wof:name":"El Dorado Community Church",
-    "wof:parent_id":420550727,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "a4fbbbf1f1679d87cd05f586f5121799",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555432179
+      }
+    ],
+    "wof:id": 555432179,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "El Dorado Community Church",
+    "wof:parent_id": 420550727,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -120.848565,
     38.68207,
     -120.848565,
     38.68207
-],
-  "geometry": {"coordinates":[-120.84856499999999,38.68207],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.848565,38.68207],"type":"Point"}
 }

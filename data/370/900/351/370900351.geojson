@@ -2,82 +2,86 @@
   "id": 370900351,
   "type": "Feature",
   "properties": {
-    "addr:full":"2303 Workman St Los Angeles CA 90031",
-    "addr:housenumber":"2303",
-    "addr:postcode":"90031",
-    "addr:street":"Workman St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.214345,34.07192,-118.214345,34.07192",
-    "geom:latitude":34.07192,
-    "geom:longitude":-118.214345,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2303 Workman St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Park",
-            "subcategory":"",
-            "type":"Public Place"
-        },
-        {
-            "category":"Recreation",
-            "subcategory":"Playground",
-            "type":"Entertainment"
-        }
+    "addr:full": "2303 Workman St Los Angeles CA 90031",
+    "addr:housenumber": "2303",
+    "addr:postcode": "90031",
+    "addr:street": "Workman St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.214345,34.071920,-118.214345,34.071920",
+    "geom:latitude": 34.07192,
+    "geom:longitude": -118.214345,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lincoln Heights Recreation Center, 2303 Workman St Los Angeles CA US",
+    "ovtr:similarity": 2.219521999359131,
+    "sg:address": "2303 Workman St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Park",
+        "subcategory": "",
+        "type": "Public Place"
+      },
+      {
+        "category": "Recreation",
+        "subcategory": "Playground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 225 2838",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 225 2838",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1GGM67f9dzwck42mkksgLM_34.071920_-118.214345@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d73c2175503b4ab2f05de337e",
+      "sg:id": "SG_1GGM67f9dzwck42mkksgLM_34.071920_-118.214345@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0d0508348e1c9afebe8ab997ed4ad616",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":370900351
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "0d0508348e1c9afebe8ab997ed4ad616",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 370900351
+      }
     ],
-    "wof:id":370900351,
-    "wof:lastmodified":1509200845,
-    "wof:name":"Lincoln Heights Recreation Center",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370900351,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Lincoln Heights Recreation Center",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.214345,
     34.07192,
     -118.214345,
     34.07192
-],
-  "geometry": {"coordinates":[-118.21434499999999,34.07192],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.214345,34.07192],"type":"Point"}
 }

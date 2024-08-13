@@ -2,67 +2,75 @@
   "id": 572201817,
   "type": "Feature",
   "properties": {
-    "addr:full":"24 W Sierra St Portola CA 96122",
-    "addr:housenumber":"24",
-    "addr:postcode":"96122",
-    "addr:street":"W Sierra St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.469624,39.810458,-120.469624,39.810458",
-    "geom:latitude":39.810458,
-    "geom:longitude":-120.469624,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24 W Sierra St",
-    "sg:city":"Portola",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "24 W Sierra St Portola CA 96122",
+    "addr:housenumber": "24",
+    "addr:postcode": "96122",
+    "addr:street": "W Sierra St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.469624,39.810458,-120.469624,39.810458",
+    "geom:latitude": 39.810458,
+    "geom:longitude": -120.469624,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 24 W Sierra Ave Portola CA US",
+    "ovtr:similarity": 3.406946897506714,
+    "sg:address": "24 W Sierra St",
+    "sg:city": "Portola",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/portola/150216-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 832 0222",
-    "sg:postcode":"96122",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/portola/150216-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 832 0222",
+    "sg:postcode": "96122",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4BRiQNXEZi2ecYzArC0gOH_39.810458_-120.469624@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f281453460252803299cf93d353486",
+      "sg:id": "SG_4BRiQNXEZi2ecYzArC0gOH_39.810458_-120.469624@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6064b3ff80f293a779d7679e76bc9c56",
-    "wof:hierarchy":[],
-    "wof:id":572201817,
-    "wof:lastmodified":1510603447,
-    "wof:name":"Subway",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "6064b3ff80f293a779d7679e76bc9c56",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572201817
+      }
+    ],
+    "wof:id": 572201817,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Subway",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -120.469624,
     39.810458,
     -120.469624,
     39.810458
-],
+  ],
   "geometry": {"coordinates":[-120.469624,39.810458],"type":"Point"}
 }

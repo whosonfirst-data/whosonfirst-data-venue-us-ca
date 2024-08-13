@@ -2,90 +2,94 @@
   "id": 371134869,
   "type": "Feature",
   "properties": {
-    "addr:full":"6973 Linda Vista Rd San Diego CA 92111",
-    "addr:housenumber":"6973",
-    "addr:postcode":"92111",
-    "addr:street":"Linda Vista Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.169783,32.78729,-117.169783,32.78729",
-    "geom:latitude":32.78729,
-    "geom:longitude":-117.169783,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6973 Linda Vista Rd",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Clinic",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "6973 Linda Vista Rd San Diego CA 92111",
+    "addr:housenumber": "6973",
+    "addr:postcode": "92111",
+    "addr:street": "Linda Vista Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.169783,32.787290,-117.169783,32.787290",
+    "geom:latitude": 32.78729,
+    "geom:longitude": -117.169783,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Linda Vista Health Care Center, 6973 Linda Vista Rd San Diego CA US",
+    "ovtr:similarity": 2.6162290573120117,
+    "sg:address": "6973 Linda Vista Rd",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Clinic",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 279 9676",
-    "sg:postcode":"92111",
-    "sg:province":"CA",
-    "sg:tags":[
-        "care",
-        "center",
-        "outpatient"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 279 9676",
+    "sg:postcode": "92111",
+    "sg:province": "CA",
+    "sg:tags": [
+      "care",
+      "center",
+      "outpatient"
     ],
-    "sg:website":"www.lvhcc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85830679
+    "sg:website": "www.lvhcc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85830679
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7kmBsiOqzMouePK2b8lyUu_32.787290_-117.169783@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a403285832003db4ee6a9e8a581",
+      "sg:id": "SG_7kmBsiOqzMouePK2b8lyUu_32.787290_-117.169783@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"97938ca4e27a99f1fc6a90381cecd141",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85830679,
-            "region_id":85688637,
-            "venue_id":371134869
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "97938ca4e27a99f1fc6a90381cecd141",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85830679,
+        "region_id": 85688637,
+        "venue_id": 371134869
+      }
     ],
-    "wof:id":371134869,
-    "wof:lastmodified":1509200900,
-    "wof:name":"Linda Vista Health Care Center",
-    "wof:parent_id":85830679,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "care",
-        "center",
-        "outpatient"
+    "wof:id": 371134869,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Linda Vista Health Care Center",
+    "wof:parent_id": 85830679,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "care",
+      "center",
+      "outpatient"
     ]
-},
+  },
   "bbox": [
     -117.169783,
     32.78729,
     -117.169783,
     32.78729
-],
+  ],
   "geometry": {"coordinates":[-117.169783,32.78729],"type":"Point"}
 }

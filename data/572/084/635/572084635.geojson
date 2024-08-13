@@ -2,80 +2,84 @@
   "id": 572084635,
   "type": "Feature",
   "properties": {
-    "addr:full":"623 W 6th St Los Angeles CA 90017",
-    "addr:housenumber":"623",
-    "addr:postcode":"90017",
-    "addr:street":"W 6Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.255788,34.04928,-118.255788,34.04928",
-    "geom:latitude":34.04928,
-    "geom:longitude":-118.255788,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"623 W 6th St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Optometrist",
-            "type":"Services"
-        }
+    "addr:full": "623 W 6th St Los Angeles CA 90017",
+    "addr:housenumber": "623",
+    "addr:postcode": "90017",
+    "addr:street": "W 6Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.255788,34.049280,-118.255788,34.049280",
+    "geom:latitude": 34.04928,
+    "geom:longitude": -118.255788,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Downtown L.A. Optometric Vision Center, 623 W 6th St Los Angeles CA US",
+    "ovtr:similarity": 3.3852970600128174,
+    "sg:address": "623 W 6th St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Optometrist",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 629 4691",
-    "sg:postcode":"90017",
-    "sg:province":"CA",
-    "sg:website":"www.downtownlavisioncenter.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456421,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 629 4691",
+    "sg:postcode": "90017",
+    "sg:province": "CA",
+    "sg:website": "www.downtownlavisioncenter.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456421,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4UIqm2OP27i3A8e9TsJ4zi_34.049340_-118.256094@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d7534898203096339c795635e",
+      "sg:id": "SG_4UIqm2OP27i3A8e9TsJ4zi_34.049340_-118.256094@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1ef1b9ec9b75d59f2ce165a37c540043",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456421,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":572084635
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "1ef1b9ec9b75d59f2ce165a37c540043",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456421,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 572084635
+      }
     ],
-    "wof:id":572084635,
-    "wof:lastmodified":1509201688,
-    "wof:name":"Downtown LA Optometric Vision Center",
-    "wof:parent_id":1092456421,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572084635,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Downtown LA Optometric Vision Center",
+    "wof:parent_id": 1092456421,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.255788,
     34.04928,
     -118.255788,
     34.04928
-],
+  ],
   "geometry": {"coordinates":[-118.255788,34.04928],"type":"Point"}
 }

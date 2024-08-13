@@ -2,84 +2,88 @@
   "id": 252714089,
   "type": "Feature",
   "properties": {
-    "addr:full":"3235 N Main St Los Angeles CA 90031",
-    "addr:housenumber":"3235",
-    "addr:postcode":"90031",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.206924,34.066185,-118.206924,34.066185",
-    "geom:latitude":34.066185,
-    "geom:longitude":-118.206924,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3235 N Main St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "3235 N Main St Los Angeles CA 90031",
+    "addr:housenumber": "3235",
+    "addr:postcode": "90031",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.206924,34.066185,-118.206924,34.066185",
+    "geom:latitude": 34.066185,
+    "geom:longitude": -118.206924,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lincoln Park Driving School, 3112 N Main St Los Angeles CA US",
+    "ovtr:similarity": 3.0550479888916016,
+    "sg:address": "3235 N Main St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 222 8717",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "sg:tags":[
-        "instruction",
-        "driving"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 222 8717",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "sg:tags": [
+      "instruction",
+      "driving"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Y0rOaVcz663f4bXrClaRN_34.066185_-118.206924@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d72b53518036057fd56e2f0d0",
+      "sg:id": "SG_5Y0rOaVcz663f4bXrClaRN_34.066185_-118.206924@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7e5cbd3280476c1057228644da16363a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":252714089
-        }
+    "wof:country": "US",
+    "wof:created": 1723561681,
+    "wof:geomhash": "7e5cbd3280476c1057228644da16363a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 252714089
+      }
     ],
-    "wof:id":252714089,
-    "wof:lastmodified":1509200078,
-    "wof:name":"Lincoln Park Driving School",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "instruction",
-        "driving"
+    "wof:id": 252714089,
+    "wof:lastmodified": 1723561681,
+    "wof:name": "Lincoln Park Driving School",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "instruction",
+      "driving"
     ]
-},
+  },
   "bbox": [
     -118.206924,
     34.066185,
     -118.206924,
     34.066185
-],
+  ],
   "geometry": {"coordinates":[-118.206924,34.066185],"type":"Point"}
 }

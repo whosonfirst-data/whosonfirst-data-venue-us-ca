@@ -2,73 +2,77 @@
   "id": 387914349,
   "type": "Feature",
   "properties": {
-    "addr:full":"2035 N Main St Salinas CA 93906",
-    "addr:housenumber":"2035",
-    "addr:postcode":"93906",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.656371,36.722259,-121.656371,36.722259",
-    "geom:latitude":36.722259,
-    "geom:longitude":-121.656371,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2035 N Main St",
-    "sg:city":"Salinas",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Self-service Laundry",
-            "type":"Services"
-        }
+    "addr:full": "2035 N Main St Salinas CA 93906",
+    "addr:housenumber": "2035",
+    "addr:postcode": "93906",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.656371,36.722259,-121.656371,36.722259",
+    "geom:latitude": 36.722259,
+    "geom:longitude": -121.656371,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Granny's Wash \u0026 Dry, 2035 N Main St Salinas CA US",
+    "ovtr:similarity": 1.898071050643921,
+    "sg:address": "2035 N Main St",
+    "sg:city": "Salinas",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Self-service Laundry",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 449 8016",
-    "sg:postcode":"93906",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080859,
-        85880621
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 449 8016",
+    "sg:postcode": "93906",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080859,
+      85880621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Qfh4QAsfXmDv8wKHwaBeA_36.722259_-121.656371@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834dae2e3862036714d7c8330f1f",
+      "sg:id": "SG_7Qfh4QAsfXmDv8wKHwaBeA_36.722259_-121.656371@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"36d5831b42f75a1c589fde190c28ec92",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080859,
-            "locality_id":-1,
-            "neighbourhood_id":85880621,
-            "region_id":85688637,
-            "venue_id":387914349
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "36d5831b42f75a1c589fde190c28ec92",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080859,
+        "locality_id": -1,
+        "neighbourhood_id": 85880621,
+        "region_id": 85688637,
+        "venue_id": 387914349
+      }
     ],
-    "wof:id":387914349,
-    "wof:lastmodified":1509201121,
-    "wof:name":"Granny's Wash & Dry",
-    "wof:parent_id":85880621,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387914349,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "Granny's Wash \u0026 Dry",
+    "wof:parent_id": 85880621,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.656371,
     36.722259,
     -121.656371,
     36.722259
-],
-  "geometry": {"coordinates":[-121.65637099999999,36.722259],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.656371,36.722259],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 572128563,
   "type": "Feature",
   "properties": {
-    "addr:full":"8110 Airport Blvd Los Angeles CA 90045",
-    "addr:housenumber":"8110",
-    "addr:postcode":"90045",
-    "addr:street":"Airport Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.385002,33.965199,-118.385002,33.965199",
-    "geom:latitude":33.965199,
-    "geom:longitude":-118.385002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"8110 Airport Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "8110 Airport Blvd Los Angeles CA 90045",
+    "addr:housenumber": "8110",
+    "addr:postcode": "90045",
+    "addr:street": "Airport Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.385002,33.965199,-118.385002,33.965199",
+    "geom:latitude": 33.965199,
+    "geom:longitude": -118.385002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "West Gastroenterology Medical Group, 8110 Airport Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.035360097885132,
+    "sg:address": "8110 Airport Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 674 0144",
-    "sg:postcode":"90045",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 674 0144",
+    "sg:postcode": "90045",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85886059
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85886059
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000425250-0001-4",
-        "sg:id":"SG_6pSWWNMwiv6KXNJlRQ0G6L_33.964605_-118.385225@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000425250-0001-4",
+      "ovtr:id": "08f29a19b0c5d8a503b460ab336749e0",
+      "sg:id": "SG_6pSWWNMwiv6KXNJlRQ0G6L_33.964605_-118.385225@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c83a116ae4ff30171c5de29e0a3e35e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886059,
-            "region_id":85688637,
-            "venue_id":572128563
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "c83a116ae4ff30171c5de29e0a3e35e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886059,
+        "region_id": 85688637,
+        "venue_id": 572128563
+      }
     ],
-    "wof:id":572128563,
-    "wof:lastmodified":1509201701,
-    "wof:name":"West Gastroenterology Group",
-    "wof:parent_id":85886059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 572128563,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "West Gastroenterology Group",
+    "wof:parent_id": 85886059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -118.385002,
     33.965199,
     -118.385002,
     33.965199
-],
+  ],
   "geometry": {"coordinates":[-118.385002,33.965199],"type":"Point"}
 }

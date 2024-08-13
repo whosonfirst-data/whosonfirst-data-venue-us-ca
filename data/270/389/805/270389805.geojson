@@ -2,74 +2,78 @@
   "id": 270389805,
   "type": "Feature",
   "properties": {
-    "addr:full":"13884 Mesquite St Hesperia CA 92344",
-    "addr:housenumber":"13884",
-    "addr:postcode":"92344",
-    "addr:street":"Mesquite St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.35985,34.397775,-117.35985,34.397775",
-    "geom:latitude":34.397775,
-    "geom:longitude":-117.35985,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13884 Mesquite St",
-    "sg:city":"Hesperia",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "13884 Mesquite St Hesperia CA 92344",
+    "addr:housenumber": "13884",
+    "addr:postcode": "92344",
+    "addr:street": "Mesquite St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.359850,34.397775,-117.359850,34.397775",
+    "geom:latitude": 34.397775,
+    "geom:longitude": -117.35985,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mesquite Trails Elementary School, 13884 Mesquite St Hesperia CA US",
+    "ovtr:similarity": 3.638174057006836,
+    "sg:address": "13884 Mesquite St",
+    "sg:city": "Hesperia",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 949 3149",
-    "sg:postcode":"92344",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923967,
-        102085395,
-        85867387
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 949 3149",
+    "sg:postcode": "92344",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923967,
+      102085395,
+      85867387
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7mGs5NdtKxdOu4S2SCBLGw_34.397775_-117.359850@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a029141364503f44f88be85454a",
+      "sg:id": "SG_7mGs5NdtKxdOu4S2SCBLGw_34.397775_-117.359850@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f25127409b485cf07a857951bacf5402",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923967,
-            "neighbourhood_id":85867387,
-            "region_id":85688637,
-            "venue_id":270389805
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "f25127409b485cf07a857951bacf5402",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923967,
+        "neighbourhood_id": 85867387,
+        "region_id": 85688637,
+        "venue_id": 270389805
+      }
     ],
-    "wof:id":270389805,
-    "wof:lastmodified":1509200230,
-    "wof:name":"Mesquite Trails Elementary",
-    "wof:parent_id":85867387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 270389805,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Mesquite Trails Elementary",
+    "wof:parent_id": 85867387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.35985,
     34.397775,
     -117.35985,
     34.397775
-],
-  "geometry": {"coordinates":[-117.35984999999999,34.397775],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.35985,34.397775],"type":"Point"}
 }

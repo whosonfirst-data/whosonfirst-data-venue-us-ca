@@ -2,66 +2,74 @@
   "id": 572201763,
   "type": "Feature",
   "properties": {
-    "addr:full":"215 Antelope Blvd Red Bluff CA 96080",
-    "addr:housenumber":"215",
-    "addr:postcode":"96080",
-    "addr:street":"Antelope Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.233802,40.176826,-122.233802,40.176826",
-    "geom:latitude":40.176826,
-    "geom:longitude":-122.233802,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"215 Antelope Blvd",
-    "sg:city":"Red Bluff",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "215 Antelope Blvd Red Bluff CA 96080",
+    "addr:housenumber": "215",
+    "addr:postcode": "96080",
+    "addr:street": "Antelope Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.233802,40.176826,-122.233802,40.176826",
+    "geom:latitude": 40.176826,
+    "geom:longitude": -122.233802,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 215 Antelope Blvd Red Bluff CA US",
+    "ovtr:similarity": 3.2394230365753174,
+    "sg:address": "215 Antelope Blvd",
+    "sg:city": "Red Bluff",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/red-bluff/216177-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"96080",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/red-bluff/216177-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "96080",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_47jGoEnt5OQqcvsUHtYSX4_40.176826_-122.233802@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2815c49b8692503c520e7838ee494",
+      "sg:id": "SG_47jGoEnt5OQqcvsUHtYSX4_40.176826_-122.233802@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"752ad10236c3e3368057847796d772b0",
-    "wof:hierarchy":[],
-    "wof:id":572201763,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "752ad10236c3e3368057847796d772b0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572201763
+      }
+    ],
+    "wof:id": 572201763,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.233802,
     40.176826,
     -122.233802,
     40.176826
-],
+  ],
   "geometry": {"coordinates":[-122.233802,40.176826],"type":"Point"}
 }

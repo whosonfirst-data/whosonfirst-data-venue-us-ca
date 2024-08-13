@@ -2,90 +2,94 @@
   "id": 555675061,
   "type": "Feature",
   "properties": {
-    "addr:full":"2003 Lincoln Blvd Santa Monica CA 90405",
-    "addr:housenumber":"2003",
-    "addr:postcode":"90405",
-    "addr:street":"Lincoln Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.481334,34.010961,-118.481334,34.010961",
-    "geom:latitude":34.010961,
-    "geom:longitude":-118.481334,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2003 Lincoln Blvd",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "2003 Lincoln Blvd Santa Monica CA 90405",
+    "addr:housenumber": "2003",
+    "addr:postcode": "90405",
+    "addr:street": "Lincoln Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.481334,34.010961,-118.481334,34.010961",
+    "geom:latitude": 34.010961,
+    "geom:longitude": -118.481334,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Metropolitan Cleaners, 2003 Lincoln Blvd Santa Monica CA US",
+    "ovtr:similarity": 2.441744089126587,
+    "sg:address": "2003 Lincoln Blvd",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 452 3443",
-    "sg:postcode":"90405",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cleaners"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 452 3443",
+    "sg:postcode": "90405",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cleaners"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923817,
-        102086957,
-        420551099,
-        85841527
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923817,
+      102086957,
+      420551099,
+      85841527
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Ta3lCj4S8LGVwOdgNw42O_34.010961_-118.481334@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19aa19e80403026aa83b72d061",
+      "sg:id": "SG_3Ta3lCj4S8LGVwOdgNw42O_34.010961_-118.481334@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"23a9b458285f939ba1e722157b8d45a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":420551099,
-            "region_id":85688637,
-            "venue_id":555675061
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85841527,
-            "region_id":85688637,
-            "venue_id":555675061
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "23a9b458285f939ba1e722157b8d45a6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 420551099,
+        "region_id": 85688637,
+        "venue_id": 555675061
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85841527,
+        "region_id": 85688637,
+        "venue_id": 555675061
+      }
     ],
-    "wof:id":555675061,
-    "wof:lastmodified":1509201470,
-    "wof:name":"Metropolitan Cleaners",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners"
+    "wof:id": 555675061,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Metropolitan Cleaners",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners"
     ]
-},
+  },
   "bbox": [
     -118.481334,
     34.010961,
     -118.481334,
     34.010961
-],
+  ],
   "geometry": {"coordinates":[-118.481334,34.010961],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 588360797,
   "type": "Feature",
   "properties": {
-    "addr:full":"1305 S Mary Ave Sunnyvale CA 94087",
-    "addr:housenumber":"1305",
-    "addr:postcode":"94087",
-    "addr:street":"S Mary Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.051078,37.350981,-122.051078,37.350981",
-    "geom:latitude":37.350981,
-    "geom:longitude":-122.051078,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1305 S Mary Ave",
-    "sg:city":"Sunnyvale",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1305 S Mary Ave Sunnyvale CA 94087",
+    "addr:housenumber": "1305",
+    "addr:postcode": "94087",
+    "addr:street": "S Mary Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.051078,37.350981,-122.051078,37.350981",
+    "geom:latitude": 37.350981,
+    "geom:longitude": -122.051078,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Saravanaa Bhavan, 1305 S Mary Ave Sunnyvale CA US",
+    "ovtr:similarity": 3.7923130989074707,
+    "sg:address": "1305 S Mary Ave",
+    "sg:city": "Sunnyvale",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 616 7755",
-    "sg:postcode":"94087",
-    "sg:province":"CA",
-    "sg:tags":[
-        "vegetarian",
-        "indian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 616 7755",
+    "sg:postcode": "94087",
+    "sg:province": "CA",
+    "sg:tags": [
+      "vegetarian",
+      "indian"
     ],
-    "sg:website":"www.saravanabhavan.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922333,
-        102081673,
-        420552481
+    "sg:website": "www.saravanabhavan.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922333,
+      102081673,
+      420552481
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":132686624,
-        "sg:id":"SG_3pLXWxg5IB6EELAqnIfPL3_37.350981_-122.051078@1303263309"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 132686624,
+      "ovtr:id": "08f283472b0238dc035fd9a6d5688472",
+      "sg:id": "SG_3pLXWxg5IB6EELAqnIfPL3_37.350981_-122.051078@1303263309"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9707826940d49e99dbc2b916a8d36897",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922333,
-            "neighbourhood_id":420552481,
-            "region_id":85688637,
-            "venue_id":588360797
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "9707826940d49e99dbc2b916a8d36897",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922333,
+        "neighbourhood_id": 420552481,
+        "region_id": 85688637,
+        "venue_id": 588360797
+      }
     ],
-    "wof:id":588360797,
-    "wof:lastmodified":1510943806,
-    "wof:name":"Saravana Bhavan",
-    "wof:parent_id":420552481,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "vegetarian",
-        "indian"
+    "wof:id": 588360797,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Saravana Bhavan",
+    "wof:parent_id": 420552481,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "vegetarian",
+      "indian"
     ]
-},
+  },
   "bbox": [
     -122.051078,
     37.350981,
     -122.051078,
     37.350981
-],
+  ],
   "geometry": {"coordinates":[-122.051078,37.350981],"type":"Point"}
 }

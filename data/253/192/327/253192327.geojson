@@ -2,84 +2,88 @@
   "id": 253192327,
   "type": "Feature",
   "properties": {
-    "addr:full":"1913 E 5th St Long Beach CA 90802",
-    "addr:housenumber":"1913",
-    "addr:postcode":"90802",
-    "addr:street":"E 5Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.167729,33.772987,-118.167729,33.772987",
-    "geom:latitude":33.772987,
-    "geom:longitude":-118.167729,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1913 E 5th St",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "1913 E 5th St Long Beach CA 90802",
+    "addr:housenumber": "1913",
+    "addr:postcode": "90802",
+    "addr:street": "E 5Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.167729,33.772987,-118.167729,33.772987",
+    "geom:latitude": 33.772987,
+    "geom:longitude": -118.167729,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Colonial Care Center, 1913 E 5th St Long Beach CA US",
+    "ovtr:similarity": 2.2264809608459473,
+    "sg:address": "1913 E 5th St",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 432 5751",
-    "sg:postcode":"90802",
-    "sg:province":"CA",
-    "sg:tags":[
-        "home",
-        "skilled",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 432 5751",
+    "sg:postcode": "90802",
+    "sg:province": "CA",
+    "sg:tags": [
+      "home",
+      "skilled",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85871775
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85871775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0kbb1QNGXNxa8z8v6lxVYr_33.772987_-118.167729@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56168ab2c103d3d1633682d8b3",
+      "sg:id": "SG_0kbb1QNGXNxa8z8v6lxVYr_33.772987_-118.167729@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cf9f5f50cfc48f52c2050b4dd7cc4a53",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85871775,
-            "region_id":85688637,
-            "venue_id":253192327
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "cf9f5f50cfc48f52c2050b4dd7cc4a53",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85871775,
+        "region_id": 85688637,
+        "venue_id": 253192327
+      }
     ],
-    "wof:id":253192327,
-    "wof:lastmodified":1509200110,
-    "wof:name":"Colonial Care Center",
-    "wof:parent_id":85871775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "skilled",
-        "convalescent"
+    "wof:id": 253192327,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Colonial Care Center",
+    "wof:parent_id": 85871775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "skilled",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -118.167729,
     33.772987,
     -118.167729,
     33.772987
-],
-  "geometry": {"coordinates":[-118.16772899999999,33.772987],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.167729,33.772987],"type":"Point"}
 }

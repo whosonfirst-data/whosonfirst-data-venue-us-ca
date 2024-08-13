@@ -2,82 +2,86 @@
   "id": 572139157,
   "type": "Feature",
   "properties": {
-    "addr:full":"313 S Harbor Blvd Santa Ana CA 92704",
-    "addr:housenumber":"313",
-    "addr:postcode":"92704",
-    "addr:street":"S Harbor Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.919377,33.742952,-117.919377,33.742952",
-    "geom:latitude":33.742952,
-    "geom:longitude":-117.919377,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"313 S Harbor Blvd",
-    "sg:city":"Santa Ana",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "313 S Harbor Blvd Santa Ana CA 92704",
+    "addr:housenumber": "313",
+    "addr:postcode": "92704",
+    "addr:street": "S Harbor Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.919377,33.742952,-117.919377,33.742952",
+    "geom:latitude": 33.742952,
+    "geom:longitude": -117.919377,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Auto Best, 313 S Harbor Blvd Santa Ana CA US",
+    "ovtr:similarity": 2.599311113357544,
+    "sg:address": "313 S Harbor Blvd",
+    "sg:city": "Santa Ana",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 888 462 1560",
-    "sg:postcode":"92704",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 888 462 1560",
+    "sg:postcode": "92704",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923049,
-        102080847,
-        420551591
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923049,
+      102080847,
+      420551591
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_76iBr7AX0kyvcFJ5yjv1Yt_33.742647_-117.920088@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b620918b603cd66370f11c5c8",
+      "sg:id": "SG_76iBr7AX0kyvcFJ5yjv1Yt_33.742647_-117.920088@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"962b8a2624a7092d18050e431def8abc",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":420551591,
-            "region_id":85688637,
-            "venue_id":572139157
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "962b8a2624a7092d18050e431def8abc",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 420551591,
+        "region_id": 85688637,
+        "venue_id": 572139157
+      }
     ],
-    "wof:id":572139157,
-    "wof:lastmodified":1509201705,
-    "wof:name":"Auto Best",
-    "wof:parent_id":420551591,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 572139157,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Auto Best",
+    "wof:parent_id": 420551591,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.919377,
     33.742952,
     -117.919377,
     33.742952
-],
+  ],
   "geometry": {"coordinates":[-117.919377,33.742952],"type":"Point"}
 }

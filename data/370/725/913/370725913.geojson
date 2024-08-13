@@ -2,84 +2,88 @@
   "id": 370725913,
   "type": "Feature",
   "properties": {
-    "addr:full":"4222 W Pico Blvd Los Angeles CA 90019",
-    "addr:housenumber":"4222",
-    "addr:postcode":"90019",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.327622,34.047863,-118.327622,34.047863",
-    "geom:latitude":34.047863,
-    "geom:longitude":-118.327622,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4222 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Ice Cream",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4222 W Pico Blvd Los Angeles CA 90019",
+    "addr:housenumber": "4222",
+    "addr:postcode": "90019",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.327622,34.047863,-118.327622,34.047863",
+    "geom:latitude": 34.047863,
+    "geom:longitude": -118.327622,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mateo's Ice Cream \u0026 Fruit Bars, 4234 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.443950891494751,
+    "sg:address": "4222 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Ice Cream",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 931 5500",
-    "sg:postcode":"90019",
-    "sg:province":"CA",
-    "sg:tags":[
-        "frozen",
-        "yogurt"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 931 5500",
+    "sg:postcode": "90019",
+    "sg:province": "CA",
+    "sg:tags": [
+      "frozen",
+      "yogurt"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45PQn5OOVvknMHIHE2zLzp_34.047863_-118.327622@1303263153"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d61b056150301ee06d7722c8c",
+      "sg:id": "SG_45PQn5OOVvknMHIHE2zLzp_34.047863_-118.327622@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b8cf3ad7050b769c18cdf6ea13cee5ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370725913
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "b8cf3ad7050b769c18cdf6ea13cee5ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370725913
+      }
     ],
-    "wof:id":370725913,
-    "wof:lastmodified":1509200805,
-    "wof:name":"Mateo's Ice Cream & Fruit Bars",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "frozen",
-        "yogurt"
+    "wof:id": 370725913,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Mateo's Ice Cream \u0026 Fruit Bars",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "frozen",
+      "yogurt"
     ]
-},
+  },
   "bbox": [
     -118.327622,
     34.047863,
     -118.327622,
     34.047863
-],
-  "geometry": {"coordinates":[-118.32762200000001,34.047863],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.327622,34.047863],"type":"Point"}
 }

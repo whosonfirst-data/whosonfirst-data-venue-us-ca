@@ -2,86 +2,90 @@
   "id": 588465843,
   "type": "Feature",
   "properties": {
-    "addr:full":"3131 California Blvd Napa CA 94558",
-    "addr:housenumber":"3131",
-    "addr:postcode":"94558",
-    "addr:street":"California Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.305321,38.31694,-122.305321,38.31694",
-    "geom:latitude":38.31694,
-    "geom:longitude":-122.305321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3131 California Blvd",
-    "sg:city":"Napa",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "3131 California Blvd Napa CA 94558",
+    "addr:housenumber": "3131",
+    "addr:postcode": "94558",
+    "addr:street": "California Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.305321,38.316940,-122.305321,38.316940",
+    "geom:latitude": 38.31694,
+    "geom:longitude": -122.305321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "California Pet Hospital, 3131 California Blvd Napa CA US",
+    "ovtr:similarity": 2.3831260204315186,
+    "sg:address": "3131 California Blvd",
+    "sg:city": "Napa",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 255 6832",
-    "sg:postcode":"94558",
-    "sg:province":"CA",
-    "sg:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 255 6832",
+    "sg:postcode": "94558",
+    "sg:province": "CA",
+    "sg:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921993,
-        102085383,
-        85853067
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921993,
+      102085383,
+      85853067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1noOjrWweuo7PVolcJEEjq_38.316940_-122.305321@1303263335"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28300ed144d0c03adba4121b378fc",
+      "sg:id": "SG_1noOjrWweuo7PVolcJEEjq_38.316940_-122.305321@1303263335"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e8d418b0a7c0de24bded7140f3962e5e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085383,
-            "locality_id":85921993,
-            "neighbourhood_id":85853067,
-            "region_id":85688637,
-            "venue_id":588465843
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "e8d418b0a7c0de24bded7140f3962e5e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085383,
+        "locality_id": 85921993,
+        "neighbourhood_id": 85853067,
+        "region_id": 85688637,
+        "venue_id": 588465843
+      }
     ],
-    "wof:id":588465843,
-    "wof:lastmodified":1509202080,
-    "wof:name":"California Pet Hospital",
-    "wof:parent_id":85853067,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "hospital",
-        "veterinarian",
-        "specialty"
+    "wof:id": 588465843,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "California Pet Hospital",
+    "wof:parent_id": 85853067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "hospital",
+      "veterinarian",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -122.305321,
     38.31694,
     -122.305321,
     38.31694
-],
-  "geometry": {"coordinates":[-122.30532100000001,38.31694],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.305321,38.31694],"type":"Point"}
 }

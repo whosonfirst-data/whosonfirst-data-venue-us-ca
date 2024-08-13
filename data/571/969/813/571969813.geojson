@@ -2,84 +2,88 @@
   "id": 571969813,
   "type": "Feature",
   "properties": {
-    "addr:full":"3851 International Blvd Oakland CA 94601",
-    "addr:housenumber":"3851",
-    "addr:postcode":"94601",
-    "addr:street":"International Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.219002,37.774502,-122.219002,37.774502",
-    "geom:latitude":37.774502,
-    "geom:longitude":-122.219002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3851 International Blvd",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3851 International Blvd Oakland CA 94601",
+    "addr:housenumber": "3851",
+    "addr:postcode": "94601",
+    "addr:street": "International Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.219002,37.774502,-122.219002,37.774502",
+    "geom:latitude": 37.774502,
+    "geom:longitude": -122.219002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "International Produce Market, 3851 International Blvd Oakland CA US",
+    "ovtr:similarity": 2.461358070373535,
+    "sg:address": "3851 International Blvd",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 534 2877",
-    "sg:postcode":"94601",
-    "sg:province":"CA",
-    "sg:tags":[
-        "produce",
-        "veggie"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 534 2877",
+    "sg:postcode": "94601",
+    "sg:province": "CA",
+    "sg:tags": [
+      "produce",
+      "veggie"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872389,
-        102191575,
-        1108794081,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872389,
+      102191575,
+      1108794081,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_059bYW0EkjA9w0Ux7VJFzm_37.774524_-122.219424@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283098862b944033109bb011225d7",
+      "sg:id": "SG_059bYW0EkjA9w0Ux7VJFzm_37.774524_-122.219424@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"21c7131a60e57c1c67cac398c7ea2c90",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794081,
-            "neighbourhood_id":85872389,
-            "region_id":85688637,
-            "venue_id":571969813
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "21c7131a60e57c1c67cac398c7ea2c90",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794081,
+        "neighbourhood_id": 85872389,
+        "region_id": 85688637,
+        "venue_id": 571969813
+      }
     ],
-    "wof:id":571969813,
-    "wof:lastmodified":1509201650,
-    "wof:name":"International Produce Market",
-    "wof:parent_id":85872389,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "produce",
-        "veggie"
+    "wof:id": 571969813,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "International Produce Market",
+    "wof:parent_id": 85872389,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "produce",
+      "veggie"
     ]
-},
+  },
   "bbox": [
     -122.219002,
     37.774502,
     -122.219002,
     37.774502
-],
+  ],
   "geometry": {"coordinates":[-122.219002,37.774502],"type":"Point"}
 }

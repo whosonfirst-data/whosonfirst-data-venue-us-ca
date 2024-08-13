@@ -2,83 +2,87 @@
   "id": 236586651,
   "type": "Feature",
   "properties": {
-    "addr:full":"13880 San Pablo Ave San Pablo CA 94806",
-    "addr:housenumber":"13880",
-    "addr:postcode":"94806",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.340715,37.95913,-122.340715,37.95913",
-    "geom:latitude":37.95913,
-    "geom:longitude":-122.340715,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13880 San Pablo Ave",
-    "sg:city":"San Pablo",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "13880 San Pablo Ave San Pablo CA 94806",
+    "addr:housenumber": "13880",
+    "addr:postcode": "94806",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.340715,37.959130,-122.340715,37.959130",
+    "geom:latitude": 37.95913,
+    "geom:longitude": -122.340715,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Pablo Police Department, 13880 San Pablo Ave San Pablo CA US",
+    "ovtr:similarity": 3.028254985809326,
+    "sg:address": "13880 San Pablo Ave",
+    "sg:city": "San Pablo",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 215 3130",
-    "sg:postcode":"94806",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department",
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 215 3130",
+    "sg:postcode": "94806",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department",
+      "protection"
     ],
-    "sg:website":"www.sanpablopolice.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922125,
-        102086225,
-        85845805
+    "sg:website": "www.sanpablopolice.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922125,
+      102086225,
+      85845805
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5xGqJWQaW0mXzsiBZgaWDj_37.959130_-122.340715@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308c2ac47a1035d0060ccb858df",
+      "sg:id": "SG_5xGqJWQaW0mXzsiBZgaWDj_37.959130_-122.340715@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"489db57905fe207d1dd9ec471da098a2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922125,
-            "neighbourhood_id":85845805,
-            "region_id":85688637,
-            "venue_id":236586651
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "489db57905fe207d1dd9ec471da098a2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922125,
+        "neighbourhood_id": 85845805,
+        "region_id": 85688637,
+        "venue_id": 236586651
+      }
     ],
-    "wof:id":236586651,
-    "wof:lastmodified":1509200051,
-    "wof:name":"San Pablo Police Department",
-    "wof:parent_id":85845805,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "protection"
+    "wof:id": 236586651,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "San Pablo Police Department",
+    "wof:parent_id": 85845805,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "protection"
     ]
-},
+  },
   "bbox": [
     -122.340715,
     37.95913,
     -122.340715,
     37.95913
-],
+  ],
   "geometry": {"coordinates":[-122.340715,37.95913],"type":"Point"}
 }

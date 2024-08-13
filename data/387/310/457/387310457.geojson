@@ -2,74 +2,78 @@
   "id": 387310457,
   "type": "Feature",
   "properties": {
-    "addr:full":"10774 Jefferson Blvd Culver City CA 90230",
-    "addr:housenumber":"10774",
-    "addr:postcode":"90230",
-    "addr:street":"Jefferson Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.394997,34.002201,-118.394997,34.002201",
-    "geom:latitude":34.002201,
-    "geom:longitude":-118.394997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10774 Jefferson Blvd",
-    "sg:city":"Culver City",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "10774 Jefferson Blvd Culver City CA 90230",
+    "addr:housenumber": "10774",
+    "addr:postcode": "90230",
+    "addr:street": "Jefferson Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.394997,34.002201,-118.394997,34.002201",
+    "geom:latitude": 34.002201,
+    "geom:longitude": -118.394997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Raintree Cleaners, 10774 Jefferson Blvd Culver City CA US",
+    "ovtr:similarity": 1.8589650392532349,
+    "sg:address": "10774 Jefferson Blvd",
+    "sg:city": "Culver City",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 559 6580",
-    "sg:postcode":"90230",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928349,
-        102086957,
-        85885823
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 559 6580",
+    "sg:postcode": "90230",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928349,
+      102086957,
+      85885823
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6RBiXBdfEaQWmoiZE5qWwK_34.002201_-118.394997@1303263175"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a199592520503528b81b21f9dc6",
+      "sg:id": "SG_6RBiXBdfEaQWmoiZE5qWwK_34.002201_-118.394997@1303263175"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a26970e0c453503f32b04f0b020f783d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928349,
-            "neighbourhood_id":85885823,
-            "region_id":85688637,
-            "venue_id":387310457
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "a26970e0c453503f32b04f0b020f783d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928349,
+        "neighbourhood_id": 85885823,
+        "region_id": 85688637,
+        "venue_id": 387310457
+      }
     ],
-    "wof:id":387310457,
-    "wof:lastmodified":1509201004,
-    "wof:name":"Raintree Cleaners",
-    "wof:parent_id":85885823,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387310457,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Raintree Cleaners",
+    "wof:parent_id": 85885823,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.394997,
     34.002201,
     -118.394997,
     34.002201
-],
+  ],
   "geometry": {"coordinates":[-118.394997,34.002201],"type":"Point"}
 }

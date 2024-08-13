@@ -2,82 +2,86 @@
   "id": 572118083,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 E Alameda Ave Burbank CA 91502",
-    "addr:housenumber":"216",
-    "addr:postcode":"91502",
-    "addr:street":"E Alameda Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.299004,34.174801,-118.299004,34.174801",
-    "geom:latitude":34.174801,
-    "geom:longitude":-118.299004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"216 E Alameda Ave",
-    "sg:city":"Burbank",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "216 E Alameda Ave Burbank CA 91502",
+    "addr:housenumber": "216",
+    "addr:postcode": "91502",
+    "addr:street": "E Alameda Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.299004,34.174801,-118.299004,34.174801",
+    "geom:latitude": 34.174801,
+    "geom:longitude": -118.299004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 214 E Alameda Ave Burbank CA US",
+    "ovtr:similarity": 3.5213019847869873,
+    "sg:address": "216 E Alameda Ave",
+    "sg:city": "Burbank",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 848 4299",
-    "sg:postcode":"91502",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 848 4299",
+    "sg:postcode": "91502",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923691,
-        102086957,
-        85885671
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923691,
+      102086957,
+      85885671
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6bpie2nfHmhFPQI0PvxxFJ_34.174493_-118.299646@1293134755"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c648e628603a5859ae4ad0c07",
+      "sg:id": "SG_6bpie2nfHmhFPQI0PvxxFJ_34.174493_-118.299646@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b452c98d82038565ff7bcab52e5e5af6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923691,
-            "neighbourhood_id":85885671,
-            "region_id":85688637,
-            "venue_id":572118083
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "b452c98d82038565ff7bcab52e5e5af6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923691,
+        "neighbourhood_id": 85885671,
+        "region_id": 85688637,
+        "venue_id": 572118083
+      }
     ],
-    "wof:id":572118083,
-    "wof:lastmodified":1510875978,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":85885671,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 572118083,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 85885671,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.299004,
     34.174801,
     -118.299004,
     34.174801
-],
+  ],
   "geometry": {"coordinates":[-118.299004,34.174801],"type":"Point"}
 }

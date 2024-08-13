@@ -2,79 +2,83 @@
   "id": 370716357,
   "type": "Feature",
   "properties": {
-    "addr:full":"4700 W Pico Blvd Los Angeles CA 90019",
-    "addr:housenumber":"4700",
-    "addr:postcode":"90019",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.338312,34.048602,-118.338312,34.048602",
-    "geom:latitude":34.048602,
-    "geom:longitude":-118.338312,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4700 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4700 W Pico Blvd Los Angeles CA 90019",
+    "addr:housenumber": "4700",
+    "addr:postcode": "90019",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.338312,34.048602,-118.338312,34.048602",
+    "geom:latitude": 34.048602,
+    "geom:longitude": -118.338312,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Starbucks, 4700 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.65494704246521,
+    "sg:address": "4700 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 936 5040",
-    "sg:postcode":"90019",
-    "sg:province":"CA",
-    "sg:website":"www.starbucks.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 936 5040",
+    "sg:postcode": "90019",
+    "sg:province": "CA",
+    "sg:website": "www.starbucks.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0RTTeVtTcu59EemFhLhGXK_34.048602_-118.338312@1303263153"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1992633b18038e80d0df096d12",
+      "sg:id": "SG_0RTTeVtTcu59EemFhLhGXK_34.048602_-118.338312@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"57c6665f552bcb5e5ecadc6a67b03144",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370716357
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "57c6665f552bcb5e5ecadc6a67b03144",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370716357
+      }
     ],
-    "wof:id":370716357,
-    "wof:lastmodified":1509200803,
-    "wof:name":"Starbucks",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370716357,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Starbucks",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.338312,
     34.048602,
     -118.338312,
     34.048602
-],
+  ],
   "geometry": {"coordinates":[-118.338312,34.048602],"type":"Point"}
 }

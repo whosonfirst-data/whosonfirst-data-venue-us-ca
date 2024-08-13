@@ -2,79 +2,83 @@
   "id": 403763341,
   "type": "Feature",
   "properties": {
-    "addr:full":"8900 Washington Blvd Pico Rivera CA 90660",
-    "addr:housenumber":"8900",
-    "addr:postcode":"90660",
-    "addr:street":"Washington Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.098319,33.983815,-118.098319,33.983815",
-    "geom:latitude":33.983815,
-    "geom:longitude":-118.098319,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8900 Washington Blvd",
-    "sg:city":"Pico Rivera",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8900 Washington Blvd Pico Rivera CA 90660",
+    "addr:housenumber": "8900",
+    "addr:postcode": "90660",
+    "addr:street": "Washington Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.098319,33.983815,-118.098319,33.983815",
+    "geom:latitude": 33.983815,
+    "geom:longitude": -118.098319,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Walgreens, 8900 Washington Blvd Pico Rivera CA US",
+    "ovtr:similarity": 3.9953720569610596,
+    "sg:address": "8900 Washington Blvd",
+    "sg:city": "Pico Rivera",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 222 1590",
-    "sg:postcode":"90660",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 222 1590",
+    "sg:postcode": "90660",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923483,
-        102086957
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923483,
+      102086957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5djeTzA5wKeaKtBZppwBDI_33.983815_-118.098319@1303263192"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d220cec0c0306c78e1fc46ab0",
+      "sg:id": "SG_5djeTzA5wKeaKtBZppwBDI_33.983815_-118.098319@1303263192"
     },
-    "wof:country":"US",
-    "wof:geomhash":"97b0db42ef08fec238dded7c664049cf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923483,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":403763341
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "97b0db42ef08fec238dded7c664049cf",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923483,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 403763341
+      }
     ],
-    "wof:id":403763341,
-    "wof:lastmodified":1509201142,
-    "wof:name":"Walgreen's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 403763341,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Walgreen's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.098319,
     33.983815,
     -118.098319,
     33.983815
-],
+  ],
   "geometry": {"coordinates":[-118.098319,33.983815],"type":"Point"}
 }

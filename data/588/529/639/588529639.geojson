@@ -2,91 +2,95 @@
   "id": 588529639,
   "type": "Feature",
   "properties": {
-    "addr:full":"1063 13th St Richmond CA 94801",
-    "addr:housenumber":"1063",
-    "addr:postcode":"94801",
-    "addr:street":"13Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.357268,37.948448,-122.357268,37.948448",
-    "geom:latitude":37.948448,
-    "geom:longitude":-122.357268,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1063 13th St",
-    "sg:city":"Richmond",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1063 13th St Richmond CA 94801",
+    "addr:housenumber": "1063",
+    "addr:postcode": "94801",
+    "addr:street": "13Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.357268,37.948448,-122.357268,37.948448",
+    "geom:latitude": 37.948448,
+    "geom:longitude": -122.357268,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Richmond Auto Repair, 1063 13th St Richmond CA US",
+    "ovtr:similarity": 2.470797061920166,
+    "sg:address": "1063 13th St",
+    "sg:city": "Richmond",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 235 4452",
-    "sg:postcode":"94801",
-    "sg:province":"CA",
-    "sg:tags":[
-        "muffler",
-        "exhaust",
-        "brake",
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 235 4452",
+    "sg:postcode": "94801",
+    "sg:province": "CA",
+    "sg:tags": [
+      "muffler",
+      "exhaust",
+      "brake",
+      "system"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922131,
-        102086225,
-        85880347
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922131,
+      102086225,
+      85880347
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3REkmXaugWtuTEliiNe6QC_37.948448_-122.357268@1303263352"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308c005c54003e6dbc7c707c422",
+      "sg:id": "SG_3REkmXaugWtuTEliiNe6QC_37.948448_-122.357268@1303263352"
     },
-    "wof:country":"US",
-    "wof:geomhash":"041c54401b13070aec1208c8900fa734",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922131,
-            "neighbourhood_id":85880347,
-            "region_id":85688637,
-            "venue_id":588529639
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "041c54401b13070aec1208c8900fa734",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922131,
+        "neighbourhood_id": 85880347,
+        "region_id": 85688637,
+        "venue_id": 588529639
+      }
     ],
-    "wof:id":588529639,
-    "wof:lastmodified":1509202118,
-    "wof:name":"Richmond Auto Repair",
-    "wof:parent_id":85880347,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "muffler",
-        "exhaust",
-        "brake",
-        "system"
+    "wof:id": 588529639,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "Richmond Auto Repair",
+    "wof:parent_id": 85880347,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "muffler",
+      "exhaust",
+      "brake",
+      "system"
     ]
-},
+  },
   "bbox": [
     -122.357268,
     37.948448,
     -122.357268,
     37.948448
-],
+  ],
   "geometry": {"coordinates":[-122.357268,37.948448],"type":"Point"}
 }

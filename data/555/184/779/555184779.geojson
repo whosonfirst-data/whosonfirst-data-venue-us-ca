@@ -2,81 +2,85 @@
   "id": 555184779,
   "type": "Feature",
   "properties": {
-    "addr:full":"6326 Pine Ave Bell CA 90201",
-    "addr:housenumber":"6326",
-    "addr:postcode":"90201",
-    "addr:street":"Pine Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.188866,33.979104,-118.188866,33.979104",
-    "geom:latitude":33.979104,
-    "geom:longitude":-118.188866,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6326 Pine Ave",
-    "sg:city":"Bell",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "6326 Pine Ave Bell CA 90201",
+    "addr:housenumber": "6326",
+    "addr:postcode": "90201",
+    "addr:street": "Pine Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.188866,33.979104,-118.188866,33.979104",
+    "geom:latitude": 33.979104,
+    "geom:longitude": -118.188866,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bell Police Department, 6326 Pine Ave Bell CA US",
+    "ovtr:similarity": 3.752561092376709,
+    "sg:address": "6326 Pine Ave",
+    "sg:city": "Bell",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 585 1245",
-    "sg:postcode":"90201",
-    "sg:province":"CA",
-    "sg:tags":[
-        "police"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 585 1245",
+    "sg:postcode": "90201",
+    "sg:province": "CA",
+    "sg:tags": [
+      "police"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923717,
-        102086957,
-        85854241
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923717,
+      102086957,
+      85854241
     ],
-    "wof:brand_id":420574855,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7EJfXErG7mNv4IXzheqMS3_33.979104_-118.188866@1294081369"
+    "wof:brand_id": 420574855,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d3445af10341934be1e4f25d",
+      "sg:id": "SG_7EJfXErG7mNv4IXzheqMS3_33.979104_-118.188866@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"98b4209958bb84bebbf5f3d952c84a6a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923717,
-            "neighbourhood_id":85854241,
-            "region_id":85688637,
-            "venue_id":555184779
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "98b4209958bb84bebbf5f3d952c84a6a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923717,
+        "neighbourhood_id": 85854241,
+        "region_id": 85688637,
+        "venue_id": 555184779
+      }
     ],
-    "wof:id":555184779,
-    "wof:lastmodified":1511323632,
-    "wof:name":"Police Dept",
-    "wof:parent_id":85854241,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "police"
+    "wof:id": 555184779,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Police Dept",
+    "wof:parent_id": 85854241,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "police"
     ]
-},
+  },
   "bbox": [
     -118.188866,
     33.979104,
     -118.188866,
     33.979104
-],
+  ],
   "geometry": {"coordinates":[-118.188866,33.979104],"type":"Point"}
 }

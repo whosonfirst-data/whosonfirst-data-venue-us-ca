@@ -2,85 +2,89 @@
   "id": 370998295,
   "type": "Feature",
   "properties": {
-    "addr:full":"1132 Vine St Los Angeles CA 90038",
-    "addr:housenumber":"1132",
-    "addr:postcode":"90038",
-    "addr:street":"Vine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.326166,34.091905,-118.326166,34.091905",
-    "geom:latitude":34.091905,
-    "geom:longitude":-118.326166,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1132 Vine St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"Film & Video Production",
-            "type":"Services"
-        },
-        {
-            "category":"Cinema",
-            "subcategory":"Movie Theater",
-            "type":"Entertainment"
-        }
+    "addr:full": "1132 Vine St Los Angeles CA 90038",
+    "addr:housenumber": "1132",
+    "addr:postcode": "90038",
+    "addr:street": "Vine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.326166,34.091905,-118.326166,34.091905",
+    "geom:latitude": 34.091905,
+    "geom:longitude": -118.326166,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Picture Head, 1132 Vine St Los Angeles CA US",
+    "ovtr:similarity": 2.1364500522613525,
+    "sg:address": "1132 Vine St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Film \u0026 Video Production",
+        "type": "Services"
+      },
+      {
+        "category": "Cinema",
+        "subcategory": "Movie Theater",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 466 2066",
-    "sg:postcode":"90038",
-    "sg:province":"CA",
-    "sg:tags":[
-        "video/film"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 466 2066",
+    "sg:postcode": "90038",
+    "sg:province": "CA",
+    "sg:tags": [
+      "video/film"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85868365
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85868365
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000123761-0001-2",
-        "sg:id":"SG_0WDNT0pKnE3cYOnFKXLWoy_34.091905_-118.326166@1303263160"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000123761-0001-2",
+      "ovtr:id": "08f29a1d6a86c031033892bf9245ce1d",
+      "sg:id": "SG_0WDNT0pKnE3cYOnFKXLWoy_34.091905_-118.326166@1303263160"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fbca99fbd949b7a7a8408d2b672ee74b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868365,
-            "region_id":85688637,
-            "venue_id":370998295
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "fbca99fbd949b7a7a8408d2b672ee74b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868365,
+        "region_id": 85688637,
+        "venue_id": 370998295
+      }
     ],
-    "wof:id":370998295,
-    "wof:lastmodified":1509200869,
-    "wof:name":"Picture Head",
-    "wof:parent_id":85868365,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "video/film"
+    "wof:id": 370998295,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Picture Head",
+    "wof:parent_id": 85868365,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "video/film"
     ]
-},
+  },
   "bbox": [
     -118.326166,
     34.091905,
     -118.326166,
     34.091905
-],
+  ],
   "geometry": {"coordinates":[-118.326166,34.091905],"type":"Point"}
 }

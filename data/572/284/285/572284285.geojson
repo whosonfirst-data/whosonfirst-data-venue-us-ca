@@ -2,80 +2,84 @@
   "id": 572284285,
   "type": "Feature",
   "properties": {
-    "addr:full":"12711 Sherman Way North Hollywood CA 91605",
-    "addr:housenumber":"12711",
-    "addr:postcode":"91605",
-    "addr:street":"Sherman Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.410004,34.201099,-118.410004,34.201099",
-    "geom:latitude":34.201099,
-    "geom:longitude":-118.410004,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"12711 Sherman Way",
-    "sg:city":"North Hollywood",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12711 Sherman Way North Hollywood CA 91605",
+    "addr:housenumber": "12711",
+    "addr:postcode": "91605",
+    "addr:street": "Sherman Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.410004,34.201099,-118.410004,34.201099",
+    "geom:latitude": 34.201099,
+    "geom:longitude": -118.410004,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 12711 Sherman Way North Hollywood CA US",
+    "ovtr:similarity": 2.518354892730713,
+    "sg:address": "12711 Sherman Way",
+    "sg:city": "North Hollywood",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 764 9991",
-    "sg:postcode":"91605",
-    "sg:province":"CA",
-    "sg:website":"www.99only.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865849",
-        102191575,
-        1108692439,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 764 9991",
+    "sg:postcode": "91605",
+    "sg:province": "CA",
+    "sg:website": "www.99only.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692439,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865849
     ],
-    "wof:brand_id":1125154585,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000008103-0020-5",
-        "sg:id":"SG_0In9XG9BMayA4UnAjRG9T1_34.201099_-118.410004@1303263221"
+    "wof:brand_id": 1125154585,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000008103-0020-5",
+      "ovtr:id": "08f29a189cd02d6503e0a8b9f7657e10",
+      "sg:id": "SG_0In9XG9BMayA4UnAjRG9T1_34.201099_-118.410004@1303263221"
     },
-    "wof:country":"US",
-    "wof:geomhash":"500676c49d4ee274bc84b080d4d1cbb0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692439,
-            "neighbourhood_id":"85865849",
-            "region_id":85688637,
-            "venue_id":572284285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "500676c49d4ee274bc84b080d4d1cbb0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692439,
+        "neighbourhood_id": 85865849,
+        "region_id": 85688637,
+        "venue_id": 572284285
+      }
     ],
-    "wof:id":572284285,
-    "wof:lastmodified":1510613338,
-    "wof:name":"99 Cents Only Store",
-    "wof:parent_id":"85865849",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572284285,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "99 Cents Only Store",
+    "wof:parent_id": "85865849",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.410004,
     34.201099,
     -118.410004,
     34.201099
-],
+  ],
   "geometry": {"coordinates":[-118.410004,34.201099],"type":"Point"}
 }

@@ -2,79 +2,83 @@
   "id": 220152563,
   "type": "Feature",
   "properties": {
-    "addr:full":"407 S E St San Bernardino CA 92401",
-    "addr:housenumber":"407",
-    "addr:postcode":"92401",
-    "addr:street":"S E St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.294208,34.09402,-117.294208,34.09402",
-    "geom:latitude":34.09402,
-    "geom:longitude":-117.294208,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"407 S E St",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "407 S E St San Bernardino CA 92401",
+    "addr:housenumber": "407",
+    "addr:postcode": "92401",
+    "addr:street": "S E St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.294208,34.094020,-117.294208,34.094020",
+    "geom:latitude": 34.09402,
+    "geom:longitude": -117.294208,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Arrowhead Family Dentistry, 407 S E St San Bernardino CA US",
+    "ovtr:similarity": 2.2366740703582764,
+    "sg:address": "407 S E St",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 889 3300",
-    "sg:postcode":"92401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 889 3300",
+    "sg:postcode": "92401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85805941
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85805941
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ArbAYKCgPcsR0sr31Y23J_34.094020_-117.294208@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00e160bd1b031184a4f1e99170",
+      "sg:id": "SG_6ArbAYKCgPcsR0sr31Y23J_34.094020_-117.294208@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"865184a733224fb291efa54842fd636a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85805941,
-            "region_id":85688637,
-            "venue_id":220152563
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "865184a733224fb291efa54842fd636a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85805941,
+        "region_id": 85688637,
+        "venue_id": 220152563
+      }
     ],
-    "wof:id":220152563,
-    "wof:lastmodified":1509200003,
-    "wof:name":"Arrowhead Family Dentistry",
-    "wof:parent_id":85805941,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 220152563,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Arrowhead Family Dentistry",
+    "wof:parent_id": 85805941,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -117.294208,
     34.09402,
     -117.294208,
     34.09402
-],
+  ],
   "geometry": {"coordinates":[-117.294208,34.09402],"type":"Point"}
 }

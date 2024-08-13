@@ -2,64 +2,72 @@
   "id": 555259299,
   "type": "Feature",
   "properties": {
-    "addr:full":"28100 Jefferson Ave Temecula CA 92590",
-    "addr:housenumber":"28100",
-    "addr:postcode":"92590",
-    "addr:street":"Jefferson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.154076,33.503903,-117.154076,33.503903",
-    "geom:latitude":33.503903,
-    "geom:longitude":-117.154076,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"28100 Jefferson Ave",
-    "sg:city":"Temecula",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "28100 Jefferson Ave Temecula CA 92590",
+    "addr:housenumber": "28100",
+    "addr:postcode": "92590",
+    "addr:street": "Jefferson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.154076,33.503903,-117.154076,33.503903",
+    "geom:latitude": 33.503903,
+    "geom:longitude": -117.154076,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 28100 Jefferson Ave Temecula CA US",
+    "ovtr:similarity": 3.27512788772583,
+    "sg:address": "28100 Jefferson Ave",
+    "sg:city": "Temecula",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 676 8704",
-    "sg:postcode":"92590",
-    "sg:province":"CA",
-    "sg:tags":[
-        "fast"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 676 8704",
+    "sg:postcode": "92590",
+    "sg:province": "CA",
+    "sg:tags": [
+      "fast"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1lmFrN28yxBPmPG7elnbTW_33.503903_-117.154076@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0992a16ac6036969897c9b1ac3",
+      "sg:id": "SG_1lmFrN28yxBPmPG7elnbTW_33.503903_-117.154076@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c02c6b8f3097e89b9876cd8840f98119",
-    "wof:hierarchy":[],
-    "wof:id":555259299,
-    "wof:lastmodified":1512143043,
-    "wof:name":"McDonalds",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "fast"
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "c02c6b8f3097e89b9876cd8840f98119",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555259299
+      }
+    ],
+    "wof:id": 555259299,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "McDonalds",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "fast"
     ]
-},
+  },
   "bbox": [
     -117.154076,
     33.503903,
     -117.154076,
     33.503903
-],
+  ],
   "geometry": {"coordinates":[-117.154076,33.503903],"type":"Point"}
 }

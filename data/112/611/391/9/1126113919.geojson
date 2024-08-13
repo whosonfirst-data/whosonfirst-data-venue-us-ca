@@ -2,73 +2,79 @@
   "id": 1126113919,
   "type": "Feature",
   "properties": {
-    "addr:full":"470 Pacific Ave. San Francisco CA",
-    "addr:phone":"415-775-8500",
-    "addr:website":"http://quincerestaurant.com",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"2009",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.403274,37.797471,-122.403274,37.797471",
-    "geom:latitude":37.797471,
-    "geom:longitude":-122.403274,
-    "iso:country":"US",
-    "mz:categories":[
-        "eat_and_drink:eat=restaurant",
-        "eat:restaurant=italian"
+    "addr:full": "470 Pacific Ave. San Francisco CA",
+    "addr:phone": "415-775-8500",
+    "addr:website": "http://quincerestaurant.com",
+    "date:inception_lower": "2009-01-01",
+    "date:inception_upper": "2009-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "2009",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.403274,37.797471,-122.403274,37.797471",
+    "geom:latitude": 37.797471,
+    "geom:longitude": -122.403274,
+    "iso:country": "US",
+    "mz:categories": [
+      "eat_and_drink:eat=restaurant",
+      "eat:restaurant=italian"
     ],
-    "mz:hierarchy_label":1,
-    "mz:hours":{},
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "name:eng_x_preferred":[
-        "Quince"
+    "mz:hierarchy_label": 1,
+    "mz:hours": {},
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "name:eng_x_preferred": [
+      "Quince"
     ],
-    "src:geom":"mapzen",
-    "wof:belongsto":[
-        1108831979,
-        85837317,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "ovtr:label": "Quince, 470 Pacific Ave San Francisco CA US",
+    "ovtr:similarity": 3.155081033706665,
+    "src:geom": "mapzen",
+    "wof:belongsto": [
+      1108831979,
+      85837317,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{},
-    "wof:country":"US",
-    "wof:created":1497570695,
-    "wof:geomhash":"9888731eb81fae5a5b5cb5cc04e9307a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831979,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":1126113919
-        }
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283080c96525203b105c4c32ab06c"
+    },
+    "wof:country": "US",
+    "wof:created": 1497570695,
+    "wof:geomhash": "9888731eb81fae5a5b5cb5cc04e9307a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831979,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 1126113919
+      }
     ],
-    "wof:id":1126113919,
-    "wof:lastmodified":1509199741,
-    "wof:name":"Quince",
-    "wof:parent_id":1108831979,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "restaurant",
-        "italian"
+    "wof:id": 1126113919,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Quince",
+    "wof:parent_id": 1108831979,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "restaurant",
+      "italian"
     ]
-},
+  },
   "bbox": [
     -122.403274,
     37.797471,
     -122.403274,
     37.797471
-],
+  ],
   "geometry": {"coordinates":[-122.403274,37.797471],"type":"Point"}
 }

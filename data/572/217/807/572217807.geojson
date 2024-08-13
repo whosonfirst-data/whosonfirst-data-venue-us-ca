@@ -2,84 +2,88 @@
   "id": 572217807,
   "type": "Feature",
   "properties": {
-    "addr:full":"885 S Arroyo Pkwy Pasadena CA 91105",
-    "addr:housenumber":"885",
-    "addr:postcode":"91105",
-    "addr:street":"S Arroyo Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.147536,34.130492,-118.147536,34.130492",
-    "geom:latitude":34.130492,
-    "geom:longitude":-118.147536,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"885 S Arroyo Pkwy",
-    "sg:city":"Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "885 S Arroyo Pkwy Pasadena CA 91105",
+    "addr:housenumber": "885",
+    "addr:postcode": "91105",
+    "addr:street": "S Arroyo Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.147536,34.130492,-118.147536,34.130492",
+    "geom:latitude": 34.130492,
+    "geom:longitude": -118.147536,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "BevMo!, 885 S Arroyo Pkwy Pasadena CA US",
+    "ovtr:similarity": 3.986699104309082,
+    "sg:address": "885 S Arroyo Pkwy",
+    "sg:city": "Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 356 9462",
-    "sg:postcode":"91105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 356 9462",
+    "sg:postcode": "91105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923487,
-        102086957,
-        85843905
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923487,
+      102086957,
+      85843905
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_14TDroASkADOTgHDdX4nTD_34.130492_-118.147536@1303263205"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1c219917a603acd072339d0696",
+      "sg:id": "SG_14TDroASkADOTgHDdX4nTD_34.130492_-118.147536@1303263205"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0e23aab11cfc57c8578264d2825aa02b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923487,
-            "neighbourhood_id":85843905,
-            "region_id":85688637,
-            "venue_id":572217807
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "0e23aab11cfc57c8578264d2825aa02b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923487,
+        "neighbourhood_id": 85843905,
+        "region_id": 85688637,
+        "venue_id": 572217807
+      }
     ],
-    "wof:id":572217807,
-    "wof:lastmodified":1509201741,
-    "wof:name":"BevMo",
-    "wof:parent_id":85843905,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572217807,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "BevMo",
+    "wof:parent_id": 85843905,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.147536,
     34.130492,
     -118.147536,
     34.130492
-],
+  ],
   "geometry": {"coordinates":[-118.147536,34.130492],"type":"Point"}
 }

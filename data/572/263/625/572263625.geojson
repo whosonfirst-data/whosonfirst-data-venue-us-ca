@@ -2,59 +2,67 @@
   "id": 572263625,
   "type": "Feature",
   "properties": {
-    "addr:full":"33100 Lake Hughes Rd Castaic CA 91384",
-    "addr:housenumber":"33100",
-    "addr:postcode":"91384",
-    "addr:street":"Lake Hughes Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.587129,34.517191,-118.587129,34.517191",
-    "geom:latitude":34.517191,
-    "geom:longitude":-118.587129,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"33100 Lake Hughes Rd",
-    "sg:city":"Castaic",
-    "sg:classifiers":[
-        {
-            "category":"Place Of Worship",
-            "subcategory":"Church",
-            "type":"Public Place"
-        }
+    "addr:full": "33100 Lake Hughes Rd Castaic CA 91384",
+    "addr:housenumber": "33100",
+    "addr:postcode": "91384",
+    "addr:street": "Lake Hughes Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.587129,34.517191,-118.587129,34.517191",
+    "geom:latitude": 34.517191,
+    "geom:longitude": -118.587129,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lake Hills Community Church, 33100 Lake Hughes Rd Castaic CA US",
+    "ovtr:similarity": 2.2386269569396973,
+    "sg:address": "33100 Lake Hughes Rd",
+    "sg:city": "Castaic",
+    "sg:classifiers": [
+      {
+        "category": "Place Of Worship",
+        "subcategory": "Church",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 257 5777",
-    "sg:postcode":"91384",
-    "sg:province":"CA",
-    "sg:website":"www.lakehillscommunity.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QMD3Lz316oTqV8hZPxaUB_34.517191_-118.587129@1303263216"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 257 5777",
+    "sg:postcode": "91384",
+    "sg:province": "CA",
+    "sg:website": "www.lakehillscommunity.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1075014b2303886a791a8fde8d",
+      "sg:id": "SG_4QMD3Lz316oTqV8hZPxaUB_34.517191_-118.587129@1303263216"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4b15e78c2b5b6a7392f679853506dda1",
-    "wof:hierarchy":[],
-    "wof:id":572263625,
-    "wof:lastmodified":1509201771,
-    "wof:name":"Lake Hills Community Church",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561704,
+    "wof:geomhash": "4b15e78c2b5b6a7392f679853506dda1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572263625
+      }
+    ],
+    "wof:id": 572263625,
+    "wof:lastmodified": 1723561704,
+    "wof:name": "Lake Hills Community Church",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.587129,
     34.517191,
     -118.587129,
     34.517191
-],
+  ],
   "geometry": {"coordinates":[-118.587129,34.517191],"type":"Point"}
 }

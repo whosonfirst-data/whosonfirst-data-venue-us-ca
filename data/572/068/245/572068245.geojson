@@ -2,82 +2,86 @@
   "id": 572068245,
   "type": "Feature",
   "properties": {
-    "addr:full":"11751 W Pico Blvd Los Angeles CA 90064",
-    "addr:housenumber":"11751",
-    "addr:postcode":"90064",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.446823,34.031044,-118.446823,34.031044",
-    "geom:latitude":34.031044,
-    "geom:longitude":-118.446823,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11751 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11751 W Pico Blvd Los Angeles CA 90064",
+    "addr:housenumber": "11751",
+    "addr:postcode": "90064",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.446823,34.031044,-118.446823,34.031044",
+    "geom:latitude": 34.031044,
+    "geom:longitude": -118.446823,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Talpa Restaurant, 11751 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.445791006088257,
+    "sg:address": "11751 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 478 3353",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 478 3353",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46KH3LyUY1NUTc3Yn1GlPo_34.031226_-118.446803@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1983b320b20381f04c862731b5",
+      "sg:id": "SG_46KH3LyUY1NUTc3Yn1GlPo_34.031226_-118.446803@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"93ba73a5d8140678052cf9f48455aa21",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":572068245
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "93ba73a5d8140678052cf9f48455aa21",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 572068245
+      }
     ],
-    "wof:id":572068245,
-    "wof:lastmodified":1509201682,
-    "wof:name":"Talpa Restaurant",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 572068245,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Talpa Restaurant",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -118.446823,
     34.031044,
     -118.446823,
     34.031044
-],
-  "geometry": {"coordinates":[-118.44682299999999,34.031044],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.446823,34.031044],"type":"Point"}
 }

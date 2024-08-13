@@ -2,82 +2,86 @@
   "id": 572183549,
   "type": "Feature",
   "properties": {
-    "addr:full":"302 N J St Tulare CA 93274",
-    "addr:housenumber":"302",
-    "addr:postcode":"93274",
-    "addr:street":"N J St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.348036,36.210499,-119.348036,36.210499",
-    "geom:latitude":36.210499,
-    "geom:longitude":-119.348036,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"302 N J St",
-    "sg:city":"Tulare",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "302 N J St Tulare CA 93274",
+    "addr:housenumber": "302",
+    "addr:postcode": "93274",
+    "addr:street": "N J St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.348036,36.210499,-119.348036,36.210499",
+    "geom:latitude": 36.210499,
+    "geom:longitude": -119.348036,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 302 N J St Tulare CA US",
+    "ovtr:similarity": 3.156846046447754,
+    "sg:address": "302 N J St",
+    "sg:city": "Tulare",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/tulare/149921-subway/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 688 5989",
-    "sg:postcode":"93274",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "sandwich"
+    "sg:menulink": "http://www.allmenus.com/ca/tulare/149921-subway/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 688 5989",
+    "sg:postcode": "93274",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922461,
-        102082895,
-        85824871
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922461,
+      102082895,
+      85824871
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6fIcHuLdc10myYaJMrNKpR_36.210499_-119.348036@1299784598"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a85599ae70d03063899f0af4846",
+      "sg:id": "SG_6fIcHuLdc10myYaJMrNKpR_36.210499_-119.348036@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6af9e7fc06d636642ae3b90f8c3a8e5e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922461,
-            "neighbourhood_id":85824871,
-            "region_id":85688637,
-            "venue_id":572183549
-        }
+    "wof:country": "US",
+    "wof:created": 1723561691,
+    "wof:geomhash": "6af9e7fc06d636642ae3b90f8c3a8e5e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922461,
+        "neighbourhood_id": 85824871,
+        "region_id": 85688637,
+        "venue_id": 572183549
+      }
     ],
-    "wof:id":572183549,
-    "wof:lastmodified":1511322172,
-    "wof:name":"Subway",
-    "wof:parent_id":85824871,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "sandwich"
+    "wof:id": 572183549,
+    "wof:lastmodified": 1723561691,
+    "wof:name": "Subway",
+    "wof:parent_id": 85824871,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -119.348036,
     36.210499,
     -119.348036,
     36.210499
-],
-  "geometry": {"coordinates":[-119.34803599999999,36.210499],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.348036,36.210499],"type":"Point"}
 }

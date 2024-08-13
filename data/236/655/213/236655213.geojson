@@ -2,75 +2,79 @@
   "id": 236655213,
   "type": "Feature",
   "properties": {
-    "addr:full":"1523 Truman St San Fernando CA 91340",
-    "addr:housenumber":"1523",
-    "addr:postcode":"91340",
-    "addr:street":"Truman St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.447102,34.288954,-118.447102,34.288954",
-    "geom:latitude":34.288954,
-    "geom:longitude":-118.447102,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1523 Truman St",
-    "sg:city":"San Fernando",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1523 Truman St San Fernando CA 91340",
+    "addr:housenumber": "1523",
+    "addr:postcode": "91340",
+    "addr:street": "Truman St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.447102,34.288954,-118.447102,34.288954",
+    "geom:latitude": 34.288954,
+    "geom:longitude": -118.447102,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Fernando Pet Hospital, 1523 Truman St San Fernando CA US",
+    "ovtr:similarity": 2.3790030479431152,
+    "sg:address": "1523 Truman St",
+    "sg:city": "San Fernando",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 361 8636",
-    "sg:postcode":"91340",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85851717
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 361 8636",
+    "sg:postcode": "91340",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85851717
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002578701-0001-0",
-        "sg:id":"SG_6AAZRftzqfSEQYj1MzIs0k_34.288954_-118.447102@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002578701-0001-0",
+      "ovtr:id": "08f29a11228db26903429a193c3d5e4a",
+      "sg:id": "SG_6AAZRftzqfSEQYj1MzIs0k_34.288954_-118.447102@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"339c4b52fd94c5e522b4b6033f41a21d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85851717,
-            "region_id":85688637,
-            "venue_id":236655213
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "339c4b52fd94c5e522b4b6033f41a21d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85851717,
+        "region_id": 85688637,
+        "venue_id": 236655213
+      }
     ],
-    "wof:id":236655213,
-    "wof:lastmodified":1509200056,
-    "wof:name":"San Fernando Pet Hospital",
-    "wof:parent_id":85851717,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 236655213,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "San Fernando Pet Hospital",
+    "wof:parent_id": 85851717,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.447102,
     34.288954,
     -118.447102,
     34.288954
-],
+  ],
   "geometry": {"coordinates":[-118.447102,34.288954],"type":"Point"}
 }

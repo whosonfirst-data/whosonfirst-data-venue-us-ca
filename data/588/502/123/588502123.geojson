@@ -2,77 +2,81 @@
   "id": 588502123,
   "type": "Feature",
   "properties": {
-    "addr:full":"4094 Piedmont Ave Oakland CA 94611",
-    "addr:housenumber":"4094",
-    "addr:postcode":"94611",
-    "addr:street":"Piedmont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.252192,37.82653,-122.252192,37.82653",
-    "geom:latitude":37.82653,
-    "geom:longitude":-122.252192,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4094 Piedmont Ave",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4094 Piedmont Ave Oakland CA 94611",
+    "addr:housenumber": "4094",
+    "addr:postcode": "94611",
+    "addr:street": "Piedmont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.252192,37.826530,-122.252192,37.826530",
+    "geom:latitude": 37.82653,
+    "geom:longitude": -122.252192,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "La Farine Bakery, 4094 Piedmont Ave Oakland CA US",
+    "ovtr:similarity": 2.0889170169830322,
+    "sg:address": "4094 Piedmont Ave",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"94611",
-    "sg:province":"CA",
-    "sg:website":"www.lafarine.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872355,
-        102191575,
-        1108794075,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "94611",
+    "sg:province": "CA",
+    "sg:website": "www.lafarine.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872355,
+      102191575,
+      1108794075,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0L3VWHOxH1hVjBZ8yzdlyY_37.826530_-122.252192@1303263345"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308122b5898033124bdbad92cc5",
+      "sg:id": "SG_0L3VWHOxH1hVjBZ8yzdlyY_37.826530_-122.252192@1303263345"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cfecaf1efb627a0055c2dc78b6baab1c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794075,
-            "neighbourhood_id":85872355,
-            "region_id":85688637,
-            "venue_id":588502123
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "cfecaf1efb627a0055c2dc78b6baab1c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794075,
+        "neighbourhood_id": 85872355,
+        "region_id": 85688637,
+        "venue_id": 588502123
+      }
     ],
-    "wof:id":588502123,
-    "wof:lastmodified":1509202102,
-    "wof:name":"La Farine Bakery",
-    "wof:parent_id":85872355,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588502123,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "La Farine Bakery",
+    "wof:parent_id": 85872355,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.252192,
     37.82653,
     -122.252192,
     37.82653
-],
-  "geometry": {"coordinates":[-122.25219199999999,37.82653],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.252192,37.82653],"type":"Point"}
 }

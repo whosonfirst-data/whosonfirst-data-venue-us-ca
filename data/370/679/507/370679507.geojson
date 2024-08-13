@@ -2,84 +2,88 @@
   "id": 370679507,
   "type": "Feature",
   "properties": {
-    "addr:full":"333 S Beaudry Avenue Los Angeles CA 90017",
-    "addr:housenumber":"333",
-    "addr:postcode":"90017",
-    "addr:street":"S Beaudry Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.256929,34.056257,-118.256929,34.056257",
-    "geom:latitude":34.056257,
-    "geom:longitude":-118.256929,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"333 S Beaudry Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "333 S Beaudry Avenue Los Angeles CA 90017",
+    "addr:housenumber": "333",
+    "addr:postcode": "90017",
+    "addr:street": "S Beaudry Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.256929,34.056257,-118.256929,34.056257",
+    "geom:latitude": 34.056257,
+    "geom:longitude": -118.256929,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Los Angeles Unified School District, 333 S Beaudry Ave Los Angeles CA US",
+    "ovtr:similarity": 3.005600929260254,
+    "sg:address": "333 S Beaudry Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 241 1000",
-    "sg:postcode":"90017",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 241 1000",
+    "sg:postcode": "90017",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869149
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869149
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002104352-0001-4",
-        "sg:id":"SG_3UZzzLThPO3Xs9ruEkwyZ5_34.056257_-118.256929@1303263152"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002104352-0001-4",
+      "ovtr:id": "08f29a1d6243224d03a096bfaafda3b2",
+      "sg:id": "SG_3UZzzLThPO3Xs9ruEkwyZ5_34.056257_-118.256929@1303263152"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0a9bad4d521c55fbe2ba9fcca73d65a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869149,
-            "region_id":85688637,
-            "venue_id":370679507
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "0a9bad4d521c55fbe2ba9fcca73d65a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869149,
+        "region_id": 85688637,
+        "venue_id": 370679507
+      }
     ],
-    "wof:id":370679507,
-    "wof:lastmodified":1509200795,
-    "wof:name":"Los Angeles Unified School District",
-    "wof:parent_id":85869149,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 370679507,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Los Angeles Unified School District",
+    "wof:parent_id": 85869149,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.256929,
     34.056257,
     -118.256929,
     34.056257
-],
+  ],
   "geometry": {"coordinates":[-118.256929,34.056257],"type":"Point"}
 }

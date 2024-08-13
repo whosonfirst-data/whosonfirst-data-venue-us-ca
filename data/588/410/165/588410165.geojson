@@ -2,83 +2,87 @@
   "id": 588410165,
   "type": "Feature",
   "properties": {
-    "addr:full":"4900 California Street San Francisco CA 94118",
-    "addr:housenumber":"4900",
-    "addr:postcode":"94118",
-    "addr:street":"California Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.470001,37.784698,-122.470001,37.784698",
-    "geom:latitude":37.784698,
-    "geom:longitude":-122.470001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4900 California Street",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Community Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "4900 California Street San Francisco CA 94118",
+    "addr:housenumber": "4900",
+    "addr:postcode": "94118",
+    "addr:street": "California Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.470001,37.784698,-122.470001,37.784698",
+    "geom:latitude": 37.784698,
+    "geom:longitude": -122.470001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Francisco Free Clinic, 4900 California St San Francisco CA US",
+    "ovtr:similarity": 2.918828010559082,
+    "sg:address": "4900 California Street",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Community Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 750 9894",
-    "sg:postcode":"94118",
-    "sg:province":"CA",
-    "sg:tags":[
-        "medical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 750 9894",
+    "sg:postcode": "94118",
+    "sg:province": "CA",
+    "sg:tags": [
+      "medical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865919,
-        102191575,
-        1108830805,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865919,
+      102191575,
+      1108830805,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0925682-01-001",
-        "sg:id":"SG_03bAz9i4L1oqN9lAEi9Md2_37.784698_-122.470001@1303263321"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283087481374e03019447191242a9",
+      "sfgov_rbl:id": "0925682-01-001",
+      "sg:id": "SG_03bAz9i4L1oqN9lAEi9Md2_37.784698_-122.470001@1303263321"
     },
-    "wof:country":"US",
-    "wof:geomhash":"56629f62c2e4021635bdd294e969d330",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830805,
-            "neighbourhood_id":85865919,
-            "region_id":85688637,
-            "venue_id":588410165
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "56629f62c2e4021635bdd294e969d330",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830805,
+        "neighbourhood_id": 85865919,
+        "region_id": 85688637,
+        "venue_id": 588410165
+      }
     ],
-    "wof:id":588410165,
-    "wof:lastmodified":1509202046,
-    "wof:name":"San Francisco Free Clinic",
-    "wof:parent_id":85865919,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "medical"
+    "wof:id": 588410165,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "San Francisco Free Clinic",
+    "wof:parent_id": 85865919,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "medical"
     ]
-},
+  },
   "bbox": [
     -122.470001,
     37.784698,
     -122.470001,
     37.784698
-],
+  ],
   "geometry": {"coordinates":[-122.470001,37.784698],"type":"Point"}
 }

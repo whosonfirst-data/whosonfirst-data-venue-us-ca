@@ -2,88 +2,92 @@
   "id": 588608141,
   "type": "Feature",
   "properties": {
-    "addr:full":"336 N Capitol Ave San Jose CA 95133",
-    "addr:housenumber":"336",
-    "addr:postcode":"95133",
-    "addr:street":"N Capitol Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.843002,37.3708,-121.843002,37.3708",
-    "geom:latitude":37.3708,
-    "geom:longitude":-121.843002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"336 N Capitol Ave",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "336 N Capitol Ave San Jose CA 95133",
+    "addr:housenumber": "336",
+    "addr:postcode": "95133",
+    "addr:street": "N Capitol Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.843002,37.370800,-121.843002,37.370800",
+    "geom:latitude": 37.3708,
+    "geom:longitude": -121.843002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "T K Noodle Inc, 336 N Capitol Ave San Jose CA US",
+    "ovtr:similarity": 2.0578269958496094,
+    "sg:address": "336 N Capitol Ave",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 937 1999",
-    "sg:postcode":"95133",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85802961,
-        102191575,
-        1108782555,
-        85633793,
-        85922347,
-        102081673,
-        85688637,
-        1108755827
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 937 1999",
+    "sg:postcode": "95133",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85802961,
+      102191575,
+      1108782555,
+      85633793,
+      85922347,
+      102081673,
+      85688637,
+      1108755827
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_40kIimr7qY3Tc2SDkGjtIH_37.370800_-121.843002@1303263372"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28347a54d30b503b5b61f3f1c7140",
+      "sg:id": "SG_40kIimr7qY3Tc2SDkGjtIH_37.370800_-121.843002@1303263372"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0deabc664635eff7cbd96e05d2760dc0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782555,
-            "neighbourhood_id":85802961,
-            "region_id":85688637,
-            "venue_id":588608141
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782555,
-            "neighbourhood_id":1108755827,
-            "region_id":85688637,
-            "venue_id":588608141
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "0deabc664635eff7cbd96e05d2760dc0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782555,
+        "neighbourhood_id": 85802961,
+        "region_id": 85688637,
+        "venue_id": 588608141
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782555,
+        "neighbourhood_id": 1108755827,
+        "region_id": 85688637,
+        "venue_id": 588608141
+      }
     ],
-    "wof:id":588608141,
-    "wof:lastmodified":1509202166,
-    "wof:name":"T K Noodle Inc",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588608141,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "T K Noodle Inc",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.843002,
     37.3708,
     -121.843002,
     37.3708
-],
+  ],
   "geometry": {"coordinates":[-121.843002,37.3708],"type":"Point"}
 }

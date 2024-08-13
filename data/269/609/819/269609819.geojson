@@ -2,81 +2,85 @@
   "id": 269609819,
   "type": "Feature",
   "properties": {
-    "addr:full":"1301 Maple St Redwood City CA 94063",
-    "addr:housenumber":"1301",
-    "addr:postcode":"94063",
-    "addr:street":"Maple St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.219657,37.493477,-122.219657,37.493477",
-    "geom:latitude":37.493477,
-    "geom:longitude":-122.219657,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1301 Maple St",
-    "sg:city":"Redwood City",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1301 Maple St Redwood City CA 94063",
+    "addr:housenumber": "1301",
+    "addr:postcode": "94063",
+    "addr:street": "Maple St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.219657,37.493477,-122.219657,37.493477",
+    "geom:latitude": 37.493477,
+    "geom:longitude": -122.219657,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Redwood City Police Department, 1301 Maple St Redwood City CA US",
+    "ovtr:similarity": 3.636413097381592,
+    "sg:address": "1301 Maple St",
+    "sg:city": "Redwood City",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 780 7100",
-    "sg:postcode":"94063",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 780 7100",
+    "sg:postcode": "94063",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.redwoodcity.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922447,
-        102085387,
-        85887057
+    "sg:website": "www.redwoodcity.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922447,
+      102085387,
+      85887057
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1wf8166o2Qx4E9AoClnijH_37.493477_-122.219657@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834665b68599030ce5ac02d9f523",
+      "sg:id": "SG_1wf8166o2Qx4E9AoClnijH_37.493477_-122.219657@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"971ea640783a4ecd10a79e0d713da7d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922447,
-            "neighbourhood_id":85887057,
-            "region_id":85688637,
-            "venue_id":269609819
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "971ea640783a4ecd10a79e0d713da7d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922447,
+        "neighbourhood_id": 85887057,
+        "region_id": 85688637,
+        "venue_id": 269609819
+      }
     ],
-    "wof:id":269609819,
-    "wof:lastmodified":1509200166,
-    "wof:name":"Redwood City Police Dept",
-    "wof:parent_id":85887057,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 269609819,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Redwood City Police Dept",
+    "wof:parent_id": 85887057,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -122.219657,
     37.493477,
     -122.219657,
     37.493477
-],
+  ],
   "geometry": {"coordinates":[-122.219657,37.493477],"type":"Point"}
 }

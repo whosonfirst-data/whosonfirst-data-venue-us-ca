@@ -2,75 +2,79 @@
   "id": 320823641,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 S Conyer St Visalia CA 93277",
-    "addr:housenumber":"900",
-    "addr:postcode":"93277",
-    "addr:street":"S Conyer St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.300922,36.321852,-119.300922,36.321852",
-    "geom:latitude":36.321852,
-    "geom:longitude":-119.300922,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"900 S Conyer St",
-    "sg:city":"Visalia",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "900 S Conyer St Visalia CA 93277",
+    "addr:housenumber": "900",
+    "addr:postcode": "93277",
+    "addr:street": "S Conyer St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.300922,36.321852,-119.300922,36.321852",
+    "geom:latitude": 36.321852,
+    "geom:longitude": -119.300922,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mt Whitney High School, 900 S Conyer St Visalia CA US",
+    "ovtr:similarity": 3.56542706489563,
+    "sg:address": "900 S Conyer St",
+    "sg:city": "Visalia",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 730 7602",
-    "sg:postcode":"93277",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922461,
-        102082895,
-        85810901
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 730 7602",
+    "sg:postcode": "93277",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922461,
+      102082895,
+      85810901
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":203346433,
-        "sg:id":"SG_455Tli84nkXAWKPjULO3m3_36.321852_-119.300922@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 203346433,
+      "ovtr:id": "08f29a845575148803b04cacaec24982",
+      "sg:id": "SG_455Tli84nkXAWKPjULO3m3_36.321852_-119.300922@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"525a36943d6fc4b5b51824baea9e2b35",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922461,
-            "neighbourhood_id":85810901,
-            "region_id":85688637,
-            "venue_id":320823641
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "525a36943d6fc4b5b51824baea9e2b35",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922461,
+        "neighbourhood_id": 85810901,
+        "region_id": 85688637,
+        "venue_id": 320823641
+      }
     ],
-    "wof:id":320823641,
-    "wof:lastmodified":1510942028,
-    "wof:name":"Mount Whitney High School",
-    "wof:parent_id":85810901,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 320823641,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Mount Whitney High School",
+    "wof:parent_id": 85810901,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.300922,
     36.321852,
     -119.300922,
     36.321852
-],
+  ],
   "geometry": {"coordinates":[-119.300922,36.321852],"type":"Point"}
 }

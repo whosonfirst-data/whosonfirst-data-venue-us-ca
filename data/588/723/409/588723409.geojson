@@ -2,80 +2,88 @@
   "id": 588723409,
   "type": "Feature",
   "properties": {
-    "addr:full":"3000 Main St Susanville CA 96130",
-    "addr:housenumber":"3000",
-    "addr:postcode":"96130",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.635639,40.410058,-120.635639,40.410058",
-    "geom:latitude":40.410058,
-    "geom:longitude":-120.635639,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3000 Main St",
-    "sg:city":"Susanville",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3000 Main St Susanville CA 96130",
+    "addr:housenumber": "3000",
+    "addr:postcode": "96130",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.635639,40.410058,-120.635639,40.410058",
+    "geom:latitude": 40.410058,
+    "geom:longitude": -120.635639,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 3000 Main St Susanville CA US",
+    "ovtr:similarity": 2.7655699253082275,
+    "sg:address": "3000 Main St",
+    "sg:city": "Susanville",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 257 6880",
-    "sg:postcode":"96130",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 257 6880",
+    "sg:postcode": "96130",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ],
-    "sg:website":"http://www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6nVbKL6eN8eSfhuzsh8OAU_40.410058_-120.635639@1303263403"
+    "sg:website": "http://www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28146962154d10386d2fe8b1a8adb",
+      "sg:id": "SG_6nVbKL6eN8eSfhuzsh8OAU_40.410058_-120.635639@1303263403"
     },
-    "wof:country":"US",
-    "wof:geomhash":"885afe0d81ebf0543feb7712c49648ef",
-    "wof:hierarchy":[],
-    "wof:id":588723409,
-    "wof:lastmodified":1512142955,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "885afe0d81ebf0543feb7712c49648ef",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588723409
+      }
+    ],
+    "wof:id": 588723409,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ]
-},
+  },
   "bbox": [
     -120.635639,
     40.410058,
     -120.635639,
     40.410058
-],
+  ],
   "geometry": {"coordinates":[-120.635639,40.410058],"type":"Point"}
 }

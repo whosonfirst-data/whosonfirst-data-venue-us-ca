@@ -2,81 +2,85 @@
   "id": 370588625,
   "type": "Feature",
   "properties": {
-    "addr:full":"626 S Spring St Los Angeles CA 90014",
-    "addr:housenumber":"626",
-    "addr:postcode":"90014",
-    "addr:street":"S Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.251403,34.045241,-118.251403,34.045241",
-    "geom:latitude":34.045241,
-    "geom:longitude":-118.251403,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"626 S Spring St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        }
+    "addr:full": "626 S Spring St Los Angeles CA 90014",
+    "addr:housenumber": "626",
+    "addr:postcode": "90014",
+    "addr:street": "S Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.251403,34.045241,-118.251403,34.045241",
+    "geom:latitude": 34.045241,
+    "geom:longitude": -118.251403,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Falls, 626 S Spring St Los Angeles CA US",
+    "ovtr:similarity": 2.5149428844451904,
+    "sg:address": "626 S Spring St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 612 0072",
-    "sg:postcode":"90014",
-    "sg:province":"CA",
-    "sg:website":"TheFallsLounge.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1092456427,
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 612 0072",
+    "sg:postcode": "90014",
+    "sg:province": "CA",
+    "sg:website": "TheFallsLounge.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1092456427,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4317785191,
-        "sg:id":"SG_2pggnbG5mkBegnF5AValHZ_34.045241_-118.251403@1303263150"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4317785191,
+      "ovtr:id": "08f29a1d753245a103bdbd7a20d19ca7",
+      "sg:id": "SG_2pggnbG5mkBegnF5AValHZ_34.045241_-118.251403@1303263150"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f49b6b4cb6c81e46033ccf9c0569acc4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1092456427,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370588625
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "f49b6b4cb6c81e46033ccf9c0569acc4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1092456427,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370588625
+      }
     ],
-    "wof:id":370588625,
-    "wof:lastmodified":1510941812,
-    "wof:name":"The Falls",
-    "wof:parent_id":1092456427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370588625,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "The Falls",
+    "wof:parent_id": 1092456427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.251403,
     34.045241,
     -118.251403,
     34.045241
-],
+  ],
   "geometry": {"coordinates":[-118.251403,34.045241],"type":"Point"}
 }

@@ -2,88 +2,92 @@
   "id": 588390107,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Valencia St San Francisco CA 94110",
-    "addr:housenumber":800,
-    "addr:postcode":"94110",
-    "addr:street":"Valencia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.421715,37.759824,-122.421715,37.759824",
-    "geom:latitude":37.759824,
-    "geom:longitude":-122.421715,
-    "iso:country":"US",
-    "mz:categories":[
-        "shop_and_service:shop=grocery_store"
+    "addr:full": "800 Valencia St San Francisco CA 94110",
+    "addr:housenumber": 800,
+    "addr:postcode": "94110",
+    "addr:street": "Valencia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.421715,37.759824,-122.421715,37.759824",
+    "geom:latitude": 37.759824,
+    "geom:longitude": -122.421715,
+    "iso:country": "US",
+    "mz:categories": [
+      "shop_and_service:shop=grocery_store"
     ],
-    "mz:hierarchy_label":1,
-    "mz:hours":[],
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"800 Valencia St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Deli",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "mz:hierarchy_label": 1,
+    "mz:hours": [],
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rhea's Deli \u0026 Market, 800 Valencia St San Francisco CA US",
+    "ovtr:similarity": 2.9953980445861816,
+    "sg:address": "800 Valencia St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 282 5255",
-    "sg:postcode":"94110",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85834637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 282 5255",
+    "sg:postcode": "94110",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85834637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0482354-01-001",
-        "sg:id":"SG_1dmEhwh2J3eL9oyqbECF5K_37.759824_-122.421715@1303263316"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082c28ab8303096265afddee1c",
+      "sfgov_rbl:id": "0482354-01-001",
+      "sg:id": "SG_1dmEhwh2J3eL9oyqbECF5K_37.759824_-122.421715@1303263316"
     },
-    "wof:controlled":[
-        "wof:parent_id"
+    "wof:controlled": [
+      "wof:parent_id"
     ],
-    "wof:country":"US",
-    "wof:geomhash":"9f0c04a30c324516cca525d9f54f1e65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85834637,
-            "region_id":85688637,
-            "venue_id":588390107
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "9f0c04a30c324516cca525d9f54f1e65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85834637,
+        "region_id": 85688637,
+        "venue_id": 588390107
+      }
     ],
-    "wof:id":588390107,
-    "wof:lastmodified":1509202033,
-    "wof:name":"Rhea's Deli & Market",
-    "wof:parent_id":85834637,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588390107,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Rhea's Deli \u0026 Market",
+    "wof:parent_id": 85834637,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.421715,
     37.759824,
     -122.421715,
     37.759824
-],
-  "geometry": {"coordinates":[-122.42171500000001,37.759824],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.421715,37.759824],"type":"Point"}
 }

@@ -2,85 +2,89 @@
   "id": 370922503,
   "type": "Feature",
   "properties": {
-    "addr:full":"6007 Venice Boulevard Los Angeles CA 90034",
-    "addr:housenumber":"6007",
-    "addr:postcode":"90034",
-    "addr:street":"Venice Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.374391,34.037343,-118.374391,34.037343",
-    "geom:latitude":34.037343,
-    "geom:longitude":-118.374391,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"6007 Venice Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "6007 Venice Boulevard Los Angeles CA 90034",
+    "addr:housenumber": "6007",
+    "addr:postcode": "90034",
+    "addr:street": "Venice Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.374391,34.037343,-118.374391,34.037343",
+    "geom:latitude": 34.037343,
+    "geom:longitude": -118.374391,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Public Storage, 6007 Venice Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.473294973373413,
+    "sg:address": "6007 Venice Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 937 7296",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:tags":[
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 937 7296",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:tags": [
+      "self"
     ],
-    "sg:website":"www.publicstorage.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.publicstorage.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:brand_id":420574427,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000000320-0033-9",
-        "sg:id":"SG_7A3799CVxGEm04rycmO5by_34.037343_-118.374391@1303263158"
+    "wof:brand_id": 420574427,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000000320-0033-9",
+      "ovtr:id": "08f29a199025a92e03501449c59e1796",
+      "sg:id": "SG_7A3799CVxGEm04rycmO5by_34.037343_-118.374391@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fee86844ac118bdc51b73101e7fab174",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370922503
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "fee86844ac118bdc51b73101e7fab174",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370922503
+      }
     ],
-    "wof:id":370922503,
-    "wof:lastmodified":1509200851,
-    "wof:name":"Public Storage",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self"
+    "wof:id": 370922503,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Public Storage",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self"
     ]
-},
+  },
   "bbox": [
     -118.374391,
     34.037343,
     -118.374391,
     34.037343
-],
+  ],
   "geometry": {"coordinates":[-118.374391,34.037343],"type":"Point"}
 }

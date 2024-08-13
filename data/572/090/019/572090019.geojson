@@ -2,85 +2,89 @@
   "id": 572090019,
   "type": "Feature",
   "properties": {
-    "addr:full":"3447 Marconi Ave Sacramento CA 95821",
-    "addr:housenumber":"3447",
-    "addr:postcode":"95821",
-    "addr:street":"Marconi Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.385445,38.617852,-121.385445,38.617852",
-    "geom:latitude":38.617852,
-    "geom:longitude":-121.385445,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3447 Marconi Ave",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3447 Marconi Ave Sacramento CA 95821",
+    "addr:housenumber": "3447",
+    "addr:postcode": "95821",
+    "addr:street": "Marconi Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.385445,38.617852,-121.385445,38.617852",
+    "geom:latitude": 38.617852,
+    "geom:longitude": -121.385445,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jiffy Lube, 3447 Marconi Ave Sacramento CA US",
+    "ovtr:similarity": 1.8903700113296509,
+    "sg:address": "3447 Marconi Ave",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 483 2496",
-    "sg:postcode":"95821",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "lubrication"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 483 2496",
+    "sg:postcode": "95821",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "lubrication"
     ],
-    "sg:website":"www.jiffylubeca.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85926841,
-        102082889,
-        85885593
+    "sg:website": "www.jiffylubeca.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85926841,
+      102082889,
+      85885593
     ],
-    "wof:brand_id":420573899,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":406157302,
-        "sg:id":"SG_53cAmz0Y9noTYDldTh8UHv_38.617911_-121.384755@1293134755"
+    "wof:brand_id": 420573899,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 406157302,
+      "ovtr:id": "08f2832ba32ec75e038742853fbd9e73",
+      "sg:id": "SG_53cAmz0Y9noTYDldTh8UHv_38.617911_-121.384755@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ffb20fa68106ca858ed801785a60ed4e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926841,
-            "neighbourhood_id":85885593,
-            "region_id":85688637,
-            "venue_id":572090019
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "ffb20fa68106ca858ed801785a60ed4e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926841,
+        "neighbourhood_id": 85885593,
+        "region_id": 85688637,
+        "venue_id": 572090019
+      }
     ],
-    "wof:id":572090019,
-    "wof:lastmodified":1511320824,
-    "wof:name":"Jiffy Lube",
-    "wof:parent_id":85885593,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "lubrication"
+    "wof:id": 572090019,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Jiffy Lube",
+    "wof:parent_id": 85885593,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "lubrication"
     ]
-},
+  },
   "bbox": [
     -121.385445,
     38.617852,
     -121.385445,
     38.617852
-],
+  ],
   "geometry": {"coordinates":[-121.385445,38.617852],"type":"Point"}
 }

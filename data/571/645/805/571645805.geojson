@@ -2,70 +2,78 @@
   "id": 571645805,
   "type": "Feature",
   "properties": {
-    "addr:full":"27520 Ynez Rd Temecula CA 92591",
-    "addr:housenumber":"27520",
-    "addr:postcode":"92591",
-    "addr:street":"Ynez Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.150102,33.506561,-117.150102,33.506561",
-    "geom:latitude":33.506561,
-    "geom:longitude":-117.150102,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"27520 Ynez Rd",
-    "sg:city":"Temecula",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Fruits & Vegetables",
-            "type":"Retail Goods"
-        }
+    "addr:full": "27520 Ynez Rd Temecula CA 92591",
+    "addr:housenumber": "27520",
+    "addr:postcode": "92591",
+    "addr:street": "Ynez Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.150102,33.506561,-117.150102,33.506561",
+    "geom:latitude": 33.506561,
+    "geom:longitude": -117.150102,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Juice Bar, 27520 Ynez Rd Temecula CA US",
+    "ovtr:similarity": 2.108928918838501,
+    "sg:address": "27520 Ynez Rd",
+    "sg:city": "Temecula",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Fruits \u0026 Vegetables",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 693 9403",
-    "sg:postcode":"92591",
-    "sg:province":"CA",
-    "sg:tags":[
-        "juice",
-        "grocery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 693 9403",
+    "sg:postcode": "92591",
+    "sg:province": "CA",
+    "sg:tags": [
+      "juice",
+      "grocery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4cpt2tAJzjBW8T8QOGeByu_33.506561_-117.150102@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a099205081e032311b2f8fd1066",
+      "sg:id": "SG_4cpt2tAJzjBW8T8QOGeByu_33.506561_-117.150102@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4d1c32a50a958518b19693de826df0ac",
-    "wof:hierarchy":[],
-    "wof:id":571645805,
-    "wof:lastmodified":1509201547,
-    "wof:name":"Juice Bar",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "juice",
-        "grocery"
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "4d1c32a50a958518b19693de826df0ac",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571645805
+      }
+    ],
+    "wof:id": 571645805,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Juice Bar",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "juice",
+      "grocery"
     ]
-},
+  },
   "bbox": [
     -117.150102,
     33.506561,
     -117.150102,
     33.506561
-],
+  ],
   "geometry": {"coordinates":[-117.150102,33.506561],"type":"Point"}
 }

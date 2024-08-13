@@ -2,83 +2,87 @@
   "id": 370891661,
   "type": "Feature",
   "properties": {
-    "addr:full":"861 1/2 N Western Ave Los Angeles CA 90029",
-    "addr:housenumber":"861 1 / 2",
-    "addr:postcode":"90029",
-    "addr:street":"N Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.309285,34.085849,-118.309285,34.085849",
-    "geom:latitude":34.085849,
-    "geom:longitude":-118.309285,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"861 1/2 N Western Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "861 1/2 N Western Ave Los Angeles CA 90029",
+    "addr:housenumber": "861 1 / 2",
+    "addr:postcode": "90029",
+    "addr:street": "N Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.309285,34.085849,-118.309285,34.085849",
+    "geom:latitude": 34.085849,
+    "geom:longitude": -118.309285,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Liquor Center, 861 N Western Ave Los Angeles CA US",
+    "ovtr:similarity": 2.582571029663086,
+    "sg:address": "861 1/2 N Western Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 463 1337",
-    "sg:postcode":"90029",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 463 1337",
+    "sg:postcode": "90029",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869473
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869473
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3TeWh84renNTETrv6oLxsx_34.085849_-118.309285@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6e6b22b00361d87ebd59d992",
+      "sg:id": "SG_3TeWh84renNTETrv6oLxsx_34.085849_-118.309285@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d5ad08dc32155ef7dcdd25c01cdae22",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869473,
-            "region_id":85688637,
-            "venue_id":370891661
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "3d5ad08dc32155ef7dcdd25c01cdae22",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869473,
+        "region_id": 85688637,
+        "venue_id": 370891661
+      }
     ],
-    "wof:id":370891661,
-    "wof:lastmodified":1509200843,
-    "wof:name":"Liquor Center",
-    "wof:parent_id":85869473,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 370891661,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Liquor Center",
+    "wof:parent_id": 85869473,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.309285,
     34.085849,
     -118.309285,
     34.085849
-],
+  ],
   "geometry": {"coordinates":[-118.309285,34.085849],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 555086669,
   "type": "Feature",
   "properties": {
-    "addr:full":"1400 W Capitol Ave West Sacramento CA 95691",
-    "addr:housenumber":"1400",
-    "addr:postcode":"95691",
-    "addr:street":"W Capitol Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.53064,38.580261,-121.53064,38.580261",
-    "geom:latitude":38.580261,
-    "geom:longitude":-121.53064,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1400 W Capitol Ave",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1400 W Capitol Ave West Sacramento CA 95691",
+    "addr:housenumber": "1400",
+    "addr:postcode": "95691",
+    "addr:street": "W Capitol Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.530640,38.580261,-121.530640,38.580261",
+    "geom:latitude": 38.580261,
+    "geom:longitude": -121.53064,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "AutoZone, 1400 W Capitol Ave West Sacramento CA US",
+    "ovtr:similarity": 2.48663592338562,
+    "sg:address": "1400 W Capitol Ave",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 372 6386",
-    "sg:postcode":"95691",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "parts"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 372 6386",
+    "sg:postcode": "95691",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "parts"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922413,
-        102082309,
-        85834181
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922413,
+      102082309,
+      85834181
     ],
-    "wof:brand_id":420573803,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":120651955,
-        "sg:id":"SG_6zCuxkpyUg4zs67Wosi3Kk_38.580261_-121.530640@1294081369"
+    "wof:brand_id": 420573803,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 120651955,
+      "ovtr:id": "08f2832b033ae02303e414907e08761b",
+      "sg:id": "SG_6zCuxkpyUg4zs67Wosi3Kk_38.580261_-121.530640@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"45e49e5296e42d467c24626292d49230",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":555086669
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "45e49e5296e42d467c24626292d49230",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 555086669
+      }
     ],
-    "wof:id":555086669,
-    "wof:lastmodified":1511322993,
-    "wof:name":"Autozone",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "parts"
+    "wof:id": 555086669,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Autozone",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "parts"
     ]
-},
+  },
   "bbox": [
     -121.53064,
     38.580261,
     -121.53064,
     38.580261
-],
-  "geometry": {"coordinates":[-121.53064000000001,38.580261],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.53064,38.580261],"type":"Point"}
 }

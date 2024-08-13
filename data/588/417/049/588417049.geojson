@@ -2,79 +2,83 @@
   "id": 588417049,
   "type": "Feature",
   "properties": {
-    "addr:full":"1195 Evans Ave San Francisco CA 94124",
-    "addr:housenumber":"1195",
-    "addr:postcode":"94124",
-    "addr:street":"Evans Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.380898,37.73867,-122.380898,37.73867",
-    "geom:latitude":37.73867,
-    "geom:longitude":-122.380898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1195 Evans Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Brewery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1195 Evans Ave San Francisco CA 94124",
+    "addr:housenumber": "1195",
+    "addr:postcode": "94124",
+    "addr:street": "Evans Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.380898,37.738670,-122.380898,37.738670",
+    "geom:latitude": 37.73867,
+    "geom:longitude": -122.380898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Speakeasy Ales \u0026 Lagers, 1195 Evans Ave San Francisco CA US",
+    "ovtr:similarity": 2.0577869415283203,
+    "sg:address": "1195 Evans Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Brewery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 642 3371",
-    "sg:postcode":"94124",
-    "sg:province":"CA",
-    "sg:website":"www.goodbeer.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831973,
-        85865995,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 642 3371",
+    "sg:postcode": "94124",
+    "sg:province": "CA",
+    "sg:website": "www.goodbeer.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831973,
+      85865995,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0302633-01-001",
-        "sg:id":"SG_7lA7VMfZVSPnRjYNDnDiUY_37.738670_-122.380898@1303263322"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830821c82a49037029e8067dae72",
+      "sfgov_rbl:id": "0302633-01-001",
+      "sg:id": "SG_7lA7VMfZVSPnRjYNDnDiUY_37.738670_-122.380898@1303263322"
     },
-    "wof:country":"US",
-    "wof:geomhash":"28a97c850772f37cb4d659e81de80255",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831973,
-            "neighbourhood_id":85865995,
-            "region_id":85688637,
-            "venue_id":588417049
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "28a97c850772f37cb4d659e81de80255",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831973,
+        "neighbourhood_id": 85865995,
+        "region_id": 85688637,
+        "venue_id": 588417049
+      }
     ],
-    "wof:id":588417049,
-    "wof:lastmodified":1509202050,
-    "wof:name":"Speakeasy Ales & Lagers",
-    "wof:parent_id":1108831973,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588417049,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Speakeasy Ales \u0026 Lagers",
+    "wof:parent_id": 1108831973,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.380898,
     37.73867,
     -122.380898,
     37.73867
-],
+  ],
   "geometry": {"coordinates":[-122.380898,37.73867],"type":"Point"}
 }

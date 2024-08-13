@@ -2,80 +2,84 @@
   "id": 370389309,
   "type": "Feature",
   "properties": {
-    "addr:full":"3684 Beverly Boulevard Los Angeles CA 90004",
-    "addr:housenumber":"3684",
-    "addr:postcode":"90004",
-    "addr:street":"Beverly Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.28895,34.076041,-118.28895,34.076041",
-    "geom:latitude":34.076041,
-    "geom:longitude":-118.28895,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3684 Beverly Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "3684 Beverly Boulevard Los Angeles CA 90004",
+    "addr:housenumber": "3684",
+    "addr:postcode": "90004",
+    "addr:street": "Beverly Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.288950,34.076041,-118.288950,34.076041",
+    "geom:latitude": 34.076041,
+    "geom:longitude": -118.28895,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ambassador Dog \u0026 Cat Hospital, 3684 Beverly Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.4573309421539307,
+    "sg:address": "3684 Beverly Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 384 1255",
-    "sg:postcode":"90004",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 384 1255",
+    "sg:postcode": "90004",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85866781
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85866781
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000163907-0001-0",
-        "sg:id":"SG_0VWB6AmD3FHDATg5w2n7b7_34.076041_-118.288950@1303263145"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000163907-0001-0",
+      "ovtr:id": "08f29a1d636f08960342e421815412e8",
+      "sg:id": "SG_0VWB6AmD3FHDATg5w2n7b7_34.076041_-118.288950@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5c3a9987c987f4c0fb018a26502de6d6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85866781,
-            "region_id":85688637,
-            "venue_id":370389309
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "5c3a9987c987f4c0fb018a26502de6d6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85866781,
+        "region_id": 85688637,
+        "venue_id": 370389309
+      }
     ],
-    "wof:id":370389309,
-    "wof:lastmodified":1509200727,
-    "wof:name":"Ambassador Dog and Cat Hospital",
-    "wof:parent_id":85866781,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 370389309,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Ambassador Dog and Cat Hospital",
+    "wof:parent_id": 85866781,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -118.28895,
     34.076041,
     -118.28895,
     34.076041
-],
+  ],
   "geometry": {"coordinates":[-118.28895,34.076041],"type":"Point"}
 }

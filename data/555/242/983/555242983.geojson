@@ -2,80 +2,84 @@
   "id": 555242983,
   "type": "Feature",
   "properties": {
-    "addr:full":"22641 Lake Forest Dr Lake Forest CA 92630",
-    "addr:housenumber":"22641",
-    "addr:postcode":"92630",
-    "addr:street":"Lake Forest Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.697236,33.64227,-117.697236,33.64227",
-    "geom:latitude":33.64227,
-    "geom:longitude":-117.697236,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"22641 Lake Forest Dr",
-    "sg:city":"Lake Forest",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "22641 Lake Forest Dr Lake Forest CA 92630",
+    "addr:housenumber": "22641",
+    "addr:postcode": "92630",
+    "addr:street": "Lake Forest Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.697236,33.642270,-117.697236,33.642270",
+    "geom:latitude": 33.64227,
+    "geom:longitude": -117.697236,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Henry's Donuts, 22641 Lake Forest Dr Lake Forest CA US",
+    "ovtr:similarity": 2.505527973175049,
+    "sg:address": "22641 Lake Forest Dr",
+    "sg:city": "Lake Forest",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 855 6029",
-    "sg:postcode":"92630",
-    "sg:province":"CA",
-    "sg:tags":[
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 855 6029",
+    "sg:postcode": "92630",
+    "sg:province": "CA",
+    "sg:tags": [
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923103,
-        102080847,
-        85895879
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923103,
+      102080847,
+      85895879
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1WkrwWIydHFSToTHshk4mQ_33.642270_-117.697236@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b3486091e034bc2fc56c1cd66",
+      "sg:id": "SG_1WkrwWIydHFSToTHshk4mQ_33.642270_-117.697236@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b08f04ed7d989d47392e19e6840d2591",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923103,
-            "neighbourhood_id":85895879,
-            "region_id":85688637,
-            "venue_id":555242983
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "b08f04ed7d989d47392e19e6840d2591",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923103,
+        "neighbourhood_id": 85895879,
+        "region_id": 85688637,
+        "venue_id": 555242983
+      }
     ],
-    "wof:id":555242983,
-    "wof:lastmodified":1509201325,
-    "wof:name":"Henry's Donuts",
-    "wof:parent_id":85895879,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "doughnut"
+    "wof:id": 555242983,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Henry's Donuts",
+    "wof:parent_id": 85895879,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -117.697236,
     33.64227,
     -117.697236,
     33.64227
-],
+  ],
   "geometry": {"coordinates":[-117.697236,33.64227],"type":"Point"}
 }

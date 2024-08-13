@@ -2,82 +2,86 @@
   "id": 555741195,
   "type": "Feature",
   "properties": {
-    "addr:full":"820 Willow Rd Menlo Park CA 94025",
-    "addr:housenumber":"820",
-    "addr:postcode":"94025",
-    "addr:street":"Willow Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.15699,37.465711,-122.15699,37.465711",
-    "geom:latitude":37.465711,
-    "geom:longitude":-122.15699,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"820 Willow Rd",
-    "sg:city":"Menlo Park",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "820 Willow Rd Menlo Park CA 94025",
+    "addr:housenumber": "820",
+    "addr:postcode": "94025",
+    "addr:street": "Willow Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.156990,37.465711,-122.156990,37.465711",
+    "geom:latitude": 37.465711,
+    "geom:longitude": -122.15699,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tony’s Pizza, 820 Willow Rd Menlo Park CA US",
+    "ovtr:similarity": 2.6504690647125244,
+    "sg:address": "820 Willow Rd",
+    "sg:city": "Menlo Park",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 853 0860",
-    "sg:postcode":"94025",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 853 0860",
+    "sg:postcode": "94025",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922503,
-        102085387,
-        85886403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922503,
+      102085387,
+      85886403
     ],
-    "wof:brand_id":1125156669,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":1256999040,
-        "sg:id":"SG_57yIIoNIMoxnQMjAZXj66I_37.465711_-122.156990@1294081369"
+    "wof:brand_id": 1125156669,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 1256999040,
+      "ovtr:id": "08f283475d66d0f00362b54b526fb5f3",
+      "sg:id": "SG_57yIIoNIMoxnQMjAZXj66I_37.465711_-122.156990@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5e17a43b56ba3bdae1f40bbfa9a77482",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922503,
-            "neighbourhood_id":85886403,
-            "region_id":85688637,
-            "venue_id":555741195
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "5e17a43b56ba3bdae1f40bbfa9a77482",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922503,
+        "neighbourhood_id": 85886403,
+        "region_id": 85688637,
+        "venue_id": 555741195
+      }
     ],
-    "wof:id":555741195,
-    "wof:lastmodified":1511318000,
-    "wof:name":"Tony's Pizza",
-    "wof:parent_id":85886403,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating"
+    "wof:id": 555741195,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Tony's Pizza",
+    "wof:parent_id": 85886403,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating"
     ]
-},
+  },
   "bbox": [
     -122.15699,
     37.465711,
     -122.15699,
     37.465711
-],
-  "geometry": {"coordinates":[-122.15698999999999,37.465711],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.15699,37.465711],"type":"Point"}
 }

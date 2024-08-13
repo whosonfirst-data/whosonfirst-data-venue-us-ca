@@ -2,86 +2,90 @@
   "id": 370373883,
   "type": "Feature",
   "properties": {
-    "addr:full":"7812 McKinley Avenue Los Angeles CA 90001",
-    "addr:housenumber":"7812",
-    "addr:postcode":"90001",
-    "addr:street":"Mckinley Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.260909,33.968278,-118.260909,33.968278",
-    "geom:latitude":33.968278,
-    "geom:longitude":-118.260909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7812 McKinley Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "7812 McKinley Avenue Los Angeles CA 90001",
+    "addr:housenumber": "7812",
+    "addr:postcode": "90001",
+    "addr:street": "Mckinley Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.260909,33.968278,-118.260909,33.968278",
+    "geom:latitude": 33.968278,
+    "geom:longitude": -118.260909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McKinley Ave Elementary School, 7812 McKinley Ave Los Angeles CA US",
+    "ovtr:similarity": 3.97029709815979,
+    "sg:address": "7812 McKinley Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 582 7481",
-    "sg:postcode":"90001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 582 7481",
+    "sg:postcode": "90001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85819643",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85819643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6upC9outCtFrI8d2Co9Mng_33.968278_-118.260909@1303263145"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c37a2274030582e972e356f5",
+      "sg:id": "SG_6upC9outCtFrI8d2Co9Mng_33.968278_-118.260909@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"10fdcea3b59aa59100b7451560246114",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85819643",
-            "region_id":85688637,
-            "venue_id":370373883
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "10fdcea3b59aa59100b7451560246114",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85819643,
+        "region_id": 85688637,
+        "venue_id": 370373883
+      }
     ],
-    "wof:id":370373883,
-    "wof:lastmodified":1509200724,
-    "wof:name":"McKinley Avenue Elementary School",
-    "wof:parent_id":"85819643",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 370373883,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "McKinley Avenue Elementary School",
+    "wof:parent_id": "85819643",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.260909,
     33.968278,
     -118.260909,
     33.968278
-],
+  ],
   "geometry": {"coordinates":[-118.260909,33.968278],"type":"Point"}
 }

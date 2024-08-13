@@ -2,81 +2,85 @@
   "id": 572314663,
   "type": "Feature",
   "properties": {
-    "addr:full":"8274 Parkway Dr Suite 106 La Mesa CA 91942",
-    "addr:housenumber":"8274",
-    "addr:postcode":"91942",
-    "addr:street":"Parkway Dr Suite 106",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.019301,32.777572,-117.019301,32.777572",
-    "geom:latitude":32.777572,
-    "geom:longitude":-117.019301,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8274 Parkway Dr Suite 106",
-    "sg:city":"La Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "8274 Parkway Dr Suite 106 La Mesa CA 91942",
+    "addr:housenumber": "8274",
+    "addr:postcode": "91942",
+    "addr:street": "Parkway Dr Suite 106",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.019301,32.777572,-117.019301,32.777572",
+    "geom:latitude": 32.777572,
+    "geom:longitude": -117.019301,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "VCA Grossmont Animal Hospital, 8274 Parkway Dr La Mesa CA US",
+    "ovtr:similarity": 3.567392110824585,
+    "sg:address": "8274 Parkway Dr Suite 106",
+    "sg:city": "La Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 609 0443",
-    "sg:postcode":"91942",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 609 0443",
+    "sg:postcode": "91942",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.vcagrossmont.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85882393
+    "sg:website": "www.vcagrossmont.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85882393
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72720YgY1eWEzJgFBLu4v9_32.777572_-117.019301@1303263229"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a41917650aa0382daea52ebb97b",
+      "sg:id": "SG_72720YgY1eWEzJgFBLu4v9_32.777572_-117.019301@1303263229"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0f8d8c1550076155c54a7c3a7fe9e323",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85882393,
-            "region_id":85688637,
-            "venue_id":572314663
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "0f8d8c1550076155c54a7c3a7fe9e323",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85882393,
+        "region_id": 85688637,
+        "venue_id": 572314663
+      }
     ],
-    "wof:id":572314663,
-    "wof:lastmodified":1509201806,
-    "wof:name":"VCA Grossmont Animal Hospital",
-    "wof:parent_id":85882393,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 572314663,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "VCA Grossmont Animal Hospital",
+    "wof:parent_id": 85882393,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -117.019301,
     32.777572,
     -117.019301,
     32.777572
-],
+  ],
   "geometry": {"coordinates":[-117.019301,32.777572],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 554961487,
   "type": "Feature",
   "properties": {
-    "addr:full":"5537 Bandera St Los Angeles CA 90058",
-    "addr:housenumber":"5537",
-    "addr:postcode":"90058",
-    "addr:street":"Bandera St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.240127,33.991655,-118.240127,33.991655",
-    "geom:latitude":33.991655,
-    "geom:longitude":-118.240127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5537 Bandera St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "5537 Bandera St Los Angeles CA 90058",
+    "addr:housenumber": "5537",
+    "addr:postcode": "90058",
+    "addr:street": "Bandera St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.240127,33.991655,-118.240127,33.991655",
+    "geom:latitude": 33.991655,
+    "geom:longitude": -118.240127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Basic Auto Parts, 5537 Bandera St Los Angeles CA US",
+    "ovtr:similarity": 1.8836150169372559,
+    "sg:address": "5537 Bandera St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 585 5505",
-    "sg:postcode":"90058",
-    "sg:province":"CA",
-    "sg:tags":[
-        "used"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 585 5505",
+    "sg:postcode": "90058",
+    "sg:province": "CA",
+    "sg:tags": [
+      "used"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5oIBPD1LRqR5eJKoHSCynx_33.991655_-118.240127@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d8c630280313316f67f82b7a",
+      "sg:id": "SG_5oIBPD1LRqR5eJKoHSCynx_33.991655_-118.240127@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"acb42fb0b72f6394205353076db81d6d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85865791",
-            "region_id":85688637,
-            "venue_id":554961487
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "acb42fb0b72f6394205353076db81d6d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85865791,
+        "region_id": 85688637,
+        "venue_id": 554961487
+      }
     ],
-    "wof:id":554961487,
-    "wof:lastmodified":1509201230,
-    "wof:name":"Basic Auto Parts",
-    "wof:parent_id":"85865791",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "used"
+    "wof:id": 554961487,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Basic Auto Parts",
+    "wof:parent_id": "85865791",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "used"
     ]
-},
+  },
   "bbox": [
     -118.240127,
     33.991655,
     -118.240127,
     33.991655
-],
+  ],
   "geometry": {"coordinates":[-118.240127,33.991655],"type":"Point"}
 }

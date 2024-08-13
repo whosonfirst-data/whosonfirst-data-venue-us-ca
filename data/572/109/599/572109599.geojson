@@ -2,83 +2,87 @@
   "id": 572109599,
   "type": "Feature",
   "properties": {
-    "addr:full":"505 E San Carlos St San Jose CA 95112",
-    "addr:housenumber":"505",
-    "addr:postcode":"95112",
-    "addr:street":"E San Carlos St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.875999,37.3367,-121.875999,37.3367",
-    "geom:latitude":37.3367,
-    "geom:longitude":-121.875999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"505 E San Carlos St",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "505 E San Carlos St San Jose CA 95112",
+    "addr:housenumber": "505",
+    "addr:postcode": "95112",
+    "addr:street": "E San Carlos St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.875999,37.336700,-121.875999,37.336700",
+    "geom:latitude": 37.3367,
+    "geom:longitude": -121.875999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "House of Bagels, 505 E San Carlos St San Jose CA US",
+    "ovtr:similarity": 2.564779043197632,
+    "sg:address": "505 E San Carlos St",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 294 6615",
-    "sg:postcode":"95112",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bagel"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 294 6615",
+    "sg:postcode": "95112",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bagel"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108756943,
-        102191575,
-        1108782551,
-        85633793,
-        85922347,
-        102081673,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108756943,
+      102191575,
+      1108782551,
+      85633793,
+      85922347,
+      102081673,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":823950072,
-        "sg:id":"SG_5w0lk0cT1k8IReaOKV6Gmo_37.336971_-121.875617@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 823950072,
+      "ovtr:id": "08f28344497542040325e2b64ba94a05",
+      "sg:id": "SG_5w0lk0cT1k8IReaOKV6Gmo_37.336971_-121.875617@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bc6f5dea0f299ef764356a93b130c022",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782551,
-            "neighbourhood_id":1108756943,
-            "region_id":85688637,
-            "venue_id":572109599
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "bc6f5dea0f299ef764356a93b130c022",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782551,
+        "neighbourhood_id": 1108756943,
+        "region_id": 85688637,
+        "venue_id": 572109599
+      }
     ],
-    "wof:id":572109599,
-    "wof:lastmodified":1510941898,
-    "wof:name":"House of Bagels",
-    "wof:parent_id":1108756943,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bagel"
+    "wof:id": 572109599,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "House of Bagels",
+    "wof:parent_id": 1108756943,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bagel"
     ]
-},
+  },
   "bbox": [
     -121.875999,
     37.3367,
     -121.875999,
     37.3367
-],
-  "geometry": {"coordinates":[-121.87599899999999,37.3367],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.875999,37.3367],"type":"Point"}
 }

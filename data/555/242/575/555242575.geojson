@@ -2,63 +2,71 @@
   "id": 555242575,
   "type": "Feature",
   "properties": {
-    "addr:full":"5152 Mack Rd Sacramento CA 95823",
-    "addr:housenumber":"5152",
-    "addr:postcode":"95823",
-    "addr:street":"Mack Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.441141,38.474196,-121.441141,38.474196",
-    "geom:latitude":38.474196,
-    "geom:longitude":-121.441141,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5152 Mack Rd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "5152 Mack Rd Sacramento CA 95823",
+    "addr:housenumber": "5152",
+    "addr:postcode": "95823",
+    "addr:street": "Mack Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.441141,38.474196,-121.441141,38.474196",
+    "geom:latitude": 38.474196,
+    "geom:longitude": -121.441141,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Aspen Park Apartments, 5152 Mack Rd Sacramento CA US",
+    "ovtr:similarity": 1.682492971420288,
+    "sg:address": "5152 Mack Rd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 395 4000",
-    "sg:postcode":"95823",
-    "sg:province":"CA",
-    "sg:tags":[
-        "apartment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 395 4000",
+    "sg:postcode": "95823",
+    "sg:province": "CA",
+    "sg:tags": [
+      "apartment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1ZDBj7VvLYTgWSFkkLDkW1_38.474196_-121.441141@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283286999ecc603419a08c38e9bbc",
+      "sg:id": "SG_1ZDBj7VvLYTgWSFkkLDkW1_38.474196_-121.441141@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e5378fabfc22659b801ec07d686115ad",
-    "wof:hierarchy":[],
-    "wof:id":555242575,
-    "wof:lastmodified":1509201325,
-    "wof:name":"Aspen Park Apartments",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "apartment"
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "e5378fabfc22659b801ec07d686115ad",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555242575
+      }
+    ],
+    "wof:id": 555242575,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Aspen Park Apartments",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "apartment"
     ]
-},
+  },
   "bbox": [
     -121.441141,
     38.474196,
     -121.441141,
     38.474196
-],
+  ],
   "geometry": {"coordinates":[-121.441141,38.474196],"type":"Point"}
 }

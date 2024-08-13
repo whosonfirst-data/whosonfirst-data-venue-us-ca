@@ -2,73 +2,77 @@
   "id": 555248411,
   "type": "Feature",
   "properties": {
-    "addr:full":"11501 Mathews St Fort Jones CA 96032",
-    "addr:housenumber":"11501",
-    "addr:postcode":"96032",
-    "addr:street":"Mathews St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.845637,41.603687,-122.845637,41.603687",
-    "geom:latitude":41.603687,
-    "geom:longitude":-122.845637,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11501 Mathews St",
-    "sg:city":"Fort Jones",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "11501 Mathews St Fort Jones CA 96032",
+    "addr:housenumber": "11501",
+    "addr:postcode": "96032",
+    "addr:street": "Mathews St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.845637,41.603687,-122.845637,41.603687",
+    "geom:latitude": 41.603687,
+    "geom:longitude": -122.845637,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Fort Jones Union Elementary, 11500 Mathews St Fort Jones CA US",
+    "ovtr:similarity": 2.77278995513916,
+    "sg:address": "11501 Mathews St",
+    "sg:city": "Fort Jones",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 468 2412",
-    "sg:postcode":"96032",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85826747,
-        85633793,
-        85922931,
-        102081669,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 468 2412",
+    "sg:postcode": "96032",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85826747,
+      85633793,
+      85922931,
+      102081669,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7fq2ZRgVZXiJmx2SG4FjqU_41.603687_-122.845637@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2811356a104e1031edbb0a458faf8",
+      "sg:id": "SG_7fq2ZRgVZXiJmx2SG4FjqU_41.603687_-122.845637@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"89dd706a1fbb95bc6ca85f9b3cc2083f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081669,
-            "locality_id":85922931,
-            "neighbourhood_id":85826747,
-            "region_id":85688637,
-            "venue_id":555248411
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "89dd706a1fbb95bc6ca85f9b3cc2083f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081669,
+        "locality_id": 85922931,
+        "neighbourhood_id": 85826747,
+        "region_id": 85688637,
+        "venue_id": 555248411
+      }
     ],
-    "wof:id":555248411,
-    "wof:lastmodified":1509201327,
-    "wof:name":"Fort Jones Union Elementary",
-    "wof:parent_id":85826747,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555248411,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Fort Jones Union Elementary",
+    "wof:parent_id": 85826747,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.845637,
     41.603687,
     -122.845637,
     41.603687
-],
+  ],
   "geometry": {"coordinates":[-122.845637,41.603687],"type":"Point"}
 }

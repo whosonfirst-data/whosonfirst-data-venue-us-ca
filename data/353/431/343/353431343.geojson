@@ -2,82 +2,86 @@
   "id": 353431343,
   "type": "Feature",
   "properties": {
-    "addr:full":"11142 Garvey Ave El Monte CA 91733",
-    "addr:housenumber":"11142",
-    "addr:postcode":"91733",
-    "addr:street":"Garvey Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.032721,34.06276,-118.032721,34.06276",
-    "geom:latitude":34.06276,
-    "geom:longitude":-118.032721,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11142 Garvey Ave",
-    "sg:city":"El Monte",
-    "sg:classifiers":[
-        {
-            "category":"Utilities",
-            "subcategory":"Water",
-            "type":"Services"
-        }
+    "addr:full": "11142 Garvey Ave El Monte CA 91733",
+    "addr:housenumber": "11142",
+    "addr:postcode": "91733",
+    "addr:street": "Garvey Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.032721,34.062760,-118.032721,34.062760",
+    "geom:latitude": 34.06276,
+    "geom:longitude": -118.032721,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Gabriel Valley Water Company, 11142 Garvey Ave El Monte CA US",
+    "ovtr:similarity": 3.5031349658966064,
+    "sg:address": "11142 Garvey Ave",
+    "sg:city": "El Monte",
+    "sg:classifiers": [
+      {
+        "category": "Utilities",
+        "subcategory": "Water",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 448 6183",
-    "sg:postcode":"91733",
-    "sg:province":"CA",
-    "sg:tags":[
-        "company",
-        "sewage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 448 6183",
+    "sg:postcode": "91733",
+    "sg:province": "CA",
+    "sg:tags": [
+      "company",
+      "sewage"
     ],
-    "sg:website":"www.sgvwater.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923629,
-        102086957,
-        85885935
+    "sg:website": "www.sgvwater.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923629,
+      102086957,
+      85885935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1dsOEISLhv0FE7VeoEyE7Z_34.062760_-118.032721@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d13a860d003c32d5faf29cb91",
+      "sg:id": "SG_1dsOEISLhv0FE7VeoEyE7Z_34.062760_-118.032721@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4657f5e49990f5bf8938ef12c2df78fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923629,
-            "neighbourhood_id":85885935,
-            "region_id":85688637,
-            "venue_id":353431343
-        }
+    "wof:country": "US",
+    "wof:created": 1723561677,
+    "wof:geomhash": "4657f5e49990f5bf8938ef12c2df78fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923629,
+        "neighbourhood_id": 85885935,
+        "region_id": 85688637,
+        "venue_id": 353431343
+      }
     ],
-    "wof:id":353431343,
-    "wof:lastmodified":1509200553,
-    "wof:name":"San Gabriel Valley Water Co",
-    "wof:parent_id":85885935,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "company",
-        "sewage"
+    "wof:id": 353431343,
+    "wof:lastmodified": 1723561677,
+    "wof:name": "San Gabriel Valley Water Co",
+    "wof:parent_id": 85885935,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "company",
+      "sewage"
     ]
-},
+  },
   "bbox": [
     -118.032721,
     34.06276,
     -118.032721,
     34.06276
-],
+  ],
   "geometry": {"coordinates":[-118.032721,34.06276],"type":"Point"}
 }

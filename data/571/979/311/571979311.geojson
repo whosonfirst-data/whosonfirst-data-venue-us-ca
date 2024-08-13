@@ -2,96 +2,100 @@
   "id": 571979311,
   "type": "Feature",
   "properties": {
-    "addr:full":"100 Bay Pl Oakland CA 94610",
-    "addr:housenumber":"100",
-    "addr:postcode":"94610",
-    "addr:street":"Bay Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.260538,37.811577,-122.260538,37.811577",
-    "geom:latitude":37.811577,
-    "geom:longitude":-122.260538,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"100 Bay Pl",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        },
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "100 Bay Pl Oakland CA 94610",
+    "addr:housenumber": "100",
+    "addr:postcode": "94610",
+    "addr:street": "Bay Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.260538,37.811577,-122.260538,37.811577",
+    "geom:latitude": 37.811577,
+    "geom:longitude": -122.260538,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "St Paul's Towers, 100 Bay Pl Oakland CA US",
+    "ovtr:similarity": 2.8555829524993896,
+    "sg:address": "100 Bay Pl",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      },
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 835 4700",
-    "sg:postcode":"94610",
-    "sg:province":"CA",
-    "sg:tags":[
-        "residential",
-        "homes-elderly",
-        "intermediate",
-        "people",
-        "facility"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 835 4700",
+    "sg:postcode": "94610",
+    "sg:province": "CA",
+    "sg:tags": [
+      "residential",
+      "homes-elderly",
+      "intermediate",
+      "people",
+      "facility"
     ],
-    "sg:website":"www.ehf.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872245,
-        102191575,
-        1108794093,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "sg:website": "www.ehf.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872245,
+      102191575,
+      1108794093,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0jP9grqsllEsiG1bHThRIN_37.811403_-122.260582@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283081048d08803efd26c03b1b844",
+      "sg:id": "SG_0jP9grqsllEsiG1bHThRIN_37.811403_-122.260582@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0453fdccb1f3fe3843c2f6225bd17dbd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794093,
-            "neighbourhood_id":85872245,
-            "region_id":85688637,
-            "venue_id":571979311
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "0453fdccb1f3fe3843c2f6225bd17dbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794093,
+        "neighbourhood_id": 85872245,
+        "region_id": 85688637,
+        "venue_id": 571979311
+      }
     ],
-    "wof:id":571979311,
-    "wof:lastmodified":1509201654,
-    "wof:name":"St Paul's Towers",
-    "wof:parent_id":85872245,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "residential",
-        "homes-elderly",
-        "intermediate",
-        "people",
-        "facility"
+    "wof:id": 571979311,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "St Paul's Towers",
+    "wof:parent_id": 85872245,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "residential",
+      "homes-elderly",
+      "intermediate",
+      "people",
+      "facility"
     ]
-},
+  },
   "bbox": [
     -122.260538,
     37.811577,
     -122.260538,
     37.811577
-],
+  ],
   "geometry": {"coordinates":[-122.260538,37.811577],"type":"Point"}
 }

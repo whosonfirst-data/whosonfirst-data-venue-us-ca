@@ -2,74 +2,78 @@
   "id": 370590467,
   "type": "Feature",
   "properties": {
-    "addr:full":"2139 Alpine Blvd Alpine CA 91901",
-    "addr:housenumber":"2139",
-    "addr:postcode":"91901",
-    "addr:street":"Alpine Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.768782,32.835808,-116.768782,32.835808",
-    "geom:latitude":32.835808,
-    "geom:longitude":-116.768782,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2139 Alpine Blvd",
-    "sg:city":"Alpine",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2139 Alpine Blvd Alpine CA 91901",
+    "addr:housenumber": "2139",
+    "addr:postcode": "91901",
+    "addr:street": "Alpine Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.768782,32.835808,-116.768782,32.835808",
+    "geom:latitude": 32.835808,
+    "geom:longitude": -116.768782,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Al Pancho's Mexican Restaurant, 2139 Alpine Blvd Alpine CA US",
+    "ovtr:similarity": 3.0477399826049805,
+    "sg:address": "2139 Alpine Blvd",
+    "sg:city": "Alpine",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 659 8987",
-    "sg:postcode":"91901",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85925309,
-        102083569,
-        85885563
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 659 8987",
+    "sg:postcode": "91901",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85925309,
+      102083569,
+      85885563
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3pJO7lEvNfPGZbNUv8gdBu_32.835808_-116.768782@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4424a613a60319d4d03e8c8e59",
+      "sg:id": "SG_3pJO7lEvNfPGZbNUv8gdBu_32.835808_-116.768782@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"57945f54bb5cf6d9e4d5a24892262a07",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925309,
-            "neighbourhood_id":85885563,
-            "region_id":85688637,
-            "venue_id":370590467
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "57945f54bb5cf6d9e4d5a24892262a07",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85925309,
+        "neighbourhood_id": 85885563,
+        "region_id": 85688637,
+        "venue_id": 370590467
+      }
     ],
-    "wof:id":370590467,
-    "wof:lastmodified":1509200773,
-    "wof:name":"Al Panchos Mexican Restaurant",
-    "wof:parent_id":85885563,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370590467,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Al Panchos Mexican Restaurant",
+    "wof:parent_id": 85885563,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.768782,
     32.835808,
     -116.768782,
     32.835808
-],
+  ],
   "geometry": {"coordinates":[-116.768782,32.835808],"type":"Point"}
 }

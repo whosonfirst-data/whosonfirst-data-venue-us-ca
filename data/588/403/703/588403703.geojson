@@ -2,88 +2,92 @@
   "id": 588403703,
   "type": "Feature",
   "properties": {
-    "addr:full":"2053 Divisadero St. San Francisco CA 94115",
-    "addr:housenumber":"2053",
-    "addr:postcode":"94115",
-    "addr:street":"Divisadero St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.44067,37.788808,-122.44067,37.788808",
-    "geom:latitude":37.788808,
-    "geom:longitude":-122.44067,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2053 Divisadero St.",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "2053 Divisadero St. San Francisco CA 94115",
+    "addr:housenumber": "2053",
+    "addr:postcode": "94115",
+    "addr:street": "Divisadero St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.440670,37.788808,-122.440670,37.788808",
+    "geom:latitude": 37.788808,
+    "geom:longitude": -122.44067,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Veteran's Deluxe Cleaners, 2053 Divisadero St San Francisco CA US",
+    "ovtr:similarity": 2.272089958190918,
+    "sg:address": "2053 Divisadero St.",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 567 1155",
-    "sg:postcode":"94115",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sewing",
-        "alteration"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 567 1155",
+    "sg:postcode": "94115",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sewing",
+      "alteration"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865909
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865909
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0455699-01-001",
-        "sg:id":"SG_08cWZrooyf9RxxOnkhE3s1_37.788808_-122.440670@1303263319"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082970a811033075b48b8e976f",
+      "sfgov_rbl:id": "0455699-01-001",
+      "sg:id": "SG_08cWZrooyf9RxxOnkhE3s1_37.788808_-122.440670@1303263319"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8a732edeb0b026ace37d3a74576aaad7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865909,
-            "region_id":85688637,
-            "venue_id":588403703
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "8a732edeb0b026ace37d3a74576aaad7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865909,
+        "region_id": 85688637,
+        "venue_id": 588403703
+      }
     ],
-    "wof:id":588403703,
-    "wof:lastmodified":1509202042,
-    "wof:name":"Veteran's Deluxe Cleaners",
-    "wof:parent_id":85865909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sewing",
-        "alteration"
+    "wof:id": 588403703,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Veteran's Deluxe Cleaners",
+    "wof:parent_id": 85865909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sewing",
+      "alteration"
     ]
-},
+  },
   "bbox": [
     -122.44067,
     37.788808,
     -122.44067,
     37.788808
-],
+  ],
   "geometry": {"coordinates":[-122.44067,37.788808],"type":"Point"}
 }

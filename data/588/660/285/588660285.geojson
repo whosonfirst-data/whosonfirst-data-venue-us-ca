@@ -2,88 +2,92 @@
   "id": 588660285,
   "type": "Feature",
   "properties": {
-    "addr:full":"3500 W Capitol Ave West Sacramento CA 95691",
-    "addr:housenumber":"3500",
-    "addr:postcode":"95691",
-    "addr:street":"W Capitol Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.556729,38.578793,-121.556729,38.578793",
-    "geom:latitude":38.578793,
-    "geom:longitude":-121.556729,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3500 W Capitol Ave",
-    "sg:city":"West Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "3500 W Capitol Ave West Sacramento CA 95691",
+    "addr:housenumber": "3500",
+    "addr:postcode": "95691",
+    "addr:street": "W Capitol Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.556729,38.578793,-121.556729,38.578793",
+    "geom:latitude": 38.578793,
+    "geom:longitude": -121.556729,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Elite Dogs Training \u0026 Boarding, 3500 W Capitol Ave West Sacramento CA US",
+    "ovtr:similarity": 1.482833981513977,
+    "sg:address": "3500 W Capitol Ave",
+    "sg:city": "West Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 372 4700",
-    "sg:postcode":"95691",
-    "sg:province":"CA",
-    "sg:tags":[
-        "training",
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 372 4700",
+    "sg:postcode": "95691",
+    "sg:province": "CA",
+    "sg:tags": [
+      "training",
+      "boarding/pet",
+      "sitting"
     ],
-    "sg:website":"members.tripod.com/elite_dogs",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85834181,
-        85633793,
-        85922413,
-        102082309,
-        85688637
+    "sg:website": "members.tripod.com/elite_dogs",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85834181,
+      85633793,
+      85922413,
+      102082309,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16shleybfQuY3qESuTqxCJ_38.578793_-121.556729@1303263386"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b0c4980aa03c30b6b31285664",
+      "sg:id": "SG_16shleybfQuY3qESuTqxCJ_38.578793_-121.556729@1303263386"
     },
-    "wof:country":"US",
-    "wof:geomhash":"590f0f998fabb5a63a6a7fcda4e55ee7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922413,
-            "neighbourhood_id":85834181,
-            "region_id":85688637,
-            "venue_id":588660285
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "590f0f998fabb5a63a6a7fcda4e55ee7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922413,
+        "neighbourhood_id": 85834181,
+        "region_id": 85688637,
+        "venue_id": 588660285
+      }
     ],
-    "wof:id":588660285,
-    "wof:lastmodified":1509202198,
-    "wof:name":"Elite Dogs Training & Boarding",
-    "wof:parent_id":85834181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "training",
-        "boarding/pet",
-        "sitting"
+    "wof:id": 588660285,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "Elite Dogs Training \u0026 Boarding",
+    "wof:parent_id": 85834181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "training",
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -121.556729,
     38.578793,
     -121.556729,
     38.578793
-],
+  ],
   "geometry": {"coordinates":[-121.556729,38.578793],"type":"Point"}
 }

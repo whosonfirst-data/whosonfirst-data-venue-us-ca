@@ -2,80 +2,84 @@
   "id": 555170213,
   "type": "Feature",
   "properties": {
-    "addr:full":"2000 University Ave Palo Alto CA 94303",
-    "addr:housenumber":"2000",
-    "addr:postcode":"94303",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.141753,37.46271,-122.141753,37.46271",
-    "geom:latitude":37.46271,
-    "geom:longitude":-122.141753,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2000 University Ave",
-    "sg:city":"Palo Alto",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "2000 University Ave Palo Alto CA 94303",
+    "addr:housenumber": "2000",
+    "addr:postcode": "94303",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.141753,37.462710,-122.141753,37.462710",
+    "geom:latitude": 37.46271,
+    "geom:longitude": -122.141753,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank Leumi USA, 2000 University Ave East Palo Alto CA US",
+    "ovtr:similarity": 3.2146830558776855,
+    "sg:address": "2000 University Ave",
+    "sg:city": "Palo Alto",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 289 2400",
-    "sg:postcode":"94303",
-    "sg:province":"CA",
-    "sg:tags":[
-        "commercial"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 289 2400",
+    "sg:postcode": "94303",
+    "sg:province": "CA",
+    "sg:tags": [
+      "commercial"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922503,
-        102085387,
-        85886403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922503,
+      102085387,
+      85886403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6pCJWH2LmJuVuvPrONsuLn_37.462710_-122.141753@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283475d41169103d6d06d81c38ede",
+      "sg:id": "SG_6pCJWH2LmJuVuvPrONsuLn_37.462710_-122.141753@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"091d88aa13c42a2ae4b324a2cfb3e260",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922503,
-            "neighbourhood_id":85886403,
-            "region_id":85688637,
-            "venue_id":555170213
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "091d88aa13c42a2ae4b324a2cfb3e260",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922503,
+        "neighbourhood_id": 85886403,
+        "region_id": 85688637,
+        "venue_id": 555170213
+      }
     ],
-    "wof:id":555170213,
-    "wof:lastmodified":1509201301,
-    "wof:name":"Bank Leumi USA",
-    "wof:parent_id":85886403,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial"
+    "wof:id": 555170213,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Bank Leumi USA",
+    "wof:parent_id": 85886403,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial"
     ]
-},
+  },
   "bbox": [
     -122.141753,
     37.46271,
     -122.141753,
     37.46271
-],
-  "geometry": {"coordinates":[-122.14175299999999,37.46271],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.141753,37.46271],"type":"Point"}
 }

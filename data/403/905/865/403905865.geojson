@@ -2,94 +2,98 @@
   "id": 403905865,
   "type": "Feature",
   "properties": {
-    "addr:full":"1724 Pacific Coast Hwy Lomita CA 90717",
-    "addr:housenumber":"1724",
-    "addr:postcode":"90717",
-    "addr:street":"Pacific Coast Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.308998,33.7896,-118.308998,33.7896",
-    "geom:latitude":33.7896,
-    "geom:longitude":-118.308998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1724 Pacific Coast Hwy",
-    "sg:city":"Lomita",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1724 Pacific Coast Hwy Lomita CA 90717",
+    "addr:housenumber": "1724",
+    "addr:postcode": "90717",
+    "addr:street": "Pacific Coast Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.308998,33.789600,-118.308998,33.789600",
+    "geom:latitude": 33.7896,
+    "geom:longitude": -118.308998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jack in the Box, 1724 Pacific Coast Hwy Lomita CA US",
+    "ovtr:similarity": 2.5867021083831787,
+    "sg:address": "1724 Pacific Coast Hwy",
+    "sg:city": "Lomita",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 326 5225",
-    "sg:postcode":"90717",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "hot",
-        "american",
-        "hamburger",
-        "dog"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 326 5225",
+    "sg:postcode": "90717",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "hot",
+      "american",
+      "hamburger",
+      "dog"
     ],
-    "sg:website":"www.jackinthebox.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923529,
-        102086957,
-        85886293
+    "sg:website": "www.jackinthebox.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923529,
+      102086957,
+      85886293
     ],
-    "wof:brand_id":1125148691,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7mrfFSoxjQZUkVtr3E6MlD_33.789600_-118.308998@1303263195"
+    "wof:brand_id": 1125148691,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a560cd468a40368057673123ec0",
+      "sg:id": "SG_7mrfFSoxjQZUkVtr3E6MlD_33.789600_-118.308998@1303263195"
     },
-    "wof:country":"US",
-    "wof:geomhash":"26324df2bc76cd43519069b6f67ed79f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923529,
-            "neighbourhood_id":85886293,
-            "region_id":85688637,
-            "venue_id":403905865
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "26324df2bc76cd43519069b6f67ed79f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923529,
+        "neighbourhood_id": 85886293,
+        "region_id": 85688637,
+        "venue_id": 403905865
+      }
     ],
-    "wof:id":403905865,
-    "wof:lastmodified":1511999245,
-    "wof:name":"Jack In The Box",
-    "wof:parent_id":85886293,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "hot",
-        "american",
-        "hamburger",
-        "dog"
+    "wof:id": 403905865,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "Jack In The Box",
+    "wof:parent_id": 85886293,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "hot",
+      "american",
+      "hamburger",
+      "dog"
     ]
-},
+  },
   "bbox": [
     -118.308998,
     33.7896,
     -118.308998,
     33.7896
-],
+  ],
   "geometry": {"coordinates":[-118.308998,33.7896],"type":"Point"}
 }

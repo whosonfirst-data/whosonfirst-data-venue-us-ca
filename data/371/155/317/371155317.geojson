@@ -2,82 +2,86 @@
   "id": 371155317,
   "type": "Feature",
   "properties": {
-    "addr:full":"11040 Rancho Carmel Dr San Diego CA 92128",
-    "addr:housenumber":"11040",
-    "addr:postcode":"92128",
-    "addr:street":"Rancho Carmel Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.08249,32.977378,-117.08249,32.977378",
-    "geom:latitude":32.977378,
-    "geom:longitude":-117.08249,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11040 Rancho Carmel Dr",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "11040 Rancho Carmel Dr San Diego CA 92128",
+    "addr:housenumber": "11040",
+    "addr:postcode": "92128",
+    "addr:street": "Rancho Carmel Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.082490,32.977378,-117.082490,32.977378",
+    "geom:latitude": 32.977378,
+    "geom:longitude": -117.08249,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sesame Donuts, 11040 Rancho Carmel Dr San Diego CA US",
+    "ovtr:similarity": 2.4056661128997803,
+    "sg:address": "11040 Rancho Carmel Dr",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 451 6621",
-    "sg:postcode":"92128",
-    "sg:province":"CA",
-    "sg:tags":[
-        "product",
-        "mfg"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 451 6621",
+    "sg:postcode": "92128",
+    "sg:province": "CA",
+    "sg:tags": [
+      "product",
+      "mfg"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85871143
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85871143
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Q4NjFJttqCnO39CL4fPAW_32.977378_-117.082490@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4099b6132c038e0d3b2ffe2c29",
+      "sg:id": "SG_0Q4NjFJttqCnO39CL4fPAW_32.977378_-117.082490@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c6f39d6c4b02ecfeb17c183e3caed272",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85871143,
-            "region_id":85688637,
-            "venue_id":371155317
-        }
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "c6f39d6c4b02ecfeb17c183e3caed272",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85871143,
+        "region_id": 85688637,
+        "venue_id": 371155317
+      }
     ],
-    "wof:id":371155317,
-    "wof:lastmodified":1509200905,
-    "wof:name":"Sesame Donuts",
-    "wof:parent_id":85871143,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product",
-        "mfg"
+    "wof:id": 371155317,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "Sesame Donuts",
+    "wof:parent_id": 85871143,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product",
+      "mfg"
     ]
-},
+  },
   "bbox": [
     -117.08249,
     32.977378,
     -117.08249,
     32.977378
-],
-  "geometry": {"coordinates":[-117.08249000000001,32.977378],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.08249,32.977378],"type":"Point"}
 }

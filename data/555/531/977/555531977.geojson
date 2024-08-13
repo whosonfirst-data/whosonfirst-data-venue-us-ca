@@ -2,80 +2,84 @@
   "id": 555531977,
   "type": "Feature",
   "properties": {
-    "addr:full":"511 Atherton Ave Novato CA 94945",
-    "addr:housenumber":"511",
-    "addr:postcode":"94945",
-    "addr:street":"Atherton Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.535659,38.111571,-122.535659,38.111571",
-    "geom:latitude":38.111571,
-    "geom:longitude":-122.535659,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"511 Atherton Ave",
-    "sg:city":"Novato",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "511 Atherton Ave Novato CA 94945",
+    "addr:housenumber": "511",
+    "addr:postcode": "94945",
+    "addr:street": "Atherton Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.535659,38.111571,-122.535659,38.111571",
+    "geom:latitude": 38.111571,
+    "geom:longitude": -122.535659,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Country Vet, 511 Atherton Ave Novato CA US",
+    "ovtr:similarity": 3.6666979789733887,
+    "sg:address": "511 Atherton Ave",
+    "sg:city": "Novato",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 897 8380",
-    "sg:postcode":"94945",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 897 8380",
+    "sg:postcode": "94945",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922017,
-        102084353,
-        420551387
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922017,
+      102084353,
+      420551387
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6oE0sKEbUaWhZxLAtvHfNS_38.111571_-122.535659@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830aa29a60da034e5d57d5d370d7",
+      "sg:id": "SG_6oE0sKEbUaWhZxLAtvHfNS_38.111571_-122.535659@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3a2a8f00ace56c9072323ba84518c75b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922017,
-            "neighbourhood_id":420551387,
-            "region_id":85688637,
-            "venue_id":555531977
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "3a2a8f00ace56c9072323ba84518c75b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922017,
+        "neighbourhood_id": 420551387,
+        "region_id": 85688637,
+        "venue_id": 555531977
+      }
     ],
-    "wof:id":555531977,
-    "wof:lastmodified":1509201423,
-    "wof:name":"Country Vet",
-    "wof:parent_id":420551387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 555531977,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Country Vet",
+    "wof:parent_id": 420551387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -122.535659,
     38.111571,
     -122.535659,
     38.111571
-],
+  ],
   "geometry": {"coordinates":[-122.535659,38.111571],"type":"Point"}
 }

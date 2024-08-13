@@ -2,87 +2,91 @@
   "id": 572393921,
   "type": "Feature",
   "properties": {
-    "addr:full":"4919 Del Sol Boulevard San Diego CA 92154",
-    "addr:housenumber":"4919",
-    "addr:postcode":"92154",
-    "addr:street":"Del Sol Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.025425,32.572411,-117.025425,32.572411",
-    "geom:latitude":32.572411,
-    "geom:longitude":-117.025425,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4919 Del Sol Boulevard",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "4919 Del Sol Boulevard San Diego CA 92154",
+    "addr:housenumber": "4919",
+    "addr:postcode": "92154",
+    "addr:street": "Del Sol Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.025425,32.572411,-117.025425,32.572411",
+    "geom:latitude": 32.572411,
+    "geom:longitude": -117.025425,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ocean View Hills School, 4919 Del Sol Blvd San Diego CA US",
+    "ovtr:similarity": 2.946274995803833,
+    "sg:address": "4919 Del Sol Boulevard",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 661 0457",
-    "sg:postcode":"92154",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 661 0457",
+    "sg:postcode": "92154",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871233,
-        102191575,
-        1108802159,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871233,
+      102191575,
+      1108802159,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":143120850,
-        "sg:id":"SG_1oliprZLmishEsi9C6gieB_32.572411_-117.025425@1303263249"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 143120850,
+      "ovtr:id": "08f29a4c732e80b203125e74a4b4e344",
+      "sg:id": "SG_1oliprZLmishEsi9C6gieB_32.572411_-117.025425@1303263249"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3d27607732cf9a87188071d0c01567fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108802159,
-            "neighbourhood_id":85871233,
-            "region_id":85688637,
-            "venue_id":572393921
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "3d27607732cf9a87188071d0c01567fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108802159,
+        "neighbourhood_id": 85871233,
+        "region_id": 85688637,
+        "venue_id": 572393921
+      }
     ],
-    "wof:id":572393921,
-    "wof:lastmodified":1510942735,
-    "wof:name":"Ocean View Hills School",
-    "wof:parent_id":85871233,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 572393921,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Ocean View Hills School",
+    "wof:parent_id": 85871233,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -117.025425,
     32.572411,
     -117.025425,
     32.572411
-],
+  ],
   "geometry": {"coordinates":[-117.025425,32.572411],"type":"Point"}
 }

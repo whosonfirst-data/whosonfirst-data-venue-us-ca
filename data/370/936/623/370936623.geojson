@@ -2,77 +2,81 @@
   "id": 370936623,
   "type": "Feature",
   "properties": {
-    "addr:full":"1153 S Beverly Drive Los Angeles CA 90035",
-    "addr:housenumber":"1153",
-    "addr:postcode":"90035",
-    "addr:street":"S Beverly Drive",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.395769,34.05609,-118.395769,34.05609",
-    "geom:latitude":34.05609,
-    "geom:longitude":-118.395769,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1153 S Beverly Drive",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        }
+    "addr:full": "1153 S Beverly Drive Los Angeles CA 90035",
+    "addr:housenumber": "1153",
+    "addr:postcode": "90035",
+    "addr:street": "S Beverly Drive",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.395769,34.056090,-118.395769,34.056090",
+    "geom:latitude": 34.05609,
+    "geom:longitude": -118.395769,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Maria De Sio Skin Care, 1153 S Beverly Dr Los Angeles CA US",
+    "ovtr:similarity": 2.177851915359497,
+    "sg:address": "1153 S Beverly Drive",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 553 9404",
-    "sg:postcode":"90035",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865815",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 553 9404",
+    "sg:postcode": "90035",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865815
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2DcuoHXABAw4Gq7mZVMKzO_34.056090_-118.395769@1303263159"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a199e8589b30358df58507553b1",
+      "sg:id": "SG_2DcuoHXABAw4Gq7mZVMKzO_34.056090_-118.395769@1303263159"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f6f657a2354b0e2944e19839c4e9a16c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85865815",
-            "region_id":85688637,
-            "venue_id":370936623
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "f6f657a2354b0e2944e19839c4e9a16c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85865815,
+        "region_id": 85688637,
+        "venue_id": 370936623
+      }
     ],
-    "wof:id":370936623,
-    "wof:lastmodified":1509200854,
-    "wof:name":"Maria De Sio Skin Care",
-    "wof:parent_id":"85865815",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370936623,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Maria De Sio Skin Care",
+    "wof:parent_id": "85865815",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.395769,
     34.05609,
     -118.395769,
     34.05609
-],
+  ],
   "geometry": {"coordinates":[-118.395769,34.05609],"type":"Point"}
 }

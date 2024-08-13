@@ -2,58 +2,66 @@
   "id": 571884225,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 Redwood Dr Garberville CA 95542",
-    "addr:housenumber":"801",
-    "addr:postcode":"95542",
-    "addr:street":"Redwood Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.79499,40.100071,-123.79499,40.100071",
-    "geom:latitude":40.100071,
-    "geom:longitude":-123.79499,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"801 Redwood Dr",
-    "sg:city":"Garberville",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "801 Redwood Dr Garberville CA 95542",
+    "addr:housenumber": "801",
+    "addr:postcode": "95542",
+    "addr:street": "Redwood Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.794990,40.100071,-123.794990,40.100071",
+    "geom:latitude": 40.100071,
+    "geom:longitude": -123.79499,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Eel River Cafe, 801 Redwood Dr Garberville CA US",
+    "ovtr:similarity": 2.2723519802093506,
+    "sg:address": "801 Redwood Dr",
+    "sg:city": "Garberville",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 923 3783",
-    "sg:postcode":"95542",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7B4qNnSGlB7Tt2VWMPMwNj_40.100071_-123.794990@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 923 3783",
+    "sg:postcode": "95542",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f280628d858a2b039050355fab4e4c",
+      "sg:id": "SG_7B4qNnSGlB7Tt2VWMPMwNj_40.100071_-123.794990@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"13e81e06b59db7965a17af6bf9524c87",
-    "wof:hierarchy":[],
-    "wof:id":571884225,
-    "wof:lastmodified":1509201624,
-    "wof:name":"Eel River Cafe",
-    "wof:parent_id":420550973,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "13e81e06b59db7965a17af6bf9524c87",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571884225
+      }
+    ],
+    "wof:id": 571884225,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Eel River Cafe",
+    "wof:parent_id": 420550973,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -123.79499,
     40.100071,
     -123.79499,
     40.100071
-],
+  ],
   "geometry": {"coordinates":[-123.79499,40.100071],"type":"Point"}
 }

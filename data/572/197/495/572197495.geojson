@@ -2,80 +2,84 @@
   "id": 572197495,
   "type": "Feature",
   "properties": {
-    "addr:full":"4419 E Waterloo Rd Stockton CA 95215",
-    "addr:housenumber":"4419",
-    "addr:postcode":"95215",
-    "addr:street":"E Waterloo Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.24601,37.987946,-121.24601,37.987946",
-    "geom:latitude":37.987946,
-    "geom:longitude":-121.24601,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"4419 E Waterloo Rd",
-    "sg:city":"Stockton",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4419 E Waterloo Rd Stockton CA 95215",
+    "addr:housenumber": "4419",
+    "addr:postcode": "95215",
+    "addr:street": "E Waterloo Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.246010,37.987946,-121.246010,37.987946",
+    "geom:latitude": 37.987946,
+    "geom:longitude": -121.24601,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 4419 E Waterloo Rd Stockton CA US",
+    "ovtr:similarity": 2.467658042907715,
+    "sg:address": "4419 E Waterloo Rd",
+    "sg:city": "Stockton",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/stockton/216457-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95215",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/stockton/216457-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95215",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85865151,
-        102085393
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85865151,
+      102085393
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":272203046,
-        "sg:id":"SG_1D4akNQ6WoVcLfJTaXP5H3_37.987946_-121.246010@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 272203046,
+      "ovtr:id": "08f283623212c87203899de59253509c",
+      "sg:id": "SG_1D4akNQ6WoVcLfJTaXP5H3_37.987946_-121.246010@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a0cf1600659fa96eda7144dd05e77750",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085393,
-            "neighbourhood_id":85865151,
-            "region_id":85688637,
-            "venue_id":572197495
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "a0cf1600659fa96eda7144dd05e77750",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "neighbourhood_id": 85865151,
+        "region_id": 85688637,
+        "venue_id": 572197495
+      }
     ],
-    "wof:id":572197495,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85865151,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572197495,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85865151,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.24601,
     37.987946,
     -121.24601,
     37.987946
-],
+  ],
   "geometry": {"coordinates":[-121.24601,37.987946],"type":"Point"}
 }

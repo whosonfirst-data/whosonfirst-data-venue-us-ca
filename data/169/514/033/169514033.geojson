@@ -2,79 +2,83 @@
   "id": 169514033,
   "type": "Feature",
   "properties": {
-    "addr:full":"28145 Jefferson Ave Temecula CA 92562",
-    "addr:housenumber":"28145",
-    "addr:postcode":"92562",
-    "addr:street":"Jefferson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.154708,33.50174,-117.154708,33.50174",
-    "geom:latitude":33.50174,
-    "geom:longitude":-117.154708,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"28145 Jefferson Ave",
-    "sg:city":"Temecula",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"",
-            "type":"Services"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "28145 Jefferson Ave Temecula CA 92562",
+    "addr:housenumber": "28145",
+    "addr:postcode": "92562",
+    "addr:street": "Jefferson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.154708,33.501740,-117.154708,33.501740",
+    "geom:latitude": 33.50174,
+    "geom:longitude": -117.154708,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vince's Spaghetti Express, 28145 Jefferson Ave Temecula CA US",
+    "ovtr:similarity": 2.4782869815826416,
+    "sg:address": "28145 Jefferson Ave",
+    "sg:city": "Temecula",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "",
+        "type": "Services"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 587 2782",
-    "sg:postcode":"92562",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eating"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 587 2782",
+    "sg:postcode": "92562",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eating"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85923337,
-        85633793,
-        85688637,
-        102086221
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85923337,
+      85633793,
+      85688637,
+      102086221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1lqNxmGSdy54ScxNKAHGxF_33.501740_-117.154708@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0992b1ba980391c89039970d56",
+      "sg:id": "SG_1lqNxmGSdy54ScxNKAHGxF_33.501740_-117.154708@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1dd65e3cde2b4a5ac25fdd4775216ce9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923337,
-            "region_id":85688637,
-            "venue_id":169514033
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "1dd65e3cde2b4a5ac25fdd4775216ce9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923337,
+        "region_id": 85688637,
+        "venue_id": 169514033
+      }
     ],
-    "wof:id":169514033,
-    "wof:lastmodified":1509199771,
-    "wof:name":"Vince's Spaghetti Express",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 169514033,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Vince's Spaghetti Express",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.154708,
     33.50174,
     -117.154708,
     33.50174
-],
+  ],
   "geometry": {"coordinates":[-117.154708,33.50174],"type":"Point"}
 }

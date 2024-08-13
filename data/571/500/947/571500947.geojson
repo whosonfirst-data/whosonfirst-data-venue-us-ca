@@ -2,64 +2,72 @@
   "id": 571500947,
   "type": "Feature",
   "properties": {
-    "addr:full":"1459 Main St Ramona CA 92065",
-    "addr:housenumber":"1459",
-    "addr:postcode":"92065",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.875619,33.038228,-116.875619,33.038228",
-    "geom:latitude":33.038228,
-    "geom:longitude":-116.875619,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1459 Main St",
-    "sg:city":"Ramona",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1459 Main St Ramona CA 92065",
+    "addr:housenumber": "1459",
+    "addr:postcode": "92065",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.875619,33.038228,-116.875619,33.038228",
+    "geom:latitude": 33.038228,
+    "geom:longitude": -116.875619,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Albertsons, 1459 Main St Ramona CA US",
+    "ovtr:similarity": 2.2663209438323975,
+    "sg:address": "1459 Main St",
+    "sg:city": "Ramona",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 789 0023",
-    "sg:postcode":"92065",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 789 0023",
+    "sg:postcode": "92065",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420574415,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_79zNN5lLMTVKWUD3fSorpK_33.038228_-116.875619@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420574415,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a445c76997603e711d641f0b40a",
+      "sg:id": "SG_79zNN5lLMTVKWUD3fSorpK_33.038228_-116.875619@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"60352d2a8bd69cb5fea89c9d82ae09ae",
-    "wof:hierarchy":[],
-    "wof:id":571500947,
-    "wof:lastmodified":1510604539,
-    "wof:name":"Albertsons",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "60352d2a8bd69cb5fea89c9d82ae09ae",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571500947
+      }
+    ],
+    "wof:id": 571500947,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Albertsons",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -116.875619,
     33.038228,
     -116.875619,
     33.038228
-],
+  ],
   "geometry": {"coordinates":[-116.875619,33.038228],"type":"Point"}
 }

@@ -2,63 +2,71 @@
   "id": 555227103,
   "type": "Feature",
   "properties": {
-    "addr:full":"42041 20th St W Lancaster CA 93534",
-    "addr:housenumber":"42041",
-    "addr:postcode":"93534",
-    "addr:street":"20Th St W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.165629,34.64652,-118.165629,34.64652",
-    "geom:latitude":34.64652,
-    "geom:longitude":-118.165629,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"42041 20th St W",
-    "sg:city":"Lancaster",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Food",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "42041 20th St W Lancaster CA 93534",
+    "addr:housenumber": "42041",
+    "addr:postcode": "93534",
+    "addr:street": "20Th St W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.165629,34.646520,-118.165629,34.646520",
+    "geom:latitude": 34.64652,
+    "geom:longitude": -118.165629,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Antelope Valley Winery, 42041 20th St W Lancaster CA US",
+    "ovtr:similarity": 2.5725619792938232,
+    "sg:address": "42041 20th St W",
+    "sg:city": "Lancaster",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Food",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 722 0145",
-    "sg:postcode":"93534",
-    "sg:province":"CA",
-    "sg:tags":[
-        "winery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 722 0145",
+    "sg:postcode": "93534",
+    "sg:province": "CA",
+    "sg:tags": [
+      "winery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wGq99XTe3dqvODmwsDN5H_34.646520_-118.165629@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a146eb8b35103d6e4b1c287dfce",
+      "sg:id": "SG_0wGq99XTe3dqvODmwsDN5H_34.646520_-118.165629@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"96d68fd9218550091621d781c1eb849e",
-    "wof:hierarchy":[],
-    "wof:id":555227103,
-    "wof:lastmodified":1509201319,
-    "wof:name":"Antelope Valley Winery",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "winery"
+    "wof:country": "US",
+    "wof:created": 1723561692,
+    "wof:geomhash": "96d68fd9218550091621d781c1eb849e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555227103
+      }
+    ],
+    "wof:id": 555227103,
+    "wof:lastmodified": 1723561692,
+    "wof:name": "Antelope Valley Winery",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "winery"
     ]
-},
+  },
   "bbox": [
     -118.165629,
     34.64652,
     -118.165629,
     34.64652
-],
+  ],
   "geometry": {"coordinates":[-118.165629,34.64652],"type":"Point"}
 }

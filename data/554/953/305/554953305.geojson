@@ -2,75 +2,79 @@
   "id": 554953305,
   "type": "Feature",
   "properties": {
-    "addr:full":"1001 Wilshire Blvd Santa Monica CA 90401",
-    "addr:housenumber":"1001",
-    "addr:postcode":"90401",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.492127,34.024101,-118.492127,34.024101",
-    "geom:latitude":34.024101,
-    "geom:longitude":-118.492127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1001 Wilshire Blvd",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1001 Wilshire Blvd Santa Monica CA 90401",
+    "addr:housenumber": "1001",
+    "addr:postcode": "90401",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.492127,34.024101,-118.492127,34.024101",
+    "geom:latitude": 34.024101,
+    "geom:longitude": -118.492127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Santa Monica Liquor, 1001 Wilshire Blvd Santa Monica CA US",
+    "ovtr:similarity": 2.228437900543213,
+    "sg:address": "1001 Wilshire Blvd",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 395 3053",
-    "sg:postcode":"90401",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923817,
-        102086957,
-        85880867
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 395 3053",
+    "sg:postcode": "90401",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923817,
+      102086957,
+      85880867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ELnP2l3oys21HvwBhAOZF_34.024101_-118.492127@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198c97434b03f3c934992fb5c9",
+      "sg:id": "SG_7ELnP2l3oys21HvwBhAOZF_34.024101_-118.492127@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7ff972d9e50a19a720bceed0376f2cb7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880867,
-            "region_id":85688637,
-            "venue_id":554953305
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "7ff972d9e50a19a720bceed0376f2cb7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85880867,
+        "region_id": 85688637,
+        "venue_id": 554953305
+      }
     ],
-    "wof:id":554953305,
-    "wof:lastmodified":1509201228,
-    "wof:name":"Santa Monica Liquor",
-    "wof:parent_id":85880867,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 554953305,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Santa Monica Liquor",
+    "wof:parent_id": 85880867,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.492127,
     34.024101,
     -118.492127,
     34.024101
-],
+  ],
   "geometry": {"coordinates":[-118.492127,34.024101],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 555718685,
   "type": "Feature",
   "properties": {
-    "addr:full":"3543 S Academy Ave Sanger CA 93657",
-    "addr:housenumber":"3543",
-    "addr:postcode":"ca 93657",
-    "addr:street":"S Academy Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.556586,36.678505,-119.556586,36.678505",
-    "geom:latitude":36.678505,
-    "geom:longitude":-119.556586,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3543 S Academy Ave",
-    "sg:city":"Sanger",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "3543 S Academy Ave Sanger CA 93657",
+    "addr:housenumber": "3543",
+    "addr:postcode": "ca 93657",
+    "addr:street": "S Academy Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.556586,36.678505,-119.556586,36.678505",
+    "geom:latitude": 36.678505,
+    "geom:longitude": -119.556586,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Academy SOUTH MINI Storage, 3543 S Academy Ave Sanger CA US",
+    "ovtr:similarity": 1.735422968864441,
+    "sg:address": "3543 S Academy Ave",
+    "sg:city": "Sanger",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 876 1005",
-    "sg:postcode":"93657",
-    "sg:province":"CA",
-    "sg:tags":[
-        "commercial",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 876 1005",
+    "sg:postcode": "93657",
+    "sg:province": "CA",
+    "sg:tags": [
+      "commercial",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871903,
-        85633793,
-        85922995,
-        102084347,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871903,
+      85633793,
+      85922995,
+      102084347,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xt6TEtG3hmLXmAQ5V47Nx_36.678505_-119.556586@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a86c588b8720388f310d3d3b0bb",
+      "sg:id": "SG_0xt6TEtG3hmLXmAQ5V47Nx_36.678505_-119.556586@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"16528bb22200303b2e00bfe61ca088f7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85871903,
-            "region_id":85688637,
-            "venue_id":555718685
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "16528bb22200303b2e00bfe61ca088f7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85871903,
+        "region_id": 85688637,
+        "venue_id": 555718685
+      }
     ],
-    "wof:id":555718685,
-    "wof:lastmodified":1509201486,
-    "wof:name":"Academy South Mini Storage",
-    "wof:parent_id":85871903,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "commercial",
-        "storage"
+    "wof:id": 555718685,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Academy South Mini Storage",
+    "wof:parent_id": 85871903,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "commercial",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -119.556586,
     36.678505,
     -119.556586,
     36.678505
-],
+  ],
   "geometry": {"coordinates":[-119.556586,36.678505],"type":"Point"}
 }

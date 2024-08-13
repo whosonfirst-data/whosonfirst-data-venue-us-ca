@@ -2,84 +2,88 @@
   "id": 572204125,
   "type": "Feature",
   "properties": {
-    "addr:full":"131 Broadway El Cajon CA 92021",
-    "addr:housenumber":"131",
-    "addr:postcode":"92021",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.960909,32.807566,-116.960909,32.807566",
-    "geom:latitude":32.807566,
-    "geom:longitude":-116.960909,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"131 Broadway",
-    "sg:city":"El Cajon",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "131 Broadway El Cajon CA 92021",
+    "addr:housenumber": "131",
+    "addr:postcode": "92021",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.960909,32.807566,-116.960909,32.807566",
+    "geom:latitude": 32.807566,
+    "geom:longitude": -116.960909,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Panda Express, 131 Broadway El Cajon CA US",
+    "ovtr:similarity": 2.467561960220337,
+    "sg:address": "131 Broadway",
+    "sg:city": "El Cajon",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-diego/239835-panda-express/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 590 1299",
-    "sg:postcode":"92021",
-    "sg:province":"CA",
-    "sg:tags":[
-        "asian",
-        "chinese"
+    "sg:menulink": "http://www.allmenus.com/ca/san-diego/239835-panda-express/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 590 1299",
+    "sg:postcode": "92021",
+    "sg:province": "CA",
+    "sg:tags": [
+      "asian",
+      "chinese"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85925291,
-        102083569,
-        85806751
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85925291,
+      102083569,
+      85806751
     ],
-    "wof:brand_id":420574529,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_40ebLx2pDLgKXdTaAM2Mmh_32.807610_-116.960567@1293134755"
+    "wof:brand_id": 420574529,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a456c69608a030453e33e4163fd",
+      "sg:id": "SG_40ebLx2pDLgKXdTaAM2Mmh_32.807610_-116.960567@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"260464e3ff23022053be8c2eca899fb2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85925291,
-            "neighbourhood_id":85806751,
-            "region_id":85688637,
-            "venue_id":572204125
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "260464e3ff23022053be8c2eca899fb2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85925291,
+        "neighbourhood_id": 85806751,
+        "region_id": 85688637,
+        "venue_id": 572204125
+      }
     ],
-    "wof:id":572204125,
-    "wof:lastmodified":1510603961,
-    "wof:name":"Panda Express",
-    "wof:parent_id":85806751,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "asian",
-        "chinese"
+    "wof:id": 572204125,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Panda Express",
+    "wof:parent_id": 85806751,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "asian",
+      "chinese"
     ]
-},
+  },
   "bbox": [
     -116.960909,
     32.807566,
     -116.960909,
     32.807566
-],
+  ],
   "geometry": {"coordinates":[-116.960909,32.807566],"type":"Point"}
 }

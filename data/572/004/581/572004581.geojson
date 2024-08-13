@@ -2,81 +2,85 @@
   "id": 572004581,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 E Woods Ave Tipton CA 93272",
-    "addr:housenumber":"301",
-    "addr:postcode":"93272",
-    "addr:street":"E Woods Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.310081,36.061039,-119.310081,36.061039",
-    "geom:latitude":36.061039,
-    "geom:longitude":-119.310081,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"301 E Woods Ave",
-    "sg:city":"Tipton",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "301 E Woods Ave Tipton CA 93272",
+    "addr:housenumber": "301",
+    "addr:postcode": "93272",
+    "addr:street": "E Woods Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.310081,36.061039,-119.310081,36.061039",
+    "geom:latitude": 36.061039,
+    "geom:longitude": -119.310081,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tipton Branch Library, 301 E Woods Ave Tipton CA US",
+    "ovtr:similarity": 3.2288949489593506,
+    "sg:address": "301 E Woods Ave",
+    "sg:city": "Tipton",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 752 4236",
-    "sg:postcode":"93272",
-    "sg:province":"CA",
-    "sg:tags":[
-        "parish",
-        "government-county"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 752 4236",
+    "sg:postcode": "93272",
+    "sg:province": "CA",
+    "sg:tags": [
+      "parish",
+      "government-county"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922461,
-        102082895,
-        85824871
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922461,
+      102082895,
+      85824871
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":368170164,
-        "sg:id":"SG_1KF0xxSbMulZbKNNqyMLcn_36.061137_-119.309453@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 368170164,
+      "ovtr:id": "08f29a8cd8686566035b5fb4f87634ea",
+      "sg:id": "SG_1KF0xxSbMulZbKNNqyMLcn_36.061137_-119.309453@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"efecbdee3ed76fb7e2e3816959303ae0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082895,
-            "locality_id":85922461,
-            "neighbourhood_id":85824871,
-            "region_id":85688637,
-            "venue_id":572004581
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "efecbdee3ed76fb7e2e3816959303ae0",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082895,
+        "locality_id": 85922461,
+        "neighbourhood_id": 85824871,
+        "region_id": 85688637,
+        "venue_id": 572004581
+      }
     ],
-    "wof:id":572004581,
-    "wof:lastmodified":1510942585,
-    "wof:name":"Tipton Branch Library",
-    "wof:parent_id":85824871,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "parish",
-        "government-county"
+    "wof:id": 572004581,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Tipton Branch Library",
+    "wof:parent_id": 85824871,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "parish",
+      "government-county"
     ]
-},
+  },
   "bbox": [
     -119.310081,
     36.061039,
     -119.310081,
     36.061039
-],
+  ],
   "geometry": {"coordinates":[-119.310081,36.061039],"type":"Point"}
 }

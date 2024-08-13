@@ -2,86 +2,90 @@
   "id": 572201927,
   "type": "Feature",
   "properties": {
-    "addr:full":"2222 S Hoover St Los Angeles CA 90007",
-    "addr:housenumber":"2222",
-    "addr:postcode":"90007",
-    "addr:street":"S Hoover St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.284036,34.035903,-118.284036,34.035903",
-    "geom:latitude":34.035903,
-    "geom:longitude":-118.284036,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2222 S Hoover St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2222 S Hoover St Los Angeles CA 90007",
+    "addr:housenumber": "2222",
+    "addr:postcode": "90007",
+    "addr:street": "S Hoover St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.284036,34.035903,-118.284036,34.035903",
+    "geom:latitude": 34.035903,
+    "geom:longitude": -118.284036,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Papa John's Pizza, 2222 S Hoover St Los Angeles CA US",
+    "ovtr:similarity": 3.2571799755096436,
+    "sg:address": "2222 S Hoover St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/los-angeles/17721-papa-johns-pizza/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 743 5999",
-    "sg:postcode":"90007",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "pizza"
+    "sg:menulink": "http://www.allmenus.com/ca/los-angeles/17721-papa-johns-pizza/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 743 5999",
+    "sg:postcode": "90007",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420551237",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420551237
     ],
-    "wof:brand_id":420574201,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2hhfjIeF6eRzhjza5ElsGA_34.035380_-118.283920@1293134755"
+    "wof:brand_id": 420574201,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d60d8d610031e2638d8f2520c",
+      "sg:id": "SG_2hhfjIeF6eRzhjza5ElsGA_34.035380_-118.283920@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"47d9ba0cf33c0395942ea7a1d3b00b6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420551237",
-            "region_id":85688637,
-            "venue_id":572201927
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "47d9ba0cf33c0395942ea7a1d3b00b6f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420551237,
+        "region_id": 85688637,
+        "venue_id": 572201927
+      }
     ],
-    "wof:id":572201927,
-    "wof:lastmodified":1511323844,
-    "wof:name":"Papa John's Pizza",
-    "wof:parent_id":"420551237",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "pizza"
+    "wof:id": 572201927,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Papa John's Pizza",
+    "wof:parent_id": "420551237",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -118.284036,
     34.035903,
     -118.284036,
     34.035903
-],
+  ],
   "geometry": {"coordinates":[-118.284036,34.035903],"type":"Point"}
 }

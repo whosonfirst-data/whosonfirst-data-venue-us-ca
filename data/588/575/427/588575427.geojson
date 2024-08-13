@@ -2,101 +2,105 @@
   "id": 588575427,
   "type": "Feature",
   "properties": {
-    "addr:full":"550 Newhall Dr San Jose CA 95110",
-    "addr:housenumber":"550",
-    "addr:postcode":"95110",
-    "addr:street":"Newhall Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.922168,37.350062,-121.922168,37.350062",
-    "geom:latitude":37.350062,
-    "geom:longitude":-121.922168,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"550 Newhall Dr",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "550 Newhall Dr San Jose CA 95110",
+    "addr:housenumber": "550",
+    "addr:postcode": "95110",
+    "addr:street": "Newhall Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.922168,37.350062,-121.922168,37.350062",
+    "geom:latitude": 37.350062,
+    "geom:longitude": -121.922168,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "In-N-Out Burger, 550 Newhall Dr San Jose CA US",
+    "ovtr:similarity": 3.282042980194092,
+    "sg:address": "550 Newhall Dr",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 786 1000",
-    "sg:postcode":"95110",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 786 1000",
+    "sg:postcode": "95110",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "sg:website":"www.in-n-out.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922341,
-        102081673,
-        85869525,
-        1108779023,
-        1108782553,
-        85922347
+    "sg:website": "www.in-n-out.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922341,
+      102081673,
+      85869525,
+      1108779023,
+      1108782553,
+      85922347
     ],
-    "wof:brand_id":1125155761,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":163917089,
-        "sg:id":"SG_6DzrAPpaKUOfYgRBYPe7Xf_37.350062_-121.922168@1303263364"
+    "wof:brand_id": 1125155761,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 163917089,
+      "ovtr:id": "08f283471554dc1d03ec6a76c7904f66",
+      "sg:id": "SG_6DzrAPpaKUOfYgRBYPe7Xf_37.350062_-121.922168@1303263364"
     },
-    "wof:country":"US",
-    "wof:geomhash":"567a5a37dd54f275c8ffc6d10b492147",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922341,
-            "neighbourhood_id":85869525,
-            "region_id":85688637,
-            "venue_id":588575427
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782553,
-            "neighbourhood_id":1108779023,
-            "region_id":85688637,
-            "venue_id":588575427
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "567a5a37dd54f275c8ffc6d10b492147",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922341,
+        "neighbourhood_id": 85869525,
+        "region_id": 85688637,
+        "venue_id": 588575427
+      },
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782553,
+        "neighbourhood_id": 1108779023,
+        "region_id": 85688637,
+        "venue_id": 588575427
+      }
     ],
-    "wof:id":588575427,
-    "wof:lastmodified":1510942988,
-    "wof:name":"In-N-Out Burger",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 588575427,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "In-N-Out Burger",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -121.922168,
     37.350062,
     -121.922168,
     37.350062
-],
+  ],
   "geometry": {"coordinates":[-121.922168,37.350062],"type":"Point"}
 }

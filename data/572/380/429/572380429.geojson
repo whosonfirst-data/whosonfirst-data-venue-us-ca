@@ -2,81 +2,85 @@
   "id": 572380429,
   "type": "Feature",
   "properties": {
-    "addr:full":"5040 Convoy Street San Diego CA 92111",
-    "addr:housenumber":"5040",
-    "addr:postcode":"92111",
-    "addr:street":"Convoy Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.153206,32.833507,-117.153206,32.833507",
-    "geom:latitude":32.833507,
-    "geom:longitude":-117.153206,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5040 Convoy Street",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Golf",
-            "type":"Entertainment"
-        }
+    "addr:full": "5040 Convoy Street San Diego CA 92111",
+    "addr:housenumber": "5040",
+    "addr:postcode": "92111",
+    "addr:street": "Convoy Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.153206,32.833507,-117.153206,32.833507",
+    "geom:latitude": 32.833507,
+    "geom:longitude": -117.153206,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Fairway Golf, 5040 Convoy St San Diego CA US",
+    "ovtr:similarity": 2.315056085586548,
+    "sg:address": "5040 Convoy Street",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Golf",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 268 1702",
-    "sg:postcode":"92111",
-    "sg:province":"CA",
-    "sg:website":"www.fairwaygolfusa.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85866833
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 268 1702",
+    "sg:postcode": "92111",
+    "sg:province": "CA",
+    "sg:website": "www.fairwaygolfusa.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85866833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_144cWOqA30iDYX6PUp6rx3_32.833507_-117.153206@1303263245"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4010ca0aa103a65b3491ac6e40",
+      "sg:id": "SG_144cWOqA30iDYX6PUp6rx3_32.833507_-117.153206@1303263245"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4dd0f382cb399a1d0eb3cc025d19d63f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85866833,
-            "region_id":85688637,
-            "venue_id":572380429
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "4dd0f382cb399a1d0eb3cc025d19d63f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85866833,
+        "region_id": 85688637,
+        "venue_id": 572380429
+      }
     ],
-    "wof:id":572380429,
-    "wof:lastmodified":1509201854,
-    "wof:name":"Fairway Golf",
-    "wof:parent_id":85866833,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572380429,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Fairway Golf",
+    "wof:parent_id": 85866833,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.153206,
     32.833507,
     -117.153206,
     32.833507
-],
+  ],
   "geometry": {"coordinates":[-117.153206,32.833507],"type":"Point"}
 }

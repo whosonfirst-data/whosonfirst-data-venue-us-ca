@@ -2,77 +2,81 @@
   "id": 572408463,
   "type": "Feature",
   "properties": {
-    "addr:full":"1308 E Main St Barstow CA 92311",
-    "addr:housenumber":"1308",
-    "addr:postcode":"92311",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.007154,34.896138,-117.007154,34.896138",
-    "geom:latitude":34.896138,
-    "geom:longitude":-117.007154,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1308 E Main St",
-    "sg:city":"Barstow",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1308 E Main St Barstow CA 92311",
+    "addr:housenumber": "1308",
+    "addr:postcode": "92311",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.007154,34.896138,-117.007154,34.896138",
+    "geom:latitude": 34.896138,
+    "geom:longitude": -117.007154,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 1308 E Main St Barstow CA US",
+    "ovtr:similarity": 1.878957986831665,
+    "sg:address": "1308 E Main St",
+    "sg:city": "Barstow",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 256 9239",
-    "sg:postcode":"92311",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85836453,
-        102085395
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 256 9239",
+    "sg:postcode": "92311",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85836453,
+      102085395
     ],
-    "wof:brand_id":1125158017,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0wlTIF13MsEJPecsITOfGS_34.896138_-117.007154@1303263252"
+    "wof:brand_id": 1125158017,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a3c53d6a260032bd9e2024a7679",
+      "sg:id": "SG_0wlTIF13MsEJPecsITOfGS_34.896138_-117.007154@1303263252"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6dedec89fddc9954b1509049092e4317",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085395,
-            "neighbourhood_id":85836453,
-            "region_id":85688637,
-            "venue_id":572408463
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "6dedec89fddc9954b1509049092e4317",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "neighbourhood_id": 85836453,
+        "region_id": 85688637,
+        "venue_id": 572408463
+      }
     ],
-    "wof:id":572408463,
-    "wof:lastmodified":1510698495,
-    "wof:name":"99 Cents Only Stores",
-    "wof:parent_id":85836453,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572408463,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "99 Cents Only Stores",
+    "wof:parent_id": 85836453,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.007154,
     34.896138,
     -117.007154,
     34.896138
-],
+  ],
   "geometry": {"coordinates":[-117.007154,34.896138],"type":"Point"}
 }

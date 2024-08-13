@@ -2,87 +2,91 @@
   "id": 572207389,
   "type": "Feature",
   "properties": {
-    "addr:full":"3420 Judah St San Francisco CA 94122",
-    "addr:housenumber":"3420",
-    "addr:postcode":"94122",
-    "addr:street":"Judah St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.498771,37.760807,-122.498771,37.760807",
-    "geom:latitude":37.760807,
-    "geom:longitude":-122.498771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3420 Judah St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3420 Judah St San Francisco CA 94122",
+    "addr:housenumber": "3420",
+    "addr:postcode": "94122",
+    "addr:street": "Judah St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.498771,37.760807,-122.498771,37.760807",
+    "geom:latitude": 37.760807,
+    "geom:longitude": -122.498771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tazaki Sushi, 3420 Judah St San Francisco CA US",
+    "ovtr:similarity": 2.510334014892578,
+    "sg:address": "3420 Judah St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/44538-tazaki-sushi/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 566 6860",
-    "sg:postcode":"94122",
-    "sg:province":"CA",
-    "sg:tags":[
-        "japanese",
-        "asian"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/44538-tazaki-sushi/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 566 6860",
+    "sg:postcode": "94122",
+    "sg:province": "CA",
+    "sg:tags": [
+      "japanese",
+      "asian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865975,
-        102191575,
-        1108830803,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865975,
+      102191575,
+      1108830803,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4593719022,
-        "sfgov_rbl:id":"1003263-07-141",
-        "sg:id":"SG_6uO2VM6uOaTd7RCqtJYf19_37.760793_-122.499327@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4593719022,
+      "ovtr:id": "08f2830958224b9c03be78eb99beb3a0",
+      "sfgov_rbl:id": "1003263-07-141",
+      "sg:id": "SG_6uO2VM6uOaTd7RCqtJYf19_37.760793_-122.499327@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cde250529e1a1e325b46d3db35bcf8ab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830803,
-            "neighbourhood_id":85865975,
-            "region_id":85688637,
-            "venue_id":572207389
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "cde250529e1a1e325b46d3db35bcf8ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830803,
+        "neighbourhood_id": 85865975,
+        "region_id": 85688637,
+        "venue_id": 572207389
+      }
     ],
-    "wof:id":572207389,
-    "wof:lastmodified":1510941904,
-    "wof:name":"Tazaki Sushi",
-    "wof:parent_id":85865975,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "japanese",
-        "asian"
+    "wof:id": 572207389,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Tazaki Sushi",
+    "wof:parent_id": 85865975,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "japanese",
+      "asian"
     ]
-},
+  },
   "bbox": [
     -122.498771,
     37.760807,
     -122.498771,
     37.760807
-],
+  ],
   "geometry": {"coordinates":[-122.498771,37.760807],"type":"Point"}
 }

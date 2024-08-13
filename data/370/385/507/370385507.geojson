@@ -2,84 +2,88 @@
   "id": 370385507,
   "type": "Feature",
   "properties": {
-    "addr:full":"10317 Avalon Blvd Los Angeles CA 90003",
-    "addr:housenumber":"10317",
-    "addr:postcode":"90003",
-    "addr:street":"Avalon Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.265191,33.942313,-118.265191,33.942313",
-    "geom:latitude":33.942313,
-    "geom:longitude":-118.265191,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10317 Avalon Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10317 Avalon Blvd Los Angeles CA 90003",
+    "addr:housenumber": "10317",
+    "addr:postcode": "90003",
+    "addr:street": "Avalon Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.265191,33.942313,-118.265191,33.942313",
+    "geom:latitude": 33.942313,
+    "geom:longitude": -118.265191,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Subway, 10317 Avalon Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.401110887527466,
+    "sg:address": "10317 Avalon Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 755 7200",
-    "sg:postcode":"90003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 755 7200",
+    "sg:postcode": "90003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "sg:website":"www.subway.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1058996423,
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.subway.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1058996423,
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5seAWFeA1EMYS9bcDNPDQz_33.942313_-118.265191@1303263145"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c00d1d4303c041878c59348f",
+      "sg:id": "SG_5seAWFeA1EMYS9bcDNPDQz_33.942313_-118.265191@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8800cdb51729159eb23cc460ed46c6b3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":1058996423,
-            "region_id":85688637,
-            "venue_id":370385507
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "8800cdb51729159eb23cc460ed46c6b3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 1058996423,
+        "region_id": 85688637,
+        "venue_id": 370385507
+      }
     ],
-    "wof:id":370385507,
-    "wof:lastmodified":1511322206,
-    "wof:name":"Subway",
-    "wof:parent_id":1058996423,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 370385507,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Subway",
+    "wof:parent_id": 1058996423,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -118.265191,
     33.942313,
     -118.265191,
     33.942313
-],
+  ],
   "geometry": {"coordinates":[-118.265191,33.942313],"type":"Point"}
 }

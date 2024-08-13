@@ -2,85 +2,91 @@
   "id": 572189469,
   "type": "Feature",
   "properties": {
-    "addr:full":"118 New Montgomery St San Francisco CA 94105",
-    "addr:housenumber":"118",
-    "addr:postcode":"94105",
-    "addr:street":"New Montgomery St",
-    "addr:website":"http://ayolasf.com/",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"2008~",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.400262,37.787233,-122.400262,37.787233",
-    "geom:latitude":37.787233,
-    "geom:longitude":-122.400262,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"118 New Montgomery St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "118 New Montgomery St San Francisco CA 94105",
+    "addr:housenumber": "118",
+    "addr:postcode": "94105",
+    "addr:street": "New Montgomery St",
+    "addr:website": "http://ayolasf.com/",
+    "date:inception_lower": "2008-01-01",
+    "date:inception_upper": "2008-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "2008~",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.400262,37.787233,-122.400262,37.787233",
+    "geom:latitude": 37.787233,
+    "geom:longitude": -122.400262,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ayola, 118 New Montgomery St San Francisco CA US",
+    "ovtr:similarity": 2.2254130840301514,
+    "sg:address": "118 New Montgomery St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/62915-ayola/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 348 0808",
-    "sg:postcode":"94105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "greek"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/62915-ayola/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 348 0808",
+    "sg:postcode": "94105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "greek"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831951,
-        85865939,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831951,
+      85865939,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0415026-01-001",
-        "sg:id":"SG_3oCHhiUxWFxLgPzMKqPWei_37.787233_-122.400262@1299784598"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082aa9e710035d95315291d1f6",
+      "sfgov_rbl:id": "0415026-01-001",
+      "sg:id": "SG_3oCHhiUxWFxLgPzMKqPWei_37.787233_-122.400262@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d1d2f8486993b9665154252ba70b0728",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831951,
-            "neighbourhood_id":85865939,
-            "region_id":85688637,
-            "venue_id":572189469
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "d1d2f8486993b9665154252ba70b0728",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831951,
+        "neighbourhood_id": 85865939,
+        "region_id": 85688637,
+        "venue_id": 572189469
+      }
     ],
-    "wof:id":572189469,
-    "wof:lastmodified":1509201723,
-    "wof:name":"Ayola",
-    "wof:parent_id":1108831951,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "greek"
+    "wof:id": 572189469,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Ayola",
+    "wof:parent_id": 1108831951,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "greek"
     ]
-},
+  },
   "bbox": [
     -122.400262,
     37.787233,
     -122.400262,
     37.787233
-],
+  ],
   "geometry": {"coordinates":[-122.400262,37.787233],"type":"Point"}
 }

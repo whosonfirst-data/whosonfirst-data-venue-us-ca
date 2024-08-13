@@ -2,83 +2,87 @@
   "id": 571990935,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 Bay St San Francisco CA 94133",
-    "addr:housenumber":"401",
-    "addr:postcode":"94133",
-    "addr:street":"Bay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.414625,37.805783,-122.414625,37.805783",
-    "geom:latitude":37.805783,
-    "geom:longitude":-122.414625,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"401 Bay St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "401 Bay St San Francisco CA 94133",
+    "addr:housenumber": "401",
+    "addr:postcode": "94133",
+    "addr:street": "Bay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.414625,37.805783,-122.414625,37.805783",
+    "geom:latitude": 37.805783,
+    "geom:longitude": -122.414625,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 401 Bay St San Francisco CA US",
+    "ovtr:similarity": 3.329556941986084,
+    "sg:address": "401 Bay St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 351 1013",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 351 1013",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85866843
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85866843
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2130264969,
-        "sg:id":"SG_0Y38udqCq18NqOsSYfPKut_37.805417_-122.415241@1293134755"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2130264969,
+      "ovtr:id": "08f283082b685b9d03c040e7e5c73117",
+      "sg:id": "SG_0Y38udqCq18NqOsSYfPKut_37.805417_-122.415241@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4e3b4abf206c2665e1734ad38fdf012c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85866843,
-            "region_id":85688637,
-            "venue_id":571990935
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "4e3b4abf206c2665e1734ad38fdf012c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85866843,
+        "region_id": 85688637,
+        "venue_id": 571990935
+      }
     ],
-    "wof:id":571990935,
-    "wof:lastmodified":1510943953,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":85866843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 571990935,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 85866843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.414625,
     37.805783,
     -122.414625,
     37.805783
-],
+  ],
   "geometry": {"coordinates":[-122.414625,37.805783],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 572034661,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 Fillmore St San Francisco CA 94115",
-    "addr:housenumber":"1200",
-    "addr:postcode":"94115",
-    "addr:street":"Fillmore St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.431808,37.780922,-122.431808,37.780922",
-    "geom:latitude":37.780922,
-    "geom:longitude":-122.431808,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1200 Fillmore St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1200 Fillmore St San Francisco CA 94115",
+    "addr:housenumber": "1200",
+    "addr:postcode": "94115",
+    "addr:street": "Fillmore St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.431808,37.780922,-122.431808,37.780922",
+    "geom:latitude": 37.780922,
+    "geom:longitude": -122.431808,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Third World Market, 1200 Fillmore St San Francisco CA US",
+    "ovtr:similarity": 2.8758370876312256,
+    "sg:address": "1200 Fillmore St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 567 0165",
-    "sg:postcode":"94115",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 567 0165",
+    "sg:postcode": "94115",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85856855
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85856855
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0160468-01-001",
-        "sg:id":"SG_2qUCgSbO0FhupAgXXnrC90_37.781428_-122.432329@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830829534b4a03e0acf402225ab9",
+      "sfgov_rbl:id": "0160468-01-001",
+      "sg:id": "SG_2qUCgSbO0FhupAgXXnrC90_37.781428_-122.432329@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8dfe0d410000b8036b397377e17ef251",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85856855,
-            "region_id":85688637,
-            "venue_id":572034661
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "8dfe0d410000b8036b397377e17ef251",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85856855,
+        "region_id": 85688637,
+        "venue_id": 572034661
+      }
     ],
-    "wof:id":572034661,
-    "wof:lastmodified":1509201672,
-    "wof:name":"Third World Market",
-    "wof:parent_id":85856855,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 572034661,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Third World Market",
+    "wof:parent_id": 85856855,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.431808,
     37.780922,
     -122.431808,
     37.780922
-],
+  ],
   "geometry": {"coordinates":[-122.431808,37.780922],"type":"Point"}
 }

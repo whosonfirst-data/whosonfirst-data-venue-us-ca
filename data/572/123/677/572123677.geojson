@@ -2,83 +2,87 @@
   "id": 572123677,
   "type": "Feature",
   "properties": {
-    "addr:full":"2340 San Pablo Ave Pinole CA 94564",
-    "addr:housenumber":"2340",
-    "addr:postcode":"94564",
-    "addr:street":"San Pablo Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.290616,38.005717,-122.290616,38.005717",
-    "geom:latitude":38.005717,
-    "geom:longitude":-122.290616,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2340 San Pablo Ave",
-    "sg:city":"Pinole",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2340 San Pablo Ave Pinole CA 94564",
+    "addr:housenumber": "2340",
+    "addr:postcode": "94564",
+    "addr:street": "San Pablo Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.290616,38.005717,-122.290616,38.005717",
+    "geom:latitude": 38.005717,
+    "geom:longitude": -122.290616,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bear Claw Bakery \u0026 Cafe, 2340 San Pablo Ave Pinole CA US",
+    "ovtr:similarity": 3.6439549922943115,
+    "sg:address": "2340 San Pablo Ave",
+    "sg:city": "Pinole",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 724 3105",
-    "sg:postcode":"94564",
-    "sg:province":"CA",
-    "sg:tags":[
-        "baker",
-        "restaurant"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 724 3105",
+    "sg:postcode": "94564",
+    "sg:province": "CA",
+    "sg:tags": [
+      "baker",
+      "restaurant"
     ],
-    "sg:website":"http://www.bearclawbakery.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922143,
-        102086225,
-        85886875
+    "sg:website": "http://www.bearclawbakery.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922143,
+      102086225,
+      85886875
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6iVaF37rPzyXdIEA4lQ1eq_38.006189_-122.290515@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283012dab588403c81f763a499675",
+      "sg:id": "SG_6iVaF37rPzyXdIEA4lQ1eq_38.006189_-122.290515@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1d218b44d23ecc1e46cf8276457dd7e9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922143,
-            "neighbourhood_id":85886875,
-            "region_id":85688637,
-            "venue_id":572123677
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "1d218b44d23ecc1e46cf8276457dd7e9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922143,
+        "neighbourhood_id": 85886875,
+        "region_id": 85688637,
+        "venue_id": 572123677
+      }
     ],
-    "wof:id":572123677,
-    "wof:lastmodified":1509201700,
-    "wof:name":"Bear Claw Bakery",
-    "wof:parent_id":85886875,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker",
-        "restaurant"
+    "wof:id": 572123677,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Bear Claw Bakery",
+    "wof:parent_id": 85886875,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker",
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -122.290616,
     38.005717,
     -122.290616,
     38.005717
-],
+  ],
   "geometry": {"coordinates":[-122.290616,38.005717],"type":"Point"}
 }

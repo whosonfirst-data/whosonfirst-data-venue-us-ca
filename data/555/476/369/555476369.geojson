@@ -2,76 +2,80 @@
   "id": 555476369,
   "type": "Feature",
   "properties": {
-    "addr:full":"650 S State St Ukiah CA 95482",
-    "addr:housenumber":"650",
-    "addr:postcode":"ca 95482",
-    "addr:street":"S State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.206524,39.14453,-123.206524,39.14453",
-    "geom:latitude":39.14453,
-    "geom:longitude":-123.206524,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"650 S State St",
-    "sg:city":"Ukiah",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "650 S State St Ukiah CA 95482",
+    "addr:housenumber": "650",
+    "addr:postcode": "ca 95482",
+    "addr:street": "S State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.206524,39.144530,-123.206524,39.144530",
+    "geom:latitude": 39.14453,
+    "geom:longitude": -123.206524,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sunrise Inn, 650 S State St Ukiah CA US",
+    "ovtr:similarity": 2.470442056655884,
+    "sg:address": "650 S State St",
+    "sg:city": "Ukiah",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 462 6601",
-    "sg:postcode":"95482",
-    "sg:province":"CA",
-    "sg:website":"www.sunriseinn.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922569,
-        102082885,
-        85888155
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 462 6601",
+    "sg:postcode": "95482",
+    "sg:province": "CA",
+    "sg:website": "www.sunriseinn.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922569,
+      102082885,
+      85888155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3k9NEEROJdICEINmXRbhiA_39.144530_-123.206524@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28316ab25ba110317036723af2a02",
+      "sg:id": "SG_3k9NEEROJdICEINmXRbhiA_39.144530_-123.206524@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"46d36ad9a2e064d0862aa9443ae5c904",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082885,
-            "locality_id":85922569,
-            "neighbourhood_id":85888155,
-            "region_id":85688637,
-            "venue_id":555476369
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "46d36ad9a2e064d0862aa9443ae5c904",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082885,
+        "locality_id": 85922569,
+        "neighbourhood_id": 85888155,
+        "region_id": 85688637,
+        "venue_id": 555476369
+      }
     ],
-    "wof:id":555476369,
-    "wof:lastmodified":1509201405,
-    "wof:name":"Sunrise Inn",
-    "wof:parent_id":85888155,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555476369,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Sunrise Inn",
+    "wof:parent_id": 85888155,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -123.206524,
     39.14453,
     -123.206524,
     39.14453
-],
+  ],
   "geometry": {"coordinates":[-123.206524,39.14453],"type":"Point"}
 }

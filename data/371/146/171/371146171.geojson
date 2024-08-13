@@ -2,74 +2,78 @@
   "id": 371146171,
   "type": "Feature",
   "properties": {
-    "addr:full":"370 N La Cienega Blvd Los Angeles CA 90048",
-    "addr:housenumber":"370",
-    "addr:postcode":"90048",
-    "addr:street":"N La Cienega Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.376418,34.077961,-118.376418,34.077961",
-    "geom:latitude":34.077961,
-    "geom:longitude":-118.376418,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"370 N La Cienega Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "370 N La Cienega Blvd Los Angeles CA 90048",
+    "addr:housenumber": "370",
+    "addr:postcode": "90048",
+    "addr:street": "N La Cienega Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.376418,34.077961,-118.376418,34.077961",
+    "geom:latitude": 34.077961,
+    "geom:longitude": -118.376418,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Roger Room, 370 N La Cienega Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.267409086227417,
+    "sg:address": "370 N La Cienega Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 854 1300",
-    "sg:postcode":"90048",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85868373
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 854 1300",
+    "sg:postcode": "90048",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85868373
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_78R3fMqPvapJC4bn7bY0W4_34.077961_-118.376418@1303263164"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6d375ada03d9d473179015d5",
+      "sg:id": "SG_78R3fMqPvapJC4bn7bY0W4_34.077961_-118.376418@1303263164"
     },
-    "wof:country":"US",
-    "wof:geomhash":"98810dbec8f9fe56342223cd37fd8253",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85868373,
-            "region_id":85688637,
-            "venue_id":371146171
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "98810dbec8f9fe56342223cd37fd8253",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85868373,
+        "region_id": 85688637,
+        "venue_id": 371146171
+      }
     ],
-    "wof:id":371146171,
-    "wof:lastmodified":1509200903,
-    "wof:name":"The Roger Room",
-    "wof:parent_id":85868373,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371146171,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "The Roger Room",
+    "wof:parent_id": 85868373,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.376418,
     34.077961,
     -118.376418,
     34.077961
-],
+  ],
   "geometry": {"coordinates":[-118.376418,34.077961],"type":"Point"}
 }

@@ -2,75 +2,79 @@
   "id": 555155641,
   "type": "Feature",
   "properties": {
-    "addr:full":"3006 N Brea Blvd Fullerton CA 92835",
-    "addr:housenumber":"3006",
-    "addr:postcode":"92835",
-    "addr:street":"N Brea Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.905974,33.905861,-117.905974,33.905861",
-    "geom:latitude":33.905861,
-    "geom:longitude":-117.905974,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3006 N Brea Blvd",
-    "sg:city":"Fullerton",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3006 N Brea Blvd Fullerton CA 92835",
+    "addr:housenumber": "3006",
+    "addr:postcode": "92835",
+    "addr:street": "N Brea Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.905974,33.905861,-117.905974,33.905861",
+    "geom:latitude": 33.905861,
+    "geom:longitude": -117.905974,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Five Star Liquor, 3006 Brea Blvd Fullerton CA US",
+    "ovtr:similarity": 1.9718060493469238,
+    "sg:address": "3006 N Brea Blvd",
+    "sg:city": "Fullerton",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 529 6962",
-    "sg:postcode":"92835",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923165,
-        102080847,
-        85885661
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 529 6962",
+    "sg:postcode": "92835",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923165,
+      102080847,
+      85885661
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1aNp0jvcsAxan2miRanaAn_33.905861_-117.905974@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a71831029037a91de9d9d199b",
+      "sg:id": "SG_1aNp0jvcsAxan2miRanaAn_33.905861_-117.905974@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"edd22189af151f12844762dbfdf2d48e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923165,
-            "neighbourhood_id":85885661,
-            "region_id":85688637,
-            "venue_id":555155641
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "edd22189af151f12844762dbfdf2d48e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923165,
+        "neighbourhood_id": 85885661,
+        "region_id": 85688637,
+        "venue_id": 555155641
+      }
     ],
-    "wof:id":555155641,
-    "wof:lastmodified":1509201295,
-    "wof:name":"Five Star Liquor",
-    "wof:parent_id":85885661,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555155641,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Five Star Liquor",
+    "wof:parent_id": 85885661,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.905974,
     33.905861,
     -117.905974,
     33.905861
-],
+  ],
   "geometry": {"coordinates":[-117.905974,33.905861],"type":"Point"}
 }

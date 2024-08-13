@@ -2,89 +2,93 @@
   "id": 588368729,
   "type": "Feature",
   "properties": {
-    "addr:full":"17 3rd St San Francisco CA 94103",
-    "addr:housenumber":"17",
-    "addr:postcode":"94103",
-    "addr:street":"3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.403351,37.787406,-122.403351,37.787406",
-    "geom:latitude":37.787406,
-    "geom:longitude":-122.403351,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"17 3rd St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "17 3rd St San Francisco CA 94103",
+    "addr:housenumber": "17",
+    "addr:postcode": "94103",
+    "addr:street": "3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.403351,37.787406,-122.403351,37.787406",
+    "geom:latitude": 37.787406,
+    "geom:longitude": -122.403351,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Cask, 17 3rd St San Francisco CA US",
+    "ovtr:similarity": 2.39009690284729,
+    "sg:address": "17 3rd St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 424 4844",
-    "sg:postcode":"94103",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 424 4844",
+    "sg:postcode": "94103",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "sg:website":"www.caskspirits.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831951,
-        85865939,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:website": "www.caskspirits.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831951,
+      85865939,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3455075372,
-        "sfgov_rbl:id":"0423658-01-001",
-        "sg:id":"SG_4qCXmvyWsO2nTf7MUi4721_37.787406_-122.403351@1303263311"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3455075372,
+      "ovtr:id": "08f283082aad684e03e24c8bb578b2d7",
+      "sfgov_rbl:id": "0423658-01-001",
+      "sg:id": "SG_4qCXmvyWsO2nTf7MUi4721_37.787406_-122.403351@1303263311"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9104823a64b1a69d44eae5e106f681b4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831951,
-            "neighbourhood_id":85865939,
-            "region_id":85688637,
-            "venue_id":588368729
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "9104823a64b1a69d44eae5e106f681b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831951,
+        "neighbourhood_id": 85865939,
+        "region_id": 85688637,
+        "venue_id": 588368729
+      }
     ],
-    "wof:id":588368729,
-    "wof:lastmodified":1510941743,
-    "wof:name":"Cask",
-    "wof:parent_id":1108831951,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 588368729,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Cask",
+    "wof:parent_id": 1108831951,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -122.403351,
     37.787406,
     -122.403351,
     37.787406
-],
+  ],
   "geometry": {"coordinates":[-122.403351,37.787406],"type":"Point"}
 }

@@ -2,77 +2,81 @@
   "id": 571652133,
   "type": "Feature",
   "properties": {
-    "addr:full":"10009 S San Pedro St Los Angeles CA 90003",
-    "addr:housenumber":"10009",
-    "addr:postcode":"90003",
-    "addr:street":"S San Pedro St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.269593,33.944754,-118.269593,33.944754",
-    "geom:latitude":33.944754,
-    "geom:longitude":-118.269593,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10009 S San Pedro St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        }
+    "addr:full": "10009 S San Pedro St Los Angeles CA 90003",
+    "addr:housenumber": "10009",
+    "addr:postcode": "90003",
+    "addr:street": "S San Pedro St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.269593,33.944754,-118.269593,33.944754",
+    "geom:latitude": 33.944754,
+    "geom:longitude": -118.269593,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "J \u0026 J Beauty Salon, 10009 S San Pedro St Los Angeles CA US",
+    "ovtr:similarity": 2.0340049266815186,
+    "sg:address": "10009 S San Pedro St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 242 9722",
-    "sg:postcode":"90003",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85868337",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 242 9722",
+    "sg:postcode": "90003",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85868337
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2QGfjj0s9UIhgmxOjy6ctG_33.944754_-118.269593@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c039b00e03ff249c523f5fcb",
+      "sg:id": "SG_2QGfjj0s9UIhgmxOjy6ctG_33.944754_-118.269593@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"510d07b19454b2e420e4f91b29de021f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85868337",
-            "region_id":85688637,
-            "venue_id":571652133
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "510d07b19454b2e420e4f91b29de021f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85868337,
+        "region_id": 85688637,
+        "venue_id": 571652133
+      }
     ],
-    "wof:id":571652133,
-    "wof:lastmodified":1509201549,
-    "wof:name":"J & J Beauty Salon",
-    "wof:parent_id":"85868337",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571652133,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "J \u0026 J Beauty Salon",
+    "wof:parent_id": "85868337",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.269593,
     33.944754,
     -118.269593,
     33.944754
-],
+  ],
   "geometry": {"coordinates":[-118.269593,33.944754],"type":"Point"}
 }

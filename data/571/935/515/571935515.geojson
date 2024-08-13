@@ -2,59 +2,67 @@
   "id": 571935515,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 Auburn Ravine Rd Auburn CA 95603",
-    "addr:housenumber":"500",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Auburn Ravine Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.074384,38.909561,-121.074384,38.909561",
-    "geom:latitude":38.909561,
-    "geom:longitude":-121.074384,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"500 Auburn Ravine Rd",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "500 Auburn Ravine Rd Auburn CA 95603",
+    "addr:housenumber": "500",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Auburn Ravine Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.074384,38.909561,-121.074384,38.909561",
+    "geom:latitude": 38.909561,
+    "geom:longitude": -121.074384,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 500 Auburn Ravine Rd Auburn CA US",
+    "ovtr:similarity": 2.580099105834961,
+    "sg:address": "500 Auburn Ravine Rd",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 823 7450",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3udp57Zh1vKr1XVaBlFoPU_38.909561_-121.074384@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 823 7450",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320e5a132540311da38f3fa41df",
+      "sg:id": "SG_3udp57Zh1vKr1XVaBlFoPU_38.909561_-121.074384@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f4f3e0e24d6114fd0d0a17c6936c93cf",
-    "wof:hierarchy":[],
-    "wof:id":571935515,
-    "wof:lastmodified":1511321769,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":420551843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "f4f3e0e24d6114fd0d0a17c6936c93cf",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571935515
+      }
+    ],
+    "wof:id": 571935515,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 420551843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.074384,
     38.909561,
     -121.074384,
     38.909561
-],
-  "geometry": {"coordinates":[-121.07438399999999,38.909561],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.074384,38.909561],"type":"Point"}
 }

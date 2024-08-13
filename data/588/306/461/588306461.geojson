@@ -2,91 +2,95 @@
   "id": 588306461,
   "type": "Feature",
   "properties": {
-    "addr:full":"5642 Victor St Bakersfield CA 93308",
-    "addr:housenumber":"5642",
-    "addr:postcode":"93308",
-    "addr:street":"Victor St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.062156,35.411448,-119.062156,35.411448",
-    "geom:latitude":35.411448,
-    "geom:longitude":-119.062156,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5642 Victor St",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "5642 Victor St Bakersfield CA 93308",
+    "addr:housenumber": "5642",
+    "addr:postcode": "93308",
+    "addr:street": "Victor St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.062156,35.411448,-119.062156,35.411448",
+    "geom:latitude": 35.411448,
+    "geom:longitude": -119.062156,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Kern County Fire Department, 5642 Victor St Bakersfield CA US",
+    "ovtr:similarity": 2.2506699562072754,
+    "sg:address": "5642 Victor St",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 391 7000",
-    "sg:postcode":"93308",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department",
-        "township",
-        "protection",
-        "government-city",
-        "village"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 391 7000",
+    "sg:postcode": "93308",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department",
+      "township",
+      "protection",
+      "government-city",
+      "village"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876059,
-        85633793,
-        85923307,
-        102081727,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876059,
+      85633793,
+      85923307,
+      102081727,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uhMMobdiaN9sbo030jpbM_35.411448_-119.062156@1303263295"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb09973699038b00fdadbb8ac2",
+      "sg:id": "SG_1uhMMobdiaN9sbo030jpbM_35.411448_-119.062156@1303263295"
     },
-    "wof:country":"US",
-    "wof:geomhash":"eaae1772bb094f2f836f0913865b94e4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":588306461
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "eaae1772bb094f2f836f0913865b94e4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 588306461
+      }
     ],
-    "wof:id":588306461,
-    "wof:lastmodified":1509201979,
-    "wof:name":"Kern County Fire Dept",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department",
-        "township",
-        "protection",
-        "government-city",
-        "village"
+    "wof:id": 588306461,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "Kern County Fire Dept",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department",
+      "township",
+      "protection",
+      "government-city",
+      "village"
     ]
-},
+  },
   "bbox": [
     -119.062156,
     35.411448,
     -119.062156,
     35.411448
-],
+  ],
   "geometry": {"coordinates":[-119.062156,35.411448],"type":"Point"}
 }

@@ -2,90 +2,94 @@
   "id": 588646373,
   "type": "Feature",
   "properties": {
-    "addr:full":"2613 2nd St Suite A Davis CA 95618",
-    "addr:housenumber":"2613",
-    "addr:postcode":"95618",
-    "addr:street":"2Nd St Suite A",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.71774,38.548481,-121.71774,38.548481",
-    "geom:latitude":38.548481,
-    "geom:longitude":-121.71774,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2613 2nd St Suite A",
-    "sg:city":"Davis",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2613 2nd St Suite A Davis CA 95618",
+    "addr:housenumber": "2613",
+    "addr:postcode": "95618",
+    "addr:street": "2Nd St Suite A",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.717740,38.548481,-121.717740,38.548481",
+    "geom:latitude": 38.548481,
+    "geom:longitude": -121.71774,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hoffmann Automotive, 2613 2nd St Davis CA US",
+    "ovtr:similarity": 3.268562078475952,
+    "sg:address": "2613 2nd St Suite A",
+    "sg:city": "Davis",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 753 7202",
-    "sg:postcode":"95618",
-    "sg:province":"CA",
-    "sg:tags":[
-        "exhaust",
-        "muffler",
-        "system"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 753 7202",
+    "sg:postcode": "95618",
+    "sg:province": "CA",
+    "sg:tags": [
+      "exhaust",
+      "muffler",
+      "system"
     ],
-    "sg:website":"http://www.hoffmannautomotive.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922419,
-        102082309,
-        420553169
+    "sg:website": "http://www.hoffmannautomotive.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922419,
+      102082309,
+      420553169
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1HjoJiYYqTb0YDp60bsULp_38.548481_-121.717740@1303263382"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b6475a0f103b3b880a952beb3",
+      "sg:id": "SG_1HjoJiYYqTb0YDp60bsULp_38.548481_-121.717740@1303263382"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fdfc5c62e5ad8962d9f4c35c11d86643",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922419,
-            "neighbourhood_id":420553169,
-            "region_id":85688637,
-            "venue_id":588646373
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "fdfc5c62e5ad8962d9f4c35c11d86643",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922419,
+        "neighbourhood_id": 420553169,
+        "region_id": 85688637,
+        "venue_id": 588646373
+      }
     ],
-    "wof:id":588646373,
-    "wof:lastmodified":1509202190,
-    "wof:name":"Hoffmann Automotive",
-    "wof:parent_id":420553169,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "exhaust",
-        "muffler",
-        "system"
+    "wof:id": 588646373,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "Hoffmann Automotive",
+    "wof:parent_id": 420553169,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "exhaust",
+      "muffler",
+      "system"
     ]
-},
+  },
   "bbox": [
     -121.71774,
     38.548481,
     -121.71774,
     38.548481
-],
-  "geometry": {"coordinates":[-121.71774000000001,38.548481],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.71774,38.548481],"type":"Point"}
 }

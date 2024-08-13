@@ -2,78 +2,82 @@
   "id": 555193681,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 Egbert Ave San Francisco CA 94124",
-    "addr:housenumber":"1401",
-    "addr:postcode":"94124",
-    "addr:street":"Egbert Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.394926,37.723973,-122.394926,37.723973",
-    "geom:latitude":37.723973,
-    "geom:longitude":-122.394926,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1401 Egbert Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1401 Egbert Ave San Francisco CA 94124",
+    "addr:housenumber": "1401",
+    "addr:postcode": "94124",
+    "addr:street": "Egbert Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.394926,37.723973,-122.394926,37.723973",
+    "geom:latitude": 37.723973,
+    "geom:longitude": -122.394926,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Marthita's, 1401 Egbert Ave San Francisco CA US",
+    "ovtr:similarity": 3.7854650020599365,
+    "sg:address": "1401 Egbert Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 822 1393",
-    "sg:postcode":"94124",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831973,
-        85865995,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 822 1393",
+    "sg:postcode": "94124",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831973,
+      85865995,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0459588-01-001",
-        "sg:id":"SG_0kaIfqvjJlOrVK9beKCcWB_37.723973_-122.394926@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308250e9a9b034fd050fa3f71f5",
+      "sfgov_rbl:id": "0459588-01-001",
+      "sg:id": "SG_0kaIfqvjJlOrVK9beKCcWB_37.723973_-122.394926@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d2f6a3e6637479834bc1184351c363c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831973,
-            "neighbourhood_id":85865995,
-            "region_id":85688637,
-            "venue_id":555193681
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "d2f6a3e6637479834bc1184351c363c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831973,
+        "neighbourhood_id": 85865995,
+        "region_id": 85688637,
+        "venue_id": 555193681
+      }
     ],
-    "wof:id":555193681,
-    "wof:lastmodified":1509201309,
-    "wof:name":"Marthita's Restaurant",
-    "wof:parent_id":1108831973,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555193681,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Marthita's Restaurant",
+    "wof:parent_id": 1108831973,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.394926,
     37.723973,
     -122.394926,
     37.723973
-],
+  ],
   "geometry": {"coordinates":[-122.394926,37.723973],"type":"Point"}
 }

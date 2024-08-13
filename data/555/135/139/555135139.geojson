@@ -2,80 +2,84 @@
   "id": 555135139,
   "type": "Feature",
   "properties": {
-    "addr:full":"1830 24th St Bakersfield CA 93301",
-    "addr:housenumber":"1830",
-    "addr:postcode":"93301",
-    "addr:street":"24Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.023202,35.381092,-119.023202,35.381092",
-    "geom:latitude":35.381092,
-    "geom:longitude":-119.023202,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1830 24th St",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1830 24th St Bakersfield CA 93301",
+    "addr:housenumber": "1830",
+    "addr:postcode": "93301",
+    "addr:street": "24Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.023202,35.381092,-119.023202,35.381092",
+    "geom:latitude": 35.381092,
+    "geom:longitude": -119.023202,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Filling Station, 1830 24th St Bakersfield CA US",
+    "ovtr:similarity": 3.721496105194092,
+    "sg:address": "1830 24th St",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 323 5120",
-    "sg:postcode":"93301",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 323 5120",
+    "sg:postcode": "93301",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85876059,
-        85633793,
-        85923307,
-        102081727,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85876059,
+      85633793,
+      85923307,
+      102081727,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7ZQpjBUkksUCvv7Bb6zvXP_35.381092_-119.023202@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb0cc0531d0386c7ab9f1104c8",
+      "sg:id": "SG_7ZQpjBUkksUCvv7Bb6zvXP_35.381092_-119.023202@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3861f30dbae5398bc72066496d8b337b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":555135139
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "3861f30dbae5398bc72066496d8b337b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 555135139
+      }
     ],
-    "wof:id":555135139,
-    "wof:lastmodified":1509201288,
-    "wof:name":"Filling Station",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 555135139,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Filling Station",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -119.023202,
     35.381092,
     -119.023202,
     35.381092
-],
+  ],
   "geometry": {"coordinates":[-119.023202,35.381092],"type":"Point"}
 }

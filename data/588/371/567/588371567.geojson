@@ -2,78 +2,82 @@
   "id": 588371567,
   "type": "Feature",
   "properties": {
-    "addr:full":"555 9th St San Francisco CA 94103",
-    "addr:housenumber":"555",
-    "addr:postcode":"94103",
-    "addr:street":"9Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.407722,37.770639,-122.407722,37.770639",
-    "geom:latitude":37.770639,
-    "geom:longitude":-122.407722,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"555 9th St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "555 9th St San Francisco CA 94103",
+    "addr:housenumber": "555",
+    "addr:postcode": "94103",
+    "addr:street": "9Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.407722,37.770639,-122.407722,37.770639",
+    "geom:latitude": 37.770639,
+    "geom:longitude": -122.407722,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Trader Joe's, 555 9th St San Francisco CA US",
+    "ovtr:similarity": 3.2208149433135986,
+    "sg:address": "555 9th St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 863 1292",
-    "sg:postcode":"94103",
-    "sg:province":"CA",
-    "sg:website":"www.traderjoes.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1108831803
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 863 1292",
+    "sg:postcode": "94103",
+    "sg:province": "CA",
+    "sg:website": "www.traderjoes.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1108831803
     ],
-    "wof:brand_id":1125150639,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":1213823254,
-        "sg:id":"SG_3AJLBJCUNvyJoxBcg8taub_37.770639_-122.407722@1303263312"
+    "wof:brand_id": 1125150639,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 1213823254,
+      "ovtr:id": "08f2830828c99354034a63177d34d2c5",
+      "sg:id": "SG_3AJLBJCUNvyJoxBcg8taub_37.770639_-122.407722@1303263312"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a91c1faf7640c8075e4770ec080f5f07",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":1108831803,
-            "region_id":85688637,
-            "venue_id":588371567
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "a91c1faf7640c8075e4770ec080f5f07",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 1108831803,
+        "region_id": 85688637,
+        "venue_id": 588371567
+      }
     ],
-    "wof:id":588371567,
-    "wof:lastmodified":1510941959,
-    "wof:name":"Trader Joe's",
-    "wof:parent_id":1108831803,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588371567,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Trader Joe's",
+    "wof:parent_id": 1108831803,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.407722,
     37.770639,
     -122.407722,
     37.770639
-],
-  "geometry": {"coordinates":[-122.40772200000001,37.770639],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.407722,37.770639],"type":"Point"}
 }

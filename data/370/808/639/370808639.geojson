@@ -2,76 +2,80 @@
   "id": 370808639,
   "type": "Feature",
   "properties": {
-    "addr:full":"2050 Cotner Ave Los Angeles CA 90025",
-    "addr:housenumber":"2050",
-    "addr:postcode":"90025",
-    "addr:street":"Cotner Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.440445,34.04106,-118.440445,34.04106",
-    "geom:latitude":34.04106,
-    "geom:longitude":-118.440445,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2050 Cotner Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2050 Cotner Ave Los Angeles CA 90025",
+    "addr:housenumber": "2050",
+    "addr:postcode": "90025",
+    "addr:street": "Cotner Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.440445,34.041060,-118.440445,34.041060",
+    "geom:latitude": 34.04106,
+    "geom:longitude": -118.440445,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Westside Transmission \u0026 Automotive Inc., 2050 Cotner Ave Los Angeles CA US",
+    "ovtr:similarity": 1.86285400390625,
+    "sg:address": "2050 Cotner Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 473 2235",
-    "sg:postcode":"90025",
-    "sg:province":"CA",
-    "sg:website":"www.westsidetransmission.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85826077
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 473 2235",
+    "sg:postcode": "90025",
+    "sg:province": "CA",
+    "sg:website": "www.westsidetransmission.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85826077
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000060919-0001-5",
-        "sg:id":"SG_5kPVSiQS3PQi7XE1GT3BZ1_34.041060_-118.440445@1303263155"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000060919-0001-5",
+      "ovtr:id": "08f29a19833b0cb4039cc3bd29c226ae",
+      "sg:id": "SG_5kPVSiQS3PQi7XE1GT3BZ1_34.041060_-118.440445@1303263155"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0586757f6a66b0601401e72e2bdb9325",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85826077,
-            "region_id":85688637,
-            "venue_id":370808639
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "0586757f6a66b0601401e72e2bdb9325",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85826077,
+        "region_id": 85688637,
+        "venue_id": 370808639
+      }
     ],
-    "wof:id":370808639,
-    "wof:lastmodified":1509200824,
-    "wof:name":"Westside Transmission & Automotive Inc",
-    "wof:parent_id":85826077,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370808639,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Westside Transmission \u0026 Automotive Inc",
+    "wof:parent_id": 85826077,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.440445,
     34.04106,
     -118.440445,
     34.04106
-],
+  ],
   "geometry": {"coordinates":[-118.440445,34.04106],"type":"Point"}
 }

@@ -2,77 +2,81 @@
   "id": 571704977,
   "type": "Feature",
   "properties": {
-    "addr:full":"4231 4th Ave Los Angeles CA 90008",
-    "addr:housenumber":"4231",
-    "addr:postcode":"90008",
-    "addr:street":"4Th Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.321461,34.006001,-118.321461,34.006001",
-    "geom:latitude":34.006001,
-    "geom:longitude":-118.321461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4231 4th Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "4231 4th Ave Los Angeles CA 90008",
+    "addr:housenumber": "4231",
+    "addr:postcode": "90008",
+    "addr:street": "4Th Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.321461,34.006001,-118.321461,34.006001",
+    "geom:latitude": 34.006001,
+    "geom:longitude": -118.321461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "42nd Street Elementary School, 4231 4th Ave Los Angeles CA US",
+    "ovtr:similarity": 2.506587028503418,
+    "sg:address": "4231 4th Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 296 7550",
-    "sg:postcode":"90008",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420780759",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 296 7550",
+    "sg:postcode": "90008",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420780759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6WNFn9qxkQewWYqTdg43Ns_34.006001_-118.321461@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56cba9471b0326550c5afcff6c",
+      "sg:id": "SG_6WNFn9qxkQewWYqTdg43Ns_34.006001_-118.321461@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2d607569f6a6c173661773ceb10356bd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420780759",
-            "region_id":85688637,
-            "venue_id":571704977
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "2d607569f6a6c173661773ceb10356bd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420780759,
+        "region_id": 85688637,
+        "venue_id": 571704977
+      }
     ],
-    "wof:id":571704977,
-    "wof:lastmodified":1509201566,
-    "wof:name":"42nd Street Elementary School",
-    "wof:parent_id":"420780759",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571704977,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "42nd Street Elementary School",
+    "wof:parent_id": "420780759",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.321461,
     34.006001,
     -118.321461,
     34.006001
-],
+  ],
   "geometry": {"coordinates":[-118.321461,34.006001],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 572159147,
   "type": "Feature",
   "properties": {
-    "addr:full":"11330 Hawthorne Blvd Inglewood CA 90304",
-    "addr:housenumber":"11330",
-    "addr:postcode":"90304",
-    "addr:street":"Hawthorne Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.352119,33.931284,-118.352119,33.931284",
-    "geom:latitude":33.931284,
-    "geom:longitude":-118.352119,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11330 Hawthorne Blvd",
-    "sg:city":"Inglewood",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "11330 Hawthorne Blvd Inglewood CA 90304",
+    "addr:housenumber": "11330",
+    "addr:postcode": "90304",
+    "addr:street": "Hawthorne Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.352119,33.931284,-118.352119,33.931284",
+    "geom:latitude": 33.931284,
+    "geom:longitude": -118.352119,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 11330 Hawthorne Blvd Inglewood CA US",
+    "ovtr:similarity": 2.9694550037384033,
+    "sg:address": "11330 Hawthorne Blvd",
+    "sg:city": "Inglewood",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/inglewood/215906-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90304",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/inglewood/215906-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90304",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923577,
-        102086957,
-        85886075
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923577,
+      102086957,
+      85886075
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3sBbIj4S2IJaheKgFaSwTy_33.931284_-118.352119@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56e9c9107603c846de9738c6c2",
+      "sg:id": "SG_3sBbIj4S2IJaheKgFaSwTy_33.931284_-118.352119@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8470591c17a2b201639596875b3361aa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923577,
-            "neighbourhood_id":85886075,
-            "region_id":85688637,
-            "venue_id":572159147
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "8470591c17a2b201639596875b3361aa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923577,
+        "neighbourhood_id": 85886075,
+        "region_id": 85688637,
+        "venue_id": 572159147
+      }
     ],
-    "wof:id":572159147,
-    "wof:lastmodified":1511321540,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85886075,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572159147,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85886075,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -118.352119,
     33.931284,
     -118.352119,
     33.931284
-],
+  ],
   "geometry": {"coordinates":[-118.352119,33.931284],"type":"Point"}
 }

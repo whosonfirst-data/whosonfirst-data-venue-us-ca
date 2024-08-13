@@ -2,74 +2,78 @@
   "id": 404187743,
   "type": "Feature",
   "properties": {
-    "addr:full":"74601 Hwy 111 Palm Desert CA 92260",
-    "addr:housenumber":"74601",
-    "addr:postcode":"ca 92260",
-    "addr:street":"Hwy 111",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.361368,33.721363,-116.361368,33.721363",
-    "geom:latitude":33.721363,
-    "geom:longitude":-116.361368,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"74601 Hwy 111",
-    "sg:city":"Palm Desert",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "74601 Hwy 111 Palm Desert CA 92260",
+    "addr:housenumber": "74601",
+    "addr:postcode": "ca 92260",
+    "addr:street": "Hwy 111",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.361368,33.721363,-116.361368,33.721363",
+    "geom:latitude": 33.721363,
+    "geom:longitude": -116.361368,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "John's Restaurant, 74601 Highway 111 Palm Desert CA US",
+    "ovtr:similarity": 3.1023659706115723,
+    "sg:address": "74601 Hwy 111",
+    "sg:city": "Palm Desert",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 346 3352",
-    "sg:postcode":"92260",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923363,
-        102086221,
-        85869039
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 346 3352",
+    "sg:postcode": "92260",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923363,
+      102086221,
+      85869039
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1o5PXn93AL3mAF1OxSp1Jb_33.721363_-116.361368@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a62316c2291035004802d530ef9",
+      "sg:id": "SG_1o5PXn93AL3mAF1OxSp1Jb_33.721363_-116.361368@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f23f3686467605faa869ddc25f196cc3",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923363,
-            "neighbourhood_id":85869039,
-            "region_id":85688637,
-            "venue_id":404187743
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "f23f3686467605faa869ddc25f196cc3",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923363,
+        "neighbourhood_id": 85869039,
+        "region_id": 85688637,
+        "venue_id": 404187743
+      }
     ],
-    "wof:id":404187743,
-    "wof:lastmodified":1509201220,
-    "wof:name":"John's Restaurant",
-    "wof:parent_id":85869039,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404187743,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "John's Restaurant",
+    "wof:parent_id": 85869039,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.361368,
     33.721363,
     -116.361368,
     33.721363
-],
+  ],
   "geometry": {"coordinates":[-116.361368,33.721363],"type":"Point"}
 }

@@ -2,90 +2,94 @@
   "id": 353609375,
   "type": "Feature",
   "properties": {
-    "addr:full":"5411 E Ocean Blvd Long Beach CA 90803",
-    "addr:housenumber":"5411",
-    "addr:postcode":"90803",
-    "addr:street":"E Ocean Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.131251,33.75299,-118.131251,33.75299",
-    "geom:latitude":33.75299,
-    "geom:longitude":-118.131251,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5411 E Ocean Blvd",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Recreation",
-            "subcategory":"Amusement Park",
-            "type":"Entertainment"
-        }
+    "addr:full": "5411 E Ocean Blvd Long Beach CA 90803",
+    "addr:housenumber": "5411",
+    "addr:postcode": "90803",
+    "addr:street": "E Ocean Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.131251,33.752990,-118.131251,33.752990",
+    "geom:latitude": 33.75299,
+    "geom:longitude": -118.131251,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bayshore Playground, 5415 E Ocean Blvd Long Beach CA US",
+    "ovtr:similarity": 2.345216989517212,
+    "sg:address": "5411 E Ocean Blvd",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Recreation",
+        "subcategory": "Amusement Park",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 570 1715",
-    "sg:postcode":"90803",
-    "sg:province":"CA",
-    "sg:tags":[
-        "executive",
-        "park"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 570 1715",
+    "sg:postcode": "90803",
+    "sg:province": "CA",
+    "sg:tags": [
+      "executive",
+      "park"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85836293,
-        85805639
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85836293,
+      85805639
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0S9S9AqFTM6l25BmDpRkxL_33.752990_-118.131251@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a578ab4471a0345f5996a4c68e1",
+      "sg:id": "SG_0S9S9AqFTM6l25BmDpRkxL_33.752990_-118.131251@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f9ccb5b673bcf4a1290c9d8801d0c045",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85836293,
-            "region_id":85688637,
-            "venue_id":353609375
-        },
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":353609375
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "f9ccb5b673bcf4a1290c9d8801d0c045",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85836293,
+        "region_id": 85688637,
+        "venue_id": 353609375
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "neighbourhood_id": 85805639,
+        "region_id": 85688637,
+        "venue_id": 353609375
+      }
     ],
-    "wof:id":353609375,
-    "wof:lastmodified":1509200571,
-    "wof:name":"Bayshore Playground",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "executive",
-        "park"
+    "wof:id": 353609375,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Bayshore Playground",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "executive",
+      "park"
     ]
-},
+  },
   "bbox": [
     -118.131251,
     33.75299,
     -118.131251,
     33.75299
-],
-  "geometry": {"coordinates":[-118.13125100000001,33.75299],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.131251,33.75299],"type":"Point"}
 }

@@ -2,89 +2,93 @@
   "id": 572323805,
   "type": "Feature",
   "properties": {
-    "addr:full":"2704 Loker Ave W Carlsbad CA 92010",
-    "addr:housenumber":"2704",
-    "addr:postcode":"92010",
-    "addr:street":"Loker Ave W",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.259635,33.131172,-117.259635,33.131172",
-    "geom:latitude":33.131172,
-    "geom:longitude":-117.259635,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2704 Loker Ave W",
-    "sg:city":"Carlsbad",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        },
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Financial Services",
-            "type":"Services"
-        }
+    "addr:full": "2704 Loker Ave W Carlsbad CA 92010",
+    "addr:housenumber": "2704",
+    "addr:postcode": "92010",
+    "addr:street": "Loker Ave W",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.259635,33.131172,-117.259635,33.131172",
+    "geom:latitude": 33.131172,
+    "geom:longitude": -117.259635,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank of America, 2704 Loker Ave W Carlsbad CA US",
+    "ovtr:similarity": 2.5994880199432373,
+    "sg:address": "2704 Loker Ave W",
+    "sg:city": "Carlsbad",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      },
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 930 9650",
-    "sg:postcode":"92010",
-    "sg:province":"CA",
-    "sg:tags":[
-        "broker",
-        "mortgage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 930 9650",
+    "sg:postcode": "92010",
+    "sg:province": "CA",
+    "sg:tags": [
+      "broker",
+      "mortgage"
     ],
-    "sg:website":"www.bankofamerica.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922291,
-        102083569,
-        85885763
+    "sg:website": "www.bankofamerica.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922291,
+      102083569,
+      85885763
     ],
-    "wof:brand_id":420573893,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33tFxDJ8qMB3wR837DLPzC_33.131172_-117.259635@1303263231"
+    "wof:brand_id": 420573893,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4745d648c803637f38eb057280",
+      "sg:id": "SG_33tFxDJ8qMB3wR837DLPzC_33.131172_-117.259635@1303263231"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cd9ac0ade118f1926d13c719af1cb656",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922291,
-            "neighbourhood_id":85885763,
-            "region_id":85688637,
-            "venue_id":572323805
-        }
+    "wof:country": "US",
+    "wof:created": 1723561674,
+    "wof:geomhash": "cd9ac0ade118f1926d13c719af1cb656",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922291,
+        "neighbourhood_id": 85885763,
+        "region_id": 85688637,
+        "venue_id": 572323805
+      }
     ],
-    "wof:id":572323805,
-    "wof:lastmodified":1511321319,
-    "wof:name":"Bank of America",
-    "wof:parent_id":85885763,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broker",
-        "mortgage"
+    "wof:id": 572323805,
+    "wof:lastmodified": 1723561674,
+    "wof:name": "Bank of America",
+    "wof:parent_id": 85885763,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broker",
+      "mortgage"
     ]
-},
+  },
   "bbox": [
     -117.259635,
     33.131172,
     -117.259635,
     33.131172
-],
+  ],
   "geometry": {"coordinates":[-117.259635,33.131172],"type":"Point"}
 }

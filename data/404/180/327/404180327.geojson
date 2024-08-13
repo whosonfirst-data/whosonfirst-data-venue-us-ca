@@ -2,73 +2,77 @@
   "id": 404180327,
   "type": "Feature",
   "properties": {
-    "addr:full":"6797 Dublin Blvd Dublin CA 94568",
-    "addr:housenumber":"6797",
-    "addr:postcode":"94568",
-    "addr:street":"Dublin Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.912052,37.703812,-121.912052,37.703812",
-    "geom:latitude":37.703812,
-    "geom:longitude":-121.912052,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6797 Dublin Blvd",
-    "sg:city":"Dublin",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "6797 Dublin Blvd Dublin CA 94568",
+    "addr:housenumber": "6797",
+    "addr:postcode": "94568",
+    "addr:street": "Dublin Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.912052,37.703812,-121.912052,37.703812",
+    "geom:latitude": 37.703812,
+    "geom:longitude": -121.912052,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Harvey's Cleaners \u0026 Laundry, 6797 Dublin Blvd Dublin CA US",
+    "ovtr:similarity": 2.8879270553588867,
+    "sg:address": "6797 Dublin Blvd",
+    "sg:city": "Dublin",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 828 7214",
-    "sg:postcode":"94568",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921909,
-        102086959
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 828 7214",
+    "sg:postcode": "94568",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921909,
+      102086959
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_32suQIdaymj4rYjAOaxhVx_37.703812_-121.912052@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28346d3785d73033f8ee245d48d2c",
+      "sg:id": "SG_32suQIdaymj4rYjAOaxhVx_37.703812_-121.912052@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2ae6646ef80f1edeb066d40e982e78c9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921909,
-            "region_id":85688637,
-            "venue_id":404180327
-        }
+    "wof:country": "US",
+    "wof:created": 1723561679,
+    "wof:geomhash": "2ae6646ef80f1edeb066d40e982e78c9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921909,
+        "region_id": 85688637,
+        "venue_id": 404180327
+      }
     ],
-    "wof:id":404180327,
-    "wof:lastmodified":1509201218,
-    "wof:name":"Harvey's Cleaners & Laundry",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404180327,
+    "wof:lastmodified": 1723561679,
+    "wof:name": "Harvey's Cleaners \u0026 Laundry",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.912052,
     37.703812,
     -121.912052,
     37.703812
-],
+  ],
   "geometry": {"coordinates":[-121.912052,37.703812],"type":"Point"}
 }

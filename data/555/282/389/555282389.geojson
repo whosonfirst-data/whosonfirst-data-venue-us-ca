@@ -2,65 +2,73 @@
   "id": 555282389,
   "type": "Feature",
   "properties": {
-    "addr:full":"500 6th St Redlands CA 92374",
-    "addr:housenumber":"500",
-    "addr:postcode":"92374",
-    "addr:street":"6Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.180359,34.060663,-117.180359,34.060663",
-    "geom:latitude":34.060663,
-    "geom:longitude":-117.180359,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"500 6th St",
-    "sg:city":"Redlands",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Shoe Repair & Shine",
-            "type":"Services"
-        }
+    "addr:full": "500 6th St Redlands CA 92374",
+    "addr:housenumber": "500",
+    "addr:postcode": "92374",
+    "addr:street": "6Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.180359,34.060663,-117.180359,34.060663",
+    "geom:latitude": 34.060663,
+    "geom:longitude": -117.180359,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "College Shoe Repair, 500 6th St Redlands CA US",
+    "ovtr:similarity": 2.237981081008911,
+    "sg:address": "500 6th St",
+    "sg:city": "Redlands",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Shoe Repair \u0026 Shine",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 793 3629",
-    "sg:postcode":"92374",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "boot"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 793 3629",
+    "sg:postcode": "92374",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "boot"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4gssDLE9LzWPgsLeiwPk77_34.060663_-117.180359@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00a921e54203fdac8acc0498f7",
+      "sg:id": "SG_4gssDLE9LzWPgsLeiwPk77_34.060663_-117.180359@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7c5d270a31f08e617b827156c21004bc",
-    "wof:hierarchy":[],
-    "wof:id":555282389,
-    "wof:lastmodified":1509201339,
-    "wof:name":"College Shoe Repair",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "boot"
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "7c5d270a31f08e617b827156c21004bc",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555282389
+      }
+    ],
+    "wof:id": 555282389,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "College Shoe Repair",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "boot"
     ]
-},
+  },
   "bbox": [
     -117.180359,
     34.060663,
     -117.180359,
     34.060663
-],
+  ],
   "geometry": {"coordinates":[-117.180359,34.060663],"type":"Point"}
 }

@@ -2,58 +2,66 @@
   "id": 571806767,
   "type": "Feature",
   "properties": {
-    "addr:full":"632 Cottonwood St Woodland CA 95695",
-    "addr:housenumber":"632",
-    "addr:postcode":"95695",
-    "addr:street":"Cottonwood St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.793456,38.672671,-121.793456,38.672671",
-    "geom:latitude":38.672671,
-    "geom:longitude":-121.793456,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"632 Cottonwood St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "632 Cottonwood St Woodland CA 95695",
+    "addr:housenumber": "632",
+    "addr:postcode": "95695",
+    "addr:street": "Cottonwood St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.793456,38.672671,-121.793456,38.672671",
+    "geom:latitude": 38.672671,
+    "geom:longitude": -121.793456,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bob's Food \u0026 Liquor, 632 Cottonwood St Woodland CA US",
+    "ovtr:similarity": 2.3417410850524902,
+    "sg:address": "632 Cottonwood St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 666 4705",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Odvli5CvawY6IP2iUuNES_38.672671_-121.793456@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 666 4705",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830694c20c3103e03e53714af218",
+      "sg:id": "SG_6Odvli5CvawY6IP2iUuNES_38.672671_-121.793456@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ef95bd57e5425d47b9dbf99d97cb6126",
-    "wof:hierarchy":[],
-    "wof:id":571806767,
-    "wof:lastmodified":1509201598,
-    "wof:name":"Bob's Food & Liquor",
-    "wof:parent_id":420553211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "ef95bd57e5425d47b9dbf99d97cb6126",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571806767
+      }
+    ],
+    "wof:id": 571806767,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Bob's Food \u0026 Liquor",
+    "wof:parent_id": 420553211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.793456,
     38.672671,
     -121.793456,
     38.672671
-],
-  "geometry": {"coordinates":[-121.79345600000001,38.672671],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.793456,38.672671],"type":"Point"}
 }

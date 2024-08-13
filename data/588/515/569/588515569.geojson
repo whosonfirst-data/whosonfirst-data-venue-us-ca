@@ -2,90 +2,94 @@
   "id": 588515569,
   "type": "Feature",
   "properties": {
-    "addr:full":"1420 University Ave Berkeley CA 94702",
-    "addr:housenumber":"1420",
-    "addr:postcode":"94702",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.283678,37.870059,-122.283678,37.870059",
-    "geom:latitude":37.870059,
-    "geom:longitude":-122.283678,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1420 University Ave",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1420 University Ave Berkeley CA 94702",
+    "addr:housenumber": "1420",
+    "addr:postcode": "94702",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.283678,37.870059,-122.283678,37.870059",
+    "geom:latitude": 37.870059,
+    "geom:longitude": -122.283678,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lee's Florist \u0026 Nursery, 1420 University Ave Berkeley CA US",
+    "ovtr:similarity": 2.0912721157073975,
+    "sg:address": "1420 University Ave",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 843 0502",
-    "sg:postcode":"94702",
-    "sg:province":"CA",
-    "sg:tags":[
-        "plant",
-        "nursery",
-        "gardening"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 843 0502",
+    "sg:postcode": "94702",
+    "sg:province": "CA",
+    "sg:tags": [
+      "plant",
+      "nursery",
+      "gardening"
     ],
-    "sg:website":"www.leesfloristandnursery.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921915,
-        102086959,
-        85876225
+    "sg:website": "www.leesfloristandnursery.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921915,
+      102086959,
+      85876225
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7cg7eAA8PGQOEjGEHVbrUv_37.870059_-122.283678@1303263348"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308a9b8546d033b240a2b57f895",
+      "sg:id": "SG_7cg7eAA8PGQOEjGEHVbrUv_37.870059_-122.283678@1303263348"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9bc79ec9679f48154981ca1ab27d0b46",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921915,
-            "neighbourhood_id":85876225,
-            "region_id":85688637,
-            "venue_id":588515569
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "9bc79ec9679f48154981ca1ab27d0b46",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921915,
+        "neighbourhood_id": 85876225,
+        "region_id": 85688637,
+        "venue_id": 588515569
+      }
     ],
-    "wof:id":588515569,
-    "wof:lastmodified":1509202110,
-    "wof:name":"Lee's Florist & Nursery",
-    "wof:parent_id":85876225,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "plant",
-        "nursery",
-        "gardening"
+    "wof:id": 588515569,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Lee's Florist \u0026 Nursery",
+    "wof:parent_id": 85876225,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "plant",
+      "nursery",
+      "gardening"
     ]
-},
+  },
   "bbox": [
     -122.283678,
     37.870059,
     -122.283678,
     37.870059
-],
-  "geometry": {"coordinates":[-122.28367799999999,37.870059],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.283678,37.870059],"type":"Point"}
 }

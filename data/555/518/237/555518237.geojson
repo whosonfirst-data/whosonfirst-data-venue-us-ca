@@ -2,82 +2,86 @@
   "id": 555518237,
   "type": "Feature",
   "properties": {
-    "addr:full":"406 S Main St Santa Ana CA 92701",
-    "addr:housenumber":"406",
-    "addr:postcode":"92701",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.867755,33.741633,-117.867755,33.741633",
-    "geom:latitude":33.741633,
-    "geom:longitude":-117.867755,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"406 S Main St",
-    "sg:city":"Santa Ana",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "406 S Main St Santa Ana CA 92701",
+    "addr:housenumber": "406",
+    "addr:postcode": "92701",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.867755,33.741633,-117.867755,33.741633",
+    "geom:latitude": 33.741633,
+    "geom:longitude": -117.867755,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Clinica Choc Para Niños, 406 S Main St Santa Ana CA US",
+    "ovtr:similarity": 2.1255569458007812,
+    "sg:address": "406 S Main St",
+    "sg:city": "Santa Ana",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 289 4800",
-    "sg:postcode":"92701",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 289 4800",
+    "sg:postcode": "92701",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923049,
-        102080847,
-        85872943
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923049,
+      102080847,
+      85872943
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1HASScAWZLzzU7nJkM532p_33.741633_-117.867755@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b7054616d0374230536db51b5",
+      "sg:id": "SG_1HASScAWZLzzU7nJkM532p_33.741633_-117.867755@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"73a674bebcddf154b0582b8feb0e4432",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923049,
-            "neighbourhood_id":85872943,
-            "region_id":85688637,
-            "venue_id":555518237
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "73a674bebcddf154b0582b8feb0e4432",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923049,
+        "neighbourhood_id": 85872943,
+        "region_id": 85688637,
+        "venue_id": 555518237
+      }
     ],
-    "wof:id":555518237,
-    "wof:lastmodified":1509201418,
-    "wof:name":"Clinica Choc Para Ninos",
-    "wof:parent_id":85872943,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 555518237,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Clinica Choc Para Ninos",
+    "wof:parent_id": 85872943,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -117.867755,
     33.741633,
     -117.867755,
     33.741633
-],
+  ],
   "geometry": {"coordinates":[-117.867755,33.741633],"type":"Point"}
 }

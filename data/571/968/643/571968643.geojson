@@ -2,86 +2,90 @@
   "id": 571968643,
   "type": "Feature",
   "properties": {
-    "addr:full":"720 Grant Ave San Francisco CA 94108",
-    "addr:housenumber":"720",
-    "addr:postcode":"94108",
-    "addr:street":"Grant Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.406218,37.793787,-122.406218,37.793787",
-    "geom:latitude":37.793787,
-    "geom:longitude":-122.406218,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"720 Grant Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "720 Grant Ave San Francisco CA 94108",
+    "addr:housenumber": "720",
+    "addr:postcode": "94108",
+    "addr:street": "Grant Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.406218,37.793787,-122.406218,37.793787",
+    "geom:latitude": 37.793787,
+    "geom:longitude": -122.406218,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Eastern Bakery, 720 Grant Ave San Francisco CA US",
+    "ovtr:similarity": 2.358586072921753,
+    "sg:address": "720 Grant Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 433 7973",
-    "sg:postcode":"94108",
-    "sg:province":"CA",
-    "sg:tags":[
-        "baker",
-        "chinese"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 433 7973",
+    "sg:postcode": "94108",
+    "sg:province": "CA",
+    "sg:tags": [
+      "baker",
+      "chinese"
     ],
-    "sg:website":"easternbakery.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85810881,
-        102191575,
-        1108830801,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:website": "easternbakery.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85810881,
+      102191575,
+      1108830801,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0008321-02-001",
-        "sg:id":"SG_02ntlj8RPM2JcqjjxSTdvy_37.793467_-122.406086@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082a241b060317ed324b81656b",
+      "sfgov_rbl:id": "0008321-02-001",
+      "sg:id": "SG_02ntlj8RPM2JcqjjxSTdvy_37.793467_-122.406086@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"551c396ed1ca1b6adbd9418f00cb2f1c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830801,
-            "neighbourhood_id":85810881,
-            "region_id":85688637,
-            "venue_id":571968643
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "551c396ed1ca1b6adbd9418f00cb2f1c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830801,
+        "neighbourhood_id": 85810881,
+        "region_id": 85688637,
+        "venue_id": 571968643
+      }
     ],
-    "wof:id":571968643,
-    "wof:lastmodified":1509201650,
-    "wof:name":"Eastern Bakery",
-    "wof:parent_id":85810881,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "baker",
-        "chinese"
+    "wof:id": 571968643,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Eastern Bakery",
+    "wof:parent_id": 85810881,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "baker",
+      "chinese"
     ]
-},
+  },
   "bbox": [
     -122.406218,
     37.793787,
     -122.406218,
     37.793787
-],
+  ],
   "geometry": {"coordinates":[-122.406218,37.793787],"type":"Point"}
 }

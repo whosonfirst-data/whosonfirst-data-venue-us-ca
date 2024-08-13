@@ -2,80 +2,84 @@
   "id": 219237355,
   "type": "Feature",
   "properties": {
-    "addr:full":"61770 Commercial St Joshua Tree CA 92252",
-    "addr:housenumber":"61770",
-    "addr:postcode":"92252",
-    "addr:street":"Commercial St Joshua",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.315592,34.135841,-116.315592,34.135841",
-    "geom:latitude":34.135841,
-    "geom:longitude":-116.315592,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"61770 Commercial St",
-    "sg:city":"Joshua Tree",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "61770 Commercial St Joshua Tree CA 92252",
+    "addr:housenumber": "61770",
+    "addr:postcode": "92252",
+    "addr:street": "Commercial St Joshua",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.315592,34.135841,-116.315592,34.135841",
+    "geom:latitude": 34.135841,
+    "geom:longitude": -116.315592,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "J T Automotive, 61770 Commercial St Joshua Tree CA US",
+    "ovtr:similarity": 1.9925110340118408,
+    "sg:address": "61770 Commercial St",
+    "sg:city": "Joshua Tree",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 366 1324",
-    "sg:postcode":"92252",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 366 1324",
+    "sg:postcode": "92252",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928671,
-        102085395
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928671,
+      102085395
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3g5v100VyUKzBUoxznK30d_34.135841_-116.315592@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a282d6261310396a29e51de68c0",
+      "sg:id": "SG_3g5v100VyUKzBUoxznK30d_34.135841_-116.315592@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b8365f22f73399287390aa546d7f9b4e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85928671,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":219237355
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "b8365f22f73399287390aa546d7f9b4e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85928671,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 219237355
+      }
     ],
-    "wof:id":219237355,
-    "wof:lastmodified":1509199946,
-    "wof:name":"J T Automotive",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 219237355,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "J T Automotive",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -116.315592,
     34.135841,
     -116.315592,
     34.135841
-],
+  ],
   "geometry": {"coordinates":[-116.315592,34.135841],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 572081821,
   "type": "Feature",
   "properties": {
-    "addr:full":"28118 Dorothy Dr Agoura Hills CA 91301",
-    "addr:housenumber":"28118",
-    "addr:postcode":"91301",
-    "addr:street":"Dorothy Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.738998,34.1423,-118.738998,34.1423",
-    "geom:latitude":34.1423,
-    "geom:longitude":-118.738998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"28118 Dorothy Dr",
-    "sg:city":"Agoura Hills",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "28118 Dorothy Dr Agoura Hills CA 91301",
+    "addr:housenumber": "28118",
+    "addr:postcode": "91301",
+    "addr:street": "Dorothy Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.738998,34.142300,-118.738998,34.142300",
+    "geom:latitude": 34.1423,
+    "geom:longitude": -118.738998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Service Station, 28118 Dorothy Dr Agoura Hills CA US",
+    "ovtr:similarity": 2.3065121173858643,
+    "sg:address": "28118 Dorothy Dr",
+    "sg:city": "Agoura Hills",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 706 3221",
-    "sg:postcode":"91301",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 706 3221",
+    "sg:postcode": "91301",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85832015,
-        85633793,
-        85923753,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85832015,
+      85633793,
+      85923753,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4QObkFdqahaEvhrp1PlWMC_34.142359_-118.738621@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1873aaa0a0036f8ca3a03d0fbb",
+      "sg:id": "SG_4QObkFdqahaEvhrp1PlWMC_34.142359_-118.738621@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"50f51cc163007e2f73c72339f0fd5aa6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923753,
-            "neighbourhood_id":85832015,
-            "region_id":85688637,
-            "venue_id":572081821
-        }
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "50f51cc163007e2f73c72339f0fd5aa6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923753,
+        "neighbourhood_id": 85832015,
+        "region_id": 85688637,
+        "venue_id": 572081821
+      }
     ],
-    "wof:id":572081821,
-    "wof:lastmodified":1509201687,
-    "wof:name":"The Service Station",
-    "wof:parent_id":85832015,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 572081821,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "The Service Station",
+    "wof:parent_id": 85832015,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -118.738998,
     34.1423,
     -118.738998,
     34.1423
-],
+  ],
   "geometry": {"coordinates":[-118.738998,34.1423],"type":"Point"}
 }

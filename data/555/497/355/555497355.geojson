@@ -2,83 +2,87 @@
   "id": 555497355,
   "type": "Feature",
   "properties": {
-    "addr:full":"1120 Garden St San Luis Obispo CA 93401",
-    "addr:housenumber":"1120",
-    "addr:postcode":"93401",
-    "addr:street":"Garden St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.663361,35.279342,-120.663361,35.279342",
-    "geom:latitude":35.279342,
-    "geom:longitude":-120.663361,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1120 Garden St",
-    "sg:city":"San Luis Obispo",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1120 Garden St San Luis Obispo CA 93401",
+    "addr:housenumber": "1120",
+    "addr:postcode": "93401",
+    "addr:street": "Garden St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.663361,35.279342,-120.663361,35.279342",
+    "geom:latitude": 35.279342,
+    "geom:longitude": -120.663361,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Gene Francis Gallery, 1120 Garden St San Luis Obispo CA US",
+    "ovtr:similarity": 1.8187170028686523,
+    "sg:address": "1120 Garden St",
+    "sg:city": "San Luis Obispo",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 545 7902",
-    "sg:postcode":"93401",
-    "sg:province":"CA",
-    "sg:tags":[
-        "art",
-        "gallery",
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 545 7902",
+    "sg:postcode": "93401",
+    "sg:province": "CA",
+    "sg:tags": [
+      "art",
+      "gallery",
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922299,
-        102085385,
-        85867429
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922299,
+      102085385,
+      85867429
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2487322189,
-        "sg:id":"SG_4q2kuWK33MpI9hy1fSL0Mj_35.279342_-120.663361@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2487322189,
+      "ovtr:id": "08f29adc462a196c03101ab6ffedba77",
+      "sg:id": "SG_4q2kuWK33MpI9hy1fSL0Mj_35.279342_-120.663361@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"eb53ca38f6664795d3d9e48d3f38a102",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085385,
-            "locality_id":85922299,
-            "neighbourhood_id":85867429,
-            "region_id":85688637,
-            "venue_id":555497355
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "eb53ca38f6664795d3d9e48d3f38a102",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085385,
+        "locality_id": 85922299,
+        "neighbourhood_id": 85867429,
+        "region_id": 85688637,
+        "venue_id": 555497355
+      }
     ],
-    "wof:id":555497355,
-    "wof:lastmodified":1510942322,
-    "wof:name":"Gene Francis Gallery",
-    "wof:parent_id":85867429,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "art",
-        "gallery",
-        "dealer"
+    "wof:id": 555497355,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Gene Francis Gallery",
+    "wof:parent_id": 85867429,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "art",
+      "gallery",
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -120.663361,
     35.279342,
     -120.663361,
     35.279342
-],
-  "geometry": {"coordinates":[-120.66336099999999,35.279342],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.663361,35.279342],"type":"Point"}
 }

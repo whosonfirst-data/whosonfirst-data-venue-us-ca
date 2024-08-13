@@ -2,72 +2,76 @@
   "id": 588419045,
   "type": "Feature",
   "properties": {
-    "addr:full":"806 South Airport Blvd San Francisco CA 94128",
-    "addr:housenumber":"806",
-    "addr:postcode":"94128",
-    "addr:street":"South Airport Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.399468,37.636016,-122.399468,37.636016",
-    "geom:latitude":37.636016,
-    "geom:longitude":-122.399468,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"806 South Airport Blvd",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Parking",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "806 South Airport Blvd San Francisco CA 94128",
+    "addr:housenumber": "806",
+    "addr:postcode": "94128",
+    "addr:street": "South Airport Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.399468,37.636016,-122.399468,37.636016",
+    "geom:latitude": 37.636016,
+    "geom:longitude": -122.399468,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "SFO Long Term Parking, 806 S Airport Blvd San Francisco CA US",
+    "ovtr:similarity": 3.8618218898773193,
+    "sg:address": "806 South Airport Blvd",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Parking",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 821 8211",
-    "sg:postcode":"94128",
-    "sg:province":"CA",
-    "sg:website":"www.flysfo.com/web/page/parking/...",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102085387,
-        85633793,
-        85688637,
-        85887211
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 821 8211",
+    "sg:postcode": "94128",
+    "sg:province": "CA",
+    "sg:website": "www.flysfo.com/web/page/parking/...",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102085387,
+      85633793,
+      85688637,
+      85887211
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4aAkPrs3lRBynFfan2V3tR_37.636016_-122.399468@1303263323"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283092bc8c84503c0454f2dd8d968",
+      "sg:id": "SG_4aAkPrs3lRBynFfan2V3tR_37.636016_-122.399468@1303263323"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1eec83c6be7e68839f1b58743704633b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085387,
-            "neighbourhood_id":85887211,
-            "region_id":85688637,
-            "venue_id":588419045
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "1eec83c6be7e68839f1b58743704633b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "neighbourhood_id": 85887211,
+        "region_id": 85688637,
+        "venue_id": 588419045
+      }
     ],
-    "wof:id":588419045,
-    "wof:lastmodified":1509202052,
-    "wof:name":"SFO Long Term Parking",
-    "wof:parent_id":85887211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588419045,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "SFO Long Term Parking",
+    "wof:parent_id": 85887211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.399468,
     37.636016,
     -122.399468,
     37.636016
-],
+  ],
   "geometry": {"coordinates":[-122.399468,37.636016],"type":"Point"}
 }

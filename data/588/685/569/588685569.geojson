@@ -2,82 +2,86 @@
   "id": 588685569,
   "type": "Feature",
   "properties": {
-    "addr:full":"5791 Broadway Sacramento CA 95820",
-    "addr:housenumber":"5791",
-    "addr:postcode":"95820",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.438016,38.546886,-121.438016,38.546886",
-    "geom:latitude":38.546886,
-    "geom:longitude":-121.438016,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5791 Broadway",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5791 Broadway Sacramento CA 95820",
+    "addr:housenumber": "5791",
+    "addr:postcode": "95820",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.438016,38.546886,-121.438016,38.546886",
+    "geom:latitude": 38.546886,
+    "geom:longitude": -121.438016,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 5791 Broadway Sacramento CA US",
+    "ovtr:similarity": 2.4119420051574707,
+    "sg:address": "5791 Broadway",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 455 9988",
-    "sg:postcode":"95820",
-    "sg:province":"CA",
-    "sg:website":"www.7-eleven.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872179
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 455 9988",
+    "sg:postcode": "95820",
+    "sg:province": "CA",
+    "sg:website": "www.7-eleven.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872179
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2jrHl5ssqYBJzmXAGSxan9_38.546886_-121.438016@1303263392"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b14cdc50d03e2921a3a186989",
+      "sg:id": "SG_2jrHl5ssqYBJzmXAGSxan9_38.546886_-121.438016@1303263392"
     },
-    "wof:country":"US",
-    "wof:geomhash":"504ae7199f31b850428ece06a5bfdefe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872179,
-            "region_id":85688637,
-            "venue_id":588685569
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "504ae7199f31b850428ece06a5bfdefe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872179,
+        "region_id": 85688637,
+        "venue_id": 588685569
+      }
     ],
-    "wof:id":588685569,
-    "wof:lastmodified":1511321768,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85872179,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588685569,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85872179,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.438016,
     38.546886,
     -121.438016,
     38.546886
-],
+  ],
   "geometry": {"coordinates":[-121.438016,38.546886],"type":"Point"}
 }

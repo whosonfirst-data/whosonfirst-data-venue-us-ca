@@ -2,89 +2,93 @@
   "id": 370919257,
   "type": "Feature",
   "properties": {
-    "addr:full":"2823 S Robertson Blvd Los Angeles CA 90034",
-    "addr:housenumber":"2823",
-    "addr:postcode":"90034",
-    "addr:street":"S Robertson Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.388997,34.036314,-118.388997,34.036314",
-    "geom:latitude":34.036314,
-    "geom:longitude":-118.388997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2823 S Robertson Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Beauty Salon",
-            "type":"Services"
-        },
-        {
-            "category":"Personal",
-            "subcategory":"Skin Care",
-            "type":"Services"
-        }
+    "addr:full": "2823 S Robertson Blvd Los Angeles CA 90034",
+    "addr:housenumber": "2823",
+    "addr:postcode": "90034",
+    "addr:street": "S Robertson Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.388997,34.036314,-118.388997,34.036314",
+    "geom:latitude": 34.036314,
+    "geom:longitude": -118.388997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Knox Salon, 2823 S Robertson Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.283046007156372,
+    "sg:address": "2823 S Robertson Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Beauty Salon",
+        "type": "Services"
+      },
+      {
+        "category": "Personal",
+        "subcategory": "Skin Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 837 5600",
-    "sg:postcode":"90034",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hair"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 837 5600",
+    "sg:postcode": "90034",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hair"
     ],
-    "sg:website":"www.knoxsalon.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.knoxsalon.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002016172-0001-1",
-        "sg:id":"SG_4AFrPD0miLKDZfk9WP0eGq_34.036314_-118.388997@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002016172-0001-1",
+      "ovtr:id": "08f29a199111c0ab03cdf90f61df999a",
+      "sg:id": "SG_4AFrPD0miLKDZfk9WP0eGq_34.036314_-118.388997@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7fe17c21fbda69c49079661cdabd194a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370919257
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "7fe17c21fbda69c49079661cdabd194a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370919257
+      }
     ],
-    "wof:id":370919257,
-    "wof:lastmodified":1509200850,
-    "wof:name":"Knox Salon",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hair"
+    "wof:id": 370919257,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Knox Salon",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hair"
     ]
-},
+  },
   "bbox": [
     -118.388997,
     34.036314,
     -118.388997,
     34.036314
-],
+  ],
   "geometry": {"coordinates":[-118.388997,34.036314],"type":"Point"}
 }

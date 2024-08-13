@@ -2,87 +2,91 @@
   "id": 371059151,
   "type": "Feature",
   "properties": {
-    "addr:full":"2330 W Florence Ave Los Angeles CA 90043",
-    "addr:housenumber":"2330",
-    "addr:postcode":"90043",
-    "addr:street":"W Florence Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.319688,33.974442,-118.319688,33.974442",
-    "geom:latitude":33.974442,
-    "geom:longitude":-118.319688,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2330 W Florence Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Preschool",
-            "type":"Public Place"
-        },
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "2330 W Florence Ave Los Angeles CA 90043",
+    "addr:housenumber": "2330",
+    "addr:postcode": "90043",
+    "addr:street": "W Florence Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.319688,33.974442,-118.319688,33.974442",
+    "geom:latitude": 33.974442,
+    "geom:longitude": -118.319688,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Buckner Educational Christian Academy, 2330 W Florence Ave Los Angeles CA US",
+    "ovtr:similarity": 1.7938050031661987,
+    "sg:address": "2330 W Florence Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Preschool",
+        "type": "Public Place"
+      },
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 789 6154",
-    "sg:postcode":"90043",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 789 6154",
+    "sg:postcode": "90043",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420551209",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420551209
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1uT0BndLHSnOHRD9YCf3bE_33.974442_-118.319688@1303263162"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c88230db03b89db5727aa307",
+      "sg:id": "SG_1uT0BndLHSnOHRD9YCf3bE_33.974442_-118.319688@1303263162"
     },
-    "wof:country":"US",
-    "wof:geomhash":"46807a66e088f49234c70cb4e0a4c1e0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420551209",
-            "region_id":85688637,
-            "venue_id":371059151
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "46807a66e088f49234c70cb4e0a4c1e0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420551209,
+        "region_id": 85688637,
+        "venue_id": 371059151
+      }
     ],
-    "wof:id":371059151,
-    "wof:lastmodified":1509200883,
-    "wof:name":"Buckner Educational Christian Academy",
-    "wof:parent_id":"420551209",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 371059151,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Buckner Educational Christian Academy",
+    "wof:parent_id": "420551209",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.319688,
     33.974442,
     -118.319688,
     33.974442
-],
+  ],
   "geometry": {"coordinates":[-118.319688,33.974442],"type":"Point"}
 }

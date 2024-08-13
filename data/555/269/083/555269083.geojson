@@ -2,71 +2,75 @@
   "id": 555269083,
   "type": "Feature",
   "properties": {
-    "addr:full":"172 N Main St Sebastopol CA 95472",
-    "addr:housenumber":"172",
-    "addr:postcode":"95472",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.82433,38.402174,-122.82433,38.402174",
-    "geom:latitude":38.402174,
-    "geom:longitude":-122.82433,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"172 N Main St",
-    "sg:city":"Sebastopol",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "172 N Main St Sebastopol CA 95472",
+    "addr:housenumber": "172",
+    "addr:postcode": "95472",
+    "addr:street": "N Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.824330,38.402174,-122.824330,38.402174",
+    "geom:latitude": 38.402174,
+    "geom:longitude": -122.82433,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Global Village, 156 N Main St Sebastopol CA US",
+    "ovtr:similarity": 3.1020090579986572,
+    "sg:address": "172 N Main St",
+    "sg:city": "Sebastopol",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 829 4765",
-    "sg:postcode":"95472",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102081671,
-        85633793,
-        85688637,
-        85822633
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 829 4765",
+    "sg:postcode": "95472",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102081671,
+      85633793,
+      85688637,
+      85822633
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1n5g3kK43ohawFC0DSzTCF_38.402174_-122.824330@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2831cb60f674b037950ce1c2ea74e",
+      "sg:id": "SG_1n5g3kK43ohawFC0DSzTCF_38.402174_-122.824330@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"093005b81e166d86fc0e43deb84e00a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081671,
-            "neighbourhood_id":85822633,
-            "region_id":85688637,
-            "venue_id":555269083
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "093005b81e166d86fc0e43deb84e00a2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081671,
+        "neighbourhood_id": 85822633,
+        "region_id": 85688637,
+        "venue_id": 555269083
+      }
     ],
-    "wof:id":555269083,
-    "wof:lastmodified":1509201335,
-    "wof:name":"Global Village",
-    "wof:parent_id":85822633,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555269083,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "Global Village",
+    "wof:parent_id": 85822633,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.82433,
     38.402174,
     -122.82433,
     38.402174
-],
+  ],
   "geometry": {"coordinates":[-122.82433,38.402174],"type":"Point"}
 }

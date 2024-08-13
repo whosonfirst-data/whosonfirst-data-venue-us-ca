@@ -2,68 +2,76 @@
   "id": 572208053,
   "type": "Feature",
   "properties": {
-    "addr:full":"46700 Mission Blvd Fremont CA 94539",
-    "addr:housenumber":"46700",
-    "addr:postcode":"94539",
-    "addr:street":"Mission Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.927789,37.490686,-121.927789,37.490686",
-    "geom:latitude":37.490686,
-    "geom:longitude":-121.927789,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"46700 Mission Blvd",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "46700 Mission Blvd Fremont CA 94539",
+    "addr:housenumber": "46700",
+    "addr:postcode": "94539",
+    "addr:street": "Mission Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.927789,37.490686,-121.927789,37.490686",
+    "geom:latitude": 37.490686,
+    "geom:longitude": -121.927789,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Burger King, 46700 Mission Blvd Fremont CA US",
+    "ovtr:similarity": 2.694053888320923,
+    "sg:address": "46700 Mission Blvd",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/fremont/172212-burger-king/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 490 0700",
-    "sg:postcode":"94539",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/fremont/172212-burger-king/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 490 0700",
+    "sg:postcode": "94539",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573801,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":1108757875,
-        "sg:id":"SG_2zA7KAemZJvnUzn2zSEGTY_37.491077_-121.927842@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573801,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 1108757875,
+      "ovtr:id": "08f28346337846c003565718f3f6f581",
+      "sg:id": "SG_2zA7KAemZJvnUzn2zSEGTY_37.491077_-121.927842@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"29b05c00116fcca3573efa246daaf0a6",
-    "wof:hierarchy":[],
-    "wof:id":572208053,
-    "wof:lastmodified":1510942213,
-    "wof:name":"Burger King",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "29b05c00116fcca3573efa246daaf0a6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572208053
+      }
+    ],
+    "wof:id": 572208053,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Burger King",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.927789,
     37.490686,
     -121.927789,
     37.490686
-],
+  ],
   "geometry": {"coordinates":[-121.927789,37.490686],"type":"Point"}
 }

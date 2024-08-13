@@ -2,76 +2,80 @@
   "id": 588256277,
   "type": "Feature",
   "properties": {
-    "addr:full":"1075 N Tustin Ave Anaheim CA 92807",
-    "addr:housenumber":"1075",
-    "addr:postcode":"92807",
-    "addr:street":"N Tustin Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.837997,33.854,-117.837997,33.854",
-    "geom:latitude":33.854,
-    "geom:longitude":-117.837997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1075 N Tustin Ave",
-    "sg:city":"Anaheim",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1075 N Tustin Ave Anaheim CA 92807",
+    "addr:housenumber": "1075",
+    "addr:postcode": "92807",
+    "addr:street": "N Tustin Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.837997,33.854000,-117.837997,33.854000",
+    "geom:latitude": 33.854,
+    "geom:longitude": -117.837997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 1075 N Tustin Ave Anaheim CA US",
+    "ovtr:similarity": 2.6872339248657227,
+    "sg:address": "1075 N Tustin Ave",
+    "sg:city": "Anaheim",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 632 5616",
-    "sg:postcode":"92807",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923167,
-        102080847,
-        85873157
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 632 5616",
+    "sg:postcode": "92807",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923167,
+      102080847,
+      85873157
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5DQM08NEw7vIw1mpiaA73j_33.854000_-117.837997@1303263282"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a28b33453033b787c2cf9cd90",
+      "sg:id": "SG_5DQM08NEw7vIw1mpiaA73j_33.854000_-117.837997@1303263282"
     },
-    "wof:country":"US",
-    "wof:geomhash":"50a970d014423225abef017cb7311747",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923167,
-            "neighbourhood_id":85873157,
-            "region_id":85688637,
-            "venue_id":588256277
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "50a970d014423225abef017cb7311747",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923167,
+        "neighbourhood_id": 85873157,
+        "region_id": 85688637,
+        "venue_id": 588256277
+      }
     ],
-    "wof:id":588256277,
-    "wof:lastmodified":1511321215,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85873157,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588256277,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85873157,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.837997,
     33.854,
     -117.837997,
     33.854
-],
+  ],
   "geometry": {"coordinates":[-117.837997,33.854],"type":"Point"}
 }

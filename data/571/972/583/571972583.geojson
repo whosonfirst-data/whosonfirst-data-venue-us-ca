@@ -2,75 +2,79 @@
   "id": 571972583,
   "type": "Feature",
   "properties": {
-    "addr:full":"32123 Cathedral Canyon Dr Cathedral City CA 92234",
-    "addr:housenumber":"32123",
-    "addr:postcode":"92234",
-    "addr:street":"Cathedral Canyon Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.467003,33.815201,-116.467003,33.815201",
-    "geom:latitude":33.815201,
-    "geom:longitude":-116.467003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"32123 Cathedral Canyon Dr",
-    "sg:city":"Cathedral City",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "32123 Cathedral Canyon Dr Cathedral City CA 92234",
+    "addr:housenumber": "32123",
+    "addr:postcode": "92234",
+    "addr:street": "Cathedral Canyon Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.467003,33.815201,-116.467003,33.815201",
+    "geom:latitude": 33.815201,
+    "geom:longitude": -116.467003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tortillas Restaurant, 32123 Cathedral Canyon Dr Cathedral City CA US",
+    "ovtr:similarity": 2.202052116394043,
+    "sg:address": "32123 Cathedral Canyon Dr",
+    "sg:city": "Cathedral City",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 324 8070",
-    "sg:postcode":"92234",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923421,
-        102086221,
-        85844621
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 324 8070",
+    "sg:postcode": "92234",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923421,
+      102086221,
+      85844621
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0bCDRS88yTCPZO1ibLVm58_33.815357_-116.466939@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a6256816a7003306d96d31dab6b",
+      "sg:id": "SG_0bCDRS88yTCPZO1ibLVm58_33.815357_-116.466939@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3f26c03543e56e76ca2595f20f8acad6",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923421,
-            "neighbourhood_id":85844621,
-            "region_id":85688637,
-            "venue_id":571972583
-        }
+    "wof:country": "US",
+    "wof:created": 1723561685,
+    "wof:geomhash": "3f26c03543e56e76ca2595f20f8acad6",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923421,
+        "neighbourhood_id": 85844621,
+        "region_id": 85688637,
+        "venue_id": 571972583
+      }
     ],
-    "wof:id":571972583,
-    "wof:lastmodified":1509201651,
-    "wof:name":"Tortillas Restaurant",
-    "wof:parent_id":85844621,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571972583,
+    "wof:lastmodified": 1723561685,
+    "wof:name": "Tortillas Restaurant",
+    "wof:parent_id": 85844621,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.467003,
     33.815201,
     -116.467003,
     33.815201
-],
-  "geometry": {"coordinates":[-116.46700300000001,33.815201],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-116.467003,33.815201],"type":"Point"}
 }

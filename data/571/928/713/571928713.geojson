@@ -2,81 +2,85 @@
   "id": 571928713,
   "type": "Feature",
   "properties": {
-    "addr:full":"9090 Dallas St La Mesa CA 91942",
-    "addr:housenumber":"9090",
-    "addr:postcode":"91942",
-    "addr:street":"Dallas St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.002771,32.792483,-117.002771,32.792483",
-    "geom:latitude":32.792483,
-    "geom:longitude":-117.002771,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9090 Dallas St",
-    "sg:city":"La Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9090 Dallas St La Mesa CA 91942",
+    "addr:housenumber": "9090",
+    "addr:postcode": "91942",
+    "addr:street": "Dallas St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.002771,32.792483,-117.002771,32.792483",
+    "geom:latitude": 32.792483,
+    "geom:longitude": -117.002771,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Shell, 9090 Dallas St La Mesa CA US",
+    "ovtr:similarity": 2.490389108657837,
+    "sg:address": "9090 Dallas St",
+    "sg:city": "La Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 698 8002",
-    "sg:postcode":"91942",
-    "sg:province":"CA",
-    "sg:tags":[
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 698 8002",
+    "sg:postcode": "91942",
+    "sg:province": "CA",
+    "sg:tags": [
+      "oil"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922251,
-        102083569,
-        420552223
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922251,
+      102083569,
+      420552223
     ],
-    "wof:brand_id":420573831,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6ZDNoZi5Y7SqMQ4PtHelVh_32.792483_-117.002771@1294081369"
+    "wof:brand_id": 420573831,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a419325699503131101c467bbda",
+      "sg:id": "SG_6ZDNoZi5Y7SqMQ4PtHelVh_32.792483_-117.002771@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8208dea31834899d4c29ce06d3a35086",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922251,
-            "neighbourhood_id":420552223,
-            "region_id":85688637,
-            "venue_id":571928713
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "8208dea31834899d4c29ce06d3a35086",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922251,
+        "neighbourhood_id": 420552223,
+        "region_id": 85688637,
+        "venue_id": 571928713
+      }
     ],
-    "wof:id":571928713,
-    "wof:lastmodified":1511321033,
-    "wof:name":"Shell",
-    "wof:parent_id":420552223,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "oil"
+    "wof:id": 571928713,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Shell",
+    "wof:parent_id": 420552223,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "oil"
     ]
-},
+  },
   "bbox": [
     -117.002771,
     32.792483,
     -117.002771,
     32.792483
-],
+  ],
   "geometry": {"coordinates":[-117.002771,32.792483],"type":"Point"}
 }

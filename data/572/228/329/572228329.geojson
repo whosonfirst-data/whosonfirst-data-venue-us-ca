@@ -2,92 +2,96 @@
   "id": 572228329,
   "type": "Feature",
   "properties": {
-    "addr:full":"3645 San Fernando Rd Glendale CA 91204",
-    "addr:housenumber":"3645",
-    "addr:postcode":"91204",
-    "addr:street":"San Fernando Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.252972,34.121899,-118.252972,34.121899",
-    "geom:latitude":34.121899,
-    "geom:longitude":-118.252972,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3645 San Fernando Rd",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "3645 San Fernando Rd Glendale CA 91204",
+    "addr:housenumber": "3645",
+    "addr:postcode": "91204",
+    "addr:street": "San Fernando Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.252972,34.121899,-118.252972,34.121899",
+    "geom:latitude": 34.121899,
+    "geom:longitude": -118.252972,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Glendale Pet Resort, 3645 San Fernando Rd Glendale CA US",
+    "ovtr:similarity": 2.3180530071258545,
+    "sg:address": "3645 San Fernando Rd",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 451 9044",
-    "sg:postcode":"91204",
-    "sg:province":"CA",
-    "sg:tags":[
-        "training",
-        "boarding/pet",
-        "groomers",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 451 9044",
+    "sg:postcode": "91204",
+    "sg:province": "CA",
+    "sg:tags": [
+      "training",
+      "boarding/pet",
+      "groomers",
+      "sitting"
     ],
-    "sg:website":"www.glendalepetresort.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        "85877765"
+    "sg:website": "www.glendalepetresort.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85877765
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SHPbVGLSAlCDFz6tEG125_34.121899_-118.252972@1303263207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d422e0d690355cc1f0ca3f4dc",
+      "sg:id": "SG_0SHPbVGLSAlCDFz6tEG125_34.121899_-118.252972@1303263207"
     },
-    "wof:country":"US",
-    "wof:geomhash":"23c5330c0aacd91a1be219566de05974",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":"85877765",
-            "region_id":85688637,
-            "venue_id":572228329
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "23c5330c0aacd91a1be219566de05974",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85877765,
+        "region_id": 85688637,
+        "venue_id": 572228329
+      }
     ],
-    "wof:id":572228329,
-    "wof:lastmodified":1509201748,
-    "wof:name":"Glendale Pet Resort",
-    "wof:parent_id":"85877765",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "training",
-        "boarding/pet",
-        "groomers",
-        "sitting"
+    "wof:id": 572228329,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Glendale Pet Resort",
+    "wof:parent_id": "85877765",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "training",
+      "boarding/pet",
+      "groomers",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -118.252972,
     34.121899,
     -118.252972,
     34.121899
-],
+  ],
   "geometry": {"coordinates":[-118.252972,34.121899],"type":"Point"}
 }

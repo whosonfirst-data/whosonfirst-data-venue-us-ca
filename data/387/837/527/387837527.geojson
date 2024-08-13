@@ -2,75 +2,79 @@
   "id": 387837527,
   "type": "Feature",
   "properties": {
-    "addr:full":"16020 Main St La Puente CA 91744",
-    "addr:housenumber":"16020",
-    "addr:postcode":"91744",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.94822,34.02003,-117.94822,34.02003",
-    "geom:latitude":34.02003,
-    "geom:longitude":-117.94822,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"16020 Main St",
-    "sg:city":"La Puente",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "16020 Main St La Puente CA 91744",
+    "addr:housenumber": "16020",
+    "addr:postcode": "91744",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.948220,34.020030,-117.948220,34.020030",
+    "geom:latitude": 34.02003,
+    "geom:longitude": -117.94822,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "7-Eleven, 16020 Main St La Puente CA US",
+    "ovtr:similarity": 2.5981109142303467,
+    "sg:address": "16020 Main St",
+    "sg:city": "La Puente",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 333 5415",
-    "sg:postcode":"91744",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923581,
-        102086957,
-        85886111
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 333 5415",
+    "sg:postcode": "91744",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923581,
+      102086957,
+      85886111
     ],
-    "wof:brand_id":420573767,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_05soej0U4MWw37R0IYtDJR_34.020030_-117.948220@1294081369"
+    "wof:brand_id": 420573767,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a4a6d8d8203f4a51e4e4171a7",
+      "sg:id": "SG_05soej0U4MWw37R0IYtDJR_34.020030_-117.948220@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cf40163cbede39a3e70ccbb786eeea6c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923581,
-            "neighbourhood_id":85886111,
-            "region_id":85688637,
-            "venue_id":387837527
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "cf40163cbede39a3e70ccbb786eeea6c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923581,
+        "neighbourhood_id": 85886111,
+        "region_id": 85688637,
+        "venue_id": 387837527
+      }
     ],
-    "wof:id":387837527,
-    "wof:lastmodified":1511321786,
-    "wof:name":"7-Eleven",
-    "wof:parent_id":85886111,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387837527,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "7-Eleven",
+    "wof:parent_id": 85886111,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.94822,
     34.02003,
     -117.94822,
     34.02003
-],
-  "geometry": {"coordinates":[-117.94822000000001,34.02003],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.94822,34.02003],"type":"Point"}
 }

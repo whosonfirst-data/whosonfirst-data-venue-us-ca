@@ -2,82 +2,86 @@
   "id": 387340743,
   "type": "Feature",
   "properties": {
-    "addr:full":"927 S Clovis Ave Fresno CA 93727",
-    "addr:housenumber":"927",
-    "addr:postcode":"93727",
-    "addr:street":"S Clovis Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.699931,36.733426,-119.699931,36.733426",
-    "geom:latitude":36.733426,
-    "geom:longitude":-119.699931,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"927 S Clovis Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "927 S Clovis Ave Fresno CA 93727",
+    "addr:housenumber": "927",
+    "addr:postcode": "93727",
+    "addr:street": "S Clovis Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.699931,36.733426,-119.699931,36.733426",
+    "geom:latitude": 36.733426,
+    "geom:longitude": -119.699931,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "AutoZone, 927 S Clovis Ave Fresno CA US",
+    "ovtr:similarity": 2.1850979328155518,
+    "sg:address": "927 S Clovis Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 455 1805",
-    "sg:postcode":"93727",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "parts"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 455 1805",
+    "sg:postcode": "93727",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "parts"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85927161,
-        102084347,
-        85822181
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85927161,
+      102084347,
+      85822181
     ],
-    "wof:brand_id":420573803,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_46XTpQy6vTrEIJkB2JbsLq_36.733426_-119.699931@1294081369"
+    "wof:brand_id": 420573803,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab9a27960e1030c07682a1d225b",
+      "sg:id": "SG_46XTpQy6vTrEIJkB2JbsLq_36.733426_-119.699931@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4f0b2f73bbc4cff865a2507b61754c3a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85927161,
-            "neighbourhood_id":85822181,
-            "region_id":85688637,
-            "venue_id":387340743
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "4f0b2f73bbc4cff865a2507b61754c3a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85927161,
+        "neighbourhood_id": 85822181,
+        "region_id": 85688637,
+        "venue_id": 387340743
+      }
     ],
-    "wof:id":387340743,
-    "wof:lastmodified":1509201011,
-    "wof:name":"Autozone",
-    "wof:parent_id":85822181,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "parts"
+    "wof:id": 387340743,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Autozone",
+    "wof:parent_id": 85822181,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "parts"
     ]
-},
+  },
   "bbox": [
     -119.699931,
     36.733426,
     -119.699931,
     36.733426
-],
-  "geometry": {"coordinates":[-119.69993100000001,36.733426],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.699931,36.733426],"type":"Point"}
 }

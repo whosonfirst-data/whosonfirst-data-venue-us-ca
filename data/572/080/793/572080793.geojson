@@ -2,80 +2,84 @@
   "id": 572080793,
   "type": "Feature",
   "properties": {
-    "addr:full":"1410 Cypress Ave Los Angeles CA 90065",
-    "addr:housenumber":"1410",
-    "addr:postcode":"90065",
-    "addr:street":"Cypress Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.231222,34.097381,-118.231222,34.097381",
-    "geom:latitude":34.097381,
-    "geom:longitude":-118.231222,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1410 Cypress Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1410 Cypress Ave Los Angeles CA 90065",
+    "addr:housenumber": "1410",
+    "addr:postcode": "90065",
+    "addr:street": "Cypress Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.231222,34.097381,-118.231222,34.097381",
+    "geom:latitude": 34.097381,
+    "geom:longitude": -118.231222,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Los Angeles Fire Dept. Station 44, 1410 Cypress Ave Los Angeles CA US",
+    "ovtr:similarity": 3.7463810443878174,
+    "sg:address": "1410 Cypress Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 485 6244",
-    "sg:postcode":"90065",
-    "sg:province":"CA",
-    "sg:tags":[
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 485 6244",
+    "sg:postcode": "90065",
+    "sg:province": "CA",
+    "sg:tags": [
+      "protection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85865845
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85865845
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PEa753ou364NFH4mSgbJc_34.097495_-118.231547@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d55b0616b03e51f75f153fa58",
+      "sg:id": "SG_4PEa753ou364NFH4mSgbJc_34.097495_-118.231547@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ef8d6617c0b03d2a6313259d15d5634b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865845,
-            "region_id":85688637,
-            "venue_id":572080793
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "ef8d6617c0b03d2a6313259d15d5634b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865845,
+        "region_id": 85688637,
+        "venue_id": 572080793
+      }
     ],
-    "wof:id":572080793,
-    "wof:lastmodified":1509201686,
-    "wof:name":"Fire Station 44",
-    "wof:parent_id":85865845,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection"
+    "wof:id": 572080793,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Fire Station 44",
+    "wof:parent_id": 85865845,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection"
     ]
-},
+  },
   "bbox": [
     -118.231222,
     34.097381,
     -118.231222,
     34.097381
-],
+  ],
   "geometry": {"coordinates":[-118.231222,34.097381],"type":"Point"}
 }

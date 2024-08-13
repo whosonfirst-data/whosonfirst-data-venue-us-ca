@@ -2,77 +2,81 @@
   "id": 370869887,
   "type": "Feature",
   "properties": {
-    "addr:full":"6922 Hollywood Blvd Ste 103 Los Angeles CA 90028",
-    "addr:housenumber":"6922",
-    "addr:postcode":"90028",
-    "addr:street":"Hollywood Blvd Ste 103",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.34095,34.101411,-118.34095,34.101411",
-    "geom:latitude":34.101411,
-    "geom:longitude":-118.34095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"6922 Hollywood Blvd Ste 103",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6922 Hollywood Blvd Ste 103 Los Angeles CA 90028",
+    "addr:housenumber": "6922",
+    "addr:postcode": "90028",
+    "addr:street": "Hollywood Blvd Ste 103",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.340950,34.101411,-118.340950,34.101411",
+    "geom:latitude": 34.101411,
+    "geom:longitude": -118.34095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Coffee Bean \u0026 Tea Leaf, 6922 Hollywood Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.833554983139038,
+    "sg:address": "6922 Hollywood Blvd Ste 103",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 467 7785",
-    "sg:postcode":"90028",
-    "sg:province":"CA",
-    "sg:website":"www.coffeebean.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869345
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 467 7785",
+    "sg:postcode": "90028",
+    "sg:province": "CA",
+    "sg:website": "www.coffeebean.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869345
     ],
-    "wof:brand_id":1125152175,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2164946875,
-        "sg:id":"SG_2APWdJhBTDApontXSk9vLN_34.101411_-118.340950@1303263157"
+    "wof:brand_id": 1125152175,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2164946875,
+      "ovtr:id": "08f29a1d6bd6da21039abe3664b4c31e",
+      "sg:id": "SG_2APWdJhBTDApontXSk9vLN_34.101411_-118.340950@1303263157"
     },
-    "wof:country":"US",
-    "wof:geomhash":"13ab0cb49ad4806d340ba42c0d041c0c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869345,
-            "region_id":85688637,
-            "venue_id":370869887
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "13ab0cb49ad4806d340ba42c0d041c0c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869345,
+        "region_id": 85688637,
+        "venue_id": 370869887
+      }
     ],
-    "wof:id":370869887,
-    "wof:lastmodified":1510943625,
-    "wof:name":"The Coffee Bean & Tea Leaf",
-    "wof:parent_id":85869345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370869887,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "The Coffee Bean \u0026 Tea Leaf",
+    "wof:parent_id": 85869345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.34095,
     34.101411,
     -118.34095,
     34.101411
-],
-  "geometry": {"coordinates":[-118.34095000000001,34.101411],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.34095,34.101411],"type":"Point"}
 }

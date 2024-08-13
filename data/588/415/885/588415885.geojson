@@ -2,76 +2,80 @@
   "id": 588415885,
   "type": "Feature",
   "properties": {
-    "addr:full":"2423 Chestnut St San Francisco CA 94123",
-    "addr:housenumber":"2423",
-    "addr:postcode":"94123",
-    "addr:street":"Chestnut St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.44334,37.799947,-122.44334,37.799947",
-    "geom:latitude":37.799947,
-    "geom:longitude":-122.44334,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2423 Chestnut St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "2423 Chestnut St San Francisco CA 94123",
+    "addr:housenumber": "2423",
+    "addr:postcode": "94123",
+    "addr:street": "Chestnut St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.443340,37.799947,-122.443340,37.799947",
+    "geom:latitude": 37.799947,
+    "geom:longitude": -122.44334,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Missing Sock Laundry, 2423 Chestnut St San Francisco CA US",
+    "ovtr:similarity": 2.0572609901428223,
+    "sg:address": "2423 Chestnut St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 922 1605",
-    "sg:postcode":"94123",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85832447
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 922 1605",
+    "sg:postcode": "94123",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85832447
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0429822-02-001",
-        "sg:id":"SG_2VXxS1adHSbMdEIn6eQQWv_37.799947_-122.443340@1303263322"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283087689e7220396042fa2a65d49",
+      "sfgov_rbl:id": "0429822-02-001",
+      "sg:id": "SG_2VXxS1adHSbMdEIn6eQQWv_37.799947_-122.443340@1303263322"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6be8c7b1b34c8d18397a2b2b43d7aef8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85832447,
-            "region_id":85688637,
-            "venue_id":588415885
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "6be8c7b1b34c8d18397a2b2b43d7aef8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85832447,
+        "region_id": 85688637,
+        "venue_id": 588415885
+      }
     ],
-    "wof:id":588415885,
-    "wof:lastmodified":1509202050,
-    "wof:name":"The Missing Sock Laundry",
-    "wof:parent_id":85832447,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588415885,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "The Missing Sock Laundry",
+    "wof:parent_id": 85832447,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.44334,
     37.799947,
     -122.44334,
     37.799947
-],
-  "geometry": {"coordinates":[-122.44334000000001,37.799947],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.44334,37.799947],"type":"Point"}
 }

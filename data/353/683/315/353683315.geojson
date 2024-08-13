@@ -2,82 +2,86 @@
   "id": 353683315,
   "type": "Feature",
   "properties": {
-    "addr:full":"10830 Olson Dr Rancho Cordova CA 95670",
-    "addr:housenumber":"10830",
-    "addr:postcode":"95670",
-    "addr:street":"Olson Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.280701,38.597574,-121.280701,38.597574",
-    "geom:latitude":38.597574,
-    "geom:longitude":-121.280701,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10830 Olson Dr",
-    "sg:city":"Rancho Cordova",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "10830 Olson Dr Rancho Cordova CA 95670",
+    "addr:housenumber": "10830",
+    "addr:postcode": "95670",
+    "addr:street": "Olson Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.280701,38.597574,-121.280701,38.597574",
+    "geom:latitude": 38.597574,
+    "geom:longitude": -121.280701,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Banfield Pet Hospital, 10830 Olson Dr Rancho Cordova CA US",
+    "ovtr:similarity": 2.2475979328155518,
+    "sg:address": "10830 Olson Dr",
+    "sg:city": "Rancho Cordova",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 853 1351",
-    "sg:postcode":"95670",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 853 1351",
+    "sg:postcode": "95670",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922851,
-        102082889,
-        85885387
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922851,
+      102082889,
+      85885387
     ],
-    "wof:brand_id":1125149669,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7afhKLbNma1bXz3qx6MO5k_38.597574_-121.280701@1294081369"
+    "wof:brand_id": 1125149669,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832bb6a193080324f07832e84933",
+      "sg:id": "SG_7afhKLbNma1bXz3qx6MO5k_38.597574_-121.280701@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7b1b2e07a0321d4b166b6c55ae4c5aa8",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922851,
-            "neighbourhood_id":85885387,
-            "region_id":85688637,
-            "venue_id":353683315
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "7b1b2e07a0321d4b166b6c55ae4c5aa8",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922851,
+        "neighbourhood_id": 85885387,
+        "region_id": 85688637,
+        "venue_id": 353683315
+      }
     ],
-    "wof:id":353683315,
-    "wof:lastmodified":1511319687,
-    "wof:name":"Banfield The Pet Hospital",
-    "wof:parent_id":85885387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 353683315,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Banfield The Pet Hospital",
+    "wof:parent_id": 85885387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -121.280701,
     38.597574,
     -121.280701,
     38.597574
-],
-  "geometry": {"coordinates":[-121.28070099999999,38.597574],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.280701,38.597574],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 572071879,
   "type": "Feature",
   "properties": {
-    "addr:full":"14823 E 14th St San Leandro CA 94578",
-    "addr:housenumber":"14823",
-    "addr:postcode":"94578",
-    "addr:street":"E 14Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.132442,37.70798,-122.132442,37.70798",
-    "geom:latitude":37.70798,
-    "geom:longitude":-122.132442,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"14823 E 14th St",
-    "sg:city":"San Leandro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "14823 E 14th St San Leandro CA 94578",
+    "addr:housenumber": "14823",
+    "addr:postcode": "94578",
+    "addr:street": "E 14Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.132442,37.707980,-122.132442,37.707980",
+    "geom:latitude": 37.70798,
+    "geom:longitude": -122.132442,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 14823 E 14th St San Leandro CA US",
+    "ovtr:similarity": 2.7217719554901123,
+    "sg:address": "14823 E 14th St",
+    "sg:city": "San Leandro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 317 5950",
-    "sg:postcode":"94578",
-    "sg:province":"CA",
-    "sg:tags":[
-        "eating",
-        "fast"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 317 5950",
+    "sg:postcode": "94578",
+    "sg:province": "CA",
+    "sg:tags": [
+      "eating",
+      "fast"
     ],
-    "sg:website":"www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85924511,
-        102086959,
-        85818597
+    "sg:website": "www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85924511,
+      102086959,
+      85818597
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4dCTOsI47lwT1CP5DAxpVe_37.707780_-122.132164@1293134755"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830986db13b30311469806775583",
+      "sg:id": "SG_4dCTOsI47lwT1CP5DAxpVe_37.707780_-122.132164@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"39bec1e6f8fb3f93902189ff7a1749fd",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85924511,
-            "neighbourhood_id":85818597,
-            "region_id":85688637,
-            "venue_id":572071879
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "39bec1e6f8fb3f93902189ff7a1749fd",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85924511,
+        "neighbourhood_id": 85818597,
+        "region_id": 85688637,
+        "venue_id": 572071879
+      }
     ],
-    "wof:id":572071879,
-    "wof:lastmodified":1512142999,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85818597,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "eating",
-        "fast"
+    "wof:id": 572071879,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85818597,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "eating",
+      "fast"
     ]
-},
+  },
   "bbox": [
     -122.132442,
     37.70798,
     -122.132442,
     37.70798
-],
+  ],
   "geometry": {"coordinates":[-122.132442,37.70798],"type":"Point"}
 }

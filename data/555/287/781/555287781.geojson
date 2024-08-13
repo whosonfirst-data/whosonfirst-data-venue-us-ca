@@ -2,59 +2,67 @@
   "id": 555287781,
   "type": "Feature",
   "properties": {
-    "addr:full":"1498 Adams Ave El Centro CA 92243",
-    "addr:housenumber":"1498",
-    "addr:postcode":"92243",
-    "addr:street":"Adams Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-115.566657,32.796552,-115.566657,32.796552",
-    "geom:latitude":32.796552,
-    "geom:longitude":-115.566657,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1498 Adams Ave",
-    "sg:city":"El Centro",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1498 Adams Ave El Centro CA 92243",
+    "addr:housenumber": "1498",
+    "addr:postcode": "92243",
+    "addr:street": "Adams Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-115.566657,32.796552,-115.566657,32.796552",
+    "geom:latitude": 32.796552,
+    "geom:longitude": -115.566657,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Carl's Jr., 1498 Adams Ave El Centro CA US",
+    "ovtr:similarity": 2.751741886138916,
+    "sg:address": "1498 Adams Ave",
+    "sg:city": "El Centro",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 353 2482",
-    "sg:postcode":"92243",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148741,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5nuTIGY70EOqIYoEbjkv6W_32.796552_-115.566657@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 353 2482",
+    "sg:postcode": "92243",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148741,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f485ba60046d06031c664e9bfc4614",
+      "sg:id": "SG_5nuTIGY70EOqIYoEbjkv6W_32.796552_-115.566657@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"37754d8e1f9df69633dac8f42db97f9a",
-    "wof:hierarchy":[],
-    "wof:id":555287781,
-    "wof:lastmodified":1511997568,
-    "wof:name":"Carl's Jr",
-    "wof:parent_id":420550977,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "37754d8e1f9df69633dac8f42db97f9a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555287781
+      }
+    ],
+    "wof:id": 555287781,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Carl's Jr",
+    "wof:parent_id": 420550977,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -115.566657,
     32.796552,
     -115.566657,
     32.796552
-],
-  "geometry": {"coordinates":[-115.56665700000001,32.796552],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-115.566657,32.796552],"type":"Point"}
 }

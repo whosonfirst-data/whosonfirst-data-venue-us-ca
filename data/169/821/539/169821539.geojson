@@ -2,84 +2,88 @@
   "id": 169821539,
   "type": "Feature",
   "properties": {
-    "addr:full":"42170 Cedar Springs Rd Auberry CA 93602",
-    "addr:housenumber":"42170",
-    "addr:postcode":"93602",
-    "addr:street":"Cedar Springs Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.413461,37.077405,-119.413461,37.077405",
-    "geom:latitude":37.077405,
-    "geom:longitude":-119.413461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"42170 Cedar Springs Rd",
-    "sg:city":"Auberry",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Plants",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Home & Garden",
-            "subcategory":"Garden Supply",
-            "type":"Retail Goods"
-        }
+    "addr:full": "42170 Cedar Springs Rd Auberry CA 93602",
+    "addr:housenumber": "42170",
+    "addr:postcode": "93602",
+    "addr:street": "Cedar Springs Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.413461,37.077405,-119.413461,37.077405",
+    "geom:latitude": 37.077405,
+    "geom:longitude": -119.413461,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Welker's Grove Nursery, 42170 Cedar Springs Rd Auberry CA US",
+    "ovtr:similarity": 2.2551651000976562,
+    "sg:address": "42170 Cedar Springs Rd",
+    "sg:city": "Auberry",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Plants",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Garden Supply",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 855 3521",
-    "sg:postcode":"93602",
-    "sg:province":"CA",
-    "sg:tags":[
-        "nurseryman"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 855 3521",
+    "sg:postcode": "93602",
+    "sg:province": "CA",
+    "sg:tags": [
+      "nurseryman"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923015,
-        102084347,
-        85822067
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923015,
+      102084347,
+      85822067
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7RQ9ckQopHlLJZ9uWJfh5Z_37.077405_-119.413461@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29abceec8015003e9657540f3437e",
+      "sg:id": "SG_7RQ9ckQopHlLJZ9uWJfh5Z_37.077405_-119.413461@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"585687232e26deb18ef5c350e4d636d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85923015,
-            "neighbourhood_id":85822067,
-            "region_id":85688637,
-            "venue_id":169821539
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "585687232e26deb18ef5c350e4d636d4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85923015,
+        "neighbourhood_id": 85822067,
+        "region_id": 85688637,
+        "venue_id": 169821539
+      }
     ],
-    "wof:id":169821539,
-    "wof:lastmodified":1509199808,
-    "wof:name":"Welker's Grove Nursery",
-    "wof:parent_id":85822067,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "nurseryman"
+    "wof:id": 169821539,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Welker's Grove Nursery",
+    "wof:parent_id": 85822067,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "nurseryman"
     ]
-},
+  },
   "bbox": [
     -119.413461,
     37.077405,
     -119.413461,
     37.077405
-],
+  ],
   "geometry": {"coordinates":[-119.413461,37.077405],"type":"Point"}
 }

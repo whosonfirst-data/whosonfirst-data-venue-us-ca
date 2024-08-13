@@ -2,74 +2,78 @@
   "id": 186540485,
   "type": "Feature",
   "properties": {
-    "addr:full":"502 S Waterman Ave San Bernardino CA 92408",
-    "addr:housenumber":"502",
-    "addr:postcode":"92408",
-    "addr:street":"S Waterman Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.278833,34.089141,-117.278833,34.089141",
-    "geom:latitude":34.089141,
-    "geom:longitude":-117.278833,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"502 S Waterman Ave",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "502 S Waterman Ave San Bernardino CA 92408",
+    "addr:housenumber": "502",
+    "addr:postcode": "92408",
+    "addr:street": "S Waterman Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.278833,34.089141,-117.278833,34.089141",
+    "geom:latitude": 34.089141,
+    "geom:longitude": -117.278833,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vicky's Restaurant, 502 S Waterman Ave San Bernardino CA US",
+    "ovtr:similarity": 2.0496010780334473,
+    "sg:address": "502 S Waterman Ave",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 888 1171",
-    "sg:postcode":"92408",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85805941
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 888 1171",
+    "sg:postcode": "92408",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85805941
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3meM49unwtvIGEDSQmicMc_34.089141_-117.278833@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00e3ba2b5803aaff944e08415d",
+      "sg:id": "SG_3meM49unwtvIGEDSQmicMc_34.089141_-117.278833@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9194a7fa2a68c2505a0ce293f9bac31e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85805941,
-            "region_id":85688637,
-            "venue_id":186540485
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "9194a7fa2a68c2505a0ce293f9bac31e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85805941,
+        "region_id": 85688637,
+        "venue_id": 186540485
+      }
     ],
-    "wof:id":186540485,
-    "wof:lastmodified":1509199868,
-    "wof:name":"Vicky's Restaurant",
-    "wof:parent_id":85805941,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 186540485,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Vicky's Restaurant",
+    "wof:parent_id": 85805941,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.278833,
     34.089141,
     -117.278833,
     34.089141
-],
-  "geometry": {"coordinates":[-117.27883300000001,34.089141],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.278833,34.089141],"type":"Point"}
 }

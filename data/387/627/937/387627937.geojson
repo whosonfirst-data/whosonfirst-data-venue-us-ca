@@ -2,74 +2,78 @@
   "id": 387627937,
   "type": "Feature",
   "properties": {
-    "addr:full":"3285 Tweedy Blvd South Gate CA 90280",
-    "addr:housenumber":"3285",
-    "addr:postcode":"90280",
-    "addr:street":"Tweedy Blvd;Gate",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.211998,33.945,-118.211998,33.945",
-    "geom:latitude":33.945,
-    "geom:longitude":-118.211998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3285 Tweedy Blvd",
-    "sg:city":"South Gate",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "3285 Tweedy Blvd South Gate CA 90280",
+    "addr:housenumber": "3285",
+    "addr:postcode": "90280",
+    "addr:street": "Tweedy Blvd;Gate",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.211998,33.945000,-118.211998,33.945000",
+    "geom:latitude": 33.945,
+    "geom:longitude": -118.211998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Gary's Automotive Services, 3285 Tweedy Blvd South Gate CA US",
+    "ovtr:similarity": 2.643402099609375,
+    "sg:address": "3285 Tweedy Blvd",
+    "sg:city": "South Gate",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 569 4763",
-    "sg:postcode":"90280",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923799,
-        102086957,
-        85867337
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 569 4763",
+    "sg:postcode": "90280",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923799,
+      102086957,
+      85867337
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xl422Ob7P1Sx8VG0ipkAb_33.945000_-118.211998@1303263183"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d544bb050349ad6a81ee6a3f",
+      "sg:id": "SG_0xl422Ob7P1Sx8VG0ipkAb_33.945000_-118.211998@1303263183"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d817a59921d36e7bcf734d06b7a5b670",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923799,
-            "neighbourhood_id":85867337,
-            "region_id":85688637,
-            "venue_id":387627937
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "d817a59921d36e7bcf734d06b7a5b670",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923799,
+        "neighbourhood_id": 85867337,
+        "region_id": 85688637,
+        "venue_id": 387627937
+      }
     ],
-    "wof:id":387627937,
-    "wof:lastmodified":1509201067,
-    "wof:name":"Gary's Automotive Service",
-    "wof:parent_id":85867337,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387627937,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "Gary's Automotive Service",
+    "wof:parent_id": 85867337,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.211998,
     33.945,
     -118.211998,
     33.945
-],
-  "geometry": {"coordinates":[-118.21199799999999,33.945],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.211998,33.945],"type":"Point"}
 }

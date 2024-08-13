@@ -2,74 +2,78 @@
   "id": 236782605,
   "type": "Feature",
   "properties": {
-    "addr:full":"2230 Pine St Redding CA 96001",
-    "addr:housenumber":"2230",
-    "addr:postcode":"96001",
-    "addr:street":"Pine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.386674,40.576846,-122.386674,40.576846",
-    "geom:latitude":40.576846,
-    "geom:longitude":-122.386674,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2230 Pine St",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2230 Pine St Redding CA 96001",
+    "addr:housenumber": "2230",
+    "addr:postcode": "96001",
+    "addr:street": "Pine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.386674,40.576846,-122.386674,40.576846",
+    "geom:latitude": 40.576846,
+    "geom:longitude": -122.386674,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lulu's Eating \u0026 Drinking Establishment, 2230 Pine St Redding CA US",
+    "ovtr:similarity": 3.475554943084717,
+    "sg:address": "2230 Pine St",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 243 6251",
-    "sg:postcode":"96001",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85818197
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 243 6251",
+    "sg:postcode": "96001",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85818197
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Sm57ccDbTmenTofn6HkXf_40.576846_-122.386674@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28150cb6530d6030f0feedb52e828",
+      "sg:id": "SG_7Sm57ccDbTmenTofn6HkXf_40.576846_-122.386674@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"63eb6225322a6b5b47cfb212e53faad7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":236782605
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "63eb6225322a6b5b47cfb212e53faad7",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 236782605
+      }
     ],
-    "wof:id":236782605,
-    "wof:lastmodified":1509200065,
-    "wof:name":"Lulu's Eating & Drinking",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 236782605,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Lulu's Eating \u0026 Drinking",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.386674,
     40.576846,
     -122.386674,
     40.576846
-],
+  ],
   "geometry": {"coordinates":[-122.386674,40.576846],"type":"Point"}
 }

@@ -2,74 +2,78 @@
   "id": 387009473,
   "type": "Feature",
   "properties": {
-    "addr:full":"2821 N Figueroa Street Los Angeles CA 90065",
-    "addr:housenumber":"2821",
-    "addr:postcode":"90065",
-    "addr:street":"N Figueroa Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.22048,34.085483,-118.22048,34.085483",
-    "geom:latitude":34.085483,
-    "geom:longitude":-118.22048,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2821 N Figueroa Street",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2821 N Figueroa Street Los Angeles CA 90065",
+    "addr:housenumber": "2821",
+    "addr:postcode": "90065",
+    "addr:street": "N Figueroa Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.220480,34.085483,-118.220480,34.085483",
+    "geom:latitude": 34.085483,
+    "geom:longitude": -118.22048,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lizarde Auto Service, 2821 N Figueroa St Los Angeles CA US",
+    "ovtr:similarity": 2.0051939487457275,
+    "sg:address": "2821 N Figueroa Street",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 222 0271",
-    "sg:postcode":"90065",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85813775
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 222 0271",
+    "sg:postcode": "90065",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85813775
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4srkohxAzmyFRIlqhQeFPM_34.085483_-118.220480@1303263167"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d737448e203e96ca7a5af3586",
+      "sg:id": "SG_4srkohxAzmyFRIlqhQeFPM_34.085483_-118.220480@1303263167"
     },
-    "wof:country":"US",
-    "wof:geomhash":"097c78f5e034263b6fd1736724e2662c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85813775,
-            "region_id":85688637,
-            "venue_id":387009473
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "097c78f5e034263b6fd1736724e2662c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85813775,
+        "region_id": 85688637,
+        "venue_id": 387009473
+      }
     ],
-    "wof:id":387009473,
-    "wof:lastmodified":1509200933,
-    "wof:name":"Lizarde Auto Service",
-    "wof:parent_id":85813775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387009473,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Lizarde Auto Service",
+    "wof:parent_id": 85813775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.22048,
     34.085483,
     -118.22048,
     34.085483
-],
-  "geometry": {"coordinates":[-118.22047999999999,34.085483],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.22048,34.085483],"type":"Point"}
 }

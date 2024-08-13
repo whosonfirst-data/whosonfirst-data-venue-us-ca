@@ -2,84 +2,88 @@
   "id": 588601059,
   "type": "Feature",
   "properties": {
-    "addr:full":"2190 Stokes St Ste 202 San Jose CA 95128",
-    "addr:housenumber":"2190",
-    "addr:postcode":"95128",
-    "addr:street":"Stokes St Ste 202",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.931,37.301498,-121.931,37.301498",
-    "geom:latitude":37.301498,
-    "geom:longitude":-121.931,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2190 Stokes St Ste 202",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Financial Services",
-            "type":"Services"
-        }
+    "addr:full": "2190 Stokes St Ste 202 San Jose CA 95128",
+    "addr:housenumber": "2190",
+    "addr:postcode": "95128",
+    "addr:street": "Stokes St Ste 202",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.931000,37.301498,-121.931000,37.301498",
+    "geom:latitude": 37.301498,
+    "geom:longitude": -121.931,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Olympic Mortgage, 2190 Stokes St San Jose CA US",
+    "ovtr:similarity": 2.439716100692749,
+    "sg:address": "2190 Stokes St Ste 202",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Financial Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 293 7878",
-    "sg:postcode":"95128",
-    "sg:province":"CA",
-    "sg:tags":[
-        "broker",
-        "mortgage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 293 7878",
+    "sg:postcode": "95128",
+    "sg:province": "CA",
+    "sg:tags": [
+      "broker",
+      "mortgage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420552627,
-        102191575,
-        1108782557,
-        85633793,
-        85922347,
-        102081673,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420552627,
+      102191575,
+      1108782557,
+      85633793,
+      85922347,
+      102081673,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5YYnoZrjPfwGrRlD9OsRDP_37.301498_-121.931000@1303263370"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2834730b91cea03314c4e1a9ebbcc",
+      "sg:id": "SG_5YYnoZrjPfwGrRlD9OsRDP_37.301498_-121.931000@1303263370"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f54c990f6773d1b8b4618d98c60a114c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782557,
-            "neighbourhood_id":420552627,
-            "region_id":85688637,
-            "venue_id":588601059
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "f54c990f6773d1b8b4618d98c60a114c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782557,
+        "neighbourhood_id": 420552627,
+        "region_id": 85688637,
+        "venue_id": 588601059
+      }
     ],
-    "wof:id":588601059,
-    "wof:lastmodified":1509202162,
-    "wof:name":"Olympic Mortgage",
-    "wof:parent_id":420552627,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "broker",
-        "mortgage"
+    "wof:id": 588601059,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Olympic Mortgage",
+    "wof:parent_id": 420552627,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "broker",
+      "mortgage"
     ]
-},
+  },
   "bbox": [
     -121.931,
     37.301498,
     -121.931,
     37.301498
-],
+  ],
   "geometry": {"coordinates":[-121.931,37.301498],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 588690199,
   "type": "Feature",
   "properties": {
-    "addr:full":"5641 Freeport Boulevard Sacramento CA 95822",
-    "addr:housenumber":"5641",
-    "addr:postcode":"95822",
-    "addr:street":"Freeport Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.49761,38.52285,-121.49761,38.52285",
-    "geom:latitude":38.52285,
-    "geom:longitude":-121.49761,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"5641 Freeport Boulevard",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5641 Freeport Boulevard Sacramento CA 95822",
+    "addr:housenumber": "5641",
+    "addr:postcode": "95822",
+    "addr:street": "Freeport Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.497610,38.522850,-121.497610,38.522850",
+    "geom:latitude": 38.52285,
+    "geom:longitude": -121.49761,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 5641 Freeport Blvd Sacramento CA US",
+    "ovtr:similarity": 3.2984259128570557,
+    "sg:address": "5641 Freeport Boulevard",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 393 7807",
-    "sg:postcode":"95822",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872161
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 393 7807",
+    "sg:postcode": "95822",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872161
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":458927027,
-        "sg:id":"SG_7LEJJvmSMPe1fiI408ZGc0_38.522850_-121.497610@1303263394"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 458927027,
+      "ovtr:id": "08f2832b3115a32c03baf969323b5d9e",
+      "sg:id": "SG_7LEJJvmSMPe1fiI408ZGc0_38.522850_-121.497610@1303263394"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a3db64d26fbd2a5b8db591a16ae876eb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872161,
-            "region_id":85688637,
-            "venue_id":588690199
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "a3db64d26fbd2a5b8db591a16ae876eb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872161,
+        "region_id": 85688637,
+        "venue_id": 588690199
+      }
     ],
-    "wof:id":588690199,
-    "wof:lastmodified":1511321240,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85872161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588690199,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85872161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.49761,
     38.52285,
     -121.49761,
     38.52285
-],
-  "geometry": {"coordinates":[-121.49760999999999,38.52285],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.49761,38.52285],"type":"Point"}
 }

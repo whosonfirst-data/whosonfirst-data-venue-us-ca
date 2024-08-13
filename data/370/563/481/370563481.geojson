@@ -2,86 +2,90 @@
   "id": 370563481,
   "type": "Feature",
   "properties": {
-    "addr:full":"116 S Western Ave Los Angeles CA 90004",
-    "addr:housenumber":"116",
-    "addr:postcode":"90004",
-    "addr:street":"S Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.30905,34.071449,-118.30905,34.071449",
-    "geom:latitude":34.071449,
-    "geom:longitude":-118.30905,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"116 S Western Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Freight",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "116 S Western Ave Los Angeles CA 90004",
+    "addr:housenumber": "116",
+    "addr:postcode": "90004",
+    "addr:street": "S Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.309050,34.071449,-118.309050,34.071449",
+    "geom:latitude": 34.071449,
+    "geom:longitude": -118.30905,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Safeway Self Storage Inc, 116 S Western Ave Los Angeles CA US",
+    "ovtr:similarity": 3.228408098220825,
+    "sg:address": "116 S Western Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Freight",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 738 9048",
-    "sg:postcode":"90004",
-    "sg:province":"CA",
-    "sg:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 738 9048",
+    "sg:postcode": "90004",
+    "sg:province": "CA",
+    "sg:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865819",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865819
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FZaMUWfXP64hOcoOPCe1w_34.071449_-118.309050@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6ecd6a5e03038caad45c2bc0",
+      "sg:id": "SG_4FZaMUWfXP64hOcoOPCe1w_34.071449_-118.309050@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bc861808f30a8932b75ccc9881f469ab",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865819",
-            "region_id":85688637,
-            "venue_id":370563481
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "bc861808f30a8932b75ccc9881f469ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865819,
+        "region_id": 85688637,
+        "venue_id": 370563481
+      }
     ],
-    "wof:id":370563481,
-    "wof:lastmodified":1509200767,
-    "wof:name":"Safeway Self-Storage Inc",
-    "wof:parent_id":"85865819",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "warehouse",
-        "self",
-        "storage"
+    "wof:id": 370563481,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Safeway Self-Storage Inc",
+    "wof:parent_id": "85865819",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "warehouse",
+      "self",
+      "storage"
     ]
-},
+  },
   "bbox": [
     -118.30905,
     34.071449,
     -118.30905,
     34.071449
-],
+  ],
   "geometry": {"coordinates":[-118.30905,34.071449],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 354262829,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 S Alvarado St Los Angeles CA 90006",
-    "addr:housenumber":"1100",
-    "addr:postcode":"90006",
-    "addr:street":"S Alvarado St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.281718,34.048783,-118.281718,34.048783",
-    "geom:latitude":34.048783,
-    "geom:longitude":-118.281718,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1100 S Alvarado St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "1100 S Alvarado St Los Angeles CA 90006",
+    "addr:housenumber": "1100",
+    "addr:postcode": "90006",
+    "addr:street": "S Alvarado St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.281718,34.048783,-118.281718,34.048783",
+    "geom:latitude": 34.048783,
+    "geom:longitude": -118.281718,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Olympia Convalescent Hospital, 1100 S Alvarado St Los Angeles CA US",
+    "ovtr:similarity": 2.4540679454803467,
+    "sg:address": "1100 S Alvarado St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 487 3000",
-    "sg:postcode":"90006",
-    "sg:province":"CA",
-    "sg:tags":[
-        "skilled"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 487 3000",
+    "sg:postcode": "90006",
+    "sg:province": "CA",
+    "sg:tags": [
+      "skilled"
     ],
-    "sg:website":"www.olympia.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85865809
+    "sg:website": "www.olympia.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85865809
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0eWecEMrMtHn1Mk7aUbU5b_34.048783_-118.281718@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d62b0d02b03c783714239943a",
+      "sg:id": "SG_0eWecEMrMtHn1Mk7aUbU5b_34.048783_-118.281718@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"645ddf95e7ff40ee2faf2075f3c72f12",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85865809,
-            "region_id":85688637,
-            "venue_id":354262829
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "645ddf95e7ff40ee2faf2075f3c72f12",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85865809,
+        "region_id": 85688637,
+        "venue_id": 354262829
+      }
     ],
-    "wof:id":354262829,
-    "wof:lastmodified":1509200667,
-    "wof:name":"Olympia Convalescent Hospital",
-    "wof:parent_id":85865809,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "skilled"
+    "wof:id": 354262829,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Olympia Convalescent Hospital",
+    "wof:parent_id": 85865809,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "skilled"
     ]
-},
+  },
   "bbox": [
     -118.281718,
     34.048783,
     -118.281718,
     34.048783
-],
+  ],
   "geometry": {"coordinates":[-118.281718,34.048783],"type":"Point"}
 }

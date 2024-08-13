@@ -2,73 +2,77 @@
   "id": 353704291,
   "type": "Feature",
   "properties": {
-    "addr:full":"13326 Lincoln Way Auburn CA 95603",
-    "addr:housenumber":"13326",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Lincoln Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.055958,38.923197,-121.055958,38.923197",
-    "geom:latitude":38.923197,
-    "geom:longitude":-121.055958,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13326 Lincoln Way",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "13326 Lincoln Way Auburn CA 95603",
+    "addr:housenumber": "13326",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Lincoln Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.055958,38.923197,-121.055958,38.923197",
+    "geom:latitude": 38.923197,
+    "geom:longitude": -121.055958,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Auburn Liquor and Food, 13326 Lincoln Way Auburn CA US",
+    "ovtr:similarity": 2.9322550296783447,
+    "sg:address": "13326 Lincoln Way",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 887 9341",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080863,
-        85841911
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 887 9341",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080863,
+      85841911
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2Yj7xQ0D7wqRBEmwZjzOQk_38.923197_-121.055958@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320e1c34c9a03dafc90e65314d8",
+      "sg:id": "SG_2Yj7xQ0D7wqRBEmwZjzOQk_38.923197_-121.055958@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9545e185c2b067e41507b9fb86b18a33",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":-1,
-            "neighbourhood_id":85841911,
-            "region_id":85688637,
-            "venue_id":353704291
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "9545e185c2b067e41507b9fb86b18a33",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": -1,
+        "neighbourhood_id": 85841911,
+        "region_id": 85688637,
+        "venue_id": 353704291
+      }
     ],
-    "wof:id":353704291,
-    "wof:lastmodified":1509200585,
-    "wof:name":"Auburn Liquor & Food",
-    "wof:parent_id":85841911,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 353704291,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Auburn Liquor \u0026 Food",
+    "wof:parent_id": 85841911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.055958,
     38.923197,
     -121.055958,
     38.923197
-],
+  ],
   "geometry": {"coordinates":[-121.055958,38.923197],"type":"Point"}
 }

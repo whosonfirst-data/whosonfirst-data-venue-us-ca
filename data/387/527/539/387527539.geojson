@@ -2,85 +2,89 @@
   "id": 387527539,
   "type": "Feature",
   "properties": {
-    "addr:full":"3839 Selig Pl Los Angeles CA 90031",
-    "addr:housenumber":"3839",
-    "addr:postcode":"90031",
-    "addr:street":"Selig Pl",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.199217,34.068264,-118.199217,34.068264",
-    "geom:latitude":34.068264,
-    "geom:longitude":-118.199217,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3839 Selig Pl",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Social Services",
-            "subcategory":"",
-            "type":"Services"
-        }
+    "addr:full": "3839 Selig Pl Los Angeles CA 90031",
+    "addr:housenumber": "3839",
+    "addr:postcode": "90031",
+    "addr:street": "Selig Pl",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.199217,34.068264,-118.199217,34.068264",
+    "geom:latitude": 34.068264,
+    "geom:longitude": -118.199217,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "El Arca, 3839 Selig Pl Los Angeles CA US",
+    "ovtr:similarity": 2.3091330528259277,
+    "sg:address": "3839 Selig Pl",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Social Services",
+        "subcategory": "",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 223 3079",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "sg:tags":[
-        "organization",
-        "welfare"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 223 3079",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "sg:tags": [
+      "organization",
+      "welfare"
     ],
-    "sg:website":"www.elarca.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.elarca.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7U5zFmE1tJexE73fGVzjjv_34.068264_-118.199217@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d720669700305c07b362c99c6",
+      "sg:id": "SG_7U5zFmE1tJexE73fGVzjjv_34.068264_-118.199217@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6edcbcc7b10218b86e88c5549320223b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":387527539
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "6edcbcc7b10218b86e88c5549320223b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 387527539
+      }
     ],
-    "wof:id":387527539,
-    "wof:lastmodified":1509201049,
-    "wof:name":"El Arca",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "organization",
-        "welfare"
+    "wof:id": 387527539,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "El Arca",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "organization",
+      "welfare"
     ]
-},
+  },
   "bbox": [
     -118.199217,
     34.068264,
     -118.199217,
     34.068264
-],
+  ],
   "geometry": {"coordinates":[-118.199217,34.068264],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 370376845,
   "type": "Feature",
   "properties": {
-    "addr:full":"6033 S Central Ave Los Angeles CA 90001",
-    "addr:housenumber":"6033",
-    "addr:postcode":"90001",
-    "addr:street":"S Central Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.256468,33.984431,-118.256468,33.984431",
-    "geom:latitude":33.984431,
-    "geom:longitude":-118.256468,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6033 S Central Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Storage",
-            "type":"Services"
-        }
+    "addr:full": "6033 S Central Ave Los Angeles CA 90001",
+    "addr:housenumber": "6033",
+    "addr:postcode": "90001",
+    "addr:street": "S Central Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.256468,33.984431,-118.256468,33.984431",
+    "geom:latitude": 33.984431,
+    "geom:longitude": -118.256468,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Extra Space Storage, 6033 S Central Ave Los Angeles CA US",
+    "ovtr:similarity": 2.723052978515625,
+    "sg:address": "6033 S Central Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Storage",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 232 0200",
-    "sg:postcode":"90001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "self"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 232 0200",
+    "sg:postcode": "90001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "self"
     ],
-    "sg:website":"www.extraspace.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85819643",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.extraspace.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85819643
     ],
-    "wof:brand_id":1125149047,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6AWJz54KjEepHUM7QPuqED_33.984431_-118.256468@1303263145"
+    "wof:brand_id": 1125149047,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56dd51820903792841fd34ad35",
+      "sg:id": "SG_6AWJz54KjEepHUM7QPuqED_33.984431_-118.256468@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"59ebfd7ea3401da4142cb1f5542c252f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85819643",
-            "region_id":85688637,
-            "venue_id":370376845
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "59ebfd7ea3401da4142cb1f5542c252f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85819643,
+        "region_id": 85688637,
+        "venue_id": 370376845
+      }
     ],
-    "wof:id":370376845,
-    "wof:lastmodified":1511318448,
-    "wof:name":"Extra Space Storage",
-    "wof:parent_id":"85819643",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "self"
+    "wof:id": 370376845,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Extra Space Storage",
+    "wof:parent_id": "85819643",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "self"
     ]
-},
+  },
   "bbox": [
     -118.256468,
     33.984431,
     -118.256468,
     33.984431
-],
+  ],
   "geometry": {"coordinates":[-118.256468,33.984431],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 571650567,
   "type": "Feature",
   "properties": {
-    "addr:full":"5228 E 2nd St Long Beach CA 90803",
-    "addr:housenumber":"5228",
-    "addr:postcode":"90803",
-    "addr:street":"E 2Nd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.13406,33.759854,-118.13406,33.759854",
-    "geom:latitude":33.759854,
-    "geom:longitude":-118.13406,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5228 E 2nd St",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Clothing, Apparel, & Fashions",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5228 E 2nd St Long Beach CA 90803",
+    "addr:housenumber": "5228",
+    "addr:postcode": "90803",
+    "addr:street": "E 2Nd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.134060,33.759854,-118.134060,33.759854",
+    "geom:latitude": 33.759854,
+    "geom:longitude": -118.13406,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Saga, 5005 E 2nd St Long Beach CA US",
+    "ovtr:similarity": 3.0153090953826904,
+    "sg:address": "5228 E 2nd St",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Clothing, Apparel, \u0026 Fashions",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 439 1237",
-    "sg:postcode":"90803",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923525,
-        102086957,
-        85836293,
-        85805639
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 439 1237",
+    "sg:postcode": "90803",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923525,
+      102086957,
+      85836293,
+      85805639
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7V82FQoDjU93u53pNK2kpJ_33.759854_-118.134060@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a578bc21883039b5fa60f8c3fd0",
+      "sg:id": "SG_7V82FQoDjU93u53pNK2kpJ_33.759854_-118.134060@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"483982cca61cd327a138ad98314bdf84",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85836293,
-            "region_id":85688637,
-            "venue_id":571650567
-        },
-        {
-            "country_id":85633793,
-            "county_id":102086957,
-            "neighbourhood_id":85805639,
-            "region_id":85688637,
-            "venue_id":571650567
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "483982cca61cd327a138ad98314bdf84",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85836293,
+        "region_id": 85688637,
+        "venue_id": 571650567
+      },
+      {
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "neighbourhood_id": 85805639,
+        "region_id": 85688637,
+        "venue_id": 571650567
+      }
     ],
-    "wof:id":571650567,
-    "wof:lastmodified":1509201549,
-    "wof:name":"Saga",
-    "wof:parent_id":-3,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571650567,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "Saga",
+    "wof:parent_id": -3,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.13406,
     33.759854,
     -118.13406,
     33.759854
-],
-  "geometry": {"coordinates":[-118.13406000000001,33.759854],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.13406,33.759854],"type":"Point"}
 }

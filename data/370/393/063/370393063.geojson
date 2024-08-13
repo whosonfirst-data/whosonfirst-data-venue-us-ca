@@ -2,77 +2,81 @@
   "id": 370393063,
   "type": "Feature",
   "properties": {
-    "addr:full":"4650 Beverly Blvd Los Angeles CA 90004",
-    "addr:housenumber":"4650",
-    "addr:postcode":"90004",
-    "addr:street":"Beverly Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.310997,34.076401,-118.310997,34.076401",
-    "geom:latitude":34.076401,
-    "geom:longitude":-118.310997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4650 Beverly Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "4650 Beverly Blvd Los Angeles CA 90004",
+    "addr:housenumber": "4650",
+    "addr:postcode": "90004",
+    "addr:street": "Beverly Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.310997,34.076401,-118.310997,34.076401",
+    "geom:latitude": 34.076401,
+    "geom:longitude": -118.310997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Universal Cleaners, 4650 Beverly Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.2766330242156982,
+    "sg:address": "4650 Beverly Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 466 8604",
-    "sg:postcode":"90004",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85869403",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 466 8604",
+    "sg:postcode": "90004",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0khjCrxzYxp1QAoKmjRHrA_34.076401_-118.310997@1303263146"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d6e546b30038f68155225d766",
+      "sg:id": "SG_0khjCrxzYxp1QAoKmjRHrA_34.076401_-118.310997@1303263146"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1ee585c18dcd0aaa3d9b3fe751940ef7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85869403",
-            "region_id":85688637,
-            "venue_id":370393063
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "1ee585c18dcd0aaa3d9b3fe751940ef7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85869403,
+        "region_id": 85688637,
+        "venue_id": 370393063
+      }
     ],
-    "wof:id":370393063,
-    "wof:lastmodified":1509200728,
-    "wof:name":"Universal Cleaners",
-    "wof:parent_id":"85869403",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370393063,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Universal Cleaners",
+    "wof:parent_id": "85869403",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.310997,
     34.076401,
     -118.310997,
     34.076401
-],
+  ],
   "geometry": {"coordinates":[-118.310997,34.076401],"type":"Point"}
 }

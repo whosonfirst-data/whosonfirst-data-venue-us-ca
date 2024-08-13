@@ -2,84 +2,88 @@
   "id": 571976453,
   "type": "Feature",
   "properties": {
-    "addr:full":"2345 24th Ave San Francisco CA 94199",
-    "addr:housenumber":"2345",
-    "addr:postcode":"94199",
-    "addr:street":"24Th Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.481198,37.743864,-122.481198,37.743864",
-    "geom:latitude":37.743864,
-    "geom:longitude":-122.481198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2345 24th Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "2345 24th Ave San Francisco CA 94199",
+    "addr:housenumber": "2345",
+    "addr:postcode": "94199",
+    "addr:street": "24Th Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.481198,37.743864,-122.481198,37.743864",
+    "geom:latitude": 37.743864,
+    "geom:longitude": -122.481198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taraval Police Station, 2345 24th Ave San Francisco CA US",
+    "ovtr:similarity": 1.6831300258636475,
+    "sg:address": "2345 24th Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 759 3100",
-    "sg:postcode":"94199",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 759 3100",
+    "sg:postcode": "94199",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.sfgov.org/site/police_index....",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865969,
-        102191575,
-        1108830803,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:website": "www.sfgov.org/site/police_index....",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865969,
+      102191575,
+      1108830803,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":86124611,
-        "sg:id":"SG_0G6Cartw6vkee6Ho3RQQYK_37.743648_-122.481171@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 86124611,
+      "ovtr:id": "08f283095eb4dab503c0710a0cdd0a15",
+      "sg:id": "SG_0G6Cartw6vkee6Ho3RQQYK_37.743648_-122.481171@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"24ace344fda36a1d5883644c73928ef4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830803,
-            "neighbourhood_id":85865969,
-            "region_id":85688637,
-            "venue_id":571976453
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "24ace344fda36a1d5883644c73928ef4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830803,
+        "neighbourhood_id": 85865969,
+        "region_id": 85688637,
+        "venue_id": 571976453
+      }
     ],
-    "wof:id":571976453,
-    "wof:lastmodified":1510943139,
-    "wof:name":"Taraval Police Station",
-    "wof:parent_id":85865969,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 571976453,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Taraval Police Station",
+    "wof:parent_id": 85865969,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -122.481198,
     37.743864,
     -122.481198,
     37.743864
-],
-  "geometry": {"coordinates":[-122.48119800000001,37.743864],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.481198,37.743864],"type":"Point"}
 }

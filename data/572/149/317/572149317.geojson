@@ -2,84 +2,88 @@
   "id": 572149317,
   "type": "Feature",
   "properties": {
-    "addr:full":"2606 Adams Ave San Diego CA 92116",
-    "addr:housenumber":"2606",
-    "addr:postcode":"92116",
-    "addr:street":"Adams Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.136104,32.763063,-117.136104,32.763063",
-    "geom:latitude":32.763063,
-    "geom:longitude":-117.136104,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2606 Adams Ave",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Bicycles & Sporting Goods",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2606 Adams Ave San Diego CA 92116",
+    "addr:housenumber": "2606",
+    "addr:postcode": "92116",
+    "addr:street": "Adams Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.136104,32.763063,-117.136104,32.763063",
+    "geom:latitude": 32.763063,
+    "geom:longitude": -117.136104,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Adams Avenue Bicycles, 2602 Adams Ave San Diego CA US",
+    "ovtr:similarity": 2.493155002593994,
+    "sg:address": "2606 Adams Ave",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Bicycles \u0026 Sporting Goods",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 295 8500",
-    "sg:postcode":"92116",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bike"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 295 8500",
+    "sg:postcode": "92116",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bike"
     ],
-    "sg:website":"www.aabikes.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85871161,
-        102191575,
-        1108801255,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "sg:website": "www.aabikes.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85871161,
+      102191575,
+      1108801255,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2998803364,
-        "sg:id":"SG_7L1VDUndYmFfTup1t4rXKz_32.762942_-117.135830@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2998803364,
+      "ovtr:id": "08f29a41ab72ad6d03ae2784cd771e27",
+      "sg:id": "SG_7L1VDUndYmFfTup1t4rXKz_32.762942_-117.135830@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4764b72d0428b8a7c1ae5072e8527048",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108801255,
-            "neighbourhood_id":85871161,
-            "region_id":85688637,
-            "venue_id":572149317
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "4764b72d0428b8a7c1ae5072e8527048",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108801255,
+        "neighbourhood_id": 85871161,
+        "region_id": 85688637,
+        "venue_id": 572149317
+      }
     ],
-    "wof:id":572149317,
-    "wof:lastmodified":1510943303,
-    "wof:name":"Adams Avenue Bicycles",
-    "wof:parent_id":85871161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bike"
+    "wof:id": 572149317,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Adams Avenue Bicycles",
+    "wof:parent_id": 85871161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bike"
     ]
-},
+  },
   "bbox": [
     -117.136104,
     32.763063,
     -117.136104,
     32.763063
-],
+  ],
   "geometry": {"coordinates":[-117.136104,32.763063],"type":"Point"}
 }

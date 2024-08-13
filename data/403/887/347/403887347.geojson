@@ -2,73 +2,77 @@
   "id": 403887347,
   "type": "Feature",
   "properties": {
-    "addr:full":"753 E Whittier Blvd La Habra CA 90631",
-    "addr:housenumber":"753",
-    "addr:postcode":"90631",
-    "addr:street":"E Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.938363,33.939193,-117.938363,33.939193",
-    "geom:latitude":33.939193,
-    "geom:longitude":-117.938363,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"753 E Whittier Blvd",
-    "sg:city":"La Habra",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "753 E Whittier Blvd La Habra CA 90631",
+    "addr:housenumber": "753",
+    "addr:postcode": "90631",
+    "addr:street": "E Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.938363,33.939193,-117.938363,33.939193",
+    "geom:latitude": 33.939193,
+    "geom:longitude": -117.938363,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Happy Liquor, 753 E Whittier Blvd La Habra CA US",
+    "ovtr:similarity": 2.0160489082336426,
+    "sg:address": "753 E Whittier Blvd",
+    "sg:city": "La Habra",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 691 3076",
-    "sg:postcode":"90631",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923107,
-        102080847
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 691 3076",
+    "sg:postcode": "90631",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923107,
+      102080847
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5KStX9whXUkiv0Rj9bxT0x_33.939193_-117.938363@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a454a581e03fb3140037ab179",
+      "sg:id": "SG_5KStX9whXUkiv0Rj9bxT0x_33.939193_-117.938363@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"932945569216b3fe36726a6763a4bff7",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923107,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":403887347
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "932945569216b3fe36726a6763a4bff7",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923107,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 403887347
+      }
     ],
-    "wof:id":403887347,
-    "wof:lastmodified":1509201165,
-    "wof:name":"Happy Liquor",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403887347,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Happy Liquor",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.938363,
     33.939193,
     -117.938363,
     33.939193
-],
+  ],
   "geometry": {"coordinates":[-117.938363,33.939193],"type":"Point"}
 }

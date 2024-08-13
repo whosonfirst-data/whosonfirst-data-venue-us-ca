@@ -2,83 +2,87 @@
   "id": 185674035,
   "type": "Feature",
   "properties": {
-    "addr:full":"6150 Whittier Blvd Los Angeles CA 90022",
-    "addr:housenumber":"6150",
-    "addr:postcode":"90022",
-    "addr:street":"Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.13908,34.016551,-118.13908,34.016551",
-    "geom:latitude":34.016551,
-    "geom:longitude":-118.13908,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6150 Whittier Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6150 Whittier Blvd Los Angeles CA 90022",
+    "addr:housenumber": "6150",
+    "addr:postcode": "90022",
+    "addr:street": "Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.139080,34.016551,-118.139080,34.016551",
+    "geom:latitude": 34.016551,
+    "geom:longitude": -118.13908,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Olympic Top Shop, 6150 Whittier Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.8048969507217407,
+    "sg:address": "6150 Whittier Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 723 7466",
-    "sg:postcode":"90022",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "top",
-        "upholstery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 723 7466",
+    "sg:postcode": "90022",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "top",
+      "upholstery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928323,
-        102086957,
-        85817051
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928323,
+      102086957,
+      85817051
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5aHRc4NRLyGef3HqoZUMNo_34.016551_-118.139080@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d2ac36862033af2756c8d41a0",
+      "sg:id": "SG_5aHRc4NRLyGef3HqoZUMNo_34.016551_-118.139080@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1cdbda5e11e2f377fb7af60f2108e4c4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928323,
-            "neighbourhood_id":85817051,
-            "region_id":85688637,
-            "venue_id":185674035
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "1cdbda5e11e2f377fb7af60f2108e4c4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928323,
+        "neighbourhood_id": 85817051,
+        "region_id": 85688637,
+        "venue_id": 185674035
+      }
     ],
-    "wof:id":185674035,
-    "wof:lastmodified":1509199819,
-    "wof:name":"Olympic Top Shop",
-    "wof:parent_id":85817051,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "top",
-        "upholstery"
+    "wof:id": 185674035,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Olympic Top Shop",
+    "wof:parent_id": 85817051,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "top",
+      "upholstery"
     ]
-},
+  },
   "bbox": [
     -118.13908,
     34.016551,
     -118.13908,
     34.016551
-],
-  "geometry": {"coordinates":[-118.13908000000001,34.016551],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.13908,34.016551],"type":"Point"}
 }

@@ -2,58 +2,66 @@
   "id": 571984831,
   "type": "Feature",
   "properties": {
-    "addr:full":"28134 Jefferson Ave Temecula CA 92590",
-    "addr:housenumber":"28134",
-    "addr:postcode":"92590",
-    "addr:street":"Jefferson Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.154628,33.502386,-117.154628,33.502386",
-    "geom:latitude":33.502386,
-    "geom:longitude":-117.154628,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"28134 Jefferson Ave",
-    "sg:city":"Temecula",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "28134 Jefferson Ave Temecula CA 92590",
+    "addr:housenumber": "28134",
+    "addr:postcode": "92590",
+    "addr:street": "Jefferson Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.154628,33.502386,-117.154628,33.502386",
+    "geom:latitude": 33.502386,
+    "geom:longitude": -117.154628,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rosa's Cafe \u0026 Tortilla Factory, 28134 Jefferson Ave Temecula CA US",
+    "ovtr:similarity": 2.676589012145996,
+    "sg:address": "28134 Jefferson Ave",
+    "sg:city": "Temecula",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 506 5800",
-    "sg:postcode":"92590",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0qobbiZJmaLsGngUhbMi6h_33.502624_-117.154421@1293134755"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 506 5800",
+    "sg:postcode": "92590",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0992a36aa803b41d6d154eb9be",
+      "sg:id": "SG_0qobbiZJmaLsGngUhbMi6h_33.502624_-117.154421@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8b827300e233469e4e174492a155e789",
-    "wof:hierarchy":[],
-    "wof:id":571984831,
-    "wof:lastmodified":1509201655,
-    "wof:name":"Rosa's Cafe & Tortilla Factory",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "8b827300e233469e4e174492a155e789",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571984831
+      }
+    ],
+    "wof:id": 571984831,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Rosa's Cafe \u0026 Tortilla Factory",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.154628,
     33.502386,
     -117.154628,
     33.502386
-],
+  ],
   "geometry": {"coordinates":[-117.154628,33.502386],"type":"Point"}
 }

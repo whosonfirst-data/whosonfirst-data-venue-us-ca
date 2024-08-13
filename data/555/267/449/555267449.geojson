@@ -2,63 +2,71 @@
   "id": 555267449,
   "type": "Feature",
   "properties": {
-    "addr:full":"204 Patterson Rd Santa Maria CA 93455",
-    "addr:housenumber":"204",
-    "addr:postcode":"93455",
-    "addr:street":"Patterson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.43577,34.868681,-120.43577,34.868681",
-    "geom:latitude":34.868681,
-    "geom:longitude":-120.43577,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"204 Patterson Rd",
-    "sg:city":"Santa Maria",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "204 Patterson Rd Santa Maria CA 93455",
+    "addr:housenumber": "204",
+    "addr:postcode": "93455",
+    "addr:street": "Patterson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.435770,34.868681,-120.435770,34.868681",
+    "geom:latitude": 34.868681,
+    "geom:longitude": -120.43577,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Orcutt Christian Church, 204 Patterson Rd Santa Maria CA US",
+    "ovtr:similarity": 2.6003880500793457,
+    "sg:address": "204 Patterson Rd",
+    "sg:city": "Santa Maria",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 937 1641",
-    "sg:postcode":"93455",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 937 1641",
+    "sg:postcode": "93455",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_24sz749EgFyAnCwcBRbF2z_34.868681_-120.435770@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29136b224475c034b2e07de7fdf93",
+      "sg:id": "SG_24sz749EgFyAnCwcBRbF2z_34.868681_-120.435770@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"81f0235cb37340aef3495d5e4f5e9d5f",
-    "wof:hierarchy":[],
-    "wof:id":555267449,
-    "wof:lastmodified":1509201333,
-    "wof:name":"Orcutt Christian Church",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "81f0235cb37340aef3495d5e4f5e9d5f",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555267449
+      }
+    ],
+    "wof:id": 555267449,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Orcutt Christian Church",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -120.43577,
     34.868681,
     -120.43577,
     34.868681
-],
-  "geometry": {"coordinates":[-120.43577000000001,34.868681],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-120.43577,34.868681],"type":"Point"}
 }

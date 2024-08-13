@@ -2,82 +2,86 @@
   "id": 370668629,
   "type": "Feature",
   "properties": {
-    "addr:full":"3045 S La Brea Ave Los Angeles CA 90016",
-    "addr:housenumber":"3045",
-    "addr:postcode":"90016",
-    "addr:street":"S;Brea Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.353996,34.025902,-118.353996,34.025902",
-    "geom:latitude":34.025902,
-    "geom:longitude":-118.353996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3045 S La Brea Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Funeral Services",
-            "type":"Services"
-        }
+    "addr:full": "3045 S La Brea Ave Los Angeles CA 90016",
+    "addr:housenumber": "3045",
+    "addr:postcode": "90016",
+    "addr:street": "S;Brea Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.353996,34.025902,-118.353996,34.025902",
+    "geom:latitude": 34.025902,
+    "geom:longitude": -118.353996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Spalding Mortuary, 3045 S La Brea Ave Los Angeles CA US",
+    "ovtr:similarity": 1.8507159948349,
+    "sg:address": "3045 S La Brea Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Funeral Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 934 1181",
-    "sg:postcode":"90016",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cemetery"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 934 1181",
+    "sg:postcode": "90016",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cemetery"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865803",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865803
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_16Ie3r6ulYDwxz9vwWLnL4_34.025902_-118.353996@1303263152"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19905048ae03be3a1e75addcf4",
+      "sg:id": "SG_16Ie3r6ulYDwxz9vwWLnL4_34.025902_-118.353996@1303263152"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b5d0e50041bed676316b35f46a28e8d7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85865803",
-            "region_id":85688637,
-            "venue_id":370668629
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "b5d0e50041bed676316b35f46a28e8d7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85865803,
+        "region_id": 85688637,
+        "venue_id": 370668629
+      }
     ],
-    "wof:id":370668629,
-    "wof:lastmodified":1509200792,
-    "wof:name":"Spalding Mortuary",
-    "wof:parent_id":"85865803",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cemetery"
+    "wof:id": 370668629,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Spalding Mortuary",
+    "wof:parent_id": "85865803",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cemetery"
     ]
-},
+  },
   "bbox": [
     -118.353996,
     34.025902,
     -118.353996,
     34.025902
-],
+  ],
   "geometry": {"coordinates":[-118.353996,34.025902],"type":"Point"}
 }

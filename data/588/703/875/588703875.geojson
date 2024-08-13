@@ -2,81 +2,85 @@
   "id": 588703875,
   "type": "Feature",
   "properties": {
-    "addr:full":"6201 Florin Perkins Rd Sacramento CA 95828",
-    "addr:housenumber":"6201",
-    "addr:postcode":"95828",
-    "addr:street":"Florin Perkins Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.38818,38.514723,-121.38818,38.514723",
-    "geom:latitude":38.514723,
-    "geom:longitude":-121.38818,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6201 Florin Perkins Rd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "6201 Florin Perkins Rd Sacramento CA 95828",
+    "addr:housenumber": "6201",
+    "addr:postcode": "95828",
+    "addr:street": "Florin Perkins Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.388180,38.514723,-121.388180,38.514723",
+    "geom:latitude": 38.514723,
+    "geom:longitude": -121.38818,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sacramento SPCA, 6201 Florin Perkins Rd Sacramento CA US",
+    "ovtr:similarity": 2.2706339359283447,
+    "sg:address": "6201 Florin Perkins Rd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 383 7387",
-    "sg:postcode":"95828",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 383 7387",
+    "sg:postcode": "95828",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pet"
     ],
-    "sg:website":"www.sspca.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85842583
+    "sg:website": "www.sspca.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85842583
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1Z1WyPlB7tZnzxBN9Gn3bb_38.514723_-121.388180@1303263398"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283284c634c8803a3314751f9185b",
+      "sg:id": "SG_1Z1WyPlB7tZnzxBN9Gn3bb_38.514723_-121.388180@1303263398"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d0a43e58e21ea4d550da604e0720433b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85842583,
-            "region_id":85688637,
-            "venue_id":588703875
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "d0a43e58e21ea4d550da604e0720433b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85842583,
+        "region_id": 85688637,
+        "venue_id": 588703875
+      }
     ],
-    "wof:id":588703875,
-    "wof:lastmodified":1509202225,
-    "wof:name":"Sacramento SPCA",
-    "wof:parent_id":85842583,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pet"
+    "wof:id": 588703875,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Sacramento SPCA",
+    "wof:parent_id": 85842583,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pet"
     ]
-},
+  },
   "bbox": [
     -121.38818,
     38.514723,
     -121.38818,
     38.514723
-],
-  "geometry": {"coordinates":[-121.38818000000001,38.514723],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.38818,38.514723],"type":"Point"}
 }

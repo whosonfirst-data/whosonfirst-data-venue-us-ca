@@ -2,87 +2,91 @@
   "id": 387660355,
   "type": "Feature",
   "properties": {
-    "addr:full":"600 W Manchester Blvd Inglewood CA 90301",
-    "addr:housenumber":"600",
-    "addr:postcode":"90301",
-    "addr:street":"W Manchester Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.366219,33.961559,-118.366219,33.961559",
-    "geom:latitude":33.961559,
-    "geom:longitude":-118.366219,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"600 W Manchester Blvd",
-    "sg:city":"Inglewood",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Laundry & Dry Cleaning",
-            "type":"Services"
-        }
+    "addr:full": "600 W Manchester Blvd Inglewood CA 90301",
+    "addr:housenumber": "600",
+    "addr:postcode": "90301",
+    "addr:street": "W Manchester Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.366219,33.961559,-118.366219,33.961559",
+    "geom:latitude": 33.961559,
+    "geom:longitude": -118.366219,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Launderland Wash \u0026 Dry, 600 W Manchester Blvd Inglewood CA US",
+    "ovtr:similarity": 1.934141993522644,
+    "sg:address": "600 W Manchester Blvd",
+    "sg:city": "Inglewood",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Laundry \u0026 Dry Cleaning",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 412 2315",
-    "sg:postcode":"90301",
-    "sg:province":"CA",
-    "sg:tags":[
-        "laundries-self",
-        "operated",
-        "washer",
-        "dryer",
-        "coin"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 412 2315",
+    "sg:postcode": "90301",
+    "sg:province": "CA",
+    "sg:tags": [
+      "laundries-self",
+      "operated",
+      "washer",
+      "dryer",
+      "coin"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85886059
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85886059
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2NBOpj8LlErOiiTFl2xNS1_33.961559_-118.366219@1303263183"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a19b605a9b103153b1b8ccef955",
+      "sg:id": "SG_2NBOpj8LlErOiiTFl2xNS1_33.961559_-118.366219@1303263183"
     },
-    "wof:country":"US",
-    "wof:geomhash":"14e8a185e0b359f85b42979310e598ee",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85886059,
-            "region_id":85688637,
-            "venue_id":387660355
-        }
+    "wof:country": "US",
+    "wof:created": 1723561647,
+    "wof:geomhash": "14e8a185e0b359f85b42979310e598ee",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85886059,
+        "region_id": 85688637,
+        "venue_id": 387660355
+      }
     ],
-    "wof:id":387660355,
-    "wof:lastmodified":1509201074,
-    "wof:name":"Launderland Wash & Dry",
-    "wof:parent_id":85886059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laundries-self",
-        "operated",
-        "washer",
-        "dryer",
-        "coin"
+    "wof:id": 387660355,
+    "wof:lastmodified": 1723561647,
+    "wof:name": "Launderland Wash \u0026 Dry",
+    "wof:parent_id": 85886059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laundries-self",
+      "operated",
+      "washer",
+      "dryer",
+      "coin"
     ]
-},
+  },
   "bbox": [
     -118.366219,
     33.961559,
     -118.366219,
     33.961559
-],
+  ],
   "geometry": {"coordinates":[-118.366219,33.961559],"type":"Point"}
 }

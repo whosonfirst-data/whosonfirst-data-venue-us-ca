@@ -2,74 +2,78 @@
   "id": 219526393,
   "type": "Feature",
   "properties": {
-    "addr:full":"1212 Kellwil Way Duarte CA 91010",
-    "addr:housenumber":"1212",
-    "addr:postcode":"91010",
-    "addr:street":"Kellwil Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.979143,34.12863,-117.979143,34.12863",
-    "geom:latitude":34.12863,
-    "geom:longitude":-117.979143,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1212 Kellwil Way",
-    "sg:city":"Duarte",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1212 Kellwil Way Duarte CA 91010",
+    "addr:housenumber": "1212",
+    "addr:postcode": "91010",
+    "addr:street": "Kellwil Way",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.979143,34.128630,-117.979143,34.128630",
+    "geom:latitude": 34.12863,
+    "geom:longitude": -117.979143,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Beardslee Elementary School, 1212 Kellwill Way Duarte CA US",
+    "ovtr:similarity": 3.096545934677124,
+    "sg:address": "1212 Kellwil Way",
+    "sg:city": "Duarte",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 599 5200",
-    "sg:postcode":"91010",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923503,
-        102086957,
-        85886489
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 599 5200",
+    "sg:postcode": "91010",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923503,
+      102086957,
+      85886489
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0fQChFrFjwwC1rktjRlN76_34.128630_-117.979143@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d8c88ad0103768bd39f12615c",
+      "sg:id": "SG_0fQChFrFjwwC1rktjRlN76_34.128630_-117.979143@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"17ffd509494980d51a6a31f258e4fcf2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923503,
-            "neighbourhood_id":85886489,
-            "region_id":85688637,
-            "venue_id":219526393
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "17ffd509494980d51a6a31f258e4fcf2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923503,
+        "neighbourhood_id": 85886489,
+        "region_id": 85688637,
+        "venue_id": 219526393
+      }
     ],
-    "wof:id":219526393,
-    "wof:lastmodified":1509199962,
-    "wof:name":"Beardslee Elementary School",
-    "wof:parent_id":85886489,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 219526393,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Beardslee Elementary School",
+    "wof:parent_id": 85886489,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.979143,
     34.12863,
     -117.979143,
     34.12863
-],
-  "geometry": {"coordinates":[-117.97914299999999,34.12863],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.979143,34.12863],"type":"Point"}
 }

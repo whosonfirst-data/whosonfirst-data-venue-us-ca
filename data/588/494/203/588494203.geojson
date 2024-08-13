@@ -2,90 +2,94 @@
   "id": 588494203,
   "type": "Feature",
   "properties": {
-    "addr:full":"5121 Telegraph Ave Oakland CA 94609",
-    "addr:housenumber":"5121",
-    "addr:postcode":"94609",
-    "addr:street":"Telegraph Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.262402,37.837245,-122.262402,37.837245",
-    "geom:latitude":37.837245,
-    "geom:longitude":-122.262402,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"5121 Telegraph Ave",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Farmers Market",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5121 Telegraph Ave Oakland CA 94609",
+    "addr:housenumber": "5121",
+    "addr:postcode": "94609",
+    "addr:street": "Telegraph Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.262402,37.837245,-122.262402,37.837245",
+    "geom:latitude": 37.837245,
+    "geom:longitude": -122.262402,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Temescal Produce Market, 5121 Telegraph Ave Oakland CA US",
+    "ovtr:similarity": 2.327486038208008,
+    "sg:address": "5121 Telegraph Ave",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Farmers Market",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 923 1866",
-    "sg:postcode":"94609",
-    "sg:province":"CA",
-    "sg:tags":[
-        "vegetable",
-        "fruit"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 923 1866",
+    "sg:postcode": "94609",
+    "sg:province": "CA",
+    "sg:tags": [
+      "vegetable",
+      "fruit"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872391,
-        102191575,
-        1108794075,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872391,
+      102191575,
+      1108794075,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2274545054,
-        "sg:id":"SG_5RBMZtObolR2EpGjme6jqd_37.837245_-122.262402@1303263343"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2274545054,
+      "ovtr:id": "08f28308acb734ad0369fa3abf311632",
+      "sg:id": "SG_5RBMZtObolR2EpGjme6jqd_37.837245_-122.262402@1303263343"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8fcca74dd2068879e28cbdb8079d5652",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794075,
-            "neighbourhood_id":85872391,
-            "region_id":85688637,
-            "venue_id":588494203
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "8fcca74dd2068879e28cbdb8079d5652",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794075,
+        "neighbourhood_id": 85872391,
+        "region_id": 85688637,
+        "venue_id": 588494203
+      }
     ],
-    "wof:id":588494203,
-    "wof:lastmodified":1510943222,
-    "wof:name":"Temescal Produce Market",
-    "wof:parent_id":85872391,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "vegetable",
-        "fruit"
+    "wof:id": 588494203,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Temescal Produce Market",
+    "wof:parent_id": 85872391,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "vegetable",
+      "fruit"
     ]
-},
+  },
   "bbox": [
     -122.262402,
     37.837245,
     -122.262402,
     37.837245
-],
-  "geometry": {"coordinates":[-122.26240199999999,37.837245],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.262402,37.837245],"type":"Point"}
 }

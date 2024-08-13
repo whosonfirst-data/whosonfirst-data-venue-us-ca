@@ -2,91 +2,95 @@
   "id": 555023859,
   "type": "Feature",
   "properties": {
-    "addr:full":"8953 S Western Ave Los Angeles CA 90047",
-    "addr:housenumber":"8953",
-    "addr:postcode":"90047",
-    "addr:street":"S Western Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.309079,33.955258,-118.309079,33.955258",
-    "geom:latitude":33.955258,
-    "geom:longitude":-118.309079,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8953 S Western Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Home & Garden",
-            "subcategory":"Home Furnishings",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8953 S Western Ave Los Angeles CA 90047",
+    "addr:housenumber": "8953",
+    "addr:postcode": "90047",
+    "addr:street": "S Western Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.309079,33.955258,-118.309079,33.955258",
+    "geom:latitude": 33.955258,
+    "geom:longitude": -118.309079,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vernon Glass \u0026 Mirror Inc., 8953 S Western Ave Los Angeles CA US",
+    "ovtr:similarity": 3.741252899169922,
+    "sg:address": "8953 S Western Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Home Furnishings",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 751 5187",
-    "sg:postcode":"90047",
-    "sg:province":"CA",
-    "sg:tags":[
-        "glass",
-        "product",
-        "mirror"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 751 5187",
+    "sg:postcode": "90047",
+    "sg:province": "CA",
+    "sg:tags": [
+      "glass",
+      "product",
+      "mirror"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420780795",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420780795
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2R2P3KQzP3CNUIN83C6BHJ_33.955258_-118.309079@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56ccc085440386d439a1efd8c2",
+      "sg:id": "SG_2R2P3KQzP3CNUIN83C6BHJ_33.955258_-118.309079@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2dda8b8e7b589c8e220d392387d93733",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420780795",
-            "region_id":85688637,
-            "venue_id":555023859
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "2dda8b8e7b589c8e220d392387d93733",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420780795,
+        "region_id": 85688637,
+        "venue_id": 555023859
+      }
     ],
-    "wof:id":555023859,
-    "wof:lastmodified":1509201252,
-    "wof:name":"Vernon Glass Co & Mirror",
-    "wof:parent_id":"420780795",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "glass",
-        "product",
-        "mirror"
+    "wof:id": 555023859,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Vernon Glass Co \u0026 Mirror",
+    "wof:parent_id": "420780795",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "glass",
+      "product",
+      "mirror"
     ]
-},
+  },
   "bbox": [
     -118.309079,
     33.955258,
     -118.309079,
     33.955258
-],
+  ],
   "geometry": {"coordinates":[-118.309079,33.955258],"type":"Point"}
 }

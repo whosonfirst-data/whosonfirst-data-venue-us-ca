@@ -2,86 +2,90 @@
   "id": 572343761,
   "type": "Feature",
   "properties": {
-    "addr:full":"4100 Oceanside Blvd Oceanside CA 92056",
-    "addr:housenumber":"4100",
-    "addr:postcode":"92056",
-    "addr:street":"Oceanside Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.289092,33.206203,-117.289092,33.206203",
-    "geom:latitude":33.206203,
-    "geom:longitude":-117.289092,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4100 Oceanside Blvd",
-    "sg:city":"Oceanside",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "4100 Oceanside Blvd Oceanside CA 92056",
+    "addr:housenumber": "4100",
+    "addr:postcode": "92056",
+    "addr:street": "Oceanside Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.289092,33.206203,-117.289092,33.206203",
+    "geom:latitude": 33.206203,
+    "geom:longitude": -117.289092,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "KFC, 4100 Oceanside Blvd Oceanside CA US",
+    "ovtr:similarity": 2.655333995819092,
+    "sg:address": "4100 Oceanside Blvd",
+    "sg:city": "Oceanside",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"92056",
-    "sg:province":"CA",
-    "sg:tags":[
-        "chicken"
+    "sg:owner": "simplegeo",
+    "sg:postcode": "92056",
+    "sg:province": "CA",
+    "sg:tags": [
+      "chicken"
     ],
-    "sg:website":"www.kfc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922239,
-        102083569,
-        85886755
+    "sg:website": "www.kfc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922239,
+      102083569,
+      85886755
     ],
-    "wof:brand_id":420573907,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6yQR85oy97JZWSxLSuGn43_33.206203_-117.289092@1303263236"
+    "wof:brand_id": 420573907,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a474874d3a803cb9c921db55216",
+      "sg:id": "SG_6yQR85oy97JZWSxLSuGn43_33.206203_-117.289092@1303263236"
     },
-    "wof:country":"US",
-    "wof:geomhash":"89eb889c904a1b114b107d0f7650857c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922239,
-            "neighbourhood_id":85886755,
-            "region_id":85688637,
-            "venue_id":572343761
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "89eb889c904a1b114b107d0f7650857c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922239,
+        "neighbourhood_id": 85886755,
+        "region_id": 85688637,
+        "venue_id": 572343761
+      }
     ],
-    "wof:id":572343761,
-    "wof:lastmodified":1511322987,
-    "wof:name":"KFC",
-    "wof:parent_id":85886755,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "chicken"
+    "wof:id": 572343761,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "KFC",
+    "wof:parent_id": 85886755,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "chicken"
     ]
-},
+  },
   "bbox": [
     -117.289092,
     33.206203,
     -117.289092,
     33.206203
-],
+  ],
   "geometry": {"coordinates":[-117.289092,33.206203],"type":"Point"}
 }

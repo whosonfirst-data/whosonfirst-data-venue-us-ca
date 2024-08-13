@@ -2,84 +2,88 @@
   "id": 572079505,
   "type": "Feature",
   "properties": {
-    "addr:full":"3607 S Vermont Ave Los Angeles CA 90007",
-    "addr:housenumber":"3607",
-    "addr:postcode":"90007",
-    "addr:street":"S Vermont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.292047,34.022601,-118.292047,34.022601",
-    "geom:latitude":34.022601,
-    "geom:longitude":-118.292047,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3607 S Vermont Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Groceries",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "3607 S Vermont Ave Los Angeles CA 90007",
+    "addr:housenumber": "3607",
+    "addr:postcode": "90007",
+    "addr:street": "S Vermont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.292047,34.022601,-118.292047,34.022601",
+    "geom:latitude": 34.022601,
+    "geom:longitude": -118.292047,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Smart \u0026 Final, 3607 S Vermont Ave Los Angeles CA US",
+    "ovtr:similarity": 1.8781499862670898,
+    "sg:address": "3607 S Vermont Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Groceries",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 733 5875",
-    "sg:postcode":"90007",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 733 5875",
+    "sg:postcode": "90007",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.smartandfinal.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85869223",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.smartandfinal.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85869223
     ],
-    "wof:brand_id":1125150055,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4NtSO57Jt85Y5c5RX4ZYNw_34.022238_-118.291612@1293134755"
+    "wof:brand_id": 1125150055,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d640c350e03d903141b29599c",
+      "sg:id": "SG_4NtSO57Jt85Y5c5RX4ZYNw_34.022238_-118.291612@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d09db5b0ce8941f8ce5a8b9ff77e40a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85869223",
-            "region_id":85688637,
-            "venue_id":572079505
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "d09db5b0ce8941f8ce5a8b9ff77e40a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85869223,
+        "region_id": 85688637,
+        "venue_id": 572079505
+      }
     ],
-    "wof:id":572079505,
-    "wof:lastmodified":1510695750,
-    "wof:name":"Smart & Final",
-    "wof:parent_id":"85869223",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 572079505,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Smart \u0026 Final",
+    "wof:parent_id": "85869223",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.292047,
     34.022601,
     -118.292047,
     34.022601
-],
+  ],
   "geometry": {"coordinates":[-118.292047,34.022601],"type":"Point"}
 }

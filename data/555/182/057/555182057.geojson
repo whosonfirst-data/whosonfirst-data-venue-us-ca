@@ -2,58 +2,66 @@
   "id": 555182057,
   "type": "Feature",
   "properties": {
-    "addr:full":"5050 Rocklin Rd Rocklin CA 95677",
-    "addr:housenumber":"5050",
-    "addr:postcode":"95677",
-    "addr:street":"Rocklin Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.205477,38.788488,-121.205477,38.788488",
-    "geom:latitude":38.788488,
-    "geom:longitude":-121.205477,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5050 Rocklin Rd",
-    "sg:city":"Rocklin",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5050 Rocklin Rd Rocklin CA 95677",
+    "addr:housenumber": "5050",
+    "addr:postcode": "95677",
+    "addr:street": "Rocklin Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.205477,38.788488,-121.205477,38.788488",
+    "geom:latitude": 38.788488,
+    "geom:longitude": -121.205477,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bangkok City Thai Cuisine, 5050 Rocklin Rd Rocklin CA US",
+    "ovtr:similarity": 2.4490909576416016,
+    "sg:address": "5050 Rocklin Rd",
+    "sg:city": "Rocklin",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 632 9282",
-    "sg:postcode":"95677",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1rL9epeivXg29Jae7pfnwx_38.788488_-121.205477@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 632 9282",
+    "sg:postcode": "95677",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283214a006d8903d9a25d56d71eb5",
+      "sg:id": "SG_1rL9epeivXg29Jae7pfnwx_38.788488_-121.205477@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8157d56b5e372e949bff4be05fc01fee",
-    "wof:hierarchy":[],
-    "wof:id":555182057,
-    "wof:lastmodified":1509201305,
-    "wof:name":"Bangkok City Thai Cuisine",
-    "wof:parent_id":420551843,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "8157d56b5e372e949bff4be05fc01fee",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555182057
+      }
+    ],
+    "wof:id": 555182057,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "Bangkok City Thai Cuisine",
+    "wof:parent_id": 420551843,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.205477,
     38.788488,
     -121.205477,
     38.788488
-],
+  ],
   "geometry": {"coordinates":[-121.205477,38.788488],"type":"Point"}
 }

@@ -2,60 +2,68 @@
   "id": 571591739,
   "type": "Feature",
   "properties": {
-    "addr:full":"1640 R St Merced CA 95340",
-    "addr:housenumber":"1640",
-    "addr:postcode":"95340",
-    "addr:street":"R St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.492341,37.304673,-120.492341,37.304673",
-    "geom:latitude":37.304673,
-    "geom:longitude":-120.492341,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1640 R St",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1640 R St Merced CA 95340",
+    "addr:housenumber": "1640",
+    "addr:postcode": "95340",
+    "addr:street": "R St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.492341,37.304673,-120.492341,37.304673",
+    "geom:latitude": 37.304673,
+    "geom:longitude": -120.492341,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Walgreens, 1640 R St Merced CA US",
+    "ovtr:similarity": 2.412982940673828,
+    "sg:address": "1640 R St",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 722 1046",
-    "sg:postcode":"95340",
-    "sg:province":"CA",
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6zBtiqtfvDB0lQCAI5vGYe_37.304673_-120.492341@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 722 1046",
+    "sg:postcode": "95340",
+    "sg:province": "CA",
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836d12c59d9303a86906e3b24ad1",
+      "sg:id": "SG_6zBtiqtfvDB0lQCAI5vGYe_37.304673_-120.492341@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b532c21abe57e2486bc0135b67c8ed51",
-    "wof:hierarchy":[],
-    "wof:id":571591739,
-    "wof:lastmodified":1510603469,
-    "wof:name":"Walgreens",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "b532c21abe57e2486bc0135b67c8ed51",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571591739
+      }
+    ],
+    "wof:id": 571591739,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Walgreens",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.492341,
     37.304673,
     -120.492341,
     37.304673
-],
+  ],
   "geometry": {"coordinates":[-120.492341,37.304673],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 371049469,
   "type": "Feature",
   "properties": {
-    "addr:full":"752 Medical Center Ct Chula Vista CA 91911",
-    "addr:housenumber":"752",
-    "addr:postcode":"91911",
-    "addr:street":"Medical Center Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.02495,32.61895,-117.02495,32.61895",
-    "geom:latitude":32.61895,
-    "geom:longitude":-117.02495,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"752 Medical Center Ct",
-    "sg:city":"Chula Vista",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "752 Medical Center Ct Chula Vista CA 91911",
+    "addr:housenumber": "752",
+    "addr:postcode": "91911",
+    "addr:street": "Medical Center Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.024950,32.618950,-117.024950,32.618950",
+    "geom:latitude": 32.61895,
+    "geom:longitude": -117.02495,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Gastroenterology Associates, 752 Medical Center Ct Chula Vista CA US",
+    "ovtr:similarity": 3.5047860145568848,
+    "sg:address": "752 Medical Center Ct",
+    "sg:city": "Chula Vista",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 421 1155",
-    "sg:postcode":"91911",
-    "sg:province":"CA",
-    "sg:tags":[
-        "physician",
-        "surgeon"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 421 1155",
+    "sg:postcode": "91911",
+    "sg:province": "CA",
+    "sg:tags": [
+      "physician",
+      "surgeon"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922285,
-        102083569,
-        85876797
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922285,
+      102083569,
+      85876797
     ],
-    "wof:brand_id":1125154309,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4M2XneaNIVLUcyM34dLJJY_32.618950_-117.024950@1294081369"
+    "wof:brand_id": 1125154309,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4c512e62c303e252571dcdd0e7",
+      "sg:id": "SG_4M2XneaNIVLUcyM34dLJJY_32.618950_-117.024950@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ec4c53c3ea62ef3ffd2b33cc076fd8e4",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922285,
-            "neighbourhood_id":85876797,
-            "region_id":85688637,
-            "venue_id":371049469
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "ec4c53c3ea62ef3ffd2b33cc076fd8e4",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922285,
+        "neighbourhood_id": 85876797,
+        "region_id": 85688637,
+        "venue_id": 371049469
+      }
     ],
-    "wof:id":371049469,
-    "wof:lastmodified":1510698640,
-    "wof:name":"Gastroenterology Associates",
-    "wof:parent_id":85876797,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "physician",
-        "surgeon"
+    "wof:id": 371049469,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Gastroenterology Associates",
+    "wof:parent_id": 85876797,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "physician",
+      "surgeon"
     ]
-},
+  },
   "bbox": [
     -117.02495,
     32.61895,
     -117.02495,
     32.61895
-],
+  ],
   "geometry": {"coordinates":[-117.02495,32.61895],"type":"Point"}
 }

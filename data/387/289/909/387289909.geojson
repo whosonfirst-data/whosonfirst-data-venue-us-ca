@@ -2,79 +2,83 @@
   "id": 387289909,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 1st Ave Blue Lake CA 95525",
-    "addr:housenumber":"111",
-    "addr:postcode":"95525",
-    "addr:street":"1St Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.991321,40.882732,-123.991321,40.882732",
-    "geom:latitude":40.882732,
-    "geom:longitude":-123.991321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"111 1st Ave",
-    "sg:city":"Blue Lake",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "111 1st Ave Blue Lake CA 95525",
+    "addr:housenumber": "111",
+    "addr:postcode": "95525",
+    "addr:street": "1St Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.991321,40.882732,-123.991321,40.882732",
+    "geom:latitude": 40.882732,
+    "geom:longitude": -123.991321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Blue Lake Fire Department, 111 1st Ave Blue Lake CA US",
+    "ovtr:similarity": 3.367945909500122,
+    "sg:address": "111 1st Ave",
+    "sg:city": "Blue Lake",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 668 5655",
-    "sg:postcode":"95525",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 668 5655",
+    "sg:postcode": "95525",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922795,
-        102087587,
-        85851439
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922795,
+      102087587,
+      85851439
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0LTRPcCeoh7QDx4vj4Q8X7_40.882732_-123.991321@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f280232ad26984037514226adbd63d",
+      "sg:id": "SG_0LTRPcCeoh7QDx4vj4Q8X7_40.882732_-123.991321@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a18a207b893d9b3d3c0826e999b658f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087587,
-            "locality_id":85922795,
-            "neighbourhood_id":85851439,
-            "region_id":85688637,
-            "venue_id":387289909
-        }
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "a18a207b893d9b3d3c0826e999b658f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102087587,
+        "locality_id": 85922795,
+        "neighbourhood_id": 85851439,
+        "region_id": 85688637,
+        "venue_id": 387289909
+      }
     ],
-    "wof:id":387289909,
-    "wof:lastmodified":1509201000,
-    "wof:name":"Blue Lake Fire Dept",
-    "wof:parent_id":85851439,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 387289909,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Blue Lake Fire Dept",
+    "wof:parent_id": 85851439,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -123.991321,
     40.882732,
     -123.991321,
     40.882732
-],
+  ],
   "geometry": {"coordinates":[-123.991321,40.882732],"type":"Point"}
 }

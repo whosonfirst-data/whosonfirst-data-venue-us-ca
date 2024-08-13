@@ -2,84 +2,88 @@
   "id": 202600387,
   "type": "Feature",
   "properties": {
-    "addr:full":"783 W Blaine St Riverside CA 92507",
-    "addr:housenumber":"783",
-    "addr:postcode":"92507",
-    "addr:street":"W Blaine St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.329646,33.983079,-117.329646,33.983079",
-    "geom:latitude":33.983079,
-    "geom:longitude":-117.329646,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"783 W Blaine St",
-    "sg:city":"Riverside",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "783 W Blaine St Riverside CA 92507",
+    "addr:housenumber": "783",
+    "addr:postcode": "92507",
+    "addr:street": "W Blaine St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.329646,33.983079,-117.329646,33.983079",
+    "geom:latitude": 33.983079,
+    "geom:longitude": -117.329646,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Marcello's Pizza \u0026 Pasta, 783 W Blaine St Riverside CA US",
+    "ovtr:similarity": 2.3399250507354736,
+    "sg:address": "783 W Blaine St",
+    "sg:city": "Riverside",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 781 9996",
-    "sg:postcode":"92507",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923345,
-        102086221,
-        85830261,
-        85873333
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 781 9996",
+    "sg:postcode": "92507",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923345,
+      102086221,
+      85830261,
+      85873333
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6fTAlLbTkb6wRwAAA49QPP_33.983079_-117.329646@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a002b3540800361242d049f6a61",
+      "sg:id": "SG_6fTAlLbTkb6wRwAAA49QPP_33.983079_-117.329646@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1bc8eb7c87eafecc411807584f05cffe",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923345,
-            "neighbourhood_id":85830261,
-            "region_id":85688637,
-            "venue_id":202600387
-        },
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923345,
-            "neighbourhood_id":85873333,
-            "region_id":85688637,
-            "venue_id":202600387
-        }
+    "wof:country": "US",
+    "wof:created": 1723561700,
+    "wof:geomhash": "1bc8eb7c87eafecc411807584f05cffe",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923345,
+        "neighbourhood_id": 85830261,
+        "region_id": 85688637,
+        "venue_id": 202600387
+      },
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923345,
+        "neighbourhood_id": 85873333,
+        "region_id": 85688637,
+        "venue_id": 202600387
+      }
     ],
-    "wof:id":202600387,
-    "wof:lastmodified":1509199889,
-    "wof:name":"Marcello's Pizza & Pasta",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 202600387,
+    "wof:lastmodified": 1723561700,
+    "wof:name": "Marcello's Pizza \u0026 Pasta",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.329646,
     33.983079,
     -117.329646,
     33.983079
-],
+  ],
   "geometry": {"coordinates":[-117.329646,33.983079],"type":"Point"}
 }

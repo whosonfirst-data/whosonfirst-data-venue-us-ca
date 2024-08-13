@@ -2,79 +2,83 @@
   "id": 571705181,
   "type": "Feature",
   "properties": {
-    "addr:full":"1111 W Graaf Ave Ridgecrest CA 93555",
-    "addr:housenumber":"1111",
-    "addr:postcode":"93555",
-    "addr:street":"W Graaf Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.692333,35.647969,-117.692333,35.647969",
-    "geom:latitude":35.647969,
-    "geom:longitude":-117.692333,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1111 W Graaf Ave",
-    "sg:city":"Ridgecrest",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Meat",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "1111 W Graaf Ave Ridgecrest CA 93555",
+    "addr:housenumber": "1111",
+    "addr:postcode": "93555",
+    "addr:street": "W Graaf Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.692333,35.647969,-117.692333,35.647969",
+    "geom:latitude": 35.647969,
+    "geom:longitude": -117.692333,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tender Cut Meats, 1111 W Graaf Ave Ridgecrest CA US",
+    "ovtr:similarity": 1.8195650577545166,
+    "sg:address": "1111 W Graaf Ave",
+    "sg:city": "Ridgecrest",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Meat",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 446 1090",
-    "sg:postcode":"93555",
-    "sg:province":"CA",
-    "sg:tags":[
-        "product"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 446 1090",
+    "sg:postcode": "93555",
+    "sg:province": "CA",
+    "sg:tags": [
+      "product"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923285,
-        102081727,
-        85887139
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923285,
+      102081727,
+      85887139
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3567352445,
-        "sg:id":"SG_48jGhh5bRPhwH4mn6KPTB1_35.647969_-117.692333@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3567352445,
+      "ovtr:id": "08f29ae594486c16031cd01266cf72f0",
+      "sg:id": "SG_48jGhh5bRPhwH4mn6KPTB1_35.647969_-117.692333@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a425efb022e748bd50c6ef8225584526",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923285,
-            "neighbourhood_id":85887139,
-            "region_id":85688637,
-            "venue_id":571705181
-        }
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "a425efb022e748bd50c6ef8225584526",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923285,
+        "neighbourhood_id": 85887139,
+        "region_id": 85688637,
+        "venue_id": 571705181
+      }
     ],
-    "wof:id":571705181,
-    "wof:lastmodified":1510942924,
-    "wof:name":"Tender Cut Meats",
-    "wof:parent_id":85887139,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "product"
+    "wof:id": 571705181,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Tender Cut Meats",
+    "wof:parent_id": 85887139,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "product"
     ]
-},
+  },
   "bbox": [
     -117.692333,
     35.647969,
     -117.692333,
     35.647969
-],
+  ],
   "geometry": {"coordinates":[-117.692333,35.647969],"type":"Point"}
 }

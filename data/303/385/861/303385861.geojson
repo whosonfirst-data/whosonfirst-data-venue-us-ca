@@ -2,82 +2,86 @@
   "id": 303385861,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 E Ave 28 Los Angeles CA 90031",
-    "addr:housenumber":"220;28",
-    "addr:postcode":"90031",
-    "addr:street":"E Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.213399,34.079169,-118.213399,34.079169",
-    "geom:latitude":34.079169,
-    "geom:longitude":-118.213399,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"220 E Ave 28",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        }
+    "addr:full": "220 E Ave 28 Los Angeles CA 90031",
+    "addr:housenumber": "220;28",
+    "addr:postcode": "90031",
+    "addr:street": "E Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.213399,34.079169,-118.213399,34.079169",
+    "geom:latitude": 34.079169,
+    "geom:longitude": -118.213399,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chinatown Church of Christ, 220 E Avenue 28 Los Angeles CA US",
+    "ovtr:similarity": 3.222839117050171,
+    "sg:address": "220 E Ave 28",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 225 4970",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "sg:tags":[
-        "church"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 225 4970",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "sg:tags": [
+      "church"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5onfGs8aCk4CIFqdTIiYlq_34.079169_-118.213399@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d73544c6c03d6391f881bacaa",
+      "sg:id": "SG_5onfGs8aCk4CIFqdTIiYlq_34.079169_-118.213399@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"cec8054ba23acb8f62f67766d1aa8046",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":303385861
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "cec8054ba23acb8f62f67766d1aa8046",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 303385861
+      }
     ],
-    "wof:id":303385861,
-    "wof:lastmodified":1509200356,
-    "wof:name":"Chinatown Church Of Christ",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "church"
+    "wof:id": 303385861,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Chinatown Church Of Christ",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "church"
     ]
-},
+  },
   "bbox": [
     -118.213399,
     34.079169,
     -118.213399,
     34.079169
-],
+  ],
   "geometry": {"coordinates":[-118.213399,34.079169],"type":"Point"}
 }

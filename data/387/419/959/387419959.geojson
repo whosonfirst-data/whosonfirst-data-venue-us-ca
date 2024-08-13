@@ -2,92 +2,96 @@
   "id": 387419959,
   "type": "Feature",
   "properties": {
-    "addr:full":"14114 S Vermont Ave Gardena CA 90247",
-    "addr:housenumber":"14114",
-    "addr:postcode":"90247",
-    "addr:street":"S Vermont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.292,33.9035,-118.292,33.9035",
-    "geom:latitude":33.9035,
-    "geom:longitude":-118.292,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"14114 S Vermont Ave",
-    "sg:city":"Gardena",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Supermarket",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Meat & Fish",
-            "type":"Retail Goods"
-        }
+    "addr:full": "14114 S Vermont Ave Gardena CA 90247",
+    "addr:housenumber": "14114",
+    "addr:postcode": "90247",
+    "addr:street": "S Vermont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.292000,33.903500,-118.292000,33.903500",
+    "geom:latitude": 33.9035,
+    "geom:longitude": -118.292,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Guadalajara Meat Market, 14114 S Vermont Ave Gardena CA US",
+    "ovtr:similarity": 2.17120099067688,
+    "sg:address": "14114 S Vermont Ave",
+    "sg:city": "Gardena",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Supermarket",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Meat \u0026 Fish",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 538 3148",
-    "sg:postcode":"90247",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "super",
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 538 3148",
+    "sg:postcode": "90247",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "super",
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923619,
-        102086957
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923619,
+      102086957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1aR3G322IW7CKk0f81i7I0_33.903500_-118.292000@1303263177"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56e300c03203eb7504ab75b8dc",
+      "sg:id": "SG_1aR3G322IW7CKk0f81i7I0_33.903500_-118.292000@1303263177"
     },
-    "wof:country":"US",
-    "wof:geomhash":"566bdb69f8352c9ff5d7e5268e27aa1a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923619,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":387419959
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "566bdb69f8352c9ff5d7e5268e27aa1a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923619,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 387419959
+      }
     ],
-    "wof:id":387419959,
-    "wof:lastmodified":1509201029,
-    "wof:name":"Guadalajara Meat Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "super",
-        "market"
+    "wof:id": 387419959,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Guadalajara Meat Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "super",
+      "market"
     ]
-},
+  },
   "bbox": [
     -118.292,
     33.9035,
     -118.292,
     33.9035
-],
+  ],
   "geometry": {"coordinates":[-118.292,33.9035],"type":"Point"}
 }

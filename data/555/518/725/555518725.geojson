@@ -2,75 +2,79 @@
   "id": 555518725,
   "type": "Feature",
   "properties": {
-    "addr:full":"2874 Castro Valley Blvd Castro Valley CA 94546",
-    "addr:housenumber":"2874",
-    "addr:postcode":"94546",
-    "addr:street":"Castro Valley Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.083395,37.695325,-122.083395,37.695325",
-    "geom:latitude":37.695325,
-    "geom:longitude":-122.083395,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2874 Castro Valley Blvd",
-    "sg:city":"Castro Valley",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Barber",
-            "type":"Services"
-        }
+    "addr:full": "2874 Castro Valley Blvd Castro Valley CA 94546",
+    "addr:housenumber": "2874",
+    "addr:postcode": "94546",
+    "addr:street": "Castro Valley Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.083395,37.695325,-122.083395,37.695325",
+    "geom:latitude": 37.695325,
+    "geom:longitude": -122.083395,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Milton's Barber Shop, 2874 Castro Valley Blvd Castro Valley CA US",
+    "ovtr:similarity": 2.339215040206909,
+    "sg:address": "2874 Castro Valley Blvd",
+    "sg:city": "Castro Valley",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Barber",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 247 1438",
-    "sg:postcode":"94546",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85924511,
-        102086959,
-        85885777
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 247 1438",
+    "sg:postcode": "94546",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85924511,
+      102086959,
+      85885777
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ctGRgghXnN8tUzpOKd7Tz_37.695325_-122.083395@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28309b252264b03aef089b0a74719",
+      "sg:id": "SG_4ctGRgghXnN8tUzpOKd7Tz_37.695325_-122.083395@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e65c4b30288f4a1fcd861febd67a25a0",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85924511,
-            "neighbourhood_id":85885777,
-            "region_id":85688637,
-            "venue_id":555518725
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "e65c4b30288f4a1fcd861febd67a25a0",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85924511,
+        "neighbourhood_id": 85885777,
+        "region_id": 85688637,
+        "venue_id": 555518725
+      }
     ],
-    "wof:id":555518725,
-    "wof:lastmodified":1509201418,
-    "wof:name":"Milton's Barber Shop",
-    "wof:parent_id":85885777,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 555518725,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "Milton's Barber Shop",
+    "wof:parent_id": 85885777,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.083395,
     37.695325,
     -122.083395,
     37.695325
-],
+  ],
   "geometry": {"coordinates":[-122.083395,37.695325],"type":"Point"}
 }

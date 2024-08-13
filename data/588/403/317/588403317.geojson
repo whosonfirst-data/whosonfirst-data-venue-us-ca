@@ -2,77 +2,81 @@
   "id": 588403317,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 Divisadero Street San Francisco CA 94115",
-    "addr:housenumber":"1201",
-    "addr:postcode":"94115",
-    "addr:street":"Divisadero Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.439003,37.780701,-122.439003,37.780701",
-    "geom:latitude":37.780701,
-    "geom:longitude":-122.439003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1201 Divisadero Street",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1201 Divisadero Street San Francisco CA 94115",
+    "addr:housenumber": "1201",
+    "addr:postcode": "94115",
+    "addr:street": "Divisadero Street",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.439003,37.780701,-122.439003,37.780701",
+    "geom:latitude": 37.780701,
+    "geom:longitude": -122.439003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pearl Market, 1201 Divisadero St San Francisco CA US",
+    "ovtr:similarity": 2.871432065963745,
+    "sg:address": "1201 Divisadero Street",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 931 4242",
-    "sg:postcode":"94115",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85869079
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 931 4242",
+    "sg:postcode": "94115",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85869079
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4556360352,
-        "sfgov_rbl:id":"0353437-01-001",
-        "sg:id":"SG_4kIWqwAQOWtYSV3SECmrA0_37.780701_-122.439003@1303263319"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4556360352,
+      "ovtr:id": "08f28308291b1c2d0355036086eb6bce",
+      "sfgov_rbl:id": "0353437-01-001",
+      "sg:id": "SG_4kIWqwAQOWtYSV3SECmrA0_37.780701_-122.439003@1303263319"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2db8b4d2a752da4cf41357fe02ebd6de",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85869079,
-            "region_id":85688637,
-            "venue_id":588403317
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "2db8b4d2a752da4cf41357fe02ebd6de",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85869079,
+        "region_id": 85688637,
+        "venue_id": 588403317
+      }
     ],
-    "wof:id":588403317,
-    "wof:lastmodified":1510941528,
-    "wof:name":"Pearl Market",
-    "wof:parent_id":85869079,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588403317,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "Pearl Market",
+    "wof:parent_id": 85869079,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.439003,
     37.780701,
     -122.439003,
     37.780701
-],
+  ],
   "geometry": {"coordinates":[-122.439003,37.780701],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 370894497,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 E Ave 35 Los Angeles CA 90031",
-    "addr:housenumber":"120;35",
-    "addr:postcode":"90031",
-    "addr:street":"E Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.211692,34.085275,-118.211692,34.085275",
-    "geom:latitude":34.085275,
-    "geom:longitude":-118.211692,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"120 E Ave 35",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "120 E Ave 35 Los Angeles CA 90031",
+    "addr:housenumber": "120;35",
+    "addr:postcode": "90031",
+    "addr:street": "E Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.211692,34.085275,-118.211692,34.085275",
+    "geom:latitude": 34.085275,
+    "geom:longitude": -118.211692,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hillside Elementary School, 120 E Avenue 35 Los Angeles CA US",
+    "ovtr:similarity": 3.011413097381592,
+    "sg:address": "120 E Ave 35",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 222 2665",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 222 2665",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3av7I58EkQNWKdiYguhmRp_34.085275_-118.211692@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d734e97580361952fc7d75481",
+      "sg:id": "SG_3av7I58EkQNWKdiYguhmRp_34.085275_-118.211692@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5a698ff135541f642252013be3240c7a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":370894497
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "5a698ff135541f642252013be3240c7a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 370894497
+      }
     ],
-    "wof:id":370894497,
-    "wof:lastmodified":1509200845,
-    "wof:name":"Hillside Elementary School",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 370894497,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Hillside Elementary School",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.211692,
     34.085275,
     -118.211692,
     34.085275
-],
+  ],
   "geometry": {"coordinates":[-118.211692,34.085275],"type":"Point"}
 }

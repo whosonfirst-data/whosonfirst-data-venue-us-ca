@@ -2,82 +2,86 @@
   "id": 371145813,
   "type": "Feature",
   "properties": {
-    "addr:full":"10227 S Broadway Los Angeles CA 90003",
-    "addr:housenumber":"10227",
-    "addr:postcode":"90003",
-    "addr:street":"S Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.278224,33.943068,-118.278224,33.943068",
-    "geom:latitude":33.943068,
-    "geom:longitude":-118.278224,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10227 S Broadway",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10227 S Broadway Los Angeles CA 90003",
+    "addr:housenumber": "10227",
+    "addr:postcode": "90003",
+    "addr:street": "S Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.278224,33.943068,-118.278224,33.943068",
+    "geom:latitude": 33.943068,
+    "geom:longitude": -118.278224,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Neighborhood Market, 10227 S Broadway Los Angeles CA US",
+    "ovtr:similarity": 3.3629469871520996,
+    "sg:address": "10227 S Broadway",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 757 2117",
-    "sg:postcode":"90003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 757 2117",
+    "sg:postcode": "90003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85868337",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85868337
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1PZnypTc5fXWC3hzjN14y1_33.943068_-118.278224@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c036810003b858f3d9b09c5e",
+      "sg:id": "SG_1PZnypTc5fXWC3hzjN14y1_33.943068_-118.278224@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bab01da2e1ebf51e05b03a6b06c3134e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85868337",
-            "region_id":85688637,
-            "venue_id":371145813
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "bab01da2e1ebf51e05b03a6b06c3134e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85868337,
+        "region_id": 85688637,
+        "venue_id": 371145813
+      }
     ],
-    "wof:id":371145813,
-    "wof:lastmodified":1509200903,
-    "wof:name":"Neighborhood Market",
-    "wof:parent_id":"85868337",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 371145813,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Neighborhood Market",
+    "wof:parent_id": "85868337",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -118.278224,
     33.943068,
     -118.278224,
     33.943068
-],
-  "geometry": {"coordinates":[-118.27822399999999,33.943068],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.278224,33.943068],"type":"Point"}
 }

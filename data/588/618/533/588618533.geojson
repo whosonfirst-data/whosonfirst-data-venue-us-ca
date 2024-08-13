@@ -2,80 +2,88 @@
   "id": 588618533,
   "type": "Feature",
   "properties": {
-    "addr:full":"381 Joseph Gallo Dr Livingston CA 95334",
-    "addr:housenumber":"381",
-    "addr:postcode":"95334",
-    "addr:street":"Joseph Gallo Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.737256,37.388207,-120.737256,37.388207",
-    "geom:latitude":37.388207,
-    "geom:longitude":-120.737256,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"381 Joseph Gallo Dr",
-    "sg:city":"Livingston",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "381 Joseph Gallo Dr Livingston CA 95334",
+    "addr:housenumber": "381",
+    "addr:postcode": "95334",
+    "addr:street": "Joseph Gallo Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.737256,37.388207,-120.737256,37.388207",
+    "geom:latitude": 37.388207,
+    "geom:longitude": -120.737256,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 381 Joseph Gallo Dr Livingston CA US",
+    "ovtr:similarity": 3.8407440185546875,
+    "sg:address": "381 Joseph Gallo Dr",
+    "sg:city": "Livingston",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 394 3100",
-    "sg:postcode":"95334",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 394 3100",
+    "sg:postcode": "95334",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ],
-    "sg:website":"http://www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VSG3qJTm1A0IBVFi42OGA_37.388207_-120.737256@1303263375"
+    "sg:website": "http://www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836d5c4c9aa303ea49c5c7e52224",
+      "sg:id": "SG_5VSG3qJTm1A0IBVFi42OGA_37.388207_-120.737256@1303263375"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c1e62cec41c2d2403aaa4fe3184ff1bd",
-    "wof:hierarchy":[],
-    "wof:id":588618533,
-    "wof:lastmodified":1511321542,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "c1e62cec41c2d2403aaa4fe3184ff1bd",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588618533
+      }
+    ],
+    "wof:id": 588618533,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ]
-},
+  },
   "bbox": [
     -120.737256,
     37.388207,
     -120.737256,
     37.388207
-],
+  ],
   "geometry": {"coordinates":[-120.737256,37.388207],"type":"Point"}
 }

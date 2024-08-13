@@ -2,81 +2,89 @@
   "id": 588548589,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 San Felipe Rd Hollister CA 95023",
-    "addr:housenumber":"151",
-    "addr:postcode":"hollister ca 95023",
-    "addr:street":"San Felipe Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.401718,36.858589,-121.401718,36.858589",
-    "geom:latitude":36.858589,
-    "geom:longitude":-121.401718,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"151 San Felipe Rd",
-    "sg:city":"Hollister",
-    "sg:classifiers":[
-        {
-            "category":"Fast Food",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "151 San Felipe Rd Hollister CA 95023",
+    "addr:housenumber": "151",
+    "addr:postcode": "hollister ca 95023",
+    "addr:street": "San Felipe Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.401718,36.858589,-121.401718,36.858589",
+    "geom:latitude": 36.858589,
+    "geom:longitude": -121.401718,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 151 San Felipe Rd Hollister CA US",
+    "ovtr:similarity": 2.9260499477386475,
+    "sg:address": "151 San Felipe Rd",
+    "sg:city": "Hollister",
+    "sg:classifiers": [
+      {
+        "category": "Fast Food",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 637 0553",
-    "sg:postcode":"95023",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 637 0553",
+    "sg:postcode": "95023",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ],
-    "sg:website":"http://www.mcdonalds.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":28239303,
-        "sg:id":"SG_4YYi3kaKbDNcho7MCmEFKh_36.858589_-121.401718@1303263357"
+    "sg:website": "http://www.mcdonalds.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 28239303,
+      "ovtr:id": "08f29a935cd9dc6603ec04b12116fce0",
+      "sg:id": "SG_4YYi3kaKbDNcho7MCmEFKh_36.858589_-121.401718@1303263357"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2d26df06f3b18426771fda5727541bc4",
-    "wof:hierarchy":[],
-    "wof:id":588548589,
-    "wof:lastmodified":1512142825,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hamburger",
-        "hot",
-        "dog",
-        "american",
-        "take",
-        "chicken"
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "2d26df06f3b18426771fda5727541bc4",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588548589
+      }
+    ],
+    "wof:id": 588548589,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hamburger",
+      "hot",
+      "dog",
+      "american",
+      "take",
+      "chicken"
     ]
-},
+  },
   "bbox": [
     -121.401718,
     36.858589,
     -121.401718,
     36.858589
-],
+  ],
   "geometry": {"coordinates":[-121.401718,36.858589],"type":"Point"}
 }

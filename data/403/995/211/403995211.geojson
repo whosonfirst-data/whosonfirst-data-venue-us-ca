@@ -2,75 +2,79 @@
   "id": 403995211,
   "type": "Feature",
   "properties": {
-    "addr:full":"17943 Chatsworth St Granada Hills CA 91344",
-    "addr:housenumber":"17943",
-    "addr:postcode":"91344",
-    "addr:street":"Chatsworth St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.526201,34.264645,-118.526201,34.264645",
-    "geom:latitude":34.264645,
-    "geom:longitude":-118.526201,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"17943 Chatsworth St",
-    "sg:city":"Granada Hills",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "17943 Chatsworth St Granada Hills CA 91344",
+    "addr:housenumber": "17943",
+    "addr:postcode": "91344",
+    "addr:street": "Chatsworth St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.526201,34.264645,-118.526201,34.264645",
+    "geom:latitude": 34.264645,
+    "geom:longitude": -118.526201,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Village Florist, 17818 Chatsworth St Granada Hills CA US",
+    "ovtr:similarity": 2.8002700805664062,
+    "sg:address": "17943 Chatsworth St",
+    "sg:city": "Granada Hills",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 832 7770",
-    "sg:postcode":"91344",
-    "sg:province":"CA",
-    "sg:website":"www.bestchoiceflowers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85838305
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 832 7770",
+    "sg:postcode": "91344",
+    "sg:province": "CA",
+    "sg:website": "www.bestchoiceflowers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85838305
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2OCp2Cr8uvNSbiBhCVK59Q_34.264645_-118.526201@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18d62c221b031ac6da45688011",
+      "sg:id": "SG_2OCp2Cr8uvNSbiBhCVK59Q_34.264645_-118.526201@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bbfc1fd9a31a359d310f5e0cc0485b81",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85838305,
-            "region_id":85688637,
-            "venue_id":403995211
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "bbfc1fd9a31a359d310f5e0cc0485b81",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85838305,
+        "region_id": 85688637,
+        "venue_id": 403995211
+      }
     ],
-    "wof:id":403995211,
-    "wof:lastmodified":1509201184,
-    "wof:name":"Village Florists",
-    "wof:parent_id":85838305,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403995211,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Village Florists",
+    "wof:parent_id": 85838305,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.526201,
     34.264645,
     -118.526201,
     34.264645
-],
+  ],
   "geometry": {"coordinates":[-118.526201,34.264645],"type":"Point"}
 }

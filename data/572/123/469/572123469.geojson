@@ -2,83 +2,87 @@
   "id": 572123469,
   "type": "Feature",
   "properties": {
-    "addr:full":"6522 Pacific Ave Stockton CA 95207",
-    "addr:housenumber":"6522",
-    "addr:postcode":"95207",
-    "addr:street":"Pacific Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.319596,38.009094,-121.319596,38.009094",
-    "geom:latitude":38.009094,
-    "geom:longitude":-121.319596,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6522 Pacific Ave",
-    "sg:city":"Stockton",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6522 Pacific Ave Stockton CA 95207",
+    "addr:housenumber": "6522",
+    "addr:postcode": "95207",
+    "addr:street": "Pacific Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.319596,38.009094,-121.319596,38.009094",
+    "geom:latitude": 38.009094,
+    "geom:longitude": -121.319596,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bill Parks Auto Repair, 6522 Pacific Ave Stockton CA US",
+    "ovtr:similarity": 1.984063982963562,
+    "sg:address": "6522 Pacific Ave",
+    "sg:city": "Stockton",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 451 5390",
-    "sg:postcode":"95207",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 451 5390",
+    "sg:postcode": "95207",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870944&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923257,
-        102085393,
-        85895921
+    "sg:website": "http://clickserve.dartsearch.net/link/click?lid=43000000313870944\u0026ds_s_kwgid=58000000006820725\u0026ds_e_matchtype={MatchType}\u0026ds_e_kwdid={OrderItemId}\u0026ds_e_adid={AdId}\u0026ds_url_v=2",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923257,
+      102085393,
+      85895921
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6iJHzt4tw818nC0u6ligJZ_38.009267_-121.319636@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28362009b029b03700dc656332e78",
+      "sg:id": "SG_6iJHzt4tw818nC0u6ligJZ_38.009267_-121.319636@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6de3e6e67586db3e2c348ff0e12b98c5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085393,
-            "locality_id":85923257,
-            "neighbourhood_id":85895921,
-            "region_id":85688637,
-            "venue_id":572123469
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "6de3e6e67586db3e2c348ff0e12b98c5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "locality_id": 85923257,
+        "neighbourhood_id": 85895921,
+        "region_id": 85688637,
+        "venue_id": 572123469
+      }
     ],
-    "wof:id":572123469,
-    "wof:lastmodified":1509201700,
-    "wof:name":"Bill Parks Auto Repair",
-    "wof:parent_id":85895921,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 572123469,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Bill Parks Auto Repair",
+    "wof:parent_id": 85895921,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -121.319596,
     38.009094,
     -121.319596,
     38.009094
-],
+  ],
   "geometry": {"coordinates":[-121.319596,38.009094],"type":"Point"}
 }

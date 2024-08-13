@@ -2,75 +2,79 @@
   "id": 588623703,
   "type": "Feature",
   "properties": {
-    "addr:full":"1001 Kansas Avenue Modesto CA 95351",
-    "addr:housenumber":"1001",
-    "addr:postcode":"ca 95351",
-    "addr:street":"Kansas Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.021444,37.646339,-121.021444,37.646339",
-    "geom:latitude":37.646339,
-    "geom:longitude":-121.021444,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1001 Kansas Avenue",
-    "sg:city":"Modesto",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1001 Kansas Avenue Modesto CA 95351",
+    "addr:housenumber": "1001",
+    "addr:postcode": "ca 95351",
+    "addr:street": "Kansas Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.021444,37.646339,-121.021444,37.646339",
+    "geom:latitude": 37.646339,
+    "geom:longitude": -121.021444,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "George's Steakhouse Bar \u0026 Grill, 1001 Kansas Ave Modesto CA US",
+    "ovtr:similarity": 3.888892889022827,
+    "sg:address": "1001 Kansas Avenue",
+    "sg:city": "Modesto",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 524 4353",
-    "sg:postcode":"95351",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922777,
-        102083579,
-        85879007
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 524 4353",
+    "sg:postcode": "95351",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922777,
+      102083579,
+      85879007
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0EdKd33CH2PoOlR79iMPhc_37.646339_-121.021444@1303263376"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28361565726ed0342d53b57d75d07",
+      "sg:id": "SG_0EdKd33CH2PoOlR79iMPhc_37.646339_-121.021444@1303263376"
     },
-    "wof:country":"US",
-    "wof:geomhash":"38307dd5835db0ad034b7f4d0232109e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85922777,
-            "neighbourhood_id":85879007,
-            "region_id":85688637,
-            "venue_id":588623703
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "38307dd5835db0ad034b7f4d0232109e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85922777,
+        "neighbourhood_id": 85879007,
+        "region_id": 85688637,
+        "venue_id": 588623703
+      }
     ],
-    "wof:id":588623703,
-    "wof:lastmodified":1509202176,
-    "wof:name":"George's Steakhouse",
-    "wof:parent_id":85879007,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588623703,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "George's Steakhouse",
+    "wof:parent_id": 85879007,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.021444,
     37.646339,
     -121.021444,
     37.646339
-],
+  ],
   "geometry": {"coordinates":[-121.021444,37.646339],"type":"Point"}
 }

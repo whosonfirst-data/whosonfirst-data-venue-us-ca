@@ -2,82 +2,86 @@
   "id": 403861901,
   "type": "Feature",
   "properties": {
-    "addr:full":"15301 McNab Avenue Bellflower CA 90706",
-    "addr:housenumber":"15301",
-    "addr:postcode":"90706",
-    "addr:street":"Mcnab Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.115181,33.89293,-118.115181,33.89293",
-    "geom:latitude":33.89293,
-    "geom:longitude":-118.115181,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"15301 McNab Avenue",
-    "sg:city":"Bellflower",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "15301 McNab Avenue Bellflower CA 90706",
+    "addr:housenumber": "15301",
+    "addr:postcode": "90706",
+    "addr:street": "Mcnab Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.115181,33.892930,-118.115181,33.892930",
+    "geom:latitude": 33.89293,
+    "geom:longitude": -118.115181,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bellflower Middle/High School, 15301 McNab Ave Bellflower CA US",
+    "ovtr:similarity": 3.2965540885925293,
+    "sg:address": "15301 McNab Avenue",
+    "sg:city": "Bellflower",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 920 1801",
-    "sg:postcode":"90706",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 920 1801",
+    "sg:postcode": "90706",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle"
     ],
-    "sg:website":"www.busd.k12.ca.us/bellflower-hi...",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923713,
-        102086957,
-        85886249
+    "sg:website": "www.busd.k12.ca.us/bellflower-hi...",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923713,
+      102086957,
+      85886249
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4r9NwFCCFzWxyrsec2txNC_33.892930_-118.115181@1303263194"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a568ec523a803ec1f06e2cc6154",
+      "sg:id": "SG_4r9NwFCCFzWxyrsec2txNC_33.892930_-118.115181@1303263194"
     },
-    "wof:country":"US",
-    "wof:geomhash":"128d067d8c259b742efc6d2fe4a1d014",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923713,
-            "neighbourhood_id":85886249,
-            "region_id":85688637,
-            "venue_id":403861901
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "128d067d8c259b742efc6d2fe4a1d014",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923713,
+        "neighbourhood_id": 85886249,
+        "region_id": 85688637,
+        "venue_id": 403861901
+      }
     ],
-    "wof:id":403861901,
-    "wof:lastmodified":1509201161,
-    "wof:name":"Bellflower Middle/High School",
-    "wof:parent_id":85886249,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle"
+    "wof:id": 403861901,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Bellflower Middle/High School",
+    "wof:parent_id": 85886249,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle"
     ]
-},
+  },
   "bbox": [
     -118.115181,
     33.89293,
     -118.115181,
     33.89293
-],
-  "geometry": {"coordinates":[-118.11518100000001,33.89293],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.115181,33.89293],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 572207705,
   "type": "Feature",
   "properties": {
-    "addr:full":"643 Emerson St Palo Alto CA 94301",
-    "addr:housenumber":"643",
-    "addr:postcode":"94301",
-    "addr:street":"Emerson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.160568,37.443538,-122.160568,37.443538",
-    "geom:latitude":37.443538,
-    "geom:longitude":-122.160568,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"643 Emerson St",
-    "sg:city":"Palo Alto",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "643 Emerson St Palo Alto CA 94301",
+    "addr:housenumber": "643",
+    "addr:postcode": "94301",
+    "addr:street": "Emerson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.160568,37.443538,-122.160568,37.443538",
+    "geom:latitude": 37.443538,
+    "geom:longitude": -122.160568,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Buca di Beppo, 643 Emerson St Palo Alto CA US",
+    "ovtr:similarity": 2.101970911026001,
+    "sg:address": "643 Emerson St",
+    "sg:city": "Palo Alto",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-jose/9597-buca-di-beppo/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 329 0665",
-    "sg:postcode":"94301",
-    "sg:province":"CA",
-    "sg:tags":[
-        "italian"
+    "sg:menulink": "http://www.allmenus.com/ca/san-jose/9597-buca-di-beppo/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 329 0665",
+    "sg:postcode": "94301",
+    "sg:province": "CA",
+    "sg:tags": [
+      "italian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922351,
-        102081673
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922351,
+      102081673
     ],
-    "wof:brand_id":1125160745,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":132527965,
-        "sg:id":"SG_1tcSGGZWfcfTAobIqSlIva_37.443502_-122.160731@1294081369"
+    "wof:brand_id": 1125160745,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 132527965,
+      "ovtr:id": "08f28347432c06e80373453794ab2eb7",
+      "sg:id": "SG_1tcSGGZWfcfTAobIqSlIva_37.443502_-122.160731@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"27f5782139e4e0273cb807be75f9b167",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922351,
-            "region_id":85688637,
-            "venue_id":572207705
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "27f5782139e4e0273cb807be75f9b167",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922351,
+        "region_id": 85688637,
+        "venue_id": 572207705
+      }
     ],
-    "wof:id":572207705,
-    "wof:lastmodified":1510942788,
-    "wof:name":"Buca di Beppo",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "italian"
+    "wof:id": 572207705,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Buca di Beppo",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "italian"
     ]
-},
+  },
   "bbox": [
     -122.160568,
     37.443538,
     -122.160568,
     37.443538
-],
+  ],
   "geometry": {"coordinates":[-122.160568,37.443538],"type":"Point"}
 }

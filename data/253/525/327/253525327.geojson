@@ -2,82 +2,86 @@
   "id": 253525327,
   "type": "Feature",
   "properties": {
-    "addr:full":"9660 Aero Dr San Diego CA 92123",
-    "addr:housenumber":"9660",
-    "addr:postcode":"92123",
-    "addr:street":"Aero Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.120588,32.80842,-117.120588,32.80842",
-    "geom:latitude":32.80842,
-    "geom:longitude":-117.120588,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9660 Aero Dr",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "9660 Aero Dr San Diego CA 92123",
+    "addr:housenumber": "9660",
+    "addr:postcode": "92123",
+    "addr:street": "Aero Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.120588,32.808420,-117.120588,32.808420",
+    "geom:latitude": 32.80842,
+    "geom:longitude": -117.120588,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Luxury Auto Body, 9660 Aero Dr San Diego CA US",
+    "ovtr:similarity": 1.8994150161743164,
+    "sg:address": "9660 Aero Dr",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 858 560 5898",
-    "sg:postcode":"92123",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 858 560 5898",
+    "sg:postcode": "92123",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922227,
-        102083569,
-        85866833
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922227,
+      102083569,
+      85866833
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5w3ZFUXemYtuEQ09lxOIJt_32.808420_-117.120588@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a418b95bcb0039bdc8caa247743",
+      "sg:id": "SG_5w3ZFUXemYtuEQ09lxOIJt_32.808420_-117.120588@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"86034d547d640f188b30e3376eb22fdb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "neighbourhood_id":85866833,
-            "region_id":85688637,
-            "venue_id":253525327
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "86034d547d640f188b30e3376eb22fdb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "neighbourhood_id": 85866833,
+        "region_id": 85688637,
+        "venue_id": 253525327
+      }
     ],
-    "wof:id":253525327,
-    "wof:lastmodified":1509200136,
-    "wof:name":"Luxury Auto Body",
-    "wof:parent_id":85866833,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 253525327,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Luxury Auto Body",
+    "wof:parent_id": 85866833,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.120588,
     32.80842,
     -117.120588,
     32.80842
-],
+  ],
   "geometry": {"coordinates":[-117.120588,32.80842],"type":"Point"}
 }

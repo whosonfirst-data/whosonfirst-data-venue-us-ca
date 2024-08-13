@@ -2,88 +2,92 @@
   "id": 572474597,
   "type": "Feature",
   "properties": {
-    "addr:full":"1000 Bristol St N Ste 1B Newport Beach CA 92660",
-    "addr:housenumber":"1000",
-    "addr:postcode":"92660",
-    "addr:street":"Bristol St N Ste 1B",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.866454,33.657774,-117.866454,33.657774",
-    "geom:latitude":33.657774,
-    "geom:longitude":-117.866454,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1000 Bristol St N Ste 1B",
-    "sg:city":"Newport Beach",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        },
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "1000 Bristol St N Ste 1B Newport Beach CA 92660",
+    "addr:housenumber": "1000",
+    "addr:postcode": "92660",
+    "addr:street": "Bristol St N Ste 1B",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.866454,33.657774,-117.866454,33.657774",
+    "geom:latitude": 33.657774,
+    "geom:longitude": -117.866454,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Newport Urgent Care, 1000 N Bristol St Newport Beach CA US",
+    "ovtr:similarity": 3.6530709266662598,
+    "sg:address": "1000 Bristol St N Ste 1B",
+    "sg:city": "Newport Beach",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      },
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 752 6300",
-    "sg:postcode":"92660",
-    "sg:province":"CA",
-    "sg:tags":[
-        "urgent",
-        "care"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 752 6300",
+    "sg:postcode": "92660",
+    "sg:province": "CA",
+    "sg:tags": [
+      "urgent",
+      "care"
     ],
-    "sg:website":"www.newporturgentcare.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923075,
-        102080847,
-        85847111
+    "sg:website": "www.newporturgentcare.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923075,
+      102080847,
+      85847111
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2ukSmYmt9Xjz8298ie5Eds_33.657774_-117.866454@1303263269"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a54d16a65900389b2f8db043735",
+      "sg:id": "SG_2ukSmYmt9Xjz8298ie5Eds_33.657774_-117.866454@1303263269"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d8ea41cd7071f8d1de0f314e3527614a",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923075,
-            "neighbourhood_id":85847111,
-            "region_id":85688637,
-            "venue_id":572474597
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "d8ea41cd7071f8d1de0f314e3527614a",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923075,
+        "neighbourhood_id": 85847111,
+        "region_id": 85688637,
+        "venue_id": 572474597
+      }
     ],
-    "wof:id":572474597,
-    "wof:lastmodified":1509201913,
-    "wof:name":"Newport Urgent Care",
-    "wof:parent_id":85847111,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "urgent",
-        "care"
+    "wof:id": 572474597,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Newport Urgent Care",
+    "wof:parent_id": 85847111,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "urgent",
+      "care"
     ]
-},
+  },
   "bbox": [
     -117.866454,
     33.657774,
     -117.866454,
     33.657774
-],
+  ],
   "geometry": {"coordinates":[-117.866454,33.657774],"type":"Point"}
 }

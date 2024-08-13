@@ -2,80 +2,84 @@
   "id": 572436527,
   "type": "Feature",
   "properties": {
-    "addr:full":"18066 Culver Dr Irvine CA 92612",
-    "addr:housenumber":"18066",
-    "addr:postcode":"92612",
-    "addr:street":"Culver Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.827216,33.66423,-117.827216,33.66423",
-    "geom:latitude":33.66423,
-    "geom:longitude":-117.827216,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"18066 Culver Dr",
-    "sg:city":"Irvine",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "18066 Culver Dr Irvine CA 92612",
+    "addr:housenumber": "18066",
+    "addr:postcode": "92612",
+    "addr:street": "Culver Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.827216,33.664230,-117.827216,33.664230",
+    "geom:latitude": 33.66423,
+    "geom:longitude": -117.827216,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mag's Donuts \u0026 Bakery, 18048 Culver Dr Irvine CA US",
+    "ovtr:similarity": 3.564378023147583,
+    "sg:address": "18066 Culver Dr",
+    "sg:city": "Irvine",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 949 786 1955",
-    "sg:postcode":"92612",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923131,
-        102080847,
-        85878269
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 949 786 1955",
+    "sg:postcode": "92612",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923131,
+      102080847,
+      85878269
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7gBnBzP399DW2vxdcQsHRw_33.664230_-117.827216@1303263259"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0b2c9806b203379a7a94ca14bd",
+      "sg:id": "SG_7gBnBzP399DW2vxdcQsHRw_33.664230_-117.827216@1303263259"
     },
-    "wof:country":"US",
-    "wof:geomhash":"daa15be08be6e0db867c126d1a7e124c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923131,
-            "neighbourhood_id":85878269,
-            "region_id":85688637,
-            "venue_id":572436527
-        }
+    "wof:country": "US",
+    "wof:created": 1723561648,
+    "wof:geomhash": "daa15be08be6e0db867c126d1a7e124c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923131,
+        "neighbourhood_id": 85878269,
+        "region_id": 85688637,
+        "venue_id": 572436527
+      }
     ],
-    "wof:id":572436527,
-    "wof:lastmodified":1509201889,
-    "wof:name":"Mag's Donut & Bakery",
-    "wof:parent_id":85878269,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572436527,
+    "wof:lastmodified": 1723561648,
+    "wof:name": "Mag's Donut \u0026 Bakery",
+    "wof:parent_id": 85878269,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.827216,
     33.66423,
     -117.827216,
     33.66423
-],
-  "geometry": {"coordinates":[-117.82721600000001,33.66423],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.827216,33.66423],"type":"Point"}
 }

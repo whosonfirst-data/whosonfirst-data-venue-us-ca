@@ -2,65 +2,73 @@
   "id": 571987027,
   "type": "Feature",
   "properties": {
-    "addr:full":"1901 E Valley Rd Santa Barbara CA 93108",
-    "addr:housenumber":"1901",
-    "addr:postcode":"93108",
-    "addr:street":"E Valley Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.614998,34.439499,-119.614998,34.439499",
-    "geom:latitude":34.439499,
-    "geom:longitude":-119.614998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1901 E Valley Rd",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Community Association",
-            "type":"Services"
-        }
+    "addr:full": "1901 E Valley Rd Santa Barbara CA 93108",
+    "addr:housenumber": "1901",
+    "addr:postcode": "93108",
+    "addr:street": "E Valley Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.614998,34.439499,-119.614998,34.439499",
+    "geom:latitude": 34.439499,
+    "geom:longitude": -119.614998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Valley Club of Montecito, 1901 E Valley Rd Santa Barbara CA US",
+    "ovtr:similarity": 2.3318710327148438,
+    "sg:address": "1901 E Valley Rd",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Community Association",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 969 2215",
-    "sg:postcode":"93108",
-    "sg:province":"CA",
-    "sg:tags":[
-        "club",
-        "golf"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 969 2215",
+    "sg:postcode": "93108",
+    "sg:province": "CA",
+    "sg:tags": [
+      "club",
+      "golf"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0t1wTvymMC9OTnAAKkt9xN_34.439332_-119.614922@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29126583a16f503bbebcd916b4949",
+      "sg:id": "SG_0t1wTvymMC9OTnAAKkt9xN_34.439332_-119.614922@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5321b7b0b1db9f40290c198370372353",
-    "wof:hierarchy":[],
-    "wof:id":571987027,
-    "wof:lastmodified":1509201656,
-    "wof:name":"Valley Club of Montecito",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "club",
-        "golf"
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "5321b7b0b1db9f40290c198370372353",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571987027
+      }
+    ],
+    "wof:id": 571987027,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Valley Club of Montecito",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "club",
+      "golf"
     ]
-},
+  },
   "bbox": [
     -119.614998,
     34.439499,
     -119.614998,
     34.439499
-],
+  ],
   "geometry": {"coordinates":[-119.614998,34.439499],"type":"Point"}
 }

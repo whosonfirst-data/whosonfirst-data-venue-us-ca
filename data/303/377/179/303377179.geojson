@@ -2,74 +2,78 @@
   "id": 303377179,
   "type": "Feature",
   "properties": {
-    "addr:full":"41870 Garstin Dr Big Bear Lake CA 92314",
-    "addr:housenumber":"41870",
-    "addr:postcode":"92314",
-    "addr:street":"Garstin Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.88912,34.245933,-116.88912,34.245933",
-    "geom:latitude":34.245933,
-    "geom:longitude":-116.88912,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"41870 Garstin Dr",
-    "sg:city":"Big Bear Lake",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "41870 Garstin Dr Big Bear Lake CA 92314",
+    "addr:housenumber": "41870",
+    "addr:postcode": "92314",
+    "addr:street": "Garstin Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.889120,34.245933,-116.889120,34.245933",
+    "geom:latitude": 34.245933,
+    "geom:longitude": -116.88912,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bear Valley Community Hospital, 41870 Garstin Dr Big Bear Lake CA US",
+    "ovtr:similarity": 2.4584169387817383,
+    "sg:address": "41870 Garstin Dr",
+    "sg:city": "Big Bear Lake",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 878 8200",
-    "sg:postcode":"92314",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923881,
-        102085395,
-        85835123
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 878 8200",
+    "sg:postcode": "92314",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923881,
+      102085395,
+      85835123
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4eBCDfqauhPxELey7s550B_34.245933_-116.889120@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a07b506d2580369261802b489f8",
+      "sg:id": "SG_4eBCDfqauhPxELey7s550B_34.245933_-116.889120@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d8c11b099f7beb85a701db7dca31d8f5",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923881,
-            "neighbourhood_id":85835123,
-            "region_id":85688637,
-            "venue_id":303377179
-        }
+    "wof:country": "US",
+    "wof:created": 1723561698,
+    "wof:geomhash": "d8c11b099f7beb85a701db7dca31d8f5",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923881,
+        "neighbourhood_id": 85835123,
+        "region_id": 85688637,
+        "venue_id": 303377179
+      }
     ],
-    "wof:id":303377179,
-    "wof:lastmodified":1509200356,
-    "wof:name":"Bear Valley Community Hospital",
-    "wof:parent_id":85835123,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 303377179,
+    "wof:lastmodified": 1723561698,
+    "wof:name": "Bear Valley Community Hospital",
+    "wof:parent_id": 85835123,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.88912,
     34.245933,
     -116.88912,
     34.245933
-],
-  "geometry": {"coordinates":[-116.88912000000001,34.245933],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-116.88912,34.245933],"type":"Point"}
 }

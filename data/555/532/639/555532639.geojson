@@ -2,78 +2,82 @@
   "id": 555532639,
   "type": "Feature",
   "properties": {
-    "addr:full":"801 Benton St Santa Rosa CA 95404",
-    "addr:housenumber":"801",
-    "addr:postcode":"ca 95404",
-    "addr:street":"Benton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.712198,38.447711,-122.712198,38.447711",
-    "geom:latitude":38.447711,
-    "geom:longitude":-122.712198,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"801 Benton St",
-    "sg:city":"Santa Rosa",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "801 Benton St Santa Rosa CA 95404",
+    "addr:housenumber": "801",
+    "addr:postcode": "ca 95404",
+    "addr:street": "Benton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.712198,38.447711,-122.712198,38.447711",
+    "geom:latitude": 38.447711,
+    "geom:longitude": -122.712198,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Benton MARKET, 801 Benton St Santa Rosa CA US",
+    "ovtr:similarity": 2.628180980682373,
+    "sg:address": "801 Benton St",
+    "sg:city": "Santa Rosa",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 526 5550",
-    "sg:postcode":"95404",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 526 5550",
+    "sg:postcode": "95404",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85880885,
-        85633793,
-        85922693,
-        102081671,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85880885,
+      85633793,
+      85922693,
+      102081671,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5pquFmtVWygDQNssYUk8gn_38.447711_-122.712198@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283035822401103101f398ded7653",
+      "sg:id": "SG_5pquFmtVWygDQNssYUk8gn_38.447711_-122.712198@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e46907114ff886dbbe775380e6cc93a8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081671,
-            "locality_id":85922693,
-            "neighbourhood_id":85880885,
-            "region_id":85688637,
-            "venue_id":555532639
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "e46907114ff886dbbe775380e6cc93a8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081671,
+        "locality_id": 85922693,
+        "neighbourhood_id": 85880885,
+        "region_id": 85688637,
+        "venue_id": 555532639
+      }
     ],
-    "wof:id":555532639,
-    "wof:lastmodified":1509201423,
-    "wof:name":"Benton Market",
-    "wof:parent_id":85880885,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 555532639,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Benton Market",
+    "wof:parent_id": 85880885,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.712198,
     38.447711,
     -122.712198,
     38.447711
-],
+  ],
   "geometry": {"coordinates":[-122.712198,38.447711],"type":"Point"}
 }

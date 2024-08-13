@@ -2,80 +2,84 @@
   "id": 572381931,
   "type": "Feature",
   "properties": {
-    "addr:full":"2924 National Ave San Diego CA 92113",
-    "addr:housenumber":"2924",
-    "addr:postcode":"92113",
-    "addr:street":"National Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.13115,32.696267,-117.13115,32.696267",
-    "geom:latitude":32.696267,
-    "geom:longitude":-117.13115,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2924 National Ave",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2924 National Ave San Diego CA 92113",
+    "addr:housenumber": "2924",
+    "addr:postcode": "92113",
+    "addr:street": "National Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.131150,32.696267,-117.131150,32.696267",
+    "geom:latitude": 32.696267,
+    "geom:longitude": -117.13115,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Rosita's Flower Shop, 2924 National Ave San Diego CA US",
+    "ovtr:similarity": 3.409456968307495,
+    "sg:address": "2924 National Ave",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 595 0607",
-    "sg:postcode":"92113",
-    "sg:province":"CA",
-    "sg:website":"www.rositasflowers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108801253,
-        85831213,
-        102191575,
-        1108802093,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 595 0607",
+    "sg:postcode": "92113",
+    "sg:province": "CA",
+    "sg:website": "www.rositasflowers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108801253,
+      85831213,
+      102191575,
+      1108802093,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3U6Ch7Id0ET6mqSpk3VDkT_32.696267_-117.131150@1303263246"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4112799c4203528d3e4d68fb00",
+      "sg:id": "SG_3U6Ch7Id0ET6mqSpk3VDkT_32.696267_-117.131150@1303263246"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8bdc4b92cec28f5f1dfbaeed580800b4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108802093,
-            "microhood_id":1108801253,
-            "neighbourhood_id":85831213,
-            "region_id":85688637,
-            "venue_id":572381931
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "8bdc4b92cec28f5f1dfbaeed580800b4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108802093,
+        "microhood_id": 1108801253,
+        "neighbourhood_id": 85831213,
+        "region_id": 85688637,
+        "venue_id": 572381931
+      }
     ],
-    "wof:id":572381931,
-    "wof:lastmodified":1509201855,
-    "wof:name":"Rositas Flower Shop",
-    "wof:parent_id":1108801253,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572381931,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Rositas Flower Shop",
+    "wof:parent_id": 1108801253,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.13115,
     32.696267,
     -117.13115,
     32.696267
-],
-  "geometry": {"coordinates":[-117.13115000000001,32.696267],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.13115,32.696267],"type":"Point"}
 }

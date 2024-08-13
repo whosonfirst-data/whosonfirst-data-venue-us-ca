@@ -2,85 +2,89 @@
   "id": 555336213,
   "type": "Feature",
   "properties": {
-    "addr:full":"718 B St San Rafael CA 94901",
-    "addr:housenumber":"718",
-    "addr:postcode":"94901",
-    "addr:street":"B St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.529733,37.971213,-122.529733,37.971213",
-    "geom:latitude":37.971213,
-    "geom:longitude":-122.529733,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"718 B St",
-    "sg:city":"San Rafael",
-    "sg:classifiers":[
-        {
-            "category":"Manufacturing",
-            "subcategory":"Jewelry",
-            "type":"Manufacturing & Wholesale Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Jewelry",
-            "type":"Retail Goods"
-        }
+    "addr:full": "718 B St San Rafael CA 94901",
+    "addr:housenumber": "718",
+    "addr:postcode": "94901",
+    "addr:street": "B St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.529733,37.971213,-122.529733,37.971213",
+    "geom:latitude": 37.971213,
+    "geom:longitude": -122.529733,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Benchmark Jewelry, 718 B St San Rafael CA US",
+    "ovtr:similarity": 3.9250171184539795,
+    "sg:address": "718 B St",
+    "sg:city": "San Rafael",
+    "sg:classifiers": [
+      {
+        "category": "Manufacturing",
+        "subcategory": "Jewelry",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Jewelry",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 459 0333",
-    "sg:postcode":"94901",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repair"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 459 0333",
+    "sg:postcode": "94901",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repair"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922003,
-        102084353,
-        85887915
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922003,
+      102084353,
+      85887915
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4uQvBQAsSxdhGgFBjcxWkD_37.971213_-122.529733@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830ba20c94990350299d42b07866",
+      "sg:id": "SG_4uQvBQAsSxdhGgFBjcxWkD_37.971213_-122.529733@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"71a93522a4c9a601438b63c0dd3708fb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922003,
-            "neighbourhood_id":85887915,
-            "region_id":85688637,
-            "venue_id":555336213
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "71a93522a4c9a601438b63c0dd3708fb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922003,
+        "neighbourhood_id": 85887915,
+        "region_id": 85688637,
+        "venue_id": 555336213
+      }
     ],
-    "wof:id":555336213,
-    "wof:lastmodified":1509201357,
-    "wof:name":"Benchmark Jewelry Mfg",
-    "wof:parent_id":85887915,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repair"
+    "wof:id": 555336213,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Benchmark Jewelry Mfg",
+    "wof:parent_id": 85887915,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repair"
     ]
-},
+  },
   "bbox": [
     -122.529733,
     37.971213,
     -122.529733,
     37.971213
-],
-  "geometry": {"coordinates":[-122.52973299999999,37.971213],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.529733,37.971213],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 370601645,
   "type": "Feature",
   "properties": {
-    "addr:full":"601 S San Pedro St Los Angeles CA 90014",
-    "addr:housenumber":"601",
-    "addr:postcode":"90014",
-    "addr:street":"S San Pedro St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.245851,34.042329,-118.245851,34.042329",
-    "geom:latitude":34.042329,
-    "geom:longitude":-118.245851,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"601 S San Pedro St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "601 S San Pedro St Los Angeles CA 90014",
+    "addr:housenumber": "601",
+    "addr:postcode": "90014",
+    "addr:street": "S San Pedro St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.245851,34.042329,-118.245851,34.042329",
+    "geom:latitude": 34.042329,
+    "geom:longitude": -118.245851,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Midnight Mission, 601 S San Pedro St Los Angeles CA US",
+    "ovtr:similarity": 3.3326990604400635,
+    "sg:address": "601 S San Pedro St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 624 9258",
-    "sg:postcode":"90014",
-    "sg:province":"CA",
-    "sg:tags":[
-        "service/non-profit",
-        "community"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 624 9258",
+    "sg:postcode": "90014",
+    "sg:province": "CA",
+    "sg:tags": [
+      "service/non-profit",
+      "community"
     ],
-    "sg:website":"www.midnightmission.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869659
+    "sg:website": "www.midnightmission.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869659
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000527301-0001-9",
-        "osm:way":419967770,
-        "sg:id":"SG_6k4LY5fRra0V6vq7pN50Uf_34.042329_-118.245851@1303263150"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000527301-0001-9",
+      "osm:way": 419967770,
+      "ovtr:id": "08f29a1d7515294803f90d70faf6e8bf",
+      "sg:id": "SG_6k4LY5fRra0V6vq7pN50Uf_34.042329_-118.245851@1303263150"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4e685e4d84fb9b81294022670351fc3f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869659,
-            "region_id":85688637,
-            "venue_id":370601645
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "4e685e4d84fb9b81294022670351fc3f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869659,
+        "region_id": 85688637,
+        "venue_id": 370601645
+      }
     ],
-    "wof:id":370601645,
-    "wof:lastmodified":1510941739,
-    "wof:name":"Midnight Mission",
-    "wof:parent_id":85869659,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "service/non-profit",
-        "community"
+    "wof:id": 370601645,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Midnight Mission",
+    "wof:parent_id": 85869659,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "service/non-profit",
+      "community"
     ]
-},
+  },
   "bbox": [
     -118.245851,
     34.042329,
     -118.245851,
     34.042329
-],
+  ],
   "geometry": {"coordinates":[-118.245851,34.042329],"type":"Point"}
 }

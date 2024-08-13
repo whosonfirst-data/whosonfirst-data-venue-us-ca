@@ -2,88 +2,92 @@
   "id": 588421995,
   "type": "Feature",
   "properties": {
-    "addr:full":"519 Bay St San Francisco CA 94133",
-    "addr:housenumber":"519",
-    "addr:postcode":"94133",
-    "addr:street":"Bay St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.415751,37.80524,-122.415751,37.80524",
-    "geom:latitude":37.80524,
-    "geom:longitude":-122.415751,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"519 Bay St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Arts & Performance",
-            "subcategory":"Arts Center",
-            "type":"Entertainment"
-        },
-        {
-            "category":"Education",
-            "subcategory":"Special Training",
-            "type":"Public Place"
-        }
+    "addr:full": "519 Bay St San Francisco CA 94133",
+    "addr:housenumber": "519",
+    "addr:postcode": "94133",
+    "addr:street": "Bay St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.415751,37.805240,-122.415751,37.805240",
+    "geom:latitude": 37.80524,
+    "geom:longitude": -122.415751,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tutu School, 519 Bay St San Francisco CA US",
+    "ovtr:similarity": 2.1741249561309814,
+    "sg:address": "519 Bay St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Arts \u0026 Performance",
+        "subcategory": "Arts Center",
+        "type": "Entertainment"
+      },
+      {
+        "category": "Education",
+        "subcategory": "Special Training",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 734 8840",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "school",
-        "specialty"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 734 8840",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "school",
+      "specialty"
     ],
-    "sg:website":"www.tutuschool.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85837317
+    "sg:website": "www.tutuschool.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85837317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Gx8tTo46LUcWOgdEiJTRG_37.805240_-122.415751@1303263324"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082b61e2d00392f25dec1c29cb",
+      "sg:id": "SG_7Gx8tTo46LUcWOgdEiJTRG_37.805240_-122.415751@1303263324"
     },
-    "wof:country":"US",
-    "wof:geomhash":"15d8799d413376db3e38ff7d9f5ab8c7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":588421995
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "15d8799d413376db3e38ff7d9f5ab8c7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 588421995
+      }
     ],
-    "wof:id":588421995,
-    "wof:lastmodified":1509202054,
-    "wof:name":"Tutu School",
-    "wof:parent_id":85837317,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "school",
-        "specialty"
+    "wof:id": 588421995,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Tutu School",
+    "wof:parent_id": 85837317,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "school",
+      "specialty"
     ]
-},
+  },
   "bbox": [
     -122.415751,
     37.80524,
     -122.415751,
     37.80524
-],
+  ],
   "geometry": {"coordinates":[-122.415751,37.80524],"type":"Point"}
 }

@@ -2,84 +2,88 @@
   "id": 572044369,
   "type": "Feature",
   "properties": {
-    "addr:full":"169 Steuart St San Francisco CA 94105",
-    "addr:housenumber":"169",
-    "addr:postcode":"94105",
-    "addr:street":"Steuart St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.392127,37.792548,-122.392127,37.792548",
-    "geom:latitude":37.792548,
-    "geom:longitude":-122.392127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"169 Steuart St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Campground",
-            "type":"Entertainment"
-        }
+    "addr:full": "169 Steuart St San Francisco CA 94105",
+    "addr:housenumber": "169",
+    "addr:postcode": "94105",
+    "addr:street": "Steuart St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.392127,37.792548,-122.392127,37.792548",
+    "geom:latitude": 37.792548,
+    "geom:longitude": -122.392127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Embarcadero YMCA, 169 Steuart St San Francisco CA US",
+    "ovtr:similarity": 2.2453439235687256,
+    "sg:address": "169 Steuart St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Campground",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 957 9622",
-    "sg:postcode":"94105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "gym",
-        "camp"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 957 9622",
+    "sg:postcode": "94105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "gym",
+      "camp"
     ],
-    "sg:website":"www.ymcasf.org/Embarcadero",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85882195
+    "sg:website": "www.ymcasf.org/Embarcadero",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85882195
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0909895-06-001",
-        "sg:id":"SG_370HpKHQiYueKxfZXdpoJO_37.792908_-122.392434@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082a70aad4035b9ef53b661db0",
+      "sfgov_rbl:id": "0909895-06-001",
+      "sg:id": "SG_370HpKHQiYueKxfZXdpoJO_37.792908_-122.392434@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"73773ffc909f90fde3cb50d68fa37ad8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85882195,
-            "region_id":85688637,
-            "venue_id":572044369
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "73773ffc909f90fde3cb50d68fa37ad8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85882195,
+        "region_id": 85688637,
+        "venue_id": 572044369
+      }
     ],
-    "wof:id":572044369,
-    "wof:lastmodified":1509201674,
-    "wof:name":"Embarcadero YMCA",
-    "wof:parent_id":85882195,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "gym",
-        "camp"
+    "wof:id": 572044369,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Embarcadero YMCA",
+    "wof:parent_id": 85882195,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "gym",
+      "camp"
     ]
-},
+  },
   "bbox": [
     -122.392127,
     37.792548,
     -122.392127,
     37.792548
-],
+  ],
   "geometry": {"coordinates":[-122.392127,37.792548],"type":"Point"}
 }

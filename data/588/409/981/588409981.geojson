@@ -2,86 +2,90 @@
   "id": 588409981,
   "type": "Feature",
   "properties": {
-    "addr:full":"350 Masonic Avenue San Francisco CA 94118",
-    "addr:housenumber":"350",
-    "addr:postcode":"94118",
-    "addr:street":"Masonic Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.446999,37.778,-122.446999,37.778",
-    "geom:latitude":37.778,
-    "geom:longitude":-122.446999,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"350 Masonic Avenue",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "350 Masonic Avenue San Francisco CA 94118",
+    "addr:housenumber": "350",
+    "addr:postcode": "94118",
+    "addr:street": "Masonic Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.446999,37.778000,-122.446999,37.778000",
+    "geom:latitude": 37.778,
+    "geom:longitude": -122.446999,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "San Francisco Day School, 350 Masonic Ave San Francisco CA US",
+    "ovtr:similarity": 3.139565944671631,
+    "sg:address": "350 Masonic Avenue",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 931 2422",
-    "sg:postcode":"94118",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 931 2422",
+    "sg:postcode": "94118",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865921,
-        102191575,
-        1108830805,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865921,
+      102191575,
+      1108830805,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2w23hszXn7apslfSi8Mn2p_37.778000_-122.446999@1303263321"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308298c06c5034fc6005ab3346a",
+      "sg:id": "SG_2w23hszXn7apslfSi8Mn2p_37.778000_-122.446999@1303263321"
     },
-    "wof:country":"US",
-    "wof:geomhash":"73ec69c8f8a89460e1a90aa8b2988e8d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830805,
-            "neighbourhood_id":85865921,
-            "region_id":85688637,
-            "venue_id":588409981
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "73ec69c8f8a89460e1a90aa8b2988e8d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830805,
+        "neighbourhood_id": 85865921,
+        "region_id": 85688637,
+        "venue_id": 588409981
+      }
     ],
-    "wof:id":588409981,
-    "wof:lastmodified":1509202046,
-    "wof:name":"San Francisco Day School",
-    "wof:parent_id":85865921,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 588409981,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "San Francisco Day School",
+    "wof:parent_id": 85865921,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -122.446999,
     37.778,
     -122.446999,
     37.778
-],
-  "geometry": {"coordinates":[-122.44699900000001,37.778],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.446999,37.778],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 572199087,
   "type": "Feature",
   "properties": {
-    "addr:full":"3450 Broadway St Eureka CA 95503",
-    "addr:housenumber":"3450",
-    "addr:postcode":"95503",
-    "addr:street":"Broadway St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.18995,40.777268,-124.18995,40.777268",
-    "geom:latitude":40.777268,
-    "geom:longitude":-124.18995,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3450 Broadway St",
-    "sg:city":"Eureka",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "3450 Broadway St Eureka CA 95503",
+    "addr:housenumber": "3450",
+    "addr:postcode": "95503",
+    "addr:street": "Broadway St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.189950,40.777268,-124.189950,40.777268",
+    "geom:latitude": 40.777268,
+    "geom:longitude": -124.18995,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 3450 Broadway Eureka CA US",
+    "ovtr:similarity": 3.9726181030273438,
+    "sg:address": "3450 Broadway St",
+    "sg:city": "Eureka",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/eureka/216376-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95503",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/eureka/216376-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95503",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85808321,
-        102087587
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85808321,
+      102087587
     ],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2246393993,
-        "sg:id":"SG_5J3v13WQUaFVuaer19mx27_40.777268_-124.189950@1299784598"
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2246393993,
+      "ovtr:id": "08f2802aec65984503e279c4271140e1",
+      "sg:id": "SG_5J3v13WQUaFVuaer19mx27_40.777268_-124.189950@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"31812c1b48112d062274d578386ef5f2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102087587,
-            "neighbourhood_id":85808321,
-            "region_id":85688637,
-            "venue_id":572199087
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "31812c1b48112d062274d578386ef5f2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102087587,
+        "neighbourhood_id": 85808321,
+        "region_id": 85688637,
+        "venue_id": 572199087
+      }
     ],
-    "wof:id":572199087,
-    "wof:lastmodified":1512143000,
-    "wof:name":"McDonald's",
-    "wof:parent_id":85808321,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572199087,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "McDonald's",
+    "wof:parent_id": 85808321,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -124.18995,
     40.777268,
     -124.18995,
     40.777268
-],
+  ],
   "geometry": {"coordinates":[-124.18995,40.777268],"type":"Point"}
 }

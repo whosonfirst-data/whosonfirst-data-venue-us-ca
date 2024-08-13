@@ -2,87 +2,91 @@
   "id": 386989727,
   "type": "Feature",
   "properties": {
-    "addr:full":"2320 Sawtelle Blvd Los Angeles CA 90064",
-    "addr:housenumber":"2320",
-    "addr:postcode":"90064",
-    "addr:street":"Sawtelle Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.439308,34.03641,-118.439308,34.03641",
-    "geom:latitude":34.03641,
-    "geom:longitude":-118.439308,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2320 Sawtelle Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2320 Sawtelle Blvd Los Angeles CA 90064",
+    "addr:housenumber": "2320",
+    "addr:postcode": "90064",
+    "addr:street": "Sawtelle Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.439308,34.036410,-118.439308,34.036410",
+    "geom:latitude": 34.03641,
+    "geom:longitude": -118.439308,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Beverly Coachcraft, 2320 Sawtelle Blvd Los Angeles CA US",
+    "ovtr:similarity": 1.6115150451660156,
+    "sg:address": "2320 Sawtelle Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 477 6561",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "shop",
-        "detailing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 477 6561",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "shop",
+      "detailing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000440709-0001-4",
-        "sg:id":"SG_0kzaufpBEFsSeb5J7kcB3G_34.036410_-118.439308@1303263166"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000440709-0001-4",
+      "ovtr:id": "08f29a19830213550377b5b6c6692896",
+      "sg:id": "SG_0kzaufpBEFsSeb5J7kcB3G_34.036410_-118.439308@1303263166"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d67a4b68b866d986173b13951842424e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":386989727
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "d67a4b68b866d986173b13951842424e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 386989727
+      }
     ],
-    "wof:id":386989727,
-    "wof:lastmodified":1509200929,
-    "wof:name":"Beverly Coachcraft",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "shop",
-        "detailing"
+    "wof:id": 386989727,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Beverly Coachcraft",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "shop",
+      "detailing"
     ]
-},
+  },
   "bbox": [
     -118.439308,
     34.03641,
     -118.439308,
     34.03641
-],
+  ],
   "geometry": {"coordinates":[-118.439308,34.03641],"type":"Point"}
 }

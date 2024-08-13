@@ -2,78 +2,82 @@
   "id": 555463905,
   "type": "Feature",
   "properties": {
-    "addr:full":"24 S 3rd St Patterson CA 95363",
-    "addr:housenumber":"24",
-    "addr:postcode":"95363",
-    "addr:street":"S 3Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.129184,37.470362,-121.129184,37.470362",
-    "geom:latitude":37.470362,
-    "geom:longitude":-121.129184,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24 S 3rd St",
-    "sg:city":"Patterson",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "24 S 3rd St Patterson CA 95363",
+    "addr:housenumber": "24",
+    "addr:postcode": "95363",
+    "addr:street": "S 3Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.129184,37.470362,-121.129184,37.470362",
+    "geom:latitude": 37.470362,
+    "geom:longitude": -121.129184,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Patterson Veterinary Hospital, 24 S 3rd St Patterson CA US",
+    "ovtr:similarity": 3.388235092163086,
+    "sg:address": "24 S 3rd St",
+    "sg:city": "Patterson",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 892 8387",
-    "sg:postcode":"95363",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 892 8387",
+    "sg:postcode": "95363",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85879025,
-        85633793,
-        85926301,
-        102083579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85879025,
+      85633793,
+      85926301,
+      102083579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0WeVKX2sMxBh5qdX8lU2MT_37.470362_-121.129184@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28368c42c971d0342acfd2f7bb721",
+      "sg:id": "SG_0WeVKX2sMxBh5qdX8lU2MT_37.470362_-121.129184@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6df1fbc8575478e724568fdf4b3cb18e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":85926301,
-            "neighbourhood_id":85879025,
-            "region_id":85688637,
-            "venue_id":555463905
-        }
+    "wof:country": "US",
+    "wof:created": 1723561697,
+    "wof:geomhash": "6df1fbc8575478e724568fdf4b3cb18e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": 85926301,
+        "neighbourhood_id": 85879025,
+        "region_id": 85688637,
+        "venue_id": 555463905
+      }
     ],
-    "wof:id":555463905,
-    "wof:lastmodified":1509201401,
-    "wof:name":"Patterson Veterinary Hospital",
-    "wof:parent_id":85879025,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital"
+    "wof:id": 555463905,
+    "wof:lastmodified": 1723561697,
+    "wof:name": "Patterson Veterinary Hospital",
+    "wof:parent_id": 85879025,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital"
     ]
-},
+  },
   "bbox": [
     -121.129184,
     37.470362,
     -121.129184,
     37.470362
-],
+  ],
   "geometry": {"coordinates":[-121.129184,37.470362],"type":"Point"}
 }

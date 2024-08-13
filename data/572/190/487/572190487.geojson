@@ -2,82 +2,86 @@
   "id": 572190487,
   "type": "Feature",
   "properties": {
-    "addr:full":"2500 Washington St San Francisco CA 94115",
-    "addr:housenumber":"2500",
-    "addr:postcode":"94115",
-    "addr:street":"Washington St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.434518,37.79161,-122.434518,37.79161",
-    "geom:latitude":37.79161,
-    "geom:longitude":-122.434518,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2500 Washington St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2500 Washington St San Francisco CA 94115",
+    "addr:housenumber": "2500",
+    "addr:postcode": "94115",
+    "addr:street": "Washington St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.434518,37.791610,-122.434518,37.791610",
+    "geom:latitude": 37.79161,
+    "geom:longitude": -122.434518,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chouquet's, 2500 Washington St San Francisco CA US",
+    "ovtr:similarity": 2.371558904647827,
+    "sg:address": "2500 Washington St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/21315-chouquets/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 359 0075",
-    "sg:postcode":"94115",
-    "sg:province":"CA",
-    "sg:tags":[
-        "french"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/21315-chouquets/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 359 0075",
+    "sg:postcode": "94115",
+    "sg:province": "CA",
+    "sg:tags": [
+      "french"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865909
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865909
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0381675-01-001",
-        "sg:id":"SG_2azZ6WwhEQmGL6Ei285CdX_37.791610_-122.434518@1299784598"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082bb6a2c803f735e7b3a1a238",
+      "sfgov_rbl:id": "0381675-01-001",
+      "sg:id": "SG_2azZ6WwhEQmGL6Ei285CdX_37.791610_-122.434518@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7a1b54be1e3624ad16488b656f819c3b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865909,
-            "region_id":85688637,
-            "venue_id":572190487
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "7a1b54be1e3624ad16488b656f819c3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865909,
+        "region_id": 85688637,
+        "venue_id": 572190487
+      }
     ],
-    "wof:id":572190487,
-    "wof:lastmodified":1509201723,
-    "wof:name":"Chouquet's",
-    "wof:parent_id":85865909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "french"
+    "wof:id": 572190487,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Chouquet's",
+    "wof:parent_id": 85865909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "french"
     ]
-},
+  },
   "bbox": [
     -122.434518,
     37.79161,
     -122.434518,
     37.79161
-],
+  ],
   "geometry": {"coordinates":[-122.434518,37.79161],"type":"Point"}
 }

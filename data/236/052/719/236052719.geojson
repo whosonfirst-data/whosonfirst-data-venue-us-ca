@@ -2,81 +2,85 @@
   "id": 236052719,
   "type": "Feature",
   "properties": {
-    "addr:full":"7167 University Ave La Mesa CA 91941",
-    "addr:housenumber":"7167",
-    "addr:postcode":"91941",
-    "addr:street":"University Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.045419,32.754535,-117.045419,32.754535",
-    "geom:latitude":32.754535,
-    "geom:longitude":-117.045419,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7167 University Ave",
-    "sg:city":"La Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "7167 University Ave La Mesa CA 91941",
+    "addr:housenumber": "7167",
+    "addr:postcode": "91941",
+    "addr:street": "University Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.045419,32.754535,-117.045419,32.754535",
+    "geom:latitude": 32.754535,
+    "geom:longitude": -117.045419,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "C \u0026 D Auto Care, 7167 University Ave La Mesa CA US",
+    "ovtr:similarity": 1.8685840368270874,
+    "sg:address": "7167 University Ave",
+    "sg:city": "La Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 466 9100",
-    "sg:postcode":"91941",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 466 9100",
+    "sg:postcode": "91941",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922251,
-        102083569,
-        85871175
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922251,
+      102083569,
+      85871175
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2mLQWsDa9u2qim04wFbI3A_32.754535_-117.045419@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4182889c51032548ced31eda56",
+      "sg:id": "SG_2mLQWsDa9u2qim04wFbI3A_32.754535_-117.045419@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"43d25855e104daeed4b85602dcf2d251",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922251,
-            "neighbourhood_id":85871175,
-            "region_id":85688637,
-            "venue_id":236052719
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "43d25855e104daeed4b85602dcf2d251",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922251,
+        "neighbourhood_id": 85871175,
+        "region_id": 85688637,
+        "venue_id": 236052719
+      }
     ],
-    "wof:id":236052719,
-    "wof:lastmodified":1509200014,
-    "wof:name":"C & D Auto Care",
-    "wof:parent_id":85871175,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 236052719,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "C \u0026 D Auto Care",
+    "wof:parent_id": 85871175,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -117.045419,
     32.754535,
     -117.045419,
     32.754535
-],
+  ],
   "geometry": {"coordinates":[-117.045419,32.754535],"type":"Point"}
 }

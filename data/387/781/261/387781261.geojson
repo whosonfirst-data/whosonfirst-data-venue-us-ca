@@ -2,81 +2,85 @@
   "id": 387781261,
   "type": "Feature",
   "properties": {
-    "addr:full":"21500 Hawthorne Blvd Torrance CA 90503",
-    "addr:housenumber":"21500",
-    "addr:postcode":"90503",
-    "addr:street":"Hawthorne Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.352997,33.8326,-118.352997,33.8326",
-    "geom:latitude":33.8326,
-    "geom:longitude":-118.352997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"21500 Hawthorne Blvd",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "21500 Hawthorne Blvd Torrance CA 90503",
+    "addr:housenumber": "21500",
+    "addr:postcode": "90503",
+    "addr:street": "Hawthorne Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.352997,33.832600,-118.352997,33.832600",
+    "geom:latitude": 33.8326,
+    "geom:longitude": -118.352997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Barnes \u0026 Noble, 21400 Hawthorne Blvd Torrance CA US",
+    "ovtr:similarity": 2.731142044067383,
+    "sg:address": "21500 Hawthorne Blvd",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 370 5552",
-    "sg:postcode":"90503",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bookstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 370 5552",
+    "sg:postcode": "90503",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bookstore"
     ],
-    "sg:website":"www.barnesandnoble.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923785,
-        102086957,
-        85881581
+    "sg:website": "www.barnesandnoble.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923785,
+      102086957,
+      85881581
     ],
-    "wof:brand_id":420574789,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6Q74Oky0INmYCwvvZF2qjN_33.832600_-118.352997@1303263186"
+    "wof:brand_id": 420574789,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a5654d124b1038e906c7b44dae0",
+      "sg:id": "SG_6Q74Oky0INmYCwvvZF2qjN_33.832600_-118.352997@1303263186"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2e0e6e4aa91d5ccc1ac70899c9929e5b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923785,
-            "neighbourhood_id":85881581,
-            "region_id":85688637,
-            "venue_id":387781261
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "2e0e6e4aa91d5ccc1ac70899c9929e5b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85881581,
+        "region_id": 85688637,
+        "venue_id": 387781261
+      }
     ],
-    "wof:id":387781261,
-    "wof:lastmodified":1511996586,
-    "wof:name":"Barnes & Noble",
-    "wof:parent_id":85881581,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore"
+    "wof:id": 387781261,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Barnes \u0026 Noble",
+    "wof:parent_id": 85881581,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore"
     ]
-},
+  },
   "bbox": [
     -118.352997,
     33.8326,
     -118.352997,
     33.8326
-],
+  ],
   "geometry": {"coordinates":[-118.352997,33.8326],"type":"Point"}
 }

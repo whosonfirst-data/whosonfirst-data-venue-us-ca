@@ -2,79 +2,83 @@
   "id": 354349531,
   "type": "Feature",
   "properties": {
-    "addr:full":"5777 N Fresno St Fresno CA 93710",
-    "addr:housenumber":"5777",
-    "addr:postcode":"93710",
-    "addr:street":"N Fresno",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.781388,36.819753,-119.781388,36.819753",
-    "geom:latitude":36.819753,
-    "geom:longitude":-119.781388,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5777 N Fresno St",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Doctor",
-            "type":"Services"
-        }
+    "addr:full": "5777 N Fresno St Fresno CA 93710",
+    "addr:housenumber": "5777",
+    "addr:postcode": "93710",
+    "addr:street": "N Fresno",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.781388,36.819753,-119.781388,36.819753",
+    "geom:latitude": 36.819753,
+    "geom:longitude": -119.781388,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "William E Clark DDS, 5769 N Fresno St Fresno CA US",
+    "ovtr:similarity": 2.070235013961792,
+    "sg:address": "5777 N Fresno St",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Doctor",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 435 3111",
-    "sg:postcode":"93710",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dentist"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 435 3111",
+    "sg:postcode": "93710",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dentist"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922995,
-        102084347,
-        85871905
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922995,
+      102084347,
+      85871905
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5lNKV4A4k2qIGjDFHsAdS7_36.819753_-119.781388@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab9891a64f20370b4aa01f1b60d",
+      "sg:id": "SG_5lNKV4A4k2qIGjDFHsAdS7_36.819753_-119.781388@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9ddc441797a1df83beb88366f0fc7528",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85871905,
-            "region_id":85688637,
-            "venue_id":354349531
-        }
+    "wof:country": "US",
+    "wof:created": 1723561661,
+    "wof:geomhash": "9ddc441797a1df83beb88366f0fc7528",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85871905,
+        "region_id": 85688637,
+        "venue_id": 354349531
+      }
     ],
-    "wof:id":354349531,
-    "wof:lastmodified":1509200679,
-    "wof:name":"William E Clark DDS",
-    "wof:parent_id":85871905,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dentist"
+    "wof:id": 354349531,
+    "wof:lastmodified": 1723561661,
+    "wof:name": "William E Clark DDS",
+    "wof:parent_id": 85871905,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dentist"
     ]
-},
+  },
   "bbox": [
     -119.781388,
     36.819753,
     -119.781388,
     36.819753
-],
-  "geometry": {"coordinates":[-119.78138800000001,36.819753],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.781388,36.819753],"type":"Point"}
 }

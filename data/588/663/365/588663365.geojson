@@ -2,86 +2,90 @@
   "id": 588663365,
   "type": "Feature",
   "properties": {
-    "addr:full":"3201 Fitzgerald Rd Rancho Cordova CA 95742",
-    "addr:housenumber":"3201",
-    "addr:postcode":"95742",
-    "addr:street":"Fitzgerald Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.258795,38.586758,-121.258795,38.586758",
-    "geom:latitude":38.586758,
-    "geom:longitude":-121.258795,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3201 Fitzgerald Rd",
-    "sg:city":"Rancho Cordova",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pets & Pet Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Pet Boarding",
-            "type":"Services"
-        }
+    "addr:full": "3201 Fitzgerald Rd Rancho Cordova CA 95742",
+    "addr:housenumber": "3201",
+    "addr:postcode": "95742",
+    "addr:street": "Fitzgerald Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.258795,38.586758,-121.258795,38.586758",
+    "geom:latitude": 38.586758,
+    "geom:longitude": -121.258795,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Local Bark, 3201 Fitzgerald Rd Rancho Cordova CA US",
+    "ovtr:similarity": 1.6668239831924438,
+    "sg:address": "3201 Fitzgerald Rd",
+    "sg:city": "Rancho Cordova",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pets \u0026 Pet Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Pet Boarding",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 638 3880",
-    "sg:postcode":"95742",
-    "sg:province":"CA",
-    "sg:tags":[
-        "training",
-        "boarding/pet",
-        "sitting"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 638 3880",
+    "sg:postcode": "95742",
+    "sg:province": "CA",
+    "sg:tags": [
+      "training",
+      "boarding/pet",
+      "sitting"
     ],
-    "sg:website":"www.localbark.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102082889,
-        85633793,
-        85688637,
-        85802629
+    "sg:website": "www.localbark.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102082889,
+      85633793,
+      85688637,
+      85802629
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3erEGygmsSdQ8J82c8RAmJ_38.586758_-121.258795@1303263386"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28328ebadc2ce034249e6edef9463",
+      "sg:id": "SG_3erEGygmsSdQ8J82c8RAmJ_38.586758_-121.258795@1303263386"
     },
-    "wof:country":"US",
-    "wof:geomhash":"af7db3352a99c71bfc52bd557ca23b77",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082889,
-            "neighbourhood_id":85802629,
-            "region_id":85688637,
-            "venue_id":588663365
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "af7db3352a99c71bfc52bd557ca23b77",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "neighbourhood_id": 85802629,
+        "region_id": 85688637,
+        "venue_id": 588663365
+      }
     ],
-    "wof:id":588663365,
-    "wof:lastmodified":1509202200,
-    "wof:name":"The Local Bark",
-    "wof:parent_id":85802629,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "training",
-        "boarding/pet",
-        "sitting"
+    "wof:id": 588663365,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "The Local Bark",
+    "wof:parent_id": 85802629,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "training",
+      "boarding/pet",
+      "sitting"
     ]
-},
+  },
   "bbox": [
     -121.258795,
     38.586758,
     -121.258795,
     38.586758
-],
-  "geometry": {"coordinates":[-121.25879500000001,38.586758],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.258795,38.586758],"type":"Point"}
 }

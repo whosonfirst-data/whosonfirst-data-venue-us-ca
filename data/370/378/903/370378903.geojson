@@ -2,88 +2,92 @@
   "id": 370378903,
   "type": "Feature",
   "properties": {
-    "addr:full":"2265 E 103rd St Los Angeles CA 90002",
-    "addr:housenumber":"2265",
-    "addr:postcode":"90002",
-    "addr:street":"E 103Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.232002,33.943199,-118.232002,33.943199",
-    "geom:latitude":33.943199,
-    "geom:longitude":-118.232002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2265 E 103rd St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "2265 E 103rd St Los Angeles CA 90002",
+    "addr:housenumber": "2265",
+    "addr:postcode": "90002",
+    "addr:street": "E 103Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.232002,33.943199,-118.232002,33.943199",
+    "geom:latitude": 33.943199,
+    "geom:longitude": -118.232002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jordan High School, 2265 E 103rd St Los Angeles CA US",
+    "ovtr:similarity": 2.493328094482422,
+    "sg:address": "2265 E 103rd St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 568 4100",
-    "sg:postcode":"90002",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 568 4100",
+    "sg:postcode": "90002",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108827623,
-        "85854791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108827623,
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85854791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_03FNbAZL59fLKJyrmzz8rr_33.943199_-118.232002@1303263145"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c2d9565b039763e5b5ad145a",
+      "sg:id": "SG_03FNbAZL59fLKJyrmzz8rr_33.943199_-118.232002@1303263145"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c212995be8a5ffbf65b50050b5ccb66f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "microhood_id":1108827623,
-            "neighbourhood_id":"85854791",
-            "region_id":85688637,
-            "venue_id":370378903
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "c212995be8a5ffbf65b50050b5ccb66f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "microhood_id": 1108827623,
+        "neighbourhood_id": 85854791,
+        "region_id": 85688637,
+        "venue_id": 370378903
+      }
     ],
-    "wof:id":370378903,
-    "wof:lastmodified":1509200725,
-    "wof:name":"Jordan High School",
-    "wof:parent_id":1108827623,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 370378903,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Jordan High School",
+    "wof:parent_id": 1108827623,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.232002,
     33.943199,
     -118.232002,
     33.943199
-],
-  "geometry": {"coordinates":[-118.23200199999999,33.943199],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.232002,33.943199],"type":"Point"}
 }

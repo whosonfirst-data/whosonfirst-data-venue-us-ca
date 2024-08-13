@@ -2,83 +2,87 @@
   "id": 588290207,
   "type": "Feature",
   "properties": {
-    "addr:full":"640 E Ventura Blvd Ste 1200 Camarillo CA 93010",
-    "addr:housenumber":"640",
-    "addr:postcode":"93010",
-    "addr:street":"E Ventura Blvd Ste 1200",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.064095,34.217207,-119.064095,34.217207",
-    "geom:latitude":34.217207,
-    "geom:longitude":-119.064095,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"640 E Ventura Blvd Ste 1200",
-    "sg:city":"Camarillo",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bagels",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "640 E Ventura Blvd Ste 1200 Camarillo CA 93010",
+    "addr:housenumber": "640",
+    "addr:postcode": "93010",
+    "addr:street": "E Ventura Blvd Ste 1200",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.064095,34.217207,-119.064095,34.217207",
+    "geom:latitude": 34.217207,
+    "geom:longitude": -119.064095,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Panera Bread, 740 Ventura Blvd Camarillo CA US",
+    "ovtr:similarity": 3.984286069869995,
+    "sg:address": "640 E Ventura Blvd Ste 1200",
+    "sg:city": "Camarillo",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bagels",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 484 1414",
-    "sg:postcode":"93010",
-    "sg:province":"CA",
-    "sg:website":"panerabread.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85885711,
-        102086933
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 484 1414",
+    "sg:postcode": "93010",
+    "sg:province": "CA",
+    "sg:website": "panerabread.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85885711,
+      102086933
     ],
-    "wof:brand_id":1125148711,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5Lja904NaoxCPhhcpLUbYp_34.217207_-119.064095@1303263290"
+    "wof:brand_id": 1125148711,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29124dacf45560390717366cef80b",
+      "sg:id": "SG_5Lja904NaoxCPhhcpLUbYp_34.217207_-119.064095@1303263290"
     },
-    "wof:country":"US",
-    "wof:geomhash":"85be218902f0e01f98f642cdcf8b56c5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086933,
-            "neighbourhood_id":85885711,
-            "region_id":85688637,
-            "venue_id":588290207
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "85be218902f0e01f98f642cdcf8b56c5",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "neighbourhood_id": 85885711,
+        "region_id": 85688637,
+        "venue_id": 588290207
+      }
     ],
-    "wof:id":588290207,
-    "wof:lastmodified":1511320374,
-    "wof:name":"Panera Bread",
-    "wof:parent_id":85885711,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588290207,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "Panera Bread",
+    "wof:parent_id": 85885711,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.064095,
     34.217207,
     -119.064095,
     34.217207
-],
-  "geometry": {"coordinates":[-119.06409499999999,34.217207],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.064095,34.217207],"type":"Point"}
 }

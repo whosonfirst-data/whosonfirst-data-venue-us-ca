@@ -2,81 +2,85 @@
   "id": 336628291,
   "type": "Feature",
   "properties": {
-    "addr:full":"516 Golden State Ave Bakersfield CA 93301",
-    "addr:housenumber":"516",
-    "addr:postcode":"93301",
-    "addr:street":"Golden State Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.00955,35.381998,-119.00955,35.381998",
-    "geom:latitude":35.381998,
-    "geom:longitude":-119.00955,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"516 Golden State Ave",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "516 Golden State Ave Bakersfield CA 93301",
+    "addr:housenumber": "516",
+    "addr:postcode": "93301",
+    "addr:street": "Golden State Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.009550,35.381998,-119.009550,35.381998",
+    "geom:latitude": 35.381998,
+    "geom:longitude": -119.00955,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Automotive Engineering, 516 Golden State Ave Bakersfield CA US",
+    "ovtr:similarity": 2.088192939758301,
+    "sg:address": "516 Golden State Ave",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 327 3216",
-    "sg:postcode":"93301",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 327 3216",
+    "sg:postcode": "93301",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85876059
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85876059
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5J97fw9NNZbHbzVzqjUQT3_35.381998_-119.009550@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29aeb013b315603da255c72859f50",
+      "sg:id": "SG_5J97fw9NNZbHbzVzqjUQT3_35.381998_-119.009550@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2f05e87acced1cf626071eda9466446b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85876059,
-            "region_id":85688637,
-            "venue_id":336628291
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "2f05e87acced1cf626071eda9466446b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85876059,
+        "region_id": 85688637,
+        "venue_id": 336628291
+      }
     ],
-    "wof:id":336628291,
-    "wof:lastmodified":1509200506,
-    "wof:name":"Automotive Engineering",
-    "wof:parent_id":85876059,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 336628291,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Automotive Engineering",
+    "wof:parent_id": 85876059,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -119.00955,
     35.381998,
     -119.00955,
     35.381998
-],
+  ],
   "geometry": {"coordinates":[-119.00955,35.381998],"type":"Point"}
 }

@@ -2,59 +2,67 @@
   "id": 571602243,
   "type": "Feature",
   "properties": {
-    "addr:full":"834 State St Santa Barbara CA 93101",
-    "addr:housenumber":"834",
-    "addr:postcode":"93101",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.699566,34.419863,-119.699566,34.419863",
-    "geom:latitude":34.419863,
-    "geom:longitude":-119.699566,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"834 State St",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "834 State St Santa Barbara CA 93101",
+    "addr:housenumber": "834",
+    "addr:postcode": "93101",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.699566,34.419863,-119.699566,34.419863",
+    "geom:latitude": 34.419863,
+    "geom:longitude": -119.699566,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bank of America, 834 State St Santa Barbara CA US",
+    "ovtr:similarity": 2.6021459102630615,
+    "sg:address": "834 State St",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 564 2064",
-    "sg:postcode":"93101",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573893,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4kteONqiPy733rJg3aO8Nv_34.419863_-119.699566@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 564 2064",
+    "sg:postcode": "93101",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573893,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2912649ce281403f490ee26ddda1a",
+      "sg:id": "SG_4kteONqiPy733rJg3aO8Nv_34.419863_-119.699566@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"edf39d20b5f935f1b541f92a5073d398",
-    "wof:hierarchy":[],
-    "wof:id":571602243,
-    "wof:lastmodified":1512142598,
-    "wof:name":"Bank Of America",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "edf39d20b5f935f1b541f92a5073d398",
+    "wof:hierarchy": [
+      {
+        "venue_id": 571602243
+      }
+    ],
+    "wof:id": 571602243,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Bank Of America",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.699566,
     34.419863,
     -119.699566,
     34.419863
-],
+  ],
   "geometry": {"coordinates":[-119.699566,34.419863],"type":"Point"}
 }

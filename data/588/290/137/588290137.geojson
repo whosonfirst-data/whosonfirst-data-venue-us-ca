@@ -2,77 +2,81 @@
   "id": 588290137,
   "type": "Feature",
   "properties": {
-    "addr:full":"401 W Ventura Blvd Camarillo CA 93010",
-    "addr:housenumber":"401",
-    "addr:postcode":"93010",
-    "addr:street":"W Ventura Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.07783,34.218073,-119.07783,34.218073",
-    "geom:latitude":34.218073,
-    "geom:longitude":-119.07783,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"401 W Ventura Blvd",
-    "sg:city":"Camarillo",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Building Materials",
-            "type":"Retail Goods"
-        }
+    "addr:full": "401 W Ventura Blvd Camarillo CA 93010",
+    "addr:housenumber": "401",
+    "addr:postcode": "93010",
+    "addr:street": "W Ventura Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.077830,34.218073,-119.077830,34.218073",
+    "geom:latitude": 34.218073,
+    "geom:longitude": -119.07783,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "The Home Depot, 401 W Ventura Blvd Camarillo CA US",
+    "ovtr:similarity": 2.6461191177368164,
+    "sg:address": "401 W Ventura Blvd",
+    "sg:city": "Camarillo",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Building Materials",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 389 9918",
-    "sg:postcode":"93010",
-    "sg:province":"CA",
-    "sg:tags":[
-        "supply"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 389 9918",
+    "sg:postcode": "93010",
+    "sg:province": "CA",
+    "sg:tags": [
+      "supply"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85885711,
-        102086933
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85885711,
+      102086933
     ],
-    "wof:brand_id":1125149257,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4DfpBWEoVGbp3p5mlKCeqX_34.218073_-119.077830@1303263290"
+    "wof:brand_id": 1125149257,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29124dab943080350f80280555d97",
+      "sg:id": "SG_4DfpBWEoVGbp3p5mlKCeqX_34.218073_-119.077830@1303263290"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a2b99af9b4ce39993661ea98ab4df312",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086933,
-            "neighbourhood_id":85885711,
-            "region_id":85688637,
-            "venue_id":588290137
-        }
+    "wof:country": "US",
+    "wof:created": 1723561686,
+    "wof:geomhash": "a2b99af9b4ce39993661ea98ab4df312",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "neighbourhood_id": 85885711,
+        "region_id": 85688637,
+        "venue_id": 588290137
+      }
     ],
-    "wof:id":588290137,
-    "wof:lastmodified":1511319671,
-    "wof:name":"The Home Depot",
-    "wof:parent_id":85885711,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "supply"
+    "wof:id": 588290137,
+    "wof:lastmodified": 1723561686,
+    "wof:name": "The Home Depot",
+    "wof:parent_id": 85885711,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "supply"
     ]
-},
+  },
   "bbox": [
     -119.07783,
     34.218073,
     -119.07783,
     34.218073
-],
-  "geometry": {"coordinates":[-119.07783000000001,34.218073],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.07783,34.218073],"type":"Point"}
 }

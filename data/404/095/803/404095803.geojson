@@ -2,89 +2,93 @@
   "id": 404095803,
   "type": "Feature",
   "properties": {
-    "addr:full":"5511 E Spring St Long Beach CA 90808",
-    "addr:housenumber":"5511",
-    "addr:postcode":"90808",
-    "addr:street":"E Spring St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.125,33.810699,-118.125,33.810699",
-    "geom:latitude":33.810699,
-    "geom:longitude":-118.125,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5511 E Spring St",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "5511 E Spring St Long Beach CA 90808",
+    "addr:housenumber": "5511",
+    "addr:postcode": "90808",
+    "addr:street": "E Spring St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.125000,33.810699,-118.125000,33.810699",
+    "geom:latitude": 33.810699,
+    "geom:longitude": -118.125,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tracy's Bar \u0026 Grill, 5511 E Spring St Long Beach CA US",
+    "ovtr:similarity": 2.4485650062561035,
+    "sg:address": "5511 E Spring St",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 421 1726",
-    "sg:postcode":"90808",
-    "sg:province":"CA",
-    "sg:tags":[
-        "traditional",
-        "american",
-        "karaoke"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 421 1726",
+    "sg:postcode": "90808",
+    "sg:province": "CA",
+    "sg:tags": [
+      "traditional",
+      "american",
+      "karaoke"
     ],
-    "sg:website":"www.tracysbarandgrill.com/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85886251
+    "sg:website": "www.tracysbarandgrill.com/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85886251
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_72aQHA89I5K3UOx0SSeTWM_33.810699_-118.125000@1303263200"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56a021632403410864a8d9fb64",
+      "sg:id": "SG_72aQHA89I5K3UOx0SSeTWM_33.810699_-118.125000@1303263200"
     },
-    "wof:country":"US",
-    "wof:geomhash":"121d006c4cb78b69933d388f5082757f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85886251,
-            "region_id":85688637,
-            "venue_id":404095803
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "121d006c4cb78b69933d388f5082757f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85886251,
+        "region_id": 85688637,
+        "venue_id": 404095803
+      }
     ],
-    "wof:id":404095803,
-    "wof:lastmodified":1509201201,
-    "wof:name":"Tracy's Bar & Grill",
-    "wof:parent_id":85886251,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "traditional",
-        "american",
-        "karaoke"
+    "wof:id": 404095803,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Tracy's Bar \u0026 Grill",
+    "wof:parent_id": 85886251,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "traditional",
+      "american",
+      "karaoke"
     ]
-},
+  },
   "bbox": [
     -118.125,
     33.810699,
     -118.125,
     33.810699
-],
+  ],
   "geometry": {"coordinates":[-118.125,33.810699],"type":"Point"}
 }

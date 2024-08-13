@@ -2,75 +2,79 @@
   "id": 303577801,
   "type": "Feature",
   "properties": {
-    "addr:full":"225 Taylor St Roseville CA 95678",
-    "addr:housenumber":"225",
-    "addr:postcode":"95678",
-    "addr:street":"Taylor St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.284611,38.745871,-121.284611,38.745871",
-    "geom:latitude":38.745871,
-    "geom:longitude":-121.284611,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"225 Taylor St",
-    "sg:city":"Roseville",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"Library",
-            "type":"Public Place"
-        }
+    "addr:full": "225 Taylor St Roseville CA 95678",
+    "addr:housenumber": "225",
+    "addr:postcode": "95678",
+    "addr:street": "Taylor St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.284611,38.745871,-121.284611,38.745871",
+    "geom:latitude": 38.745871,
+    "geom:longitude": -121.284611,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Roseville Public Library, 225 Taylor St Roseville CA US",
+    "ovtr:similarity": 3.3199679851531982,
+    "sg:address": "225 Taylor St",
+    "sg:city": "Roseville",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "Library",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 774 5221",
-    "sg:postcode":"95678",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85921799,
-        102080863,
-        85887183
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 774 5221",
+    "sg:postcode": "95678",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85921799,
+      102080863,
+      85887183
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":113406173,
-        "sg:id":"SG_6t1pfFSjJD8MqKqFB4FFBV_38.745871_-121.284611@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 113406173,
+      "ovtr:id": "08f2832ab68d8040033b08b88a5ff0c2",
+      "sg:id": "SG_6t1pfFSjJD8MqKqFB4FFBV_38.745871_-121.284611@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e0d4ba70bdd10c6a044aae67048d0f81",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":85921799,
-            "neighbourhood_id":85887183,
-            "region_id":85688637,
-            "venue_id":303577801
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "e0d4ba70bdd10c6a044aae67048d0f81",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": 85921799,
+        "neighbourhood_id": 85887183,
+        "region_id": 85688637,
+        "venue_id": 303577801
+      }
     ],
-    "wof:id":303577801,
-    "wof:lastmodified":1510942161,
-    "wof:name":"Roseville Public Library",
-    "wof:parent_id":85887183,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 303577801,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "Roseville Public Library",
+    "wof:parent_id": 85887183,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.284611,
     38.745871,
     -121.284611,
     38.745871
-],
+  ],
   "geometry": {"coordinates":[-121.284611,38.745871],"type":"Point"}
 }

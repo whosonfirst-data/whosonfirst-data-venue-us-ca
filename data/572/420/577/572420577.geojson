@@ -2,91 +2,95 @@
   "id": 572420577,
   "type": "Feature",
   "properties": {
-    "addr:full":"5505 Van Buren Blvd Riverside CA 92503",
-    "addr:housenumber":"5505",
-    "addr:postcode":"92503",
-    "addr:street":"Van Buren Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.453919,33.938906,-117.453919,33.938906",
-    "geom:latitude":33.938906,
-    "geom:longitude":-117.453919,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5505 Van Buren Blvd",
-    "sg:city":"Riverside",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5505 Van Buren Blvd Riverside CA 92503",
+    "addr:housenumber": "5505",
+    "addr:postcode": "92503",
+    "addr:street": "Van Buren Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.453919,33.938906,-117.453919,33.938906",
+    "geom:latitude": 33.938906,
+    "geom:longitude": -117.453919,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Stewart's Liquor, 5505 Van Buren Blvd Riverside CA US",
+    "ovtr:similarity": 2.148499011993408,
+    "sg:address": "5505 Van Buren Blvd",
+    "sg:city": "Riverside",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 688 5764",
-    "sg:postcode":"92503",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "ale",
-        "store",
-        "cocktail"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 688 5764",
+    "sg:postcode": "92503",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "ale",
+      "store",
+      "cocktail"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923319,
-        102086221,
-        85803479
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923319,
+      102086221,
+      85803479
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4x0pq2kxO1gvgmJr7ZXzPV_33.938906_-117.453919@1303263255"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a014aa29455031dc6516a96dc40",
+      "sg:id": "SG_4x0pq2kxO1gvgmJr7ZXzPV_33.938906_-117.453919@1303263255"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5fccbb133ce58a0db7ce8bd50b7eed31",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923319,
-            "neighbourhood_id":85803479,
-            "region_id":85688637,
-            "venue_id":572420577
-        }
+    "wof:country": "US",
+    "wof:created": 1723561684,
+    "wof:geomhash": "5fccbb133ce58a0db7ce8bd50b7eed31",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923319,
+        "neighbourhood_id": 85803479,
+        "region_id": 85688637,
+        "venue_id": 572420577
+      }
     ],
-    "wof:id":572420577,
-    "wof:lastmodified":1509201879,
-    "wof:name":"Stewart's Liquor",
-    "wof:parent_id":85803479,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "ale",
-        "store",
-        "cocktail"
+    "wof:id": 572420577,
+    "wof:lastmodified": 1723561684,
+    "wof:name": "Stewart's Liquor",
+    "wof:parent_id": 85803479,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "ale",
+      "store",
+      "cocktail"
     ]
-},
+  },
   "bbox": [
     -117.453919,
     33.938906,
     -117.453919,
     33.938906
-],
+  ],
   "geometry": {"coordinates":[-117.453919,33.938906],"type":"Point"}
 }

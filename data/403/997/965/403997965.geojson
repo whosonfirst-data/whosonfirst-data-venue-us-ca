@@ -2,79 +2,83 @@
   "id": 403997965,
   "type": "Feature",
   "properties": {
-    "addr:full":"20773 Avalon Blvd Carson CA 90746",
-    "addr:housenumber":"20773",
-    "addr:postcode":"90746",
-    "addr:street":"Avalon Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.263,33.8438,-118.263,33.8438",
-    "geom:latitude":33.8438,
-    "geom:longitude":-118.263,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"20773 Avalon Blvd",
-    "sg:city":"Carson",
-    "sg:classifiers":[
-        {
-            "category":"Coffee & Tea",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Donuts",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20773 Avalon Blvd Carson CA 90746",
+    "addr:housenumber": "20773",
+    "addr:postcode": "90746",
+    "addr:street": "Avalon Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.263000,33.843800,-118.263000,33.843800",
+    "geom:latitude": 33.8438,
+    "geom:longitude": -118.263,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Supreme Donuts, 20773 Avalon Blvd Carson CA US",
+    "ovtr:similarity": 1.994778037071228,
+    "sg:address": "20773 Avalon Blvd",
+    "sg:city": "Carson",
+    "sg:classifiers": [
+      {
+        "category": "Coffee \u0026 Tea",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Donuts",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 329 7695",
-    "sg:postcode":"90746",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923683,
-        102086957,
-        85885771
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 329 7695",
+    "sg:postcode": "90746",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923683,
+      102086957,
+      85885771
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3tfRZ6Np9tdn7hvmE3WdD4_33.843800_-118.263000@1303263197"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a5619132d0e030c76460e9790f3",
+      "sg:id": "SG_3tfRZ6Np9tdn7hvmE3WdD4_33.843800_-118.263000@1303263197"
     },
-    "wof:country":"US",
-    "wof:geomhash":"60bbc7200509066b492f1a9f7ee466a1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85885771,
-            "region_id":85688637,
-            "venue_id":403997965
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "60bbc7200509066b492f1a9f7ee466a1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923683,
+        "neighbourhood_id": 85885771,
+        "region_id": 85688637,
+        "venue_id": 403997965
+      }
     ],
-    "wof:id":403997965,
-    "wof:lastmodified":1509201184,
-    "wof:name":"Supreme Donuts",
-    "wof:parent_id":85885771,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403997965,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "Supreme Donuts",
+    "wof:parent_id": 85885771,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.263,
     33.8438,
     -118.263,
     33.8438
-],
-  "geometry": {"coordinates":[-118.26300000000001,33.8438],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.263,33.8438],"type":"Point"}
 }

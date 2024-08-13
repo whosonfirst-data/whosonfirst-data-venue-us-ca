@@ -2,79 +2,83 @@
   "id": 370717145,
   "type": "Feature",
   "properties": {
-    "addr:full":"5670 Venice Boulevard Los Angeles CA 90019",
-    "addr:housenumber":"5670",
-    "addr:postcode":"90019",
-    "addr:street":"Venice Boulevard",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.361734,34.043587,-118.361734,34.043587",
-    "geom:latitude":34.043587,
-    "geom:longitude":-118.361734,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"5670 Venice Boulevard",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "5670 Venice Boulevard Los Angeles CA 90019",
+    "addr:housenumber": "5670",
+    "addr:postcode": "90019",
+    "addr:street": "Venice Boulevard",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.361734,34.043587,-118.361734,34.043587",
+    "geom:latitude": 34.043587,
+    "geom:longitude": -118.361734,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "213 Collision Repair Center, 5670 Venice Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.963836908340454,
+    "sg:address": "5670 Venice Boulevard",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 934 9992",
-    "sg:postcode":"90019",
-    "sg:province":"CA",
-    "sg:website":"www.213collision.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 934 9992",
+    "sg:postcode": "90019",
+    "sg:province": "CA",
+    "sg:website": "www.213collision.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000777366-0001-6",
-        "sg:id":"SG_1hZbhuKyIlKhBFl0DtJ0js_34.043587_-118.361734@1303263153"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000777366-0001-6",
+      "ovtr:id": "08f29a1993d405b203b59806c0218708",
+      "sg:id": "SG_1hZbhuKyIlKhBFl0DtJ0js_34.043587_-118.361734@1303263153"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dccb1e1699634b5387aff2c6a7f99d14",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370717145
-        }
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "dccb1e1699634b5387aff2c6a7f99d14",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370717145
+      }
     ],
-    "wof:id":370717145,
-    "wof:lastmodified":1509200803,
-    "wof:name":"213 Collision Repairs Centers",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370717145,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "213 Collision Repairs Centers",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.361734,
     34.043587,
     -118.361734,
     34.043587
-],
+  ],
   "geometry": {"coordinates":[-118.361734,34.043587],"type":"Point"}
 }

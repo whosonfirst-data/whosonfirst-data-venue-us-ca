@@ -2,63 +2,71 @@
   "id": 555231459,
   "type": "Feature",
   "properties": {
-    "addr:full":"16385 Schendel Ave Delhi CA 95315",
-    "addr:housenumber":"16385",
-    "addr:postcode":"95315",
-    "addr:street":"Schendel Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.783232,37.426713,-120.783232,37.426713",
-    "geom:latitude":37.426713,
-    "geom:longitude":-120.783232,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"16385 Schendel Ave",
-    "sg:city":"Delhi",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "16385 Schendel Ave Delhi CA 95315",
+    "addr:housenumber": "16385",
+    "addr:postcode": "95315",
+    "addr:street": "Schendel Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.783232,37.426713,-120.783232,37.426713",
+    "geom:latitude": 37.426713,
+    "geom:longitude": -120.783232,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Liberty Market, 16385 Schendel Ave Delhi CA US",
+    "ovtr:similarity": 2.3673830032348633,
+    "sg:address": "16385 Schendel Ave",
+    "sg:city": "Delhi",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 669 8791",
-    "sg:postcode":"95315",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 669 8791",
+    "sg:postcode": "95315",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7m4CqKMi7aFbDOVep5EBMf_37.426713_-120.783232@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836c64588c98030d0100ca957d52",
+      "sg:id": "SG_7m4CqKMi7aFbDOVep5EBMf_37.426713_-120.783232@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"54cfc7f838c29f69db0e44d6e8f5fd7e",
-    "wof:hierarchy":[],
-    "wof:id":555231459,
-    "wof:lastmodified":1509201321,
-    "wof:name":"Liberty Market",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "54cfc7f838c29f69db0e44d6e8f5fd7e",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555231459
+      }
+    ],
+    "wof:id": 555231459,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Liberty Market",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -120.783232,
     37.426713,
     -120.783232,
     37.426713
-],
+  ],
   "geometry": {"coordinates":[-120.783232,37.426713],"type":"Point"}
 }

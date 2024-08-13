@@ -2,82 +2,86 @@
   "id": 286582165,
   "type": "Feature",
   "properties": {
-    "addr:full":"1919 S Stockton St Lodi CA 95240",
-    "addr:housenumber":"1919",
-    "addr:postcode":"95240",
-    "addr:street":"S Stockton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.269753,38.109196,-121.269753,38.109196",
-    "geom:latitude":38.109196,
-    "geom:longitude":-121.269753,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1919 S Stockton St",
-    "sg:city":"Lodi",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1919 S Stockton St Lodi CA 95240",
+    "addr:housenumber": "1919",
+    "addr:postcode": "95240",
+    "addr:street": "S Stockton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.269753,38.109196,-121.269753,38.109196",
+    "geom:latitude": 38.109196,
+    "geom:longitude": -121.269753,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Joe's Auto Repair, 1919 S Stockton St Lodi CA US",
+    "ovtr:similarity": 2.140876054763794,
+    "sg:address": "1919 S Stockton St",
+    "sg:city": "Lodi",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 369 6439",
-    "sg:postcode":"95240",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 369 6439",
+    "sg:postcode": "95240",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923265,
-        102085393,
-        85886279
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923265,
+      102085393,
+      85886279
     ],
-    "wof:brand_id":1125160877,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2iBwTNk2SZa2OpS1ltR4lD_38.109196_-121.269753@1294081369"
+    "wof:brand_id": 1125160877,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28362f4c542140396b9d4ccd42447",
+      "sg:id": "SG_2iBwTNk2SZa2OpS1ltR4lD_38.109196_-121.269753@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8f2697d541ec64507cd650b8db5b4e0a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085393,
-            "locality_id":85923265,
-            "neighbourhood_id":85886279,
-            "region_id":85688637,
-            "venue_id":286582165
-        }
+    "wof:country": "US",
+    "wof:created": 1723561668,
+    "wof:geomhash": "8f2697d541ec64507cd650b8db5b4e0a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085393,
+        "locality_id": 85923265,
+        "neighbourhood_id": 85886279,
+        "region_id": 85688637,
+        "venue_id": 286582165
+      }
     ],
-    "wof:id":286582165,
-    "wof:lastmodified":1511318366,
-    "wof:name":"Joe's Auto Repair",
-    "wof:parent_id":85886279,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 286582165,
+    "wof:lastmodified": 1723561668,
+    "wof:name": "Joe's Auto Repair",
+    "wof:parent_id": 85886279,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -121.269753,
     38.109196,
     -121.269753,
     38.109196
-],
-  "geometry": {"coordinates":[-121.26975299999999,38.109196],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.269753,38.109196],"type":"Point"}
 }

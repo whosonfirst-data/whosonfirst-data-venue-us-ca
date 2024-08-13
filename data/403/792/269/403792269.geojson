@@ -2,74 +2,78 @@
   "id": 403792269,
   "type": "Feature",
   "properties": {
-    "addr:full":"40 Lisbon St San Rafael CA 94901",
-    "addr:housenumber":"40",
-    "addr:postcode":"94901",
-    "addr:street":"Lisbon St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.504321,37.961686,-122.504321,37.961686",
-    "geom:latitude":37.961686,
-    "geom:longitude":-122.504321,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"40 Lisbon St",
-    "sg:city":"San Rafael",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "40 Lisbon St San Rafael CA 94901",
+    "addr:housenumber": "40",
+    "addr:postcode": "94901",
+    "addr:street": "Lisbon St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.504321,37.961686,-122.504321,37.961686",
+    "geom:latitude": 37.961686,
+    "geom:longitude": -122.504321,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Oscar's Tacos, 40 Lisbon St San Rafael CA US",
+    "ovtr:similarity": 3.442892074584961,
+    "sg:address": "40 Lisbon St",
+    "sg:city": "San Rafael",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 460 1000",
-    "sg:postcode":"94901",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922003,
-        102084353,
-        85887905
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 460 1000",
+    "sg:postcode": "94901",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922003,
+      102084353,
+      85887905
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0Nh8QO8fuwSM00QnxDypTO_37.961686_-122.504321@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830bb50ca35803af781263b02fe1",
+      "sg:id": "SG_0Nh8QO8fuwSM00QnxDypTO_37.961686_-122.504321@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a3678a9f4d06233b39c727a91b534872",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":85922003,
-            "neighbourhood_id":85887905,
-            "region_id":85688637,
-            "venue_id":403792269
-        }
+    "wof:country": "US",
+    "wof:created": 1723561672,
+    "wof:geomhash": "a3678a9f4d06233b39c727a91b534872",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": 85922003,
+        "neighbourhood_id": 85887905,
+        "region_id": 85688637,
+        "venue_id": 403792269
+      }
     ],
-    "wof:id":403792269,
-    "wof:lastmodified":1509201147,
-    "wof:name":"Oscar's Tacos",
-    "wof:parent_id":85887905,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403792269,
+    "wof:lastmodified": 1723561672,
+    "wof:name": "Oscar's Tacos",
+    "wof:parent_id": 85887905,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.504321,
     37.961686,
     -122.504321,
     37.961686
-],
+  ],
   "geometry": {"coordinates":[-122.504321,37.961686],"type":"Point"}
 }

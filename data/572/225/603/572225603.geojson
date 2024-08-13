@@ -2,89 +2,93 @@
   "id": 572225603,
   "type": "Feature",
   "properties": {
-    "addr:full":"1008 N Pacific Ave Glendale CA 91202",
-    "addr:housenumber":"1008",
-    "addr:postcode":"91202",
-    "addr:street":"N Pacific Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.264,34.160099,-118.264,34.160099",
-    "geom:latitude":34.160099,
-    "geom:longitude":-118.264,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1008 N Pacific Ave",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1008 N Pacific Ave Glendale CA 91202",
+    "addr:housenumber": "1008",
+    "addr:postcode": "91202",
+    "addr:street": "N Pacific Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.264000,34.160099,-118.264000,34.160099",
+    "geom:latitude": 34.160099,
+    "geom:longitude": -118.264,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pacific Food Mart, 1008 N Pacific Ave Glendale CA US",
+    "ovtr:similarity": 2.539747953414917,
+    "sg:address": "1008 N Pacific Ave",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 242 8352",
-    "sg:postcode":"91202",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 242 8352",
+    "sg:postcode": "91202",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        85837651
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85837651
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4tApVaYaQVgaMUWTDR45Ij_34.160099_-118.264000@1303263207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d59d04b4203e10a69dd7394f4",
+      "sg:id": "SG_4tApVaYaQVgaMUWTDR45Ij_34.160099_-118.264000@1303263207"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7d43af9ee7c64cc7e970092230e6f1a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":85837651,
-            "region_id":85688637,
-            "venue_id":572225603
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "7d43af9ee7c64cc7e970092230e6f1a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85837651,
+        "region_id": 85688637,
+        "venue_id": 572225603
+      }
     ],
-    "wof:id":572225603,
-    "wof:lastmodified":1509201746,
-    "wof:name":"Pacific Food Mart",
-    "wof:parent_id":85837651,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572225603,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Pacific Food Mart",
+    "wof:parent_id": 85837651,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -118.264,
     34.160099,
     -118.264,
     34.160099
-],
+  ],
   "geometry": {"coordinates":[-118.264,34.160099],"type":"Point"}
 }

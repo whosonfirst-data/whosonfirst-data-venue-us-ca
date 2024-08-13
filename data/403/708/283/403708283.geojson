@@ -2,81 +2,85 @@
   "id": 403708283,
   "type": "Feature",
   "properties": {
-    "addr:full":"1623 A St Antioch CA 94509",
-    "addr:housenumber":"1623",
-    "addr:postcode":"ca 94509",
-    "addr:street":"A St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.805942,38.005818,-121.805942,38.005818",
-    "geom:latitude":38.005818,
-    "geom:longitude":-121.805942,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1623 A St",
-    "sg:city":"Antioch",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1623 A St Antioch CA 94509",
+    "addr:housenumber": "1623",
+    "addr:postcode": "ca 94509",
+    "addr:street": "A St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.805942,38.005818,-121.805942,38.005818",
+    "geom:latitude": 38.005818,
+    "geom:longitude": -121.805942,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "AutoZone, 1623 A St Antioch CA US",
+    "ovtr:similarity": 2.6316170692443848,
+    "sg:address": "1623 A St",
+    "sg:city": "Antioch",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 756 1314",
-    "sg:postcode":"94509",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "parts"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 756 1314",
+    "sg:postcode": "94509",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "parts"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922201,
-        102086225
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922201,
+      102086225
     ],
-    "wof:brand_id":420573803,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3NacLoBCRzUBSBomrIMk6X_38.005818_-121.805942@1294081369"
+    "wof:brand_id": 420573803,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830cf5c8a25303a4d69fa51b51e8",
+      "sg:id": "SG_3NacLoBCRzUBSBomrIMk6X_38.005818_-121.805942@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2548e3f6fbb42e21af73341632f267f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922201,
-            "region_id":85688637,
-            "venue_id":403708283
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "2548e3f6fbb42e21af73341632f267f4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922201,
+        "region_id": 85688637,
+        "venue_id": 403708283
+      }
     ],
-    "wof:id":403708283,
-    "wof:lastmodified":1511322997,
-    "wof:name":"Autozone",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "parts"
+    "wof:id": 403708283,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Autozone",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "parts"
     ]
-},
+  },
   "bbox": [
     -121.805942,
     38.005818,
     -121.805942,
     38.005818
-],
+  ],
   "geometry": {"coordinates":[-121.805942,38.005818],"type":"Point"}
 }

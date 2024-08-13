@@ -2,77 +2,81 @@
   "id": 572025775,
   "type": "Feature",
   "properties": {
-    "addr:full":"20 S Santa Cruz Ave Los Gatos CA 95032",
-    "addr:housenumber":"20",
-    "addr:postcode":"95032",
-    "addr:street":"S Santa Cruz Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.98448,37.222335,-121.98448,37.222335",
-    "geom:latitude":37.222335,
-    "geom:longitude":-121.98448,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"20 S Santa Cruz Ave",
-    "sg:city":"Los Gatos",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "20 S Santa Cruz Ave Los Gatos CA 95032",
+    "addr:housenumber": "20",
+    "addr:postcode": "95032",
+    "addr:street": "S Santa Cruz Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.984480,37.222335,-121.984480,37.222335",
+    "geom:latitude": 37.222335,
+    "geom:longitude": -121.98448,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Main Street Burgers, 20 S Santa Cruz Ave Los Gatos CA US",
+    "ovtr:similarity": 1.9143669605255127,
+    "sg:address": "20 S Santa Cruz Ave",
+    "sg:city": "Los Gatos",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 354 1881",
-    "sg:postcode":"95032",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 354 1881",
+    "sg:postcode": "95032",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger"
     ],
-    "sg:website":"www.mainstburgers.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102081673,
-        85633793,
-        85688637,
-        85886335
+    "sg:website": "www.mainstburgers.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102081673,
+      85633793,
+      85688637,
+      85886335
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2GbugFIsUoyXicgOIT7lLR_37.221901_-121.984347@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283408e4232b50334ff4fc6981d0a",
+      "sg:id": "SG_2GbugFIsUoyXicgOIT7lLR_37.221901_-121.984347@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8ac8b968a50e4a14468b01e90b7aa641",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102081673,
-            "neighbourhood_id":85886335,
-            "region_id":85688637,
-            "venue_id":572025775
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "8ac8b968a50e4a14468b01e90b7aa641",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "neighbourhood_id": 85886335,
+        "region_id": 85688637,
+        "venue_id": 572025775
+      }
     ],
-    "wof:id":572025775,
-    "wof:lastmodified":1509201669,
-    "wof:name":"Main Street Burgers",
-    "wof:parent_id":85886335,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger"
+    "wof:id": 572025775,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Main Street Burgers",
+    "wof:parent_id": 85886335,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger"
     ]
-},
+  },
   "bbox": [
     -121.98448,
     37.222335,
     -121.98448,
     37.222335
-],
+  ],
   "geometry": {"coordinates":[-121.98448,37.222335],"type":"Point"}
 }

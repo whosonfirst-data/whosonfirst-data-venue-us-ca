@@ -2,88 +2,92 @@
   "id": 588665967,
   "type": "Feature",
   "properties": {
-    "addr:full":"1114 21st St Sacramento CA 95811",
-    "addr:housenumber":"1114",
-    "addr:postcode":"95811",
-    "addr:street":"21St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.479203,38.574808,-121.479203,38.574808",
-    "geom:latitude":38.574808,
-    "geom:longitude":-121.479203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1114 21st St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Music",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1114 21st St Sacramento CA 95811",
+    "addr:housenumber": "1114",
+    "addr:postcode": "95811",
+    "addr:street": "21St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.479203,38.574808,-121.479203,38.574808",
+    "geom:latitude": 38.574808,
+    "geom:longitude": -121.479203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Time Tested Books, 1114 21st St Sacramento CA US",
+    "ovtr:similarity": 1.8013739585876465,
+    "sg:address": "1114 21st St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Music",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 447 5696",
-    "sg:postcode":"95811",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bookstore",
-        "dvd's"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 447 5696",
+    "sg:postcode": "95811",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bookstore",
+      "dvd's"
     ],
-    "sg:website":"www.timetestedbooks.net",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85872201
+    "sg:website": "www.timetestedbooks.net",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85872201
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3PufnDWDKxATGZMlaXR5uG_38.574808_-121.479203@1303263387"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b1185d630031ddfcd1284428b",
+      "sg:id": "SG_3PufnDWDKxATGZMlaXR5uG_38.574808_-121.479203@1303263387"
     },
-    "wof:country":"US",
-    "wof:geomhash":"184eebef00631924275fe336334860d4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872201,
-            "region_id":85688637,
-            "venue_id":588665967
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "184eebef00631924275fe336334860d4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872201,
+        "region_id": 85688637,
+        "venue_id": 588665967
+      }
     ],
-    "wof:id":588665967,
-    "wof:lastmodified":1509202202,
-    "wof:name":"Time Tested Books",
-    "wof:parent_id":85872201,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore",
-        "dvd's"
+    "wof:id": 588665967,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Time Tested Books",
+    "wof:parent_id": 85872201,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore",
+      "dvd's"
     ]
-},
+  },
   "bbox": [
     -121.479203,
     38.574808,
     -121.479203,
     38.574808
-],
+  ],
   "geometry": {"coordinates":[-121.479203,38.574808],"type":"Point"}
 }

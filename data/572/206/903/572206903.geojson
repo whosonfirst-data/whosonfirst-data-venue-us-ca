@@ -2,87 +2,91 @@
   "id": 572206903,
   "type": "Feature",
   "properties": {
-    "addr:full":"1045 Polk St San Francisco CA 94109",
-    "addr:housenumber":"1045",
-    "addr:postcode":"94109",
-    "addr:street":"Polk St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.4199,37.786579,-122.4199,37.786579",
-    "geom:latitude":37.786579,
-    "geom:longitude":-122.4199,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1045 Polk St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1045 Polk St San Francisco CA 94109",
+    "addr:housenumber": "1045",
+    "addr:postcode": "94109",
+    "addr:street": "Polk St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.419900,37.786579,-122.419900,37.786579",
+    "geom:latitude": 37.786579,
+    "geom:longitude": -122.4199,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Napoli Pizza, 1045 Polk St San Francisco CA US",
+    "ovtr:similarity": 2.2339038848876953,
+    "sg:address": "1045 Polk St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/63126-napoli-pizza/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 885 2222",
-    "sg:postcode":"94109",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "pizza"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/63126-napoli-pizza/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 885 2222",
+    "sg:postcode": "94109",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "pizza"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102147445,
-        85882193,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102147445,
+      85882193,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":818671268,
-        "sfgov_rbl:id":"0939314-01-001",
-        "sg:id":"SG_11obVgBVqU3BcwivFVOUOX_37.786743_-122.419990@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 818671268,
+      "ovtr:id": "08f283082b98c89103b6f7efc29ecd83",
+      "sfgov_rbl:id": "0939314-01-001",
+      "sg:id": "SG_11obVgBVqU3BcwivFVOUOX_37.786743_-122.419990@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"acd5b3a522503fe6f93d3ad80ad2ea60",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":102147445,
-            "neighbourhood_id":85882193,
-            "region_id":85688637,
-            "venue_id":572206903
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "acd5b3a522503fe6f93d3ad80ad2ea60",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 102147445,
+        "neighbourhood_id": 85882193,
+        "region_id": 85688637,
+        "venue_id": 572206903
+      }
     ],
-    "wof:id":572206903,
-    "wof:lastmodified":1510944064,
-    "wof:name":"Napoli Pizza",
-    "wof:parent_id":102147445,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "pizza"
+    "wof:id": 572206903,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Napoli Pizza",
+    "wof:parent_id": 102147445,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -122.4199,
     37.786579,
     -122.4199,
     37.786579
-],
+  ],
   "geometry": {"coordinates":[-122.4199,37.786579],"type":"Point"}
 }

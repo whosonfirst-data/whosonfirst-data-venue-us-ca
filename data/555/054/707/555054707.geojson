@@ -2,59 +2,67 @@
   "id": 555054707,
   "type": "Feature",
   "properties": {
-    "addr:full":"24 E Victoria St Santa Barbara CA 93101",
-    "addr:housenumber":"24",
-    "addr:postcode":"93101",
-    "addr:street":"E Victoria St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.704746,34.42507,-119.704746,34.42507",
-    "geom:latitude":34.42507,
-    "geom:longitude":-119.704746,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"24 E Victoria St",
-    "sg:city":"Santa Barbara",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "24 E Victoria St Santa Barbara CA 93101",
+    "addr:housenumber": "24",
+    "addr:postcode": "93101",
+    "addr:street": "E Victoria St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.704746,34.425070,-119.704746,34.425070",
+    "geom:latitude": 34.42507,
+    "geom:longitude": -119.704746,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Victoria Hotel, 24 E Victoria St Santa Barbara CA US",
+    "ovtr:similarity": 2.577730894088745,
+    "sg:address": "24 E Victoria St",
+    "sg:city": "Santa Barbara",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 966 7361",
-    "sg:postcode":"93101",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125160037,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4tfWMrEtlFXEt3IKlpFkYA_34.425070_-119.704746@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 966 7361",
+    "sg:postcode": "93101",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125160037,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29126490a58ce039e73a55a79937c",
+      "sg:id": "SG_4tfWMrEtlFXEt3IKlpFkYA_34.425070_-119.704746@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dc21148e83c78977a4ce01214179eb24",
-    "wof:hierarchy":[],
-    "wof:id":555054707,
-    "wof:lastmodified":1510876245,
-    "wof:name":"Victoria Hotel",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723561653,
+    "wof:geomhash": "dc21148e83c78977a4ce01214179eb24",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555054707
+      }
+    ],
+    "wof:id": 555054707,
+    "wof:lastmodified": 1723561653,
+    "wof:name": "Victoria Hotel",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.704746,
     34.42507,
     -119.704746,
     34.42507
-],
+  ],
   "geometry": {"coordinates":[-119.704746,34.42507],"type":"Point"}
 }

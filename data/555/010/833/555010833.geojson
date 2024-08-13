@@ -2,83 +2,87 @@
   "id": 555010833,
   "type": "Feature",
   "properties": {
-    "addr:full":"10235 Reseda Blvd Northridge CA 91324",
-    "addr:housenumber":"10235",
-    "addr:postcode":"91324",
-    "addr:street":"Reseda Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.536171,34.256293,-118.536171,34.256293",
-    "geom:latitude":34.256293,
-    "geom:longitude":-118.536171,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10235 Reseda Blvd",
-    "sg:city":"Northridge",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "10235 Reseda Blvd Northridge CA 91324",
+    "addr:housenumber": "10235",
+    "addr:postcode": "91324",
+    "addr:street": "Reseda Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.536171,34.256293,-118.536171,34.256293",
+    "geom:latitude": 34.256293,
+    "geom:longitude": -118.536171,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Starbucks, 10235 Reseda Blvd Northridge CA US",
+    "ovtr:similarity": 2.7730839252471924,
+    "sg:address": "10235 Reseda Blvd",
+    "sg:city": "Northridge",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 709 6934",
-    "sg:postcode":"91324",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "coffee"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 709 6934",
+    "sg:postcode": "91324",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "coffee"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923517,
-        102086957,
-        85838305
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923517,
+      102086957,
+      85838305
     ],
-    "wof:brand_id":420573983,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4tH3RTaqe2B54ZczVscdCR_34.256293_-118.536171@1294081369"
+    "wof:brand_id": 420573983,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a18d0d6e5b1033274c8bef23d35",
+      "sg:id": "SG_4tH3RTaqe2B54ZczVscdCR_34.256293_-118.536171@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2245913ff63efc83ad30e350a2db8ea1",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85838305,
-            "region_id":85688637,
-            "venue_id":555010833
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "2245913ff63efc83ad30e350a2db8ea1",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85838305,
+        "region_id": 85688637,
+        "venue_id": 555010833
+      }
     ],
-    "wof:id":555010833,
-    "wof:lastmodified":1511321011,
-    "wof:name":"Starbucks",
-    "wof:parent_id":85838305,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "coffee"
+    "wof:id": 555010833,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Starbucks",
+    "wof:parent_id": 85838305,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "coffee"
     ]
-},
+  },
   "bbox": [
     -118.536171,
     34.256293,
     -118.536171,
     34.256293
-],
+  ],
   "geometry": {"coordinates":[-118.536171,34.256293],"type":"Point"}
 }

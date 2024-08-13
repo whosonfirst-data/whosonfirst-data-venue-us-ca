@@ -2,80 +2,84 @@
   "id": 572412323,
   "type": "Feature",
   "properties": {
-    "addr:full":"16876 Main St Ste C Hesperia CA 92345",
-    "addr:housenumber":"16876",
-    "addr:postcode":"92345",
-    "addr:street":"Main St Ste C",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.294846,34.42056,-117.294846,34.42056",
-    "geom:latitude":34.42056,
-    "geom:longitude":-117.294846,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"16876 Main St Ste C",
-    "sg:city":"Hesperia",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "16876 Main St Ste C Hesperia CA 92345",
+    "addr:housenumber": "16876",
+    "addr:postcode": "92345",
+    "addr:street": "Main St Ste C",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.294846,34.420560,-117.294846,34.420560",
+    "geom:latitude": 34.42056,
+    "geom:longitude": -117.294846,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cent Discount Store, 16876 Main St Hesperia CA US",
+    "ovtr:similarity": 3.5278079509735107,
+    "sg:address": "16876 Main St Ste C",
+    "sg:city": "Hesperia",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 956 8889",
-    "sg:postcode":"92345",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923967,
-        102085395,
-        85867387
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 956 8889",
+    "sg:postcode": "92345",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923967,
+      102085395,
+      85867387
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_25UlPP3CrsCHYT56sOsN3E_34.420560_-117.294846@1303263253"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a06616dab92035b306032d6b0f7",
+      "sg:id": "SG_25UlPP3CrsCHYT56sOsN3E_34.420560_-117.294846@1303263253"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6a7960de02c88e3a7d8222eb66a0e959",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923967,
-            "neighbourhood_id":85867387,
-            "region_id":85688637,
-            "venue_id":572412323
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "6a7960de02c88e3a7d8222eb66a0e959",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923967,
+        "neighbourhood_id": 85867387,
+        "region_id": 85688637,
+        "venue_id": 572412323
+      }
     ],
-    "wof:id":572412323,
-    "wof:lastmodified":1509201874,
-    "wof:name":"99 Cents Discounts Store",
-    "wof:parent_id":85867387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 572412323,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "99 Cents Discounts Store",
+    "wof:parent_id": 85867387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.294846,
     34.42056,
     -117.294846,
     34.42056
-],
-  "geometry": {"coordinates":[-117.29484600000001,34.42056],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.294846,34.42056],"type":"Point"}
 }

@@ -2,74 +2,78 @@
   "id": 337333989,
   "type": "Feature",
   "properties": {
-    "addr:full":"13314 Van Nuys Blvd Pacoima CA 91331",
-    "addr:housenumber":"13314",
-    "addr:postcode":"91331",
-    "addr:street":"Van Nuys Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.42346,34.26504,-118.42346,34.26504",
-    "geom:latitude":34.26504,
-    "geom:longitude":-118.42346,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"13314 Van Nuys Blvd",
-    "sg:city":"Pacoima",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "13314 Van Nuys Blvd Pacoima CA 91331",
+    "addr:housenumber": "13314",
+    "addr:postcode": "91331",
+    "addr:street": "Van Nuys Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.423460,34.265040,-118.423460,34.265040",
+    "geom:latitude": 34.26504,
+    "geom:longitude": -118.42346,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Esther's Bakery, 13314 Van Nuys Blvd Pacoima CA US",
+    "ovtr:similarity": 3.0190670490264893,
+    "sg:address": "13314 Van Nuys Blvd",
+    "sg:city": "Pacoima",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 896 0281",
-    "sg:postcode":"91331",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840179
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 896 0281",
+    "sg:postcode": "91331",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840179
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4PlHZ7qJh57GqwR2JY3XIT_34.265040_-118.423460@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a189b21242a03fba62cac787f9e",
+      "sg:id": "SG_4PlHZ7qJh57GqwR2JY3XIT_34.265040_-118.423460@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"681e231c3215dbb3568a3fc43db70d43",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840179,
-            "region_id":85688637,
-            "venue_id":337333989
-        }
+    "wof:country": "US",
+    "wof:created": 1723561683,
+    "wof:geomhash": "681e231c3215dbb3568a3fc43db70d43",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840179,
+        "region_id": 85688637,
+        "venue_id": 337333989
+      }
     ],
-    "wof:id":337333989,
-    "wof:lastmodified":1509200534,
-    "wof:name":"Esthers Bakery",
-    "wof:parent_id":85840179,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 337333989,
+    "wof:lastmodified": 1723561683,
+    "wof:name": "Esthers Bakery",
+    "wof:parent_id": 85840179,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.42346,
     34.26504,
     -118.42346,
     34.26504
-],
-  "geometry": {"coordinates":[-118.42346000000001,34.26504],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.42346,34.26504],"type":"Point"}
 }

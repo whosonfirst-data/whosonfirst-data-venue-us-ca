@@ -2,74 +2,78 @@
   "id": 404036223,
   "type": "Feature",
   "properties": {
-    "addr:full":"1819 Auburn Ravine Rd Auburn CA 95603",
-    "addr:housenumber":"1819",
-    "addr:postcode":"ca 95603",
-    "addr:street":"Auburn Ravine Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.059386,38.922142,-121.059386,38.922142",
-    "geom:latitude":38.922142,
-    "geom:longitude":-121.059386,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1819 Auburn Ravine Rd",
-    "sg:city":"Auburn",
-    "sg:classifiers":[
-        {
-            "category":"Travel",
-            "subcategory":"Hotels & Motels",
-            "type":"Entertainment"
-        }
+    "addr:full": "1819 Auburn Ravine Rd Auburn CA 95603",
+    "addr:housenumber": "1819",
+    "addr:postcode": "ca 95603",
+    "addr:street": "Auburn Ravine Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.059386,38.922142,-121.059386,38.922142",
+    "geom:latitude": 38.922142,
+    "geom:longitude": -121.059386,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Motel 6 Auburn, CA, 1819 Auburn Ravine Rd Auburn CA US",
+    "ovtr:similarity": 2.7010750770568848,
+    "sg:address": "1819 Auburn Ravine Rd",
+    "sg:city": "Auburn",
+    "sg:classifiers": [
+      {
+        "category": "Travel",
+        "subcategory": "Hotels \u0026 Motels",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 888 7829",
-    "sg:postcode":"95603",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102080863,
-        85841911
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 888 7829",
+    "sg:postcode": "95603",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102080863,
+      85841911
     ],
-    "wof:brand_id":420574233,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6R41YOXU68pniByQBuPpNr_38.922142_-121.059386@1294081369"
+    "wof:brand_id": 420574233,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28320e1d709360358bd6785ab5a5b",
+      "sg:id": "SG_6R41YOXU68pniByQBuPpNr_38.922142_-121.059386@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d9f2682556c3a8ae3f12c01235d5f1da",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080863,
-            "locality_id":-1,
-            "neighbourhood_id":85841911,
-            "region_id":85688637,
-            "venue_id":404036223
-        }
+    "wof:country": "US",
+    "wof:created": 1723561693,
+    "wof:geomhash": "d9f2682556c3a8ae3f12c01235d5f1da",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080863,
+        "locality_id": -1,
+        "neighbourhood_id": 85841911,
+        "region_id": 85688637,
+        "venue_id": 404036223
+      }
     ],
-    "wof:id":404036223,
-    "wof:lastmodified":1509201191,
-    "wof:name":"Motel 6",
-    "wof:parent_id":85841911,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 404036223,
+    "wof:lastmodified": 1723561693,
+    "wof:name": "Motel 6",
+    "wof:parent_id": 85841911,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.059386,
     38.922142,
     -121.059386,
     38.922142
-],
+  ],
   "geometry": {"coordinates":[-121.059386,38.922142],"type":"Point"}
 }

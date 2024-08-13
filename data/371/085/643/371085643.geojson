@@ -2,81 +2,85 @@
   "id": 371085643,
   "type": "Feature",
   "properties": {
-    "addr:full":"9045 Lincoln Blvd Los Angeles CA 90045",
-    "addr:housenumber":"9045",
-    "addr:postcode":"90045",
-    "addr:street":"Lincoln Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.417,33.9576,-118.417,33.9576",
-    "geom:latitude":33.9576,
-    "geom:longitude":-118.417,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"9045 Lincoln Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"University",
-            "type":"Public Place"
-        }
+    "addr:full": "9045 Lincoln Blvd Los Angeles CA 90045",
+    "addr:housenumber": "9045",
+    "addr:postcode": "90045",
+    "addr:street": "Lincoln Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.417000,33.957600,-118.417000,33.957600",
+    "geom:latitude": 33.9576,
+    "geom:longitude": -118.417,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Otis College of Art and Design, 9045 Lincoln Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.9456419944763184,
+    "sg:address": "9045 Lincoln Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 665 6800",
-    "sg:postcode":"90045",
-    "sg:province":"CA",
-    "sg:tags":[
-        "college"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 665 6800",
+    "sg:postcode": "90045",
+    "sg:province": "CA",
+    "sg:tags": [
+      "college"
     ],
-    "sg:website":"www.otis.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85840231
+    "sg:website": "www.otis.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85840231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0000468575-0001-6",
-        "sg:id":"SG_5ZtR8TqVHiuaFXIbsnj1OK_33.957600_-118.417000@1303263162"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0000468575-0001-6",
+      "ovtr:id": "08f29a19b514b6100323f94d2dea6e5d",
+      "sg:id": "SG_5ZtR8TqVHiuaFXIbsnj1OK_33.957600_-118.417000@1303263162"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0ba9dfb686e83d968b8803d2fb6d811a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85840231,
-            "region_id":85688637,
-            "venue_id":371085643
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "0ba9dfb686e83d968b8803d2fb6d811a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85840231,
+        "region_id": 85688637,
+        "venue_id": 371085643
+      }
     ],
-    "wof:id":371085643,
-    "wof:lastmodified":1509200889,
-    "wof:name":"Otis College of Art & Design",
-    "wof:parent_id":85840231,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "college"
+    "wof:id": 371085643,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Otis College of Art \u0026 Design",
+    "wof:parent_id": 85840231,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "college"
     ]
-},
+  },
   "bbox": [
     -118.417,
     33.9576,
     -118.417,
     33.9576
-],
+  ],
   "geometry": {"coordinates":[-118.417,33.9576],"type":"Point"}
 }

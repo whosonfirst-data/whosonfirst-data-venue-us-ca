@@ -2,84 +2,88 @@
   "id": 572093437,
   "type": "Feature",
   "properties": {
-    "addr:full":"412 Valencia St San Francisco CA 94103",
-    "addr:housenumber":"412",
-    "addr:postcode":"94103",
-    "addr:street":"Valencia St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.422032,37.766349,-122.422032,37.766349",
-    "geom:latitude":37.766349,
-    "geom:longitude":-122.422032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"412 Valencia St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Motorcycle Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "412 Valencia St San Francisco CA 94103",
+    "addr:housenumber": "412",
+    "addr:postcode": "94103",
+    "addr:street": "Valencia St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.422032,37.766349,-122.422032,37.766349",
+    "geom:latitude": 37.766349,
+    "geom:longitude": -122.422032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Munroe Motors, 412 Valencia St San Francisco CA US",
+    "ovtr:similarity": 2.364284038543701,
+    "sg:address": "412 Valencia St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Motorcycle Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 626 3496",
-    "sg:postcode":"94103",
-    "sg:province":"CA",
-    "sg:tags":[
-        "scooter"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 626 3496",
+    "sg:postcode": "94103",
+    "sg:province": "CA",
+    "sg:tags": [
+      "scooter"
     ],
-    "sg:website":"www.munroemotors.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85865951,
-        102191575,
-        1108830809,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "sg:website": "www.munroemotors.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85865951,
+      102191575,
+      1108830809,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0020050-01-001",
-        "sg:id":"SG_5b0PFPjpocTzej93DIc1Ce_37.765920_-122.422055@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283082880874203641672c0458764",
+      "sfgov_rbl:id": "0020050-01-001",
+      "sg:id": "SG_5b0PFPjpocTzej93DIc1Ce_37.765920_-122.422055@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"65884b5437a6b3292508a437c240f161",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830809,
-            "neighbourhood_id":85865951,
-            "region_id":85688637,
-            "venue_id":572093437
-        }
+    "wof:country": "US",
+    "wof:created": 1723561665,
+    "wof:geomhash": "65884b5437a6b3292508a437c240f161",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830809,
+        "neighbourhood_id": 85865951,
+        "region_id": 85688637,
+        "venue_id": 572093437
+      }
     ],
-    "wof:id":572093437,
-    "wof:lastmodified":1509201690,
-    "wof:name":"Munroe Motors",
-    "wof:parent_id":85865951,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "scooter"
+    "wof:id": 572093437,
+    "wof:lastmodified": 1723561665,
+    "wof:name": "Munroe Motors",
+    "wof:parent_id": 85865951,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "scooter"
     ]
-},
+  },
   "bbox": [
     -122.422032,
     37.766349,
     -122.422032,
     37.766349
-],
+  ],
   "geometry": {"coordinates":[-122.422032,37.766349],"type":"Point"}
 }

@@ -2,75 +2,83 @@
   "id": 588704887,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 Florin Rd Sacramento CA 95831",
-    "addr:housenumber":"250",
-    "addr:postcode":"95831",
-    "addr:street":"Florin Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.543127,38.509259,-121.543127,38.509259",
-    "geom:latitude":38.509259,
-    "geom:longitude":-121.543127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"250 Florin Rd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Portrait Studio",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "250 Florin Rd Sacramento CA 95831",
+    "addr:housenumber": "250",
+    "addr:postcode": "95831",
+    "addr:street": "Florin Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.543127,38.509259,-121.543127,38.509259",
+    "geom:latitude": 38.509259,
+    "geom:longitude": -121.543127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Walgreens, 250 Florin Rd Sacramento CA US",
+    "ovtr:similarity": 2.769123077392578,
+    "sg:address": "250 Florin Rd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Portrait Studio",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 399 0650",
-    "sg:postcode":"95831",
-    "sg:province":"CA",
-    "sg:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 399 0650",
+    "sg:postcode": "95831",
+    "sg:province": "CA",
+    "sg:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ],
-    "sg:website":"www.walgreens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":436507624,
-        "sg:id":"SG_53BvvcHDsz6ZBVYiSpBloG_38.509259_-121.543127@1303263398"
+    "sg:website": "www.walgreens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 436507624,
+      "ovtr:id": "08f2832b239b54e9030cf3aa6d9b0d7f",
+      "sg:id": "SG_53BvvcHDsz6ZBVYiSpBloG_38.509259_-121.543127@1303263398"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e9dd62a540893fa42838528928ad7920",
-    "wof:hierarchy":[],
-    "wof:id":588704887,
-    "wof:lastmodified":1511322322,
-    "wof:name":"Walgreens",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photography",
-        "drugstore",
-        "store"
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "e9dd62a540893fa42838528928ad7920",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588704887
+      }
+    ],
+    "wof:id": 588704887,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Walgreens",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photography",
+      "drugstore",
+      "store"
     ]
-},
+  },
   "bbox": [
     -121.543127,
     38.509259,
     -121.543127,
     38.509259
-],
+  ],
   "geometry": {"coordinates":[-121.543127,38.509259],"type":"Point"}
 }

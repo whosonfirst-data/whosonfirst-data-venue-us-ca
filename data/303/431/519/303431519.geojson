@@ -2,82 +2,86 @@
   "id": 303431519,
   "type": "Feature",
   "properties": {
-    "addr:full":"7800 S Vermont Ave Los Angeles CA 90044",
-    "addr:housenumber":"7800",
-    "addr:postcode":"90044",
-    "addr:street":"S Vermont Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.291647,33.967801,-118.291647,33.967801",
-    "geom:latitude":33.967801,
-    "geom:longitude":-118.291647,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"7800 S Vermont Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Fire Station",
-            "type":"Public Place"
-        }
+    "addr:full": "7800 S Vermont Ave Los Angeles CA 90044",
+    "addr:housenumber": "7800",
+    "addr:postcode": "90044",
+    "addr:street": "S Vermont Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.291647,33.967801,-118.291647,33.967801",
+    "geom:latitude": 33.967801,
+    "geom:longitude": -118.291647,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Los Angeles Fire Dept. Station 57, 7800 S Vermont Ave Los Angeles CA US",
+    "ovtr:similarity": 2.750478982925415,
+    "sg:address": "7800 S Vermont Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Fire Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 485 6257",
-    "sg:postcode":"90044",
-    "sg:province":"CA",
-    "sg:tags":[
-        "protection"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 485 6257",
+    "sg:postcode": "90044",
+    "sg:province": "CA",
+    "sg:tags": [
+      "protection"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1058996431,
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1058996431,
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4mXPLOTrIAZYJwrMaJ2Sv8_33.967801_-118.291647@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56ce12278c03ef0e949fca1024",
+      "sg:id": "SG_4mXPLOTrIAZYJwrMaJ2Sv8_33.967801_-118.291647@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"faed63f7c0ad2919fc875475509ea314",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":1058996431,
-            "region_id":85688637,
-            "venue_id":303431519
-        }
+    "wof:country": "US",
+    "wof:created": 1723561667,
+    "wof:geomhash": "faed63f7c0ad2919fc875475509ea314",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 1058996431,
+        "region_id": 85688637,
+        "venue_id": 303431519
+      }
     ],
-    "wof:id":303431519,
-    "wof:lastmodified":1509200360,
-    "wof:name":"Fire Dept-Station 57",
-    "wof:parent_id":1058996431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "protection"
+    "wof:id": 303431519,
+    "wof:lastmodified": 1723561667,
+    "wof:name": "Fire Dept-Station 57",
+    "wof:parent_id": 1058996431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "protection"
     ]
-},
+  },
   "bbox": [
     -118.291647,
     33.967801,
     -118.291647,
     33.967801
-],
+  ],
   "geometry": {"coordinates":[-118.291647,33.967801],"type":"Point"}
 }

@@ -2,66 +2,74 @@
   "id": 572200041,
   "type": "Feature",
   "properties": {
-    "addr:full":"2400 Sunrise Blvd Rancho Cordova CA 95670",
-    "addr:housenumber":"2400",
-    "addr:postcode":"95670",
-    "addr:street":"Sunrise Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.269962,38.615105,-121.269962,38.615105",
-    "geom:latitude":38.615105,
-    "geom:longitude":-121.269962,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2400 Sunrise Blvd",
-    "sg:city":"Rancho Cordova",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2400 Sunrise Blvd Rancho Cordova CA 95670",
+    "addr:housenumber": "2400",
+    "addr:postcode": "95670",
+    "addr:street": "Sunrise Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.269962,38.615105,-121.269962,38.615105",
+    "geom:latitude": 38.615105,
+    "geom:longitude": -121.269962,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "McDonald's, 2400 Sunrise Blvd Rancho Cordova CA US",
+    "ovtr:similarity": 2.2604188919067383,
+    "sg:address": "2400 Sunrise Blvd",
+    "sg:city": "Rancho Cordova",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/mather/216227-mcdonalds/menu/",
-    "sg:owner":"simplegeo",
-    "sg:postcode":"95670",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/mather/216227-mcdonalds/menu/",
+    "sg:owner": "simplegeo",
+    "sg:postcode": "95670",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573961,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_05Qr2dPlnUFwKM3L8QJIEZ_38.615105_-121.269962@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573961,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832bb21943a50376cbb691113e8d",
+      "sg:id": "SG_05Qr2dPlnUFwKM3L8QJIEZ_38.615105_-121.269962@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c661a33e7eb763825e0524090bb821fa",
-    "wof:hierarchy":[],
-    "wof:id":572200041,
-    "wof:lastmodified":1512142953,
-    "wof:name":"McDonald's",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "c661a33e7eb763825e0524090bb821fa",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572200041
+      }
+    ],
+    "wof:id": 572200041,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "McDonald's",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -121.269962,
     38.615105,
     -121.269962,
     38.615105
-],
-  "geometry": {"coordinates":[-121.26996200000001,38.615105],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.269962,38.615105],"type":"Point"}
 }

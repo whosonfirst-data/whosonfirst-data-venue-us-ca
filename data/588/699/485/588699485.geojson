@@ -2,82 +2,86 @@
   "id": 588699485,
   "type": "Feature",
   "properties": {
-    "addr:full":"8387 Folsom Blvd Sacramento CA 95826",
-    "addr:housenumber":"8387",
-    "addr:postcode":"95826",
-    "addr:street":"Folsom Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.39347,38.547233,-121.39347,38.547233",
-    "geom:latitude":38.547233,
-    "geom:longitude":-121.39347,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8387 Folsom Blvd",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Discount & Variety Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8387 Folsom Blvd Sacramento CA 95826",
+    "addr:housenumber": "8387",
+    "addr:postcode": "95826",
+    "addr:street": "Folsom Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.393470,38.547233,-121.393470,38.547233",
+    "geom:latitude": 38.547233,
+    "geom:longitude": -121.39347,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Cents Only Stores, 8387 Folsom Blvd Sacramento CA US",
+    "ovtr:similarity": 2.038235902786255,
+    "sg:address": "8387 Folsom Blvd",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Discount \u0026 Variety Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 386 9990",
-    "sg:postcode":"95826",
-    "sg:province":"CA",
-    "sg:website":"www.99only.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922845,
-        102082889,
-        85841313
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 386 9990",
+    "sg:postcode": "95826",
+    "sg:province": "CA",
+    "sg:website": "www.99only.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922845,
+      102082889,
+      85841313
     ],
-    "wof:brand_id":1125158017,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3Pn7YqWX1F4IF5ow3w7mj4_38.547233_-121.393470@1303263396"
+    "wof:brand_id": 1125158017,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283284b13038d03f4021aa401855e",
+      "sg:id": "SG_3Pn7YqWX1F4IF5ow3w7mj4_38.547233_-121.393470@1303263396"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bc29b29e2c511d7688827f92b0309ee4",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85841313,
-            "region_id":85688637,
-            "venue_id":588699485
-        }
+    "wof:country": "US",
+    "wof:created": 1723561658,
+    "wof:geomhash": "bc29b29e2c511d7688827f92b0309ee4",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85841313,
+        "region_id": 85688637,
+        "venue_id": 588699485
+      }
     ],
-    "wof:id":588699485,
-    "wof:lastmodified":1510698495,
-    "wof:name":"99 Cents Only Stores",
-    "wof:parent_id":85841313,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588699485,
+    "wof:lastmodified": 1723561658,
+    "wof:name": "99 Cents Only Stores",
+    "wof:parent_id": 85841313,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.39347,
     38.547233,
     -121.39347,
     38.547233
-],
-  "geometry": {"coordinates":[-121.39346999999999,38.547233],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.39347,38.547233],"type":"Point"}
 }

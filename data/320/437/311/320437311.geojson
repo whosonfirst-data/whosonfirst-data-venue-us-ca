@@ -2,81 +2,85 @@
   "id": 320437311,
   "type": "Feature",
   "properties": {
-    "addr:full":"1110 S Livermore Ave Livermore CA 94550",
-    "addr:housenumber":"1110",
-    "addr:postcode":"94550",
-    "addr:street":"S Livermore Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.756371,37.674362,-121.756371,37.674362",
-    "geom:latitude":37.674362,
-    "geom:longitude":-121.756371,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1110 S Livermore Ave",
-    "sg:city":"Livermore",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "1110 S Livermore Ave Livermore CA 94550",
+    "addr:housenumber": "1110",
+    "addr:postcode": "94550",
+    "addr:street": "S Livermore Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.756371,37.674362,-121.756371,37.674362",
+    "geom:latitude": 37.674362,
+    "geom:longitude": -121.756371,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Livermore Police Department, 1110 S Livermore Ave Livermore CA US",
+    "ovtr:similarity": 2.981113910675049,
+    "sg:address": "1110 S Livermore Ave",
+    "sg:city": "Livermore",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 371 4900",
-    "sg:postcode":"94550",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 371 4900",
+    "sg:postcode": "94550",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.livermorepolice.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921889,
-        102086959,
-        85852639
+    "sg:website": "www.livermorepolice.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921889,
+      102086959,
+      85852639
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5erSy453scFFsY7hBAR0tv_37.674362_-121.756371@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2836a69aa430e031696d583b88f49",
+      "sg:id": "SG_5erSy453scFFsY7hBAR0tv_37.674362_-121.756371@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"95adf9325e8fe2b7de3d14f2468c75af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921889,
-            "neighbourhood_id":85852639,
-            "region_id":85688637,
-            "venue_id":320437311
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "95adf9325e8fe2b7de3d14f2468c75af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921889,
+        "neighbourhood_id": 85852639,
+        "region_id": 85688637,
+        "venue_id": 320437311
+      }
     ],
-    "wof:id":320437311,
-    "wof:lastmodified":1509200466,
-    "wof:name":"Livermore Police Dept",
-    "wof:parent_id":85852639,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 320437311,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Livermore Police Dept",
+    "wof:parent_id": 85852639,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -121.756371,
     37.674362,
     -121.756371,
     37.674362
-],
+  ],
   "geometry": {"coordinates":[-121.756371,37.674362],"type":"Point"}
 }

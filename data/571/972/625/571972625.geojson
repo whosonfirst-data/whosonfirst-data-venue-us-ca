@@ -2,81 +2,85 @@
   "id": 571972625,
   "type": "Feature",
   "properties": {
-    "addr:full":"24202 Hawthorne Blvd Torrance CA 90505",
-    "addr:housenumber":"24202",
-    "addr:postcode":"90505",
-    "addr:street":"Hawthorne Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.350998,33.8041,-118.350998,33.8041",
-    "geom:latitude":33.8041,
-    "geom:longitude":-118.350998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"24202 Hawthorne Blvd",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "24202 Hawthorne Blvd Torrance CA 90505",
+    "addr:housenumber": "24202",
+    "addr:postcode": "90505",
+    "addr:street": "Hawthorne Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.350998,33.804100,-118.350998,33.804100",
+    "geom:latitude": 33.8041,
+    "geom:longitude": -118.350998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hawthorne Market, 24202 Hawthorne Blvd Torrance CA US",
+    "ovtr:similarity": 2.938565969467163,
+    "sg:address": "24202 Hawthorne Blvd",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 373 4448",
-    "sg:postcode":"90505",
-    "sg:province":"CA",
-    "sg:tags":[
-        "market"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 373 4448",
+    "sg:postcode": "90505",
+    "sg:province": "CA",
+    "sg:tags": [
+      "market"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923785,
-        102086957,
-        85854403
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923785,
+      102086957,
+      85854403
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":420904804,
-        "sg:id":"SG_0benuEreieVGRFR94oKxlw_33.803898_-118.350921@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 420904804,
+      "ovtr:id": "08f29a560db63cf10382a965711cfa77",
+      "sg:id": "SG_0benuEreieVGRFR94oKxlw_33.803898_-118.350921@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dc24f8cf1eaa4ef955c0faa4fcf9dbbe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923785,
-            "neighbourhood_id":85854403,
-            "region_id":85688637,
-            "venue_id":571972625
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "dc24f8cf1eaa4ef955c0faa4fcf9dbbe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85854403,
+        "region_id": 85688637,
+        "venue_id": 571972625
+      }
     ],
-    "wof:id":571972625,
-    "wof:lastmodified":1510943338,
-    "wof:name":"Hawthorne Market",
-    "wof:parent_id":85854403,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "market"
+    "wof:id": 571972625,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Hawthorne Market",
+    "wof:parent_id": 85854403,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "market"
     ]
-},
+  },
   "bbox": [
     -118.350998,
     33.8041,
     -118.350998,
     33.8041
-],
+  ],
   "geometry": {"coordinates":[-118.350998,33.8041],"type":"Point"}
 }

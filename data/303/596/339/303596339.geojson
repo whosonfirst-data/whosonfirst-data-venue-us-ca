@@ -2,81 +2,85 @@
   "id": 303596339,
   "type": "Feature",
   "properties": {
-    "addr:full":"191 Santa Rosa St San Luis Obispo CA 93405",
-    "addr:housenumber":"191",
-    "addr:postcode":"93405",
-    "addr:street":"Santa Rosa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.665952,35.289175,-120.665952,35.289175",
-    "geom:latitude":35.289175,
-    "geom:longitude":-120.665952,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"191 Santa Rosa St",
-    "sg:city":"San Luis Obispo",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "191 Santa Rosa St San Luis Obispo CA 93405",
+    "addr:housenumber": "191",
+    "addr:postcode": "93405",
+    "addr:street": "Santa Rosa St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.665952,35.289175,-120.665952,35.289175",
+    "geom:latitude": 35.289175,
+    "geom:longitude": -120.665952,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Stenner Creek Animal Hospital, 191 Santa Rosa St San Luis Obispo CA US",
+    "ovtr:similarity": 2.396317958831787,
+    "sg:address": "191 Santa Rosa St",
+    "sg:city": "San Luis Obispo",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 543 2500",
-    "sg:postcode":"93405",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 543 2500",
+    "sg:postcode": "93405",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922299,
-        102085385,
-        85867429
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922299,
+      102085385,
+      85867429
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1PBHvpQZVHe3UyGiJ1Jx8U_35.289175_-120.665952@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29adc4284e2d103de7f3f3d605981",
+      "sg:id": "SG_1PBHvpQZVHe3UyGiJ1Jx8U_35.289175_-120.665952@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"eb9a273413e18a05cec91faf225db61e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085385,
-            "locality_id":85922299,
-            "neighbourhood_id":85867429,
-            "region_id":85688637,
-            "venue_id":303596339
-        }
+    "wof:country": "US",
+    "wof:created": 1723561699,
+    "wof:geomhash": "eb9a273413e18a05cec91faf225db61e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085385,
+        "locality_id": 85922299,
+        "neighbourhood_id": 85867429,
+        "region_id": 85688637,
+        "venue_id": 303596339
+      }
     ],
-    "wof:id":303596339,
-    "wof:lastmodified":1509200374,
-    "wof:name":"Stenner Creek Animal Hospital",
-    "wof:parent_id":85867429,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "animal"
+    "wof:id": 303596339,
+    "wof:lastmodified": 1723561699,
+    "wof:name": "Stenner Creek Animal Hospital",
+    "wof:parent_id": 85867429,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -120.665952,
     35.289175,
     -120.665952,
     35.289175
-],
+  ],
   "geometry": {"coordinates":[-120.665952,35.289175],"type":"Point"}
 }

@@ -2,88 +2,92 @@
   "id": 386934891,
   "type": "Feature",
   "properties": {
-    "addr:full":"4501 S Alameda St Los Angeles CA 90058",
-    "addr:housenumber":"4501",
-    "addr:postcode":"90058",
-    "addr:street":"S Alameda St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.239136,34.002661,-118.239136,34.002661",
-    "geom:latitude":34.002661,
-    "geom:longitude":-118.239136,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4501 S Alameda St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Specialty",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "4501 S Alameda St Los Angeles CA 90058",
+    "addr:housenumber": "4501",
+    "addr:postcode": "90058",
+    "addr:street": "S Alameda St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.239136,34.002661,-118.239136,34.002661",
+    "geom:latitude": 34.002661,
+    "geom:longitude": -118.239136,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Alameda Swap Meet, 4501 S Alameda St Los Angeles CA US",
+    "ovtr:similarity": 2.381058931350708,
+    "sg:address": "4501 S Alameda St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Specialty",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90058",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865791",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90058",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865791
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3HGKJQLcFSWIqUjRdLNBNK_34.002661_-118.239136@1303263165"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56d8705221037c30bb2e68748b",
+      "sg:id": "SG_3HGKJQLcFSWIqUjRdLNBNK_34.002661_-118.239136@1303263165"
     },
-    "wof:country":"US",
-    "wof:geomhash":"18809891254dcbca7900f695b8ff7170",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85865791",
-            "region_id":85688637,
-            "venue_id":386934891
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "18809891254dcbca7900f695b8ff7170",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85865791,
+        "region_id": 85688637,
+        "venue_id": 386934891
+      }
     ],
-    "wof:id":386934891,
-    "wof:lastmodified":1510943199,
-    "wof:name":"Alameda Swap Meet",
-    "wof:parent_id":"85865791",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[
-        270234321
+    "wof:id": 386934891,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Alameda Swap Meet",
+    "wof:parent_id": "85865791",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      270234321
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
     -118.239136,
     34.002661,
     -118.239136,
     34.002661
-],
+  ],
   "geometry": {"coordinates":[-118.239136,34.002661],"type":"Point"}
 }

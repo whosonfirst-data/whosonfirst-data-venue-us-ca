@@ -2,89 +2,93 @@
   "id": 588388999,
   "type": "Feature",
   "properties": {
-    "addr:full":"601 Post St San Francisco CA 94109",
-    "addr:housenumber":"601",
-    "addr:postcode":"94109",
-    "addr:street":"Post St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.41173,37.787867,-122.41173,37.787867",
-    "geom:latitude":37.787867,
-    "geom:longitude":-122.41173,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"601 Post St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        }
+    "addr:full": "601 Post St San Francisco CA 94109",
+    "addr:housenumber": "601",
+    "addr:postcode": "94109",
+    "addr:street": "Post St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.411730,37.787867,-122.411730,37.787867",
+    "geom:latitude": 37.787867,
+    "geom:longitude": -122.41173,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Owl Tree, 601 Post St San Francisco CA US",
+    "ovtr:similarity": 2.3186070919036865,
+    "sg:address": "601 Post St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 359 1600",
-    "sg:postcode":"94109",
-    "sg:province":"CA",
-    "sg:tags":[
-        "venue"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 359 1600",
+    "sg:postcode": "94109",
+    "sg:province": "CA",
+    "sg:tags": [
+      "venue"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102147431,
-        85865905,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102147431,
+      85865905,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":621793529,
-        "sfgov_rbl:id":"0428582-01-001",
-        "sg:id":"SG_5ZAmqyIe1CxcNf9xjGV4ti_37.787867_-122.411730@1303263316"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 621793529,
+      "ovtr:id": "08f283082bd1d51d0313bbbd2b4cd168",
+      "sfgov_rbl:id": "0428582-01-001",
+      "sg:id": "SG_5ZAmqyIe1CxcNf9xjGV4ti_37.787867_-122.411730@1303263316"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8aea29e2a1228b37e7b54ea30c1e1de3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":102147431,
-            "neighbourhood_id":85865905,
-            "region_id":85688637,
-            "venue_id":588388999
-        }
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "8aea29e2a1228b37e7b54ea30c1e1de3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 102147431,
+        "neighbourhood_id": 85865905,
+        "region_id": 85688637,
+        "venue_id": 588388999
+      }
     ],
-    "wof:id":588388999,
-    "wof:lastmodified":1510941428,
-    "wof:name":"Owl Tree",
-    "wof:parent_id":102147431,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "venue"
+    "wof:id": 588388999,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Owl Tree",
+    "wof:parent_id": 102147431,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "venue"
     ]
-},
+  },
   "bbox": [
     -122.41173,
     37.787867,
     -122.41173,
     37.787867
-],
-  "geometry": {"coordinates":[-122.41173000000001,37.787867],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.41173,37.787867],"type":"Point"}
 }

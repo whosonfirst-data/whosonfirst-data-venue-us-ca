@@ -2,83 +2,87 @@
   "id": 572207567,
   "type": "Feature",
   "properties": {
-    "addr:full":"1701 Stockton St San Francisco CA 94133",
-    "addr:housenumber":"1701",
-    "addr:postcode":"94133",
-    "addr:street":"Stockton St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.409481,37.801459,-122.409481,37.801459",
-    "geom:latitude":37.801459,
-    "geom:longitude":-122.409481,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1701 Stockton St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1701 Stockton St San Francisco CA 94133",
+    "addr:housenumber": "1701",
+    "addr:postcode": "94133",
+    "addr:street": "Stockton St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.409481,37.801459,-122.409481,37.801459",
+    "geom:latitude": 37.801459,
+    "geom:longitude": -122.409481,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Mama's On Washington Square, 1701 Stockton St San Francisco CA US",
+    "ovtr:similarity": 2.6879351139068604,
+    "sg:address": "1701 Stockton St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/san-francisco/275848-mamas-on-washington-square/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 362 6421",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/san-francisco/275848-mamas-on-washington-square/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 362 6421",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85837317
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85837317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":366703620,
-        "sfgov_rbl:id":"0385662-01-001",
-        "sg:id":"SG_7daP7NXBF6jxkHmMWF5Auq_37.801849_-122.409468@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 366703620,
+      "ovtr:id": "08f283082b4c011b03ea91f4484560f1",
+      "sfgov_rbl:id": "0385662-01-001",
+      "sg:id": "SG_7daP7NXBF6jxkHmMWF5Auq_37.801849_-122.409468@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f5ab4c3414ac7f9ae2576f169c636425",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":572207567
-        }
+    "wof:country": "US",
+    "wof:created": 1723561650,
+    "wof:geomhash": "f5ab4c3414ac7f9ae2576f169c636425",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 572207567
+      }
     ],
-    "wof:id":572207567,
-    "wof:lastmodified":1510942638,
-    "wof:name":"Mama's on Washington Square",
-    "wof:parent_id":85837317,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american"
+    "wof:id": 572207567,
+    "wof:lastmodified": 1723561650,
+    "wof:name": "Mama's on Washington Square",
+    "wof:parent_id": 85837317,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american"
     ]
-},
+  },
   "bbox": [
     -122.409481,
     37.801459,
     -122.409481,
     37.801459
-],
+  ],
   "geometry": {"coordinates":[-122.409481,37.801459],"type":"Point"}
 }

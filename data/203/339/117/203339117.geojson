@@ -2,80 +2,84 @@
   "id": 203339117,
   "type": "Feature",
   "properties": {
-    "addr:full":"414 Miller Ave Mill Valley CA 94941",
-    "addr:housenumber":"414",
-    "addr:postcode":"94941",
-    "addr:street":"Miller Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.534872,37.895493,-122.534872,37.895493",
-    "geom:latitude":37.895493,
-    "geom:longitude":-122.534872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"414 Miller Ave",
-    "sg:city":"Mill Valley",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "414 Miller Ave Mill Valley CA 94941",
+    "addr:housenumber": "414",
+    "addr:postcode": "94941",
+    "addr:street": "Miller Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.534872,37.895493,-122.534872,37.895493",
+    "geom:latitude": 37.895493,
+    "geom:longitude": -122.534872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Whole Foods Market, 414 Miller Ave Mill Valley CA US",
+    "ovtr:similarity": 2.368043899536133,
+    "sg:address": "414 Miller Ave",
+    "sg:city": "Mill Valley",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 381 1200",
-    "sg:postcode":"94941",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 381 1200",
+    "sg:postcode": "94941",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.wholefoods.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102084353,
-        85802885
+    "sg:website": "www.wholefoods.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102084353,
+      85802885
     ],
-    "wof:brand_id":1125150113,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0aK4I5vGUovbSAbBpLLpFM_37.895493_-122.534872@1294081369"
+    "wof:brand_id": 1125150113,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283085db52a2d03f68080b5087d3d",
+      "sg:id": "SG_0aK4I5vGUovbSAbBpLLpFM_37.895493_-122.534872@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b1dfd46e0f1d99f3f95a34c05ca6112b",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084353,
-            "locality_id":-1,
-            "neighbourhood_id":85802885,
-            "region_id":85688637,
-            "venue_id":203339117
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "b1dfd46e0f1d99f3f95a34c05ca6112b",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084353,
+        "locality_id": -1,
+        "neighbourhood_id": 85802885,
+        "region_id": 85688637,
+        "venue_id": 203339117
+      }
     ],
-    "wof:id":203339117,
-    "wof:lastmodified":1510697248,
-    "wof:name":"Whole Foods Market",
-    "wof:parent_id":85802885,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 203339117,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Whole Foods Market",
+    "wof:parent_id": 85802885,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.534872,
     37.895493,
     -122.534872,
     37.895493
-],
-  "geometry": {"coordinates":[-122.53487199999999,37.895493],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.534872,37.895493],"type":"Point"}
 }

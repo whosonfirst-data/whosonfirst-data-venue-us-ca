@@ -2,84 +2,88 @@
   "id": 555587075,
   "type": "Feature",
   "properties": {
-    "addr:full":"8431 S Main St Los Angeles CA 90003",
-    "addr:housenumber":"8431",
-    "addr:postcode":"90003",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.273872,33.961903,-118.273872,33.961903",
-    "geom:latitude":33.961903,
-    "geom:longitude":-118.273872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8431 S Main St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "8431 S Main St Los Angeles CA 90003",
+    "addr:housenumber": "8431",
+    "addr:postcode": "90003",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.273872,33.961903,-118.273872,33.961903",
+    "geom:latitude": 33.961903,
+    "geom:longitude": -118.273872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Leon Tires \u0026 Wheels, 8431 S Main St Los Angeles CA US",
+    "ovtr:similarity": 2.3111679553985596,
+    "sg:address": "8431 S Main St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 751 5066",
-    "sg:postcode":"90003",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "tire"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 751 5066",
+    "sg:postcode": "90003",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "tire"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85819643",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85819643
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5z5lCYMajbAETekQ44HBhr_33.961903_-118.273872@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c3a8ed920385f63edd66a47f",
+      "sg:id": "SG_5z5lCYMajbAETekQ44HBhr_33.961903_-118.273872@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4f147d5ea0c8dc984612a2f6491bdb3b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"85819643",
-            "region_id":85688637,
-            "venue_id":555587075
-        }
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "4f147d5ea0c8dc984612a2f6491bdb3b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 85819643,
+        "region_id": 85688637,
+        "venue_id": 555587075
+      }
     ],
-    "wof:id":555587075,
-    "wof:lastmodified":1509201441,
-    "wof:name":"Leon Tires & Wheels",
-    "wof:parent_id":"85819643",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "tire"
+    "wof:id": 555587075,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Leon Tires \u0026 Wheels",
+    "wof:parent_id": "85819643",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "tire"
     ]
-},
+  },
   "bbox": [
     -118.273872,
     33.961903,
     -118.273872,
     33.961903
-],
+  ],
   "geometry": {"coordinates":[-118.273872,33.961903],"type":"Point"}
 }

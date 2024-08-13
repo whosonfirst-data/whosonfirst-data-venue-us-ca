@@ -2,80 +2,84 @@
   "id": 387853031,
   "type": "Feature",
   "properties": {
-    "addr:full":"12301 Whittier Blvd Whittier CA 90602",
-    "addr:housenumber":"12301",
-    "addr:postcode":"90602",
-    "addr:street":"Whittier Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.045998,33.975201,-118.045998,33.975201",
-    "geom:latitude":33.975201,
-    "geom:longitude":-118.045998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12301 Whittier Blvd",
-    "sg:city":"Whittier",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Antiques",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping Center",
-            "subcategory":"",
-            "type":"Public Place"
-        }
+    "addr:full": "12301 Whittier Blvd Whittier CA 90602",
+    "addr:housenumber": "12301",
+    "addr:postcode": "90602",
+    "addr:street": "Whittier Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.045998,33.975201,-118.045998,33.975201",
+    "geom:latitude": 33.975201,
+    "geom:longitude": -118.045998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "King Richard's Antique Center, 12301 Whittier Blvd Whittier CA US",
+    "ovtr:similarity": 2.347407102584839,
+    "sg:address": "12301 Whittier Blvd",
+    "sg:city": "Whittier",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Antiques",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping Center",
+        "subcategory": "",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 698 5974",
-    "sg:postcode":"90602",
-    "sg:province":"CA",
-    "sg:website":"www.kingrichardsantiques.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923757,
-        102086957,
-        85888229
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 698 5974",
+    "sg:postcode": "90602",
+    "sg:province": "CA",
+    "sg:website": "www.kingrichardsantiques.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923757,
+      102086957,
+      85888229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1s7PoYMd77SjLOrgHNjYCb_33.975201_-118.045998@1303263188"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d30c63b9503f5c1765f3b1a79",
+      "sg:id": "SG_1s7PoYMd77SjLOrgHNjYCb_33.975201_-118.045998@1303263188"
     },
-    "wof:country":"US",
-    "wof:geomhash":"39220043338bdeda3c4335e47c0c39ab",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923757,
-            "neighbourhood_id":85888229,
-            "region_id":85688637,
-            "venue_id":387853031
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "39220043338bdeda3c4335e47c0c39ab",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923757,
+        "neighbourhood_id": 85888229,
+        "region_id": 85688637,
+        "venue_id": 387853031
+      }
     ],
-    "wof:id":387853031,
-    "wof:lastmodified":1509201110,
-    "wof:name":"King Richard's Antique Center",
-    "wof:parent_id":85888229,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387853031,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "King Richard's Antique Center",
+    "wof:parent_id": 85888229,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.045998,
     33.975201,
     -118.045998,
     33.975201
-],
+  ],
   "geometry": {"coordinates":[-118.045998,33.975201],"type":"Point"}
 }

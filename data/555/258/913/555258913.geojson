@@ -2,65 +2,73 @@
   "id": 555258913,
   "type": "Feature",
   "properties": {
-    "addr:full":"729 D St Ramona CA 92065",
-    "addr:housenumber":"729",
-    "addr:postcode":"92065",
-    "addr:street":"D St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.864322,33.043168,-116.864322,33.043168",
-    "geom:latitude":33.043168,
-    "geom:longitude":-116.864322,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"729 D St",
-    "sg:city":"Ramona",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "729 D St Ramona CA 92065",
+    "addr:housenumber": "729",
+    "addr:postcode": "92065",
+    "addr:street": "D St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.864322,33.043168,-116.864322,33.043168",
+    "geom:latitude": 33.043168,
+    "geom:longitude": -116.864322,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Danny's Truck and Auto, 729 D St Ramona CA US",
+    "ovtr:similarity": 2.6850390434265137,
+    "sg:address": "729 D St",
+    "sg:city": "Ramona",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 789 6177",
-    "sg:postcode":"92065",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 789 6177",
+    "sg:postcode": "92065",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6MqntNlVQeO7CDZluURf46_33.043168_-116.864322@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a445eb5b6e603f97991b7fe5917",
+      "sg:id": "SG_6MqntNlVQeO7CDZluURf46_33.043168_-116.864322@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e3e7117c78ff358f54b854f021fb5dc0",
-    "wof:hierarchy":[],
-    "wof:id":555258913,
-    "wof:lastmodified":1509201331,
-    "wof:name":"Danny's Truck & Auto",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:country": "US",
+    "wof:created": 1723561690,
+    "wof:geomhash": "e3e7117c78ff358f54b854f021fb5dc0",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555258913
+      }
+    ],
+    "wof:id": 555258913,
+    "wof:lastmodified": 1723561690,
+    "wof:name": "Danny's Truck \u0026 Auto",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -116.864322,
     33.043168,
     -116.864322,
     33.043168
-],
+  ],
   "geometry": {"coordinates":[-116.864322,33.043168],"type":"Point"}
 }

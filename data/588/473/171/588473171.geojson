@@ -2,81 +2,85 @@
   "id": 588473171,
   "type": "Feature",
   "properties": {
-    "addr:full":"1099 MacArthur Blvd San Leandro CA 94577",
-    "addr:housenumber":"1099",
-    "addr:postcode":"94577",
-    "addr:street":"Macarthur Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.139368,37.731316,-122.139368,37.731316",
-    "geom:latitude":37.731316,
-    "geom:longitude":-122.139368,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1099 MacArthur Blvd",
-    "sg:city":"San Leandro",
-    "sg:classifiers":[
-        {
-            "category":"Deli",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bagels",
-            "subcategory":"None",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1099 MacArthur Blvd San Leandro CA 94577",
+    "addr:housenumber": "1099",
+    "addr:postcode": "94577",
+    "addr:street": "Macarthur Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.139368,37.731316,-122.139368,37.731316",
+    "geom:latitude": 37.731316,
+    "geom:longitude": -122.139368,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Main Street Bagels, 1099 MacArthur Blvd San Leandro CA US",
+    "ovtr:similarity": 2.1851449012756348,
+    "sg:address": "1099 MacArthur Blvd",
+    "sg:city": "San Leandro",
+    "sg:classifiers": [
+      {
+        "category": "Deli",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bagels",
+        "subcategory": "None",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 430 8700",
-    "sg:postcode":"94577",
-    "sg:province":"CA",
-    "sg:website":"www.mainstbagels.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921867,
-        102086959,
-        420550329
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 430 8700",
+    "sg:postcode": "94577",
+    "sg:province": "CA",
+    "sg:website": "www.mainstbagels.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921867,
+      102086959,
+      420550329
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6qOjQJkvZmmk5eOqfkM6by_37.731316_-122.139368@1303263337"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830982c2c46403d0c5c5db2dd8cf",
+      "sg:id": "SG_6qOjQJkvZmmk5eOqfkM6by_37.731316_-122.139368@1303263337"
     },
-    "wof:country":"US",
-    "wof:geomhash":"40a83e417c236f13d6ae33e44f2c6448",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921867,
-            "neighbourhood_id":420550329,
-            "region_id":85688637,
-            "venue_id":588473171
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "40a83e417c236f13d6ae33e44f2c6448",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921867,
+        "neighbourhood_id": 420550329,
+        "region_id": 85688637,
+        "venue_id": 588473171
+      }
     ],
-    "wof:id":588473171,
-    "wof:lastmodified":1509202085,
-    "wof:name":"Main Street Bagels",
-    "wof:parent_id":420550329,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588473171,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Main Street Bagels",
+    "wof:parent_id": 420550329,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.139368,
     37.731316,
     -122.139368,
     37.731316
-],
+  ],
   "geometry": {"coordinates":[-122.139368,37.731316],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 572199403,
   "type": "Feature",
   "properties": {
-    "addr:full":"8750 Elk Grove Blvd Elk Grove CA 95624",
-    "addr:housenumber":"8750",
-    "addr:postcode":"95624",
-    "addr:street":"Elk Grove Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.379203,38.408573,-121.379203,38.408573",
-    "geom:latitude":38.408573,
-    "geom:longitude":-121.379203,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"8750 Elk Grove Blvd",
-    "sg:city":"Elk Grove",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "8750 Elk Grove Blvd Elk Grove CA 95624",
+    "addr:housenumber": "8750",
+    "addr:postcode": "95624",
+    "addr:street": "Elk Grove Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.379203,38.408573,-121.379203,38.408573",
+    "geom:latitude": 38.408573,
+    "geom:longitude": -121.379203,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 8750 Elk Grove Blvd Elk Grove CA US",
+    "ovtr:similarity": 2.3689260482788086,
+    "sg:address": "8750 Elk Grove Blvd",
+    "sg:city": "Elk Grove",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/elk-grove/213232-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 685 1133",
-    "sg:postcode":"95624",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ca/elk-grove/213232-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 685 1133",
+    "sg:postcode": "95624",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922869,
-        102082889,
-        85829035
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922869,
+      102082889,
+      85829035
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":95474707,
-        "sg:id":"SG_3UrgZQx5FBbw4IEpqq1ydL_38.408573_-121.379203@1299784598"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 95474707,
+      "ovtr:id": "08f2832864a4115503710cf03ebdc578",
+      "sg:id": "SG_3UrgZQx5FBbw4IEpqq1ydL_38.408573_-121.379203@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7440df9d1431562a8245245d0df744c1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922869,
-            "neighbourhood_id":85829035,
-            "region_id":85688637,
-            "venue_id":572199403
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "7440df9d1431562a8245245d0df744c1",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922869,
+        "neighbourhood_id": 85829035,
+        "region_id": 85688637,
+        "venue_id": 572199403
+      }
     ],
-    "wof:id":572199403,
-    "wof:lastmodified":1511321239,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85829035,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 572199403,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85829035,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -121.379203,
     38.408573,
     -121.379203,
     38.408573
-],
+  ],
   "geometry": {"coordinates":[-121.379203,38.408573],"type":"Point"}
 }

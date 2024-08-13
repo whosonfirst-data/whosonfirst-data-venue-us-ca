@@ -2,82 +2,86 @@
   "id": 353573589,
   "type": "Feature",
   "properties": {
-    "addr:full":"49908 Jefferson St Indio CA 92201",
-    "addr:housenumber":"49908",
-    "addr:postcode":"92201",
-    "addr:street":"Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.26864,33.68701,-116.26864,33.68701",
-    "geom:latitude":33.68701,
-    "geom:longitude":-116.26864,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"49908 Jefferson St",
-    "sg:city":"Indio",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "49908 Jefferson St Indio CA 92201",
+    "addr:housenumber": "49908",
+    "addr:postcode": "92201",
+    "addr:street": "Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.268640,33.687010,-116.268640,33.687010",
+    "geom:latitude": 33.68701,
+    "geom:longitude": -116.26864,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ralphs, 49908 Jefferson St Indio CA US",
+    "ovtr:similarity": 3.874237060546875,
+    "sg:address": "49908 Jefferson St",
+    "sg:city": "Indio",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 771 4373",
-    "sg:postcode":"92201",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 771 4373",
+    "sg:postcode": "92201",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "sg:website":"www.ralphs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928231,
-        102086221,
-        85836161
+    "sg:website": "www.ralphs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928231,
+      102086221,
+      85836161
     ],
-    "wof:brand_id":1125152813,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":203540695,
-        "sg:id":"SG_6rntEYLCkTIZtuw5QYtb9N_33.687010_-116.268640@1294081369"
+    "wof:brand_id": 1125152813,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 203540695,
+      "ovtr:id": "08f29a638c18a14403d6c519e7efe7a2",
+      "sg:id": "SG_6rntEYLCkTIZtuw5QYtb9N_33.687010_-116.268640@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"149374d7b155dbc61323d5118e1aca7d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85928231,
-            "neighbourhood_id":85836161,
-            "region_id":85688637,
-            "venue_id":353573589
-        }
+    "wof:country": "US",
+    "wof:created": 1723561701,
+    "wof:geomhash": "149374d7b155dbc61323d5118e1aca7d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85928231,
+        "neighbourhood_id": 85836161,
+        "region_id": 85688637,
+        "venue_id": 353573589
+      }
     ],
-    "wof:id":353573589,
-    "wof:lastmodified":1511318784,
-    "wof:name":"Ralph's",
-    "wof:parent_id":85836161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 353573589,
+    "wof:lastmodified": 1723561701,
+    "wof:name": "Ralph's",
+    "wof:parent_id": 85836161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -116.26864,
     33.68701,
     -116.26864,
     33.68701
-],
+  ],
   "geometry": {"coordinates":[-116.26864,33.68701],"type":"Point"}
 }

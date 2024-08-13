@@ -2,74 +2,78 @@
   "id": 303232875,
   "type": "Feature",
   "properties": {
-    "addr:full":"1915 Wilshire Blvd Santa Monica CA 90403",
-    "addr:housenumber":"1915",
-    "addr:postcode":"90403",
-    "addr:street":"Wilshire Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.483799,34.030948,-118.483799,34.030948",
-    "geom:latitude":34.030948,
-    "geom:longitude":-118.483799,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1915 Wilshire Blvd",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Florist",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1915 Wilshire Blvd Santa Monica CA 90403",
+    "addr:housenumber": "1915",
+    "addr:postcode": "90403",
+    "addr:street": "Wilshire Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.483799,34.030948,-118.483799,34.030948",
+    "geom:latitude": 34.030948,
+    "geom:longitude": -118.483799,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Ann's Flowers, 1915 Wilshire Blvd Santa Monica CA US",
+    "ovtr:similarity": 2.6075780391693115,
+    "sg:address": "1915 Wilshire Blvd",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Florist",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 829 7774",
-    "sg:postcode":"90403",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923817,
-        102086957,
-        85880865
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 829 7774",
+    "sg:postcode": "90403",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923817,
+      102086957,
+      85880865
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1CnRlIiBg3g6U8NoaYE4Yq_34.030948_-118.483799@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a198cc4c4d303eac8992b246138",
+      "sg:id": "SG_1CnRlIiBg3g6U8NoaYE4Yq_34.030948_-118.483799@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"295f9f7a9d5786a71edd943f0a1e4a7e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880865,
-            "region_id":85688637,
-            "venue_id":303232875
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "295f9f7a9d5786a71edd943f0a1e4a7e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85880865,
+        "region_id": 85688637,
+        "venue_id": 303232875
+      }
     ],
-    "wof:id":303232875,
-    "wof:lastmodified":1509200344,
-    "wof:name":"Ann's Flowers",
-    "wof:parent_id":85880865,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 303232875,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "Ann's Flowers",
+    "wof:parent_id": 85880865,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.483799,
     34.030948,
     -118.483799,
     34.030948
-],
+  ],
   "geometry": {"coordinates":[-118.483799,34.030948],"type":"Point"}
 }

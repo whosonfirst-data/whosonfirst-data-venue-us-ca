@@ -2,90 +2,94 @@
   "id": 370632667,
   "type": "Feature",
   "properties": {
-    "addr:full":"1835 S Hope St Los Angeles CA 90015",
-    "addr:housenumber":"1835",
-    "addr:postcode":"90015",
-    "addr:street":"S Hope St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.26948,34.033844,-118.26948,34.033844",
-    "geom:latitude":34.033844,
-    "geom:longitude":-118.26948,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1835 S Hope St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Religious Organization",
-            "type":"Services"
-        },
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:full": "1835 S Hope St Los Angeles CA 90015",
+    "addr:housenumber": "1835",
+    "addr:postcode": "90015",
+    "addr:street": "S Hope St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.269480,34.033844,-118.269480,34.033844",
+    "geom:latitude": 34.033844,
+    "geom:longitude": -118.26948,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "St. Francis Center, 1835 S Hope St Los Angeles CA US",
+    "ovtr:similarity": 3.4746739864349365,
+    "sg:address": "1835 S Hope St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Religious Organization",
+        "type": "Services"
+      },
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 747 5347",
-    "sg:postcode":"90015",
-    "sg:province":"CA",
-    "sg:tags":[
-        "service/non-profit",
-        "community"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 747 5347",
+    "sg:postcode": "90015",
+    "sg:province": "CA",
+    "sg:tags": [
+      "service/non-profit",
+      "community"
     ],
-    "sg:website":"www.sfcla.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.sfcla.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2hQ1UhvyceUNVfIszUmTqQ_34.033844_-118.269480@1303263151"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d660ecc9503c7e5cce560ef9d",
+      "sg:id": "SG_2hQ1UhvyceUNVfIszUmTqQ_34.033844_-118.269480@1303263151"
     },
-    "wof:country":"US",
-    "wof:geomhash":"623eb6024566e170a526196db3140283",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":370632667
-        }
+    "wof:country": "US",
+    "wof:created": 1723561655,
+    "wof:geomhash": "623eb6024566e170a526196db3140283",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 370632667
+      }
     ],
-    "wof:id":370632667,
-    "wof:lastmodified":1509200783,
-    "wof:name":"St Francis Center",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "service/non-profit",
-        "community"
+    "wof:id": 370632667,
+    "wof:lastmodified": 1723561655,
+    "wof:name": "St Francis Center",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "service/non-profit",
+      "community"
     ]
-},
+  },
   "bbox": [
     -118.26948,
     34.033844,
     -118.26948,
     34.033844
-],
+  ],
   "geometry": {"coordinates":[-118.26948,34.033844],"type":"Point"}
 }

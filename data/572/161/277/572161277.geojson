@@ -2,84 +2,88 @@
   "id": 572161277,
   "type": "Feature",
   "properties": {
-    "addr:full":"111 E 223rd St Carson CA 90745",
-    "addr:housenumber":"111",
-    "addr:postcode":"90745",
-    "addr:street":"E 223Rd St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.275825,33.824631,-118.275825,33.824631",
-    "geom:latitude":33.824631,
-    "geom:longitude":-118.275825,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"111 E 223rd St",
-    "sg:city":"Carson",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "111 E 223rd St Carson CA 90745",
+    "addr:housenumber": "111",
+    "addr:postcode": "90745",
+    "addr:street": "E 223Rd St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.275825,33.824631,-118.275825,33.824631",
+    "geom:latitude": 33.824631,
+    "geom:longitude": -118.275825,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Jack in the Box, 111 E 223rd St Carson CA US",
+    "ovtr:similarity": 2.17268705368042,
+    "sg:address": "111 E 223rd St",
+    "sg:city": "Carson",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/compton/178461-jack-in-the-box/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 518 3025",
-    "sg:postcode":"90745",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/compton/178461-jack-in-the-box/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 518 3025",
+    "sg:postcode": "90745",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923683,
-        102086957,
-        85828259
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923683,
+      102086957,
+      85828259
     ],
-    "wof:brand_id":1125148691,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4ascfP97J7yGNpU3Temisf_33.824631_-118.275825@1299784598"
+    "wof:brand_id": 1125148691,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a561dacc6e30398575410476c2d",
+      "sg:id": "SG_4ascfP97J7yGNpU3Temisf_33.824631_-118.275825@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"454bfb768f51e453997c63f736837e16",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85828259,
-            "region_id":85688637,
-            "venue_id":572161277
-        }
+    "wof:country": "US",
+    "wof:created": 1723561662,
+    "wof:geomhash": "454bfb768f51e453997c63f736837e16",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923683,
+        "neighbourhood_id": 85828259,
+        "region_id": 85688637,
+        "venue_id": 572161277
+      }
     ],
-    "wof:id":572161277,
-    "wof:lastmodified":1511319292,
-    "wof:name":"Jack in the Box",
-    "wof:parent_id":85828259,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:id": 572161277,
+    "wof:lastmodified": 1723561662,
+    "wof:name": "Jack in the Box",
+    "wof:parent_id": 85828259,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -118.275825,
     33.824631,
     -118.275825,
     33.824631
-],
+  ],
   "geometry": {"coordinates":[-118.275825,33.824631],"type":"Point"}
 }

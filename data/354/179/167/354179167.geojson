@@ -2,80 +2,84 @@
   "id": 354179167,
   "type": "Feature",
   "properties": {
-    "addr:full":"274 W Main St Woodland CA 95695",
-    "addr:housenumber":"274",
-    "addr:postcode":"95695",
-    "addr:street":"W Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.794769,38.677718,-121.794769,38.677718",
-    "geom:latitude":38.677718,
-    "geom:longitude":-121.794769,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"274 W Main St",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "274 W Main St Woodland CA 95695",
+    "addr:housenumber": "274",
+    "addr:postcode": "95695",
+    "addr:street": "W Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.794769,38.677718,-121.794769,38.677718",
+    "geom:latitude": 38.677718,
+    "geom:longitude": -121.794769,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Precision Auto Care, 274 W Main St Woodland CA US",
+    "ovtr:similarity": 2.121407985687256,
+    "sg:address": "274 W Main St",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 661 0370",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 661 0370",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repairing",
+      "automobile"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922405,
-        102082309
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922405,
+      102082309
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0MLbMROtljJzhCtcMP5Exf_38.677718_-121.794769@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28306941b04d90323f5cb034ed8b0",
+      "sg:id": "SG_0MLbMROtljJzhCtcMP5Exf_38.677718_-121.794769@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"87cd9019e3b98cc92f1b44137730ce8f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082309,
-            "locality_id":85922405,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":354179167
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "87cd9019e3b98cc92f1b44137730ce8f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082309,
+        "locality_id": 85922405,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 354179167
+      }
     ],
-    "wof:id":354179167,
-    "wof:lastmodified":1509200655,
-    "wof:name":"Precision Auto Care",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repairing",
-        "automobile"
+    "wof:id": 354179167,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Precision Auto Care",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -121.794769,
     38.677718,
     -121.794769,
     38.677718
-],
+  ],
   "geometry": {"coordinates":[-121.794769,38.677718],"type":"Point"}
 }

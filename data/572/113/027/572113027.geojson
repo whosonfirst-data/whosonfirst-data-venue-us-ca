@@ -2,82 +2,86 @@
   "id": 572113027,
   "type": "Feature",
   "properties": {
-    "addr:full":"3545 Fruitvale Ave Oakland CA 94602",
-    "addr:housenumber":"3545",
-    "addr:postcode":"94602",
-    "addr:street":"Fruitvale Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.216244,37.801189,-122.216244,37.801189",
-    "geom:latitude":37.801189,
-    "geom:longitude":-122.216244,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3545 Fruitvale Ave",
-    "sg:city":"Oakland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "3545 Fruitvale Ave Oakland CA 94602",
+    "addr:housenumber": "3545",
+    "addr:postcode": "94602",
+    "addr:street": "Fruitvale Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.216244,37.801189,-122.216244,37.801189",
+    "geom:latitude": 37.801189,
+    "geom:longitude": -122.216244,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "St. Louis Veterinary Clinic, 3545 Fruitvale Ave Oakland CA US",
+    "ovtr:similarity": 2.822601079940796,
+    "sg:address": "3545 Fruitvale Ave",
+    "sg:city": "Oakland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 530 1004",
-    "sg:postcode":"94602",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 530 1004",
+    "sg:postcode": "94602",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85872415,
-        102191575,
-        1108794091,
-        85633793,
-        85921881,
-        102086959,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85872415,
+      102191575,
+      1108794091,
+      85633793,
+      85921881,
+      102086959,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_60TpngAu5b4FYJF4dKS82D_37.801405_-122.215956@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28308a5d040ec03667ab0d3e2b77e",
+      "sg:id": "SG_60TpngAu5b4FYJF4dKS82D_37.801405_-122.215956@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"930a65fdf097f50a76a0b739d5b2846b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921881,
-            "macrohood_id":1108794091,
-            "neighbourhood_id":85872415,
-            "region_id":85688637,
-            "venue_id":572113027
-        }
+    "wof:country": "US",
+    "wof:created": 1723561644,
+    "wof:geomhash": "930a65fdf097f50a76a0b739d5b2846b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921881,
+        "macrohood_id": 1108794091,
+        "neighbourhood_id": 85872415,
+        "region_id": 85688637,
+        "venue_id": 572113027
+      }
     ],
-    "wof:id":572113027,
-    "wof:lastmodified":1509201696,
-    "wof:name":"St Louis Veterinary Clinic",
-    "wof:parent_id":85872415,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 572113027,
+    "wof:lastmodified": 1723561644,
+    "wof:name": "St Louis Veterinary Clinic",
+    "wof:parent_id": 85872415,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -122.216244,
     37.801189,
     -122.216244,
     37.801189
-],
+  ],
   "geometry": {"coordinates":[-122.216244,37.801189],"type":"Point"}
 }

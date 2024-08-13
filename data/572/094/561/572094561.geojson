@@ -2,63 +2,71 @@
   "id": 572094561,
   "type": "Feature",
   "properties": {
-    "addr:full":"4100 Barry Hill Ct Martinez CA 94553",
-    "addr:housenumber":"4100",
-    "addr:postcode":"94553",
-    "addr:street":"Barry Hill Ct",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.194067,38.012296,-122.194067,38.012296",
-    "geom:latitude":38.012296,
-    "geom:longitude":-122.194067,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4100 Barry Hill Ct",
-    "sg:city":"Martinez",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Animal Services",
-            "type":"Services"
-        }
+    "addr:full": "4100 Barry Hill Ct Martinez CA 94553",
+    "addr:housenumber": "4100",
+    "addr:postcode": "94553",
+    "addr:street": "Barry Hill Ct",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.194067,38.012296,-122.194067,38.012296",
+    "geom:latitude": 38.012296,
+    "geom:longitude": -122.194067,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sunset Ridge Equestrian Center, 4100 Barry Hill Ct Martinez CA US",
+    "ovtr:similarity": 2.3603110313415527,
+    "sg:address": "4100 Barry Hill Ct",
+    "sg:city": "Martinez",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Animal Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 370 8464",
-    "sg:postcode":"94553",
-    "sg:province":"CA",
-    "sg:tags":[
-        "horse-boarding"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 370 8464",
+    "sg:postcode": "94553",
+    "sg:province": "CA",
+    "sg:tags": [
+      "horse-boarding"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5cL8p0a9w8yi7ZJQYGkC5H_38.012275_-122.194587@1293134755"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830104bb5af60326142885c133ee",
+      "sg:id": "SG_5cL8p0a9w8yi7ZJQYGkC5H_38.012275_-122.194587@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9dd57103b6cfdd65dc422fa849b398e8",
-    "wof:hierarchy":[],
-    "wof:id":572094561,
-    "wof:lastmodified":1509201691,
-    "wof:name":"Sunset Ridge Equestrian Center",
-    "wof:parent_id":85886043,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "horse-boarding"
+    "wof:country": "US",
+    "wof:created": 1723561704,
+    "wof:geomhash": "9dd57103b6cfdd65dc422fa849b398e8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572094561
+      }
+    ],
+    "wof:id": 572094561,
+    "wof:lastmodified": 1723561704,
+    "wof:name": "Sunset Ridge Equestrian Center",
+    "wof:parent_id": 85886043,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "horse-boarding"
     ]
-},
+  },
   "bbox": [
     -122.194067,
     38.012296,
     -122.194067,
     38.012296
-],
+  ],
   "geometry": {"coordinates":[-122.194067,38.012296],"type":"Point"}
 }

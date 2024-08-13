@@ -2,87 +2,91 @@
   "id": 571753921,
   "type": "Feature",
   "properties": {
-    "addr:full":"3558 E Butler Ave Fresno CA 93702",
-    "addr:housenumber":"3558",
-    "addr:postcode":"93702",
-    "addr:street":"E Butler Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.763786,36.728565,-119.763786,36.728565",
-    "geom:latitude":36.728565,
-    "geom:longitude":-119.763786,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3558 E Butler Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "3558 E Butler Ave Fresno CA 93702",
+    "addr:housenumber": "3558",
+    "addr:postcode": "93702",
+    "addr:street": "E Butler Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.763786,36.728565,-119.763786,36.728565",
+    "geom:latitude": 36.728565,
+    "geom:longitude": -119.763786,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Brian's Parts Shop, 3558 E Butler Ave Fresno CA US",
+    "ovtr:similarity": 2.0710690021514893,
+    "sg:address": "3558 E Butler Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 233 2123",
-    "sg:postcode":"93702",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "use"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 233 2123",
+    "sg:postcode": "93702",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "use"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922995,
-        102084347,
-        85871927
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922995,
+      102084347,
+      85871927
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0NLMhUF7Ixm3lKoSMajoV3_36.728565_-119.763786@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab9a131c25103801c0193c1f4a4",
+      "sg:id": "SG_0NLMhUF7Ixm3lKoSMajoV3_36.728565_-119.763786@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4d949628843df01bdd6b6d9c3455ae26",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85871927,
-            "region_id":85688637,
-            "venue_id":571753921
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "4d949628843df01bdd6b6d9c3455ae26",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85871927,
+        "region_id": 85688637,
+        "venue_id": 571753921
+      }
     ],
-    "wof:id":571753921,
-    "wof:lastmodified":1509201581,
-    "wof:name":"Brian's Parts Shop",
-    "wof:parent_id":85871927,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "use"
+    "wof:id": 571753921,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Brian's Parts Shop",
+    "wof:parent_id": 85871927,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "use"
     ]
-},
+  },
   "bbox": [
     -119.763786,
     36.728565,
     -119.763786,
     36.728565
-],
+  ],
   "geometry": {"coordinates":[-119.763786,36.728565],"type":"Point"}
 }

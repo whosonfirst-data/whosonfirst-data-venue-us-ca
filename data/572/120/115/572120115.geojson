@@ -2,83 +2,87 @@
   "id": 572120115,
   "type": "Feature",
   "properties": {
-    "addr:full":"2998 San Jose Ave San Francisco CA 94112",
-    "addr:housenumber":"2998",
-    "addr:postcode":"94112",
-    "addr:street":"San Jose Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.455632,37.711505,-122.455632,37.711505",
-    "geom:latitude":37.711505,
-    "geom:longitude":-122.455632,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2998 San Jose Ave",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2998 San Jose Ave San Francisco CA 94112",
+    "addr:housenumber": "2998",
+    "addr:postcode": "94112",
+    "addr:street": "San Jose Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.455632,37.711505,-122.455632,37.711505",
+    "geom:latitude": 37.711505,
+    "geom:longitude": -122.455632,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Chevron, 2998 San Jose Ave San Francisco CA US",
+    "ovtr:similarity": 2.376007080078125,
+    "sg:address": "2998 San Jose Ave",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 585 0775",
-    "sg:postcode":"94112",
-    "sg:province":"CA",
-    "sg:tags":[
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 585 0775",
+    "sg:postcode": "94112",
+    "sg:province": "CA",
+    "sg:tags": [
+      "oil"
     ],
-    "sg:website":"www.chevron.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1108831825
+    "sg:website": "www.chevron.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1108831825
     ],
-    "wof:brand_id":420574043,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfgov_rbl:id":"0026883-11-001",
-        "sg:id":"SG_6eDfkoVr8wtfxLyoG1J9l8_37.711476_-122.455592@1293134755"
+    "wof:brand_id": 420574043,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28309556b466503346264370ff6d1",
+      "sfgov_rbl:id": "0026883-11-001",
+      "sg:id": "SG_6eDfkoVr8wtfxLyoG1J9l8_37.711476_-122.455592@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8c584ff187fd30ade9b94e9efa8ff7cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":1108831825,
-            "region_id":85688637,
-            "venue_id":572120115
-        }
+    "wof:country": "US",
+    "wof:created": 1723561645,
+    "wof:geomhash": "8c584ff187fd30ade9b94e9efa8ff7cb",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 1108831825,
+        "region_id": 85688637,
+        "venue_id": 572120115
+      }
     ],
-    "wof:id":572120115,
-    "wof:lastmodified":1511324638,
-    "wof:name":"Chevron",
-    "wof:parent_id":1108831825,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "oil"
+    "wof:id": 572120115,
+    "wof:lastmodified": 1723561645,
+    "wof:name": "Chevron",
+    "wof:parent_id": 1108831825,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "oil"
     ]
-},
+  },
   "bbox": [
     -122.455632,
     37.711505,
     -122.455632,
     37.711505
-],
-  "geometry": {"coordinates":[-122.45563199999999,37.711505],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.455632,37.711505],"type":"Point"}
 }

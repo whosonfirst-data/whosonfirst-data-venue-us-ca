@@ -2,79 +2,83 @@
   "id": 370749775,
   "type": "Feature",
   "properties": {
-    "addr:full":"1855 Industrial St. Los Angeles CA 90021",
-    "addr:housenumber":"1855",
-    "addr:postcode":"90021",
-    "addr:street":"Industrial St.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.233002,34.0359,-118.233002,34.0359",
-    "geom:latitude":34.0359,
-    "geom:longitude":-118.233002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1855 Industrial St.",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1855 Industrial St. Los Angeles CA 90021",
+    "addr:housenumber": "1855",
+    "addr:postcode": "90021",
+    "addr:street": "Industrial St.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.233002,34.035900,-118.233002,34.035900",
+    "geom:latitude": 34.0359,
+    "geom:longitude": -118.233002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Joe's Downtown Market, 1855 Industrial St Los Angeles CA US",
+    "ovtr:similarity": 2.831054925918579,
+    "sg:address": "1855 Industrial St.",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 612 0248",
-    "sg:postcode":"90021",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1041531569,
-        "85865837",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 612 0248",
+    "sg:postcode": "90021",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1041531569,
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865837
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2DG9InkLvqVLiYs0j3hy9D_34.035900_-118.233002@1303263154"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d75d95ba3031b5446256f3769",
+      "sg:id": "SG_2DG9InkLvqVLiYs0j3hy9D_34.035900_-118.233002@1303263154"
     },
-    "wof:country":"US",
-    "wof:geomhash":"82cc621db32746b83c15396ae5f67878",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "microhood_id":1041531569,
-            "neighbourhood_id":"85865837",
-            "region_id":85688637,
-            "venue_id":370749775
-        }
+    "wof:country": "US",
+    "wof:created": 1723561670,
+    "wof:geomhash": "82cc621db32746b83c15396ae5f67878",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "microhood_id": 1041531569,
+        "neighbourhood_id": 85865837,
+        "region_id": 85688637,
+        "venue_id": 370749775
+      }
     ],
-    "wof:id":370749775,
-    "wof:lastmodified":1509200810,
-    "wof:name":"Joe's Downtown Market",
-    "wof:parent_id":1041531569,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370749775,
+    "wof:lastmodified": 1723561670,
+    "wof:name": "Joe's Downtown Market",
+    "wof:parent_id": 1041531569,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.233002,
     34.0359,
     -118.233002,
     34.0359
-],
+  ],
   "geometry": {"coordinates":[-118.233002,34.0359],"type":"Point"}
 }

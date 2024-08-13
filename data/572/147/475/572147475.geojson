@@ -2,82 +2,86 @@
   "id": 572147475,
   "type": "Feature",
   "properties": {
-    "addr:full":"15341 Hawthorne Blvd Lawndale CA 90260",
-    "addr:housenumber":"15341",
-    "addr:postcode":"ca 90260",
-    "addr:street":"Hawthorne Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.352997,33.891201,-118.352997,33.891201",
-    "geom:latitude":33.891201,
-    "geom:longitude":-118.352997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"15341 Hawthorne Blvd",
-    "sg:city":"Lawndale",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "15341 Hawthorne Blvd Lawndale CA 90260",
+    "addr:housenumber": "15341",
+    "addr:postcode": "ca 90260",
+    "addr:street": "Hawthorne Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.352997,33.891201,-118.352997,33.891201",
+    "geom:latitude": 33.891201,
+    "geom:longitude": -118.352997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "House of Donuts, 15341 Hawthorne Blvd Lawndale CA US",
+    "ovtr:similarity": 2.2910099029541016,
+    "sg:address": "15341 Hawthorne Blvd",
+    "sg:city": "Lawndale",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 675 9493",
-    "sg:postcode":"90260",
-    "sg:province":"CA",
-    "sg:tags":[
-        "donut",
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 675 9493",
+    "sg:postcode": "90260",
+    "sg:province": "CA",
+    "sg:tags": [
+      "donut",
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923535,
-        102086957,
-        85886275
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923535,
+      102086957,
+      85886275
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7Ir9AwJSs7woECzp7HndDr_33.891567_-118.352441@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a565342a662038f3947a5fb0f98",
+      "sg:id": "SG_7Ir9AwJSs7woECzp7HndDr_33.891567_-118.352441@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d18e79006b3a8900c918da1d6cc6c21d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923535,
-            "neighbourhood_id":85886275,
-            "region_id":85688637,
-            "venue_id":572147475
-        }
+    "wof:country": "US",
+    "wof:created": 1723561652,
+    "wof:geomhash": "d18e79006b3a8900c918da1d6cc6c21d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923535,
+        "neighbourhood_id": 85886275,
+        "region_id": 85688637,
+        "venue_id": 572147475
+      }
     ],
-    "wof:id":572147475,
-    "wof:lastmodified":1509201707,
-    "wof:name":"House of Donuts",
-    "wof:parent_id":85886275,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "donut",
-        "doughnut"
+    "wof:id": 572147475,
+    "wof:lastmodified": 1723561652,
+    "wof:name": "House of Donuts",
+    "wof:parent_id": 85886275,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "donut",
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -118.352997,
     33.891201,
     -118.352997,
     33.891201
-],
+  ],
   "geometry": {"coordinates":[-118.352997,33.891201],"type":"Point"}
 }

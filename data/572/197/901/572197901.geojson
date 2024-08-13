@@ -2,68 +2,76 @@
   "id": 572197901,
   "type": "Feature",
   "properties": {
-    "addr:full":"300 W Olive Ave Merced CA 95348",
-    "addr:housenumber":"300",
-    "addr:postcode":"95348",
-    "addr:street":"W Olive Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.474138,37.318684,-120.474138,37.318684",
-    "geom:latitude":37.318684,
-    "geom:longitude":-120.474138,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"300 W Olive Ave",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "300 W Olive Ave Merced CA 95348",
+    "addr:housenumber": "300",
+    "addr:postcode": "95348",
+    "addr:street": "W Olive Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.474138,37.318684,-120.474138,37.318684",
+    "geom:latitude": 37.318684,
+    "geom:longitude": -120.474138,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Carl's Jr., 300 W Olive Ave Merced CA US",
+    "ovtr:similarity": 2.5384249687194824,
+    "sg:address": "300 W Olive Ave",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/merced/171142-carls-jr/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 723 5429",
-    "sg:postcode":"95348",
-    "sg:province":"CA",
-    "sg:tags":[
-        "burger",
-        "american"
+    "sg:menulink": "http://www.allmenus.com/ca/merced/171142-carls-jr/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 723 5429",
+    "sg:postcode": "95348",
+    "sg:province": "CA",
+    "sg:tags": [
+      "burger",
+      "american"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125148741,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":311695564,
-        "sg:id":"SG_2m2JNftAIK7cLtfA9ojsc7_37.318684_-120.474138@1299784598"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125148741,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 311695564,
+      "ovtr:id": "08f2836da115173503460b6d0d30020e",
+      "sg:id": "SG_2m2JNftAIK7cLtfA9ojsc7_37.318684_-120.474138@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"62827851a732a79a48328872343844d1",
-    "wof:hierarchy":[],
-    "wof:id":572197901,
-    "wof:lastmodified":1510944018,
-    "wof:name":"Carl's Jr.",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "burger",
-        "american"
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "62827851a732a79a48328872343844d1",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572197901
+      }
+    ],
+    "wof:id": 572197901,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Carl's Jr.",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "burger",
+      "american"
     ]
-},
+  },
   "bbox": [
     -120.474138,
     37.318684,
     -120.474138,
     37.318684
-],
+  ],
   "geometry": {"coordinates":[-120.474138,37.318684],"type":"Point"}
 }

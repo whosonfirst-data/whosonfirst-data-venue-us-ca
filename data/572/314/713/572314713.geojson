@@ -2,87 +2,91 @@
   "id": 572314713,
   "type": "Feature",
   "properties": {
-    "addr:full":"8920 Fletcher Pkwy La Mesa CA 91942",
-    "addr:housenumber":"8920",
-    "addr:postcode":"91942",
-    "addr:street":"Fletcher Pkwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.003998,32.785702,-117.003998,32.785702",
-    "geom:latitude":32.785702,
-    "geom:longitude":-117.003998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8920 Fletcher Pkwy",
-    "sg:city":"La Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "8920 Fletcher Pkwy La Mesa CA 91942",
+    "addr:housenumber": "8920",
+    "addr:postcode": "91942",
+    "addr:street": "Fletcher Pkwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.003998,32.785702,-117.003998,32.785702",
+    "geom:latitude": 32.785702,
+    "geom:longitude": -117.003998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Albertsons, 8920 Fletcher Pkwy La Mesa CA US",
+    "ovtr:similarity": 2.744354009628296,
+    "sg:address": "8920 Fletcher Pkwy",
+    "sg:city": "La Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 667 4343",
-    "sg:postcode":"91942",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 667 4343",
+    "sg:postcode": "91942",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.albertsons.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922251,
-        102083569,
-        420552223
+    "sg:website": "www.albertsons.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922251,
+      102083569,
+      420552223
     ],
-    "wof:brand_id":420574415,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2LiNfwBTddR2J1dZTp9QH2_32.785702_-117.003998@1303263229"
+    "wof:brand_id": 420574415,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4193aea42b034cc2b3b8854d1f",
+      "sg:id": "SG_2LiNfwBTddR2J1dZTp9QH2_32.785702_-117.003998@1303263229"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1c1c0e2e4ea9ad004f78112858bcb503",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922251,
-            "neighbourhood_id":420552223,
-            "region_id":85688637,
-            "venue_id":572314713
-        }
+    "wof:country": "US",
+    "wof:created": 1723561687,
+    "wof:geomhash": "1c1c0e2e4ea9ad004f78112858bcb503",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922251,
+        "neighbourhood_id": 420552223,
+        "region_id": 85688637,
+        "venue_id": 572314713
+      }
     ],
-    "wof:id":572314713,
-    "wof:lastmodified":1511324069,
-    "wof:name":"Albertsons",
-    "wof:parent_id":420552223,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 572314713,
+    "wof:lastmodified": 1723561687,
+    "wof:name": "Albertsons",
+    "wof:parent_id": 420552223,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -117.003998,
     32.785702,
     -117.003998,
     32.785702
-],
+  ],
   "geometry": {"coordinates":[-117.003998,32.785702],"type":"Point"}
 }

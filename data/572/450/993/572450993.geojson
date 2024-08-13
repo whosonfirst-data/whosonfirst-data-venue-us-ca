@@ -2,82 +2,86 @@
   "id": 572450993,
   "type": "Feature",
   "properties": {
-    "addr:full":"99 Fair Dr Costa Mesa CA 92626",
-    "addr:housenumber":"99",
-    "addr:postcode":"92626",
-    "addr:street":"Fair Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.904702,33.663845,-117.904702,33.663845",
-    "geom:latitude":33.663845,
-    "geom:longitude":-117.904702,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"99 Fair Dr",
-    "sg:city":"Costa Mesa",
-    "sg:classifiers":[
-        {
-            "category":"Government",
-            "subcategory":"Police Station",
-            "type":"Public Place"
-        }
+    "addr:full": "99 Fair Dr Costa Mesa CA 92626",
+    "addr:housenumber": "99",
+    "addr:postcode": "92626",
+    "addr:street": "Fair Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.904702,33.663845,-117.904702,33.663845",
+    "geom:latitude": 33.663845,
+    "geom:longitude": -117.904702,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Costa Mesa Police Department, 99 Fair Dr Costa Mesa CA US",
+    "ovtr:similarity": 3.2532739639282227,
+    "sg:address": "99 Fair Dr",
+    "sg:city": "Costa Mesa",
+    "sg:classifiers": [
+      {
+        "category": "Government",
+        "subcategory": "Police Station",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 754 5367",
-    "sg:postcode":"92626",
-    "sg:province":"CA",
-    "sg:tags":[
-        "department"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 754 5367",
+    "sg:postcode": "92626",
+    "sg:province": "CA",
+    "sg:tags": [
+      "department"
     ],
-    "sg:website":"www.costamesapd.org/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923161,
-        102080847,
-        85811345
+    "sg:website": "www.costamesapd.org/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923161,
+      102080847,
+      85811345
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4127126985,
-        "sg:id":"SG_63FWKTtsJiBW3cqW6M2QGf_33.663845_-117.904702@1303263263"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4127126985,
+      "ovtr:id": "08f29a54dc31035503673f770f0dfb61",
+      "sg:id": "SG_63FWKTtsJiBW3cqW6M2QGf_33.663845_-117.904702@1303263263"
     },
-    "wof:country":"US",
-    "wof:geomhash":"77efcca22180598002f356844f6a6378",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923161,
-            "neighbourhood_id":85811345,
-            "region_id":85688637,
-            "venue_id":572450993
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "77efcca22180598002f356844f6a6378",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923161,
+        "neighbourhood_id": 85811345,
+        "region_id": 85688637,
+        "venue_id": 572450993
+      }
     ],
-    "wof:id":572450993,
-    "wof:lastmodified":1510944124,
-    "wof:name":"Costa Mesa Police Department",
-    "wof:parent_id":85811345,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "department"
+    "wof:id": 572450993,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Costa Mesa Police Department",
+    "wof:parent_id": 85811345,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "department"
     ]
-},
+  },
   "bbox": [
     -117.904702,
     33.663845,
     -117.904702,
     33.663845
-],
+  ],
   "geometry": {"coordinates":[-117.904702,33.663845],"type":"Point"}
 }

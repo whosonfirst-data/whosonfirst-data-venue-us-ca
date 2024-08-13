@@ -2,82 +2,86 @@
   "id": 572326613,
   "type": "Feature",
   "properties": {
-    "addr:full":"1100 Murray Dr El Cajon CA 92020",
-    "addr:housenumber":"1100",
-    "addr:postcode":"92020",
-    "addr:street":"Murray Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.985001,32.780499,-116.985001,32.780499",
-    "geom:latitude":32.780499,
-    "geom:longitude":-116.985001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1100 Murray Dr",
-    "sg:city":"El Cajon",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "1100 Murray Dr El Cajon CA 92020",
+    "addr:housenumber": "1100",
+    "addr:postcode": "92020",
+    "addr:street": "Murray Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.985001,32.780499,-116.985001,32.780499",
+    "geom:latitude": 32.780499,
+    "geom:longitude": -116.985001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Grossmont High School, 1100 Murray Dr El Cajon CA US",
+    "ovtr:similarity": 2.8352420330047607,
+    "sg:address": "1100 Murray Dr",
+    "sg:city": "El Cajon",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 668 6000",
-    "sg:postcode":"92020",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 668 6000",
+    "sg:postcode": "92020",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922273,
-        102083569,
-        85808795
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922273,
+      102083569,
+      85808795
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1tawBtB5y3QWogfr1SDwAn_32.780499_-116.985001@1303263232"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a4193cc146e03efbf9fd15360e4",
+      "sg:id": "SG_1tawBtB5y3QWogfr1SDwAn_32.780499_-116.985001@1303263232"
     },
-    "wof:country":"US",
-    "wof:geomhash":"212ce85d2557efd96c9a0a004ef27378",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922273,
-            "neighbourhood_id":85808795,
-            "region_id":85688637,
-            "venue_id":572326613
-        }
+    "wof:country": "US",
+    "wof:created": 1723561675,
+    "wof:geomhash": "212ce85d2557efd96c9a0a004ef27378",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922273,
+        "neighbourhood_id": 85808795,
+        "region_id": 85688637,
+        "venue_id": 572326613
+      }
     ],
-    "wof:id":572326613,
-    "wof:lastmodified":1509201814,
-    "wof:name":"Grossmont High School",
-    "wof:parent_id":85808795,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle"
+    "wof:id": 572326613,
+    "wof:lastmodified": 1723561675,
+    "wof:name": "Grossmont High School",
+    "wof:parent_id": 85808795,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle"
     ]
-},
+  },
   "bbox": [
     -116.985001,
     32.780499,
     -116.985001,
     32.780499
-],
+  ],
   "geometry": {"coordinates":[-116.985001,32.780499],"type":"Point"}
 }

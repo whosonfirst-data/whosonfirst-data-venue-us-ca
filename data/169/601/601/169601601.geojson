@@ -2,82 +2,86 @@
   "id": 169601601,
   "type": "Feature",
   "properties": {
-    "addr:full":"1700 W 5th St San Bernardino CA 92411",
-    "addr:housenumber":"1700",
-    "addr:postcode":"92411",
-    "addr:street":"W 5Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.324687,34.108429,-117.324687,34.108429",
-    "geom:latitude":34.108429,
-    "geom:longitude":-117.324687,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1700 W 5th St",
-    "sg:city":"San Bernardino",
-    "sg:classifiers":[
-        {
-            "category":"Local Transit",
-            "subcategory":"",
-            "type":"Transportation"
-        }
+    "addr:full": "1700 W 5th St San Bernardino CA 92411",
+    "addr:housenumber": "1700",
+    "addr:postcode": "92411",
+    "addr:street": "W 5Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.324687,34.108429,-117.324687,34.108429",
+    "geom:latitude": 34.108429,
+    "geom:longitude": -117.324687,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Omnitrans, 1700 W 5th St San Bernardino CA US",
+    "ovtr:similarity": 2.2340519428253174,
+    "sg:address": "1700 W 5th St",
+    "sg:city": "San Bernardino",
+    "sg:classifiers": [
+      {
+        "category": "Local Transit",
+        "subcategory": "",
+        "type": "Transportation"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 909 383 1680",
-    "sg:postcode":"92411",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bus",
-        "line"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 909 383 1680",
+    "sg:postcode": "92411",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bus",
+      "line"
     ],
-    "sg:website":"www.omnitrans.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923951,
-        102085395,
-        85843739
+    "sg:website": "www.omnitrans.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923951,
+      102085395,
+      85843739
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_754k1EokMnpVNXY9f1gIrQ_34.108429_-117.324687@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a00e8822081039cfa6198f82f7a",
+      "sg:id": "SG_754k1EokMnpVNXY9f1gIrQ_34.108429_-117.324687@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e01fccb04c75c018722c4641a265f951",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923951,
-            "neighbourhood_id":85843739,
-            "region_id":85688637,
-            "venue_id":169601601
-        }
+    "wof:country": "US",
+    "wof:created": 1723561676,
+    "wof:geomhash": "e01fccb04c75c018722c4641a265f951",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923951,
+        "neighbourhood_id": 85843739,
+        "region_id": 85688637,
+        "venue_id": 169601601
+      }
     ],
-    "wof:id":169601601,
-    "wof:lastmodified":1509199786,
-    "wof:name":"Omnitrans",
-    "wof:parent_id":85843739,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bus",
-        "line"
+    "wof:id": 169601601,
+    "wof:lastmodified": 1723561676,
+    "wof:name": "Omnitrans",
+    "wof:parent_id": 85843739,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bus",
+      "line"
     ]
-},
+  },
   "bbox": [
     -117.324687,
     34.108429,
     -117.324687,
     34.108429
-],
+  ],
   "geometry": {"coordinates":[-117.324687,34.108429],"type":"Point"}
 }

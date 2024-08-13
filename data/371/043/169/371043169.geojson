@@ -2,84 +2,88 @@
   "id": 371043169,
   "type": "Feature",
   "properties": {
-    "addr:full":"6128 N Figueroa St Los Angeles CA 90042",
-    "addr:housenumber":"6128",
-    "addr:postcode":"90042",
-    "addr:street":"N Figueroa St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.187194,34.11273,-118.187194,34.11273",
-    "geom:latitude":34.11273,
-    "geom:longitude":-118.187194,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6128 N Figueroa St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Auto Supplies",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "6128 N Figueroa St Los Angeles CA 90042",
+    "addr:housenumber": "6128",
+    "addr:postcode": "90042",
+    "addr:street": "N Figueroa St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.187194,34.112730,-118.187194,34.112730",
+    "geom:latitude": 34.11273,
+    "geom:longitude": -118.187194,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Palmer Tire \u0026 Auto Repair, 6128 N Figueroa St Los Angeles CA US",
+    "ovtr:similarity": 2.118788957595825,
+    "sg:address": "6128 N Figueroa St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Auto Supplies",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 255 3682",
-    "sg:postcode":"90042",
-    "sg:province":"CA",
-    "sg:tags":[
-        "tire"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 255 3682",
+    "sg:postcode": "90042",
+    "sg:province": "CA",
+    "sg:tags": [
+      "tire"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85821221
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85821221
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0FLVXo0kKkSAucZIxCst1B_34.112730_-118.187194@1303263162"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d5052010e03854a6862f095fd",
+      "sg:id": "SG_0FLVXo0kKkSAucZIxCst1B_34.112730_-118.187194@1303263162"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f3fb1ff675edfa77b98f975d39f36172",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85821221,
-            "region_id":85688637,
-            "venue_id":371043169
-        }
+    "wof:country": "US",
+    "wof:created": 1723561667,
+    "wof:geomhash": "f3fb1ff675edfa77b98f975d39f36172",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85821221,
+        "region_id": 85688637,
+        "venue_id": 371043169
+      }
     ],
-    "wof:id":371043169,
-    "wof:lastmodified":1509200879,
-    "wof:name":"Palmer Tire and Auto Repair",
-    "wof:parent_id":85821221,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "tire"
+    "wof:id": 371043169,
+    "wof:lastmodified": 1723561667,
+    "wof:name": "Palmer Tire and Auto Repair",
+    "wof:parent_id": 85821221,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "tire"
     ]
-},
+  },
   "bbox": [
     -118.187194,
     34.11273,
     -118.187194,
     34.11273
-],
-  "geometry": {"coordinates":[-118.18719400000001,34.11273],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.187194,34.11273],"type":"Point"}
 }

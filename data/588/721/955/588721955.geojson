@@ -2,65 +2,73 @@
   "id": 588721955,
   "type": "Feature",
   "properties": {
-    "addr:full":"197 Main St Chester CA 96020",
-    "addr:housenumber":"197",
-    "addr:postcode":"96020",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.228317,40.31086,-121.228317,40.31086",
-    "geom:latitude":40.31086,
-    "geom:longitude":-121.228317,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"197 Main St",
-    "sg:city":"Chester",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "197 Main St Chester CA 96020",
+    "addr:housenumber": "197",
+    "addr:postcode": "96020",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.228317,40.310860,-121.228317,40.310860",
+    "geom:latitude": 40.31086,
+    "geom:longitude": -121.228317,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Pizza Factory, 197 Main St Chester CA US",
+    "ovtr:similarity": 2.3151819705963135,
+    "sg:address": "197 Main St",
+    "sg:city": "Chester",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 258 3155",
-    "sg:postcode":"96020",
-    "sg:province":"CA",
-    "sg:tags":[
-        "pizza"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 258 3155",
+    "sg:postcode": "96020",
+    "sg:province": "CA",
+    "sg:tags": [
+      "pizza"
     ],
-    "sg:website":"http://www.pizzafactoryinc.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125149919,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6DlZbCZl3Bv304U5fPXM04_40.310860_-121.228317@1303263402"
+    "sg:website": "http://www.pizzafactoryinc.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125149919,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f281429cce8c8d0315b41647531d73",
+      "sg:id": "SG_6DlZbCZl3Bv304U5fPXM04_40.310860_-121.228317@1303263402"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a6b5864965ebab111dd9f8814339f671",
-    "wof:hierarchy":[],
-    "wof:id":588721955,
-    "wof:lastmodified":1510876664,
-    "wof:name":"Pizza Factory",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "pizza"
+    "wof:country": "US",
+    "wof:created": 1723561702,
+    "wof:geomhash": "a6b5864965ebab111dd9f8814339f671",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588721955
+      }
+    ],
+    "wof:id": 588721955,
+    "wof:lastmodified": 1723561702,
+    "wof:name": "Pizza Factory",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "pizza"
     ]
-},
+  },
   "bbox": [
     -121.228317,
     40.31086,
     -121.228317,
     40.31086
-],
+  ],
   "geometry": {"coordinates":[-121.228317,40.31086],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 370471317,
   "type": "Feature",
   "properties": {
-    "addr:full":"2419 W Martin Luther King Jr Blvd. Los Angeles CA 90008",
-    "addr:housenumber":"2419",
-    "addr:postcode":"90008",
-    "addr:street":"W Martin Luther King Jr Blvd.",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.319964,34.010797,-118.319964,34.010797",
-    "geom:latitude":34.010797,
-    "geom:longitude":-118.319964,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2419 W Martin Luther King Jr Blvd.",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "2419 W Martin Luther King Jr Blvd. Los Angeles CA 90008",
+    "addr:housenumber": "2419",
+    "addr:postcode": "90008",
+    "addr:street": "W Martin Luther King Jr Blvd.",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.319964,34.010797,-118.319964,34.010797",
+    "geom:latitude": 34.010797,
+    "geom:longitude": -118.319964,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "World Wide Tacos, 2419 W Martin Luther King Jr Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.4313371181488037,
+    "sg:address": "2419 W Martin Luther King Jr Blvd.",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 291 1500",
-    "sg:postcode":"90008",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 291 1500",
+    "sg:postcode": "90008",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "sg:website":"www.worldwidetacos.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420780759",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.worldwidetacos.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420780759
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7RdeNYGdMGTEC4IBshODqN_34.010797_-118.319964@1303263147"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56cb38412a037a42a2c51192cd",
+      "sg:id": "SG_7RdeNYGdMGTEC4IBshODqN_34.010797_-118.319964@1303263147"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8cbf83aa55daead4b3fde68f4f883daf",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420780759",
-            "region_id":85688637,
-            "venue_id":370471317
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "8cbf83aa55daead4b3fde68f4f883daf",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420780759,
+        "region_id": 85688637,
+        "venue_id": 370471317
+      }
     ],
-    "wof:id":370471317,
-    "wof:lastmodified":1509200745,
-    "wof:name":"World Wide Tacos",
-    "wof:parent_id":"420780759",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 370471317,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "World Wide Tacos",
+    "wof:parent_id": "420780759",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -118.319964,
     34.010797,
     -118.319964,
     34.010797
-],
+  ],
   "geometry": {"coordinates":[-118.319964,34.010797],"type":"Point"}
 }

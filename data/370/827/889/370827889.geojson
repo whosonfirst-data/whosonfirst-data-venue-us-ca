@@ -2,92 +2,96 @@
   "id": 370827889,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 W Temple St Los Angeles CA 90026",
-    "addr:housenumber":"1300",
-    "addr:postcode":"90026",
-    "addr:street":"W Temple St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.254997,34.066898,-118.254997,34.066898",
-    "geom:latitude":34.066898,
-    "geom:longitude":-118.254997,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1300 W Temple St",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1300 W Temple St Los Angeles CA 90026",
+    "addr:housenumber": "1300",
+    "addr:postcode": "90026",
+    "addr:street": "W Temple St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.254997,34.066898,-118.254997,34.066898",
+    "geom:latitude": 34.066898,
+    "geom:longitude": -118.254997,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "George's Liquor Store, 1300 W Temple St Los Angeles CA US",
+    "ovtr:similarity": 2.011023998260498,
+    "sg:address": "1300 W Temple St",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 250 3267",
-    "sg:postcode":"90026",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "wine",
-        "local",
-        "flavor",
-        "spirit"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 250 3267",
+    "sg:postcode": "90026",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "wine",
+      "local",
+      "flavor",
+      "spirit"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85869075
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85869075
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0nWnernTz11A968dHAA0De_34.066898_-118.254997@1303263156"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d71a1b86803cd039f958ff035",
+      "sg:id": "SG_0nWnernTz11A968dHAA0De_34.066898_-118.254997@1303263156"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a4442ba9dda4761f33ce3c3e6c3af6a6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85869075,
-            "region_id":85688637,
-            "venue_id":370827889
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "a4442ba9dda4761f33ce3c3e6c3af6a6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85869075,
+        "region_id": 85688637,
+        "venue_id": 370827889
+      }
     ],
-    "wof:id":370827889,
-    "wof:lastmodified":1509200828,
-    "wof:name":"George's Liquor Store",
-    "wof:parent_id":85869075,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "wine",
-        "local",
-        "flavor",
-        "spirit"
+    "wof:id": 370827889,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "George's Liquor Store",
+    "wof:parent_id": 85869075,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "wine",
+      "local",
+      "flavor",
+      "spirit"
     ]
-},
+  },
   "bbox": [
     -118.254997,
     34.066898,
     -118.254997,
     34.066898
-],
+  ],
   "geometry": {"coordinates":[-118.254997,34.066898],"type":"Point"}
 }

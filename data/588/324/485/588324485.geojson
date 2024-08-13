@@ -2,83 +2,87 @@
   "id": 588324485,
   "type": "Feature",
   "properties": {
-    "addr:full":"1602 N Cedar Ave Fresno CA 93703",
-    "addr:housenumber":"1602",
-    "addr:postcode":"93703",
-    "addr:street":"N Cedar Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.754539,36.765201,-119.754539,36.765201",
-    "geom:latitude":36.765201,
-    "geom:longitude":-119.754539,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1602 N Cedar Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "1602 N Cedar Ave Fresno CA 93703",
+    "addr:housenumber": "1602",
+    "addr:postcode": "93703",
+    "addr:street": "N Cedar Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.754539,36.765201,-119.754539,36.765201",
+    "geom:latitude": 36.765201,
+    "geom:longitude": -119.754539,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Cedar Veterinary Hospital, 1598 N Cedar Ave Fresno CA US",
+    "ovtr:similarity": 2.9475760459899902,
+    "sg:address": "1602 N Cedar Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 251 7141",
-    "sg:postcode":"93703",
-    "sg:province":"CA",
-    "sg:tags":[
-        "clinic",
-        "hospital"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 251 7141",
+    "sg:postcode": "93703",
+    "sg:province": "CA",
+    "sg:tags": [
+      "clinic",
+      "hospital"
     ],
-    "sg:website":"http://www.cedarvethospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922995,
-        102084347,
-        85811045
+    "sg:website": "http://www.cedarvethospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922995,
+      102084347,
+      85811045
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6vMG4nDYgS5FITkClrDiNh_36.765201_-119.754539@1303263299"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab9aac50cb103c262b11a4f71d8",
+      "sg:id": "SG_6vMG4nDYgS5FITkClrDiNh_36.765201_-119.754539@1303263299"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d68edd0129126231fb749186d59fa0e3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85811045,
-            "region_id":85688637,
-            "venue_id":588324485
-        }
+    "wof:country": "US",
+    "wof:created": 1723561669,
+    "wof:geomhash": "d68edd0129126231fb749186d59fa0e3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85811045,
+        "region_id": 85688637,
+        "venue_id": 588324485
+      }
     ],
-    "wof:id":588324485,
-    "wof:lastmodified":1509201991,
-    "wof:name":"Cedar Veterinary Hospital",
-    "wof:parent_id":85811045,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "clinic",
-        "hospital"
+    "wof:id": 588324485,
+    "wof:lastmodified": 1723561669,
+    "wof:name": "Cedar Veterinary Hospital",
+    "wof:parent_id": 85811045,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "clinic",
+      "hospital"
     ]
-},
+  },
   "bbox": [
     -119.754539,
     36.765201,
     -119.754539,
     36.765201
-],
-  "geometry": {"coordinates":[-119.75453899999999,36.765201],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.754539,36.765201],"type":"Point"}
 }

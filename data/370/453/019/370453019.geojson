@@ -2,77 +2,81 @@
   "id": 370453019,
   "type": "Feature",
   "properties": {
-    "addr:full":"2241 S Vermont Avenue Los Angeles CA 90007",
-    "addr:housenumber":"2241",
-    "addr:postcode":"90007",
-    "addr:street":"S Vermont Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.291416,34.035494,-118.291416,34.035494",
-    "geom:latitude":34.035494,
-    "geom:longitude":-118.291416,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2241 S Vermont Avenue",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "2241 S Vermont Avenue Los Angeles CA 90007",
+    "addr:housenumber": "2241",
+    "addr:postcode": "90007",
+    "addr:street": "S Vermont Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.291416,34.035494,-118.291416,34.035494",
+    "geom:latitude": 34.035494,
+    "geom:longitude": -118.291416,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Vermont Auto Center, 2241 S Vermont Ave Los Angeles CA US",
+    "ovtr:similarity": 3.1389989852905273,
+    "sg:address": "2241 S Vermont Avenue",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 730 0255",
-    "sg:postcode":"90007",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "420551237",
-        102191575,
-        1108692435,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 730 0255",
+    "sg:postcode": "90007",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692435,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      420551237
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6UyvZgqLIMUc47CE7tCJmK_34.035494_-118.291416@1303263147"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d608b324103eccd9800d7ebc1",
+      "sg:id": "SG_6UyvZgqLIMUc47CE7tCJmK_34.035494_-118.291416@1303263147"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d503b2a0bdec463dab7d44a5adbe4e6e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692435,
-            "neighbourhood_id":"420551237",
-            "region_id":85688637,
-            "venue_id":370453019
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "d503b2a0bdec463dab7d44a5adbe4e6e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692435,
+        "neighbourhood_id": 420551237,
+        "region_id": 85688637,
+        "venue_id": 370453019
+      }
     ],
-    "wof:id":370453019,
-    "wof:lastmodified":1509200741,
-    "wof:name":"Vermont Auto Center",
-    "wof:parent_id":"420551237",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370453019,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Vermont Auto Center",
+    "wof:parent_id": "420551237",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.291416,
     34.035494,
     -118.291416,
     34.035494
-],
+  ],
   "geometry": {"coordinates":[-118.291416,34.035494],"type":"Point"}
 }

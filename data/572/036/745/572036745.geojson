@@ -2,89 +2,93 @@
   "id": 572036745,
   "type": "Feature",
   "properties": {
-    "addr:full":"248 W Carson St Carson CA 90745",
-    "addr:housenumber":"248",
-    "addr:postcode":"90745",
-    "addr:street":"W Carson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.280998,33.831699,-118.280998,33.831699",
-    "geom:latitude":33.831699,
-    "geom:longitude":-118.280998,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"248 W Carson St",
-    "sg:city":"Carson",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Wholesale",
-            "subcategory":"Wine & Distilled Alcoholic Beverages",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "248 W Carson St Carson CA 90745",
+    "addr:housenumber": "248",
+    "addr:postcode": "90745",
+    "addr:street": "W Carson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.280998,33.831699,-118.280998,33.831699",
+    "geom:latitude": 33.831699,
+    "geom:longitude": -118.280998,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sandy's Liquor, 248 W Carson St Carson CA US",
+    "ovtr:similarity": 2.440916061401367,
+    "sg:address": "248 W Carson St",
+    "sg:city": "Carson",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Wholesale",
+        "subcategory": "Wine \u0026 Distilled Alcoholic Beverages",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 830 0641",
-    "sg:postcode":"90745",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "alcohol",
-        "spirit"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 830 0641",
+    "sg:postcode": "90745",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "alcohol",
+      "spirit"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923683,
-        102086957,
-        85828259
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923683,
+      102086957,
+      85828259
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2tQXuzAvpgrVQKDtWjqJgZ_33.831479_-118.281529@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a560acdc2c2034f639a5dc0929c",
+      "sg:id": "SG_2tQXuzAvpgrVQKDtWjqJgZ_33.831479_-118.281529@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a19b2a58f07a2250b720d1427246b3fe",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923683,
-            "neighbourhood_id":85828259,
-            "region_id":85688637,
-            "venue_id":572036745
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "a19b2a58f07a2250b720d1427246b3fe",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923683,
+        "neighbourhood_id": 85828259,
+        "region_id": 85688637,
+        "venue_id": 572036745
+      }
     ],
-    "wof:id":572036745,
-    "wof:lastmodified":1509201673,
-    "wof:name":"Sandy's Liquor",
-    "wof:parent_id":85828259,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "alcohol",
-        "spirit"
+    "wof:id": 572036745,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Sandy's Liquor",
+    "wof:parent_id": 85828259,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "alcohol",
+      "spirit"
     ]
-},
+  },
   "bbox": [
     -118.280998,
     33.831699,
     -118.280998,
     33.831699
-],
+  ],
   "geometry": {"coordinates":[-118.280998,33.831699],"type":"Point"}
 }

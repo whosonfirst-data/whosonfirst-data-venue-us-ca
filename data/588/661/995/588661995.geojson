@@ -2,83 +2,91 @@
   "id": 588661995,
   "type": "Feature",
   "properties": {
-    "addr:full":"17980 County Road 94B Woodland CA 95695",
-    "addr:housenumber":"17980",
-    "addr:postcode":"95695",
-    "addr:street":"County Road 94B",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.868589,38.677797,-121.868589,38.677797",
-    "geom:latitude":38.677797,
-    "geom:longitude":-121.868589,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"17980 County Road 94B",
-    "sg:city":"Woodland",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Event Space",
-            "type":"Services"
-        },
-        {
-            "category":"Sports & Exercise",
-            "subcategory":"Golf",
-            "type":"Entertainment"
-        }
+    "addr:full": "17980 County Road 94B Woodland CA 95695",
+    "addr:housenumber": "17980",
+    "addr:postcode": "95695",
+    "addr:street": "County Road 94B",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.868589,38.677797,-121.868589,38.677797",
+    "geom:latitude": 38.677797,
+    "geom:longitude": -121.868589,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Yolo Fliers Club, 17980 County Road 94B Woodland CA US",
+    "ovtr:similarity": 1.8517849445343018,
+    "sg:address": "17980 County Road 94B",
+    "sg:city": "Woodland",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Event Space",
+        "type": "Services"
+      },
+      {
+        "category": "Sports \u0026 Exercise",
+        "subcategory": "Golf",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 662 0281",
-    "sg:postcode":"95695",
-    "sg:province":"CA",
-    "sg:tags":[
-        "facility",
-        "hall",
-        "course",
-        "courses-private",
-        "location",
-        "reception",
-        "wedding",
-        "banquet"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 662 0281",
+    "sg:postcode": "95695",
+    "sg:province": "CA",
+    "sg:tags": [
+      "facility",
+      "hall",
+      "course",
+      "courses-private",
+      "location",
+      "reception",
+      "wedding",
+      "banquet"
     ],
-    "sg:website":"http://www.yolofliers.org",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1FsS5Y0aARsyGf56dVrSRy_38.677797_-121.868589@1303263386"
+    "sg:website": "http://www.yolofliers.org",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830680c0c01a03e9190770cd5981",
+      "sg:id": "SG_1FsS5Y0aARsyGf56dVrSRy_38.677797_-121.868589@1303263386"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3c5d8a7533bbbdbe64b0a85c7d27eca8",
-    "wof:hierarchy":[],
-    "wof:id":588661995,
-    "wof:lastmodified":1509202200,
-    "wof:name":"Yolo Fliers Club",
-    "wof:parent_id":85876987,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "facility",
-        "hall",
-        "course",
-        "courses-private",
-        "location",
-        "reception",
-        "wedding",
-        "banquet"
+    "wof:country": "US",
+    "wof:created": 1723561703,
+    "wof:geomhash": "3c5d8a7533bbbdbe64b0a85c7d27eca8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588661995
+      }
+    ],
+    "wof:id": 588661995,
+    "wof:lastmodified": 1723561703,
+    "wof:name": "Yolo Fliers Club",
+    "wof:parent_id": 85876987,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "facility",
+      "hall",
+      "course",
+      "courses-private",
+      "location",
+      "reception",
+      "wedding",
+      "banquet"
     ]
-},
+  },
   "bbox": [
     -121.868589,
     38.677797,
     -121.868589,
     38.677797
-],
+  ],
   "geometry": {"coordinates":[-121.868589,38.677797],"type":"Point"}
 }

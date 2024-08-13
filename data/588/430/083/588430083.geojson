@@ -2,81 +2,85 @@
   "id": 588430083,
   "type": "Feature",
   "properties": {
-    "addr:full":"4242 S El Camino Real San Mateo CA 94403",
-    "addr:housenumber":"4242",
-    "addr:postcode":"94403",
-    "addr:street":"S El Camino Real",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.288938,37.529782,-122.288938,37.529782",
-    "geom:latitude":37.529782,
-    "geom:longitude":-122.288938,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4242 S El Camino Real",
-    "sg:city":"San Mateo",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4242 S El Camino Real San Mateo CA 94403",
+    "addr:housenumber": "4242",
+    "addr:postcode": "94403",
+    "addr:street": "S El Camino Real",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.288938,37.529782,-122.288938,37.529782",
+    "geom:latitude": 37.529782,
+    "geom:longitude": -122.288938,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "CVS Pharmacy, 4242 S El Camino Real San Mateo CA US",
+    "ovtr:similarity": 3.7438530921936035,
+    "sg:address": "4242 S El Camino Real",
+    "sg:city": "San Mateo",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 573 5521",
-    "sg:postcode":"94403",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 573 5521",
+    "sg:postcode": "94403",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922431,
-        102085387,
-        85887867
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922431,
+      102085387,
+      85887867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_74c3P3SDSKfoPmZVr3Psk6_37.529782_-122.288938@1303263326"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f283429e30bd9303198d86ed9ad5fd",
+      "sg:id": "SG_74c3P3SDSKfoPmZVr3Psk6_37.529782_-122.288938@1303263326"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6bbf4113404b50ad2cb8668abca69be7",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922431,
-            "neighbourhood_id":85887867,
-            "region_id":85688637,
-            "venue_id":588430083
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "6bbf4113404b50ad2cb8668abca69be7",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922431,
+        "neighbourhood_id": 85887867,
+        "region_id": 85688637,
+        "venue_id": 588430083
+      }
     ],
-    "wof:id":588430083,
-    "wof:lastmodified":1509202058,
-    "wof:name":"CVS/Pharmacy",
-    "wof:parent_id":85887867,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 588430083,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "CVS/Pharmacy",
+    "wof:parent_id": 85887867,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -122.288938,
     37.529782,
     -122.288938,
     37.529782
-],
+  ],
   "geometry": {"coordinates":[-122.288938,37.529782],"type":"Point"}
 }

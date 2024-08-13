@@ -2,88 +2,92 @@
   "id": 572058689,
   "type": "Feature",
   "properties": {
-    "addr:full":"2240 Northrop Ave Sacramento CA 95825",
-    "addr:housenumber":"2240",
-    "addr:postcode":"95825",
-    "addr:street":"Northrop Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.412666,38.581612,-121.412666,38.581612",
-    "geom:latitude":38.581612,
-    "geom:longitude":-121.412666,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2240 Northrop Ave",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Nursing And Care Facility",
-            "type":"Services"
-        }
+    "addr:full": "2240 Northrop Ave Sacramento CA 95825",
+    "addr:housenumber": "2240",
+    "addr:postcode": "95825",
+    "addr:street": "Northrop Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.412666,38.581612,-121.412666,38.581612",
+    "geom:latitude": 38.581612,
+    "geom:longitude": -121.412666,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Woodside Healthcare Center, 2240 Northrop Ave Sacramento CA US",
+    "ovtr:similarity": 2.034264087677002,
+    "sg:address": "2240 Northrop Ave",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Nursing And Care Facility",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 927 9300",
-    "sg:postcode":"95825",
-    "sg:province":"CA",
-    "sg:tags":[
-        "home",
-        "medical",
-        "skilled",
-        "clinic",
-        "convalescent"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 927 9300",
+    "sg:postcode": "95825",
+    "sg:province": "CA",
+    "sg:tags": [
+      "home",
+      "medical",
+      "skilled",
+      "clinic",
+      "convalescent"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85926841,
-        102082889,
-        85885607
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85926841,
+      102082889,
+      85885607
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3r4vuIfVckwnyuINbsweSc_38.581702_-121.413106@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2832b12c8b86c035dae79b6fe8ac9",
+      "sg:id": "SG_3r4vuIfVckwnyuINbsweSc_38.581702_-121.413106@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8a597f8ef4a719e49209a932c536c673",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85926841,
-            "neighbourhood_id":85885607,
-            "region_id":85688637,
-            "venue_id":572058689
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "8a597f8ef4a719e49209a932c536c673",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85926841,
+        "neighbourhood_id": 85885607,
+        "region_id": 85688637,
+        "venue_id": 572058689
+      }
     ],
-    "wof:id":572058689,
-    "wof:lastmodified":1509201679,
-    "wof:name":"Woodside Healthcare Center",
-    "wof:parent_id":85885607,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "home",
-        "medical",
-        "skilled",
-        "clinic",
-        "convalescent"
+    "wof:id": 572058689,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Woodside Healthcare Center",
+    "wof:parent_id": 85885607,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "home",
+      "medical",
+      "skilled",
+      "clinic",
+      "convalescent"
     ]
-},
+  },
   "bbox": [
     -121.412666,
     38.581612,
     -121.412666,
     38.581612
-],
+  ],
   "geometry": {"coordinates":[-121.412666,38.581612],"type":"Point"}
 }

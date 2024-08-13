@@ -2,89 +2,93 @@
   "id": 588412335,
   "type": "Feature",
   "properties": {
-    "addr:full":"250 23rd Avenue San Francisco CA 94121",
-    "addr:housenumber":"250",
-    "addr:postcode":"94121",
-    "addr:street":"23Rd Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.483002,37.783199,-122.483002,37.783199",
-    "geom:latitude":37.783199,
-    "geom:longitude":-122.483002,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"250 23rd Avenue",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "250 23rd Avenue San Francisco CA 94121",
+    "addr:housenumber": "250",
+    "addr:postcode": "94121",
+    "addr:street": "23Rd Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.483002,37.783199,-122.483002,37.783199",
+    "geom:latitude": 37.783199,
+    "geom:longitude": -122.483002,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Alamo Elementary School, 250 23rd Ave San Francisco CA US",
+    "ovtr:similarity": 2.544156074523926,
+    "sg:address": "250 23rd Avenue",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 750 8456",
-    "sg:postcode":"94121",
-    "sg:province":"CA",
-    "sg:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 750 8456",
+    "sg:postcode": "94121",
+    "sg:province": "CA",
+    "sg:tags": [
+      "high",
+      "middle",
+      "elementary"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        1108831999,
-        85865923,
-        102191575,
-        1108830805,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      1108831999,
+      85865923,
+      102191575,
+      1108830805,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:way":162591414,
-        "sg:id":"SG_1Babn0mQvolGx60qzh5FYn_37.783199_-122.483002@1303263321"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:way": 162591414,
+      "ovtr:id": "08f283095b4e4cdb031c1488c59af835",
+      "sg:id": "SG_1Babn0mQvolGx60qzh5FYn_37.783199_-122.483002@1303263321"
     },
-    "wof:country":"US",
-    "wof:geomhash":"061ff8c3b952b79f6f616072cf10d723",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "macrohood_id":1108830805,
-            "microhood_id":1108831999,
-            "neighbourhood_id":85865923,
-            "region_id":85688637,
-            "venue_id":588412335
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "061ff8c3b952b79f6f616072cf10d723",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "macrohood_id": 1108830805,
+        "microhood_id": 1108831999,
+        "neighbourhood_id": 85865923,
+        "region_id": 85688637,
+        "venue_id": 588412335
+      }
     ],
-    "wof:id":588412335,
-    "wof:lastmodified":1510944167,
-    "wof:name":"Alamo Elementary School",
-    "wof:parent_id":1108831999,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "high",
-        "middle",
-        "elementary"
+    "wof:id": 588412335,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Alamo Elementary School",
+    "wof:parent_id": 1108831999,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "high",
+      "middle",
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -122.483002,
     37.783199,
     -122.483002,
     37.783199
-],
+  ],
   "geometry": {"coordinates":[-122.483002,37.783199],"type":"Point"}
 }

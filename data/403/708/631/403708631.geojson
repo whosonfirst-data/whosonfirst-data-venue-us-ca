@@ -2,74 +2,78 @@
   "id": 403708631,
   "type": "Feature",
   "properties": {
-    "addr:full":"510 N Montebello Blvd Montebello CA 90640",
-    "addr:housenumber":"510",
-    "addr:postcode":"90640",
-    "addr:street":"N Montebello Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.106003,34.017399,-118.106003,34.017399",
-    "geom:latitude":34.017399,
-    "geom:longitude":-118.106003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"510 N Montebello Blvd",
-    "sg:city":"Montebello",
-    "sg:classifiers":[
-        {
-            "category":"Personal",
-            "subcategory":"Nail Salon",
-            "type":"Services"
-        }
+    "addr:full": "510 N Montebello Blvd Montebello CA 90640",
+    "addr:housenumber": "510",
+    "addr:postcode": "90640",
+    "addr:street": "N Montebello Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.106003,34.017399,-118.106003,34.017399",
+    "geom:latitude": 34.017399,
+    "geom:longitude": -118.106003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Super Spa Nails, 510 N Montebello Blvd Montebello CA US",
+    "ovtr:similarity": 1.7812299728393555,
+    "sg:address": "510 N Montebello Blvd",
+    "sg:city": "Montebello",
+    "sg:classifiers": [
+      {
+        "category": "Personal",
+        "subcategory": "Nail Salon",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 888 1289",
-    "sg:postcode":"90640",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923501,
-        102086957,
-        85886511
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 888 1289",
+    "sg:postcode": "90640",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923501,
+      102086957,
+      85886511
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6sQ55PgxTN7Zan4RK8YKuO_34.017399_-118.106003@1303263190"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d00862ade0349217ac26cd426",
+      "sg:id": "SG_6sQ55PgxTN7Zan4RK8YKuO_34.017399_-118.106003@1303263190"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4bedbcad29fb668ada45ee39c430966a",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923501,
-            "neighbourhood_id":85886511,
-            "region_id":85688637,
-            "venue_id":403708631
-        }
+    "wof:country": "US",
+    "wof:created": 1723561679,
+    "wof:geomhash": "4bedbcad29fb668ada45ee39c430966a",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923501,
+        "neighbourhood_id": 85886511,
+        "region_id": 85688637,
+        "venue_id": 403708631
+      }
     ],
-    "wof:id":403708631,
-    "wof:lastmodified":1509201132,
-    "wof:name":"Super Spa Nails",
-    "wof:parent_id":85886511,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403708631,
+    "wof:lastmodified": 1723561679,
+    "wof:name": "Super Spa Nails",
+    "wof:parent_id": 85886511,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.106003,
     34.017399,
     -118.106003,
     34.017399
-],
+  ],
   "geometry": {"coordinates":[-118.106003,34.017399],"type":"Point"}
 }

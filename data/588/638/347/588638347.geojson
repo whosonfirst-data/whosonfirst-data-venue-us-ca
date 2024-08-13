@@ -2,87 +2,91 @@
   "id": 588638347,
   "type": "Feature",
   "properties": {
-    "addr:full":"1910 California St Eureka CA 95501",
-    "addr:housenumber":"1910",
-    "addr:postcode":"95501",
-    "addr:street":"California St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-124.171944,40.790545,-124.171944,40.790545",
-    "geom:latitude":40.790545,
-    "geom:longitude":-124.171944,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1910 California St",
-    "sg:city":"Eureka",
-    "sg:classifiers":[
-        {
-            "category":"Community Center",
-            "subcategory":"Senior",
-            "type":"Public Place"
-        },
-        {
-            "category":"Social Services",
-            "subcategory":"Adult Care",
-            "type":"Services"
-        }
+    "addr:full": "1910 California St Eureka CA 95501",
+    "addr:housenumber": "1910",
+    "addr:postcode": "95501",
+    "addr:street": "California St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-124.171944,40.790545,-124.171944,40.790545",
+    "geom:latitude": 40.790545,
+    "geom:longitude": -124.171944,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Humboldt Senior Resource Center, 1910 California St Eureka CA US",
+    "ovtr:similarity": 3.9235498905181885,
+    "sg:address": "1910 California St",
+    "sg:city": "Eureka",
+    "sg:classifiers": [
+      {
+        "category": "Community Center",
+        "subcategory": "Senior",
+        "type": "Public Place"
+      },
+      {
+        "category": "Social Services",
+        "subcategory": "Adult Care",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 443 9747",
-    "sg:postcode":"95501",
-    "sg:province":"CA",
-    "sg:tags":[
-        "counseling",
-        "citizen"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 443 9747",
+    "sg:postcode": "95501",
+    "sg:province": "CA",
+    "sg:tags": [
+      "counseling",
+      "citizen"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922749,
-        102087587,
-        85804957
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922749,
+      102087587,
+      85804957
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5DxyOZXoc0OiKkiAKC08yb_40.790545_-124.171944@1303263380"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2802aea972392034a663026e80757",
+      "sg:id": "SG_5DxyOZXoc0OiKkiAKC08yb_40.790545_-124.171944@1303263380"
     },
-    "wof:country":"US",
-    "wof:geomhash":"949a399e2dfcbb50870d147f213223ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087587,
-            "locality_id":85922749,
-            "neighbourhood_id":85804957,
-            "region_id":85688637,
-            "venue_id":588638347
-        }
+    "wof:country": "US",
+    "wof:created": 1723561678,
+    "wof:geomhash": "949a399e2dfcbb50870d147f213223ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087587,
+        "locality_id": 85922749,
+        "neighbourhood_id": 85804957,
+        "region_id": 85688637,
+        "venue_id": 588638347
+      }
     ],
-    "wof:id":588638347,
-    "wof:lastmodified":1509202185,
-    "wof:name":"Senior Humboldt Resource Center Inc",
-    "wof:parent_id":85804957,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "counseling",
-        "citizen"
+    "wof:id": 588638347,
+    "wof:lastmodified": 1723561678,
+    "wof:name": "Senior Humboldt Resource Center Inc",
+    "wof:parent_id": 85804957,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "counseling",
+      "citizen"
     ]
-},
+  },
   "bbox": [
     -124.171944,
     40.790545,
     -124.171944,
     40.790545
-],
+  ],
   "geometry": {"coordinates":[-124.171944,40.790545],"type":"Point"}
 }

@@ -2,78 +2,82 @@
   "id": 555233243,
   "type": "Feature",
   "properties": {
-    "addr:full":"2880 Jefferson St Napa CA 94558",
-    "addr:housenumber":"2880",
-    "addr:postcode":"94558",
-    "addr:street":"Jefferson St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.297612,38.315092,-122.297612,38.315092",
-    "geom:latitude":38.315092,
-    "geom:longitude":-122.297612,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2880 Jefferson St",
-    "sg:city":"Napa",
-    "sg:classifiers":[
-        {
-            "category":"Home & Garden",
-            "subcategory":"Household Appliances",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2880 Jefferson St Napa CA 94558",
+    "addr:housenumber": "2880",
+    "addr:postcode": "94558",
+    "addr:street": "Jefferson St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.297612,38.315092,-122.297612,38.315092",
+    "geom:latitude": 38.315092,
+    "geom:longitude": -122.297612,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Napa Valley Vacuum \u0026 Sewing, 2880 Jefferson St Napa CA US",
+    "ovtr:similarity": 3.5861880779266357,
+    "sg:address": "2880 Jefferson St",
+    "sg:city": "Napa",
+    "sg:classifiers": [
+      {
+        "category": "Home \u0026 Garden",
+        "subcategory": "Household Appliances",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 224 5040",
-    "sg:postcode":"94558",
-    "sg:province":"CA",
-    "sg:tags":[
-        "cleaners",
-        "vacuum"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 224 5040",
+    "sg:postcode": "94558",
+    "sg:province": "CA",
+    "sg:tags": [
+      "cleaners",
+      "vacuum"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102085383,
-        85633793,
-        85688637,
-        85886543
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102085383,
+      85633793,
+      85688637,
+      85886543
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_61F55KVovMDqi8k5yvNy6q_38.315092_-122.297612@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28300edc554f603e1b3ce4b6bfbf0",
+      "sg:id": "SG_61F55KVovMDqi8k5yvNy6q_38.315092_-122.297612@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"45d9e5030e00f5dd0679464018debca2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102085383,
-            "neighbourhood_id":85886543,
-            "region_id":85688637,
-            "venue_id":555233243
-        }
+    "wof:country": "US",
+    "wof:created": 1723561666,
+    "wof:geomhash": "45d9e5030e00f5dd0679464018debca2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102085383,
+        "neighbourhood_id": 85886543,
+        "region_id": 85688637,
+        "venue_id": 555233243
+      }
     ],
-    "wof:id":555233243,
-    "wof:lastmodified":1509201321,
-    "wof:name":"Valley Vacuum & Sewing",
-    "wof:parent_id":85886543,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "cleaners",
-        "vacuum"
+    "wof:id": 555233243,
+    "wof:lastmodified": 1723561666,
+    "wof:name": "Valley Vacuum \u0026 Sewing",
+    "wof:parent_id": 85886543,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "cleaners",
+      "vacuum"
     ]
-},
+  },
   "bbox": [
     -122.297612,
     38.315092,
     -122.297612,
     38.315092
-],
+  ],
   "geometry": {"coordinates":[-122.297612,38.315092],"type":"Point"}
 }

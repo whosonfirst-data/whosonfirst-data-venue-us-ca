@@ -2,81 +2,85 @@
   "id": 572095595,
   "type": "Feature",
   "properties": {
-    "addr:full":"8407 S Fir Ave Los Angeles CA 90001",
-    "addr:housenumber":"8407",
-    "addr:postcode":"90001",
-    "addr:street":"S Fir Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.237,33.961899,-118.237,33.961899",
-    "geom:latitude":33.961899,
-    "geom:longitude":-118.237,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"8407 S Fir Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "8407 S Fir Ave Los Angeles CA 90001",
+    "addr:housenumber": "8407",
+    "addr:postcode": "90001",
+    "addr:street": "S Fir Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.237000,33.961899,-118.237000,33.961899",
+    "geom:latitude": 33.961899,
+    "geom:longitude": -118.237,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Graham Elementary School, 8407 S Fir Ave Los Angeles CA US",
+    "ovtr:similarity": 2.747037887573242,
+    "sg:address": "8407 S Fir Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 583 1263",
-    "sg:postcode":"90001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 583 1263",
+    "sg:postcode": "90001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "sg:website":"www.lausd.k12.ca.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85928335,
-        102086957,
-        85822427
+    "sg:website": "www.lausd.k12.ca.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85928335,
+      102086957,
+      85822427
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5duh2YePcUb9aqh2I9sBd3_33.961621_-118.237447@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a56c26a996603dafcd499e53066",
+      "sg:id": "SG_5duh2YePcUb9aqh2I9sBd3_33.961621_-118.237447@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bf042c3ec4e609790ac962ab6251d4c2",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928335,
-            "neighbourhood_id":85822427,
-            "region_id":85688637,
-            "venue_id":572095595
-        }
+    "wof:country": "US",
+    "wof:created": 1723561664,
+    "wof:geomhash": "bf042c3ec4e609790ac962ab6251d4c2",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928335,
+        "neighbourhood_id": 85822427,
+        "region_id": 85688637,
+        "venue_id": 572095595
+      }
     ],
-    "wof:id":572095595,
-    "wof:lastmodified":1509201692,
-    "wof:name":"Graham Elementary School",
-    "wof:parent_id":85822427,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:id": 572095595,
+    "wof:lastmodified": 1723561664,
+    "wof:name": "Graham Elementary School",
+    "wof:parent_id": 85822427,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -118.237,
     33.961899,
     -118.237,
     33.961899
-],
-  "geometry": {"coordinates":[-118.23699999999999,33.961899],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.237,33.961899],"type":"Point"}
 }

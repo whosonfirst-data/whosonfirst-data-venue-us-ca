@@ -2,88 +2,92 @@
   "id": 588342251,
   "type": "Feature",
   "properties": {
-    "addr:full":"1129 California Dr Burlingame CA 94010",
-    "addr:housenumber":"1129",
-    "addr:postcode":"94010",
-    "addr:street":"California Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.362146,37.586897,-122.362146,37.586897",
-    "geom:latitude":37.586897,
-    "geom:longitude":-122.362146,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1129 California Dr",
-    "sg:city":"Burlingame",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        },
-        {
-            "category":"Government",
-            "subcategory":"Office",
-            "type":"Public Place"
-        }
+    "addr:full": "1129 California Dr Burlingame CA 94010",
+    "addr:housenumber": "1129",
+    "addr:postcode": "94010",
+    "addr:street": "California Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.362146,37.586897,-122.362146,37.586897",
+    "geom:latitude": 37.586897,
+    "geom:longitude": -122.362146,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "On Track Automotive, 1101 California Dr Burlingame CA US",
+    "ovtr:similarity": 2.264552116394043,
+    "sg:address": "1129 California Dr",
+    "sg:city": "Burlingame",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      },
+      {
+        "category": "Government",
+        "subcategory": "Office",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 343 4594",
-    "sg:postcode":"94010",
-    "sg:province":"CA",
-    "sg:tags":[
-        "smog",
-        "check"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 343 4594",
+    "sg:postcode": "94010",
+    "sg:province": "CA",
+    "sg:tags": [
+      "smog",
+      "check"
     ],
-    "sg:website":"www.ontrackautomotive.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922537,
-        102085387,
-        85885681
+    "sg:website": "www.ontrackautomotive.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922537,
+      102085387,
+      85885681
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4wI6NGVh2lf2s8Ozo7xVE2_37.586897_-122.362146@1303263304"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f2830923904b92032e495d251f9244",
+      "sg:id": "SG_4wI6NGVh2lf2s8Ozo7xVE2_37.586897_-122.362146@1303263304"
     },
-    "wof:country":"US",
-    "wof:geomhash":"39815e270368943c630b3b8a38e7fbd3",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922537,
-            "neighbourhood_id":85885681,
-            "region_id":85688637,
-            "venue_id":588342251
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "39815e270368943c630b3b8a38e7fbd3",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922537,
+        "neighbourhood_id": 85885681,
+        "region_id": 85688637,
+        "venue_id": 588342251
+      }
     ],
-    "wof:id":588342251,
-    "wof:lastmodified":1509202003,
-    "wof:name":"On Track Automotive",
-    "wof:parent_id":85885681,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "smog",
-        "check"
+    "wof:id": 588342251,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "On Track Automotive",
+    "wof:parent_id": 85885681,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "smog",
+      "check"
     ]
-},
+  },
   "bbox": [
     -122.362146,
     37.586897,
     -122.362146,
     37.586897
-],
+  ],
   "geometry": {"coordinates":[-122.362146,37.586897],"type":"Point"}
 }

@@ -2,65 +2,73 @@
   "id": 572206065,
   "type": "Feature",
   "properties": {
-    "addr:full":"40020 Highway 49 Oakhurst CA 93644",
-    "addr:housenumber":"40020",
-    "addr:postcode":"93644",
-    "addr:street":"Highway 49",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.656886,37.331493,-119.656886,37.331493",
-    "geom:latitude":37.331493,
-    "geom:longitude":-119.656886,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"40020 Highway 49",
-    "sg:city":"Oakhurst",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "40020 Highway 49 Oakhurst CA 93644",
+    "addr:housenumber": "40020",
+    "addr:postcode": "93644",
+    "addr:street": "Highway 49",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.656886,37.331493,-119.656886,37.331493",
+    "geom:latitude": 37.331493,
+    "geom:longitude": -119.656886,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Taco Bell, 40020 Highway 49 Oakhurst CA US",
+    "ovtr:similarity": 2.7855639457702637,
+    "sg:address": "40020 Highway 49",
+    "sg:city": "Oakhurst",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/oakhurst-north-fork/214189-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 683 8226",
-    "sg:postcode":"93644",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ca/oakhurst-north-fork/214189-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 683 8226",
+    "sg:postcode": "93644",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3zFoN5VROAGdekpbqPajwr_37.331912_-119.657680@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab0a915b2f203d402ea49f7ab27",
+      "sg:id": "SG_3zFoN5VROAGdekpbqPajwr_37.331912_-119.657680@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7da326667c42ba3f5c197f62220c0a50",
-    "wof:hierarchy":[],
-    "wof:id":572206065,
-    "wof:lastmodified":1511321215,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1723561694,
+    "wof:geomhash": "7da326667c42ba3f5c197f62220c0a50",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572206065
+      }
+    ],
+    "wof:id": 572206065,
+    "wof:lastmodified": 1723561694,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -119.656886,
     37.331493,
     -119.656886,
     37.331493
-],
+  ],
   "geometry": {"coordinates":[-119.656886,37.331493],"type":"Point"}
 }

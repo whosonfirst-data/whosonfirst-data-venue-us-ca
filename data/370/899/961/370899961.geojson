@@ -2,78 +2,82 @@
   "id": 370899961,
   "type": "Feature",
   "properties": {
-    "addr:full":"151 S Avenue 24 Los Angeles CA 90031",
-    "addr:housenumber":"151;24",
-    "addr:postcode":"90031",
-    "addr:street":"S Avenue",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.217003,34.074299,-118.217003,34.074299",
-    "geom:latitude":34.074299,
-    "geom:longitude":-118.217003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"151 S Avenue 24",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "151 S Avenue 24 Los Angeles CA 90031",
+    "addr:housenumber": "151;24",
+    "addr:postcode": "90031",
+    "addr:street": "S Avenue",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.217003,34.074299,-118.217003,34.074299",
+    "geom:latitude": 34.074299,
+    "geom:longitude": -118.217003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Victory Auto Service, 151 S Avenue 24 Los Angeles CA US",
+    "ovtr:similarity": 1.9478410482406616,
+    "sg:address": "151 S Avenue 24",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 223 5555",
-    "sg:postcode":"90031",
-    "sg:province":"CA",
-    "sg:website":"www.victoryautoservice.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85830641",
-        102191575,
-        1108692437,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 223 5555",
+    "sg:postcode": "90031",
+    "sg:province": "CA",
+    "sg:website": "www.victoryautoservice.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692437,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85830641
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2A2XvoDIfDmqPtRDkxdNDe_34.074299_-118.217003@1303263158"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d73c440de03f5f5d88c12e566",
+      "sg:id": "SG_2A2XvoDIfDmqPtRDkxdNDe_34.074299_-118.217003@1303263158"
     },
-    "wof:country":"US",
-    "wof:geomhash":"c723cfbf29f3b3764a2c972d739e2431",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692437,
-            "neighbourhood_id":"85830641",
-            "region_id":85688637,
-            "venue_id":370899961
-        }
+    "wof:country": "US",
+    "wof:created": 1723561660,
+    "wof:geomhash": "c723cfbf29f3b3764a2c972d739e2431",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692437,
+        "neighbourhood_id": 85830641,
+        "region_id": 85688637,
+        "venue_id": 370899961
+      }
     ],
-    "wof:id":370899961,
-    "wof:lastmodified":1509200845,
-    "wof:name":"Victory Auto Service",
-    "wof:parent_id":"85830641",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370899961,
+    "wof:lastmodified": 1723561660,
+    "wof:name": "Victory Auto Service",
+    "wof:parent_id": "85830641",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.217003,
     34.074299,
     -118.217003,
     34.074299
-],
-  "geometry": {"coordinates":[-118.21700300000001,34.074299],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.217003,34.074299],"type":"Point"}
 }

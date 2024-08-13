@@ -2,81 +2,85 @@
   "id": 588455579,
   "type": "Feature",
   "properties": {
-    "addr:full":"25800 Carlos Bee Blvd, Hayward CA 94542",
-    "addr:housenumber":"25800",
-    "addr:postcode":"94542",
-    "addr:street":"Carlos Bee Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.05589,37.65845,-122.05589,37.65845",
-    "geom:latitude":37.65845,
-    "geom:longitude":-122.05589,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"25800 Carlos Bee Blvd,",
-    "sg:city":"Hayward",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"University",
-            "type":"Public Place"
-        }
+    "addr:full": "25800 Carlos Bee Blvd, Hayward CA 94542",
+    "addr:housenumber": "25800",
+    "addr:postcode": "94542",
+    "addr:street": "Carlos Bee Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.055890,37.658450,-122.055890,37.658450",
+    "geom:latitude": 37.65845,
+    "geom:longitude": -122.05589,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "California State University, East Bay, 25800 Carlos Bee Blvd Hayward CA US",
+    "ovtr:similarity": 3.0564069747924805,
+    "sg:address": "25800 Carlos Bee Blvd,",
+    "sg:city": "Hayward",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "University",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 885 3000",
-    "sg:postcode":"94542",
-    "sg:province":"CA",
-    "sg:tags":[
-        "college"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 885 3000",
+    "sg:postcode": "94542",
+    "sg:province": "CA",
+    "sg:tags": [
+      "college"
     ],
-    "sg:website":"www.csueastbay.edu",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921895,
-        102086959,
-        85878053
+    "sg:website": "www.csueastbay.edu",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921895,
+      102086959,
+      85878053
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2wpUQ1Y5B6bEjz1OUMluUg_37.658450_-122.055890@1303263332"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28346ebc29d8603c7c4bb2c8c5850",
+      "sg:id": "SG_2wpUQ1Y5B6bEjz1OUMluUg_37.658450_-122.055890@1303263332"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5b5fb6de216a89de75b05442ce4d1b65",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921895,
-            "neighbourhood_id":85878053,
-            "region_id":85688637,
-            "venue_id":588455579
-        }
+    "wof:country": "US",
+    "wof:created": 1723561679,
+    "wof:geomhash": "5b5fb6de216a89de75b05442ce4d1b65",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921895,
+        "neighbourhood_id": 85878053,
+        "region_id": 85688637,
+        "venue_id": 588455579
+      }
     ],
-    "wof:id":588455579,
-    "wof:lastmodified":1509202073,
-    "wof:name":"California State University East Bay",
-    "wof:parent_id":85878053,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "college"
+    "wof:id": 588455579,
+    "wof:lastmodified": 1723561679,
+    "wof:name": "California State University East Bay",
+    "wof:parent_id": 85878053,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "college"
     ]
-},
+  },
   "bbox": [
     -122.05589,
     37.65845,
     -122.05589,
     37.65845
-],
-  "geometry": {"coordinates":[-122.05589000000001,37.65845],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.05589,37.65845],"type":"Point"}
 }

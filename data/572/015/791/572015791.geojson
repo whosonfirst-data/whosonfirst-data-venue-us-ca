@@ -2,80 +2,84 @@
   "id": 572015791,
   "type": "Feature",
   "properties": {
-    "addr:full":"9231 Valley Blvd Rosemead CA 91770",
-    "addr:housenumber":"9231",
-    "addr:postcode":"91770",
-    "addr:street":"Valley Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.069,34.0811,-118.069,34.0811",
-    "geom:latitude":34.0811,
-    "geom:longitude":-118.069,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9231 Valley Blvd",
-    "sg:city":"Rosemead",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "9231 Valley Blvd Rosemead CA 91770",
+    "addr:housenumber": "9231",
+    "addr:postcode": "91770",
+    "addr:street": "Valley Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.069000,34.081100,-118.069000,34.081100",
+    "geom:latitude": 34.0811,
+    "geom:longitude": -118.069,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Tony's Auto Services, 9231 Valley Blvd Rosemead CA US",
+    "ovtr:similarity": 3.6054248809814453,
+    "sg:address": "9231 Valley Blvd",
+    "sg:city": "Rosemead",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 286 6322",
-    "sg:postcode":"91770",
-    "sg:province":"CA",
-    "sg:tags":[
-        "transmission"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 286 6322",
+    "sg:postcode": "91770",
+    "sg:province": "CA",
+    "sg:tags": [
+      "transmission"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923839,
-        102086957,
-        85850033
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923839,
+      102086957,
+      85850033
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1YoiaHT84XkeuNahyeNDDz_34.081081_-118.068458@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d18cc198d03d93ac539921558",
+      "sg:id": "SG_1YoiaHT84XkeuNahyeNDDz_34.081081_-118.068458@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e79d5b33c8b81899521717ffc8f2799b",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923839,
-            "neighbourhood_id":85850033,
-            "region_id":85688637,
-            "venue_id":572015791
-        }
+    "wof:country": "US",
+    "wof:created": 1723561659,
+    "wof:geomhash": "e79d5b33c8b81899521717ffc8f2799b",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923839,
+        "neighbourhood_id": 85850033,
+        "region_id": 85688637,
+        "venue_id": 572015791
+      }
     ],
-    "wof:id":572015791,
-    "wof:lastmodified":1509201665,
-    "wof:name":"Tony's Auto Service Corp",
-    "wof:parent_id":85850033,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "transmission"
+    "wof:id": 572015791,
+    "wof:lastmodified": 1723561659,
+    "wof:name": "Tony's Auto Service Corp",
+    "wof:parent_id": 85850033,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "transmission"
     ]
-},
+  },
   "bbox": [
     -118.069,
     34.0811,
     -118.069,
     34.0811
-],
+  ],
   "geometry": {"coordinates":[-118.069,34.0811],"type":"Point"}
 }

@@ -2,81 +2,85 @@
   "id": 336959593,
   "type": "Feature",
   "properties": {
-    "addr:full":"16028 Main St Hesperia CA 92345",
-    "addr:housenumber":"16028",
-    "addr:postcode":"92345",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.312915,34.423305,-117.312915,34.423305",
-    "geom:latitude":34.423305,
-    "geom:longitude":-117.312915,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"16028 Main St",
-    "sg:city":"Hesperia",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Car Wash",
-            "type":"Services"
-        }
+    "addr:full": "16028 Main St Hesperia CA 92345",
+    "addr:housenumber": "16028",
+    "addr:postcode": "92345",
+    "addr:street": "Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.312915,34.423305,-117.312915,34.423305",
+    "geom:latitude": 34.423305,
+    "geom:longitude": -117.312915,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "E Z Coin Car Wash, 16002 Main St Hesperia CA US",
+    "ovtr:similarity": 2.014636993408203,
+    "sg:address": "16028 Main St",
+    "sg:city": "Hesperia",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Car Wash",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 947 9801",
-    "sg:postcode":"92345",
-    "sg:province":"CA",
-    "sg:tags":[
-        "polishing",
-        "washing"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 947 9801",
+    "sg:postcode": "92345",
+    "sg:province": "CA",
+    "sg:tags": [
+      "polishing",
+      "washing"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923967,
-        102085395,
-        85867387
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923967,
+      102085395,
+      85867387
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7E1VI70nnxyQS06gUP5bl0_34.423305_-117.312915@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a066c4e6892039af64e7142c933",
+      "sg:id": "SG_7E1VI70nnxyQS06gUP5bl0_34.423305_-117.312915@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"dc658b0b8faa0ebe357aca6df980d021",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102085395,
-            "locality_id":85923967,
-            "neighbourhood_id":85867387,
-            "region_id":85688637,
-            "venue_id":336959593
-        }
+    "wof:country": "US",
+    "wof:created": 1723561689,
+    "wof:geomhash": "dc658b0b8faa0ebe357aca6df980d021",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102085395,
+        "locality_id": 85923967,
+        "neighbourhood_id": 85867387,
+        "region_id": 85688637,
+        "venue_id": 336959593
+      }
     ],
-    "wof:id":336959593,
-    "wof:lastmodified":1509200532,
-    "wof:name":"E Z Coin Car Wash",
-    "wof:parent_id":85867387,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "polishing",
-        "washing"
+    "wof:id": 336959593,
+    "wof:lastmodified": 1723561689,
+    "wof:name": "E Z Coin Car Wash",
+    "wof:parent_id": 85867387,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "polishing",
+      "washing"
     ]
-},
+  },
   "bbox": [
     -117.312915,
     34.423305,
     -117.312915,
     34.423305
-],
+  ],
   "geometry": {"coordinates":[-117.312915,34.423305],"type":"Point"}
 }

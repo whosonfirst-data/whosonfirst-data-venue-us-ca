@@ -2,65 +2,73 @@
   "id": 555105347,
   "type": "Feature",
   "properties": {
-    "addr:full":"844 Bridge St Colusa CA 95932",
-    "addr:housenumber":"844",
-    "addr:postcode":"95932",
-    "addr:street":"Bridge St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.003467,39.206725,-122.003467,39.206725",
-    "geom:latitude":39.206725,
-    "geom:longitude":-122.003467,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"844 Bridge St",
-    "sg:city":"Colusa",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "844 Bridge St Colusa CA 95932",
+    "addr:housenumber": "844",
+    "addr:postcode": "95932",
+    "addr:street": "Bridge St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.003467,39.206725,-122.003467,39.206725",
+    "geom:latitude": 39.206725,
+    "geom:longitude": -122.003467,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Colusa Physical Therapy, 844 Bridge St Colusa CA US",
+    "ovtr:similarity": 2.2919249534606934,
+    "sg:address": "844 Bridge St",
+    "sg:city": "Colusa",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 458 7770",
-    "sg:postcode":"95932",
-    "sg:province":"CA",
-    "sg:tags":[
-        "therapist",
-        "physical"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 458 7770",
+    "sg:postcode": "95932",
+    "sg:province": "CA",
+    "sg:tags": [
+      "therapist",
+      "physical"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2TXb7RZ2eK99UY7H6z2Vzy_39.206725_-122.003467@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f28331941100d803a64b81f2ee7244",
+      "sg:id": "SG_2TXb7RZ2eK99UY7H6z2Vzy_39.206725_-122.003467@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"da0988d02f44bcfb3bddb119cd630941",
-    "wof:hierarchy":[],
-    "wof:id":555105347,
-    "wof:lastmodified":1509201277,
-    "wof:name":"Colusa Physical Therapy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "therapist",
-        "physical"
+    "wof:country": "US",
+    "wof:created": 1723561696,
+    "wof:geomhash": "da0988d02f44bcfb3bddb119cd630941",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555105347
+      }
+    ],
+    "wof:id": 555105347,
+    "wof:lastmodified": 1723561696,
+    "wof:name": "Colusa Physical Therapy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "therapist",
+      "physical"
     ]
-},
+  },
   "bbox": [
     -122.003467,
     39.206725,
     -122.003467,
     39.206725
-],
+  ],
   "geometry": {"coordinates":[-122.003467,39.206725],"type":"Point"}
 }

@@ -2,83 +2,87 @@
   "id": 571974491,
   "type": "Feature",
   "properties": {
-    "addr:full":"1041 Gilman St Berkeley CA 94710",
-    "addr:housenumber":"1041",
-    "addr:postcode":"94710",
-    "addr:street":"Gilman St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.296642,37.880596,-122.296642,37.880596",
-    "geom:latitude":37.880596,
-    "geom:longitude":-122.296642,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1041 Gilman St",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1041 Gilman St Berkeley CA 94710",
+    "addr:housenumber": "1041",
+    "addr:postcode": "94710",
+    "addr:street": "Gilman St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.296642,37.880596,-122.296642,37.880596",
+    "geom:latitude": 37.880596,
+    "geom:longitude": -122.296642,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Happy Donuts, 1041 Gilman St Berkeley CA US",
+    "ovtr:similarity": 2.444127082824707,
+    "sg:address": "1041 Gilman St",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 524 9816",
-    "sg:postcode":"94710",
-    "sg:province":"CA",
-    "sg:tags":[
-        "donut",
-        "doughnut"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 524 9816",
+    "sg:postcode": "94710",
+    "sg:province": "CA",
+    "sg:tags": [
+      "donut",
+      "doughnut"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921919,
-        102086959,
-        85885547
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921919,
+      102086959,
+      85885547
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":4692979790,
-        "sg:id":"SG_0Dk82pHut9nXVHtXSW93TY_37.880417_-122.295896@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 4692979790,
+      "ovtr:id": "08f28308f4ce97a803de305353e0a5c6",
+      "sg:id": "SG_0Dk82pHut9nXVHtXSW93TY_37.880417_-122.295896@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8aa49f6938407f5fd071719fee551054",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921919,
-            "neighbourhood_id":85885547,
-            "region_id":85688637,
-            "venue_id":571974491
-        }
+    "wof:country": "US",
+    "wof:created": 1723561649,
+    "wof:geomhash": "8aa49f6938407f5fd071719fee551054",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921919,
+        "neighbourhood_id": 85885547,
+        "region_id": 85688637,
+        "venue_id": 571974491
+      }
     ],
-    "wof:id":571974491,
-    "wof:lastmodified":1510941332,
-    "wof:name":"Happy Donuts",
-    "wof:parent_id":85885547,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "donut",
-        "doughnut"
+    "wof:id": 571974491,
+    "wof:lastmodified": 1723561649,
+    "wof:name": "Happy Donuts",
+    "wof:parent_id": 85885547,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "donut",
+      "doughnut"
     ]
-},
+  },
   "bbox": [
     -122.296642,
     37.880596,
     -122.296642,
     37.880596
-],
-  "geometry": {"coordinates":[-122.29664200000001,37.880596],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.296642,37.880596],"type":"Point"}
 }

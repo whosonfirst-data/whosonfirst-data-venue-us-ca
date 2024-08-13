@@ -2,65 +2,73 @@
   "id": 555566537,
   "type": "Feature",
   "properties": {
-    "addr:full":"5588 N Palm Ave Fresno CA 93704",
-    "addr:housenumber":"5588",
-    "addr:postcode":"93704",
-    "addr:street":"N Palm Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.808343,36.815794,-119.808343,36.815794",
-    "geom:latitude":36.815794,
-    "geom:longitude":-119.808343,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5588 N Palm Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Real Estate",
-            "subcategory":"Real Estate Operator",
-            "type":"Services"
-        }
+    "addr:full": "5588 N Palm Ave Fresno CA 93704",
+    "addr:housenumber": "5588",
+    "addr:postcode": "93704",
+    "addr:street": "N Palm Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.808343,36.815794,-119.808343,36.815794",
+    "geom:latitude": 36.815794,
+    "geom:longitude": -119.808343,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Palm Center Executive Suites, 5588 N Palm Ave Fresno CA US",
+    "ovtr:similarity": 1.9357160329818726,
+    "sg:address": "5588 N Palm Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Real Estate",
+        "subcategory": "Real Estate Operator",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 222 2022",
-    "sg:postcode":"93704",
-    "sg:province":"CA",
-    "sg:tags":[
-        "building",
-        "parks"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 222 2022",
+    "sg:postcode": "93704",
+    "sg:province": "CA",
+    "sg:tags": [
+      "building",
+      "parks"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7GPq0TBLpZVxXSo699fxUz_36.815794_-119.808343@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29ab832709525033ddc117d348724",
+      "sg:id": "SG_7GPq0TBLpZVxXSo699fxUz_36.815794_-119.808343@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"20bab4587552dcdc93f64278c8c4c266",
-    "wof:hierarchy":[],
-    "wof:id":555566537,
-    "wof:lastmodified":1509201435,
-    "wof:name":"Palm Center Executive Suites",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "building",
-        "parks"
+    "wof:country": "US",
+    "wof:created": 1723561671,
+    "wof:geomhash": "20bab4587552dcdc93f64278c8c4c266",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555566537
+      }
+    ],
+    "wof:id": 555566537,
+    "wof:lastmodified": 1723561671,
+    "wof:name": "Palm Center Executive Suites",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "building",
+      "parks"
     ]
-},
+  },
   "bbox": [
     -119.808343,
     36.815794,
     -119.808343,
     36.815794
-],
-  "geometry": {"coordinates":[-119.80834299999999,36.815794],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-119.808343,36.815794],"type":"Point"}
 }

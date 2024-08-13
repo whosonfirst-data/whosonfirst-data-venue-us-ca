@@ -2,88 +2,92 @@
   "id": 387544699,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 Rosecrans Ave Ste B Manhattan Beach CA 90266",
-    "addr:housenumber":"1800",
-    "addr:postcode":"90266",
-    "addr:street":"Rosecrans Ave Ste B",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.381451,33.901833,-118.381451,33.901833",
-    "geom:latitude":33.901833,
-    "geom:longitude":-118.381451,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1800 Rosecrans Ave Ste B",
-    "sg:city":"Manhattan Beach",
-    "sg:classifiers":[
-        {
-            "category":"Communications",
-            "subcategory":"Newspaper",
-            "type":"Services"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1800 Rosecrans Ave Ste B Manhattan Beach CA 90266",
+    "addr:housenumber": "1800",
+    "addr:postcode": "90266",
+    "addr:street": "Rosecrans Ave Ste B",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.381451,33.901833,-118.381451,33.901833",
+    "geom:latitude": 33.901833,
+    "geom:longitude": -118.381451,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Barnes \u0026 Noble, 1800 Rosecrans Ave Manhattan Beach CA US",
+    "ovtr:similarity": 2.8041539192199707,
+    "sg:address": "1800 Rosecrans Ave Ste B",
+    "sg:city": "Manhattan Beach",
+    "sg:classifiers": [
+      {
+        "category": "Communications",
+        "subcategory": "Newspaper",
+        "type": "Services"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 725 7025",
-    "sg:postcode":"90266",
-    "sg:province":"CA",
-    "sg:tags":[
-        "magazine",
-        "bookstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 725 7025",
+    "sg:postcode": "90266",
+    "sg:province": "CA",
+    "sg:tags": [
+      "magazine",
+      "bookstore"
     ],
-    "sg:website":"www.barnesandnoble.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923625,
-        102086957,
-        85886367
+    "sg:website": "www.barnesandnoble.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923625,
+      102086957,
+      85886367
     ],
-    "wof:brand_id":420574789,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3BSSKFsbCz3vItsvklP5c0_33.901833_-118.381451@1303263181"
+    "wof:brand_id": 420574789,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a565e54e46103631a7e9769ce49",
+      "sg:id": "SG_3BSSKFsbCz3vItsvklP5c0_33.901833_-118.381451@1303263181"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e1b8a0f3b5bb3e413027d1790508bc81",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923625,
-            "neighbourhood_id":85886367,
-            "region_id":85688637,
-            "venue_id":387544699
-        }
+    "wof:country": "US",
+    "wof:created": 1723561654,
+    "wof:geomhash": "e1b8a0f3b5bb3e413027d1790508bc81",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923625,
+        "neighbourhood_id": 85886367,
+        "region_id": 85688637,
+        "venue_id": 387544699
+      }
     ],
-    "wof:id":387544699,
-    "wof:lastmodified":1511996589,
-    "wof:name":"Barnes & Noble",
-    "wof:parent_id":85886367,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "magazine",
-        "bookstore"
+    "wof:id": 387544699,
+    "wof:lastmodified": 1723561654,
+    "wof:name": "Barnes \u0026 Noble",
+    "wof:parent_id": 85886367,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "magazine",
+      "bookstore"
     ]
-},
+  },
   "bbox": [
     -118.381451,
     33.901833,
     -118.381451,
     33.901833
-],
+  ],
   "geometry": {"coordinates":[-118.381451,33.901833],"type":"Point"}
 }

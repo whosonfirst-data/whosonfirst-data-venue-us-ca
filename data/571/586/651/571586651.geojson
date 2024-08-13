@@ -2,75 +2,79 @@
   "id": 571586651,
   "type": "Feature",
   "properties": {
-    "addr:full":"82660 Miles Ave Indio CA 92201",
-    "addr:housenumber":"82660",
-    "addr:postcode":"92201",
-    "addr:street":"Miles Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.222127,33.721184,-116.222127,33.721184",
-    "geom:latitude":33.721184,
-    "geom:longitude":-116.222127,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"82660 Miles Ave",
-    "sg:city":"Indio",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "82660 Miles Ave Indio CA 92201",
+    "addr:housenumber": "82660",
+    "addr:postcode": "92201",
+    "addr:street": "Miles Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.222127,33.721184,-116.222127,33.721184",
+    "geom:latitude": 33.721184,
+    "geom:longitude": -116.222127,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Quick \u0026 Easy, 82660 Miles Ave Indio CA US",
+    "ovtr:similarity": 2.8040049076080322,
+    "sg:address": "82660 Miles Ave",
+    "sg:city": "Indio",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 863 4442",
-    "sg:postcode":"92201",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923417,
-        102086221,
-        85836161
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 863 4442",
+    "sg:postcode": "92201",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923417,
+      102086221,
+      85836161
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_62n5DH8tjMzTST6qCriyr6_33.721184_-116.222127@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a639d641bb003e3d502816ea923",
+      "sg:id": "SG_62n5DH8tjMzTST6qCriyr6_33.721184_-116.222127@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e1687e2d7e991a4d25ce5683c5e0512e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923417,
-            "neighbourhood_id":85836161,
-            "region_id":85688637,
-            "venue_id":571586651
-        }
+    "wof:country": "US",
+    "wof:created": 1723561688,
+    "wof:geomhash": "e1687e2d7e991a4d25ce5683c5e0512e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923417,
+        "neighbourhood_id": 85836161,
+        "region_id": 85688637,
+        "venue_id": 571586651
+      }
     ],
-    "wof:id":571586651,
-    "wof:lastmodified":1509201528,
-    "wof:name":"Quick & Easy",
-    "wof:parent_id":85836161,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571586651,
+    "wof:lastmodified": 1723561688,
+    "wof:name": "Quick \u0026 Easy",
+    "wof:parent_id": 85836161,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.222127,
     33.721184,
     -116.222127,
     33.721184
-],
+  ],
   "geometry": {"coordinates":[-116.222127,33.721184],"type":"Point"}
 }

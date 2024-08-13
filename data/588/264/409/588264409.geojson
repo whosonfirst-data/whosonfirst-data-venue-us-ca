@@ -2,82 +2,86 @@
   "id": 588264409,
   "type": "Feature",
   "properties": {
-    "addr:full":"1923 W Malvern Ave Fullerton CA 92833",
-    "addr:housenumber":"1923",
-    "addr:postcode":"92833",
-    "addr:street":"W Malvern Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.964996,33.877499,-117.964996,33.877499",
-    "geom:latitude":33.877499,
-    "geom:longitude":-117.964996,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1923 W Malvern Ave",
-    "sg:city":"Fullerton",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Books",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1923 W Malvern Ave Fullerton CA 92833",
+    "addr:housenumber": "1923",
+    "addr:postcode": "92833",
+    "addr:street": "W Malvern Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.964996,33.877499,-117.964996,33.877499",
+    "geom:latitude": 33.877499,
+    "geom:longitude": -117.964996,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Barnes \u0026 Noble, 1923 W Malvern Ave Fullerton CA US",
+    "ovtr:similarity": 2.5729451179504395,
+    "sg:address": "1923 W Malvern Ave",
+    "sg:city": "Fullerton",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Books",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 871 9855",
-    "sg:postcode":"92833",
-    "sg:province":"CA",
-    "sg:tags":[
-        "bookstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 871 9855",
+    "sg:postcode": "92833",
+    "sg:province": "CA",
+    "sg:tags": [
+      "bookstore"
     ],
-    "sg:website":"www.barnesandnoble.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923167,
-        102080847,
-        85867351
+    "sg:website": "www.barnesandnoble.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923167,
+      102080847,
+      85867351
     ],
-    "wof:brand_id":420574789,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4GRHCMGjCPGvCTp9h8orpM_33.877499_-117.964996@1303263284"
+    "wof:brand_id": 420574789,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a0a655a910503e28533a96924b8",
+      "sg:id": "SG_4GRHCMGjCPGvCTp9h8orpM_33.877499_-117.964996@1303263284"
     },
-    "wof:country":"US",
-    "wof:geomhash":"53d40bfb8a20ebbad2378d2b719ddf7d",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923167,
-            "neighbourhood_id":85867351,
-            "region_id":85688637,
-            "venue_id":588264409
-        }
+    "wof:country": "US",
+    "wof:created": 1723561673,
+    "wof:geomhash": "53d40bfb8a20ebbad2378d2b719ddf7d",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923167,
+        "neighbourhood_id": 85867351,
+        "region_id": 85688637,
+        "venue_id": 588264409
+      }
     ],
-    "wof:id":588264409,
-    "wof:lastmodified":1511996588,
-    "wof:name":"Barnes & Noble",
-    "wof:parent_id":85867351,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "bookstore"
+    "wof:id": 588264409,
+    "wof:lastmodified": 1723561673,
+    "wof:name": "Barnes \u0026 Noble",
+    "wof:parent_id": 85867351,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "bookstore"
     ]
-},
+  },
   "bbox": [
     -117.964996,
     33.877499,
     -117.964996,
     33.877499
-],
+  ],
   "geometry": {"coordinates":[-117.964996,33.877499],"type":"Point"}
 }

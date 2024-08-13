@@ -2,81 +2,85 @@
   "id": 571663515,
   "type": "Feature",
   "properties": {
-    "addr:full":"1070 Foster City Blvd Foster City CA 94404",
-    "addr:housenumber":"1070",
-    "addr:postcode":"94404",
-    "addr:street":"Foster City Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.257484,37.553813,-122.257484,37.553813",
-    "geom:latitude":37.553813,
-    "geom:longitude":-122.257484,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1070 Foster City Blvd",
-    "sg:city":"Foster City",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1070 Foster City Blvd Foster City CA 94404",
+    "addr:housenumber": "1070",
+    "addr:postcode": "94404",
+    "addr:street": "Foster City Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.257484,37.553813,-122.257484,37.553813",
+    "geom:latitude": 37.553813,
+    "geom:longitude": -122.257484,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "99 Ranch Market, 1070 Foster City Blvd Foster City CA US",
+    "ovtr:similarity": 2.259403944015503,
+    "sg:address": "1070 Foster City Blvd",
+    "sg:city": "Foster City",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 650 358 9988",
-    "sg:postcode":"94404",
-    "sg:province":"CA",
-    "sg:tags":[
-        "grocer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 650 358 9988",
+    "sg:postcode": "94404",
+    "sg:province": "CA",
+    "sg:tags": [
+      "grocer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922519,
-        102085387,
-        420552339
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922519,
+      102085387,
+      420552339
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2975342733,
-        "sg:id":"SG_486iKItJAzEMZgCXMiNvPq_37.553813_-122.257484@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2975342733,
+      "ovtr:id": "08f28346698b4220032fde9ac8318eda",
+      "sg:id": "SG_486iKItJAzEMZgCXMiNvPq_37.553813_-122.257484@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"61ad4ab8f9a8107e2123d09be0bdc9ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102085387,
-            "locality_id":85922519,
-            "neighbourhood_id":420552339,
-            "region_id":85688637,
-            "venue_id":571663515
-        }
+    "wof:country": "US",
+    "wof:created": 1723561663,
+    "wof:geomhash": "61ad4ab8f9a8107e2123d09be0bdc9ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "locality_id": 85922519,
+        "neighbourhood_id": 420552339,
+        "region_id": 85688637,
+        "venue_id": 571663515
+      }
     ],
-    "wof:id":571663515,
-    "wof:lastmodified":1510941998,
-    "wof:name":"99 Ranch Market",
-    "wof:parent_id":420552339,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "grocer"
+    "wof:id": 571663515,
+    "wof:lastmodified": 1723561663,
+    "wof:name": "99 Ranch Market",
+    "wof:parent_id": 420552339,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "grocer"
     ]
-},
+  },
   "bbox": [
     -122.257484,
     37.553813,
     -122.257484,
     37.553813
-],
-  "geometry": {"coordinates":[-122.25748400000001,37.553813],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.257484,37.553813],"type":"Point"}
 }

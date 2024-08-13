@@ -2,85 +2,89 @@
   "id": 572073451,
   "type": "Feature",
   "properties": {
-    "addr:full":"11927 W Pico Blvd Los Angeles CA 90064",
-    "addr:housenumber":"11927",
-    "addr:postcode":"90064",
-    "addr:street":"W Pico Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.448875,34.030064,-118.448875,34.030064",
-    "geom:latitude":34.030064,
-    "geom:longitude":-118.448875,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11927 W Pico Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Self-service Laundry",
-            "type":"Services"
-        }
+    "addr:full": "11927 W Pico Blvd Los Angeles CA 90064",
+    "addr:housenumber": "11927",
+    "addr:postcode": "90064",
+    "addr:street": "W Pico Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.448875,34.030064,-118.448875,34.030064",
+    "geom:latitude": 34.030064,
+    "geom:longitude": -118.448875,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Sparkling Coin Laundry Services, 11927 W Pico Blvd Los Angeles CA US",
+    "ovtr:similarity": 3.8552889823913574,
+    "sg:address": "11927 W Pico Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Self-service Laundry",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 312 8831",
-    "sg:postcode":"90064",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dry",
-        "cleaning"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 312 8831",
+    "sg:postcode": "90064",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dry",
+      "cleaning"
     ],
-    "sg:website":"www.sparklingcoinlaundryla.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85847231",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:website": "www.sparklingcoinlaundryla.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85847231
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4FCIQFOS2mjghjLas0IFzV_34.030368_-118.448513@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1983b243290337a9833d4fec86",
+      "sg:id": "SG_4FCIQFOS2mjghjLas0IFzV_34.030368_-118.448513@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0aa665d50d3843208b2e2fbc090d9e17",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85847231",
-            "region_id":85688637,
-            "venue_id":572073451
-        }
+    "wof:country": "US",
+    "wof:created": 1723561651,
+    "wof:geomhash": "0aa665d50d3843208b2e2fbc090d9e17",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85847231,
+        "region_id": 85688637,
+        "venue_id": 572073451
+      }
     ],
-    "wof:id":572073451,
-    "wof:lastmodified":1509201684,
-    "wof:name":"Sparkling Coin Laundry",
-    "wof:parent_id":"85847231",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dry",
-        "cleaning"
+    "wof:id": 572073451,
+    "wof:lastmodified": 1723561651,
+    "wof:name": "Sparkling Coin Laundry",
+    "wof:parent_id": "85847231",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dry",
+      "cleaning"
     ]
-},
+  },
   "bbox": [
     -118.448875,
     34.030064,
     -118.448875,
     34.030064
-],
+  ],
   "geometry": {"coordinates":[-118.448875,34.030064],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 303235313,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 S Grand Ave Los Angeles CA 90015",
-    "addr:housenumber":"1401",
-    "addr:postcode":"90015",
-    "addr:street":"S Grand Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.265868,34.036446,-118.265868,34.036446",
-    "geom:latitude":34.036446,
-    "geom:longitude":-118.265868,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1401 S Grand Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Professional",
-            "subcategory":"Research",
-            "type":"Services"
-        }
+    "addr:full": "1401 S Grand Ave Los Angeles CA 90015",
+    "addr:housenumber": "1401",
+    "addr:postcode": "90015",
+    "addr:street": "S Grand Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.265868,34.036446,-118.265868,34.036446",
+    "geom:latitude": 34.036446,
+    "geom:longitude": -118.265868,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Lab, 1401 S Grand Ave Los Angeles CA US",
+    "ovtr:similarity": 2.0806610584259033,
+    "sg:address": "1401 S Grand Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Professional",
+        "subcategory": "Research",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 213 748 7533",
-    "sg:postcode":"90015",
-    "sg:province":"CA",
-    "sg:tags":[
-        "laboratory"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 213 748 7533",
+    "sg:postcode": "90015",
+    "sg:province": "CA",
+    "sg:tags": [
+      "laboratory"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865811",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865811
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3o75WvEc54ne7sYWJaH9Dk_34.036446_-118.265868@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a1d66703b4203bb580e0ba22d0b",
+      "sg:id": "SG_3o75WvEc54ne7sYWJaH9Dk_34.036446_-118.265868@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"fa9f3fad5045bb2234488f14638b720f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865811",
-            "region_id":85688637,
-            "venue_id":303235313
-        }
+    "wof:country": "US",
+    "wof:created": 1723561646,
+    "wof:geomhash": "fa9f3fad5045bb2234488f14638b720f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865811,
+        "region_id": 85688637,
+        "venue_id": 303235313
+      }
     ],
-    "wof:id":303235313,
-    "wof:lastmodified":1509200344,
-    "wof:name":"Lab",
-    "wof:parent_id":"85865811",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "laboratory"
+    "wof:id": 303235313,
+    "wof:lastmodified": 1723561646,
+    "wof:name": "Lab",
+    "wof:parent_id": "85865811",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "laboratory"
     ]
-},
+  },
   "bbox": [
     -118.265868,
     34.036446,
     -118.265868,
     34.036446
-],
+  ],
   "geometry": {"coordinates":[-118.265868,34.036446],"type":"Point"}
 }

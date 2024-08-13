@@ -2,82 +2,86 @@
   "id": 370864739,
   "type": "Feature",
   "properties": {
-    "addr:full":"6512 Hollywood Blvd Los Angeles CA 90028",
-    "addr:housenumber":"6512",
-    "addr:postcode":"90028",
-    "addr:street":"Hollywood Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.33163,34.101504,-118.33163,34.101504",
-    "geom:latitude":34.101504,
-    "geom:longitude":-118.33163,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"6512 Hollywood Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Lounge",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Bars & Pubs",
-            "subcategory":"Hookah Bar",
-            "type":"Food & Drink"
-        }
+    "addr:full": "6512 Hollywood Blvd Los Angeles CA 90028",
+    "addr:housenumber": "6512",
+    "addr:postcode": "90028",
+    "addr:street": "Hollywood Blvd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.331630,34.101504,-118.331630,34.101504",
+    "geom:latitude": 34.101504,
+    "geom:longitude": -118.33163,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Hollywood Hookah Lounge, 6512 Hollywood Blvd Los Angeles CA US",
+    "ovtr:similarity": 2.237423896789551,
+    "sg:address": "6512 Hollywood Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Lounge",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Bars \u0026 Pubs",
+        "subcategory": "Hookah Bar",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 469 4622",
-    "sg:postcode":"90028",
-    "sg:province":"CA",
-    "sg:website":"www.hollywoodhookahlounge.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85826037
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 469 4622",
+    "sg:postcode": "90028",
+    "sg:province": "CA",
+    "sg:website": "www.hollywoodhookahlounge.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85826037
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "lacity_oof:id":"0002300052-0001-1",
-        "osm:node":2165116983,
-        "sg:id":"SG_3uL3ytrf118b6c0JNpbbBC_34.101504_-118.331630@1303263157"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "lacity_oof:id": "0002300052-0001-1",
+      "osm:node": 2165116983,
+      "ovtr:id": "08f29a1d6bdb18f20384dac84af7b243",
+      "sg:id": "SG_3uL3ytrf118b6c0JNpbbBC_34.101504_-118.331630@1303263157"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e9b49d988e1e8b65d9266376578637f1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85826037,
-            "region_id":85688637,
-            "venue_id":370864739
-        }
+    "wof:country": "US",
+    "wof:created": 1723561656,
+    "wof:geomhash": "e9b49d988e1e8b65d9266376578637f1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85826037,
+        "region_id": 85688637,
+        "venue_id": 370864739
+      }
     ],
-    "wof:id":370864739,
-    "wof:lastmodified":1510943855,
-    "wof:name":"Hollywood Hookah Lounge",
-    "wof:parent_id":85826037,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370864739,
+    "wof:lastmodified": 1723561656,
+    "wof:name": "Hollywood Hookah Lounge",
+    "wof:parent_id": 85826037,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.33163,
     34.101504,
     -118.33163,
     34.101504
-],
+  ],
   "geometry": {"coordinates":[-118.33163,34.101504],"type":"Point"}
 }

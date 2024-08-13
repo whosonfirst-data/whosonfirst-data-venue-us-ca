@@ -2,74 +2,78 @@
   "id": 371138757,
   "type": "Feature",
   "properties": {
-    "addr:full":"234 E Main St Turlock CA 95380",
-    "addr:housenumber":"234",
-    "addr:postcode":"95380",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.845288,37.494995,-120.845288,37.494995",
-    "geom:latitude":37.494995,
-    "geom:longitude":-120.845288,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"234 E Main St",
-    "sg:city":"Turlock",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "234 E Main St Turlock CA 95380",
+    "addr:housenumber": "234",
+    "addr:postcode": "95380",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.845288,37.494995,-120.845288,37.494995",
+    "geom:latitude": 37.494995,
+    "geom:longitude": -120.845288,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Bistro 234, 234 E Main St Turlock CA US",
+    "ovtr:similarity": 2.481937885284424,
+    "sg:address": "234 E Main St",
+    "sg:city": "Turlock",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 668 4234",
-    "sg:postcode":"95380",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        102083579,
-        85869025
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 668 4234",
+    "sg:postcode": "95380",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      102083579,
+      85869025
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":2446393734,
-        "sg:id":"SG_1CkSFWaHaSXCLdZKpBiQQk_37.494995_-120.845288@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 2446393734,
+      "ovtr:id": "08f2836c687ad00503f6f5c72b02525c",
+      "sg:id": "SG_1CkSFWaHaSXCLdZKpBiQQk_37.494995_-120.845288@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6e5bfb9a80f5cdc556d97fa3e8a02261",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102083579,
-            "locality_id":-1,
-            "neighbourhood_id":85869025,
-            "region_id":85688637,
-            "venue_id":371138757
-        }
+    "wof:country": "US",
+    "wof:created": 1723561680,
+    "wof:geomhash": "6e5bfb9a80f5cdc556d97fa3e8a02261",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102083579,
+        "locality_id": -1,
+        "neighbourhood_id": 85869025,
+        "region_id": 85688637,
+        "venue_id": 371138757
+      }
     ],
-    "wof:id":371138757,
-    "wof:lastmodified":1510942532,
-    "wof:name":"Bistro 234",
-    "wof:parent_id":85869025,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 371138757,
+    "wof:lastmodified": 1723561680,
+    "wof:name": "Bistro 234",
+    "wof:parent_id": 85869025,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.845288,
     37.494995,
     -120.845288,
     37.494995
-],
+  ],
   "geometry": {"coordinates":[-120.845288,37.494995],"type":"Point"}
 }

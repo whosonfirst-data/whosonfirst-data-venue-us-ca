@@ -2,84 +2,88 @@
   "id": 571996923,
   "type": "Feature",
   "properties": {
-    "addr:full":"856 Cole St San Francisco CA 94117",
-    "addr:housenumber":"856",
-    "addr:postcode":"94117",
-    "addr:street":"Cole St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.450053,37.76621,-122.450053,37.76621",
-    "geom:latitude":37.76621,
-    "geom:longitude":-122.450053,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"856 Cole St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Dairy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "856 Cole St San Francisco CA 94117",
+    "addr:housenumber": "856",
+    "addr:postcode": "94117",
+    "addr:street": "Cole St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.450053,37.766210,-122.450053,37.766210",
+    "geom:latitude": 37.76621,
+    "geom:longitude": -122.450053,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Say Cheese, 856 Cole St San Francisco CA US",
+    "ovtr:similarity": 3.858599901199341,
+    "sg:address": "856 Cole St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Dairy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 665 5020",
-    "sg:postcode":"94117",
-    "sg:province":"CA",
-    "sg:tags":[
-        "shop",
-        "cheese"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 665 5020",
+    "sg:postcode": "94117",
+    "sg:province": "CA",
+    "sg:tags": [
+      "shop",
+      "cheese"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85882171
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85882171
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "osm:node":3790822663,
-        "sfgov_rbl:id":"0931904-01-001",
-        "sg:id":"SG_1atIaDjLx5nulAgc1y6YpR_37.766343_-122.449969@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "osm:node": 3790822663,
+      "ovtr:id": "08f283082d205545036969d6a01417ae",
+      "sfgov_rbl:id": "0931904-01-001",
+      "sg:id": "SG_1atIaDjLx5nulAgc1y6YpR_37.766343_-122.449969@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"2581e62c43c385624e1f21492ca977df",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85882171,
-            "region_id":85688637,
-            "venue_id":571996923
-        }
+    "wof:country": "US",
+    "wof:created": 1723561657,
+    "wof:geomhash": "2581e62c43c385624e1f21492ca977df",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85882171,
+        "region_id": 85688637,
+        "venue_id": 571996923
+      }
     ],
-    "wof:id":571996923,
-    "wof:lastmodified":1510942946,
-    "wof:name":"Say Cheese",
-    "wof:parent_id":85882171,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "shop",
-        "cheese"
+    "wof:id": 571996923,
+    "wof:lastmodified": 1723561657,
+    "wof:name": "Say Cheese",
+    "wof:parent_id": 85882171,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "shop",
+      "cheese"
     ]
-},
+  },
   "bbox": [
     -122.450053,
     37.76621,
     -122.450053,
     37.76621
-],
+  ],
   "geometry": {"coordinates":[-122.450053,37.76621],"type":"Point"}
 }

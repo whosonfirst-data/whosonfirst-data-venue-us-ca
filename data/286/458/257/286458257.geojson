@@ -2,87 +2,91 @@
   "id": 286458257,
   "type": "Feature",
   "properties": {
-    "addr:full":"11748 Magnolia Ave Riverside CA 92503",
-    "addr:housenumber":"11748",
-    "addr:postcode":"92503",
-    "addr:street":"Magnolia Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.48766,33.896898,-117.48766,33.896898",
-    "geom:latitude":33.896898,
-    "geom:longitude":-117.48766,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11748 Magnolia Ave",
-    "sg:city":"Riverside",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "11748 Magnolia Ave Riverside CA 92503",
+    "addr:housenumber": "11748",
+    "addr:postcode": "92503",
+    "addr:street": "Magnolia Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.487660,33.896898,-117.487660,33.896898",
+    "geom:latitude": 33.896898,
+    "geom:longitude": -117.48766,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "ovtr:label": "Animal Hospital of Riverside, 11748 Magnolia Ave Riverside CA US",
+    "ovtr:similarity": 2.4729809761047363,
+    "sg:address": "11748 Magnolia Ave",
+    "sg:city": "Riverside",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 689 5533",
-    "sg:postcode":"92503",
-    "sg:province":"CA",
-    "sg:tags":[
-        "hospital",
-        "domestic",
-        "clinic",
-        "for",
-        "animal"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 689 5533",
+    "sg:postcode": "92503",
+    "sg:province": "CA",
+    "sg:tags": [
+      "hospital",
+      "domestic",
+      "clinic",
+      "for",
+      "animal"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928197,
-        102086221,
-        85832935
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928197,
+      102086221,
+      85832935
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6MF4XmmfXIGmSV0R2dHpGS_33.896898_-117.487660@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ovtr:id": "08f29a016b0c483603b0030072a90eb2",
+      "sg:id": "SG_6MF4XmmfXIGmSV0R2dHpGS_33.896898_-117.487660@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"80cf8b98f48e1544a2ff7666119bd446",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85928197,
-            "neighbourhood_id":85832935,
-            "region_id":85688637,
-            "venue_id":286458257
-        }
+    "wof:country": "US",
+    "wof:created": 1723561682,
+    "wof:geomhash": "80cf8b98f48e1544a2ff7666119bd446",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85928197,
+        "neighbourhood_id": 85832935,
+        "region_id": 85688637,
+        "venue_id": 286458257
+      }
     ],
-    "wof:id":286458257,
-    "wof:lastmodified":1509200257,
-    "wof:name":"Animal Hospital of Riverside",
-    "wof:parent_id":85832935,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "hospital",
-        "domestic",
-        "clinic",
-        "for",
-        "animal"
+    "wof:id": 286458257,
+    "wof:lastmodified": 1723561682,
+    "wof:name": "Animal Hospital of Riverside",
+    "wof:parent_id": 85832935,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "hospital",
+      "domestic",
+      "clinic",
+      "for",
+      "animal"
     ]
-},
+  },
   "bbox": [
     -117.48766,
     33.896898,
     -117.48766,
     33.896898
-],
-  "geometry": {"coordinates":[-117.48766000000001,33.896898],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-117.48766,33.896898],"type":"Point"}
 }
