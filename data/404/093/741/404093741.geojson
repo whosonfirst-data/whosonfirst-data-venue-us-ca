@@ -2,80 +2,84 @@
   "id": 404093741,
   "type": "Feature",
   "properties": {
-    "addr:full":"3080 Woodruff Ave Suite B Long Beach CA 90808",
-    "addr:housenumber":"3080",
-    "addr:postcode":"90808",
-    "addr:street":"Woodruff Ave Suite B",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.114534,33.812632,-118.114534,33.812632",
-    "geom:latitude":33.812632,
-    "geom:longitude":-118.114534,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3080 Woodruff Ave Suite B",
-    "sg:city":"Long Beach",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Veterinary Services",
-            "type":"Services"
-        }
+    "addr:full": "3080 Woodruff Ave Suite B Long Beach CA 90808",
+    "addr:housenumber": "3080",
+    "addr:postcode": "90808",
+    "addr:street": "Woodruff Ave Suite B",
+    "atp:label": "VCA Los Altos Animal Hospital, 3080 Woodruff Avenue, Suite B Long Beach CA US",
+    "atp:similarity": 2.2750260829925537,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.114534,33.812632,-118.114534,33.812632",
+    "geom:latitude": 33.812632,
+    "geom:longitude": -118.114534,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "3080 Woodruff Ave Suite B",
+    "sg:city": "Long Beach",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Veterinary Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 353 4221",
-    "sg:postcode":"90808",
-    "sg:province":"CA",
-    "sg:tags":[
-        "veterinarian"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 353 4221",
+    "sg:postcode": "90808",
+    "sg:province": "CA",
+    "sg:tags": [
+      "veterinarian"
     ],
-    "sg:website":"www.vcalosaltos.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923525,
-        102086957,
-        85831437
+    "sg:website": "www.vcalosaltos.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923525,
+      102086957,
+      85831437
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5R9MoCSiUxGDUYwg4ZlVCK_33.812632_-118.114534@1303263200"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "8wqSkEehYd3zosETPDDOPrU-Log",
+      "sg:id": "SG_5R9MoCSiUxGDUYwg4ZlVCK_33.812632_-118.114534@1303263200"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b8f20b9fe36946b53b68f343059dd335",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923525,
-            "neighbourhood_id":85831437,
-            "region_id":85688637,
-            "venue_id":404093741
-        }
+    "wof:country": "US",
+    "wof:created": 1723562483,
+    "wof:geomhash": "b8f20b9fe36946b53b68f343059dd335",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923525,
+        "neighbourhood_id": 85831437,
+        "region_id": 85688637,
+        "venue_id": 404093741
+      }
     ],
-    "wof:id":404093741,
-    "wof:lastmodified":1509201201,
-    "wof:name":"VCA Los Altos Animal Hospital",
-    "wof:parent_id":85831437,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "veterinarian"
+    "wof:id": 404093741,
+    "wof:lastmodified": 1723562483,
+    "wof:name": "VCA Los Altos Animal Hospital",
+    "wof:parent_id": 85831437,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "veterinarian"
     ]
-},
+  },
   "bbox": [
     -118.114534,
     33.812632,
     -118.114534,
     33.812632
-],
-  "geometry": {"coordinates":[-118.11453400000001,33.812632],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.114534,33.812632],"type":"Point"}
 }

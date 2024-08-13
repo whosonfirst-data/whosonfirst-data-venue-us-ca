@@ -2,75 +2,79 @@
   "id": 403797651,
   "type": "Feature",
   "properties": {
-    "addr:full":"12156 South St Artesia CA 90701",
-    "addr:housenumber":"12156",
-    "addr:postcode":"90701",
-    "addr:street":"South St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.077003,33.858398,-118.077003,33.858398",
-    "geom:latitude":33.858398,
-    "geom:longitude":-118.077003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12156 South St",
-    "sg:city":"Artesia",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "12156 South St Artesia CA 90701",
+    "addr:housenumber": "12156",
+    "addr:postcode": "90701",
+    "addr:street": "South St",
+    "atp:label": "Taco Bell, 12156 South Street Artesia CA US",
+    "atp:similarity": 3.4872539043426514,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.077003,33.858398,-118.077003,33.858398",
+    "geom:latitude": 33.858398,
+    "geom:longitude": -118.077003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "12156 South St",
+    "sg:city": "Artesia",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 924 1650",
-    "sg:postcode":"90701",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923557,
-        102086957,
-        85886245
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 924 1650",
+    "sg:postcode": "90701",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923557,
+      102086957,
+      85886245
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5XTqISZTPt5IRlC2fgpWnv_33.858398_-118.077003@1303263193"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "N2OqLjC6-J_RRBKPDDWCBqRgDyY",
+      "sg:id": "SG_5XTqISZTPt5IRlC2fgpWnv_33.858398_-118.077003@1303263193"
     },
-    "wof:country":"US",
-    "wof:geomhash":"9120171b8f35f3c989a2faa74d8aa2da",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923557,
-            "neighbourhood_id":85886245,
-            "region_id":85688637,
-            "venue_id":403797651
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "9120171b8f35f3c989a2faa74d8aa2da",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923557,
+        "neighbourhood_id": 85886245,
+        "region_id": 85688637,
+        "venue_id": 403797651
+      }
     ],
-    "wof:id":403797651,
-    "wof:lastmodified":1509201148,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85886245,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 403797651,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85886245,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.077003,
     33.858398,
     -118.077003,
     33.858398
-],
+  ],
   "geometry": {"coordinates":[-118.077003,33.858398],"type":"Point"}
 }

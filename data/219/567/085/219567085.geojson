@@ -2,81 +2,85 @@
   "id": 219567085,
   "type": "Feature",
   "properties": {
-    "addr:full":"6779 Q St Sacramento CA 95819",
-    "addr:housenumber":"6779",
-    "addr:postcode":"95819",
-    "addr:street":"Q St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.426462,38.552677,-121.426462,38.552677",
-    "geom:latitude":38.552677,
-    "geom:longitude":-121.426462,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"6779 Q St",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Wholesale",
-            "subcategory":"Auto Parts",
-            "type":"Manufacturing & Wholesale Goods"
-        }
+    "addr:full": "6779 Q St Sacramento CA 95819",
+    "addr:housenumber": "6779",
+    "addr:postcode": "95819",
+    "addr:street": "Q St",
+    "atp:label": "Factory Motor Parts, 6779 Q Street, Sacramento California CA US",
+    "atp:similarity": 3.786576986312866,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.426462,38.552677,-121.426462,38.552677",
+    "geom:latitude": 38.552677,
+    "geom:longitude": -121.426462,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "6779 Q St",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Wholesale",
+        "subcategory": "Auto Parts",
+        "type": "Manufacturing \u0026 Wholesale Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 452 4102",
-    "sg:postcode":"95819",
-    "sg:province":"CA",
-    "sg:tags":[
-        "automobile",
-        "rebuilt"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 452 4102",
+    "sg:postcode": "95819",
+    "sg:province": "CA",
+    "sg:tags": [
+      "automobile",
+      "rebuilt"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922845,
-        102082889,
-        85872189
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922845,
+      102082889,
+      85872189
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7i4YHG4ePa6VqBZNGTdVJf_38.552677_-121.426462@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "p8yYv9ESrGE8RZw_2w3FNjZm42I",
+      "sg:id": "SG_7i4YHG4ePa6VqBZNGTdVJf_38.552677_-121.426462@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"756c5c0a9de7c6cd03630462505defcf",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082889,
-            "locality_id":85922845,
-            "neighbourhood_id":85872189,
-            "region_id":85688637,
-            "venue_id":219567085
-        }
+    "wof:country": "US",
+    "wof:created": 1723562481,
+    "wof:geomhash": "756c5c0a9de7c6cd03630462505defcf",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082889,
+        "locality_id": 85922845,
+        "neighbourhood_id": 85872189,
+        "region_id": 85688637,
+        "venue_id": 219567085
+      }
     ],
-    "wof:id":219567085,
-    "wof:lastmodified":1509199965,
-    "wof:name":"Factory Motor Parts",
-    "wof:parent_id":85872189,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "automobile",
-        "rebuilt"
+    "wof:id": 219567085,
+    "wof:lastmodified": 1723562481,
+    "wof:name": "Factory Motor Parts",
+    "wof:parent_id": 85872189,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "automobile",
+      "rebuilt"
     ]
-},
+  },
   "bbox": [
     -121.426462,
     38.552677,
     -121.426462,
     38.552677
-],
+  ],
   "geometry": {"coordinates":[-121.426462,38.552677],"type":"Point"}
 }

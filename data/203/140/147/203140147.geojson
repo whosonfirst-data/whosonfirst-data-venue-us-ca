@@ -2,85 +2,89 @@
   "id": 203140147,
   "type": "Feature",
   "properties": {
-    "addr:full":"11911 Washington Blvd Whittier CA 90606",
-    "addr:housenumber":"11911",
-    "addr:postcode":"90606",
-    "addr:street":"Washington Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.056543,33.968609,-118.056543,33.968609",
-    "geom:latitude":33.968609,
-    "geom:longitude":-118.056543,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"11911 Washington Blvd",
-    "sg:city":"Whittier",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Health Practitioner",
-            "type":"Services"
-        }
+    "addr:full": "11911 Washington Blvd Whittier CA 90606",
+    "addr:housenumber": "11911",
+    "addr:postcode": "90606",
+    "addr:street": "Washington Blvd",
+    "atp:label": "Center for Discovery (Whittier), 11911 Washington Blvd Whittier CA US",
+    "atp:similarity": 3.1988699436187744,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.056543,33.968609,-118.056543,33.968609",
+    "geom:latitude": 33.968609,
+    "geom:longitude": -118.056543,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "11911 Washington Blvd",
+    "sg:city": "Whittier",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Health Practitioner",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 698 8888",
-    "sg:postcode":"90606",
-    "sg:province":"CA",
-    "sg:tags":[
-        "info",
-        "eating",
-        "disorder",
-        "treatment"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 698 8888",
+    "sg:postcode": "90606",
+    "sg:province": "CA",
+    "sg:tags": [
+      "info",
+      "eating",
+      "disorder",
+      "treatment"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923757,
-        102086957,
-        85888229
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923757,
+      102086957,
+      85888229
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4j4hZbD4btT6q4xd2yECp3_33.968609_-118.056543@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "YyqgrIUq56mBjGfmgXF_kkxFUKk",
+      "sg:id": "SG_4j4hZbD4btT6q4xd2yECp3_33.968609_-118.056543@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"7690116ef1972e0a037274e1e2879bbd",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923757,
-            "neighbourhood_id":85888229,
-            "region_id":85688637,
-            "venue_id":203140147
-        }
+    "wof:country": "US",
+    "wof:created": 1723562481,
+    "wof:geomhash": "7690116ef1972e0a037274e1e2879bbd",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923757,
+        "neighbourhood_id": 85888229,
+        "region_id": 85688637,
+        "venue_id": 203140147
+      }
     ],
-    "wof:id":203140147,
-    "wof:lastmodified":1509199923,
-    "wof:name":"Center For Discovery",
-    "wof:parent_id":85888229,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "info",
-        "eating",
-        "disorder",
-        "treatment"
+    "wof:id": 203140147,
+    "wof:lastmodified": 1723562481,
+    "wof:name": "Center For Discovery",
+    "wof:parent_id": 85888229,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "info",
+      "eating",
+      "disorder",
+      "treatment"
     ]
-},
+  },
   "bbox": [
     -118.056543,
     33.968609,
     -118.056543,
     33.968609
-],
+  ],
   "geometry": {"coordinates":[-118.056543,33.968609],"type":"Point"}
 }

@@ -2,82 +2,86 @@
   "id": 572215939,
   "type": "Feature",
   "properties": {
-    "addr:full":"900 N Lake Ave Pasadena CA 91104",
-    "addr:housenumber":"900",
-    "addr:postcode":"91104",
-    "addr:street":"N Lake Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.132485,34.160667,-118.132485,34.160667",
-    "geom:latitude":34.160667,
-    "geom:longitude":-118.132485,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"900 N Lake Ave",
-    "sg:city":"Pasadena",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "900 N Lake Ave Pasadena CA 91104",
+    "addr:housenumber": "900",
+    "addr:postcode": "91104",
+    "addr:street": "N Lake Ave",
+    "atp:label": "CVS, 900 N Lake Ave Pasadena CA US",
+    "atp:similarity": 3.775902032852173,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.132485,34.160667,-118.132485,34.160667",
+    "geom:latitude": 34.160667,
+    "geom:longitude": -118.132485,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "900 N Lake Ave",
+    "sg:city": "Pasadena",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 626 794 4714",
-    "sg:postcode":"91104",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 626 794 4714",
+    "sg:postcode": "91104",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923487,
-        102086957,
-        85879771
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923487,
+      102086957,
+      85879771
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0ioomQqPzuqW87nJVzBKra_34.160667_-118.132485@1303263204"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "Q0hyEl4AS7XjM2eUUcPV4XKAkNM",
+      "sg:id": "SG_0ioomQqPzuqW87nJVzBKra_34.160667_-118.132485@1303263204"
     },
-    "wof:country":"US",
-    "wof:geomhash":"41c811489579803531e8cc06c5e519af",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923487,
-            "neighbourhood_id":85879771,
-            "region_id":85688637,
-            "venue_id":572215939
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "41c811489579803531e8cc06c5e519af",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923487,
+        "neighbourhood_id": 85879771,
+        "region_id": 85688637,
+        "venue_id": 572215939
+      }
     ],
-    "wof:id":572215939,
-    "wof:lastmodified":1512142692,
-    "wof:name":"CVS Pharmacy",
-    "wof:parent_id":85879771,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 572215939,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "CVS Pharmacy",
+    "wof:parent_id": 85879771,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.132485,
     34.160667,
     -118.132485,
     34.160667
-],
+  ],
   "geometry": {"coordinates":[-118.132485,34.160667],"type":"Point"}
 }

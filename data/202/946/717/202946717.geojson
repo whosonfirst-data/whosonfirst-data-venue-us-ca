@@ -2,75 +2,79 @@
   "id": 202946717,
   "type": "Feature",
   "properties": {
-    "addr:full":"1306 Maricopa Hwy Ojai CA 93023",
-    "addr:housenumber":"1306",
-    "addr:postcode":"93023",
-    "addr:street":"Maricopa Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.267337,34.442983,-119.267337,34.442983",
-    "geom:latitude":34.442983,
-    "geom:longitude":-119.267337,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1306 Maricopa Hwy",
-    "sg:city":"Ojai",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "1306 Maricopa Hwy Ojai CA 93023",
+    "addr:housenumber": "1306",
+    "addr:postcode": "93023",
+    "addr:street": "Maricopa Hwy",
+    "atp:label": "Ojai Valley Community Hospital, 1306 Maricopa Hwy Ojai CA US",
+    "atp:similarity": 3.1310009956359863,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.267337,34.442983,-119.267337,34.442983",
+    "geom:latitude": 34.442983,
+    "geom:longitude": -119.267337,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1306 Maricopa Hwy",
+    "sg:city": "Ojai",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 646 1401",
-    "sg:postcode":"93023",
-    "sg:province":"CA",
-    "sg:website":"www.ojaihospital.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923223,
-        102086933,
-        85810949
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 646 1401",
+    "sg:postcode": "93023",
+    "sg:province": "CA",
+    "sg:website": "www.ojaihospital.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923223,
+      102086933,
+      85810949
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_1m7NX2ErIhLgsq60YBFidG_34.442983_-119.267337@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "-I-SMjWYCMgAdEDiR10KKeBm6ig",
+      "sg:id": "SG_1m7NX2ErIhLgsq60YBFidG_34.442983_-119.267337@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"ed0948e450cd84e1564dbb94be6f9c4f",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086933,
-            "locality_id":85923223,
-            "neighbourhood_id":85810949,
-            "region_id":85688637,
-            "venue_id":202946717
-        }
+    "wof:country": "US",
+    "wof:created": 1723562485,
+    "wof:geomhash": "ed0948e450cd84e1564dbb94be6f9c4f",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086933,
+        "locality_id": 85923223,
+        "neighbourhood_id": 85810949,
+        "region_id": 85688637,
+        "venue_id": 202946717
+      }
     ],
-    "wof:id":202946717,
-    "wof:lastmodified":1509199910,
-    "wof:name":"Ojai Valley Community Hospital",
-    "wof:parent_id":85810949,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 202946717,
+    "wof:lastmodified": 1723562485,
+    "wof:name": "Ojai Valley Community Hospital",
+    "wof:parent_id": 85810949,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.267337,
     34.442983,
     -119.267337,
     34.442983
-],
+  ],
   "geometry": {"coordinates":[-119.267337,34.442983],"type":"Point"}
 }

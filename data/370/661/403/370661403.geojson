@@ -2,76 +2,80 @@
   "id": 370661403,
   "type": "Feature",
   "properties": {
-    "addr:full":"2339 S La Brea Ave Los Angeles CA 90016",
-    "addr:housenumber":"2339",
-    "addr:postcode":"90016",
-    "addr:street":"S;Brea Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.34967,34.035578,-118.34967,34.035578",
-    "geom:latitude":34.035578,
-    "geom:longitude":-118.34967,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2339 S La Brea Ave",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2339 S La Brea Ave Los Angeles CA 90016",
+    "addr:housenumber": "2339",
+    "addr:postcode": "90016",
+    "addr:street": "S;Brea Ave",
+    "atp:label": "LA BREA VALERO, 2339 S LA BREA AVE LOS ANGELES CA US",
+    "atp:similarity": 2.652561902999878,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.349670,34.035578,-118.349670,34.035578",
+    "geom:latitude": 34.035578,
+    "geom:longitude": -118.34967,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2339 S La Brea Ave",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:postcode":"90016",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        "85865813",
-        102191575,
-        1108694663,
-        85633793,
-        85923517,
-        102086957,
-        85688637
+    "sg:owner": "simplegeo",
+    "sg:postcode": "90016",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102191575,
+      1108694663,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85865813
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5gIJFmdeMuPChxrPLkhshJ_34.035578_-118.349670@1303263152"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "qZEMmqe4VXA4tHWMskGkWQ5FuZI",
+      "sg:id": "SG_5gIJFmdeMuPChxrPLkhshJ_34.035578_-118.349670@1303263152"
     },
-    "wof:country":"US",
-    "wof:geomhash":"124c12a147fb8c86d14a649557603c94",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108694663,
-            "neighbourhood_id":"85865813",
-            "region_id":85688637,
-            "venue_id":370661403
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "124c12a147fb8c86d14a649557603c94",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108694663,
+        "neighbourhood_id": 85865813,
+        "region_id": 85688637,
+        "venue_id": 370661403
+      }
     ],
-    "wof:id":370661403,
-    "wof:lastmodified":1509200790,
-    "wof:name":"La Brea Valero",
-    "wof:parent_id":"85865813",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370661403,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "La Brea Valero",
+    "wof:parent_id": "85865813",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.34967,
     34.035578,
     -118.34967,
     34.035578
-],
+  ],
   "geometry": {"coordinates":[-118.34967,34.035578],"type":"Point"}
 }

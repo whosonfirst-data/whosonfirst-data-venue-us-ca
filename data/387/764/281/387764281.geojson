@@ -2,81 +2,85 @@
   "id": 387764281,
   "type": "Feature",
   "properties": {
-    "addr:full":"5020 West 190Th Street Torrance CA 90503",
-    "addr:housenumber":"5020",
-    "addr:postcode":"90503",
-    "addr:street":"West 190Th Street",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.364381,33.858253,-118.364381,33.858253",
-    "geom:latitude":33.858253,
-    "geom:longitude":-118.364381,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5020 West 190Th Street",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5020 West 190Th Street Torrance CA 90503",
+    "addr:housenumber": "5020",
+    "addr:postcode": "90503",
+    "addr:street": "West 190Th Street",
+    "atp:label": "CVS, 5020 W 190th St Torrance CA US",
+    "atp:similarity": 2.933990001678467,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.364381,33.858253,-118.364381,33.858253",
+    "geom:latitude": 33.858253,
+    "geom:longitude": -118.364381,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "5020 West 190Th Street",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 370 5607",
-    "sg:postcode":"90503",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 370 5607",
+    "sg:postcode": "90503",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923467,
-        102086957,
-        85817689
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923467,
+      102086957,
+      85817689
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_45mfOLU8LSx9C1JjqLBNyG_33.858253_-118.364381@1303263186"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "vXdyv4TV5gdgc4f7V5f8074huNQ",
+      "sg:id": "SG_45mfOLU8LSx9C1JjqLBNyG_33.858253_-118.364381@1303263186"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bcacfe32a9dc7bfc4d2d6ece8d37ead1",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923467,
-            "neighbourhood_id":85817689,
-            "region_id":85688637,
-            "venue_id":387764281
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "bcacfe32a9dc7bfc4d2d6ece8d37ead1",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923467,
+        "neighbourhood_id": 85817689,
+        "region_id": 85688637,
+        "venue_id": 387764281
+      }
     ],
-    "wof:id":387764281,
-    "wof:lastmodified":1512142729,
-    "wof:name":"CVS",
-    "wof:parent_id":85817689,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 387764281,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "CVS",
+    "wof:parent_id": 85817689,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.364381,
     33.858253,
     -118.364381,
     33.858253
-],
-  "geometry": {"coordinates":[-118.36438099999999,33.858253],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.364381,33.858253],"type":"Point"}
 }

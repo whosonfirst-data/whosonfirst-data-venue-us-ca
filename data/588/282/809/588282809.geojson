@@ -2,65 +2,73 @@
   "id": 588282809,
   "type": "Feature",
   "properties": {
-    "addr:full":"150 E Yorba Linda Blvd Placentia CA 92870",
-    "addr:housenumber":"150",
-    "addr:postcode":"ca 92870",
-    "addr:street":"E Yorba Linda Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.864671,33.887613,-117.864671,33.887613",
-    "geom:latitude":33.887613,
-    "geom:longitude":-117.864671,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"150 E Yorba Linda Blvd",
-    "sg:city":"Placentia",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "150 E Yorba Linda Blvd Placentia CA 92870",
+    "addr:housenumber": "150",
+    "addr:postcode": "ca 92870",
+    "addr:street": "E Yorba Linda Blvd",
+    "atp:label": "CVS Pharmacy, 150 East Yorba Linda Boulevard Placentia Placentia CA US",
+    "atp:similarity": 3.1820380687713623,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.864671,33.887613,-117.864671,33.887613",
+    "geom:latitude": 33.887613,
+    "geom:longitude": -117.864671,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "150 E Yorba Linda Blvd",
+    "sg:city": "Placentia",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 528 3112",
-    "sg:postcode":"92870",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 528 3112",
+    "sg:postcode": "92870",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_4m317nweUZUhEfhk62FZLw_33.887613_-117.864671@1303263289"
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "RBi6QcpcbvPIYZuIWL2bXJZqpY8",
+      "sg:id": "SG_4m317nweUZUhEfhk62FZLw_33.887613_-117.864671@1303263289"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b912d32564a400a2bb6b797cf277da93",
-    "wof:hierarchy":[],
-    "wof:id":588282809,
-    "wof:lastmodified":1512142715,
-    "wof:name":"CVS pharmacy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:country": "US",
+    "wof:created": 1723562483,
+    "wof:geomhash": "b912d32564a400a2bb6b797cf277da93",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588282809
+      }
+    ],
+    "wof:id": 588282809,
+    "wof:lastmodified": 1723562483,
+    "wof:name": "CVS pharmacy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -117.864671,
     33.887613,
     -117.864671,
     33.887613
-],
+  ],
   "geometry": {"coordinates":[-117.864671,33.887613],"type":"Point"}
 }

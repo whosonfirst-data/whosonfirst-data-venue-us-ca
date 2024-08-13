@@ -2,59 +2,67 @@
   "id": 555044233,
   "type": "Feature",
   "properties": {
-    "addr:full":"5530 Lake Isabella Blvd Lake Isabella CA 93240",
-    "addr:housenumber":"5530",
-    "addr:postcode":"93240",
-    "addr:street":"Lake Isabella Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.476898,35.618961,-118.476898,35.618961",
-    "geom:latitude":35.618961,
-    "geom:longitude":-118.476898,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5530 Lake Isabella Blvd",
-    "sg:city":"Lake Isabella",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5530 Lake Isabella Blvd Lake Isabella CA 93240",
+    "addr:housenumber": "5530",
+    "addr:postcode": "93240",
+    "addr:street": "Lake Isabella Blvd",
+    "atp:label": "Rite Aid Pharmacy - Lake Isabella, 5530 Lake Isabella Blvd Lake Isabella CA US",
+    "atp:similarity": 3.5469419956207275,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.476898,35.618961,-118.476898,35.618961",
+    "geom:latitude": 35.618961,
+    "geom:longitude": -118.476898,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "5530 Lake Isabella Blvd",
+    "sg:city": "Lake Isabella",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 379 5621",
-    "sg:postcode":"93240",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573891,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2dXIykmYHdtUNebImFPECh_35.618961_-118.476898@1294081369"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 379 5621",
+    "sg:postcode": "93240",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573891,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "0567PYAjLKfl9PFYu3PYs0mfgeo",
+      "sg:id": "SG_2dXIykmYHdtUNebImFPECh_35.618961_-118.476898@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"6edc57bf085b6e89ebeebe6063cccc8a",
-    "wof:hierarchy":[],
-    "wof:id":555044233,
-    "wof:lastmodified":1512142556,
-    "wof:name":"Rite Aid Pharmacy",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723562486,
+    "wof:geomhash": "6edc57bf085b6e89ebeebe6063cccc8a",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555044233
+      }
+    ],
+    "wof:id": 555044233,
+    "wof:lastmodified": 1723562486,
+    "wof:name": "Rite Aid Pharmacy",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.476898,
     35.618961,
     -118.476898,
     35.618961
-],
-  "geometry": {"coordinates":[-118.47689800000001,35.618961],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.476898,35.618961],"type":"Point"}
 }

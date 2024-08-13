@@ -2,83 +2,87 @@
   "id": 572037179,
   "type": "Feature",
   "properties": {
-    "addr:full":"39990 Fremont Blvd Fremont CA 94538",
-    "addr:housenumber":"39990",
-    "addr:postcode":"94538",
-    "addr:street":"Fremont Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.973116,37.540764,-121.973116,37.540764",
-    "geom:latitude":37.540764,
-    "geom:longitude":-121.973116,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"39990 Fremont Blvd",
-    "sg:city":"Fremont",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        }
+    "addr:full": "39990 Fremont Blvd Fremont CA 94538",
+    "addr:housenumber": "39990",
+    "addr:postcode": "94538",
+    "addr:street": "Fremont Blvd",
+    "atp:label": "Andy's Valero, 39990 FREMONT BLVD FREMONT CA US",
+    "atp:similarity": 3.1851019859313965,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.973116,37.540764,-121.973116,37.540764",
+    "geom:latitude": 37.540764,
+    "geom:longitude": -121.973116,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "39990 Fremont Blvd",
+    "sg:city": "Fremont",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 651 3782",
-    "sg:postcode":"94538",
-    "sg:province":"CA",
-    "sg:tags":[
-        "repair",
-        "oil"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 651 3782",
+    "sg:postcode": "94538",
+    "sg:province": "CA",
+    "sg:tags": [
+      "repair",
+      "oil"
     ],
-    "sg:website":"http://www.andysvalero.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921899,
-        102086959,
-        85877575
+    "sg:website": "http://www.andysvalero.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921899,
+      102086959,
+      85877575
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2uFIFmYedEo569FNfvYIVU_37.540859_-121.973257@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "UhF2tPDCMiALSqZUTHRaa4GfH4U",
+      "sg:id": "SG_2uFIFmYedEo569FNfvYIVU_37.540859_-121.973257@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3009fa2e6e717676f2b682972142a91e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921899,
-            "neighbourhood_id":85877575,
-            "region_id":85688637,
-            "venue_id":572037179
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "3009fa2e6e717676f2b682972142a91e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921899,
+        "neighbourhood_id": 85877575,
+        "region_id": 85688637,
+        "venue_id": 572037179
+      }
     ],
-    "wof:id":572037179,
-    "wof:lastmodified":1509201673,
-    "wof:name":"Andy's, Valero",
-    "wof:parent_id":85877575,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "repair",
-        "oil"
+    "wof:id": 572037179,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Andy's, Valero",
+    "wof:parent_id": 85877575,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "repair",
+      "oil"
     ]
-},
+  },
   "bbox": [
     -121.973116,
     37.540764,
     -121.973116,
     37.540764
-],
+  ],
   "geometry": {"coordinates":[-121.973116,37.540764],"type":"Point"}
 }

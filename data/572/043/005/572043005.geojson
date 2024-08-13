@@ -2,84 +2,88 @@
   "id": 572043005,
   "type": "Feature",
   "properties": {
-    "addr:full":"1401 Webster St Alameda CA 94501",
-    "addr:housenumber":"1401",
-    "addr:postcode":"94501",
-    "addr:street":"Webster St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.277,37.7715,-122.277,37.7715",
-    "geom:latitude":37.7715,
-    "geom:longitude":-122.277,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1401 Webster St",
-    "sg:city":"Alameda",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Liquor & Beverages",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1401 Webster St Alameda CA 94501",
+    "addr:housenumber": "1401",
+    "addr:postcode": "94501",
+    "addr:street": "Webster St",
+    "atp:label": "DAVE'S LIQUOR, 1401 Webster St Alameda CA US",
+    "atp:similarity": 2.424765110015869,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.277000,37.771500,-122.277000,37.771500",
+    "geom:latitude": 37.7715,
+    "geom:longitude": -122.277,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1401 Webster St",
+    "sg:city": "Alameda",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Liquor \u0026 Beverages",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 521 8266",
-    "sg:postcode":"94501",
-    "sg:province":"CA",
-    "sg:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 521 8266",
+    "sg:postcode": "94501",
+    "sg:province": "CA",
+    "sg:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921923,
-        102086959,
-        85855415
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921923,
+      102086959,
+      85855415
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_33gh5y9MkLwO2A40aqejhf_37.771459_-122.276894@1293134755"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "MH6uLn2BESylzVuz6CJVz9RTlXE",
+      "sg:id": "SG_33gh5y9MkLwO2A40aqejhf_37.771459_-122.276894@1293134755"
     },
-    "wof:country":"US",
-    "wof:geomhash":"af94a91b15d4ed1247a995107ef2d4fa",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921923,
-            "neighbourhood_id":85855415,
-            "region_id":85688637,
-            "venue_id":572043005
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "af94a91b15d4ed1247a995107ef2d4fa",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921923,
+        "neighbourhood_id": 85855415,
+        "region_id": 85688637,
+        "venue_id": 572043005
+      }
     ],
-    "wof:id":572043005,
-    "wof:lastmodified":1509201674,
-    "wof:name":"Dave's Liquor",
-    "wof:parent_id":85855415,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "beer",
-        "spirit",
-        "wine"
+    "wof:id": 572043005,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Dave's Liquor",
+    "wof:parent_id": 85855415,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "beer",
+      "spirit",
+      "wine"
     ]
-},
+  },
   "bbox": [
     -122.277,
     37.7715,
     -122.277,
     37.7715
-],
+  ],
   "geometry": {"coordinates":[-122.277,37.7715],"type":"Point"}
 }

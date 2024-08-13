@@ -2,80 +2,84 @@
   "id": 572201581,
   "type": "Feature",
   "properties": {
-    "addr:full":"1220 Market St Redding CA 96001",
-    "addr:housenumber":"1220",
-    "addr:postcode":"96001",
-    "addr:street":"Market St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.39217,40.587385,-122.39217,40.587385",
-    "geom:latitude":40.587385,
-    "geom:longitude":-122.39217,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1220 Market St",
-    "sg:city":"Redding",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1220 Market St Redding CA 96001",
+    "addr:housenumber": "1220",
+    "addr:postcode": "96001",
+    "addr:street": "Market St",
+    "atp:label": "Taco Bell, 1220 Market St Redding CA US",
+    "atp:similarity": 2.538583993911743,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.392170,40.587385,-122.392170,40.587385",
+    "geom:latitude": 40.587385,
+    "geom:longitude": -122.39217,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1220 Market St",
+    "sg:city": "Redding",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/redding-anderson/213278-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 246 3826",
-    "sg:postcode":"96001",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ca/redding-anderson/213278-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 246 3826",
+    "sg:postcode": "96001",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923859,
-        102083577,
-        85818197
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923859,
+      102083577,
+      85818197
     ],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0jVThPNck17xamtt1ipF32_40.587385_-122.392170@1299784598"
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "UfoOg5E48GQtpOfR3cbQ87q3rKE",
+      "sg:id": "SG_0jVThPNck17xamtt1ipF32_40.587385_-122.392170@1299784598"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8db3ea5423a6c3e0474ca389cad12ace",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102083577,
-            "locality_id":85923859,
-            "neighbourhood_id":85818197,
-            "region_id":85688637,
-            "venue_id":572201581
-        }
+    "wof:country": "US",
+    "wof:created": 1723562484,
+    "wof:geomhash": "8db3ea5423a6c3e0474ca389cad12ace",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102083577,
+        "locality_id": 85923859,
+        "neighbourhood_id": 85818197,
+        "region_id": 85688637,
+        "venue_id": 572201581
+      }
     ],
-    "wof:id":572201581,
-    "wof:lastmodified":1511321215,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":85818197,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:id": 572201581,
+    "wof:lastmodified": 1723562484,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": 85818197,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -122.39217,
     40.587385,
     -122.39217,
     40.587385
-],
-  "geometry": {"coordinates":[-122.39216999999999,40.587385],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-122.39217,40.587385],"type":"Point"}
 }

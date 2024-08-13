@@ -2,59 +2,67 @@
   "id": 588705013,
   "type": "Feature",
   "properties": {
-    "addr:full":"356 Florin Road Sacramento CA 95831",
-    "addr:housenumber":"356",
-    "addr:postcode":"95831",
-    "addr:street":"Florin Road",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.542032,38.508305,-121.542032,38.508305",
-    "geom:latitude":38.508305,
-    "geom:longitude":-121.542032,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"356 Florin Road",
-    "sg:city":"Sacramento",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "356 Florin Road Sacramento CA 95831",
+    "addr:housenumber": "356",
+    "addr:postcode": "95831",
+    "addr:street": "Florin Road",
+    "atp:label": "Taco Bell, 356 Florin Rd Sacramento CA US",
+    "atp:similarity": 3.1980841159820557,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.542032,38.508305,-121.542032,38.508305",
+    "geom:latitude": 38.508305,
+    "geom:longitude": -121.542032,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "356 Florin Road",
+    "sg:city": "Sacramento",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 916 393 8557",
-    "sg:postcode":"95831",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2VTUjgla3Eb1IWo2WXLyOx_38.508305_-121.542032@1303263398"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 916 393 8557",
+    "sg:postcode": "95831",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "sHwZMa7LGosSQCfDkNNPgO8C3a0",
+      "sg:id": "SG_2VTUjgla3Eb1IWo2WXLyOx_38.508305_-121.542032@1303263398"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1066d474406ad60c24d0a1525f42b85d",
-    "wof:hierarchy":[],
-    "wof:id":588705013,
-    "wof:lastmodified":1511321240,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723562484,
+    "wof:geomhash": "1066d474406ad60c24d0a1525f42b85d",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588705013
+      }
+    ],
+    "wof:id": 588705013,
+    "wof:lastmodified": 1723562484,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.542032,
     38.508305,
     -121.542032,
     38.508305
-],
-  "geometry": {"coordinates":[-121.54203200000001,38.508305],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-121.542032,38.508305],"type":"Point"}
 }

@@ -2,65 +2,73 @@
   "id": 572210191,
   "type": "Feature",
   "properties": {
-    "addr:full":"1183 Hoff Way Orland CA 95963",
-    "addr:housenumber":"1183",
-    "addr:postcode":"95963",
-    "addr:street":"Hoff Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.208551,39.752531,-122.208551,39.752531",
-    "geom:latitude":39.752531,
-    "geom:longitude":-122.208551,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1183 Hoff Way",
-    "sg:city":"Orland",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "1183 Hoff Way Orland CA 95963",
+    "addr:housenumber": "1183",
+    "addr:postcode": "95963",
+    "addr:street": "Hoff Way",
+    "atp:label": "Taco Bell, 1183 Hoff Way Orland CA US",
+    "atp:similarity": 2.773919105529785,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.208551,39.752531,-122.208551,39.752531",
+    "geom:latitude": 39.752531,
+    "geom:longitude": -122.208551,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1183 Hoff Way",
+    "sg:city": "Orland",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/orland/213270-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 865 5615",
-    "sg:postcode":"95963",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ca/orland/213270-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 865 5615",
+    "sg:postcode": "95963",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3VmLFm5pBr1fASrTtL6pag_39.752626_-122.208576@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "6_TbOv9WqrC_aJvOmPavsC8xCNE",
+      "sg:id": "SG_3VmLFm5pBr1fASrTtL6pag_39.752626_-122.208576@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"55a726253e0b0d9303dedcc4c4b637db",
-    "wof:hierarchy":[],
-    "wof:id":572210191,
-    "wof:lastmodified":1510603178,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1723562485,
+    "wof:geomhash": "55a726253e0b0d9303dedcc4c4b637db",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572210191
+      }
+    ],
+    "wof:id": 572210191,
+    "wof:lastmodified": 1723562485,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -122.208551,
     39.752531,
     -122.208551,
     39.752531
-],
+  ],
   "geometry": {"coordinates":[-122.208551,39.752531],"type":"Point"}
 }

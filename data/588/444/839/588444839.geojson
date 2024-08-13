@@ -2,87 +2,91 @@
   "id": 588444839,
   "type": "Feature",
   "properties": {
-    "addr:full":"1321 Galaxy Way Concord CA 94520",
-    "addr:housenumber":"1321",
-    "addr:postcode":"94520",
-    "addr:street":"Galaxy Way",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.049492,37.976672,-122.049492,37.976672",
-    "geom:latitude":37.976672,
-    "geom:longitude":-122.049492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1321 Galaxy Way",
-    "sg:city":"Concord",
-    "sg:classifiers":[
-        {
-            "category":"Retail",
-            "subcategory":"Auto Repair",
-            "type":"Services"
-        }
+    "addr:full": "1321 Galaxy Way Concord CA 94520",
+    "addr:housenumber": "1321",
+    "addr:postcode": "94520",
+    "addr:street": "Galaxy Way",
+    "atp:label": "BMW Concord Collision Center, 1321 Galaxy Way Ste B Concord CA US",
+    "atp:similarity": 2.7154600620269775,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.049492,37.976672,-122.049492,37.976672",
+    "geom:latitude": 37.976672,
+    "geom:longitude": -122.049492,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1321 Galaxy Way",
+    "sg:city": "Concord",
+    "sg:classifiers": [
+      {
+        "category": "Retail",
+        "subcategory": "Auto Repair",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 968 9551",
-    "sg:postcode":"94520",
-    "sg:province":"CA",
-    "sg:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 968 9551",
+    "sg:postcode": "94520",
+    "sg:province": "CA",
+    "sg:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ],
-    "sg:website":"http://www.bmwconcord.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        102532775,
-        85688637,
-        85633793,
-        85922135,
-        102086225,
-        85886927
+    "sg:website": "http://www.bmwconcord.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      102532775,
+      85688637,
+      85633793,
+      85922135,
+      102086225,
+      85886927
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_2FPOp95dA29G7XrIPkEaus_37.976672_-122.049492@1303263330"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "2rKWAfV55wrVyKQFiMxqfeOgbE4",
+      "sg:id": "SG_2FPOp95dA29G7XrIPkEaus_37.976672_-122.049492@1303263330"
     },
-    "wof:country":"US",
-    "wof:geomhash":"915b51b963be6ac428fe3737fd237fa5",
-    "wof:hierarchy":[
-        {
-            "campus_id":102532775,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922135,
-            "neighbourhood_id":85886927,
-            "region_id":85688637,
-            "venue_id":588444839
-        }
+    "wof:country": "US",
+    "wof:created": 1723562483,
+    "wof:geomhash": "915b51b963be6ac428fe3737fd237fa5",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102532775,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922135,
+        "neighbourhood_id": 85886927,
+        "region_id": 85688637,
+        "venue_id": 588444839
+      }
     ],
-    "wof:id":588444839,
-    "wof:lastmodified":1509202067,
-    "wof:name":"BMW Concord Collision Center",
-    "wof:parent_id":102532775,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "body",
-        "painting",
-        "repairing",
-        "automobile"
+    "wof:id": 588444839,
+    "wof:lastmodified": 1723562483,
+    "wof:name": "BMW Concord Collision Center",
+    "wof:parent_id": 102532775,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "body",
+      "painting",
+      "repairing",
+      "automobile"
     ]
-},
+  },
   "bbox": [
     -122.049492,
     37.976672,
     -122.049492,
     37.976672
-],
+  ],
   "geometry": {"coordinates":[-122.049492,37.976672],"type":"Point"}
 }

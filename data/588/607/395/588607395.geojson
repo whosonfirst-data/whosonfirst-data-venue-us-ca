@@ -2,84 +2,88 @@
   "id": 588607395,
   "type": "Feature",
   "properties": {
-    "addr:full":"2514 Berryessa Rd San Jose CA 95132",
-    "addr:housenumber":"2514",
-    "addr:postcode":"95132",
-    "addr:street":"Berryessa Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.858953,37.387168,-121.858953,37.387168",
-    "geom:latitude":37.387168,
-    "geom:longitude":-121.858953,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2514 Berryessa Rd",
-    "sg:city":"San Jose",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2514 Berryessa Rd San Jose CA 95132",
+    "addr:housenumber": "2514",
+    "addr:postcode": "95132",
+    "addr:street": "Berryessa Rd",
+    "atp:label": "CVS, 2514 Berryessa Rd San Jose CA US",
+    "atp:similarity": 2.63144588470459,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.858953,37.387168,-121.858953,37.387168",
+    "geom:latitude": 37.387168,
+    "geom:longitude": -121.858953,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2514 Berryessa Rd",
+    "sg:city": "San Jose",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 408 272 1431",
-    "sg:postcode":"95132",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 408 272 1431",
+    "sg:postcode": "95132",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        420552867,
-        102191575,
-        1108782555,
-        85633793,
-        85922347,
-        102081673,
-        85688637
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      420552867,
+      102191575,
+      1108782555,
+      85633793,
+      85922347,
+      102081673,
+      85688637
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_35vssUhPSB6n3RHWlsJxYm_37.387168_-121.858953@1303263372"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "GlGCnRBzP4ua_AT7puB3imLSduM",
+      "sg:id": "SG_35vssUhPSB6n3RHWlsJxYm_37.387168_-121.858953@1303263372"
     },
-    "wof:country":"US",
-    "wof:geomhash":"a3aaef8b0decbd1370d6def277f23ad8",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102081673,
-            "locality_id":85922347,
-            "macrohood_id":1108782555,
-            "neighbourhood_id":420552867,
-            "region_id":85688637,
-            "venue_id":588607395
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "a3aaef8b0decbd1370d6def277f23ad8",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102081673,
+        "locality_id": 85922347,
+        "macrohood_id": 1108782555,
+        "neighbourhood_id": 420552867,
+        "region_id": 85688637,
+        "venue_id": 588607395
+      }
     ],
-    "wof:id":588607395,
-    "wof:lastmodified":1512142626,
-    "wof:name":"CVS",
-    "wof:parent_id":420552867,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 588607395,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "CVS",
+    "wof:parent_id": 420552867,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -121.858953,
     37.387168,
     -121.858953,
     37.387168
-],
+  ],
   "geometry": {"coordinates":[-121.858953,37.387168],"type":"Point"}
 }

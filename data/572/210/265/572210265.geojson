@@ -2,65 +2,73 @@
   "id": 572210265,
   "type": "Feature",
   "properties": {
-    "addr:full":"228 Main St Red Bluff CA 96080",
-    "addr:housenumber":"228",
-    "addr:postcode":"96080",
-    "addr:street":"Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.231365,40.173433,-122.231365,40.173433",
-    "geom:latitude":40.173433,
-    "geom:longitude":-122.231365,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"228 Main St",
-    "sg:city":"Red Bluff",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "addr:full": "228 Main St Red Bluff CA 96080",
+    "addr:housenumber": "228",
+    "addr:postcode": "96080",
+    "addr:street": "Main St",
+    "atp:label": "Taco Bell, 228 Main St Red Bluff CA US",
+    "atp:similarity": 2.822110891342163,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.231365,40.173433,-122.231365,40.173433",
+    "geom:latitude": 40.173433,
+    "geom:longitude": -122.231365,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "228 Main St",
+    "sg:city": "Red Bluff",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/red-bluff/213283-taco-bell/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 527 2129",
-    "sg:postcode":"96080",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mexican"
+    "sg:menulink": "http://www.allmenus.com/ca/red-bluff/213283-taco-bell/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 527 2129",
+    "sg:postcode": "96080",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mexican"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":420573833,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5VxoiOxIKVxvRMyIhV17OV_40.173785_-122.231674@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 420573833,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "IfAHwZxMxaYF5n-u0U3UPxLbikM",
+      "sg:id": "SG_5VxoiOxIKVxvRMyIhV17OV_40.173785_-122.231674@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"aeb6716e89fcd61326261e6ec67f9e24",
-    "wof:hierarchy":[],
-    "wof:id":572210265,
-    "wof:lastmodified":1511321240,
-    "wof:name":"Taco Bell",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mexican"
+    "wof:country": "US",
+    "wof:created": 1723562485,
+    "wof:geomhash": "aeb6716e89fcd61326261e6ec67f9e24",
+    "wof:hierarchy": [
+      {
+        "venue_id": 572210265
+      }
+    ],
+    "wof:id": 572210265,
+    "wof:lastmodified": 1723562485,
+    "wof:name": "Taco Bell",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mexican"
     ]
-},
+  },
   "bbox": [
     -122.231365,
     40.173433,
     -122.231365,
     40.173433
-],
+  ],
   "geometry": {"coordinates":[-122.231365,40.173433],"type":"Point"}
 }

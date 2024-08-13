@@ -2,75 +2,79 @@
   "id": 387828875,
   "type": "Feature",
   "properties": {
-    "addr:full":"22419 Kent Ave Torrance CA 90505",
-    "addr:housenumber":"22419",
-    "addr:postcode":"90505",
-    "addr:street":"Kent Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.356003,33.824902,-118.356003,33.824902",
-    "geom:latitude":33.824902,
-    "geom:longitude":-118.356003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"22419 Kent Ave",
-    "sg:city":"Torrance",
-    "sg:classifiers":[
-        {
-            "category":"Health Services",
-            "subcategory":"Hospital",
-            "type":"Services"
-        }
+    "addr:full": "22419 Kent Ave Torrance CA 90505",
+    "addr:housenumber": "22419",
+    "addr:postcode": "90505",
+    "addr:street": "Kent Ave",
+    "atp:label": "Del Amo Gardens Convalescent Center, 22419 Kent Ave Torrance CA US",
+    "atp:similarity": 3.6622819900512695,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.356003,33.824902,-118.356003,33.824902",
+    "geom:latitude": 33.824902,
+    "geom:longitude": -118.356003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "22419 Kent Ave",
+    "sg:city": "Torrance",
+    "sg:classifiers": [
+      {
+        "category": "Health Services",
+        "subcategory": "Hospital",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 378 4233",
-    "sg:postcode":"90505",
-    "sg:province":"CA",
-    "sg:website":"www.delamogardens.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923785,
-        102086957,
-        85881581
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 378 4233",
+    "sg:postcode": "90505",
+    "sg:province": "CA",
+    "sg:website": "www.delamogardens.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923785,
+      102086957,
+      85881581
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5C536opCKommzBWt0hM53i_33.824902_-118.356003@1303263187"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "hbWVPudLqnaTq1XRKxLrUUDglko",
+      "sg:id": "SG_5C536opCKommzBWt0hM53i_33.824902_-118.356003@1303263187"
     },
-    "wof:country":"US",
-    "wof:geomhash":"856c532eb348d3b849852d45f09a1a2d",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923785,
-            "neighbourhood_id":85881581,
-            "region_id":85688637,
-            "venue_id":387828875
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "856c532eb348d3b849852d45f09a1a2d",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923785,
+        "neighbourhood_id": 85881581,
+        "region_id": 85688637,
+        "venue_id": 387828875
+      }
     ],
-    "wof:id":387828875,
-    "wof:lastmodified":1509201105,
-    "wof:name":"Del AMO Gardens Convalescent Hospital",
-    "wof:parent_id":85881581,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387828875,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "Del AMO Gardens Convalescent Hospital",
+    "wof:parent_id": 85881581,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.356003,
     33.824902,
     -118.356003,
     33.824902
-],
+  ],
   "geometry": {"coordinates":[-118.356003,33.824902],"type":"Point"}
 }

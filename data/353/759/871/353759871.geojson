@@ -2,74 +2,78 @@
   "id": 353759871,
   "type": "Feature",
   "properties": {
-    "addr:full":"1201 B St Marysville CA 95901",
-    "addr:housenumber":"1201",
-    "addr:postcode":"95901",
-    "addr:street":"B St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.5872,39.149542,-121.5872,39.149542",
-    "geom:latitude":39.149542,
-    "geom:longitude":-121.5872,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1201 B St",
-    "sg:city":"Marysville",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1201 B St Marysville CA 95901",
+    "addr:housenumber": "1201",
+    "addr:postcode": "95901",
+    "addr:street": "B St",
+    "atp:label": "Quik Stop, 1201 B St Marysville CA US",
+    "atp:similarity": 2.577570915222168,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.587200,39.149542,-121.587200,39.149542",
+    "geom:latitude": 39.149542,
+    "geom:longitude": -121.5872,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1201 B St",
+    "sg:city": "Marysville",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 743 8378",
-    "sg:postcode":"95901",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922837,
-        102082893
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 743 8378",
+    "sg:postcode": "95901",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922837,
+      102082893
     ],
-    "wof:brand_id":1125155419,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3LowHrO2D91UcNF3bn37xf_39.149542_-121.587200@1294081369"
+    "wof:brand_id": 1125155419,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "fg0UGQ1jq64TcF2SgjWwARv8x9Y",
+      "sg:id": "SG_3LowHrO2D91UcNF3bn37xf_39.149542_-121.587200@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4fc8589cfd38998c87dd6c8f6ed691b6",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082893,
-            "locality_id":85922837,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":353759871
-        }
+    "wof:country": "US",
+    "wof:created": 1723562484,
+    "wof:geomhash": "4fc8589cfd38998c87dd6c8f6ed691b6",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082893,
+        "locality_id": 85922837,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 353759871
+      }
     ],
-    "wof:id":353759871,
-    "wof:lastmodified":1510875233,
-    "wof:name":"Quik Stop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 353759871,
+    "wof:lastmodified": 1723562484,
+    "wof:name": "Quik Stop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.5872,
     39.149542,
     -121.5872,
     39.149542
-],
+  ],
   "geometry": {"coordinates":[-121.5872,39.149542],"type":"Point"}
 }

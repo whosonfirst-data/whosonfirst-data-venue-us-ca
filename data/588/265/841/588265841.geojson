@@ -2,87 +2,91 @@
   "id": 588265841,
   "type": "Feature",
   "properties": {
-    "addr:full":"12100 Harbor Blvd Garden Grove CA 92840",
-    "addr:housenumber":"12100",
-    "addr:postcode":"92840",
-    "addr:street":"Harbor Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.915001,33.7873,-117.915001,33.7873",
-    "geom:latitude":33.7873,
-    "geom:longitude":-117.915001,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"12100 Harbor Blvd",
-    "sg:city":"Garden Grove",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "12100 Harbor Blvd Garden Grove CA 92840",
+    "addr:housenumber": "12100",
+    "addr:postcode": "92840",
+    "addr:street": "Harbor Blvd",
+    "atp:label": "Target, 12100 Harbor Blvd Garden Grove CA US",
+    "atp:similarity": 2.457551956176758,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.915001,33.787300,-117.915001,33.787300",
+    "geom:latitude": 33.7873,
+    "geom:longitude": -117.915001,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "12100 Harbor Blvd",
+    "sg:city": "Garden Grove",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 895 1132",
-    "sg:postcode":"92840",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 895 1132",
+    "sg:postcode": "92840",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.target.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923167,
-        102080847,
-        85873145
+    "sg:website": "www.target.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923167,
+      102080847,
+      85873145
     ],
-    "wof:brand_id":420574115,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_01pqdumnel5KN8EkVdan8k_33.787300_-117.915001@1303263284"
+    "wof:brand_id": 420574115,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "TMJi0w3ZVWVbH3kg4Gd9hNQCA_4",
+      "sg:id": "SG_01pqdumnel5KN8EkVdan8k_33.787300_-117.915001@1303263284"
     },
-    "wof:country":"US",
-    "wof:geomhash":"45c4a13da4a06110695c0c2fd983c5ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923167,
-            "neighbourhood_id":85873145,
-            "region_id":85688637,
-            "venue_id":588265841
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "45c4a13da4a06110695c0c2fd983c5ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923167,
+        "neighbourhood_id": 85873145,
+        "region_id": 85688637,
+        "venue_id": 588265841
+      }
     ],
-    "wof:id":588265841,
-    "wof:lastmodified":1511323418,
-    "wof:name":"Target",
-    "wof:parent_id":85873145,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 588265841,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Target",
+    "wof:parent_id": 85873145,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -117.915001,
     33.7873,
     -117.915001,
     33.7873
-],
+  ],
   "geometry": {"coordinates":[-117.915001,33.7873],"type":"Point"}
 }

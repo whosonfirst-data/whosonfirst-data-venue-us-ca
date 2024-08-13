@@ -2,74 +2,78 @@
   "id": 353949567,
   "type": "Feature",
   "properties": {
-    "addr:full":"9547 S Union Ave Bakersfield CA 93307",
-    "addr:housenumber":"9547",
-    "addr:postcode":"93307",
-    "addr:street":"S Union Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.003135,35.270173,-119.003135,35.270173",
-    "geom:latitude":35.270173,
-    "geom:longitude":-119.003135,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"9547 S Union Ave",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "9547 S Union Ave Bakersfield CA 93307",
+    "addr:housenumber": "9547",
+    "addr:postcode": "93307",
+    "addr:street": "S Union Ave",
+    "atp:label": "STOCKDALE RANCH MARKET, 9547 S UNION AVE BAKERSFIELD CA US",
+    "atp:similarity": 1.9959800243377686,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.003135,35.270173,-119.003135,35.270173",
+    "geom:latitude": 35.270173,
+    "geom:longitude": -119.003135,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "9547 S Union Ave",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 834 6834",
-    "sg:postcode":"93307",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85857659
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 834 6834",
+    "sg:postcode": "93307",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85857659
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5RAKce9NTBnZFL5vQ5KDzh_35.270173_-119.003135@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "OdLeisAJnEdNlu36tHDyKnBUhCY",
+      "sg:id": "SG_5RAKce9NTBnZFL5vQ5KDzh_35.270173_-119.003135@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"23a9f6fa9e53cf59ab2ec453a7517314",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85857659,
-            "region_id":85688637,
-            "venue_id":353949567
-        }
+    "wof:country": "US",
+    "wof:created": 1723562486,
+    "wof:geomhash": "23a9f6fa9e53cf59ab2ec453a7517314",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85857659,
+        "region_id": 85688637,
+        "venue_id": 353949567
+      }
     ],
-    "wof:id":353949567,
-    "wof:lastmodified":1509200621,
-    "wof:name":"Stockdale Ranch Market",
-    "wof:parent_id":85857659,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 353949567,
+    "wof:lastmodified": 1723562486,
+    "wof:name": "Stockdale Ranch Market",
+    "wof:parent_id": 85857659,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.003135,
     35.270173,
     -119.003135,
     35.270173
-],
+  ],
   "geometry": {"coordinates":[-119.003135,35.270173],"type":"Point"}
 }

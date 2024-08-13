@@ -2,82 +2,86 @@
   "id": 588255411,
   "type": "Feature",
   "properties": {
-    "addr:full":"460 S Anaheim Hills Rd Anaheim CA 92807",
-    "addr:housenumber":"460",
-    "addr:postcode":"92807",
-    "addr:street":"S Anaheim Hills Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.775299,33.84475,-117.775299,33.84475",
-    "geom:latitude":33.84475,
-    "geom:longitude":-117.775299,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"460 S Anaheim Hills Rd",
-    "sg:city":"Anaheim",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "460 S Anaheim Hills Rd Anaheim CA 92807",
+    "addr:housenumber": "460",
+    "addr:postcode": "92807",
+    "addr:street": "S Anaheim Hills Rd",
+    "atp:label": "CVS Pharmacy, 460 South Anaheim Hills Road Anaheim Anaheim CA US",
+    "atp:similarity": 3.5795109272003174,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.775299,33.844750,-117.775299,33.844750",
+    "geom:latitude": 33.84475,
+    "geom:longitude": -117.775299,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "460 S Anaheim Hills Rd",
+    "sg:city": "Anaheim",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 714 921 0275",
-    "sg:postcode":"92807",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 714 921 0275",
+    "sg:postcode": "92807",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923167,
-        102080847,
-        85873143
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923167,
+      102080847,
+      85873143
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5wVWo7IWh7NbOQQlRAHEYB_33.844750_-117.775299@1303263282"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "uychCRtvTvjkEcm283k5Y_MrW9M",
+      "sg:id": "SG_5wVWo7IWh7NbOQQlRAHEYB_33.844750_-117.775299@1303263282"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8fe6ac2b453c6fc7cb42f9b18508d5a9",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102080847,
-            "locality_id":85923167,
-            "neighbourhood_id":85873143,
-            "region_id":85688637,
-            "venue_id":588255411
-        }
+    "wof:country": "US",
+    "wof:created": 1723562483,
+    "wof:geomhash": "8fe6ac2b453c6fc7cb42f9b18508d5a9",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102080847,
+        "locality_id": 85923167,
+        "neighbourhood_id": 85873143,
+        "region_id": 85688637,
+        "venue_id": 588255411
+      }
     ],
-    "wof:id":588255411,
-    "wof:lastmodified":1512142687,
-    "wof:name":"CVS Pharmacy",
-    "wof:parent_id":85873143,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 588255411,
+    "wof:lastmodified": 1723562483,
+    "wof:name": "CVS Pharmacy",
+    "wof:parent_id": 85873143,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -117.775299,
     33.84475,
     -117.775299,
     33.84475
-],
+  ],
   "geometry": {"coordinates":[-117.775299,33.84475],"type":"Point"}
 }

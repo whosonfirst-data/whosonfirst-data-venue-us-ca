@@ -2,75 +2,79 @@
   "id": 354093663,
   "type": "Feature",
   "properties": {
-    "addr:full":"120 W Parkridge Ave Corona CA 92880",
-    "addr:housenumber":"120",
-    "addr:postcode":"92880",
-    "addr:street":"W Parkridge Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.564986,33.894666,-117.564986,33.894666",
-    "geom:latitude":33.894666,
-    "geom:longitude":-117.564986,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"120 W Parkridge Ave",
-    "sg:city":"Corona",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "120 W Parkridge Ave Corona CA 92880",
+    "addr:housenumber": "120",
+    "addr:postcode": "92880",
+    "addr:street": "W Parkridge Ave",
+    "atp:label": "Walgreens, 120 W Parkridge Ave Corona CA US",
+    "atp:similarity": 2.898343086242676,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.564986,33.894666,-117.564986,33.894666",
+    "geom:latitude": 33.894666,
+    "geom:longitude": -117.564986,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "120 W Parkridge Ave",
+    "sg:city": "Corona",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 278 1217",
-    "sg:postcode":"92880",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923367,
-        102086221,
-        85886609
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 278 1217",
+    "sg:postcode": "92880",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923367,
+      102086221,
+      85886609
     ],
-    "wof:brand_id":420573797,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_05DphtqL8mFVKi9EJApTAT_33.894666_-117.564986@1294081369"
+    "wof:brand_id": 420573797,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "tQVbYXFBhEFKa2lpDHxlP2aEhhw",
+      "sg:id": "SG_05DphtqL8mFVKi9EJApTAT_33.894666_-117.564986@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3791b614a99e0b99e8a2ad55d1fb46e2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923367,
-            "neighbourhood_id":85886609,
-            "region_id":85688637,
-            "venue_id":354093663
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "3791b614a99e0b99e8a2ad55d1fb46e2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923367,
+        "neighbourhood_id": 85886609,
+        "region_id": 85688637,
+        "venue_id": 354093663
+      }
     ],
-    "wof:id":354093663,
-    "wof:lastmodified":1511322335,
-    "wof:name":"Walgreens",
-    "wof:parent_id":85886609,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 354093663,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Walgreens",
+    "wof:parent_id": 85886609,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.564986,
     33.894666,
     -117.564986,
     33.894666
-],
+  ],
   "geometry": {"coordinates":[-117.564986,33.894666],"type":"Point"}
 }

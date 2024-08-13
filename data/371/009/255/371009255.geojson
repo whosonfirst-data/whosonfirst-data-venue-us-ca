@@ -2,81 +2,85 @@
   "id": 371009255,
   "type": "Feature",
   "properties": {
-    "addr:full":"2530 Glendale Blvd Los Angeles CA 90039",
-    "addr:housenumber":"2530",
-    "addr:postcode":"90039",
-    "addr:street":"Glendale Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.259163,34.103557,-118.259163,34.103557",
-    "geom:latitude":34.103557,
-    "geom:longitude":-118.259163,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"2530 Glendale Blvd",
-    "sg:city":"Los Angeles",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "2530 Glendale Blvd Los Angeles CA 90039",
+    "addr:housenumber": "2530",
+    "addr:postcode": "90039",
+    "addr:street": "Glendale Blvd",
+    "atp:label": "CVS, 2530 Glendale Blvd Los Angeles CA US",
+    "atp:similarity": 3.077363967895508,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.259163,34.103557,-118.259163,34.103557",
+    "geom:latitude": 34.103557,
+    "geom:longitude": -118.259163,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2530 Glendale Blvd",
+    "sg:city": "Los Angeles",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 323 666 1285",
-    "sg:postcode":"90039",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 323 666 1285",
+    "sg:postcode": "90039",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"www.cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923517,
-        102086957,
-        85848721
+    "sg:website": "www.cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923517,
+      102086957,
+      85848721
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5idvveV9lw8x0m9EK2fyxw_34.103557_-118.259163@1303263161"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "kZm35TgbOkaMpjCfhBDqEfRql0U",
+      "sg:id": "SG_5idvveV9lw8x0m9EK2fyxw_34.103557_-118.259163@1303263161"
     },
-    "wof:country":"US",
-    "wof:geomhash":"5d2db33fb90d75ffcfc3d8d587e73a41",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "neighbourhood_id":85848721,
-            "region_id":85688637,
-            "venue_id":371009255
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "5d2db33fb90d75ffcfc3d8d587e73a41",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "neighbourhood_id": 85848721,
+        "region_id": 85688637,
+        "venue_id": 371009255
+      }
     ],
-    "wof:id":371009255,
-    "wof:lastmodified":1512142689,
-    "wof:name":"CVS",
-    "wof:parent_id":85848721,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 371009255,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "CVS",
+    "wof:parent_id": 85848721,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.259163,
     34.103557,
     -118.259163,
     34.103557
-],
+  ],
   "geometry": {"coordinates":[-118.259163,34.103557],"type":"Point"}
 }

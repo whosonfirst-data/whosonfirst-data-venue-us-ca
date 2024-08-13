@@ -2,83 +2,87 @@
   "id": 572369725,
   "type": "Feature",
   "properties": {
-    "addr:full":"4151 El Cajon Boulevard Suite D San Diego CA 92105",
-    "addr:housenumber":"4151",
-    "addr:postcode":"92105",
-    "addr:street":"El Cajon Boulevard Suite D",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.10584,32.755048,-117.10584,32.755048",
-    "geom:latitude":32.755048,
-    "geom:longitude":-117.10584,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4151 El Cajon Boulevard Suite D",
-    "sg:city":"San Diego",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Bakery",
-            "type":"Retail Goods"
-        }
+    "addr:full": "4151 El Cajon Boulevard Suite D San Diego CA 92105",
+    "addr:housenumber": "4151",
+    "addr:postcode": "92105",
+    "addr:street": "El Cajon Boulevard Suite D",
+    "atp:label": "Subway, 4151 El Cajon Blvd Suite D San Diego San Diego CA US",
+    "atp:similarity": 3.018671989440918,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.105840,32.755048,-117.105840,32.755048",
+    "geom:latitude": 32.755048,
+    "geom:longitude": -117.10584,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "4151 El Cajon Boulevard Suite D",
+    "sg:city": "San Diego",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Bakery",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 619 282 6464",
-    "sg:postcode":"92105",
-    "sg:province":"CA",
-    "sg:tags":[
-        "sandwich"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 619 282 6464",
+    "sg:postcode": "92105",
+    "sg:province": "CA",
+    "sg:tags": [
+      "sandwich"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85887379,
-        102191575,
-        1108800865,
-        85633793,
-        85922227,
-        102083569,
-        85688637
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85887379,
+      102191575,
+      1108800865,
+      85633793,
+      85922227,
+      102083569,
+      85688637
     ],
-    "wof:brand_id":420573791,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5aO10jH8GWzhSUE8dI8ZOX_32.755048_-117.105840@1303263243"
+    "wof:brand_id": 420573791,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "Xpv0s25EUoi-yO9Flgb5idneVr0",
+      "sg:id": "SG_5aO10jH8GWzhSUE8dI8ZOX_32.755048_-117.105840@1303263243"
     },
-    "wof:country":"US",
-    "wof:geomhash":"bc12f175f9ac7b0c3bf00506ba731d0e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922227,
-            "macrohood_id":1108800865,
-            "neighbourhood_id":85887379,
-            "region_id":85688637,
-            "venue_id":572369725
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "bc12f175f9ac7b0c3bf00506ba731d0e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922227,
+        "macrohood_id": 1108800865,
+        "neighbourhood_id": 85887379,
+        "region_id": 85688637,
+        "venue_id": 572369725
+      }
     ],
-    "wof:id":572369725,
-    "wof:lastmodified":1511322183,
-    "wof:name":"Subway",
-    "wof:parent_id":85887379,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "sandwich"
+    "wof:id": 572369725,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Subway",
+    "wof:parent_id": 85887379,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "sandwich"
     ]
-},
+  },
   "bbox": [
     -117.10584,
     32.755048,
     -117.10584,
     32.755048
-],
+  ],
   "geometry": {"coordinates":[-117.10584,32.755048],"type":"Point"}
 }

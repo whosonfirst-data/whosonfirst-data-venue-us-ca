@@ -2,79 +2,83 @@
   "id": 387572323,
   "type": "Feature",
   "properties": {
-    "addr:full":"1800 N Main St Walnut Creek CA 94596",
-    "addr:housenumber":"1800",
-    "addr:postcode":"94596",
-    "addr:street":"N Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.063222,37.904071,-122.063222,37.904071",
-    "geom:latitude":37.904071,
-    "geom:longitude":-122.063222,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1800 N Main St",
-    "sg:city":"Walnut Creek",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Automobile Sales",
-            "type":"Retail Goods"
-        }
+    "addr:full": "1800 N Main St Walnut Creek CA 94596",
+    "addr:housenumber": "1800",
+    "addr:postcode": "94596",
+    "addr:street": "N Main St",
+    "atp:label": "Walnut Creek Ford, 1800 N Main St Walnut Creek CA US",
+    "atp:similarity": 3.261154890060425,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.063222,37.904071,-122.063222,37.904071",
+    "geom:latitude": 37.904071,
+    "geom:longitude": -122.063222,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1800 N Main St",
+    "sg:city": "Walnut Creek",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Automobile Sales",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 925 932 2900",
-    "sg:postcode":"94596",
-    "sg:province":"CA",
-    "sg:tags":[
-        "dealer"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 925 932 2900",
+    "sg:postcode": "94596",
+    "sg:province": "CA",
+    "sg:tags": [
+      "dealer"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922117,
-        102086225,
-        85888191
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922117,
+      102086225,
+      85888191
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0IxV3UIYnkRSHF6k4HTABp_37.904071_-122.063222@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "gO4y9rx2YPmmC3qMkJUn4KloWwY",
+      "sg:id": "SG_0IxV3UIYnkRSHF6k4HTABp_37.904071_-122.063222@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"8a597e8953ae2f6284705604d93add77",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086225,
-            "locality_id":85922117,
-            "neighbourhood_id":85888191,
-            "region_id":85688637,
-            "venue_id":387572323
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "8a597e8953ae2f6284705604d93add77",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086225,
+        "locality_id": 85922117,
+        "neighbourhood_id": 85888191,
+        "region_id": 85688637,
+        "venue_id": 387572323
+      }
     ],
-    "wof:id":387572323,
-    "wof:lastmodified":1509201057,
-    "wof:name":"Walnut Creek Ford",
-    "wof:parent_id":85888191,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "dealer"
+    "wof:id": 387572323,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "Walnut Creek Ford",
+    "wof:parent_id": 85888191,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "dealer"
     ]
-},
+  },
   "bbox": [
     -122.063222,
     37.904071,
     -122.063222,
     37.904071
-],
+  ],
   "geometry": {"coordinates":[-122.063222,37.904071],"type":"Point"}
 }

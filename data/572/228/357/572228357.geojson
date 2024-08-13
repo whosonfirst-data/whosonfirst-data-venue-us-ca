@@ -2,90 +2,94 @@
   "id": 572228357,
   "type": "Feature",
   "properties": {
-    "addr:full":"311 W Los Feliz Rd Glendale CA 91204",
-    "addr:housenumber":"311",
-    "addr:postcode":"91204",
-    "addr:street":"W Los Feliz Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.258003,34.128502,-118.258003,34.128502",
-    "geom:latitude":34.128502,
-    "geom:longitude":-118.258003,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"311 W Los Feliz Rd",
-    "sg:city":"Glendale",
-    "sg:classifiers":[
-        {
-            "category":"Bakery",
-            "subcategory":"",
-            "type":"Food & Drink"
-        },
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "311 W Los Feliz Rd Glendale CA 91204",
+    "addr:housenumber": "311",
+    "addr:postcode": "91204",
+    "addr:street": "W Los Feliz Rd",
+    "atp:label": "Vons Pharmacy, 311 W Los Feliz Blvd Glendale CA US",
+    "atp:similarity": 2.472588062286377,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.258003,34.128502,-118.258003,34.128502",
+    "geom:latitude": 34.128502,
+    "geom:longitude": -118.258003,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "311 W Los Feliz Rd",
+    "sg:city": "Glendale",
+    "sg:classifiers": [
+      {
+        "category": "Bakery",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      },
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 818 246 8189",
-    "sg:postcode":"91204",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 818 246 8189",
+    "sg:postcode": "91204",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923615,
-        102086957,
-        "85877765"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923615,
+      102086957,
+      85877765
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0SKCOhKnQp3iNXiwMRSJOV_34.128502_-118.258003@1303263207"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "jD8_FUD5l-sxsOnV02ke8wtMcV0",
+      "sg:id": "SG_0SKCOhKnQp3iNXiwMRSJOV_34.128502_-118.258003@1303263207"
     },
-    "wof:country":"US",
-    "wof:geomhash":"e12d486010a6aad0062247a3b7d4548f",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923615,
-            "neighbourhood_id":"85877765",
-            "region_id":85688637,
-            "venue_id":572228357
-        }
+    "wof:country": "US",
+    "wof:created": 1723562480,
+    "wof:geomhash": "e12d486010a6aad0062247a3b7d4548f",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923615,
+        "neighbourhood_id": 85877765,
+        "region_id": 85688637,
+        "venue_id": 572228357
+      }
     ],
-    "wof:id":572228357,
-    "wof:lastmodified":1509201748,
-    "wof:name":"Vons Pharmacy",
-    "wof:parent_id":"85877765",
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 572228357,
+    "wof:lastmodified": 1723562480,
+    "wof:name": "Vons Pharmacy",
+    "wof:parent_id": "85877765",
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.258003,
     34.128502,
     -118.258003,
     34.128502
-],
+  ],
   "geometry": {"coordinates":[-118.258003,34.128502],"type":"Point"}
 }

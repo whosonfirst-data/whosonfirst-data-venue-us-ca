@@ -2,74 +2,78 @@
   "id": 370323419,
   "type": "Feature",
   "properties": {
-    "addr:full":"339 Williams Rd Salinas CA 93905",
-    "addr:housenumber":"339",
-    "addr:postcode":"93905",
-    "addr:street":"Williams Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.611287,36.677274,-121.611287,36.677274",
-    "geom:latitude":36.677274,
-    "geom:longitude":-121.611287,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"339 Williams Rd",
-    "sg:city":"Salinas",
-    "sg:classifiers":[
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "339 Williams Rd Salinas CA 93905",
+    "addr:housenumber": "339",
+    "addr:postcode": "93905",
+    "addr:street": "Williams Rd",
+    "atp:label": "Quik Stop, 339 Williams Rd Salinas CA US",
+    "atp:similarity": 2.8512160778045654,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.611287,36.677274,-121.611287,36.677274",
+    "geom:latitude": 36.677274,
+    "geom:longitude": -121.611287,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "339 Williams Rd",
+    "sg:city": "Salinas",
+    "sg:classifiers": [
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 831 758 6221",
-    "sg:postcode":"93905",
-    "sg:province":"CA",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922603,
-        102080859
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 831 758 6221",
+    "sg:postcode": "93905",
+    "sg:province": "CA",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922603,
+      102080859
     ],
-    "wof:brand_id":1125155419,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7bdCOkA7haDyLbbrYlRkNh_36.677274_-121.611287@1294081369"
+    "wof:brand_id": 1125155419,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "iVPLmxKjgup9RKVxAkA4zIoUmR4",
+      "sg:id": "SG_7bdCOkA7haDyLbbrYlRkNh_36.677274_-121.611287@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0705366e1875d1db39cd7451974f9d28",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102080859,
-            "locality_id":85922603,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":370323419
-        }
+    "wof:country": "US",
+    "wof:created": 1723562483,
+    "wof:geomhash": "0705366e1875d1db39cd7451974f9d28",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102080859,
+        "locality_id": 85922603,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 370323419
+      }
     ],
-    "wof:id":370323419,
-    "wof:lastmodified":1510875233,
-    "wof:name":"Quik Stop",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370323419,
+    "wof:lastmodified": 1723562483,
+    "wof:name": "Quik Stop",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.611287,
     36.677274,
     -121.611287,
     36.677274
-],
+  ],
   "geometry": {"coordinates":[-121.611287,36.677274],"type":"Point"}
 }

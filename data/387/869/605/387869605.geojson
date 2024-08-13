@@ -2,81 +2,85 @@
   "id": 387869605,
   "type": "Feature",
   "properties": {
-    "addr:full":"10048 Mills Ave Whittier CA 90604",
-    "addr:housenumber":"10048",
-    "addr:postcode":"90604",
-    "addr:street":"Mills Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.028528,33.941936,-118.028528,33.941936",
-    "geom:latitude":33.941936,
-    "geom:longitude":-118.028528,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"10048 Mills Ave",
-    "sg:city":"Whittier",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "10048 Mills Ave Whittier CA 90604",
+    "addr:housenumber": "10048",
+    "addr:postcode": "90604",
+    "addr:street": "Mills Ave",
+    "atp:label": "CVS Pharmacy, 10048 Mills Ave. Whittier Whittier CA US",
+    "atp:similarity": 3.5457139015197754,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.028528,33.941936,-118.028528,33.941936",
+    "geom:latitude": 33.941936,
+    "geom:longitude": -118.028528,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "10048 Mills Ave",
+    "sg:city": "Whittier",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 903 9678",
-    "sg:postcode":"90604",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 903 9678",
+    "sg:postcode": "90604",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "sg:website":"cvs.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85928399,
-        102086957,
-        85850209
+    "sg:website": "cvs.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85928399,
+      102086957,
+      85850209
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_7g6pFQIxd32mZcHO6npTGB_33.941936_-118.028528@1303263188"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "mHeSrbAtGuSsBy3WRaeUc97CCWY",
+      "sg:id": "SG_7g6pFQIxd32mZcHO6npTGB_33.941936_-118.028528@1303263188"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1df94945967f2fa9dcee38edecd933ed",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85928399,
-            "neighbourhood_id":85850209,
-            "region_id":85688637,
-            "venue_id":387869605
-        }
+    "wof:country": "US",
+    "wof:created": 1723562484,
+    "wof:geomhash": "1df94945967f2fa9dcee38edecd933ed",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85928399,
+        "neighbourhood_id": 85850209,
+        "region_id": 85688637,
+        "venue_id": 387869605
+      }
     ],
-    "wof:id":387869605,
-    "wof:lastmodified":1512142686,
-    "wof:name":"CVS Pharmacy",
-    "wof:parent_id":85850209,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 387869605,
+    "wof:lastmodified": 1723562484,
+    "wof:name": "CVS Pharmacy",
+    "wof:parent_id": 85850209,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.028528,
     33.941936,
     -118.028528,
     33.941936
-],
-  "geometry": {"coordinates":[-118.02852799999999,33.941936],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-118.028528,33.941936],"type":"Point"}
 }

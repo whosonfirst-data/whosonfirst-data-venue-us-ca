@@ -2,82 +2,86 @@
   "id": 588522085,
   "type": "Feature",
   "properties": {
-    "addr:full":"3048 Ashby Ave Berkeley CA 94705",
-    "addr:housenumber":"3048",
-    "addr:postcode":"94705",
-    "addr:street":"Ashby Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.244602,37.858086,-122.244602,37.858086",
-    "geom:latitude":37.858086,
-    "geom:longitude":-122.244602,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"3048 Ashby Ave",
-    "sg:city":"Berkeley",
-    "sg:classifiers":[
-        {
-            "category":"Autos & Motor Vehicles",
-            "subcategory":"Fuel & Gas Station",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Food & Beverages",
-            "subcategory":"Groceries & Convenience Stores",
-            "type":"Retail Goods"
-        }
+    "addr:full": "3048 Ashby Ave Berkeley CA 94705",
+    "addr:housenumber": "3048",
+    "addr:postcode": "94705",
+    "addr:street": "Ashby Ave",
+    "atp:label": "Chevron, 3048 ASHBY AVENUE BERKELEY CA US",
+    "atp:similarity": 2.4723830223083496,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.244602,37.858086,-122.244602,37.858086",
+    "geom:latitude": 37.858086,
+    "geom:longitude": -122.244602,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "3048 Ashby Ave",
+    "sg:city": "Berkeley",
+    "sg:classifiers": [
+      {
+        "category": "Autos \u0026 Motor Vehicles",
+        "subcategory": "Fuel \u0026 Gas Station",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Food \u0026 Beverages",
+        "subcategory": "Groceries \u0026 Convenience Stores",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 510 841 3939",
-    "sg:postcode":"94705",
-    "sg:province":"CA",
-    "sg:website":"http://www.chevron.com/products/",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85921915,
-        102086959,
-        85876231
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 510 841 3939",
+    "sg:postcode": "94705",
+    "sg:province": "CA",
+    "sg:website": "http://www.chevron.com/products/",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85921915,
+      102086959,
+      85876231
     ],
-    "wof:brand_id":420574043,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_6OkZWSKDDP6YaQPUIolWgU_37.858086_-122.244602@1303263350"
+    "wof:brand_id": 420574043,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "L47bzIKBCLImPtRoZ5GGCLxaYZ4",
+      "sg:id": "SG_6OkZWSKDDP6YaQPUIolWgU_37.858086_-122.244602@1303263350"
     },
-    "wof:country":"US",
-    "wof:geomhash":"0db8500fbd7b3a09fe06e8330920e4ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086959,
-            "locality_id":85921915,
-            "neighbourhood_id":85876231,
-            "region_id":85688637,
-            "venue_id":588522085
-        }
+    "wof:country": "US",
+    "wof:created": 1723562482,
+    "wof:geomhash": "0db8500fbd7b3a09fe06e8330920e4ef",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086959,
+        "locality_id": 85921915,
+        "neighbourhood_id": 85876231,
+        "region_id": 85688637,
+        "venue_id": 588522085
+      }
     ],
-    "wof:id":588522085,
-    "wof:lastmodified":1511324639,
-    "wof:name":"Chevron",
-    "wof:parent_id":85876231,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588522085,
+    "wof:lastmodified": 1723562482,
+    "wof:name": "Chevron",
+    "wof:parent_id": 85876231,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.244602,
     37.858086,
     -122.244602,
     37.858086
-],
+  ],
   "geometry": {"coordinates":[-122.244602,37.858086],"type":"Point"}
 }

@@ -2,80 +2,84 @@
   "id": 403876325,
   "type": "Feature",
   "properties": {
-    "addr:full":"5117 Lakewood Blvd Lakewood CA 90712",
-    "addr:housenumber":"5117",
-    "addr:postcode":"90712",
-    "addr:street":"Lakewood Blvd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.143466,33.851512,-118.143466,33.851512",
-    "geom:latitude":33.851512,
-    "geom:longitude":-118.143466,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"5117 Lakewood Blvd",
-    "sg:city":"Lakewood",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Pharmacy",
-            "type":"Retail Goods"
-        }
+    "addr:full": "5117 Lakewood Blvd Lakewood CA 90712",
+    "addr:housenumber": "5117",
+    "addr:postcode": "90712",
+    "addr:street": "Lakewood Blvd",
+    "atp:label": "CVS Pharmacy, 5117 Lakewood Boulevard Lakewood Lakewood CA US",
+    "atp:similarity": 3.323436975479126,
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.143466,33.851512,-118.143466,33.851512",
+    "geom:latitude": 33.851512,
+    "geom:longitude": -118.143466,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "5117 Lakewood Blvd",
+    "sg:city": "Lakewood",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Pharmacy",
+        "type": "Retail Goods"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 562 634 9100",
-    "sg:postcode":"90712",
-    "sg:province":"CA",
-    "sg:tags":[
-        "drugstore"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 562 634 9100",
+    "sg:postcode": "90712",
+    "sg:province": "CA",
+    "sg:tags": [
+      "drugstore"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923557,
-        102086957,
-        85886243
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923557,
+      102086957,
+      85886243
     ],
-    "wof:brand_id":420573805,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_15I2GBkTp1eoStwuroHxn7_33.851512_-118.143466@1303263194"
+    "wof:brand_id": 420573805,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "atp:id": "xW8sHyDSjICCFyOwYwRj2b4Ma8U",
+      "sg:id": "SG_15I2GBkTp1eoStwuroHxn7_33.851512_-118.143466@1303263194"
     },
-    "wof:country":"US",
-    "wof:geomhash":"d1078e029c41abb357c3b84c105152ac",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923557,
-            "neighbourhood_id":85886243,
-            "region_id":85688637,
-            "venue_id":403876325
-        }
+    "wof:country": "US",
+    "wof:created": 1723562481,
+    "wof:geomhash": "d1078e029c41abb357c3b84c105152ac",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923557,
+        "neighbourhood_id": 85886243,
+        "region_id": 85688637,
+        "venue_id": 403876325
+      }
     ],
-    "wof:id":403876325,
-    "wof:lastmodified":1512142709,
-    "wof:name":"CVS Pharmacy",
-    "wof:parent_id":85886243,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "drugstore"
+    "wof:id": 403876325,
+    "wof:lastmodified": 1723562481,
+    "wof:name": "CVS Pharmacy",
+    "wof:parent_id": 85886243,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "drugstore"
     ]
-},
+  },
   "bbox": [
     -118.143466,
     33.851512,
     -118.143466,
     33.851512
-],
+  ],
   "geometry": {"coordinates":[-118.143466,33.851512],"type":"Point"}
 }
