@@ -2,84 +2,88 @@
   "id": 370775813,
   "type": "Feature",
   "properties": {
-    "addr:city":"San Jacinto",
-    "addr:full":"181 E Main St San Jacinto, Ca 92583",
-    "addr:house_number":"181",
-    "addr:housenumber":"181",
-    "addr:phone":"+1 951-654-4952",
-    "addr:postcode":"92583",
-    "addr:road":"E Main St",
-    "addr:state":"CA",
-    "addr:street":"E Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-116.95822,33.7839,-116.95822,33.7839",
-    "geom:latitude":33.7839,
-    "geom:longitude":-116.95822,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"181 E Main St",
-    "sg:city":"San Jacinto",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "San Jacinto",
+    "addr:full": "181 E Main St San Jacinto, Ca 92583",
+    "addr:house_number": "181",
+    "addr:housenumber": "181",
+    "addr:phone": "+1 951-654-4952",
+    "addr:postcode": "92583",
+    "addr:road": "E Main St",
+    "addr:state": "CA",
+    "addr:street": "E Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-116.958220,33.783900,-116.958220,33.783900",
+    "geom:latitude": 33.7839,
+    "geom:longitude": -116.95822,
+    "ilms:label": "SAN JACINTO MUNICIPAL MUSEUM, 181 E MAIN ST SAN JACINTO CA 92583",
+    "ilms:similarity": 1.9130439758300781,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "181 E Main St",
+    "sg:city": "San Jacinto",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 951 654 4952",
-    "sg:postcode":"92583",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102529617,
-        102532555
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 951 654 4952",
+    "sg:postcode": "92583",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102529617,
+      102532555
     ],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923401,
-        102086221,
-        85817611
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923401,
+      102086221,
+      85817611
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600136,
-        "sg:id":"SG_1MTw2AfZgNNqxSTt0i8643_33.783981_-116.958655@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600136,
+      "mudf:mid": 8400600136,
+      "sg:id": "SG_1MTw2AfZgNNqxSTt0i8643_33.783981_-116.958655@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"65bbe2c808c1bfc5d21fdd63be78b2f2",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102086221,
-            "locality_id":85923401,
-            "neighbourhood_id":85817611,
-            "region_id":85688637,
-            "venue_id":370775813
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "65bbe2c808c1bfc5d21fdd63be78b2f2",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102086221,
+        "locality_id": 85923401,
+        "neighbourhood_id": 85817611,
+        "region_id": 85688637,
+        "venue_id": 370775813
+      }
     ],
-    "wof:id":370775813,
-    "wof:lastmodified":1533149824,
-    "wof:name":"San Jacinto Municipal Museum",
-    "wof:parent_id":85817611,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 370775813,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "San Jacinto Municipal Museum",
+    "wof:parent_id": 85817611,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -116.95822,
     33.7839,
     -116.95822,
     33.7839
-],
+  ],
   "geometry": {"coordinates":[-116.95822,33.7839],"type":"Point"}
 }

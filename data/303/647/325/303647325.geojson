@@ -2,82 +2,86 @@
   "id": 303647325,
   "type": "Feature",
   "properties": {
-    "addr:city":"Ukiah",
-    "addr:full":"431 S Main St Ukiah, Ca 95482",
-    "addr:house_number":"431",
-    "addr:housenumber":"431",
-    "addr:phone":"+1 707-467-2836",
-    "addr:postcode":"95482",
-    "addr:road":"S Main St",
-    "addr:state":"CA",
-    "addr:street":"S Main St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-123.20575,39.14704,-123.20575,39.14704",
-    "geom:latitude":39.14704,
-    "geom:longitude":-123.20575,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"431 S Main St",
-    "sg:city":"Ukiah",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Ukiah",
+    "addr:full": "431 S Main St Ukiah, Ca 95482",
+    "addr:house_number": "431",
+    "addr:housenumber": "431",
+    "addr:phone": "+1 707-467-2836",
+    "addr:postcode": "95482",
+    "addr:road": "S Main St",
+    "addr:state": "CA",
+    "addr:street": "S Main St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-123.205750,39.147040,-123.205750,39.147040",
+    "geom:latitude": 39.14704,
+    "geom:longitude": -123.20575,
+    "ilms:label": "GRACE HUDSON MUSEUM-SUN HOUSE, 431 S MAIN ST UKIAH CA 95482",
+    "ilms:similarity": 0.899869978427887,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "431 S Main St",
+    "sg:city": "Ukiah",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 707 467 2836",
-    "sg:postcode":"95482",
-    "sg:province":"CA",
-    "sg:website":"www.gracehudsonmuseum.org",
-    "src:geom":"mudf",
-    "wof:airports":[],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922569,
-        102082885,
-        85888155
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 707 467 2836",
+    "sg:postcode": "95482",
+    "sg:province": "CA",
+    "sg:website": "www.gracehudsonmuseum.org",
+    "src:geom": "mudf",
+    "wof:airports": [],
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922569,
+      102082885,
+      85888155
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600439,
-        "sg:id":"SG_0JOniGNnjX1dBB3aQesnfj_39.147878_-123.206014@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600439,
+      "mudf:mid": 8400600439,
+      "sg:id": "SG_0JOniGNnjX1dBB3aQesnfj_39.147878_-123.206014@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f693e06adc158bf7581536637d44c740",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102082885,
-            "locality_id":85922569,
-            "neighbourhood_id":85888155,
-            "region_id":85688637,
-            "venue_id":303647325
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "f693e06adc158bf7581536637d44c740",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102082885,
+        "locality_id": 85922569,
+        "neighbourhood_id": 85888155,
+        "region_id": 85688637,
+        "venue_id": 303647325
+      }
     ],
-    "wof:id":303647325,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Grace Hudson Museum-Sun House",
-    "wof:parent_id":85888155,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 303647325,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Grace Hudson Museum-Sun House",
+    "wof:parent_id": 85888155,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -123.20575,
     39.14704,
     -123.20575,
     39.14704
-],
-  "geometry": {"coordinates":[-123.20574999999999,39.14704],"type":"Point"}
+  ],
+  "geometry": {"coordinates":[-123.20575,39.14704],"type":"Point"}
 }

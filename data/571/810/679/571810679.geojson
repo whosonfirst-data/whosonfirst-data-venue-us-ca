@@ -2,83 +2,87 @@
   "id": 571810679,
   "type": "Feature",
   "properties": {
-    "addr:city":"Paradise",
-    "addr:full":"502 Pearson Rd Paradise, Ca 95967",
-    "addr:house_number":"502",
-    "addr:housenumber":"502",
-    "addr:phone":"+1 530-872-8722",
-    "addr:postcode":"95967",
-    "addr:road":"Pearson Rd",
-    "addr:state":"CA",
-    "addr:street":"Pearson Rd",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.61492,39.75148,-121.61492,39.75148",
-    "geom:latitude":39.75148,
-    "geom:longitude":-121.61492,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"502 Pearson Rd",
-    "sg:city":"Paradise",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Paradise",
+    "addr:full": "502 Pearson Rd Paradise, Ca 95967",
+    "addr:house_number": "502",
+    "addr:housenumber": "502",
+    "addr:phone": "+1 530-872-8722",
+    "addr:postcode": "95967",
+    "addr:road": "Pearson Rd",
+    "addr:state": "CA",
+    "addr:street": "Pearson Rd",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.614920,39.751480,-121.614920,39.751480",
+    "geom:latitude": 39.75148,
+    "geom:longitude": -121.61492,
+    "ilms:label": "GOLD NUGGET MUSEUM, 502 PEARSON RD PARADISE CA 95967",
+    "ilms:similarity": 1.5066779851913452,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "502 Pearson Rd",
+    "sg:city": "Paradise",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 530 872 8722",
-    "sg:postcode":"95969",
-    "sg:province":"CA",
-    "sg:website":"www.goldnuggetmuseum.com",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102531399
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 530 872 8722",
+    "sg:postcode": "95969",
+    "sg:province": "CA",
+    "sg:website": "www.goldnuggetmuseum.com",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102531399
     ],
-    "wof:belongsto":[
-        85851079,
-        85633793,
-        85923179,
-        102086941,
-        85688637
+    "wof:belongsto": [
+      85851079,
+      85633793,
+      85923179,
+      102086941,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600456,
-        "sg:id":"SG_7I62CNVFvd4MCZROP7fuR6_39.752134_-121.615082@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600456,
+      "mudf:mid": 8400600456,
+      "sg:id": "SG_7I62CNVFvd4MCZROP7fuR6_39.752134_-121.615082@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"24ad603932e2afa0ca5d2cf09f37c863",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086941,
-            "locality_id":85923179,
-            "neighbourhood_id":85851079,
-            "region_id":85688637,
-            "venue_id":571810679
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "24ad603932e2afa0ca5d2cf09f37c863",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633793,
+        "county_id": 102086941,
+        "locality_id": 85923179,
+        "neighbourhood_id": 85851079,
+        "region_id": 85688637,
+        "venue_id": 571810679
+      }
     ],
-    "wof:id":571810679,
-    "wof:lastmodified":1533149824,
-    "wof:name":"Gold Nugget Museum",
-    "wof:parent_id":85851079,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571810679,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Gold Nugget Museum",
+    "wof:parent_id": 85851079,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.61492,
     39.75148,
     -121.61492,
     39.75148
-],
+  ],
   "geometry": {"coordinates":[-121.61492,39.75148],"type":"Point"}
 }

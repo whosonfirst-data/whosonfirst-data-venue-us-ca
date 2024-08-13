@@ -2,92 +2,96 @@
   "id": 588387957,
   "type": "Feature",
   "properties": {
-    "addr:city":"San Francisco",
-    "addr:full":"2007 Franklin St San Francisco, Ca 94109-2909",
-    "addr:house_number":"2007",
-    "addr:housenumber":"2007",
-    "addr:phone":"+1 415-441-3000",
-    "addr:postcode":"94109-2909",
-    "addr:road":"Franklin St",
-    "addr:state":"CA",
-    "addr:street":"Franklin St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.42461,37.79288,-122.42461,37.79288",
-    "geom:latitude":37.79288,
-    "geom:longitude":-122.42461,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2007 Franklin St",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Organizations",
-            "subcategory":"Non-profit Organization",
-            "type":"Services"
-        }
+    "addr:city": "San Francisco",
+    "addr:full": "2007 Franklin St San Francisco, Ca 94109-2909",
+    "addr:house_number": "2007",
+    "addr:housenumber": "2007",
+    "addr:phone": "+1 415-441-3000",
+    "addr:postcode": "94109-2909",
+    "addr:road": "Franklin St",
+    "addr:state": "CA",
+    "addr:street": "Franklin St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.424610,37.792880,-122.424610,37.792880",
+    "geom:latitude": 37.79288,
+    "geom:longitude": -122.42461,
+    "ilms:label": "SAN FRANCISCO ARCHITECTURAL HERITAGE, 2007 FRANKLIN ST SAN FRANCISCO CA 94109-2909",
+    "ilms:similarity": 1.6756930351257324,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2007 Franklin St",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Organizations",
+        "subcategory": "Non-profit Organization",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 415 441 3000",
-    "sg:postcode":"94109",
-    "sg:province":"CA",
-    "sg:tags":[
-        "service/non-profit",
-        "community"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 415 441 3000",
+    "sg:postcode": "94109",
+    "sg:province": "CA",
+    "sg:tags": [
+      "service/non-profit",
+      "community"
     ],
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527513,
-        102531041
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527513,
+      102531041
     ],
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85865909
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85865909
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600884,
-        "sg:id":"SG_6b222LZZL0Z59NptGrlFgM_37.792943_-122.424558@1303263315"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600884,
+      "mudf:mid": 8400600884,
+      "sg:id": "SG_6b222LZZL0Z59NptGrlFgM_37.792943_-122.424558@1303263315"
     },
-    "wof:country":"US",
-    "wof:geomhash":"f59bb29f532b6a6745a442a916da6733",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":85865909,
-            "region_id":85688637,
-            "venue_id":588387957
-        }
+    "wof:country": "US",
+    "wof:created": 1723585389,
+    "wof:geomhash": "f59bb29f532b6a6745a442a916da6733",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": 85865909,
+        "region_id": 85688637,
+        "venue_id": 588387957
+      }
     ],
-    "wof:id":588387957,
-    "wof:lastmodified":1533149825,
-    "wof:name":"San Francisco Architectural Heritage",
-    "wof:parent_id":85865909,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "service/non-profit",
-        "community"
+    "wof:id": 588387957,
+    "wof:lastmodified": 1723585389,
+    "wof:name": "San Francisco Architectural Heritage",
+    "wof:parent_id": 85865909,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "service/non-profit",
+      "community"
     ]
-},
+  },
   "bbox": [
     -122.42461,
     37.79288,
     -122.42461,
     37.79288
-],
+  ],
   "geometry": {"coordinates":[-122.42461,37.79288],"type":"Point"}
 }

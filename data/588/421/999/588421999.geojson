@@ -2,89 +2,93 @@
   "id": 588421999,
   "type": "Feature",
   "properties": {
-    "addr:city":"San Francisco",
-    "addr:full":"540 Broadway San Francisco, Ca 94133",
-    "addr:house_number":"540",
-    "addr:housenumber":"540",
-    "addr:phone":"+1 415-399-9626",
-    "addr:postcode":"94133",
-    "addr:road":"Broadway",
-    "addr:state":"CA",
-    "addr:street":"Broadway",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.40599,37.79804,-122.40599,37.79804",
-    "geom:latitude":37.79804,
-    "geom:longitude":-122.40599,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"540 Broadway",
-    "sg:city":"San Francisco",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "San Francisco",
+    "addr:full": "540 Broadway San Francisco, Ca 94133",
+    "addr:house_number": "540",
+    "addr:housenumber": "540",
+    "addr:phone": "+1 415-399-9626",
+    "addr:postcode": "94133",
+    "addr:road": "Broadway",
+    "addr:state": "CA",
+    "addr:street": "Broadway",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.405990,37.798040,-122.405990,37.798040",
+    "geom:latitude": 37.79804,
+    "geom:longitude": -122.40599,
+    "ilms:label": "BEAT MUSEUM, 540 BROADWAY SAN FRANCISCO CA 94133",
+    "ilms:similarity": 1.543573021888733,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "540 Broadway",
+    "sg:city": "San Francisco",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 800 537 6822",
-    "sg:postcode":"94133",
-    "sg:province":"CA",
-    "sg:website":"www.thebeatmuseum.org/",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527513,
-        102531041
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 800 537 6822",
+    "sg:postcode": "94133",
+    "sg:province": "CA",
+    "sg:website": "www.thebeatmuseum.org/",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527513,
+      102531041
     ],
-    "wof:belongsto":[
-        1108831957,
-        85837317,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        85688637
+    "wof:belongsto": [
+      1108831957,
+      85837317,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600612,
-        "sfgov_rbl:id":"0400999-01-001",
-        "sg:id":"SG_0EaMWe8QFlXRk3f9DSgNvZ_37.798235_-122.406158@1303263324"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600612,
+      "mudf:mid": 8400600612,
+      "sfgov_rbl:id": "0400999-01-001",
+      "sg:id": "SG_0EaMWe8QFlXRk3f9DSgNvZ_37.798235_-122.406158@1303263324"
     },
-    "wof:country":"US",
-    "wof:geomhash":"be079beaf20d95628c6d818992647de5",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "microhood_id":1108831957,
-            "neighbourhood_id":85837317,
-            "region_id":85688637,
-            "venue_id":588421999
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "be079beaf20d95628c6d818992647de5",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "microhood_id": 1108831957,
+        "neighbourhood_id": 85837317,
+        "region_id": 85688637,
+        "venue_id": 588421999
+      }
     ],
-    "wof:id":588421999,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Beat Museum",
-    "wof:parent_id":1108831957,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 588421999,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Beat Museum",
+    "wof:parent_id": 1108831957,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -122.40599,
     37.79804,
     -122.40599,
     37.79804
-],
+  ],
   "geometry": {"coordinates":[-122.40599,37.79804],"type":"Point"}
 }

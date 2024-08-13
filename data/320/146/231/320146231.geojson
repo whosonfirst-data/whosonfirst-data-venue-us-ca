@@ -2,82 +2,86 @@
   "id": 320146231,
   "type": "Feature",
   "properties": {
-    "addr:city":"Gustine",
-    "addr:full":"397 4Th St Gustine, Ca 95322",
-    "addr:house_number":"397",
-    "addr:housenumber":"397",
-    "addr:phone":"+1 209-854-2344",
-    "addr:postcode":"95322",
-    "addr:road":"4Th St",
-    "addr:state":"CA",
-    "addr:street":"4Th St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-121.00582,37.25247,-121.00582,37.25247",
-    "geom:latitude":37.25247,
-    "geom:longitude":-121.00582,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"397 4th St",
-    "sg:city":"Gustine",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Gustine",
+    "addr:full": "397 4Th St Gustine, Ca 95322",
+    "addr:house_number": "397",
+    "addr:housenumber": "397",
+    "addr:phone": "+1 209-854-2344",
+    "addr:postcode": "95322",
+    "addr:road": "4Th St",
+    "addr:state": "CA",
+    "addr:street": "4Th St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-121.005820,37.252470,-121.005820,37.252470",
+    "geom:latitude": 37.25247,
+    "geom:longitude": -121.00582,
+    "ilms:label": "GUSTINE MUSEUM, 397 4TH ST GUSTINE CA 95322",
+    "ilms:similarity": 1.8249520063400269,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "397 4th St",
+    "sg:city": "Gustine",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 854 2344",
-    "sg:postcode":"95322",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102533757
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 854 2344",
+    "sg:postcode": "95322",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102533757
     ],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85921841,
-        102087591
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85921841,
+      102087591
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600411,
-        "sg:id":"SG_0qR1vWZS6DxXYEwZuYZ9Ux_37.257534_-120.998749@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600411,
+      "mudf:mid": 8400600411,
+      "sg:id": "SG_0qR1vWZS6DxXYEwZuYZ9Ux_37.257534_-120.998749@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"b00cf315752c26cc6beb9b5e5adb4c1c",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102087591,
-            "locality_id":85921841,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":320146231
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "b00cf315752c26cc6beb9b5e5adb4c1c",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102087591,
+        "locality_id": 85921841,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 320146231
+      }
     ],
-    "wof:id":320146231,
-    "wof:lastmodified":1533149827,
-    "wof:name":"Gustine Museum",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 320146231,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Gustine Museum",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -121.00582,
     37.25247,
     -121.00582,
     37.25247
-],
+  ],
   "geometry": {"coordinates":[-121.00582,37.25247],"type":"Point"}
 }

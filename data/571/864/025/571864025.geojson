@@ -2,84 +2,88 @@
   "id": 571864025,
   "type": "Feature",
   "properties": {
-    "addr:city":"Carlsbad",
-    "addr:full":"2787 State St Carlsbad, Ca 92008",
-    "addr:house_number":"2787",
-    "addr:housenumber":"2787",
-    "addr:phone":"+1 760-720-0737",
-    "addr:postcode":"92008",
-    "addr:road":"State St",
-    "addr:state":"CA",
-    "addr:street":"State St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-117.3506,33.16175,-117.3506,33.16175",
-    "geom:latitude":33.16175,
-    "geom:longitude":-117.3506,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2787 State St",
-    "sg:city":"Carlsbad",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Carlsbad",
+    "addr:full": "2787 State St Carlsbad, Ca 92008",
+    "addr:house_number": "2787",
+    "addr:housenumber": "2787",
+    "addr:phone": "+1 760-720-0737",
+    "addr:postcode": "92008",
+    "addr:road": "State St",
+    "addr:state": "CA",
+    "addr:street": "State St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-117.350600,33.161750,-117.350600,33.161750",
+    "geom:latitude": 33.16175,
+    "geom:longitude": -117.3506,
+    "ilms:label": "CHILDREN'S DISCOVERY MUSEUM, 2787 STATE ST CARLSBAD CA 92008",
+    "ilms:similarity": 1.425955057144165,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2787 State St",
+    "sg:city": "Carlsbad",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 760 720 0737",
-    "sg:postcode":"92008",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527193
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 760 720 0737",
+    "sg:postcode": "92008",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527193
     ],
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85922291,
-        102083569,
-        85885765
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85922291,
+      102083569,
+      85885765
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400600510,
-        "sg:id":"SG_29KtiaF7hpPxKxGMymHNMP_33.162265_-117.350980@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400600510,
+      "mudf:mid": 8400600510,
+      "sg:id": "SG_29KtiaF7hpPxKxGMymHNMP_33.162265_-117.350980@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3de9df811efeeb84e2f38fd0eceb195c",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102083569,
-            "locality_id":85922291,
-            "neighbourhood_id":85885765,
-            "region_id":85688637,
-            "venue_id":571864025
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "3de9df811efeeb84e2f38fd0eceb195c",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102083569,
+        "locality_id": 85922291,
+        "neighbourhood_id": 85885765,
+        "region_id": 85688637,
+        "venue_id": 571864025
+      }
     ],
-    "wof:id":571864025,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Children'S Discovery Museum",
-    "wof:parent_id":85885765,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 571864025,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Children'S Discovery Museum",
+    "wof:parent_id": 85885765,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -117.3506,
     33.16175,
     -117.3506,
     33.16175
-],
+  ],
   "geometry": {"coordinates":[-117.3506,33.16175],"type":"Point"}
 }

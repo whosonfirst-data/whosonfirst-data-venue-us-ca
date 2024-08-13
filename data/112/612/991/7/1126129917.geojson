@@ -2,92 +2,94 @@
   "id": 1126129917,
   "type": "Feature",
   "properties": {
-    "addr:city":"Los Angeles",
-    "addr:full":"1200 Getty Center Dr Los Angeles, Ca 90049-1657",
-    "addr:house_number":"1200",
-    "addr:housenumber":1200,
-    "addr:phone":"+1 310-440-7300",
-    "addr:postcode":"90049-1657",
-    "addr:road":"Getty Center Dr",
-    "addr:state":"CA",
-    "addr:street":"N Getty Center Dr",
-    "addr:unit":"Suite 100",
-    "addr:website":"http://www.getty.edu/visit/center/",
-    "date:inception_lower":"1997-01-01",
-    "date:inception_upper":"1997-12-31",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1997",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.4744,34.07904,-118.4744,34.07904",
-    "geom:latitude":34.07904,
-    "geom:longitude":-118.4744,
-    "iso:country":"US",
-    "mz:categories":[
-        "do_and_see:fun=museum"
+    "addr:city": "Los Angeles",
+    "addr:full": "1200 Getty Center Dr Los Angeles, Ca 90049-1657",
+    "addr:house_number": "1200",
+    "addr:housenumber": 1200,
+    "addr:phone": "+1 310-440-7300",
+    "addr:postcode": "90049-1657",
+    "addr:road": "Getty Center Dr",
+    "addr:state": "CA",
+    "addr:street": "N Getty Center Dr",
+    "addr:unit": "Suite 100",
+    "addr:website": "http://www.getty.edu/visit/center/",
+    "date:inception_lower": "1997-01-01",
+    "date:inception_upper": "1997-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1997",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.474400,34.079040,-118.474400,34.079040",
+    "geom:latitude": 34.07904,
+    "geom:longitude": -118.4744,
+    "ilms:label": "GETTY MUSEUM, 1200 GETTY CENTER DR LOS ANGELES CA 90049-1657",
+    "ilms:similarity": 1.781810998916626,
+    "iso:country": "US",
+    "mz:categories": [
+      "do_and_see:fun=museum"
     ],
-    "mz:hierarchy_label":1,
-    "mz:hours":{},
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "name:eng_x_preferred":[
-        "Getty Center"
+    "mz:hierarchy_label": 1,
+    "mz:hours": {},
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "name:eng_x_preferred": [
+      "Getty Center"
     ],
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527521,
-        102527917,
-        102532771,
-        102533795
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527521,
+      102527917,
+      102532771,
+      102533795
     ],
-    "wof:belongsto":[
-        "85807211",
-        102191575,
-        1108692797,
-        85633793,
-        85923517,
-        102086957,
-        85688637,
-        85807211
+    "wof:belongsto": [
+      102191575,
+      1108692797,
+      85633793,
+      85923517,
+      102086957,
+      85688637,
+      85807211
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400602588,
-        "wk:page":"https://en.wikipedia.org/wiki/Getty_Center"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400602588,
+      "mudf:mid": 8400602588,
+      "wk:page": "https://en.wikipedia.org/wiki/Getty_Center"
     },
-    "wof:country":"US",
-    "wof:created":1498502378,
-    "wof:geomhash":"c8b912dad733898cc7bbb986c1efdc32",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923517,
-            "macrohood_id":1108692797,
-            "neighbourhood_id":"85807211",
-            "region_id":85688637,
-            "venue_id":1126129917
-        }
+    "wof:country": "US",
+    "wof:created": 1498502378,
+    "wof:geomhash": "c8b912dad733898cc7bbb986c1efdc32",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923517,
+        "macrohood_id": 1108692797,
+        "neighbourhood_id": 85807211,
+        "region_id": 85688637,
+        "venue_id": 1126129917
+      }
     ],
-    "wof:id":1126129917,
-    "wof:lastmodified":1533149826,
-    "wof:name":"Getty Museum",
-    "wof:parent_id":85807211,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "getty",
-        "museum"
+    "wof:id": 1126129917,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Getty Museum",
+    "wof:parent_id": 85807211,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "getty",
+      "museum"
     ]
-},
+  },
   "bbox": [
     -118.4744,
     34.07904,
     -118.4744,
     34.07904
-],
+  ],
   "geometry": {"coordinates":[-118.4744,34.07904],"type":"Point"}
 }

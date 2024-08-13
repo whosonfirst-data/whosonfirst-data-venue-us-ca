@@ -2,83 +2,87 @@
   "id": 253442667,
   "type": "Feature",
   "properties": {
-    "addr:city":"Fresno",
-    "addr:full":"2233 N 1St St Fresno, Ca 93703-2364",
-    "addr:house_number":"2233",
-    "addr:housenumber":"2233",
-    "addr:phone":"+1 559-441-4221",
-    "addr:postcode":"93703-2364",
-    "addr:road":"N 1St St",
-    "addr:state":"CA",
-    "addr:street":"N 1St St",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.77262,36.77075,-119.77262,36.77075",
-    "geom:latitude":36.77075,
-    "geom:longitude":-119.77262,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"2233 N 1st St",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Fresno",
+    "addr:full": "2233 N 1St St Fresno, Ca 93703-2364",
+    "addr:house_number": "2233",
+    "addr:housenumber": "2233",
+    "addr:phone": "+1 559-441-4221",
+    "addr:postcode": "93703-2364",
+    "addr:road": "N 1St St",
+    "addr:state": "CA",
+    "addr:street": "N 1St St",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.772620,36.770750,-119.772620,36.770750",
+    "geom:latitude": 36.77075,
+    "geom:longitude": -119.77262,
+    "ilms:label": "FRESNO ART MUSEUM, 2233 N 1ST ST FRESNO CA 93703-2364",
+    "ilms:similarity": 1.6382720470428467,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "2233 N 1st St",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 441 4220",
-    "sg:postcode":"93703",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102530717
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 441 4220",
+    "sg:postcode": "93703",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102530717
     ],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85922995,
-        102084347,
-        85823723
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85922995,
+      102084347,
+      85823723
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400602212,
-        "sg:id":"SG_3AGmj5oEO121xO29FXdTts_36.771984_-119.772601@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400602212,
+      "mudf:mid": 8400602212,
+      "sg:id": "SG_3AGmj5oEO121xO29FXdTts_36.771984_-119.772601@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"467d9ec0a9028f0a63896d829c45246e",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102084347,
-            "locality_id":85922995,
-            "neighbourhood_id":85823723,
-            "region_id":85688637,
-            "venue_id":253442667
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "467d9ec0a9028f0a63896d829c45246e",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102084347,
+        "locality_id": 85922995,
+        "neighbourhood_id": 85823723,
+        "region_id": 85688637,
+        "venue_id": 253442667
+      }
     ],
-    "wof:id":253442667,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Fresno Art Museum",
-    "wof:parent_id":85823723,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 253442667,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Fresno Art Museum",
+    "wof:parent_id": 85823723,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -119.77262,
     36.77075,
     -119.77262,
     36.77075
-],
+  ],
   "geometry": {"coordinates":[-119.77262,36.77075],"type":"Point"}
 }

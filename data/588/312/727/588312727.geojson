@@ -2,70 +2,76 @@
   "id": 588312727,
   "type": "Feature",
   "properties": {
-    "addr:city":"Santa Maria",
-    "addr:full":"3015 Airpark Dr Santa Maria, Ca 93455-1821",
-    "addr:house_number":"3015",
-    "addr:housenumber":"3015",
-    "addr:phone":"+1 805-922-8758",
-    "addr:postcode":"93455-1821",
-    "addr:road":"Airpark Dr",
-    "addr:state":"CA",
-    "addr:street":"Airpark Dr",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.4517,34.9032,-120.4517,34.9032",
-    "geom:latitude":34.9032,
-    "geom:longitude":-120.4517,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"3015 Airpark Dr",
-    "sg:city":"Santa Maria",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Santa Maria",
+    "addr:full": "3015 Airpark Dr Santa Maria, Ca 93455-1821",
+    "addr:house_number": "3015",
+    "addr:housenumber": "3015",
+    "addr:phone": "+1 805-922-8758",
+    "addr:postcode": "93455-1821",
+    "addr:road": "Airpark Dr",
+    "addr:state": "CA",
+    "addr:street": "Airpark Dr",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.451700,34.903200,-120.451700,34.903200",
+    "geom:latitude": 34.9032,
+    "geom:longitude": -120.4517,
+    "ilms:label": "SANTA MARIA MUSEUM OF FLIGHT, 3015 AIRPARK DR SANTA MARIA CA 93455-1821",
+    "ilms:similarity": 1.2315560579299927,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "3015 Airpark Dr",
+    "sg:city": "Santa Maria",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 805 922 8758",
-    "sg:postcode":"93455",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527447,
-        102527841
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 805 922 8758",
+    "sg:postcode": "93455",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527447,
+      102527841
     ],
-    "wof:belongsto":[
-        420552455
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400601883,
-        "sg:id":"SG_6iLPaaFT6GsLdlqFbnYPbT_34.901001_-120.447998@1303263296"
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400601883,
+      "mudf:mid": 8400601883,
+      "sg:id": "SG_6iLPaaFT6GsLdlqFbnYPbT_34.901001_-120.447998@1303263296"
     },
-    "wof:country":"US",
-    "wof:geomhash":"666185d259b101f1262775c3e85c0221",
-    "wof:hierarchy":[],
-    "wof:id":588312727,
-    "wof:lastmodified":1533149825,
-    "wof:name":"Santa Maria Museum Of Flight",
-    "wof:parent_id":420552455,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "666185d259b101f1262775c3e85c0221",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588312727
+      }
+    ],
+    "wof:id": 588312727,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "Santa Maria Museum Of Flight",
+    "wof:parent_id": 420552455,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -120.4517,
     34.9032,
     -120.4517,
     34.9032
-],
+  ],
   "geometry": {"coordinates":[-120.4517,34.9032],"type":"Point"}
 }

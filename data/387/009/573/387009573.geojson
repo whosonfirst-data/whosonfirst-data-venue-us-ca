@@ -2,83 +2,87 @@
   "id": 387009573,
   "type": "Feature",
   "properties": {
-    "addr:city":"Bakersfield",
-    "addr:full":"10500 Alfred Harrell Hwy Bakersfield, Ca 93306",
-    "addr:house_number":"10500",
-    "addr:housenumber":"10500",
-    "addr:phone":"+1 661-872-2256",
-    "addr:postcode":"93306",
-    "addr:road":"Alfred Harrell Hwy",
-    "addr:state":"CA",
-    "addr:street":"Alfred Harrell Hwy",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.90304,35.44243,-118.90304,35.44243",
-    "geom:latitude":35.44243,
-    "geom:longitude":-118.90304,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"10500 Alfred Harrell Hwy",
-    "sg:city":"Bakersfield",
-    "sg:classifiers":[
-        {
-            "category":"Museum",
-            "subcategory":"",
-            "type":"Entertainment"
-        }
+    "addr:city": "Bakersfield",
+    "addr:full": "10500 Alfred Harrell Hwy Bakersfield, Ca 93306",
+    "addr:house_number": "10500",
+    "addr:housenumber": "10500",
+    "addr:phone": "+1 661-872-2256",
+    "addr:postcode": "93306",
+    "addr:road": "Alfred Harrell Hwy",
+    "addr:state": "CA",
+    "addr:street": "Alfred Harrell Hwy",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.903040,35.442430,-118.903040,35.442430",
+    "geom:latitude": 35.44243,
+    "geom:longitude": -118.90304,
+    "ilms:label": "CALIFORNIA LIVING MUSEUM (CALM), 10500 ALFRED HARRELL HWY BAKERSFIELD CA 93306",
+    "ilms:similarity": 1.112568974494934,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "10500 Alfred Harrell Hwy",
+    "sg:city": "Bakersfield",
+    "sg:classifiers": [
+      {
+        "category": "Museum",
+        "subcategory": "",
+        "type": "Entertainment"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 661 872 2256",
-    "sg:postcode":"93308",
-    "sg:province":"CA",
-    "src:geom":"mudf",
-    "wof:airports":[
-        102527035
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 661 872 2256",
+    "sg:postcode": "93308",
+    "sg:province": "CA",
+    "src:geom": "mudf",
+    "wof:airports": [
+      102527035
     ],
-    "wof:belongsto":[
-        85688637,
-        85633793,
-        85923307,
-        102081727,
-        85867325
+    "wof:belongsto": [
+      85688637,
+      85633793,
+      85923307,
+      102081727,
+      85867325
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "mudf:mid":8400602899,
-        "sg:id":"SG_3fikafQc0t5OIwQ0DZYwcd_35.433350_-118.896483@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "ilms:mid": 8400602899,
+      "mudf:mid": 8400602899,
+      "sg:id": "SG_3fikafQc0t5OIwQ0DZYwcd_35.433350_-118.896483@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"332c508996de1fbe4e2beb7dbb29bb57",
-    "wof:hierarchy":[
-        {
-            "continent_id":-1,
-            "country_id":85633793,
-            "county_id":102081727,
-            "locality_id":85923307,
-            "neighbourhood_id":85867325,
-            "region_id":85688637,
-            "venue_id":387009573
-        }
+    "wof:country": "US",
+    "wof:created": 1723585388,
+    "wof:geomhash": "332c508996de1fbe4e2beb7dbb29bb57",
+    "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": 85633793,
+        "county_id": 102081727,
+        "locality_id": 85923307,
+        "neighbourhood_id": 85867325,
+        "region_id": 85688637,
+        "venue_id": 387009573
+      }
     ],
-    "wof:id":387009573,
-    "wof:lastmodified":1533149829,
-    "wof:name":"California Living Museum (Calm)",
-    "wof:parent_id":85867325,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 387009573,
+    "wof:lastmodified": 1723585388,
+    "wof:name": "California Living Museum (Calm)",
+    "wof:parent_id": 85867325,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
     -118.90304,
     35.44243,
     -118.90304,
     35.44243
-],
+  ],
   "geometry": {"coordinates":[-118.90304,35.44243],"type":"Point"}
 }
