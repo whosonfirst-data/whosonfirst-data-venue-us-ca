@@ -2,90 +2,93 @@
   "id": 572202667,
   "type": "Feature",
   "properties": {
-    "addr:full":"1147 3rd St Santa Monica CA 90403",
-    "addr:housenumber":1147,
-    "addr:phone":"310-451-0843",
-    "addr:postcode":"90403",
-    "addr:street":"3Rd St",
-    "addr:website":"http://www.michaelssantamonica.com/",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"1979",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-118.500085,34.019081,-118.500085,34.019081",
-    "geom:latitude":34.019081,
-    "geom:longitude":-118.500085,
-    "iso:country":"US",
-    "mz:categories":[
-        "eat_and_drink:eat=restaurant"
+    "addr:full": "1147 3rd St Santa Monica CA 90403",
+    "addr:housenumber": 1147,
+    "addr:phone": "310-451-0843",
+    "addr:postcode": "90403",
+    "addr:street": "3Rd St",
+    "addr:website": "http://www.michaelssantamonica.com/",
+    "date:inception_lower": "1979-01-01",
+    "date:inception_upper": "1979-12-31",
+    "edtf:cessation": "",
+    "edtf:inception": "1979",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-118.500085,34.019081,-118.500085,34.019081",
+    "geom:latitude": 34.019081,
+    "geom:longitude": -118.500085,
+    "iso:country": "US",
+    "mz:categories": [
+      "eat_and_drink:eat=restaurant"
     ],
-    "mz:hierarchy_label":1,
-    "mz:hours":[],
-    "mz:is_current":1,
-    "mz:is_retail":-1,
-    "sg:address":"1147 3rd St",
-    "sg:city":"Santa Monica",
-    "sg:classifiers":[
-        {
-            "category":"Restaurant",
-            "subcategory":"",
-            "type":"Food & Drink"
-        }
+    "mz:hierarchy_label": 1,
+    "mz:hours": [],
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sg:address": "1147 3rd St",
+    "sg:city": "Santa Monica",
+    "sg:classifiers": [
+      {
+        "category": "Restaurant",
+        "subcategory": "",
+        "type": "Food \u0026 Drink"
+      }
     ],
-    "sg:menulink":"http://www.allmenus.com/ca/santa-monica/252562-michaels-restaurant/menu/",
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 310 394 1843",
-    "sg:postcode":"90403",
-    "sg:province":"CA",
-    "sg:tags":[
-        "american",
-        "californian"
+    "sg:menulink": "http://www.allmenus.com/ca/santa-monica/252562-michaels-restaurant/menu/",
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 310 394 1843",
+    "sg:postcode": "90403",
+    "sg:province": "CA",
+    "sg:tags": [
+      "american",
+      "californian"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688637,
-        102191575,
-        85633793,
-        85923817,
-        102086957,
-        85880867
+    "src:geom": "simplegeo",
+    "wof:belongsto": [
+      85688637,
+      102191575,
+      85633793,
+      85923817,
+      102086957,
+      85880867
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_37DB895cQnHhhkezmh3av5_34.019024_-118.499816@1294081369"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_37DB895cQnHhhkezmh3av5_34.019024_-118.499816@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"60ff7502ece807692d2d6a86e7f8e26e",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086957,
-            "locality_id":85923817,
-            "neighbourhood_id":85880867,
-            "region_id":85688637,
-            "venue_id":572202667
-        }
+    "wof:country": "US",
+    "wof:created": 1723814859,
+    "wof:geomhash": "60ff7502ece807692d2d6a86e7f8e26e",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102086957,
+        "locality_id": 85923817,
+        "neighbourhood_id": 85880867,
+        "region_id": 85688637,
+        "venue_id": 572202667
+      }
     ],
-    "wof:id":572202667,
-    "wof:lastmodified":1509201731,
-    "wof:name":"Michael's Restaurant",
-    "wof:parent_id":85880867,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "american",
-        "californian",
-        "restaurant"
+    "wof:id": 572202667,
+    "wof:lastmodified": 1723814859,
+    "wof:name": "Michael's Restaurant",
+    "wof:parent_id": 85880867,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "american",
+      "californian",
+      "restaurant"
     ]
-},
+  },
   "bbox": [
     -118.500085,
     34.019081,
     -118.500085,
     34.019081
-],
+  ],
   "geometry": {"coordinates":[-118.500085,34.019081],"type":"Point"}
 }

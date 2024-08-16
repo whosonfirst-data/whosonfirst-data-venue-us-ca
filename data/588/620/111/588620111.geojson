@@ -2,70 +2,75 @@
   "id": 588620111,
   "type": "Feature",
   "properties": {
-    "addr:full":"800 Merced Ave Ste 600 Merced CA 95341",
-    "addr:housenumber":"800",
-    "addr:postcode":"95341",
-    "addr:street":"Merced Ave Ste 600",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.425209,37.29154,-120.425209,37.29154",
-    "geom:latitude":37.29154,
-    "geom:longitude":-120.425209,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"800 Merced Ave Ste 600",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Shopping",
-            "subcategory":"Department Store",
-            "type":"Retail Goods"
-        },
-        {
-            "category":"Professional",
-            "subcategory":"Art Services",
-            "type":"Services"
-        }
+    "addr:full": "800 Merced Ave Ste 600 Merced CA 95341",
+    "addr:housenumber": "800",
+    "addr:postcode": "95341",
+    "addr:street": "Merced Ave Ste 600",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.425209,37.291540,-120.425209,37.291540",
+    "geom:latitude": 37.29154,
+    "geom:longitude": -120.425209,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "sg:address": "800 Merced Ave Ste 600",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Shopping",
+        "subcategory": "Department Store",
+        "type": "Retail Goods"
+      },
+      {
+        "category": "Professional",
+        "subcategory": "Art Services",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 722 6500",
-    "sg:postcode":"95341",
-    "sg:province":"CA",
-    "sg:tags":[
-        "photographers-portrait"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 722 6500",
+    "sg:postcode": "95341",
+    "sg:province": "CA",
+    "sg:tags": [
+      "photographers-portrait"
     ],
-    "sg:website":"http://www.gerbic.com",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125150187,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_5AYzS07AY6jaLCWkrvKgfT_37.291540_-120.425209@1303263375"
+    "sg:website": "http://www.gerbic.com",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125150187,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_5AYzS07AY6jaLCWkrvKgfT_37.291540_-120.425209@1303263375"
     },
-    "wof:country":"US",
-    "wof:geomhash":"4588297cd09f145551773ebefe5e9ca6",
-    "wof:hierarchy":[],
-    "wof:id":588620111,
-    "wof:lastmodified":1510697300,
-    "wof:name":"Lifetouch",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "photographers-portrait"
+    "wof:country": "US",
+    "wof:created": 1723815608,
+    "wof:geomhash": "4588297cd09f145551773ebefe5e9ca6",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588620111
+      }
+    ],
+    "wof:id": 588620111,
+    "wof:lastmodified": 1723815608,
+    "wof:name": "Lifetouch",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "photographers-portrait"
     ]
-},
+  },
   "bbox": [
     -120.425209,
     37.29154,
     -120.425209,
     37.29154
-],
+  ],
   "geometry": {"coordinates":[-120.425209,37.29154],"type":"Point"}
 }

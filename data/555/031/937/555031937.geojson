@@ -2,64 +2,69 @@
   "id": 555031937,
   "type": "Feature",
   "properties": {
-    "addr:full":"1124 W Olive Ave Merced CA 95348",
-    "addr:housenumber":"1124",
-    "addr:postcode":"95348",
-    "addr:street":"W Olive Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-120.489711,37.319115,-120.489711,37.319115",
-    "geom:latitude":37.319115,
-    "geom:longitude":-120.489711,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"1124 W Olive Ave",
-    "sg:city":"Merced",
-    "sg:classifiers":[
-        {
-            "category":"Banks & Credit Unions",
-            "subcategory":"Bank",
-            "type":"Services"
-        }
+    "addr:full": "1124 W Olive Ave Merced CA 95348",
+    "addr:housenumber": "1124",
+    "addr:postcode": "95348",
+    "addr:street": "W Olive Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-120.489711,37.319115,-120.489711,37.319115",
+    "geom:latitude": 37.319115,
+    "geom:longitude": -120.489711,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "sg:address": "1124 W Olive Ave",
+    "sg:city": "Merced",
+    "sg:classifiers": [
+      {
+        "category": "Banks \u0026 Credit Unions",
+        "subcategory": "Bank",
+        "type": "Services"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 209 722 8088",
-    "sg:postcode":"95348",
-    "sg:province":"CA",
-    "sg:tags":[
-        "mortgage"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 209 722 8088",
+    "sg:postcode": "95348",
+    "sg:province": "CA",
+    "sg:tags": [
+      "mortgage"
     ],
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:brand_id":1125155009,
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_0xJbI2zMX6MehOnqE7t0By_37.319115_-120.489711@1294081369"
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:brand_id": 1125155009,
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_0xJbI2zMX6MehOnqE7t0By_37.319115_-120.489711@1294081369"
     },
-    "wof:country":"US",
-    "wof:geomhash":"3090719cb64ac4c12d9a9fd7e92a3b90",
-    "wof:hierarchy":[],
-    "wof:id":555031937,
-    "wof:lastmodified":1510699954,
-    "wof:name":"Guaranty Residential Lending",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "mortgage"
+    "wof:country": "US",
+    "wof:created": 1723814794,
+    "wof:geomhash": "3090719cb64ac4c12d9a9fd7e92a3b90",
+    "wof:hierarchy": [
+      {
+        "venue_id": 555031937
+      }
+    ],
+    "wof:id": 555031937,
+    "wof:lastmodified": 1723814794,
+    "wof:name": "Guaranty Residential Lending",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "mortgage"
     ]
-},
+  },
   "bbox": [
     -120.489711,
     37.319115,
     -120.489711,
     37.319115
-],
+  ],
   "geometry": {"coordinates":[-120.489711,37.319115],"type":"Point"}
 }

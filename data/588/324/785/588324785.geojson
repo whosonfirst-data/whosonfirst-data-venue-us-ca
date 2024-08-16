@@ -2,64 +2,69 @@
   "id": 588324785,
   "type": "Feature",
   "properties": {
-    "addr:full":"4950 N Harrison Ave Fresno CA 93704",
-    "addr:housenumber":"4950",
-    "addr:postcode":"93704",
-    "addr:street":"N Harrison Ave",
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-119.810692,36.807492,-119.810692,36.807492",
-    "geom:latitude":36.807492,
-    "geom:longitude":-119.810692,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "mz:is_retail":-1,
-    "sg:address":"4950 N Harrison Ave",
-    "sg:city":"Fresno",
-    "sg:classifiers":[
-        {
-            "category":"Education",
-            "subcategory":"School",
-            "type":"Public Place"
-        }
+    "addr:full": "4950 N Harrison Ave Fresno CA 93704",
+    "addr:housenumber": "4950",
+    "addr:postcode": "93704",
+    "addr:street": "N Harrison Ave",
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-119.810692,36.807492,-119.810692,36.807492",
+    "geom:latitude": 36.807492,
+    "geom:longitude": -119.810692,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": -1,
+    "mz:is_retail": -1,
+    "sg:address": "4950 N Harrison Ave",
+    "sg:city": "Fresno",
+    "sg:classifiers": [
+      {
+        "category": "Education",
+        "subcategory": "School",
+        "type": "Public Place"
+      }
     ],
-    "sg:owner":"simplegeo",
-    "sg:phone":"+1 559 248 7030",
-    "sg:postcode":"93704",
-    "sg:province":"CA",
-    "sg:tags":[
-        "elementary"
+    "sg:owner": "simplegeo",
+    "sg:phone": "+1 559 248 7030",
+    "sg:postcode": "93704",
+    "sg:province": "CA",
+    "sg:tags": [
+      "elementary"
     ],
-    "sg:website":"http://www.fresno.k12.ca.us",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sg:id":"SG_3xDq6VXZu6QuZAGUcyO5uf_36.807492_-119.810692@1303263299"
+    "sg:website": "http://www.fresno.k12.ca.us",
+    "src:geom": "simplegeo",
+    "wof:belongsto": [],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sg:id": "SG_3xDq6VXZu6QuZAGUcyO5uf_36.807492_-119.810692@1303263299"
     },
-    "wof:country":"US",
-    "wof:geomhash":"1885a6d2ecd2714f74f55813e7f78fb8",
-    "wof:hierarchy":[],
-    "wof:id":588324785,
-    "wof:lastmodified":1509201992,
-    "wof:name":"Bullard Talent School",
-    "wof:parent_id":-1,
-    "wof:placetype":"venue",
-    "wof:repo":"whosonfirst-data-venue-us-ca",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[
-        "elementary"
+    "wof:country": "US",
+    "wof:created": 1723814839,
+    "wof:geomhash": "1885a6d2ecd2714f74f55813e7f78fb8",
+    "wof:hierarchy": [
+      {
+        "venue_id": 588324785
+      }
+    ],
+    "wof:id": 588324785,
+    "wof:lastmodified": 1723814839,
+    "wof:name": "Bullard Talent School",
+    "wof:parent_id": -1,
+    "wof:placetype": "venue",
+    "wof:repo": "whosonfirst-data-venue-us-ca",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": [
+      "elementary"
     ]
-},
+  },
   "bbox": [
     -119.810692,
     36.807492,
     -119.810692,
     36.807492
-],
+  ],
   "geometry": {"coordinates":[-119.810692,36.807492],"type":"Point"}
 }
